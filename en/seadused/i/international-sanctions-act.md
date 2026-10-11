@@ -14,7 +14,7 @@ date: 2019-02-20
 last_amended: 2026-07-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/516062026002"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "117052025004"
 ---
@@ -203,9 +203,7 @@ Violation of international sanctions is a failure to perform an obligation or vi
 
 4\) in the case of a ban on the import and export of goods – the Tax and Customs Board;
 
-\[Repealed - RT I, 07.06.2024, 1 - entry into force 17.06.2024\]
-
-5\)
+5\) \[Repealed - RT I, 07.06.2024, 1 - entry into force 17.06.2024\]
 
 6\) in the case of a restriction relating to accounting, auditing, accountancy, tax consultancy, business consultancy, management consultancy, public relations, architectural, engineering, legal, tourism, media, information society and advertising services, market research and public opinion polling services, technical testing and analysis services and information technology consultancy services – Consumer Protection and Technical Regulatory Authority;
 
@@ -377,9 +375,7 @@ A credit institution is required to notify the Tax and Customs Board of any susp
 
 \[RT I, 07.06.2024, 1 - entry into force 17.06.2024\]
 
-\[Repealed - RT I, 07.06.2024, 1 - entry into force 17.06.2024\]
-
-(1)
+(1) \[Repealed - RT I, 07.06.2024, 1 - entry into force 17.06.2024\]
 
 (2) The Financial Intelligence Unit prepares and publishes, at least once a year, a consolidated overview of the implementation of financial sanctions in Estonia.
 
@@ -405,9 +401,7 @@ A person in respect of whom or of a transaction related to whom have been applie
 
 3\) verify whether the financial sanctions have been applied lawfully;
 
-\[Repealed - RT I, 08.03.2022, 1 - entry into force 15.03.2022\]
-
-4\)
+4\) \[Repealed - RT I, 08.03.2022, 1 - entry into force 15.03.2022\]
 
 (2) In justified cases, the Financial Intelligence Unit may extend the term provided in subsection 1 of this section until up to 60 days where it is necessary for the inspection specified in subsection 1 of this section or where the need for an additional term arises from a third party. The Financial Intelligence Unit submits an explanation regarding the extension of the term to the submitter of the application or notice at the latest two working days before the expiry of the term provided in subsection 1 of this section.
 
@@ -655,9 +649,7 @@ A person in respect of whom or of a transaction related to whom have been applie
 
 \[RT I, 08.03.2022, 1 - entry into force 15.03.2022\]
 
-\[Repealed - RT I, 07.06.2024, 1 - entry into force 17.06.2024\]
-
-(5)
+(5) \[Repealed - RT I, 07.06.2024, 1 - entry into force 17.06.2024\]
 
 (6) A competent authority may cooperate internationally with a competent authority of a foreign state to implement a sanction of the Government of the Republic.
 
@@ -907,9 +899,7 @@ A person in respect of whom or of a transaction related to whom have been applie
 
 \[RT I, 07.06.2024, 1 - entry into force 17.06.2024\]
 
-\[Repealed - RT I, 07.06.2024, 1 - entry into force 17.06.2024\]
-
-(3)
+(3) \[Repealed - RT I, 07.06.2024, 1 - entry into force 17.06.2024\]
 
 (4) In order to perform the obligations prescribed in this Act, the Financial Intelligence Unit has the right to exchange information, including receiving and forwarding information containing banking and business secrets, with a foreign authority that performs the functions of a financial intelligence unit or a foreign law enforcement agency pursuant to the procedure provided in § 63 of the Money Laundering and Terrorist Financing Prevention Act.
 

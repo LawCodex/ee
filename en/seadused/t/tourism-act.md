@@ -13,7 +13,7 @@ date: 2000-11-15
 last_amended: 2026-05-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/509042026003"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "118032026026"
 ---
@@ -648,5 +648,5 @@ This Act enters into force on 1 March 2001.
 
 ---
 
-Directive (EU) 2015/2302 of the European Parliament and of the Council on package travel and linked travel arrangements, amending Regulation (EC) No 2006/2004 and Directive 2011/83/EU of the European Parliament and of the Council and repealing Council Directive 90/314/EEC (OJ L 326, 11.12.2015, pp. 1–33).
+<sup>1</sup> Directive (EU) 2015/2302 of the European Parliament and of the Council on package travel and linked travel arrangements, amending Regulation (EC) No 2006/2004 and Directive 2011/83/EU of the European Parliament and of the Council and repealing Council Directive 90/314/EEC (OJ L 326, 11.12.2015, pp. 1–33).
 \[RT I, 04.12.2020, 1 – entry into force 14.12.2020\]

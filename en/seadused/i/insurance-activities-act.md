@@ -13,7 +13,7 @@ date: 2015-06-10
 last_amended: 2026-07-21
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/520072026011"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "111072026140"
 ---
@@ -21,8 +21,6 @@ translation_of: "111072026140"
 # Insurance Activities Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — General Provisions
 
@@ -6009,7 +6007,7 @@ The Insurance Activities Act (RT I 2004, 90, 616) is repealed.
 
 ---
 
-Directive (EU) 2016/97 of the European Parliament and of the Council on insurance distribution (recast) (OJ L 26, 02.02.2016, p. 19–59); 
+<sup>1</sup> Directive (EU) 2016/97 of the European Parliament and of the Council on insurance distribution (recast) (OJ L 26, 02.02.2016, p. 19–59); 
 Council Directive 2004/113/EC implementing the principle of equal treatment between men and women in the access to and supply of goods and services (OJ L 373, 21.12.2004, p. 37–43); 
 Directive 2009/138/EC of the European Parliament and of the Council on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (OJ L 335, 17.12.2009, p. 1–155), amended by Directive (EU) 2019/2177 (OJ L 334, 27.12.2019, p. 155–163) and Directive (EU) 2022/2556 (OJ L 333, 27.12.2022, p. 153–163); 
 Directive 2011/89/EU of the European Parliament and of the Council amending Directives 98/78/EC, 2002/87/EC, 2006/48/EC and 2009/138/EC as regards the supplementary supervision of financial entities in a financial conglomerate (OJ L 326, 08.12.2011, p. 113–141); 

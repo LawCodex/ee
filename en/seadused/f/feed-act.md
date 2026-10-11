@@ -13,7 +13,7 @@ date: 2007-01-11
 last_amended: 2025-02-24
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/518032025003"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "114022025005"
 ---
@@ -21,8 +21,6 @@ translation_of: "114022025005"
 # Feed Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -796,4 +794,4 @@ A feed business operator, who in the last quarter of 2019, operates in an undert
 
 ---
 
-Commission Directive 82/475/EEC laying down the categories of ingredients which may be used for the purposes of labelling compound feedingstuffs for pet animals (OJ L 213, 21.07.1982, p. 27–28), amended by Directives 91/334/EEC (OJ L 184, 10.07.1991, p. 27) and 98/67/EC (OJ L 261, 24.09.1998, p. 10–31); Directive 2002/32/EC of the European Parliament and of the Council on undesirable substances in animal feed (OJ L 140, 30.05.2002, p. 10–22), amended by Directives 2003/57/EC (OJ L 151, 19.06.2003, p. 38–41), 2003/100/EC (OJ L 285, 01.11.2003, p. 33–37), 2005/8/EC (OJ L 27, 29.01.2005, p. 44–45), 2005/86/EC (OJ L 318, 06.12.2005, p. 16–18), 2005/87/EC (OJ L 318, 06.12.2005, p. 19–24), 2006/13/EC (OJ L 32, 04.02.2006, p. 44–53), 2006/77/EC (OJ L 271, 30.09.2006, p. 53–55), 2008/76/EC (OJ L 198, 26.07.2008, p. 37–40), 2009/8/EC (OJ L 40, 11.02.2009, p. 19–25), 2009/124/EC (OJ L 254, 26.09.2009, p. 100–103), 2009/141/EC (OJ L 308, 24.11.2009, p. 20–23) and 2010/6/EU (OJ L 37, 10.02.2010, p. 29–32) and Regulations (EC) No 219/2009 (OJ L 87, 31.03.2009, p. 109–154), (EU) No 574/2011 (OJ L 159, 17.06.2011, p. 7–24), (EU) No 277/2012 (OJ L 91, 29.03.2012, p. 1–7), (EU) No 744/2012 (OJ L 219, 17.08.2012, p. 5–12), (EU) No 107/2013 (OJ L 35, 06.02.2013, p. 1–2), (EU) No 1275/2013 (OJ L 328, 07.12.2013, p. 86–92), (EU) 2015/186 (OJ L 31, 07.02.2015, p. 11–17), (EU) 2017/2229 (OJ L 319, 05.12.2017, p. 6–9), (EU) 2019/1243 (OJ L 198, 25.07.2019, p. 241–344) and (EU) 2019/1869 (OJ L 289, 08.11.2019, p. 32–36); Commission Directive 2003/7/EC amending the conditions for authorisation of canthaxanthin in feedingstuffs in accordance with Council Directive 70/524/EEC (OJ L 22, 25.01.2003, p. 28–30). \[RT I, 15.06.2022, 2 – entry into force 01.07.2022\]
+<sup>1</sup> Commission Directive 82/475/EEC laying down the categories of ingredients which may be used for the purposes of labelling compound feedingstuffs for pet animals (OJ L 213, 21.07.1982, p. 27–28), amended by Directives 91/334/EEC (OJ L 184, 10.07.1991, p. 27) and 98/67/EC (OJ L 261, 24.09.1998, p. 10–31); Directive 2002/32/EC of the European Parliament and of the Council on undesirable substances in animal feed (OJ L 140, 30.05.2002, p. 10–22), amended by Directives 2003/57/EC (OJ L 151, 19.06.2003, p. 38–41), 2003/100/EC (OJ L 285, 01.11.2003, p. 33–37), 2005/8/EC (OJ L 27, 29.01.2005, p. 44–45), 2005/86/EC (OJ L 318, 06.12.2005, p. 16–18), 2005/87/EC (OJ L 318, 06.12.2005, p. 19–24), 2006/13/EC (OJ L 32, 04.02.2006, p. 44–53), 2006/77/EC (OJ L 271, 30.09.2006, p. 53–55), 2008/76/EC (OJ L 198, 26.07.2008, p. 37–40), 2009/8/EC (OJ L 40, 11.02.2009, p. 19–25), 2009/124/EC (OJ L 254, 26.09.2009, p. 100–103), 2009/141/EC (OJ L 308, 24.11.2009, p. 20–23) and 2010/6/EU (OJ L 37, 10.02.2010, p. 29–32) and Regulations (EC) No 219/2009 (OJ L 87, 31.03.2009, p. 109–154), (EU) No 574/2011 (OJ L 159, 17.06.2011, p. 7–24), (EU) No 277/2012 (OJ L 91, 29.03.2012, p. 1–7), (EU) No 744/2012 (OJ L 219, 17.08.2012, p. 5–12), (EU) No 107/2013 (OJ L 35, 06.02.2013, p. 1–2), (EU) No 1275/2013 (OJ L 328, 07.12.2013, p. 86–92), (EU) 2015/186 (OJ L 31, 07.02.2015, p. 11–17), (EU) 2017/2229 (OJ L 319, 05.12.2017, p. 6–9), (EU) 2019/1243 (OJ L 198, 25.07.2019, p. 241–344) and (EU) 2019/1869 (OJ L 289, 08.11.2019, p. 32–36); Commission Directive 2003/7/EC amending the conditions for authorisation of canthaxanthin in feedingstuffs in accordance with Council Directive 70/524/EEC (OJ L 22, 25.01.2003, p. 28–30). \[RT I, 15.06.2022, 2 – entry into force 01.07.2022\]

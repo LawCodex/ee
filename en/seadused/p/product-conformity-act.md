@@ -14,7 +14,7 @@ date: 2010-05-20
 last_amended: 2025-07-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/518062025001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "111032025003"
 ---
@@ -22,8 +22,6 @@ translation_of: "111032025003"
 # Product Conformity Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -67,17 +65,11 @@ translation_of: "111032025003"
 
 \[RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
 
-\[Repealed – RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
+(2) \[Repealed – RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
 
-(2)
+(3) \[Repealed – RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
 
-\[Repealed – RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
-
-(3)
-
-\[Repealed – RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
-
-(4)
+(4) \[Repealed – RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
 
 (5) For the purposes of subsection 8 of § 5, §§ 10, 10<sup>2</sup> and 10<sup>3</sup> and Chapter 5 of this Act, ‘product’ means any product.
 
@@ -151,9 +143,7 @@ translation_of: "111032025003"
 
 (6) Requirements established for products may also arise from directly applicable legislation of the European Union.
 
-\[Repealed – RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
-
-(7)
+(7) \[Repealed – RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
 
 (8) Where a requirement that does not arise from EU harmonisation legislation is established for a product by Estonian legislation, a product that does not conform to such requirement may be placed on the market and put into service in Estonia, provided that the product has been lawfully manufactured in a contracting state of the European Economic Area or Switzerland or where it has been lawfully manufactured or placed on the market in a Member State of the European Union or Turkey, provided that protection equal to the protection provided in Estonian legislation has been ensured with regard to the product.
 
@@ -233,29 +223,17 @@ The competent authority may prohibit placing products described in subsection 8 
 
 \[RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
 
-\[Repealed – RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
+(2) \[Repealed – RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
 
-(2)
+(3) \[Repealed – RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
 
-\[Repealed – RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
+(4) \[Repealed – RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
 
-(3)
+(5) \[Repealed – RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
 
-\[Repealed – RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
+(6) \[Repealed – RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
 
-(4)
-
-\[Repealed – RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
-
-(5)
-
-\[Repealed – RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
-
-(6)
-
-\[Repealed – RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
-
-(7)
+(7) \[Repealed – RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
 
 #### § 12. Obligations of distributors
 
@@ -425,9 +403,7 @@ Requirements arising from Article 4 of Regulation (EU) 2019/1020 of the European
 
 2\) without delay of any circumstance that affects the scope of the right to operate granted under the activity license of the conformity assessment body;
 
-\[Repealed – RT I, 17.05.2016, 1 - entry into force 13.06.2016\]
-
-3\)
+3\) \[Repealed – RT I, 17.05.2016, 1 - entry into force 13.06.2016\]
 
 4\) at the request of the committee, of conformity assessment carried out within the scope of the right to operate granted under the activity license, including of cross-border conformity assessments and contracting.
 
@@ -435,9 +411,7 @@ Requirements arising from Article 4 of Regulation (EU) 2019/1020 of the European
 
 (3) Conformity assessment bodies inform the market supervision authority of the suspicion that a product placed on the market or a product put into service is non-conforming.
 
-\[Repealed – RT I, 17.05.2016, 1 - entry into force 13.06.2016\]
-
-(4)
+(4) \[Repealed – RT I, 17.05.2016, 1 - entry into force 13.06.2016\]
 
 (5) Conformity assessment bodies document their conformity assessment activities and preserve the respective documents for no less than ten years, unless otherwise provided by legislation.
 
@@ -481,13 +455,9 @@ Requirements arising from Article 4 of Regulation (EU) 2019/1020 of the European
 
 (2) A body specified in an agreement of mutual recognition made between the European Union and a third country may also operate as a conformity assessment body.
 
-\[Repealed – RT I, 17.05.2016, 1 - entry into force 13.06.2016\]
+(3) \[Repealed – RT I, 17.05.2016, 1 - entry into force 13.06.2016\]
 
-(3)
-
-\[Repealed – RT I, 17.05.2016, 1 - entry into force 13.06.2016\]
-
-(4)
+(4) \[Repealed – RT I, 17.05.2016, 1 - entry into force 13.06.2016\]
 
 #### § 28. Requirements for conformity assessment bodies
 
@@ -547,9 +517,7 @@ Requirements arising from Article 4 of Regulation (EU) 2019/1020 of the European
 
 #### § 30. Granting activity license
 
-\[Repealed – RT I, 29.06.2014, 1 - entry into force 01.07.2014\]
-
-(1)
+(1) \[Repealed – RT I, 29.06.2014, 1 - entry into force 01.07.2014\]
 
 (1<sup>1</sup>) An activity licence is granted by the Consumer Protection and Technical Regulatory Authority. In the field of medical devices, an activity licence is granted by the State Agency of Medicines.
 
@@ -563,9 +531,7 @@ Requirements arising from Article 4 of Regulation (EU) 2019/1020 of the European
 
 #### § 31. Refusal to grant activity license
 
-\[Repealed – RT I, 29.06.2014, 1 - entry into force 01.07.2014\]
-
-(1)
+(1) \[Repealed – RT I, 29.06.2014, 1 - entry into force 01.07.2014\]
 
 (2) The granting of an activity license may be refused where the applicant’s right to operate as a conformity assessment body has previously been revoked on the following grounds:
 
@@ -585,13 +551,9 @@ Requirements arising from Article 4 of Regulation (EU) 2019/1020 of the European
 
 #### § 33. Revocation of activity license
 
-\[Repealed – RT I, 29.06.2014, 1 - entry into force 01.07.2014\]
+(1) \[Repealed – RT I, 29.06.2014, 1 - entry into force 01.07.2014\]
 
-(1)
-
-\[Repealed – RT I, 29.06.2014, 1 - entry into force 01.07.2014\]
-
-(2)
+(2) \[Repealed – RT I, 29.06.2014, 1 - entry into force 01.07.2014\]
 
 (3) The revocation of the activity license of a conformity assessment body must not influence the validity of the documents issued by the body.
 
@@ -619,9 +581,7 @@ Requirements arising from Article 4 of Regulation (EU) 2019/1020 of the European
 
 \[RT I, 17.05.2016, 1 - entry into force 13.06.2016\]
 
-\[Repealed – RT I, 29.06.2014, 1 - entry into force 01.07.2014\]
-
-(2)
+(2) \[Repealed – RT I, 29.06.2014, 1 - entry into force 01.07.2014\]
 
 (3) A registry entry on the granting of an activity license is made without delay after the waiting period specified in subsection 2 of § 34 of this Act is over and the conformity assessment body’s right to operate has entered into force. A registry entry on the suspension or revocation of the activity license is made without delay.
 
@@ -645,9 +605,7 @@ Accreditation is organised and carried out in accordance with Chapter II of Regu
 
 1\) administers the accreditation system, and accredits, assesses and attests the professional competency of measurers;
 
-\[Repealed – RT I, 22.10.2021, 3 - entry into force 01.11.2021\]
-
-2\)
+2\) \[Repealed – RT I, 22.10.2021, 3 - entry into force 01.11.2021\]
 
 3\) approaches all applications for professional competency assessment and accreditation in an impartial manner and in accordance with the principle of equal treatment;
 
@@ -699,9 +657,7 @@ Accreditation is organised and carried out in accordance with Chapter II of Regu
 
 3\) 175 euros for reviewing an application for assessment of the professional competency of a measurer.
 
-\[Repealed – RT I, 11.03.2025, 1 - entry into force 01.07.2025\]
-
-(2)
+(2) \[Repealed – RT I, 11.03.2025, 1 - entry into force 01.07.2025\]
 
 (3) The fee is not refunded to the applicant where the applicant withdraws the application or where the application is not granted for a reason independent of the Estonian accreditation body.
 
@@ -837,9 +793,7 @@ Accreditation is organised and carried out in accordance with Chapter II of Regu
 
 \[RT I, 12.12.2018, 3 - entry into force 01.01.2019\]
 
-\[Repealed – RT I, 10.05.2014, 1 - entry into force 20.05.2014\]
-
-(3)
+(3) \[Repealed – RT I, 10.05.2014, 1 - entry into force 20.05.2014\]
 
 #### § 45. Obligations of Estonian standardisation body
 
@@ -893,13 +847,9 @@ Accreditation is organised and carried out in accordance with Chapter II of Regu
 
 \[RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
 
-\[Repealed – RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
+(2) \[Repealed – RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
 
-(2)
-
-\[Repealed – RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
-
-(3)
+(3) \[Repealed – RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
 
 #### § 50. Competence of authorities participating in market supervision
 
@@ -907,9 +857,7 @@ Accreditation is organised and carried out in accordance with Chapter II of Regu
 
 \[RT I, 20.11.2024, 1 - entry into force 01.01.2025\]
 
-\[Repealed – RT I, 12.12.2018, 3 - entry into force 01.01.2019\]
-
-(2)
+(2) \[Repealed – RT I, 12.12.2018, 3 - entry into force 01.01.2019\]
 
 (3) The Health Board engages in the regulatory enforcement of compliance with the health requirements of products.
 
@@ -997,13 +945,9 @@ Accreditation is organised and carried out in accordance with Chapter II of Regu
 
 \[RT I, 10.07.2020, 2 - entry into force 01.01.2021\]
 
-\[Repealed – RT I, 12.12.2018, 3 - entry into force 01.01.2019\]
+(8) \[Repealed – RT I, 12.12.2018, 3 - entry into force 01.01.2019\]
 
-(8)
-
-\[Repealed – RT I, 10.12.2020, 1 - entry into force 01.01.2021\]
-
-(8<sup>1</sup>)
+(8<sup>1</sup>) \[Repealed – RT I, 10.12.2020, 1 - entry into force 01.01.2021\]
 
 (9) The Tax and Customs Board inspects the safety of imported products and their compliance with the requirements, thereby cooperating with the appropriate market supervision authority.
 
@@ -1027,9 +971,7 @@ Accreditation is organised and carried out in accordance with Chapter II of Regu
 
 (4) The composition and rules of procedure of the market supervision council are approved by a directive of the minister in charge of the policy sector.
 
-\[Repealed – RT I, 23.05.2020, 1 - entry into force 24.05.2020\]
-
-(5)
+(5) \[Repealed – RT I, 23.05.2020, 1 - entry into force 24.05.2020\]
 
 #### § 52. Market supervision programmes
 
@@ -1065,25 +1007,15 @@ Accreditation is organised and carried out in accordance with Chapter II of Regu
 
 \[RT I, 13.03.2014, 4 - entry into force 01.07.2014\]
 
-\[Repealed – RT I, 22.10.2021, 3 - entry into force 01.11.2021\]
+(3) \[Repealed – RT I, 22.10.2021, 3 - entry into force 01.11.2021\]
 
-(3)
+(4) \[Repealed – RT I, 22.10.2021, 3 - entry into force 01.11.2021\]
 
-\[Repealed – RT I, 22.10.2021, 3 - entry into force 01.11.2021\]
+(5) \[Repealed – RT I, 22.10.2021, 3 - entry into force 01.11.2021\]
 
-(4)
+(6) \[Repealed – RT I, 22.10.2021, 3 - entry into force 01.11.2021\]
 
-\[Repealed – RT I, 22.10.2021, 3 - entry into force 01.11.2021\]
-
-(5)
-
-\[Repealed – RT I, 22.10.2021, 3 - entry into force 01.11.2021\]
-
-(6)
-
-\[Repealed – RT I, 22.10.2021, 3 - entry into force 01.11.2021\]
-
-(7)
+(7) \[Repealed – RT I, 22.10.2021, 3 - entry into force 01.11.2021\]
 
 #### § 55. Publication of information
 
@@ -1119,9 +1051,7 @@ Accreditation is organised and carried out in accordance with Chapter II of Regu
 
 (3) The market supervision authority has the right to take the measures specified in subsection 2 of this section also where a product complies with § 6 of this Act, but the market supervision authority has evidence that the product is dangerous.
 
-\[Repealed – RT I, 23.05.2020, 1 - entry into force 24.05.2020\]
-
-(4)
+(4) \[Repealed – RT I, 23.05.2020, 1 - entry into force 24.05.2020\]
 
 (5) In the event of a serious risk the Tax and Customs Board, with the approval of the appropriate market supervision authority, has the right to prohibit making the product available on the market or exporting the product.
 
@@ -1195,13 +1125,9 @@ Accreditation is organised and carried out in accordance with Chapter II of Regu
 
 \[RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
 
-\[Repealed – RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
+(2) \[Repealed – RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
 
-(2)
-
-\[Repealed – RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
-
-(3)
+(3) \[Repealed – RT I, 11.03.2025, 1 - entry into force 21.03.2025\]
 
 (4) The procedure for notifying the European Commission of restrictions on placing a product on the market and information collected in the course of market supervision is established by a regulation of the Government of the Republic.
 
@@ -1283,7 +1209,7 @@ This Act enters into force at the time and in accordance with the procedure prov
 
 ---
 
-Directive 2000/14/EC of the European Parliament and of the Council on the approximation of the laws of the Member States relating to the noise emission in the environment by equipment for use outdoors (OJ L 162, 3.7.2000, p. 1–78), amended by Regulations (EC) No 219/2009 (OJ L 87, 31.3.2009, p. 109–154) and (EU) 2019/1243 (OJ L 198, 25.7.2019, p. 241–344) and Directive 2005/88/EC (OJ L 344, 27.12.2005, p. 44–46);\
+<sup>1</sup> Directive 2000/14/EC of the European Parliament and of the Council on the approximation of the laws of the Member States relating to the noise emission in the environment by equipment for use outdoors (OJ L 162, 3.7.2000, p. 1–78), amended by Regulations (EC) No 219/2009 (OJ L 87, 31.3.2009, p. 109–154) and (EU) 2019/1243 (OJ L 198, 25.7.2019, p. 241–344) and Directive 2005/88/EC (OJ L 344, 27.12.2005, p. 44–46);\
 
  Directive 2006/42/EC of the European Parliament and of the Council on machinery, and amending Directive 95/16/EC (OJ L 157, 9.6.2006, p. 24–86), amended by Regulations (EC) No 596/2009 (OJ L 188, 18.7.2009, p. 14–92), (EU) No 167/2013 (OJ L 60, 02.3.2013, p. 1–51) and (EU) 2019/1243 (OJ L 198, 25.7.2019, p. 241–344) and Directives 2009/127/EC (OJ L 310, 25.11.2009, p. 29–33) and 2014/33/EU (OJ L 96, 29.3.2014, p. 251–308);\
 
@@ -1324,3 +1250,5 @@ Directive 2014/68/EU of the European Parliament and of the Council on the harmon
 Directive (EU) 2015/1535 of the European Parliament and of the Council laying down a procedure for the provision of information in the field of technical regulations and of rules on Information Society services (OJ L 241, 17.9.2015, p. 1–15);\
 
 Directive (EU) 2019/882 of the European Parliament and of the Council on the accessibility requirements for products and services (OJ L 151, 7.6.2019, p. 70–115).
+
+\[RT I, 11.03.2025, 1 - entry into force 21.03.2025\]

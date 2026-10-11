@@ -14,7 +14,7 @@ date: 2024-05-15
 last_amended: 2025-05-18
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/510062025002"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "117052025002"
 ---
@@ -22,8 +22,6 @@ translation_of: "117052025002"
 # Act on Protection of Persons Who Report Work-Related Breaches of European Union Law
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — General Provisions
 
@@ -330,6 +328,8 @@ This Act enters into force on 1 September 2024.
 
 ---
 
-Directive (EU) 2019/1937 of the European Parliament and of the Council on the protection of persons who report breaches of Union law (OJ L 305, 26.11.2019, p. 17–56);\
+<sup>1</sup> Directive (EU) 2019/1937 of the European Parliament and of the Council on the protection of persons who report breaches of Union law (OJ L 305, 26.11.2019, p. 17–56);\
 
  Directive (EU) 2024/1226 of the European Parliament and of the Council on the definition of criminal offences and penalties for the violation of Union restrictive measures and amending Directive (EU) 2018/1673 (OJ L, 2024/1226, 29.4.2024).
+
+\[RT I, 17.05.2025, 1 - entry into force 18.05.2025\]

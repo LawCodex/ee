@@ -13,7 +13,7 @@ date: 2017-06-14
 last_amended: 2026-10-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/520072026004"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "103072026006"
 ---
@@ -21,8 +21,6 @@ translation_of: "103072026006"
 # Public Procurement Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — General Provisions
 
@@ -4413,7 +4411,7 @@ The Public Procurement Act (RT I 2007, 15, 76) is hereby repealed.
 
 ---
 
-Directive 2007/66/EC of the European Parliament and of the Council amending Council Directives 89/665/EEC and 92/13/EEC with regard to improving the effectiveness of review procedures concerning the award of public contracts (OJ L 335, 20.12.2007, pp 31–46); 
+<sup>1</sup> Directive 2007/66/EC of the European Parliament and of the Council amending Council Directives 89/665/EEC and 92/13/EEC with regard to improving the effectiveness of review procedures concerning the award of public contracts (OJ L 335, 20.12.2007, pp 31–46); 
 Directive 2009/81/EC of the European Parliament and of the Council on the coordination of procedures for the award of certain works contracts, supply contracts and service contracts by contracting authorities or entities in the fields of defence and security, and amending Directives 2004/17/EC and 2004/18/EC (OJ L 216, 20.08.2009, pp 76–136); 
 Directive 2014/23/EU of the European Parliament and of the Council on the award of concession contracts (OJ L 94, 28.03.2014, pp 1–64); 
 Directive 2014/24/EU of the European Parliament and of the Council on public procurement and repealing Directive 2004/18/EC (OJ L 94, 28.03.2014, pp 65–242); 

@@ -13,7 +13,7 @@ date: 2002-06-05
 last_amended: 2023-03-27
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/527032023003"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "117032023047"
 ---
@@ -21,8 +21,6 @@ translation_of: "117032023047"
 # Merchant Shipping Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -1679,4 +1677,4 @@ This Act enters into force on 1 October 2002.
 
 ---
 
-Directive 2009/20/EC of the European Parliament and of the Council on the insurance of shipowners for maritime claims (OJ L 131, 28.05.2009, pp. 128–131). \[RT I, 30.12.2011, 1 – entry into force 01.01.2012\]
+<sup>1</sup> Directive 2009/20/EC of the European Parliament and of the Council on the insurance of shipowners for maritime claims (OJ L 131, 28.05.2009, pp. 128–131). \[RT I, 30.12.2011, 1 – entry into force 01.01.2012\]

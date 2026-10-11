@@ -13,7 +13,7 @@ date: 2001-06-05
 last_amended: 2026-07-21
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/511082026001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "111072026141"
 ---
@@ -21,8 +21,6 @@ translation_of: "111072026141"
 # Competition Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -2248,5 +2246,5 @@ The Ministry of Justice and Digital Affairs analyses by 1 June 2030 the practica
 
 ---
 
-Directive 2014/104/EU of the European Parliament and of the Council on certain rules governing actions for damages under national law for infringements of the competition law provisions of the Member States and of the European Union (OJ L 349, 05.12.2014, p. 1–19); Directive (EU) 2019/1 of the European Parliament and of the Council to empower the competition authorities of the Member States to be more effective enforcers and to ensure the proper functioning of the internal market (OJ L 11, 14.01.2019, pp 3–33).\
+<sup>1</sup> Directive 2014/104/EU of the European Parliament and of the Council on certain rules governing actions for damages under national law for infringements of the competition law provisions of the Member States and of the European Union (OJ L 349, 05.12.2014, p. 1–19); Directive (EU) 2019/1 of the European Parliament and of the Council to empower the competition authorities of the Member States to be more effective enforcers and to ensure the proper functioning of the internal market (OJ L 11, 14.01.2019, pp 3–33).\
 \[RT I, 05.07.2025, 1 – entry into force 06.07.2025\]

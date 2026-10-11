@@ -14,7 +14,7 @@ date: 2014-07-10
 last_amended: 2020-03-20
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/512082020002"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "117032020008"
 ---
@@ -22,8 +22,6 @@ translation_of: "117032020008"
 # Requirements for Conditions of Accommodation of Crew Members on Board Ships
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 This Regulation is established under § 29 (2) of the Seafarers Employment Act.
 
@@ -255,7 +253,7 @@ Where a ship has a swimming pool, the water therein shall meet the requirements 
 
 ---
 
-Council Directive (EU) 2017/159 implementing the Agreement concerning the implementation of the Work in Fishing Convention, 2007 of the International Labour Organisation, concluded on 21 May 2012 between the General Confederation of Agricultural Cooperatives in the European Union (Cogeca), the European Transport Workers’ Federation (ETF) and the Association of National Organisations of Fishing Enterprises in the European Union (Europêche) (OJ L 25, 31.01.2017, pp. 12–35). \[RT I, 17.03.2020, 6 – entry into force 20.03.2020\]
+<sup>1</sup> Council Directive (EU) 2017/159 implementing the Agreement concerning the implementation of the Work in Fishing Convention, 2007 of the International Labour Organisation, concluded on 21 May 2012 between the General Confederation of Agricultural Cooperatives in the European Union (Cogeca), the European Transport Workers’ Federation (ETF) and the Association of National Organisations of Fishing Enterprises in the European Union (Europêche) (OJ L 25, 31.01.2017, pp. 12–35). \[RT I, 17.03.2020, 6 – entry into force 20.03.2020\]
 
 ## Annexes
 

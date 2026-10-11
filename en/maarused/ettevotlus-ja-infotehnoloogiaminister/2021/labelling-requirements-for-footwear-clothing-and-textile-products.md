@@ -13,7 +13,7 @@ date: 2021-05-13
 last_amended: 2021-05-21
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/503112022003"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "118052021002"
 ---
@@ -21,8 +21,6 @@ translation_of: "118052021002"
 # Labelling Requirements for Footwear, Clothing and Textile Products
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 The regulation is established on the basis of subsection 7<sup>1</sup> of § 5 of the Consumer Protection Act.
 
@@ -86,7 +84,7 @@ Ando Leppiman, Secretary General
 
 ---
 
-Directive 94/11/EC of European Parliament and of the Council on the approximation of the laws, regulations and administrative provisions of the Member States relating to labelling of the materials used in the main components of footwear for sale to the consumer (OJ L 100, 19.4.1994, p. 37–41), as amended by Council Directives 2006/96 (OJ L 363, 20.12.2006) and 2013/15/EU (OJ L 158, 10.6.2013, p. 172–183).
+<sup>1</sup> Directive 94/11/EC of European Parliament and of the Council on the approximation of the laws, regulations and administrative provisions of the Member States relating to labelling of the materials used in the main components of footwear for sale to the consumer (OJ L 100, 19.4.1994, p. 37–41), as amended by Council Directives 2006/96 (OJ L 363, 20.12.2006) and 2013/15/EU (OJ L 158, 10.6.2013, p. 172–183).
 
 ## Annexes
 

@@ -13,7 +13,7 @@ date: 2008-10-15
 last_amended: 2026-01-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/513012026001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "130122025009"
 ---
@@ -948,9 +948,7 @@ The commercial lottery is a classical lottery or an instant lottery organised by
 
 \[RT I, 13.03.2019, 2 - entry into force 15.03.2019\]
 
-\[Repealed – RT I, 13.03.2019, 2 - entry into force 15.03.2019\]
-
-(2)
+(2) \[Repealed – RT I, 13.03.2019, 2 - entry into force 15.03.2019\]
 
 (3) A person is entered in the list on the basis of his or her written request without limitation in time, but in his or her request the person shall indicate a time limit beyond which he or she may submit a new request for being deleted from the list. The time limit set out in the request for entry in the list shall be calculated from the date of submitting the request and it may not be shorter than six months or longer than three years.
 

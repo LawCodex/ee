@@ -1,0 +1,4102 @@
+---
+title: "Finantskriisi ennetamise ja lahendamise seadus"
+identifier: "111072026139"
+rt_reference: "RT I, 11.07.2026, 139"
+rt_original: "RT I, 19.03.2015, 3"
+abbreviation: "FELS"
+group_id: "1028714"
+type: act
+issuer: "Riigikogu"
+text_type: "terviktekst"
+jurisdiction: ee
+language: et
+date: 2015-02-18
+last_amended: 2026-07-21
+status: in_force
+source: "https://www.riigiteataja.ee/akt/111072026139"
+retrieved: 2026-10-12
+---
+
+# Finantskriisi ennetamise ja lahendamise seadus
+
+## 1. peatükk — Üldsätted
+
+### § 1. Reguleerimisala
+
+(1) Käesolev seadus reguleerib krediidiasutuste, investeerimisühingute ja kesksete vastaspoolte suhtes kriisiennetusmeetmete ning kriisilahendusmeetmete ja -õiguste rakendamist, kui on oht, et nende finantsolukord võib kiiresti halveneda, või on tõenäoline, et nad on maksejõuetud või võivad muutuda tulevikus maksejõuetuks.
+
+\[RT I, 30.11.2022, 1 - jõust. 10.12.2022\]
+
+(2) Kriisilahendusmenetlus algatatakse avalikust huvist lähtudes, kui krediidiasutuse või investeerimisühingu lõpetamine ja likvideerimine pankrotimenetluses ei hoia ära finantsstabiilsuse kahjustamist ega väldi negatiivse mõju edasikandumist finantssüsteemile või reaalmajandusele.
+
+(3) Käesolevas seaduses ette nähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduses sätestatut, arvestades käesolevast seadusest ja Finantsinspektsiooni seadusest tulenevaid erisusi.
+
+### § 2. Kohaldamisala
+
+(1) Käesolevat seadust kohaldatakse:
+
+1\) Eestis asutatud krediidiasutusele;
+
+2\) Eestis asutatud investeerimisühingule, mille suhtes kohaldatakse väärtpaberituru seaduse § 93 lõike 1 punktis 1 sätestatud aktsia- või algkapitalinõuet;
+
+3\) Eestis asutatud finantsvaldusettevõtjale, segafinantsvaldusettevõtjale ja segavaldusettevõtjale, kes kuuluvad käesoleva lõike punktis 1 või 2 nimetatud krediidiasutusega või investeerimisühinguga samasse konsolideerimisgruppi;
+
+4\) käesoleva lõike punktides 1–3 nimetatud krediidiasutuse, investeerimisühingu, finantsvaldusettevõtja, segafinantsvaldusettevõtja ja segavaldusettevõtja Eestis asutatud finantseerimisasutusest tütarettevõtjale, kui ta kuulub konsolideeritud järelevalve alla vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013, mis käsitleb krediidiasutuste suhtes kohaldatavaid usaldatavusnõudeid ja millega muudetakse määrust (EL) nr 648/2012 (ELT L 176, 27.06.2013, lk 1–337), artiklitele 6–17;
+
+5\) kolmanda riigi krediidiasutuse või investeerimisühingu Eestis asutatud filiaalile;
+
+6\) Eestis asutatud ning Euroopa Parlamendi ja nõukogu määruse (EL) nr 648/2012 börsiväliste tuletisinstrumentide, kesksete vastaspoolte ja kauplemisteabehoidlate kohta (ELT L 201, 27.07.2012, lk 1–59) kohaselt tegevusloa saanud kesksele vastaspoolele käesolevas seaduses sätestatud ulatuses.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(2) \[Kehtetu - RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(3) Käesolevas seaduses käsitatakse krediidiasutusena ka investeerimisühingut ja tema suhtes kohaldatakse kõike krediidiasutuse suhtes sätestatut, kui käesolevas seaduses ei ole sätestatud teisiti.
+
+(3<sup>1</sup>) Käesoleva seaduse §-des 43, 44 ja 46–50 käsitatakse krediidiasutusena ka käesoleva paragrahvi lõike 1 punktides 3–5 nimetatud isikut.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(3<sup>2</sup>) Käesoleva seaduse § 11 lõikes 5, § 17 lõigetes 7<sup>1</sup>, 7<sup>2</sup> ja 13, § 17<sup>2</sup> lõike 2 punktis 2, §-s 17<sup>3</sup>, § 18 lõigetes 6 ja 6<sup>1</sup>, § 22 lõigetes 2<sup>1</sup>–2<sup>3</sup>, §-s 22<sup>1</sup>, § 34 lõigetes 1–3<sup>3</sup>, 4<sup>1</sup>, 4<sup>3</sup>, 5 ja 6, § 44 lõigetes 1 ja 2, § 52 lõikes 5, § 55 lõigetes 2 ja 7, § 56 lõikes 1<sup>4</sup> ja § 96<sup>1</sup> lõikes 2 ning tagatisfondi seaduse §-s 73<sup>13</sup> nimetatud krediidiasutusena käsitatakse ka käesoleva paragrahvi lõike 1 punktides 3 ja 4 nimetatud finantseerimisasutust, finantsvaldusettevõtjat, segafinantsvaldusettevõtjat ja segavaldusettevõtjat.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(4) Keskse vastaspoole kriisiennetus- ning kriisilahendusmeetmete suhtes kohaldatakse Euroopa Parlamendi ja nõukogu määrust (EL) 2021/23 kesksete vastaspoolte finantsseisundi taastamise ja kriisilahenduse raamistiku kohta ning millega muudetakse määruseid (EL) nr 1095/2010, (EL) nr 648/2012, (EL) nr 600/2014, (EL) nr 806/2014 ja (EL) 2015/2365 ning direktiive 2002/47/EÜ, 2004/25/EÜ, 2007/36/EÜ, 2014/59/EL ja (EL) 2017/1132 (ELT L 22, 22.01.2021, lk 1–102), arvestades käesoleva seaduse 9<sup>1</sup>. peatükis sätestatud erisusi.
+
+\[RT I, 30.11.2022, 1 - jõust. 10.12.2022\]
+
+### § 3. Finantsinspektsioon järelevalve ja kriisilahenduse ülesannete täitjana
+
+(1) Käesolevas seaduses käsitatakse Finantsinspektsiooni kriisilahendusasutusena, välja arvatud käesoleva seaduse 2. peatüki 1. ja 3. jao, 3. peatüki 3. jao ning §-de 90<sup>1</sup> ja 90<sup>2</sup> tähenduses, kus Finantsinspektsiooni käsitatakse järelevalveasutusena.
+
+\[RT I, 30.11.2022, 1 - jõust. 10.12.2022\]
+
+(2) Finantsinspektsioon kriisilahendusasutusena viib läbi kriisilahendusmenetlust käesoleva seaduse §-s 2 nimetatud isikute suhtes vastavalt käesolevas seaduses ja muudes õigusaktides sätestatule.
+
+(3) Finantsinspektsioon on konsolideerimisgrupi kriisilahendusasutus, kui konsolideerimisgrupi emaettevõtja on Eestis registreeritud ja Finantsinspektsioon teostab konsolideerimisgrupi üle konsolideeritud finantsjärelevalvet. Konsolideerimisgrupi kriisilahendusasutuse pädevusse kuulub konsolideerimisgrupi kriisilahendusmenetlus (edaspidi *konsolideerimisgrupi kriisilahendusasutus*).
+
+(4) Kui konsolideerimisgruppi kuuluv isik on Eestis registreeritud, kuid ei ole konsolideerimisgrupi emaettevõtja ja Finantsinspektsioon teostab tema üle finantsjärelevalvet, kuulub Finantsinspektsiooni pädevusse nimetatud isiku kriisilahendusmenetlus ja sel juhul on Finantsinspektsioon konsolideerimisgruppi kuuluva isiku kriisilahendusasutus (edaspidi *tütarettevõtja kriisilahendusasutus*).
+
+### § 4. Kriisilahendamise üldised eesmärgid ja nende järgimine
+
+(1) Kriisilahendamise eesmärgid on:
+
+1\) tagada krediidiasutuse kriitiliste funktsioonide jätkuvus;
+
+2\) hoida ära finantsstabiilsuse kahjustamine olulises ulatuses, eelkõige vältida negatiivse mõju edasikandumist finantssüsteemile tervikuna ning makse- ja arveldussüsteemidele;
+
+3\) vältida või vähendada erakorralise avaliku finantstoetuse või muude avalike vahendite kasutamise vajalikkust;
+
+4\) tagada hoiustajate, investorite ja muude klientide vahendite piisav kaitse.
+
+(2) Finantsinspektsioon peab kriisilahendusmeetmete ja -õiguste rakendamisel lähtuma käesoleva paragrahvi lõikes 1 nimetatud eesmärkidest ja valima sellise kriisilahendusmeetme või -õiguse, mis aitab kõige paremini kaasa käesoleva paragrahvi lõikes 1 nimetatud eesmärkide saavutamisele kõige vähesema kuluga, arvestades konkreetse kriisiolukorra tingimusi.
+
+(3) Kõik käesoleva paragrahvi lõikes 1 nimetatud eesmärgid on võrdse tähtsusega ning Finantsinspektsioon peab konkreetses olukorras kriisilahendusmeedet ja -õigust rakendades leidma optimaalse tasakaalu nende eesmärkide saavutamise vahel.
+
+### § 5. Süsteemne kriis ja kriitilised funktsioonid
+
+(1) Süsteemne kriis käesoleva seaduse tähenduses on finantssüsteemi häire, millel võivad olla rasked negatiivsed tagajärjed siseturule ja reaalmajandusele ning millesse võivad olla haaratud kõik finantsvahendajate, -turgude ja -infrastruktuuri liigid.
+
+(2) Kriitilised funktsioonid käesoleva seaduse tähenduses on krediidiasutuse osutatavad makse- ja arveldusteenused ning muud teenused või tegevused, mille seiskumine või toimepidevuse oluline häire kahjustab või võib kahjustada finantsturu toimimist, finantsstabiilsust või ka reaalmajandust või avaldada negatiivset mõju teistele finantssüsteemi osalistele.
+
+### § 6. Kriisiennetus- ja kriisilahendusmeetmed
+
+(1) Kriisiennetusmeede käesoleva seaduse tähenduses on Finantsinspektsiooni õigus:
+
+1\) nõuda finantsseisundi taastamise kavas puuduste või takistuste kõrvaldamist;
+
+2\) rakendada meetmeid kriisilahenduskõlblikkust pärssivate takistuste kõrvaldamiseks;
+
+3\) rakendada varajase sekkumise meedet, sealhulgas määrata ajutine erihaldur;
+
+4\) rakendada kapitaliinstrumentide ja kõlblike kohustuste allahindamise või teisendamise õigust.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(2) Kriisilahendusmeede käesoleva seaduse tähenduses on Finantsinspektsiooni õigus määrata erihaldur või rakendada muid käesoleva seaduse 4.–7. peatükis sätestatud õigusi.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(3) Varajase sekkumise meede käesoleva seaduse tähenduses on järelevalvemeede, mida Finantsinspektsioon võib rakendada, kui krediidiasutuse finantsseisund on halvenemas ja sellega seoses krediidiasutus rikub või võib rikkuda tema suhtes kehtivaid õigusakte, haldusakte või krediidiasutuse sise-eeskirju.
+
+### § 7. Kriisilahendusfond
+
+Kriisilahendusfond käesoleva seaduse tähenduses on Tagatisfondi seaduses sätestatud kriisilahenduse osafond ja teise Euroopa Majanduspiirkonna lepinguriigi (edaspidi *lepinguriik*) kriisilahendusrahastu vastavalt Euroopa Parlamendi ja nõukogu direktiivi 2014/59/EL, millega luuakse krediidiasutuste ja investeerimisühingute finantsseisundi taastamise ja kriisilahenduse õigusraamistik ning muudetakse nõukogu direktiivi 82/891/EMÜ ning Euroopa Parlamendi ja nõukogu direktiive 2001/24/EÜ, 2002/47/EÜ, 2004/25/EÜ, 2005/56/EÜ, 2007/36/EÜ, 2011/35/EL, 2012/30/EL ja 2013/36/EL ning määruseid (EL) nr 1093/2010 ja (EL) nr 648/2012 (ELT L 173, 12.06.2014, lk 190–348), artiklile 100.
+
+### § 8. Erakorraline avalik finantstoetus ja erakorraline likviidsuslaen
+
+(1) Erakorraline avalik finantstoetus käesoleva seaduse tähenduses on riigiabi maksevõimelisele krediidiasutusele või temaga samasse konsolideerimisgruppi kuuluvale isikule vastavalt Euroopa Liidu toimimise lepingu artikli 107 lõikele 1 või mõnes muus vormis riigieelarveliste vahendite arvelt osutatav finantsabi eesmärgiga säilitada või taastada krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva isiku jätkusuutlikkus, maksevõimelisus või likviidsus.
+
+\[RT I, 10.01.2019, 1 - jõust. 20.01.2019\]
+
+(2) Erakorraline likviidsuslaen käesoleva seaduse tähenduses on Eesti Panga rahaliste vahendite eraldamine maksevõimelisele krediidiasutusele või temaga samasse konsolideerimisgruppi kuuluvale isikule, kellel on ajutised likviidsusprobleemid, ilma et selline tehing oleks osa rahapoliitikast.
+
+### § 8<sup>1</sup>. Kriisilahendussubjekt, kriisilahenduse konsolideerimisgrupp ja likvideerimissubjekt
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(1) Kriisilahendussubjekt on Euroopa Liidus asutatud:
+
+1\) juriidiline isik, keda Finantsinspektsioon käsitab kooskõlas käesoleva seaduse §-ga 28 ettevõtjana, kelle suhtes on kriisilahenduskavas ette nähtud kriisilahendusmeede, või
+
+2\) krediidiasutus, mis ei kuulu konsolideerimisgruppi, mille suhtes kohaldatakse konsolideeritud järelevalvet krediidiasutuste seaduse § 97 lõikest 2 tulenevalt ja mille suhtes on käesoleva seaduse § 28 kohaselt koostatud kriisilahenduskavas ette nähtud kriisilahendusmeede.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2) Kriisilahenduse konsolideerimisgrupp käesoleva seaduse tähenduses on kriisilahendussubjekt koos oma tütarettevõtjaga, mis ei ole:
+
+1\) ise kriisilahendussubjekt;
+
+2\) teise kriisilahendussubjekti tütarettevõtja;
+
+3\) kolmandas riigis asutatud ettevõtja, mis ei kuulu kriisilahenduse konsolideerimisgruppi vastavalt kriisilahenduskavale, ega tema tütarettevõtja.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(3) Käesoleva paragrahvi lõikes 2 nimetatud kriisilahenduse konsolideerimisgrupina käsitatakse ka keskasutust koos temaga püsivalt seotud krediidiasutuste ja nende tütarettevõtjatega, kui vähemalt üks nendest krediidiasutustest on kriisilahendussubjekt.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(4) Käesoleva seaduse § 17<sup>2</sup> lõigetes 4 ja 5 nimetatud kriisilahendussubjektina käsitatakse ka § 2 lõike 1 punktides 3 ja 4 nimetatud finantseerimisasutust, finantsvaldusettevõtjat, segafinantsvaldusettevõtjat ja segavaldusettevõtjat.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(5) Euroopa Liidus asutatud tütarettevõtja ja Euroopa Liidus tegutsev emaettevõtja käesoleva seaduse tähenduses on ka lepinguriigis asutatud tütarettevõtja ja lepinguriigis tegutsev emaettevõtja.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(6) Likvideerimissubjekt on Euroopa Liidus asutatud juriidiline isik, kelle suhtes on konsolideerimisgrupi kriisilahenduskavas või konsolideerimisgruppi mittekuuluva isiku puhul kriisilahenduskavas ette nähtud, et ta likvideeritakse tavalises maksejõuetusmenetluses, või isik, kes kuulub kriisilahenduse konsolideerimisgruppi, kuid kes ise ei ole kriisilahendussubjekt ja kelle suhtes ei ole konsolideerimisgrupi kriisilahenduskavas allahindamise ja teisendamise õiguse kasutamist ette nähtud.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+### § 8<sup>2</sup>. Tütarettevõtja
+
+Tütarettevõtja on Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 4 lõike 1 punktis 16 määratletud tütarettevõtja. Käesoleva seaduse §-des 13, 17–21, 30, 34, 35, 70–77, 84 ja 85 sätestatud nõuete kohaldamiseks § 8<sup>1</sup> lõike 2 punktis 3 nimetatud kriisilahenduse konsolideerimisgruppide suhtes hõlmab tütarettevõtja mõiste asjakohasel juhul keskasutusega püsivalt seotud krediidiasutusi, keskasutust ennast või nende vastavaid tütarettevõtjaid, olenevalt sellest, mis viisil sellised kriisilahenduse konsolideerimisgrupid täidavad § 18 lõikes 2<sup>2</sup> sätestatud nõuet.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+### § 8<sup>3</sup>. Keskse vastaspoole kriisilahendusega seotud terminid
+
+Käesoleva seaduse 9<sup>1</sup>. peatükis määratlemata termineid kasutatakse Euroopa Parlamendi ja nõukogu määruse (EL) 2021/23 tähenduses.
+
+\[RT I, 30.11.2022, 1 - jõust. 10.12.2022\]
+
+### § 9. Muud mõisted
+
+Käesolevas seaduses määratlemata termineid kasutatakse Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 tähenduses.
+
+## 2. peatükk — Krediidiasutuse kohustused ja kriisiennetamiseks kavandatavad meetmed
+
+### 1. jagu — Finantsseisundi taastamise kavandamine
+
+#### § 10. Krediidiasutuse finantsseisundi taastamise kava koostamine ja esitamine
+
+(1) Krediidiasutus peab koostama ja esitama Finantsinspektsioonile finantsseisundi taastamise kava, millega nähakse ette meetmed, mida krediidiasutus rakendab oma finantsseisundi taastamiseks pärast selle olulist halvenemist.
+
+(2) Eestis konsolideerimisgrupi emaettevõtjana tegutsev krediidiasutus, emaettevõtjana tegutsev finantsvaldusettevõtja või emaettevõtjana tegutsev segafinantsvaldusettevõtja (edaspidi käesolevas peatükis *emaettevõtja*) on kohustatud koostama ja esitama Finantsinspektsioonile emaettevõtja poolt juhitava kogu konsolideerimisgrupi finantsseisundi taastamise kava.
+
+(3) Kui Eestis asutatud krediidiasutus on konsolideerimisgrupi tütarettevõtja ja konsolideerimisgrupi emaettevõtja on asutatud teises lepinguriigis, ei pea eraldi finantsseisundi taastamise kava tütarettevõtja kohta koostama, välja arvatud juhul, kui:
+
+1\) krediidiasutus kuulub nõukogu määruse (EL) nr 1024/2013, millega antakse Euroopa Keskpangale eriülesanded seoses krediidiasutuste usaldatavusnõuete täitmise järelevalve poliitikaga (ELT L 287, 29.10.2013, lk 63–89), artikli 6 lõike 4 kohaselt Euroopa Keskpanga otsese järelevalve alla;
+
+2\) krediidiasutuse vara väärtus on suurem kui 30 miljardit eurot;
+
+3\) krediidiasutuse vara moodustab rohkem kui 20 protsenti Eesti sisemajanduse kogutoodangust, välja arvatud juhul, kui tema vara väärtus on väiksem kui 5 miljardit eurot.
+
+(4) Kui emaettevõtja on asutatud teises lepinguriigis, võib Finantsinspektsioon nõuda konsolideerimisgruppi kuuluvalt Eestis asutatud krediidiasutusest tütarettevõtjalt finantsseisundi taastamise kava koostamist.
+
+(5) Finantsseisundi taastamise kava tuleb esitada läbivaatamiseks Finantsinspektsioonile. Enne kava Finantsinspektsioonile esitamist peab selle heaks kiitma krediidiasutuse või emaettevõtja juhatus ja kinnitama nõukogu. Krediidiasutus või emaettevõtja peab suutma tõendada Finantsinspektsiooni rahuldaval viisil, et finantsseisundi taastamise kava vastab kõigile käesolevas seaduses sätestatud nõuetele.
+
+(6) Krediidiasutus või emaettevõtja peab finantsseisundi taastamise kava üle vaatama vähemalt kord aastas või pärast krediidiasutuse või konsolideerimisgrupi õigusliku seisundi või organisatsioonilise struktuuri muutmist, selle majandustegevuse või finantsolukorraga seotud sündmust või juhtumit, mis võib kava oluliselt mõjutada või luua vajaduse selle muutmiseks. Finantsinspektsioon võib nõuda kava sagedamat ajakohastamist. Uuendatud kava tuleb esitada Finantsinspektsioonile.
+
+(7) Finantsinspektsioon kehtestab esimese finantsseisundi taastamise kava koostamise tähtaja.
+
+(8) Kui krediidiasutus või emaettevõtja ei koosta finantsseisundi taastamise kava käesoleva paragrahvi lõikes 7 nimetatud tähtaja jooksul, võib Finantsinspektsioon teha ettekirjutuse, millega nõuab, et krediidiasutus esitab taastamise kava esimese mõistliku tähtaja jooksul.
+
+\[RT I, 10.01.2019, 1 - jõust. 20.01.2019\]
+
+#### § 11. Finantsseisundi taastamise kavale esitatavad nõuded
+
+(1) Finantsseisundi taastamise kava peab sisaldama:
+
+1\) ülevaadet kava põhielementidest ja kokkuvõtet üldisest suutlikkusest finantsseisund taastada;
+
+2\) ülevaadet olulistest muutustest, mis on toimunud krediidiasutuses pärast kõige viimase finantsseisundi taastamise kava esitamist;
+
+3\) kommunikatsiooni ja teabe avalikustamise kava, mis muu hulgas sisaldab ülevaadet, kuidas krediidiasutus kavatseb toime tulla võimalike negatiivsete turureaktsioonidega;
+
+4\) meetmeid lisakapitali või -likviidsuse saamise võimaluste kohta, et tagada krediidiasutuse jätkusuutlikkus ja finantsseisundi säilitamine või taastamine;
+
+5\) prognoositavat ajakava iga kava olulise aspekti elluviimiseks;
+
+6\) kava tulemuslikku ja õigeaegset elluviimist pärssivate võimalike oluliste asjaolude üksikasjalikku kirjeldust, sealhulgas seda, milline on mõju klientidele ja vastaspooltele ning teistele samasse konsolideerimisgruppi kuuluvatele isikutele;
+
+7\) kriitiliste funktsioonide väljatoomist;
+
+8\) krediidiasutuse põhiäriliinide ja vara väärtuse ning turustatavuse määramise üksikasjalikku kirjeldust;
+
+9\) üksikasjalikku kirjeldust selle kohta, kuidas finantsseisundi taastamise kava on seotud krediidiasutuse juhtimisstruktuuriga, ning kava heakskiitmise suhtes kehtivate põhimõtete ja menetluste ning nende organisatsioonis töötavate inimeste määramise kohta, kellele tehakse ülesandeks kava koostamine ja elluviimine;
+
+10\) krediidiasutuse omavahendite säilitamise või taastamise korda ja meetmeid;
+
+11\) korda ja meetmeid, et tagada krediidiasutuse piisav juurdepääs ettenägematute kulude katmise reservile, sealhulgas võimalikele likviidsusallikatele, hinnangut olemasoleva tagatise kohta, ning kui asjakohane, hinnangut selle kohta, kuivõrd on võimalik kanda likviidseid vahendeid üle ühelt konsolideerimisgruppi kuuluvalt isikult või äriliinilt teisele, et tagada krediidiasutuse suutlikkus oma tegevust jätkata ja täita oma kohustused nende sissenõutavaks muutumisel;
+
+12\) riski ja finantsvõimenduse vähendamise korda ja meetmeid;
+
+13\) kohustuste restruktureerimise korda ja meetmeid;
+
+14\) äriliinide restruktureerimise korda ja meetmeid;
+
+15\) korda ja meetmeid, mis on vajalikud pideva juurdepääsu säilitamiseks finantsturgude infrastruktuuridele;
+
+16\) korda ja meetmeid, mis on vajalikud krediidiasutuse tegevusprotsesside jätkuvaks pidevaks toimimiseks, sealhulgas Euroopa Parlamendi ja nõukogu määruse (EL) 2022/2554, mis käsitleb finantssektori digitaalset tegevuskerksust ning millega muudetakse määrusi (EÜ) nr 1060/2009, (EL) nr 648/2012, (EL) nr 600/2014, (EL) nr 909/2014 ja (EL) 2016/1011 (ELT L 333, 27.12.2022, lk 1–79), kohaselt loodud ja hallatavate võrgu- ja infosüsteemide toimimiseks;
+
+\[RT I, 11.10.2024, 1 - jõust. 17.01.2025\]
+
+17\) eelkokkuleppeid, et soodustada vara või äriliinide võõrandamist ajavahemiku jooksul, mis on piisav finantsilise usaldusväärsuse taastamiseks;
+
+18\) muid juhtimismeetmeid või -strateegiaid finantsilise usaldusväärsuse taastamiseks ja nende meetmete või strateegiate prognoositavat finantsmõju;
+
+19\) ettevalmistavaid meetmeid, mida krediidiasutus on rakendanud või kavatseb rakendada, et soodustada finantsseisundi taastamise kava elluviimist, sealhulgas meetmeid, mis on vajalikud krediidiasutuse õigeaegseks rekapitaliseerimiseks;
+
+20\) asjakohaseid tingimusi ja korda, mis tagaksid finantsseisundi pideva jälgimise ning õigeaegse finantsseisundi taastamise meetmete rakendamise, sealhulgas krediidiasutuse kehtestatud näitajate raamistikku, milles on kindlaks määratud kriteeriumid, mille puhul võib rakendada finantsseisundi taastamise kavas nimetatud asjakohaseid meetmeid; kõnealused näitajad võivad olla krediidiasutuse finantsseisundiga seotud kvalitatiivsed või kvantitatiivsed näitajad, mida on võimalik kergesti jälgida;
+
+21\) mitut eri raskusastmega makromajanduslike ja finantsraskustega analüüsitud stsenaariumi, mis on krediidiasutuse konkreetset olukorda arvestades asjakohased ning mis näevad muu hulgas ette kogu süsteemi haaravaid sündmusi ning krediidiasutusele, ja kui krediidiasutus kuulub konsolideerimisgruppi, siis sellele konsolideerimisgrupile omaseid raskusi;
+
+22\) erinevaid võimalusi ja meetmeid finantsseisundi taastamiseks, arvestades käesoleva lõike punktis 21 nimetatud analüüsitud stsenaariume;
+
+23\) meetmeid, mida krediidiasutus saaks rakendada, kui käesoleva seaduse §-s 36 sätestatud varajase sekkumise tingimused on täidetud;
+
+24\) analüüsi võimaluste kohta taotleda Eesti Panga vahendeid, sealhulgas erakorralist likviidsuslaenu ning eeldatavalt tagatiseks kvalifitseeruva vara kindlaksmääramist; kava peab käsitlema tingimusi, kuidas ja millal krediidiasutus saab nimetatud vahendeid taotleda.
+
+(2) Konsolideerimisgrupi finantsseisundi taastamise kava peab sisaldama:
+
+1\) käesoleva paragrahvi lõikes 1 nimetatud informatsiooni konsolideerimisgrupi kohta;
+
+2\) meetmeid, mille rakendamist võib nõuda Euroopa Majanduspiirkonnas tegutseva emaettevõtja ja iga üksiku tütarettevõtja suhtes ning mille abil saavutatakse konsolideerimisgrupi kui terviku või konsolideerimisgruppi kuuluva mis tahes krediidiasutuse stabiliseerumine;
+
+3\) käesoleva paragrahvi lõike 1 punktis 21 sätestatud stsenaariumi analüüsi, kas konsolideerimisgrupisiseste finantsseisundi taastamise meetmete rakendamisel, sealhulgas kavaga hõlmatud üksikute üksuste tasandil, võib esineda takistusi ning kas konsolideerimisgrupisisesel omavahendite kiirel ülekandmisel või kohustuste täitmisel või vara tagastamisel võib esineda olulisi praktilisi või õiguslikke takistusi;
+
+4\) grupisisese finantstoetuse pakkumise korda, kui konsolideerimisgrupp on käesoleva peatüki 3. jao kohaselt sõlminud konsolideerimisgrupisisese finantstoetuse lepingu;
+
+5\) korda, mis tagab emaettevõtja, tütarettevõtjate ning vajaduse korral oluliste filiaalide, finantsvaldusettevõtjate, segafinantsvaldusettevõtjate ja segavaldusettevõtjate tasandil võetavate meetmete koordineerituse ja sidususe.
+
+(2<sup>1</sup>) Krediidiasutuse finantsseisundi taastamise kava peab olema praktiliselt teostatav ja tagama krediidiasutuse jätkusuutliku toimimise.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(3) Finantsseisundi taastamise kavas ei või finantsseisundi säilitamiseks või taastamiseks ette näha erakorralise avaliku finantstoetuse kasutamist.
+
+(4) Valdkonna eest vastutav minister võib määrusega kehtestada täpsemad tingimused finantsseisundi taastamise kava sisu ja selle koostamise kohta.
+
+(5) Finantsinspektsioon võib nõuda, et krediidiasutus säilitaks üksikasjalikud andmed finantslepingute kohta, mille üheks osapooleks krediidiasutus on. Krediidiasutus esitab Finantsinspektsiooni nõudmisel nimetatud andmed.
+
+(6) Krediidiasutuse juhatus peab kohe teavitama Finantsinspektsiooni, kui on jõutud käesoleva paragrahvi lõike 1 punktis 20 nimetatud näitajate tasemele või on need ületatud.
+
+(7) Kui krediidiasutuse juhatuse hinnangul on see konkreetses olukorras põhjendatud ja sellisest otsusest on viivitamata teavitatud Finantsinspektsiooni, võib krediidiasutus:
+
+1\) rakendada finantsseisundi taastamise kavas määratud asjakohaseid meetmeid ka juhul, kui käesoleva paragrahvi lõike 1 punktis 20 nimetatud näitajaid ei ole ületatud või nende tasemele ei ole jõutud;
+
+2\) hoiduda finantsseisundi taastamise kavas määratud meetmete rakendamisest.
+
+#### § 12. Finantsseisundi taastamise kava hindamine ja menetlus
+
+(1) Finantsinspektsioon hindab kuue kuu jooksul täieliku finantsseisundi taastamise kava esitamisest arvates selle vastavust käesolevas seaduses sätestatud nõuetele ja järgmistele kriteeriumidele:
+
+1\) millises ulatuses on tõenäoline, et kavas ette nähtud meetmete rakendamisel säilib või taastub krediidiasutuse toimimise jätkusuutlikkus ja finantsseisund, võttes arvesse ettevalmistusmeetmeid, mida krediidiasutus on rakendanud või kavatseb rakendada;
+
+2\) kui tõenäoline on, et finantsseisundi taastamise kava ja selles sisalduvaid konkreetseid meetmeid on võimalik kiiresti ja tõhusalt rakendada ka majanduslikus või finantsilises stressiolukorras, vältides nii palju kui võimalik olulist negatiivset mõju finantssüsteemile, sealhulgas stsenaariumide korral, millega kaasneks finantsseisundi taastamise kavade samaaegne rakendamine teiste krediidiasutuste ja investeerimisühingute poolt.
+
+(2) Finantsinspektsioon võtab käesoleva paragrahvi lõikes 1 sätestatud hinnangu andmisel arvesse krediidiasutuse kapitali- ja rahastamisstruktuuri sobivust krediidiasutuse organisatsioonilise struktuuri keerukuse ja riskiprofiili seisukohalt.
+
+(3) Kui see on vajalik, konsulteerib Finantsinspektsioon käesoleva paragrahvi lõikes 1 sätestatud hinnangu andmisel nende lepinguriikide finantsjärelevalve asutustega, kus asuvad krediidiasutuse olulised filiaalid.
+
+#### § 13. Konsolideerimisgrupi ja konsolideerimisgruppi kuuluva tütarettevõtja finantsseisundi taastamise kava hindamine ja menetlus
+
+(1) Kui Finantsinspektsioon teostab konsolideeritud järelevalvet, edastab ta talle esitatud konsolideerimisgrupi finantsseisundi taastamise kava:
+
+1\) selle lepinguriigi finantsjärelevalve asutustele, kes teostab järelevalvet konsolideerimisgrupi tütarettevõtja üle, ja selle riigi kriisilahendusasutusele;
+
+2\) vajaduse korral selle lepinguriigi finantsjärelevalve asutustele, kus asub konsolideerimisgruppi kuuluv oluline filiaal;
+
+3\) vajaduse korral selle kolmanda riigi finantsjärelevalve asutustele, kus on asutatud konsolideerimisgrupi tütarettevõtja, kui selles riigis kohaldatakse käesoleva seaduse §-s 51 sätestatud konfidentsiaalsusnõuetega sarnaseid konfidentsiaalsusnõudeid.
+
+(2) Kui Finantsinspektsioon teostab konsolideeritud järelevalvet, teeb ta kõik endast oleneva, et jõuda nelja kuu jooksul käesoleva paragrahvi lõikes 1 nimetatud konsolideerimisgrupi finantsseisundi taastamise kava edastamisest arvates ühisotsusele teise lepinguriigi finantsjärelevalve asutusega, kes teostab konsolideerimisgruppi kuuluva tütarettevõtja üle järelevalvet, järgmistes küsimustes:
+
+1\) kas konsolideerimisgrupi finantsseisundi taastamise kava vastab käesolevas seaduses sätestatud nõuetele, sealhulgas millises ulatuses on tõenäoline, et kavas kavandatud meetmete rakendamine säilitab või taastab konsolideerimisgrupi jätkusuutlikkuse ja finantsseisundi, võttes arvesse ettevalmistusmeetmeid, mida konsolideerimisgrupp on rakendanud või kavatseb rakendada, või kui tõenäoline on, et kava ja selles sisalduvaid konkreetseid meetmeid on võimalik kiiresti ja tõhusalt rakendada ka stressiolukorras, vältides nii palju kui võimalik olulist negatiivset mõju finantssüsteemile, sealhulgas stsenaariumide korral, millega kaasneks finantsseisundi taastamise kavade samaaegne rakendamine teiste krediidiasutuste ja investeerimisühingute poolt;
+
+2\) milliseid käesoleva seaduse §-s 14 sätestatud meetmeid konsolideerimisgrupi tasemel tuleks kohaldada, kui konsolideerimisgrupi finantsseisundi taastamise kavas esineb olulisi puudusi;
+
+3\) kas konsolideerimisgruppi kuuluvate tütarettevõtjatest krediidiasutustele tuleks koostada individuaalne finantsseisundi taastamise kava.
+
+(3) Finantsinspektsioon võtab käesoleva seaduse § 12 lõikes 1 sätestatud hinnangu andmisel arvesse, kas konsolideerimisgrupi kapitali- ja rahastamisstruktuur sobivad selle konsolideerimisgrupi organisatsioonilise struktuuriga ja riskiprofiiliga.
+
+(4) Kui Finantsinspektsioon teostab konsolideeritud järelevalvet ja ühisotsusele ei jõuta käesoleva paragrahvi lõikes 2 nimetatud tähtaja jooksul, teeb Finantsinspektsioon kuue kuu jooksul täieliku finantsseisundi taastamise kava esitamisest arvates oma otsuse käesoleva paragrahvi lõike 2 punktis 1 sätestatud konsolideerimisgrupi finantsseisundi taastamise kava kohta ja sama lõike punktis 2 nimetatud meetmete kohta, mida tuleks kohaldada emaettevõtja tasemel, võttes seejuures võimaluse korral arvesse teise asjaomase lepinguriigi finantsjärelevalve asutuse seisukohti ja reservatsioone. Finantsinspektsiooni otsus ei hõlma meetmeid, mida tuleks kohaldada tütarettevõtja tasandil vastavalt käesoleva paragrahvi lõike 2 punktile 2. Finantsinspektsioon teeb oma otsuse emaettevõtjale ja teistele asjaomastele finantsjärelevalve asutustele teatavaks. Käesoleva lõike esimeses lauses sätestatu ei välista konsolideerimisgrupi finantsseisundi taastamise kava kohta ühisotsuse tegemist nende finantsjärelevalve asutustega, kellega Finantsinspektsioonil ei ole eriarvamusi.
+
+(5) Kui Finantsinspektsioon teostab konsolideerimisgruppi kuuluva tütarettevõtja üle järelevalvet ja tema hinnangul peaks tütarettevõtja koostama individuaalse finantsseisundi taastamise kava, teavitab Finantsinspektsioon sellest konsolideeritud järelevalvet teostavat finantsjärelevalve asutust ja püüab jõuda sellega ühisotsusele. Kui ühisotsusele ei jõuta nelja kuu jooksul arvates finantsseisundi taastamise kava edastamisest, teeb Finantsinspektsioon otsuse, kas tütarettevõtja kohta tuleb eraldi koostada finantsseisundi taastamise kava või rakendatakse käesoleva paragrahvi lõike 2 punkti 2 kohaselt oluliste puuduste kõrvaldamise meetmeid tütarettevõtja tasandil.
+
+(6) Finantsinspektsioon võib pöörduda Euroopa Pangandusjärelevalve Asutuse poole, et ta abistaks vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 1093/2010, millega asutatakse Euroopa Järelevalveasutus (Euroopa Pangandusjärelevalve), muudetakse otsust nr 716/2009/EÜ ning tunnistatakse kehtetuks komisjoni otsus 2009/78/EÜ (ELT L 331, 15.12.2010, lk 12–47), artikli 31 punktile c finantsjärelevalve asutusi ühisotsusele jõudmisel. Kui ühisotsusele ei jõuta, võib Finantsinspektsioon enne neljakuulise tähtaja lõppu pöörduda ka erimeelsuste korral Euroopa Pangandusjärelevalve Asutuse poole vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 1093/2010 artiklile 19. Euroopa Pangandusjärelevalve Asutuse poole ei pöörduta pärast neljakuulise tähtaja lõppu ega pärast ühisotsusele jõudmist.
+
+(7) Kui teise lepinguriigi finantsjärelevalve asutus on käesoleva paragrahvi lõikes 2 nimetatud tähtaja jooksul teavitanud Euroopa Pangandusjärelevalve Asutust ühisotsuse saavutamisega seotud erimeelsustest, lükkab Finantsinspektsioon otsuse tegemise edasi ja ootab ära Euroopa Pangandusjärelevalve Asutuse otsuse ning teeb seejärel oma otsuse kooskõlas Euroopa Pangandusjärelevalve Asutuse otsusega. Kui Euroopa Pangandusjärelevalve Asutus ei ole ühe kuu jooksul arvates teise lepinguriigi finantsjärelevalve asutuse teavitusest otsust teinud, teeb Finantsinspektsioon oma otsuse.
+
+(8) Kui Finantsinspektsioon teostab konsolideeritud järelevalvet, konsulteerib ta vajaduse korral käesoleva paragrahvi lõikes 2 sätestatud ühisotsuse tegemisel selle lepinguriigi finantsjärelevalve asutusega, kus asub oluline filiaal, ja selle kolmanda riigi finantsjärelevalve asutusega, kus on asutatud konsolideerimisgrupi tütarettevõtja, kui selles riigis kohaldatakse käesoleva seaduse §-s 51 sätestatud konfidentsiaalsusnõuetega sarnaseid konfidentsiaalsusnõudeid.
+
+(9) Käesolevas paragrahvis sätestatud ühisotsust või ühisotsuse puudumise korral Finantsinspektsiooni tehtud otsuseid käsitatakse lõplikuna teiste lepinguriikide kriisilahendusasutuste suhtes.
+
+(10) Kui Finantsinspektsioon jõuab teise lepinguriigi finantsjärelevalve asutusega ühisotsusele käesoleva paragrahvi lõikes 2 nimetatud küsimustes, ei takista see Finantsinspektsioonil nõuda eraldi finantsseisundi taastamise kava koostamist konsolideerimisgruppi kuuluva Eestis asutatud tütarettevõtjast krediidiasutuse puhul.
+
+(11) Kui Finantsinspektsioon teostab konsolideeritud järelevalvet, edastab ta lõpliku konsolideerimisgrupi finantsseisundi taastamise kava käesoleva paragrahvi lõikes 1 nimetatud finantsjärelevalve asutustele.
+
+#### § 14. Finantsseisundi taastamise kava puuduste kõrvaldamine
+
+(1) Kui Finantsinspektsioon tuvastab olulisi puudusi finantsseisundi taastamise kavas või leiab, et selle rakendamine oleks oluliselt takistatud, teavitab Finantsinspektsioon krediidiasutust või emaettevõtjat, et puudused või takistused tuleb kõrvaldada kahe kuu jooksul teate saamisest arvates.
+
+(2) Krediidiasutuse või emaettevõtja taotluse alusel võib Finantsinspektsioon käesoleva paragrahvi lõikes 1 sätestatud tähtaega pikendada ühe kuu võrra.
+
+(3) Kui krediidiasutus või emaettevõtja ei esita käesoleva paragrahvi lõikes 1 või 2 ette nähtud aja jooksul muudetud finantsseisundi taastamise kava või kui Finantsinspektsioon leiab, et tuvastatud puudusi või takistusi ei ole muudetud kavast kõrvaldatud, võib Finantsinspektsioon anda mõistliku tähtaja, mille jooksul krediidiasutus või emaettevõtja kõrvaldab kavas esinevad puudused või selle rakendamisel tekkida võivad takistused.
+
+(4) Kui krediidiasutus või emaettevõtja ei täida Finantsinspektsiooni nõudmisi käesolevas paragrahvis sätestatud tähtaegade jooksul või kui Finantsinspektsiooni hinnangul ei ole pakutud meetmed puuduste ja takistuste kõrvaldamiseks piisavad, võib Finantsinspektsioon teha ettekirjutuse, millega nõuab, et krediidiasutus või emaettevõtja:
+
+1\) vähendaks oma riske, sealhulgas likviidsusriski;
+
+2\) võimaldaks rekapitaliseerimismeetmete õigeaegset rakendamist;
+
+3\) vaataks läbi oma strateegia ja struktuuri;
+
+4\) muudaks oma rahastamisstrateegiat, et suurendada põhiäriliinide ja kriitiliste funktsioonide vastupanuvõimet;
+
+5\) muudaks oma juhtimisstruktuuri.
+
+#### § 15. Finantsseisundi taastamise kava koostamine lihtsustatud kujul
+
+(1) Krediidiasutus või emaettevõtja võib esitada Finantsinspektsioonile taotluse lihtsustatud finantsseisundi taastamise kava koostamiseks ja esitamiseks (edaspidi käesolevas paragrahvis *taotlus*). Krediidiasutus või emaettevõtja (edaspidi käesolevas paragrahvis *taotleja*) võib taotleda:
+
+1\) käesoleva seaduse kohaselt nõutava finantsseisundi taastamise kava või konsolideerimisgrupi finantsseisundi taastamise kava sisu vähendamist;
+
+2\) käesolevas seaduses sätestatud finantsseisundi taastamise kava ajakohastamise sageduse vähendamist.
+
+(2) Lihtsustatud finantsseisundi taastamise kava koostamist ei saa taotleda käesoleva seaduse § 10 lõikes 3 nimetatud krediidiasutus.
+
+(3) Käesoleva paragrahvi lõikes 1 nimetatud taotlus peab sisaldama taotleja põhjendatud hinnangut, millist mõju avaldaks krediidiasutuse või konsolideerimisgrupi maksejõuetus ning sellele järgnev lõpetamine ja likvideerimine pankrotimenetluse alusel finantsturgudele, teistele krediidiasutustele, rahastamistingimustele või majandusele laiemalt.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(4) Taotleja käesoleva paragrahvi lõikes 3 sätestatud hinnang peab arvestama krediidiasutuse või konsolideerimisgrupi majandustegevuse iseloomu, aktsionäride struktuuri, õiguslikku vormi, riskiprofiili, krediidiasutuse või konsolideerimisgrupi suurust ja õiguslikku staatust, krediidiasutuse seotust teiste krediidiasutuste või investeerimisühingutega või finantssüsteemiga üldiselt, tema tegevuse ulatust ja keerukust, kuulumist krediidiasutuste kaitseskeemi või Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 113 lõikes 7 sätestatud kooperatiivse vastastikuse solidaarsuse süsteemi (edaspidi *krediidiasutuste kaitseskeem*) ning seda, kas krediidiasutus osutab investeerimisteenuseid.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(5) Kui taotluse menetlemise ajal toimuvad muudatused käesoleva paragrahvi lõigetes 1 ja 3 nimetatud dokumentides ning hinnangus, esitab taotleja viivitamata pärast muudatuste tegemist või nendest teadasaamist Finantsinspektsioonile dokumendid või hinnangu uuendatud kujul.
+
+(6) Kui taotleja ei ole esitanud kõiki nimetatud dokumente või need ei ole täielikud või nõuetekohaselt vormistatud või nimetatud hinnang on puudulik, on Finantsinspektsioonil õigus nõuda taotlejalt puuduste kõrvaldamist. Kui taotleja ei kõrvalda nimetatud puudusi ette nähtud tähtaja jooksul või ei ole tähtpäevaks esitanud Finantsinspektsiooni nõutud dokumente või uuendatud hinnangut, võib Finantsinspektsioon jätta taotluse läbi vaatamata. Taotluse läbi vaatamata jätmise korral tagastab Finantsinspektsioon esitatud dokumendid.
+
+(7) Kui esitatud dokumentide või hinnangu põhjal ei ole võimalik adekvaatselt hinnata mõju, mida krediidiasutuse maksejõuetus ja sellele järgnev lõpetamine ning likvideerimine võiks avaldada finantsturgudele, muudele krediidiasutustele, rahastamistingimustele või majandusele laiemalt, võib Finantsinspektsioon nõuda lisaandmete ja -dokumentide esitamist.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(8) Finantsinspektsioon hindab taotleja esitatud dokumente ja hinnangut ning mõju, mida krediidiasutuse maksejõuetus ning sellele järgnev lõpetamine ja likvideerimine võiks avaldada finantsturgudele, muudele krediidiasutustele, rahastamistingimustele või majandusele laiemalt, ning otsustab kahe kuu jooksul taotluse esitamisest arvates, kas anda luba lihtsustatud finantsseisundi taastamise kava koostamiseks. Finantsinspektsioon määrab oma otsusega, millises ulatuses lihtsustatud nõudeid krediidiasutusele või konsolideerimisgrupile kohaldada. Finantsinspektsioon võib otsuse raames muuta ka käesoleva seaduse § 10 lõikes 7 sätestatud esimese finantsseisundi taastamise kava koostamise tähtaega. Oma hinnangus arvestab Finantsinspektsioon krediidiasutuse või konsolideerimisgrupi rahastamisallikate olemust, sealhulgas vastastikku tagatud rahastamist või kohustusi, ja astet, millisel määral krediidiasutus saab kindlalt loota konsolideerimisgrupi toetusele.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(9) Finantsinspektsioon ei anna luba lihtsustatud finantsseisundi taastamise kava koostamiseks krediidiasutusele või konsolideerimisgrupile, kelle maksejõuetus ning sellele järgnev lõpetamine ja likvideerimine võivad avaldada olulist mõju finantsturgudele, muudele krediidiasutustele, rahastamistingimustele või majandusele laiemalt.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(10) Kui Finantsinspektsiooni hinnangul ei ole luba lihtsustatud finantsseisundi taastamise kava koostamiseks enam õigustatud, võib Finantsinspektsioon igal ajal loa kehtetuks tunnistada ja nõuda finantsseisundi taastamise kava koostamist täies mahus. Finantsinspektsioon annab mõistliku tähtaja uue finantsseisundi taastamise kava koostamiseks.
+
+\[RT I, 04.07.2024, 2 - jõust. 14.07.2024\]
+
+(11) Käesoleva paragrahvi lõikes 8 nimetatud luba ei mõjuta Finantsinspektsiooni õigust rakendada kriisiennetus- või kriisilahendusmeedet.
+
+(12) Vajaduse korral konsulteerib Finantsinspektsioon enne käesoleva paragrahvi lõikes 8 nimetatud otsuse tegemist Eesti Pangaga.
+
+(13) Finantsinspektsioon teavitab Euroopa Pangandusjärelevalve Asutust lihtsustatud finantsseisundi taastamise kava koostamise loa andmisest.
+
+#### § 16. Finantsseisundi taastamise kava koostamise nõude kohaldamata jätmine
+
+(1) Krediidiasutus võib esitada Finantsinspektsioonile taotluse finantsseisundi taastamise kava koostamata jätmise kohta, kui:
+
+1\) ta on otseselt seotud konsolideerimisgrupi emaettevõtjaga või konsolideerimisgrupis keskse finantseerimist korraldava isikuga, kes kooskõlas Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikliga 10 on usaldatavusnõuete täitmisest täielikult või osaliselt vabastatud või
+
+2\) ta kuulub mõnda krediidiasutuste kaitseskeemi.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2) Krediidiasutus peab tõendama käesoleva paragrahvi lõikes 1 sätestatud tingimuste täitmist.
+
+(3) Kui taotluse menetlemise ajal muutub krediidiasutuse olukord käesoleva paragrahvi lõikes 1 või 2 sätestatud tingimuste suhtes, teavitab krediidiasutus sellest kohe Finantsinspektsiooni.
+
+(4) Finantsinspektsioon hindab käesoleva paragrahvi lõikes 1 nimetatud tingimuste täitmist ja otsustab kahe kuu jooksul taotluse esitamisest arvates, kas anda krediidiasutusele finantsseisundi taastamise kava koostamata jätmise luba.
+
+(5) Kui Finantsinspektsioon annab käesoleva paragrahvi lõikes 4 nimetatud loa, peab:
+
+1\) finantsseisundi taastamise kava koostama konsolideeritud alusel käesoleva paragrahvi lõike 1 punktis 1 nimetatud keskse finantseerimist korraldava isiku ja sellega seotud krediidiasutuste suhtes Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 10 tähenduses või
+
+2\) krediidiasutuste kaitseskeem vastama finantsseisundi taastamise kava nõuetele koostöös kõikide oma liikmetega, kes ei koosta finantsseisundi taastamise kava.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(6) Finantsinspektsioon teavitab Euroopa Pangandusjärelevalve Asutust käesoleva paragrahvi lõike 4 kohaselt antud loast.
+
+### 2. jagu — Omavahendite ja kõlblike kohustuste miinimumnõue
+
+#### § 17. Omavahendite ja kõlblike kohustuste minimaalse taseme nõue
+
+(1) Krediidiasutus peab igal ajal täitma omavahendite ja kõlblike kohustuste minimaalse taseme nõuet (edaspidi käesolevas jaos *miinimumnõue*).
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2) Miinimumnõue arvutatakse omavahendite ja kõlblike kohustuste summana ning seda väljendatakse protsentides:
+
+1\) koguriskipositsioonist, mis on arvutatud vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 92 lõikele 3;
+
+2\) koguriskipositsiooni näitajast, mis on arvutatud vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artiklitele 429 ja 429a.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2<sup>1</sup>) Kohustused arvatakse kriisilahendussubjekti omavahendite ja kõlblike kohustuste hulka üksnes siis, kui need vastavad Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artiklites 72a, 72b, välja arvatud lõike 2 punkt d, ja artiklis 72c sätestatud tingimustele.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2<sup>2</sup>) Erandina käesoleva paragrahvi lõikest 2<sup>1</sup> käsitatakse käesoleva seaduse tähenduses kõlblike kohustustena ka Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artiklis 92a või 92b nimetatud nõuetele vastavaid kohustusi, mis on määratletud nimetatud määruse artiklis 72k ning kindlaks määratud kooskõlas sama määruse II osa I jaotise 5.a peatükiga.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2<sup>3</sup>) Investeerimisühingute puhul käsitatakse käesolevas seaduses individuaalselt kohalduvate omavahendite nõuetega seonduvaid viiteid järgmiselt:
+
+1\) käesolevas seaduses sisalduvaid koguomavahendite suhtarvu nõudega seonduvaid viiteid tuleb vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 92 lõike 1 punktile c käsitada viitena Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033, mis käsitleb investeerimisühingute suhtes kohaldatavaid usaldatavusnõudeid ning millega muudetakse määrusi (EL) nr 1093/2010, (EL) nr 575/2013, (EL) nr 600/2014 ja (EL) nr 806/2014 (ELT L 314, 05.12.2019, lk 1–63), artikli 11 lõikele 1;
+
+2\) käesolevas seaduses sisalduvad koguriskipositsiooniga seonduvad viited Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 92 lõikele 3 on viited Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 artikli 11 lõike 1 alusel kohaldatavale nõudele, mis on korrutatud 12,5-ga.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(3) Hüpoteekkrediidiga tegelevad krediidiasutused, kes rahastavad ennast pandikirjade väljastamise kaudu ja kellel ei ole õigust hoiuste kaasamiseks, vabastab Finantsinspektsioon miinimumnõude täitmise kohustusest, kui:
+
+1\) selliste krediidiasutuste suhtes kohaldatakse tavapärast maksejõuetusmenetlust või käesolevas seaduses sätestatud aktsiate ja varade võõrandamise, sildasutuse loomise või vara eraldamise meedet;
+
+2\) käesoleva lõike punktis 1 nimetatud menetluse kohaselt kannavad kriisilahenduse eesmärkide täitmiseks kahju krediidiasutuse võlausaldajad, sealhulgas pandikirjade omanikud.
+
+(3<sup>1</sup>) Kohustused, mis tulenevad tuletisinstrumendi tunnustega võlainstrumentidest, sealhulgas struktureeritud väärtpaberid, ning vastavad käesoleva paragrahvi lõikes 2<sup>1</sup> nimetatud tingimustele, välja arvatud Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 72a lõike 2 punkti l puhul, arvatakse omavahendite ja kõlblike kohustuste summa hulka ainult juhul, kui on täidetud üks järgmistest tingimustest:
+
+1\) võlainstrumendist tuleneva kohustuse põhisumma on emiteerimise ajal teada, see on fikseeritud või suurenev ja seda ei mõjuta tuletisinstrumendi tunnus ning võlainstrumendist ja tuletisinstrumendi tunnusest tuleneva kohustuse kogusuurust saab igapäevaselt hinnata kooskõlas Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artiklitega 104 ja 105, lähtudes krediidiriskita võrdväärse instrumendi aktiivsest ja likviidsest kahesuunalisest turust;
+
+2\) võlainstrument sisaldab lepingulist tingimust, milles täpsustatakse, et nõude väärtus emitendi maksejõuetuse ja emitendi kriisilahenduse korral on fikseeritud või suurenev ning see ei ole suurem algselt makstud kohustuse summast.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(3<sup>2</sup>) Käesoleva paragrahvi lõikes 3<sup>1</sup> nimetatud võlainstrumentide, sealhulgas nende tuletisinstrumendi tunnuste suhtes ei kohaldata tasaarvestuse kokkulepet ja nende instrumentide väärtuse hindamisel ei kohaldata käesoleva seaduse § 76 lõikes 3 sätestatut.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(3<sup>3</sup>) Käesoleva paragrahvi lõikes 3<sup>1</sup> nimetatud kohustused arvatakse omavahendite ja kõlblike kohustuste summa hulka ainult kohustuste selles osas, mis vastab sama lõike punktis 1 nimetatud põhisummale või punktis 2 nimetatud fikseeritud või suurenevale summale.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(4) Kohustused, sealhulgas allutatud kohustused, mida ei kaasata täiendavate esimese taseme omavahendite või teise taseme omavahendite koosseisu, loetakse kõlblikuks ja need arvatakse omavahendite ja kõlblike kohustuste summa hulka, kui on täidetud kõik järgmised tingimused:
+
+1\) väärtpaberis väljenduv kohustus või muu võlainstrument on emiteeritud ja selle eest on täielikult tasutud;
+
+2\) võlainstrument ei kuulu krediidiasutusele ning krediidiasutus ei ole võlainstrumenti taganud ega garanteerinud;
+
+3\) krediidiasutus ei rahasta võlainstrumendi ostu otseselt ega kaudselt;
+
+4\) kohustuse täitmise järelejäänud tähtaeg on vähemalt aasta;
+
+5\) kohustus ei tulene tuletisinstrumendist;
+
+6\) kohustus ei tulene hoiusest, mis makstakse välja pankrotimenetluses esimeses järgus vastavalt krediidiasutuste seaduse § 131 lõikele 1.
+
+(4<sup>1</sup>) Teisendatavad kohustused on kohustused ja kapitaliinstrumendid, mis ei ole esimese taseme põhiomavahendite instrumendid, täiendavate esimese taseme omavahendite instrumendid või teise taseme omavahendite instrumendid ja mis ei ole käesoleva seaduse § 71 lõike 1 kohaselt kohustuste teisendamise meetme kohaldamisalast välja jäetud.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(4<sup>2</sup>) Kõlblikud kohustused on teisendatavad kohustused, mis vastavad käesoleva paragrahvi lõikes 4 või käesoleva seaduse § 19 lõike 8 punktis 1 sätestatud tingimustele, olenevalt sellest, kumb säte on kohaldatav, ning Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 72a lõike 1 punktis b sätestatud teise taseme omavahendite instrumentide tingimustele. Allutatud kõlblikud instrumendid on instrumendid, mis vastavad kõigile Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artiklis 72a nimetatud tingimustele, välja arvatud nimetatud määruse artikli 72b lõigetes 3–5 sätestatud juhtudel.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(4<sup>3</sup>) Kui Euroopa Liidus asutatud tütarettevõtjast krediidiasutus emiteerib kohustusi olemasolevale aktsionärile, kes ei kuulu samasse kriisilahenduse konsolideerimisgruppi, kuid nimetatud tütarettevõtja ise kuulub kriisilahendussubjektiga samasse kriisilahenduse konsolideerimisgruppi, arvatakse need kohustused kriisilahendussubjekti omavahendite ja kõlblike kohustuste summa hulka, kui on täidetud kõik järgmised tingimused:
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+1\) kohustused emiteeritakse kooskõlas käesoleva seaduse § 19 lõike 8 punktiga 1;
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+2\) selliste kohustuste allahindamise või teisendamise õiguse kasutamine kooskõlas käesoleva seaduse §-dega 56 ja 58 ei mõjuta kriisilahendussubjekti kontrolli tütarettevõtja üle;
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+3\) selliste kohustuste summa ei ületa määra, mis saadakse, lahutades käesoleva seaduse § 19 lõigetes 2 ja 4–6 sätestatud väärtustest sellise kohustuste summa, mis on saadud kriisilahendussubjekti jaoks emiteeritud ja tema poolt kas otse või kaudselt teiste samasse kriisilahenduse konsolideerimisgruppi kuuluvate ettevõtjate kaudu ostetud kohustuste ning § 19 lõike 8 punkti 2 kohaselt emiteeritud omavahendite liitmise tulemusel.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+4\) \[kehtetu - RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(5) Kui käesoleva paragrahvi lõike 4 punktis 4 nimetatud kohustus annab selle omanikule õiguse ennetähtaegsele tagasimaksmisele, on asjaomase kohustuse maksetähtaeg esimesel kuupäeval, millal selline õigus tekib.
+
+(6) Kui kohustusele kohaldatakse kolmanda riigi õigust, võib Finantsinspektsioon nõuda krediidiasutuselt kinnitust, et mis tahes Finantsinspektsiooni otsus kohustuse allahindamise või teisendamise kohta on rakendatav selle kolmanda riigi õiguse kohaselt, võttes arvesse kohustust reguleeriva lepingu tingimusi, rahvusvahelisi kokkuleppeid või muid asjakohaseid asjaolusid seoses kriisilahendusmeetmete rakendamisega. Kui Finantsinspektsiooni hinnangul piirab kolmanda riigi õigus kohustuse allahindamise või teisendamise võimalikku rakendamist, siis ei võeta seda kohustust miinimumnõude täitmisel arvesse.
+
+(7) Finantsinspektsioon kehtestab igale krediidiasutusele miinimumnõude. Finantsinspektsioon arvestab miinimumnõude kehtestamisel:
+
+1\) vajadust, et krediidiasutust saaks kriisilahendusmeetmeid rakendades tervendada, sealhulgas rakendades kohustuste teisendamise meedet, viisil, mis täidaks kriisilahendamise eesmärke;
+
+2\) vajadust, et krediidiasutusel oleks piisav hulk kõlblikke kohustusi kohustuste teisendamise meetme rakendamiseks kujul, mis võimaldab katta kahjumit ja taastada krediidiasutuse esimese taseme põhiomavahendite nõutud summa vastavalt krediidiasutuste seaduses sätestatud nõuetele, mis on olnud aluseks tegevusloa andmisel, et oleks tagatud krediidiasutuse tegevuse jätkuvus ja piisav avalik usaldus tema vastu;
+
+3\) vajadust tagada, et kui kriisilahenduskava näeb ette teatud kõlblike kohustuste väljaarvamise kohustuste teisendamise meetme kohaldamisalast vastavalt käesoleva seaduse §-le 72 või kui teatud kõlblikke kohustusi võib täielikult üle kanda nende omanikule, siis peab krediidiasutusel olema piisav hulk teisi kõlblikke kohustusi, mille arvel saaks kahjusid katta ja taastada krediidiasutuse esimese taseme põhiomavahendite nõutud summa vastavalt krediidiasutuste seaduses sätestatud nõuetele, mis on olnud aluseks tegevusloa andmisel, et oleks tagatud krediidiasutuse tegevuse jätkuvus;
+
+4\) krediidiasutuse suurust, äri- ja rahastamismudelit ning riskiprofiili;
+
+5\) võimaliku Tagatisfondi hoiuste tagamise osafondi vahendite kasutamise ulatust vastavalt Tagatisfondi seaduse §-le 41<sup>1</sup>;
+
+6\) krediidiasutuse võimaliku maksejõuetuse mõju finantsstabiilsusele, sealhulgas seotust muude finantssüsteemi osalistega.
+
+(7<sup>1</sup>) \[Kehtetu - RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+(7<sup>2</sup>) Miinimumnõude puhul ei võeta arvesse kohustusi, mille puhul krediidiasutus ei lisa lepingulistesse sätetesse käesoleva seaduse § 22 lõike 1 punktis 1 või 2 nimetatud tingimust või mille puhul ei ole nimetatud tingimused kohaldatavad.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(8) Valdkonna eest vastutav minister võib kehtestada määrusega täpsemad omavahendite ja kõlblike kohustuste miinimumnõude arvutamise alused.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(9) Finantsinspektsioon teavitab Euroopa Pangandusjärelevalve Asutust igast Eestis asuvale ettevõtjale kehtestatud miinimumnõudest käesoleva seaduse 2. peatüki 2. jao kohaselt, sealhulgas § 19<sup>1</sup> rakendamisest asjaomaste ettevõtjate kohta.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+(9<sup>1</sup>) Finantsinspektsioon esitab krediidiasutusele omavahendite ja kõlblike kohustuste miinimumnõude kehtestamise otsuse põhjendused koos asjakohaste hinnangutega. Krediidiasutuste seaduse § 104<sup>2</sup> lõikes 1 nimetatud täiendavate omavahendite nõude taseme muutumisel vaatab Finantsinspektsioon omavahendite ja kõlblike kohustuste miinimumnõude otsuse läbi põhjendamatu viivituseta.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(9<sup>2</sup>) Investeerimisühingute puhul käsitatakse käesolevas seaduses olevaid täiendavate omavahendite nõuetega seonduvaid viiteid krediidiasutuste seaduse §-le 104<sup>2</sup> viidetena väärtpaberituru seaduse § 235 punktile 9.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(10) Tasaarvestuskokkulepe on käesoleva seaduse tähenduses kokkulepe, mille puhul mitu nõuet või kohustust saab teisendada üheks netonõudeks, sealhulgas lepingu lõpetamisel toimuv tasaarvestus, mille puhul täitmist tingiva juhtumi toimumisel poolte kohustusi kiirendatakse, nii et need tuleb kohe täita, või need lõpetatakse, ning kummalgi juhul teisendatakse kohustused üheks netonõudeks või asendatakse ühe netonõudega. Tasaarvestuskokkulepe hõlmab ka lõpetamisel toimuvat tasaarvestust väärtpaberituru seaduse § 229<sup>2</sup> tähenduses ning makse- ja arveldussüsteemide seaduses sätestatud tasaarvestust.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(11) Vastastikune tasaarvestuskokkulepe on käesoleva seaduse tähenduses kokkulepe, mille puhul kaks või enam nõuet või kohustust kriisilahendusmenetluses oleva krediidiasutuse ja vastaspoole vahel võib teineteisega tasaarvestada.
+
+(12) Omavahendite ja kõlblike kohustuste miinimumnõude täitmata jätmise korral kasutab Finantsinspektsioon vähemalt üht järgmist abinõu:
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+1\) õigust võtta kriisilahenduskõlblikkust pärssivate asjaolude suhtes meetmeid või kõrvaldada need pärssivad asjaolud kooskõlas käesoleva seaduse §-ga 34 või 35;
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+2\) krediidiasutuste seaduse §-s 86<sup>50</sup> nimetatud esimese taseme põhiomavahendite koosseisu kuuluvate instrumentide jaotamise piirangute kohta sätestatut;
+
+3\) õigust teha ettekirjutuse krediidiasutuste seaduse § 104 alusel;
+
+4\) käesoleva seaduse §-s 36 sätestatud varajase sekkumise meetmeid.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(12<sup>1</sup>) Finantsinspektsiooni finantskriisi lahendamise funktsiooni täitja konsulteerib enne käesoleva paragrahvi lõikes 12 sätestatud õiguse kohaldamist Finantsinspektsiooni finantsjärelevalve funktsiooni täitjaga.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(13) Omavahendite ja kõlblike kohustuste miinimumnõude täitmata jätmise korral võib Finantsinspektsioon kooskõlas käesoleva seaduse §-ga 39 või 39<sup>1</sup> hinnata, kas krediidiasutus on maksejõuetu või tõenäoliselt muutub maksejõuetuks.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(14) Finantsinspektsioon konsulteerib Eesti Pangaga käesoleva paragrahvi lõikes 12 või 13 nimetatud õiguste kasutamisel.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+#### § 17<sup>1</sup>. Kõlblike kohustuste erisused
+
+(1) Kriisilahendussubjekti suhtes, kes ei ole globaalne süsteemselt oluline ettevõtja ega kriisilahendussubjekt, kelle suhtes kohaldatakse käesoleva seaduse § 18<sup>1</sup> lõiget 1 või 3, võib Finantsinspektsioon otsustada, et osa §-s 18 nimetatud nõudest täidetakse omavahenditega ja allutatud kõlblike kohustustega või § 17 lõikes 4 nimetatud kohustustega. Nimetatud erisust saab kasutada kuni summani, mis on kas kaheksa protsenti ettevõtja kohustuste kogusummast, sealhulgas omavahendid, või käesoleva seaduse § 17<sup>4</sup> lõikes 7 nimetatud valemi alusel saadud summa, olenevalt sellest, kumb on suurem, kui on täidetud järgmised tingimused:
+
+1\) käesoleva seaduse § 17 lõigetes 2<sup>1</sup>, 2<sup>2</sup> ja 3<sup>1</sup>–3<sup>3</sup> nimetatud allutamata kohustustest tulenevate nõuete rahuldamisjärk on krediidiasutuste seaduse §-s 131 nimetatud nõuete rahuldamise järjekorras sama nagu teatavatel kohustustel, mille puhul allahindamise ja teisendamise õigust käesoleva seaduse §-de 71 ja 72 alusel ei kasutata;
+
+2\) on risk, et tulenevalt allahindamise ja teisendamise õiguse kavandatud kasutamisest allutamata kohustuste puhul, mis ei ole välja jäetud allahindamise ja teisendamise õiguse kasutamisest vastavalt käesoleva seaduse §-le 71 või 72, kannavad nimetatud kohustustega seotud nõuetega võlausaldajad suuremat kahjumit, kui nad oleksid kandnud tavapärases maksejõuetusmenetluses toimunud likvideerimise korral;
+
+3\) omavahendite ja muude allutatud kohustuste summa ei ületa summat, mida on vaja selleks, et käesoleva lõike punktis 2 nimetatud võlausaldajad ei kannaks suuremat kahjumit, kui nad oleksid kandnud tavapärase maksejõuetusmenetluse käigus toimunud likvideerimise korral.
+
+(2) Kui Finantsinspektsioon teeb kindlaks, et kõlblikke kohustusi sisaldavas kohustuste klassis moodustab enam kui kümme protsenti selliste kohustuste summa, mis on välja arvatud või mis võidakse mõistliku tõenäosusega arvata välja allahindamise ja teisendamise õiguse kasutamisest vastavalt käesoleva seaduse §-dele 71 ja 72, hindab Finantsinspektsioon käesoleva paragrahvi lõike 1 punktis 2 nimetatud riski.
+
+(3) Käesoleva paragrahvi lõike 1 ning käesoleva seaduse § 17<sup>4</sup> lõigete 6 ja 7 kohaldamisel võetakse tuletisinstrumendist tulenevad kohustused arvesse kohustuste kogusummas, lähtudes sellest, et vastaspoole tasaarvestuse õigusi tunnustatakse täielikult.
+
+(4) Krediidiasutuse omavahendid, mida kasutatakse krediidiasutuste seaduse § 86<sup>44</sup> lõikes 2 nimetatud kombineeritud puhvri nõude täitmiseks, on kõlblikud käesoleva paragrahvi lõikes 1 ning käesoleva seaduse § 17<sup>4</sup> lõigetes 6 ja 7 nimetatud nõuete täitmiseks.
+
+(5) Finantsinspektsioon võib kasutada käesoleva seaduse § 17<sup>4</sup> lõikes 7 nimetatud õigust kriisilahendussubjekti suhtes, kes on globaalne süsteemselt oluline ettevõtja või kelle suhtes kohaldatakse § 18<sup>1</sup> lõiget 1 või 3 ning kelle puhul on täidetud üks käesoleva paragrahvi lõikes 6 sätestatud tingimustest. Nimetatud õigust võib Finantsinspektsioon kasutada kuni 30 protsendi kriisilahendussubjektide puhul, kes on globaalsed süsteemselt olulised ettevõtjad või kelle suhtes kohaldatakse käesoleva seaduse § 18<sup>1</sup> lõiget 1 või 3 ning kelle puhul Finantsinspektsioon määrab §-s 18 sätestatud nõude.
+
+(6) Finantsinspektsioon kaalub miinimumnõude määramisel järgmisi asjaolusid:
+
+1\) eelneva kriisilahenduskõlblikkuse hindamise käigus on kindlaks tehtud kriisilahenduskõlblikkust oluliselt pärssivad takistused ning pärast käesoleva seaduse § 34 lõikes 4, 4<sup>1</sup> või 4<sup>2</sup> nimetatud meetmete võtmist ei ole krediidiasutus Finantsinspektsiooni nõutud aja jooksul teavitanud võetud abimeetmetest või kindlakstehtud oluliselt pärssivatest takistustest, mida ei saa kõrvaldada ühegi nimetatud meetme võtmisega ning § 17<sup>4</sup> lõikes 7 nimetatud õiguse kasutamine kompenseeriks osaliselt või täielikult kriisilahenduskõlblikkust oluliselt pärssiva asjaolu negatiivse mõju;
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+2\) Finantsinspektsioon leiab, et kriisilahendussubjekti eelistatud kriisilahendusstrateegia teostatavus ja usaldusväärsus on piiratud, arvestades ettevõtja suurust, vastastikust seotust, tema tegevuse laadi, ulatust, riski ja tegevuse keerukust, tema õiguslikku staatust ja aktsionäride struktuuri, või
+
+3\) krediidiasutuste seaduse §-s 104<sup>2</sup> nimetatud nõue kajastab asjaolu, et kriisilahendussubjekt, kes on globaalne süsteemselt oluline ettevõtja või kelle suhtes kohaldatakse käesoleva seaduse § 18<sup>1</sup> lõiget 1 või 3, kuulub 20 protsendi kõige suurema riskitasemega krediidiasutuste hulka, kelle puhul Finantsinspektsioon määrab miinimumnõude.
+
+(7) Käesoleva paragrahvi lõigetes 5 ja 6 nimetatud protsendimäära kohaldamisel ümardab Finantsinspektsioon arvutamise tulemusel saadud arvu lähima täisarvuni.
+
+(8) Finantsinspektsiooni finantskriisi lahendamise funktsiooni täitja teeb käesoleva paragrahvi lõikes 1 või käesoleva seaduse § 17<sup>4</sup> lõikes 7 nimetatud otsuse üksnes pärast finantsjärelevalve funktsiooni täitjaga konsulteerimist.
+
+(9) Kõlblike kohustuste kohta otsuse tegemisel võtab Finantsinspektsioon arvesse:
+
+1\) kriisilahendussubjekti omavahenditesse kuuluvate instrumentide ja allutatud kõlblike kohustuste turu sügavust, olemasolu korral selliste instrumentide nõudeid hinnastamisele ja otsuse järgimiseks vajalike tehingute tegemiseks vajaminevat aega;
+
+2\) selliste kõigile Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artiklis 72a nimetatud tingimustele vastavate kõlblike kohustuste instrumentide summat, mille järelejäänud tähtaeg on otsuse vastuvõtmise kuupäeva seisuga alla ühe aasta, võttes arvesse käesoleva paragrahvi lõikes 1 ja käesoleva seaduse § 17<sup>4</sup> lõikes 7 nimetatud nõuete kvantitatiivset kohandamist;
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+3\) nende instrumentide, mis vastavad kõigile Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artiklis 72a nimetatud tingimustele, välja arvatud nimetatud määruse artikli 72b lõike 2 punkt d, kättesaadavust ja summat;
+
+4\) kas selliste kohustuste summa, mis on käesoleva seaduse § 71 või 72 kohaselt välistatud allahindamise ja teisendamise õiguse kohaldamisest ning millest tulenevate nõuete rahuldamisjärk on tavapärases maksejõuetusmenetluses kõige esimesena rahuldatavate kõlblike kohustustega sama või need rahuldatakse pärast selliseid kõlblikke kohustusi, on oluline võrreldes kriisilahendussubjekti omavahendite ja kõlblike kohustustega;
+
+5\) kriisilahendussubjekti ärimudelit, rahastamismudeli riskiprofiili ning stabiilsuse ja majandusele kasu toomise suutlikkust;
+
+6\) võimalike restruktureerimiskulude mõju kriisilahendussubjekti rekapitaliseerimisele.
+
+(10) Käesoleva paragrahvi lõike 9 punkti 4 tähenduses ei loeta välistatud summat oluliseks, kui välistatud kohustuste summa ei ületa viit protsenti kriisilahendussubjekti omavahendite ja kõlblike kohustuste summast. Kui välistatud kohustuste summa ületab esimeses lauses nimetatud piirmäära, hindab Finantsinspektsioon välistatud kohustuste olulisust.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+#### § 17<sup>2</sup>. Miinimumnõude määramine
+
+(1) Finantsinspektsiooni finantskriisi lahendamise funktsiooni täitja määrab pärast finantsjärelevalve funktsiooni täitjaga konsulteerimist kindlaks miinimumnõude, võttes arvesse järgmisi kriteeriume:
+
+1\) vajadus tagada, et kriisilahenduse konsolideerimisgrupi suhtes saab kriisilahendusmenetluse läbi viia kriisilahendusmeetmete ja -õiguste kohaldamisega kriisilahendussubjekti suhtes, rakendades vajaduse korral ning kooskõlas kriisilahenduse eesmärkidega kohustuste ja nõudeõiguste teisendamise meedet;
+
+2\) vajadus asjakohasel juhul tagada, et kriisilahendussubjektil ja selle tütarettevõtjal, kes on krediidiasutus või muu konsolideerimisgruppi kuuluv ettevõtja, kes ei ole kriisilahendussubjekt, on piisavalt omavahendeid ja kõlblikke kohustusi selleks, et juhul, kui nende suhtes kohaldatakse kohustuste ja nõudeõiguste teisendamise meedet või allahindamise ja teisendamise õigust, saaks vastavalt katta kahjumi ning oleks võimalik taastada asjaomaste ettevõtjate koguomavahendite suhtarvu ja olenevalt olukorrast finantsvõimenduse määra tasemeni, mis võimaldab neil jätkuvalt vastata tegevusloa tingimustele ja jätkata tegevust, mille jaoks neile tegevusluba on antud;
+
+3\) vajadus tagada, et juhul kui kriisilahenduskavas eeldatakse, et teatavad kõlblike kohustuste klassid võidakse käesoleva seaduse § 71 või 72 alusel kohustuste ja nõudeõiguste teisendamisest välja jätta või kohustuste osalise üleandmise raames saajale täielikult üle anda, on kriisilahendussubjektil piisavalt omavahendeid ja muid kõlblikke kohustusi selleks, et katta kahjum ja tõsta oma koguomavahendite suhtarv ning asjakohasel juhul finantsvõimenduse määr uuesti tasemeni, mis võimaldab tal jätkuvalt vastata tegevusloa tingimustele ja jätkata tegevusi, mille jaoks talle tegevusluba on antud;
+
+4\) krediidiasutuse suurus, ärimudel, rahastamismudel ja riskiprofiil;
+
+5\) krediidiasutuse maksejõuetuse korral negatiivse mõju ulatus finantsstabiilsusele, sealhulgas mõju teistele krediidiasutustele ülekandumise tõttu, tulenevalt ettevõtja seotusest teiste krediidiasutuste või ülejäänud finantssüsteemiga.
+
+(2) Kui kriisilahenduskavas on ette nähtud kriisilahendusmeetme rakendamine või vastavalt käesoleva seaduse §-le 56 kapitaliinstrumentide ja kõlblike kohustuste allahindamise või teisendamise õiguse kasutamine § 29 lõikes 5 nimetatud asjakohasele stsenaariumile tuginedes, peab miinimumnõue võrduma summaga, mis on piisav järgmiseks:
+
+1\) potentsiaalse kahjumi täielikuks katmiseks;
+
+2\) kriisilahendussubjekti ja selle tütarettevõtja, kes on krediidiasutus või muu konsolideerimisgruppi kuuluv ettevõtja, kuid ei ole kriisilahendussubjekt, rekapitaliseerimiseks tasemeni, mis võimaldab neil jätkuvalt vastata tegevusloa tingimustele ja jätkata vähemalt aasta tegevust, mille jaoks neile tegevusluba on antud.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(3) Kriisilahendussubjektide puhul arvutatakse käesoleva paragrahvi lõikes 2 nimetatud miinimumnõude summa vastavalt käesoleva seaduse § 17 lõike 2 punktile 1, liites:
+
+1\) kriisilahenduse käigus kaetava kahjumi summa, mis vastab Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 92 lõike 1 punkti c ning krediidiasutuste seaduse § 104<sup>2</sup> kohastele kriisilahendussubjekti suhtes kohaldatavatele nõuetele konsolideeritud kriisilahenduse konsolideerimisgrupi tasandil, ning
+
+2\) rekapitaliseerimise summa, mis võimaldab kriisilahendusest tuleneval kriisilahenduse konsolideerimisgrupil taastada vastavuse Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 92 lõike 1 punktis c nimetatud koguomavahendite suhtarvu nõudele ning krediidiasutuste seaduse § 104<sup>2</sup> kohasele nõudele kriisilahenduse konsolideerimisgrupi tasandil pärast eelistatud kriisilahendusstrateegia rakendamist.
+
+(4) Krediidiasutusest kriisilahendussubjektide puhul arvutatakse käesoleva paragrahvi lõikes 2 nimetatud miinimumnõude summa vastavalt käesoleva seaduse § 17 lõike 2 punktile 2, liites:
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+1\) kahjumi summa, mis kaetakse kriisilahenduse käigus ning mis vastab Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 92 lõike 1 punkti d kohasele kriisilahendussubjekti finantsvõimenduse määra nõudele konsolideeritud kriisilahenduse konsolideerimisgrupi tasandil, ning
+
+2\) rekapitaliseerimise summa, mis võimaldab kriisilahendusest tuleneval kriisilahenduse konsolideerimisgrupil taastada vastavuse Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 92 lõike 1 punktis d nimetatud finantsvõimenduse määra nõudele kriisilahenduse konsolideerimisgrupi tasandil pärast eelistatud kriisilahendusstrateegia rakendamist.
+
+(4<sup>1</sup>) Finantsinspektsioon võtab käesoleva paragrahvi lõikes 4 sätestatud individuaalsel alusel täidetava nõude kehtestamisel arvesse käesoleva seaduse § 55 lõikes 8 ning § 78 lõigetes 3 ja 6 sätestatut.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(5) Krediidiasutusest kriisilahendussubjekti rekapitaliseerimise summade määramisel kasutab Finantsinspektsioon asjakohase koguriskipositsiooni või koguriskipositsiooni näitaja kohta teatatud kõige hilisemaid väärtusi, mis on kohandatud kriisilahenduskavas ette nähtud meetmetest tulenevate võimalike muutustega, ning kohandab pärast finantsjärelevalve funktsiooni täitjaga konsulteerimist krediidiasutuste seaduse § 104<sup>2</sup> lõike 1 kohasele täiendavate omavahendite nõudele vastavat summat alla- või ülespoole, et määrata kindlaks kriisilahendusaluse ettevõtja suhtes pärast eelistatud kriisilahendusstrateegia rakendamist kohalduv nõue.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(6) Finantsinspektsioon võib suurendada käesoleva paragrahvi lõike 3 punktis 2 sätestatud nõuet sobiva summa võrra, mis on vajalik, et tagada ettevõtja kriisilahendusjärgse piisava turuusalduse säilimine asjakohasel ajavahemikul, mis ei ole pikem kui üks aasta.
+
+(7) Käesoleva paragrahvi lõike 6 kohaldamisel peab selles lõikes nimetatud summa võrduma pärast kriisilahendusmeetmete ja -õiguste kohaldamist kohaldatava krediidiasutuste seaduse § 86<sup>44</sup> lõikes 2 nimetatud kombineeritud puhvri nõudega, millest on maha arvatud § 86<sup>46</sup> lõikes 1 nimetatud summa.
+
+(8) Käesoleva paragrahvi lõikes 6 nimetatud summat kohandatakse allapoole, kui Finantsinspektsiooni finantskriisi lahendamise funktsiooni täitja teeb pärast finantsjärelevalve funktsiooni täitjaga konsulteerimist kindlaks, et väiksem summa on piisav, et säilitada pärast kriisilahendusstrateegia rakendamist turuusaldus ning tagada krediidiasutuse või käesoleva seaduse § 2 lõike 1 punktides 3 ja 4 nimetatud ettevõtja kriitiliste majandusfunktsioonide täitmise jätkuvus ning juurdepääs rahastamisele, ilma et kasutataks erakorralist avaliku sektori finantstoetust, välja arvatud kooskõlas käesoleva seaduse § 78 lõigetega 3 ja 6 ning Tagatisfondi seaduse § 73<sup>13</sup> lõikega 3 kriisilahenduse osafondist tehtavad maksed.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(9) Käesoleva paragrahvi lõikes 6 nimetatud summat kohandatakse ülespoole, kui Finantsinspektsiooni finantskriisi lahendamise funktsiooni täitja teeb pärast finantsjärelevalve funktsiooni täitjaga konsulteerimist kindlaks, et suurem summa on vajalik, et säilitada asjakohasel ajavahemikul, mis ei ole pikem kui üks aasta, piisav turuusaldus ning tagada krediidiasutuse või käesoleva seaduse § 2 lõike 1 punktides 3 ja 4 nimetatud ettevõtja kriitiliste majandusfunktsioonide täitmise jätkuvus ja juurdepääs rahastamisele, ilma et kasutataks erakorralist avaliku sektori finantstoetust, välja arvatud kooskõlas käesoleva seaduse § 78 lõigetega 3 ja 6 ning Tagatisfondi seaduse § 73<sup>13</sup> lõikega 3 kriisilahenduse osafondist tehtavad maksed.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(10) Kui Finantsinspektsioon eeldab, et teatavad kõlblike kohustuste klassid on võimalik mõistliku tõenäosusega täielikult või osaliselt käesoleva seaduse § 72 kohaselt kohustuste ja nõudeõiguste teisendamisest välja jätta või need võidakse kohustuste osalise üleandmise raames saajale täielikult üle anda, täidetakse miinimumnõue, kasutades omavahendeid või muid kõlblikke kohustusi, mis on piisavad, et:
+
+1\) katta käesoleva seaduse § 72 kohaselt kindlaks määratud väljajäetud kohustuste summa;
+
+2\) tagada, et käesoleva paragrahvi lõikes 2 nimetatud tingimused on täidetud.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+#### § 17<sup>3</sup>. Miinimumnõude määramine isikule, kes ei ole kriisilahendussubjekt
+
+(1) Kui krediidiasutuse puhul, kes ei ole ise kriisilahendussubjekt, arvutatakse miinimumnõue vastavalt käesoleva seaduse § 17 lõike 2 punktile 1, tuleb kokku liita:
+
+1\) kaetava kahjumi summa, mis vastab krediidiasutusele kohaldatavatele Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 92 lõike 1 punkti c ning krediidiasutuste seaduse § 104<sup>2</sup> lõikes 1 nimetatud nõudele, ja
+
+2\) rekapitaliseerimise summa, mis võimaldab krediidiasutusel taastada vastavuse Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 92 lõike 1 punktis c nimetatud koguomavahendite suhtarvu nõudele ning krediidiasutuste seaduse §-s 104<sup>2</sup> nimetatud nõudele pärast asjaomaste kapitaliinstrumentide ja kõlblike kohustuste allahindamise või teisendamise õiguse kasutamist kooskõlas käesoleva seaduse §-ga 56 või pärast kriisilahenduse konsolideerimisgrupi kriisilahendust.
+
+(2) Kui krediidiasutuse puhul, kes ei ole ise kriisilahendussubjekt, arvutatakse miinimumnõue vastavalt käesoleva seaduse § 17 lõike 2 punktile 2, tuleb kokku liita:
+
+1\) kaetava kahjumi summa, mis vastab krediidiasutusele kohaldatava Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 92 lõike 1 punktis d nimetatud finantsvõimenduse määra nõudele, ning
+
+2\) rekapitaliseerimise summa, mis võimaldab krediidiasutusel taastada vastavuse Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 92 lõike 1 punktis d nimetatud finantsvõimenduse määra nõudele pärast asjaomaste kapitaliinstrumentide ja kõlblike kohustuste allahindamise või teisendamise õiguse kasutamist vastavalt käesoleva seaduse §-le 56 või pärast kriisilahenduse konsolideerimisgrupi kriisilahendust.
+
+(3) Finantsinspektsioon võtab käesoleva paragrahvi lõikes 2 sätestatud individuaalsel alusel nõude kehtestamisel arvesse käesoleva seaduse § 55 lõikes 8 ning § 78 lõigetes 3 ja 6 nimetatud tingimusi.
+
+(4) Käesoleva seaduse §-s 17<sup>2</sup> ja käesolevas paragrahvis nimetatud rekapitaliseerimise summade määramisel Finantsinspektsiooni finantskriisi lahendamise funktsiooni täitja:
+
+1\) kasutab asjakohase koguriskipositsiooni või koguriskipositsiooni näitaja kohta teatatud kõige hilisemaid väärtusi, mis on kohandatud võimalike muutustega, mis tulenevad kriisilahenduskavas ette nähtud meetmetest, ning
+
+2\) kohandab pärast finantsjärelevalve funktsiooni täitjaga konsulteerimist või pärast kriisilahenduse konsolideerimisgrupi suhtes kriisilahendusmeetme kasutamist krediidiasutuste seaduse § 104<sup>2</sup> lõikes 1 nimetatud kehtivale nõudele vastavat summat alla- või ülespoole, et määrata pärast käesoleva seaduse § 56 kohaselt asjaomaste kapitaliinstrumentide ja kõlblike kohustuste allahindamise või teisendamise õiguse kasutamist kindlaks asjaomase krediidiasutuse või kriisilahenduse konsolideerimisgrupi suhtes kohaldatav nõue.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(5) Finantsinspektsioon võib pärast käesoleva seaduse § 56 kohaselt kapitaliinstrumentide ja kõlblike kohustuste allahindamise või teisendamise õiguse kasutamist suurendada käesoleva paragrahvi lõike 1 punktis 2 sätestatud nõuet summa võrra, mis on vajalik, et tagada ettevõtja võime säilitada asjakohasel ajavahemikul, mis ei ole pikem kui üks aasta, piisav turuusaldus. Nimetatud summa peab võrduma pärast käesoleva seaduse §-s 56 nimetatud õiguse kasutamist või pärast kriisilahenduse konsolideerimisgrupi suhtes kriisilahendusmeetme kasutamist krediidiasutuste seaduse § 86<sup>44</sup> lõikes 2 nimetatud kombineeritud puhvri nõudega, millest on maha arvatud § 86<sup>46</sup> lõikes 1 nimetatud nõue.
+
+(6) Käesoleva paragrahvi lõikes 5 nimetatud summat kohandatakse allapoole, kui Finantsinspektsiooni finantskriisi lahendamise funktsiooni täitja teeb pärast finantsjärelevalve funktsiooni täitjaga konsulteerimist kindlaks, et väiksem summa on piisav, et tagada kriisilahenduse konsolideerimisgrupi üldine turuusaldus ning gruppi kuuluva ettevõtja kriitiliste funktsioonide jätkuvus ning juurdepääs rahastamisele, ilma et kasutataks erakorralist avaliku sektori finantstoetust, välja arvatud kooskõlas käesoleva seaduse § 78 lõigetega 3 ja 6 ning Tagatisfondi seaduse § 73<sup>13</sup> lõikega 3 kriisilahenduse osafondist tehtavad maksed.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(7) Käesoleva paragrahvi lõikes 5 nimetatud summat kohandatakse ülespoole, kui Finantsinspektsiooni finantskriisi lahendamise funktsiooni täitja teeb pärast finantsjärelevalve funktsiooni täitjaga konsulteerimist kindlaks, et suurem summa on vajalik, et säilitada asjakohasel ajavahemikul, mis ei ole pikem kui üks aasta, piisav turuusaldus ning tagada krediidiasutuse või gruppi kuuluva ettevõtja kriitiliste funktsioonide jätkuvus ning juurdepääs rahastamisele, ilma et kasutataks erakorralist avaliku sektori finantstoetust, välja arvatud kooskõlas käesoleva seaduse § 78 lõigetega 3 ja 6 ning Tagatisfondi seaduse § 73<sup>13</sup> lõikega 3 kriisilahenduse osafondist tehtavad maksed.
+
+(8) Krediidiasutus, kes on kriisilahendussubjekti või kolmanda riigi ettevõtja tütarettevõtja, kuid ei ole ise kriisilahendussubjekt, täidab miinimumnõuet individuaalsel alusel.
+
+(9) Finantsinspektsiooni finantskriisi lahendamise funktsiooni täitja võib pärast finantsjärelevalve funktsiooni täitjaga konsulteerimist otsustada kohaldada käesolevas paragrahvis sätestatud nõuet konsolideerimisgruppi kuuluva ettevõtja suhtes, kes on kriisilahendussubjekti tütarettevõtja ja ei ole ise kriisilahendussubjekt.
+
+(10) Erandina käesoleva paragrahvi lõikest 2 täidab Euroopa Liidus tegutsev emaettevõtja, kes ei ole ise kriisilahendussubjekt, kuid on kolmanda riigi ettevõtja tütarettevõtja, miinimumnõuet konsolideeritud alusel.
+
+(11) Käesoleva seaduse § 8<sup>1</sup> lõike 3 kohaselt tuvastatud kriisilahenduse konsolideerimisgrupi puhul täidavad krediidiasutus, kes on keskasutusega püsivalt seotud, kuid ei ole ise kriisilahendussubjekt, keskasutus, kes ei ole ise kriisilahendussubjekt, ja kriisilahendussubjekt, kelle suhtes ei kohaldata § 18 lõikes 2<sup>2</sup> nimetatud nõuet, miinimumnõuet individuaalsel alusel.
+
+(12) Miinimumnõue täidetakse ühe või mitme järgmise instrumendiga:
+
+1\) kohustustega, mis on emiteeritud kriisilahendussubjekti jaoks ja mille see on ostnud kas otse või kaudselt sama kriisilahenduse konsolideerimisgrupi ettevõtja jaoks, kes ostis kohustused käesoleva paragrahvi kohaldamisalasse kuuluvalt krediidiasutuselt, või mis on emiteeritud samasse kriisilahenduse konsolideerimisgruppi mittekuuluva olemasoleva aktsionäri jaoks ja mille see on ostnud, tingimusel et allahindamise ja teisendamise õiguse kasutamine ei mõjuta kriisilahendussubjekti kontrolli tütarettevõtja üle;
+
+2\) kohustustega, mis vastavad Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artiklis 72a nimetatud kõlblikkuskriteeriumidele, välja arvatud nimetatud määruse artikli 72b lõike 2 punktide b, c, k, l ja m ning lõigete 3–5 kohaldamisel;
+
+3\) kohustustega, millest tulenevad nõuded rahuldatakse tavapärases maksejõuetusmenetluses pärast kohustusi, mis ei vasta käesoleva lõike punktis 1 nimetatud tingimusele ega ole kõlblikud omavahendite nõude täitmiseks;
+
+4\) kohustustega, mille suhtes kohaldatakse allahindamise ja teisendamise õigust viisil, mis on kooskõlas kriisilahenduse konsolideerimisgrupi kriisilahendusstrateegiaga, eelkõige mõjutamata kriisilahendussubjekti kontrolli tütarettevõtja üle;
+
+5\) kohustustega, mille omandamist ei rahasta otse ega kaudselt käesoleva paragrahvi kohaldamisalasse kuuluv krediidiasutus;
+
+6\) kohustustega, mida reguleerivad sätted ei osuta otse ega kaudselt sellele, et käesoleva paragrahvi kohaldamisalasse kuuluv ettevõtja võib kohustusi tagasi kutsuda, lunastada, tagasi maksta või tagasi osta muul juhul kui krediidiasutuse maksejõuetuse või likvideerimise korral, ning krediidiasutus ei osuta sellele ka ühelgi muul viisil;
+
+7\) instrumentidega, mille kohta ei anta nende omanikule õigust kiirendada intresside või põhisumma tulevasi kavakohaseid makseid, välja arvatud käesoleva paragrahvi kohaldamisalasse kuuluva ettevõtja maksejõuetuse või likvideerimise korral;
+
+8\) instrumentidega, millelt tehtavate intressi- või dividendimaksete suurust ei muudeta käesoleva paragrahvi kohaldamisalasse kuuluva ettevõtja või selle emaettevõtja krediidikvaliteedi alusel;
+
+9\) esimese taseme põhiomavahenditega;
+
+10\) muude omavahenditega, mis on emiteeritud samasse kriisilahenduse konsolideerimisgruppi kuuluvate ettevõtjate jaoks ja mille need on ostnud või mis on emiteeritud samasse kriisilahenduse konsolideerimisgruppi mittekuuluvate ettevõtjate jaoks ning mille need on ostnud tingimusel, et allahindamise või teisendamise õiguse kasutamine vastavalt käesoleva seaduse §-dele 56–58 ei mõjuta kriisilahendussubjekti kontrolli tütarettevõtja üle.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+#### § 17<sup>4</sup>. Miinimumnõude määramine globaalse süsteemselt olulise kriisilahendussubjekti ja kolmanda riigi globaalse süsteemselt olulise ettevõtja Euroopa Liidus asuva olulise tütarettevõtja jaoks
+
+(1) Kui Finantsinspektsioon on globaalse süsteemselt olulise kriisilahendussubjekti kriisilahendusasutus, kehtestab ta temale käesoleva seaduse § 17 lõikes 1 nimetatud miinimumnõude, mis koosneb järgmistest nõuetest:
+
+1\) Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artiklites 92a ja 494 nimetatud nõuded;
+
+2\) täiendav omavahendite ja kõlblike kohustuste nõue, mille Finantsinspektsioon on määranud vastavalt käesoleva paragrahvi lõikele 3.
+
+(2) Kui Finantsinspektsioon on kolmanda riigi globaalse süsteemselt olulise krediidiasutuse Euroopa Liidus tegutseva olulise tütarettevõtja kriisilahendusasutus, kehtestab ta temale käesoleva seaduse § 17 lõikes 1 nimetatud miinimumnõude, mis koosneb järgmistest nõuetest:
+
+1\) Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artiklites 92b ja 494 nimetatud nõuded;
+
+\[RT I, 30.11.2022, 1 - jõust. 10.12.2022\]
+
+2\) täiendav omavahendite ja kõlblike kohustuste nõue, mille Finantsinspektsioon on määranud vastavalt käesoleva paragrahvi lõikele 3 ning mida täidetakse omavahendite ja kohustustega, mis vastavad käesoleva seaduse §-s 19 ja § 81<sup>1</sup> lõikes 4 sätestatud tingimustele.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(3) Finantsinspektsioon kehtestab käesoleva paragrahvi lõike 1 punktis 2 ja lõike 2 punktis 2 nimetatud omavahendite ja kõlblike kohustuste täiendava nõude, kui käesoleva paragrahvi lõike 1 punktis 1 või lõike 2 punktis 1 nimetatud nõue ei ole piisav, et täita käesoleva seaduse miinimumnõudele sätestatud tingimusi ega tagada käesoleva seaduse §-s 17<sup>2</sup> sätestatud tingimuste täitmist.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(4) Käesoleva seaduse § 18 lõike 4<sup>1</sup> kohaldamisel, kui rohkem kui üks samasse globaalsesse süsteemselt olulisse ettevõtjasse kuuluv üksus on kriisilahendussubjekt või kolmanda riigi ettevõtja, mis Euroopa Liidus asutatuna oleks käsitatav kriisilahendussubjektina, arvutab Finantsinspektsioon käesoleva paragrahvi lõikes 3 nimetatud nõuete summa:
+
+\[RT I, 04.07.2024, 2 - jõust. 14.07.2024\]
+
+1\) iga kriisilahendussubjekti ja kolmanda riigi ettevõtja, mis Euroopa Liidus asutatuna oleks käsitatav kriisilahendussubjektina, kohta eraldi;
+
+\[RT I, 04.07.2024, 2 - jõust. 14.07.2024\]
+
+2\) Euroopa Liidus tegutseva emaettevõtja puhul, nagu see oleks globaalse süsteemselt olulise ettevõtja ainus kriisilahendussubjekt.
+
+(5) Finantsinspektsiooni otsuses kehtestada käesoleva paragrahvi lõike 1 punkti 2 või lõike 2 punkti 2 alusel täiendav omavahendite ja kõlblike kohustuste nõue esitatakse otsuse põhjendused, sealhulgas käesoleva paragrahvi lõikes 3 nimetatud elementide täielik hinnang, ning Finantsinspektsioon vaatab selle põhjendamatu viivituseta läbi, et võtta arvesse võimalikke muutusi kriisilahenduse konsolideerimisgrupi või kolmandate riikide globaalse süsteemselt olulise ettevõtja Euroopa Liidus asuvate oluliste tütarettevõtjate suhtes kohaldatava krediidiasutuste seaduse § 104<sup>2</sup> lõikes 1 nimetatud nõude tasemes.
+
+(6) Ilma et see piiraks käesoleva seaduse § 18<sup>1</sup> lõikes 1 või 3 või käesoleva paragrahvi lõike 1 punktis 1 sätestatud miinimumnõude kohaldamist, tagab Finantsinspektsioon, et kriisilahendussubjekt, kes on globaalne süsteemselt oluline ettevõtja või kelle suhtes kohaldatakse käesoleva seaduse § 18<sup>1</sup> lõiget 1 või 3, täidab §-s 18 nimetatud nõudest osa, mis võrdub kaheksa protsendiga kohustuste kogusummast, sealhulgas omavahendid, kasutades omavahendeid ja allutatud kõlblikke kohustusi või § 17 lõikes 4 nimetatud kohustusi. Erinevalt käesoleva lõike esimeses lauses sätestatust võib Finantsinspektsioon lubada kriisilahendussubjektil, kes on globaalne süsteemselt oluline ettevõtja või kelle suhtes kohaldatakse käesoleva seaduse § 18<sup>1</sup> lõiget 1 või 3, täita kohustuste kogusummast alla kaheksa protsendi suuruse osa.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+(7) Erandina käesoleva paragrahvi lõikes 6 sätestatust võib Finantsinspektsioon otsustada, et käesoleva seaduse §-s 18 nimetatud nõuet täidab kriisilahendussubjekt, kes on globaalne süsteemselt oluline ettevõtja või kelle suhtes kohaldatakse § 18<sup>1</sup> lõikes 1 või 3 sätestatud nõudeid. Nimetatud nõuet võib täita omavahenditega, allutatud kõlblike kohustustega või käesoleva paragrahvi lõikes 3 nimetatud kohustustega, arvestades kriisilahendussubjekti kohustust täita krediidiasutuste seaduse § 86<sup>44</sup> lõikes 2 nimetatud kombineeritud puhvri nõuet ja Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artiklis 92a ning käesoleva seaduse § 18<sup>1</sup> lõikes 1 või 3 ja §-s 18 sätestatud nõudeid, kohaldades § 17 lõikes 8 nimetatud määrust. Nimetatud omavahendite ja kohustuste summa ei tohi ületada järgmistest summadest suuremat:
+
+1\) kaheksa protsenti ettevõtja kohustuste, sealhulgas omavahendite, kogusummast;
+
+2\) summa, mis saadakse kahekordse Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 92 lõike 1 punktis c nimetatud nõude, kahekordse krediidiasutuste seaduse § 104<sup>2</sup> lõikes 1 sätestatud nõude ja § 86<sup>44</sup> lõikes 2 nimetatud kombineeritud puhvri nõude liitmisel.
+
+(8) Finantsinspektsioon võib kohaldada käesoleva paragrahvi lõikes 1 nimetatud nõudest seda osa, mis täidetakse omavahenditega, allutatud kõlblike kohustustega või lõikes 3 nimetatud kohustustega, kriisilahendussubjekti suhtes, kellele kohaldatakse käesoleva seaduse § 18<sup>1</sup> lõiget 1 või 2, kuni nõudeni, mis moodustab 27 protsenti tema koguriskipositsioonist. Finantsinspektsioon piirab nõuet, kui on seisukohal, et:
+
+1\) juurdepääsu kriisilahendusfondile ei peeta kriisilahendussubjekti kriisilahenduskavas kriisilahenduse võimaluseks või
+
+2\) käesoleva seaduse §-s 18 nimetatud nõue võimaldab kriisilahendussubjektil täita § 78 lõigetes 3 ja 6 nimetatud nõudeid.
+
+(9) Finantsinspektsioon võtab käesoleva paragrahvi lõikes 8 nimetatud seisukohta kujundades arvesse ka asjaomase kriisilahendussubjekti ärimudelile ebaproportsionaalse mõju avaldumise ohtu.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(10) Käesoleva paragrahvi lõiget 7 ei kohaldata kriisilahendussubjekti suhtes, kellele kohaldatakse käesoleva seaduse § 18<sup>1</sup> lõiget 3.
+
+(11) Käesolevas paragrahvis sätestatud nõudeid ei kohaldata kolme aasta jooksul pärast kuupäeva, kui kriisilahendussubjekt või konsolideerimisgrupp, kuhu kriisilahendussubjekt kuulub, on tuvastatud globaalse süsteemselt olulise ettevõtjana.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+#### § 17<sup>5</sup>. Miinimumnõude kohaldamine likvideerimissubjekti suhtes
+
+(1) Finantsinspektsioon ei määra likvideerimissubjektile käesoleva seaduse § 17 lõikes 1 nimetatud miinimumnõuet, kui käesolevas paragrahvis ei ole sätestatud teisiti. Finantsinspektsioon võib hinnata, kas on põhjendatud määrata likvideerimissubjektile miinimumnõue vastavalt käesoleva seaduse § 17 lõikele 2 individuaalselt suuremas summas kui see, mis on vajalik kahjumi katmiseks vastavalt § 17<sup>2</sup> lõike 2 punktile 1. Finantsinspektsioon võtab oma hinnangus arvesse eelkõige võimalikku mõju finantsstabiilsusele ja finantssüsteemis ülekandumise riskile, sealhulgas seoses Tagatisfondi või teiste lepinguriikide hoiuste tagamise skeemide piisava rahastamise tagamisega.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(2) Kui Finantsinspektsioon määrab likvideerimissubjektile miinimumnõude, täidab likvideerimissubjekt selle vähemalt ühe järgmise instrumendiga:
+
+1\) omavahendid;
+
+2\) kohustused, mis vastavad Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artiklis 72a nimetatud kõlblikkuskriteeriumidele, välja arvatud nimetatud määruse artikli 72b lõike 2 punktide b ja d puhul;
+
+3\) käesoleva seaduse § 17 lõigetes 3<sup>1</sup>–3<sup>3</sup> nimetatud kohustused.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(3) Kui Finantsinspektsioon ei ole määranud likvideerimissubjektile miinimumnõuet, siis:
+
+1\) ei kohaldata talle Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 77 lõiget 2 ega artiklit 78a;
+
+2\) ei arvata maha osalusi omavahenditesse kuuluvates instrumentides ega kõlblike kohustuste instrumentides, mille on emiteerinud krediidiasutusest tütarettevõtja, kes on likvideerimissubjekt Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 72e lõike 5 kohaselt.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+(4) Erandina käesoleva paragrahvi lõike 3 punktis 2 sätestatust võib krediidiasutus või käesoleva seaduse § 2 lõike 1 punktides 3 ja 4 nimetatud ettevõtja, kes ei ole ise kriisilahendussubjekt, vaid kriisilahendussubjekti või sellise kolmanda riigi ettevõtja tütarettevõtja, kes oleks kriisilahendussubjekt, kui ta oleks asutatud lepinguriigis, maha arvata oma osaluse omavahenditesse kuuluvates instrumentides tütarettevõtjatest krediidiasutustes.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(5) Käesoleva paragrahvi lõikes 4 nimetatud osalused arvab maha krediidiasutus tütarettevõtjatest krediidiasutustes, kes kuuluvad samasse kriisilahenduse konsolideerimisgruppi ja on likvideerimissubjektid, kelle puhul Finantsinspektsioon ei ole kindlaks määranud miinimumnõuet, kui nende osaluste kogusumma on vähemalt seitse protsenti selliste omavahendite ja kohustuste kogusummast, mis vastavad käesoleva seaduse § 19 lõigetes 8 ja 8<sup>1</sup> sätestatud tingimustele ning mis arvutatakse igal aastal 31. detsembri seisuga viimase 12 kuu keskmisena.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+#### § 18. Miinimumnõude kohaldamine konsolideerimisgrupi suhtes
+
+(1) Finantsinspektsioon võib otsustada miinimumnõude kohaldamise krediidiasutustega samasse konsolideerimisgruppi kuuluva teise isiku suhtes, kes on Eestis asutatud.
+
+(1<sup>1</sup>) Kriisilahendussubjekt täidab käesoleva paragrahvi lõikes 2 nimetatud miinimumnõuet kriisilahenduse konsolideerimisgrupi tasandil konsolideeritud alusel.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2) Kui Finantsinspektsioon on konsolideerimisgrupi kriisilahendusasutus, kehtestab ta miinimumnõude kriisilahendussubjektile või kogu konsolideerimisgrupile, võttes seejuures arvesse käesoleva seaduse §-des 17, 17<sup>1</sup> ja 17<sup>4</sup> sätestatut ja asjaolu, kas vastavalt kriisilahenduskavale toimub kolmandas riigis asutatud konsolideerimisgruppi kuuluva tütarettevõtja kriisilahendus eraldi.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(2<sup>1</sup>) Käesoleva seaduse § 17 lõike 3 alusel miinimumnõude täitmise kohustusest vabastatud hüpoteekkrediidiga tegelevat krediidiasutust ei arvestata konsolideerimisgrupi koosseisu konsolideeritud konsolideerimisgrupi omavahendite ja kõlblike kohustuste miinimumnõude kindlaksmääramisel.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2<sup>2</sup>) Käesoleva seaduse § 8<sup>1</sup> lõikes 3 nimetatud kriisilahenduse konsolideerimisgruppide puhul otsustab Finantsinspektsioon tulenevalt krediidiasutuste kaitseskeemist ja eelistatud kriisilahendusstrateegiast, milline kriisilahenduse konsolideerimisgruppi kuuluv üksus täidab miinimumnõuded, selleks et kriisilahenduse konsolideerimisgrupp tervikuna täidaks käesoleva paragrahvi lõikes 2 nimetatud miinimumnõuet. Finantsinspektsioon selgitab krediidiasutusele, kuidas konsolideerimisgrupi ettevõtjad peavad miinimumnõudeid kooskõlas kriisilahenduskavaga täitma.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(3) Finantsinspektsioon teeb kõik endast oleneva, et jõuda koostöös teise lepinguriigi kriisilahendusasutusega ühisotsusele sellise nõude summa kohta, mida kohaldatakse:
+
+1\) kriisilahenduse konsolideerimisgrupi konsolideeritud tasandil iga kriisilahendussubjekti suhtes;
+
+2\) individuaalsel alusel iga kriisilahenduse konsolideerimisgruppi kuuluva ettevõtja suhtes, kes ei ole kriisilahendussubjekt.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(3<sup>1</sup>) Käesolevas paragrahvis nimetatud ühisotsus peab olema kooskõlas käesoleva paragrahviga ja käesoleva seaduse §-ga 19, olema igakülgselt põhjendatud ning selle esitab Finantsinspektsioon, kui ta on kriisilahendusasutus:
+
+1\) kriisilahendussubjektile;
+
+2\) kriisilahenduse konsolideerimisgrupi krediidiasutusele, kes ei ole kriisilahendussubjekt;
+
+3\) konsolideerimisgrupi Euroopa Liidus tegutsevale emaettevõtjale, kes ei ole ise sama kriisilahenduse konsolideerimisgrupi kriisilahendussubjekt.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(3<sup>2</sup>) Kui see on kriisilahendusstrateegiaga kooskõlas ja kriisilahendussubjekt ei ole otse või kaudselt ostnud käesoleva seaduse § 19 lõigetele 8 ja 8<sup>1</sup> vastavaid piisavaid instrumente, võib käesolevas paragrahvis nimetatud ühisotsuses ette näha, et käesoleva seaduse § 17<sup>3</sup> lõikes 1 nimetatud nõue täidetakse osaliselt tütarettevõtja instrumentidega, mis vastavad § 19 lõigetes 8 ja 8<sup>1</sup> sätestatud nõuetele ning mis on emiteeritud kriisilahenduse konsolideerimisgruppi mittekuuluvate ettevõtjate jaoks ja mille need on ostnud.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(4) Kui Finantsinspektsioon on konsolideerimisgrupi kriisilahendusasutus, esitab ta ettepaneku ühisotsuse kohta teise asjaomase lepinguriigi kriisilahendusasutusele.
+
+(4<sup>1</sup>) Kui rohkem kui üks samasse globaalsesse süsteemselt olulisse ettevõtjasse kuuluv globaalne süsteemselt oluline krediidiasutus on kriisilahendussubjekt või kolmanda riigi ettevõtja, mis Euroopa Liidus asutatuna oleks käsitatav kriisilahendussubjektina, arutab Finantsinspektsioon kriisilahendussubjekti kriisilahendusasutuse, konsolideerimisgrupi tasandi kriisilahendusasutusega, kui see erineb kriisilahendussubjekti kriisilahendusasutusest, või kriisilahendusasutusega, kes vastutab kriisilahenduse konsolideerimisgrupi tütarettevõtjate eest, Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 72e kohaldamist ja kohandamist ning nad lepivad vajaduse korral kooskõlas globaalse süsteemselt olulise ettevõtja kriisilahendusstrateegiaga kokku asjakohaste nõuete kogusumma.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(4<sup>2</sup>) Käesoleva paragrahvi lõikes 4<sup>1</sup> nimetatud erisust võib kohaldada tingimusel, et:
+
+1\) seda kohaldatakse seoses koguriskipositsiooni arvutamise erinevustega asjaomaste lepinguriikide või kolmandate riikide vahel, kohandades nõude suurust;
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+2\) seda ei kohaldata selleks, et kõrvaldada kriisilahenduse konsolideerimisgruppide vahelistest riskipositsioonidest tulenevaid erinevusi;
+
+3\) käesoleva seaduse § 17<sup>4</sup> lõike 4 punktis 1 ning Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 12a punktis a nimetatud summade kogusumma üksikute kriisilahendussubjektide ja kolmanda riigi ettevõtjate, mis Euroopa Liidus asutatuna oleksid käsitatavad kriisilahendussubjektidena, puhul ei tohi olla väiksem kui § 17<sup>4</sup> lõike 4 punktis 2 ning Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 12a punktis b nimetatud summade kogusumma.
+
+\[RT I, 04.07.2024, 2 - jõust. 14.07.2024\]
+
+(5) Finantsinspektsioon peab jõudma teise asjaomase lepinguriigi kriisilahendusasutusega ühisotsusele konsolideerimisgrupi miinimumnõude määramise kohta nelja kuu jooksul käesoleva paragrahvi lõikes 4 nimetatud ettepaneku esitamisest või selle saamisest arvates.
+
+(6) Kui Finantsinspektsioon on kriisilahendussubjekti kriisilahendusasutus ega jõua nelja kuu jooksul teiste lepinguriigi kriisilahendusasutustega ühisotsusele konsolideerimisgrupi miinimumnõude määramises, teeb Finantsinspektsioon ise otsuse kriisilahendussubjekti miinimumnõude määramise kohta, arvestades asjaomaste kriisilahendusasutuste poolt kriisilahenduse konsolideerimisgrupi krediidiasutuse, kes ei ole kriisilahendussubjekt, kohta koostatud hinnanguid ja konsolideerimisgrupi tasandi kriisilahendusasutuse, kui see on kriisilahendussubjekti kriisilahendusasutusest erinev, arvamusega.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(6<sup>1</sup>) Kui Finantsinspektsioon, kes on Eestis asutatud tütarettevõtjast krediidiasutuse kriisilahendusasutus, ja teise lepinguriigi kriisilahendusasutus ei jõua nelja kuu jooksul ühisotsusele seetõttu, et ei jõuta kokkuleppele sellise käesoleva seaduse §-s 19 nimetatud nõude suuruses, mida kohaldatakse kriisilahenduse konsolideerimisgrupi krediidiasutuse suhtes individuaalsel alusel, teeb Finantsinspektsioon otsuse tütarettevõtjast krediidiasutuse kohta, kui on täidetud mõlemad järgmised tingimused:
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+1\) kriisilahendussubjekti kriisilahendusasutuse kirjalikult esitatud seisukohti ja reservatsioone on võetud nõuetekohaselt arvesse;
+
+2\) kui konsolideerimisgrupi tasandi kriisilahendusasutus on kriisilahendussubjekti kriisilahendusasutusest erinev, on konsolideerimisgrupi tasandi kriisilahendusasutuse kirjalikult esitatud seisukohti ja reservatsioone võetud nõuetekohaselt arvesse.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(6<sup>2</sup>) Kui kriisilahendussubjekti kriisilahendusasutus või konsolideerimisgrupi tasandi kriisilahendusasutus on vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 1093/2010 artiklile 19 esitanud neljakuulise tähtaja lõpus küsimuse arutamiseks Euroopa Pangandusjärelevalve Asutusele, lükkab Finantsinspektsioon käesoleva paragrahvi lõikes 6<sup>1</sup> nimetatud otsuse tegemise edasi kuni Euroopa Pangandusjärelevalve Asutuse otsuse selgumiseni.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(6<sup>3</sup>) Kui ühisotsusele ei jõuta nelja kuu jooksul seetõttu, et ei jõuta kokkuleppele kriisilahenduse konsolideerimisgrupi konsolideeritud nõude suuruses ega sellise nõude suuruses, mida kohaldatakse kriisilahenduse konsolideerimisgrupi ettevõtjate suhtes individuaalsel alusel, tehakse otsus juhul, kui Finantsinspektsioon on:
+
+1\) tütarettevõtjast krediidiasutuse kriisilahendusasutus, sellise nõude taseme kohta, mida kohaldatakse kriisilahenduse konsolideerimisgrupi tütarettevõtjate suhtes individuaalsel alusel, vastavalt käesoleva paragrahvi lõikele 6<sup>1</sup>;
+
+2\) konsolideerimisgrupi kriisilahendusasutus, kriisilahenduse konsolideerimisgrupi tasandil vastavalt käesoleva paragrahvi lõikele 6.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(7) Kui teise lepinguriigi kriisilahendusasutus on käesoleva paragrahvi lõikes 6 nimetatud tähtaja jooksul teavitanud Euroopa Pangandusjärelevalve Asutust ühisotsuse saavutamisega seotud erimeelsustest, lükkab Finantsinspektsioon otsuse tegemise edasi ja ootab ära Euroopa Pangandusjärelevalve Asutuse otsuse ning teeb seejärel oma otsuse kooskõlas Euroopa Pangandusjärelevalve Asutuse otsusega miinimumnõude määramise kohta. Kui Euroopa Pangandusjärelevalve Asutus ei ole ühe kuu jooksul arvates teise lepinguriigi kriisilahendusasutuse teavitusest otsust teinud, teeb Finantsinspektsioon oma otsuse.
+
+(8) Finantsinspektsioonil on õigus esitada Euroopa Pangandusjärelevalve Asutusele kaebus konsolideerimisgrupi kriisilahendusasutuse või individuaalsel alusel kriisilahenduse konsolideerimisgruppi ja käesoleva seaduse § 19 lõigetes 2 ja 4–8 sätestatud tingimustel miinimumnõude kohaldamisalasse kuuluva krediidiasutuse kriisilahendusasutuse miinimumnõude kindlaksmääramise kohta käesoleva paragrahvi lõigetes 6 ja 6<sup>1</sup> nimetatud nelja kuu jooksul või enne ühisotsusele jõudmist.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(8<sup>1</sup>) Kui Finantsinspektsioon on kriisilahendussubjekti kriisilahendusasutus või konsolideerimisgrupi tasandi kriisilahendusasutus, ei kohaldata käesoleva paragrahvi lõikes 8 nimetatud õigust Euroopa Pangandusjärelevalve Asutusele siduva vahendajarolli võtmiseks, kui tütarettevõtja kriisilahendusasutuse kehtestatud tase ei ületa kaht protsenti lõikes 1 nimetatud nõudest, mis on arvutatud koguriskipositsioonist vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 92 lõikele 3 ning mis on kooskõlas käesoleva seaduse § 17<sup>3</sup> lõikega 1.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(8<sup>2</sup>) Kui Euroopa Pangandusjärelevalve Asutus ei ole ühe kuu jooksul pärast käesoleva paragrahvi lõikes 6<sup>2</sup> nimetatud õiguse kohaldamist otsust teinud, kohaldab Finantsinspektsioon krediidiasutusest tütarettevõtjale lõike 6<sup>1</sup> alusel tehtud otsust.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(8<sup>3</sup>) Finantsinspektsiooni finantskriisi lahendamise funktsiooni täitja koordineerib koostöös finantsjärelevalve funktsiooni täitjaga krediidiasutuste miinimumnõuete täitmist ning teeb vastavalt käesolevale paragrahvile otsuseid samal ajal kriisilahenduskavade väljatöötamise ja ajakohastamisega.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(9) Kui Finantsinspektsioon on konsolideerimisgrupi kriisilahendusasutus, esitab ta ühisotsuse või käesoleva paragrahvi lõikes 6 sätestatud otsuse koos vajalike põhjendustega konsolideerimisgrupi emaettevõtjale.
+
+(9<sup>1</sup>) Käesolevas paragrahvis nimetatud ühisotsus või selle puudumisel asjakohase kriisilahendusasutuse tehtud otsus on Finantsinspektsioonile siduv.
+
+\[RT I, 30.11.2022, 1 - jõust. 10.12.2022\]
+
+(10) Käesolevas paragrahvis nimetatud ühisotsus või selle puudumisel Finantsinspektsiooni tehtud otsus tuleb regulaarselt üle vaadata ja vajaduse korral ajakohastada.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+#### § 18<sup>1</sup>. Konsolideerimisgruppi kuuluva kriisilahendussubjekti erisus
+
+(1) Kriisilahendussubjekt, kelle suhtes ei kohaldata Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artiklit 92a ning kes kuulub kriisilahenduse konsolideerimisgruppi, mille koguvarade maht on suurem kui 100 miljardit eurot, täidab käesoleva seaduse § 17<sup>2</sup> lõikes 3 nimetatud nõude tasemel, mis on vähemalt võrdne 13,5 protsendiga, kui see arvutatakse kooskõlas § 17 lõike 2 punktiga 1, ja viie protsendiga, kui see arvutatakse kooskõlas § 17 lõike 2 punktiga 2.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud kriisilahendussubjekt täidab miinimumnõude tasemel 13,5 protsenti, kui see arvutatakse käesoleva seaduse § 17 lõike 2 punktist 1 lähtuvalt, ja viis protsenti, kui see arvutatakse § 17 lõike 2 punktist 2 lähtuvalt, omavahendite, allutatud kõlblike kohustuste või § 17 lõikes 4 nimetatud kohustustega.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(3) Finantsinspektsiooni finantskriisi lahendamise funktsiooni täitja võib pärast finantsjärelevalve funktsiooni täitjaga konsulteerimist otsustada kohaldada käesoleva paragrahvi lõigetes 1 ja 2 sätestatud nõudeid kriisilahendussubjekti suhtes, kellele ei kohaldata Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artiklit 92a, kuid kes kuulub kriisilahenduse konsolideerimisgruppi, mille koguvarade maht on väiksem kui 100 miljardit eurot, ja kes võib Finantsinspektsiooni hinnangul mõistliku tõenäosusega põhjustada maksejõuetuse korral süsteemse riski.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(4) Käesoleva paragrahvi lõikes 3 nimetatud otsuse tegemisel võtab Finantsinspektsioon arvesse:
+
+1\) hoiuste suurt osakaalu ja võlainstrumentide puudumist rahastamismudelis;
+
+2\) kõlblike kohustuste kapitaliturgudele juurdepääsu piiratuse ulatust;
+
+3\) ulatust, milles kriisilahendussubjekt tugineb esimese taseme põhiomavahenditele, et täita käesoleva seaduse §-s 18 nimetatud nõue.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(5) Käesoleva paragrahvi lõikes 3 nimetatud otsuse puudumine ei piira otsuse tegemist käesoleva seaduse § 17<sup>1</sup> lõigete 1 ja 2 kohaselt.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(6) Käesoleva paragrahvi lõigetes 1 ja 3 nimetatud nõuete miinimumtaset ei kohaldata kahe aasta jooksul pärast kuupäeva, kui:
+
+1\) Finantsinspektsioon on rakendanud kohustuste teisendamise meedet;
+
+2\) kriisilahendussubjekt kasutab kriisilahenduses käesoleva seaduse § 39 lõike 1 punktis 2 nimetatud eraõiguslikku meedet, millega kapitaliinstrumendid ja teised kohustused on alla hinnatud või teisendatud esimese taseme instrumentideks;
+
+3\) kriisilahendussubjekti suhtes on kohaldatud kohustuste allahindamise või teisendamise õigust, et rekapitaliseerida kriisilahendussubjekti ilma kriisilahenduse vahendite rakendamiseta.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(7) Käesoleva paragrahvi lõikes 2 ja käesoleva seaduse § 17<sup>4</sup> lõigetes 6 ja 7 nimetatud miinimumnõudeid ei kohaldata kolme aasta jooksul pärast kuupäeva, kui kriisilahendussubjekt või konsolideerimisgrupp, kuhu kriisilahendussubjekt kuulub, on hinnatud nendes lõigetes sätestatud tingimustele vastavaks.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+#### § 19. Miinimumnõude kohaldamine konsolideerimisgrupi tütarettevõtjast krediidiasutuse suhtes
+
+(1) Finantsinspektsioon kehtestab miinimumnõude konsolideerimisgrupi tütarettevõtjast krediidiasutusele, kui see on asutatud Eestis. Miinimumnõude kehtestamisel võetakse arvesse käesoleva seaduse § 17 lõikes 7 sätestatud kriteeriume, eelkõige krediidiasutuse suurust, äri- ja rahastamismudelit ning riskiprofiili.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(2) Krediidiasutus, kes on kriisilahendussubjekti või kolmanda riigi ettevõtja tütarettevõtja, kuid ei ole ise kriisilahendussubjekt, täidab miinimumnõuet individuaalsel alusel.
+
+(3) Individuaalse miinimumnõude täitmisest vabastatud käesoleva seaduse § 17 lõikes 3 nimetatud hüpoteekkrediidiga tegelevat krediidiasutust ei arvestata kriisilahenduse konsolideerimisgrupi koosseisu omavahendite ja kõlblike kohustuste miinimumnõude kehtestamisel konsolideeritud alusel.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(4) Finantsinspektsiooni finantskriisi lahendamise funktsiooni täitja võib pärast finantsjärelevalve funktsiooni täitjaga konsulteerimist otsustada kohaldada käesolevas paragrahvis sätestatud nõuet konsolideerimisgruppi kuuluva ettevõtja suhtes, kes on kriisilahendussubjekti tütarettevõtja, kuid ei ole ise kriisilahendussubjekt.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(5) Erandina käesoleva paragrahvi lõikest 2 täidab Euroopa Liidus tegutsev emaettevõtja, kes ei ole ise kriisilahendussubjekt, kuid on kolmanda riigi ettevõtja tütarettevõtja, miinimumnõudeid konsolideeritud alusel.
+
+(6) Käesoleva seaduse § 8<sup>1</sup> lõike 3 kohaselt tuvastatud kriisilahenduse konsolideerimisgrupi puhul järgivad krediidiasutus, kes on keskasutusega püsivalt seotud, kuid ei ole ise kriisilahendussubjekt, keskasutus, kes ei ole ise kriisilahendussubjekt, ja kriisilahendussubjekt, kelle suhtes ei kohaldata § 18 lõikes 2<sup>2</sup> nimetatud nõuet, § 17<sup>3</sup> lõigetes 1 ja 2 nimetatud nõuet individuaalsel alusel.
+
+(7) Miinimumnõue, mida kohaldatakse käesolevas paragrahvis nimetatud krediidiasutuse suhtes, määratakse kindlaks käesoleva paragrahvi ja kohaldatavuse korral ka käesoleva seaduse § 81<sup>1</sup> kohaselt ning vastavate sätestatud miinimumnõuete alusel.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(8) Käesoleva paragrahvi lõigetes 1, 2, 5 ja 6 nimetatud ettevõtja täidab miinimumnõude ühe või mitme järgmise kohustusega:
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+1\) kohustustega, mis on emiteeritud kriisilahendussubjekti jaoks ja mille see on ostnud kas otse või kaudselt sama kriisilahenduse konsolideerimisgrupi ettevõtjate kaudu, kes ostsid kohustused käesoleva paragrahvi kohaldamisalasse kuuluvalt ettevõtjalt, või mis on emiteeritud samasse kriisilahenduse konsolideerimisgruppi mittekuuluva olemasoleva aktsionäri jaoks ja mille see on ostnud, tingimusel et allahindamise ja teisendamise õiguse kasutamine vastavalt käesoleva seaduse §-dele 56–58 ei mõjuta kriisilahendussubjekti kontrolli tütarettevõtja üle;
+
+2\) kohustustega, mis vastavad Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artiklis 72a nimetatud kõlblikkuskriteeriumidele, välja arvatud nimetatud määruse artikli 72b lõike 2 punktid b, c, k, l ja m ning lõiked 3–5;
+
+3\) kohustustega, millest tulenevad nõuded rahuldatakse tavapärases maksejõuetusmenetluses pärast kohustusi, mis ei vasta käesoleva lõike punktis 1 nimetatud tingimusele ega ole kõlblikud omavahendite nõude täitmiseks;
+
+4\) kohustustega, mille suhtes kohaldatakse vastavalt käesoleva seaduse §-dele 56–58 allahindamise ja teisendamise õigust viisil, mis on kooskõlas kriisilahenduse konsolideerimisgrupi kriisilahendusstrateegiaga, eelkõige mõjutamata kriisilahendussubjekti kontrolli tütarettevõtja üle;
+
+5\) kohustustega, mille omandamist ei rahasta otse ega kaudselt käesoleva paragrahvi kohaldamisalasse kuuluv ettevõtja;
+
+6\) kohustustega, mida reguleerivad sätted ei osuta otse ega kaudselt sellele, et käesoleva paragrahvi kohaldamisalasse kuuluv ettevõtja võib kohustusi tagasi kutsuda, lunastada, tagasi maksta või tagasi osta muul juhul kui ettevõtja maksejõuetuse või likvideerimise korral, ning ettevõtja ei osuta sellele ka ühelgi muul viisil;
+
+7\) kohustustega, mida reguleerivate sätetega ei anta omanikule õigust kiirendada intresside või põhisumma tulevasi kavakohaseid makseid, välja arvatud käesoleva paragrahvi kohaldamisalasse kuuluva ettevõtja maksejõuetuse või likvideerimise korral;
+
+8\) kohustustega, millelt tehtavate intressi- või dividendimaksete suurust ei muudeta käesoleva paragrahvi kohaldamisalasse kuuluva ettevõtja krediidikvaliteedi alusel.
+
+9\) \[kehtetu - RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+10\) \[kehtetu - RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(8<sup>1</sup>) Käesoleva paragrahvi lõigetes 1, 2, 5 ja 6 nimetatud ettevõtja täidab miinimumnõude lisaks käesoleva paragrahvi lõikes 8 sätestatud kohustusele ühe või mitme järgmise omavahendiga:
+
+1\) esimese taseme põhiomavahend;
+
+2\) muu omavahend, mis on emiteeritud samasse kriisilahenduse konsolideerimisgruppi kuuluvate ettevõtjate jaoks ja mille need on ostnud;
+
+3\) muu omavahend, mis on emiteeritud samasse kriisilahenduse konsolideerimisgruppi mittekuuluvate ettevõtjate jaoks ning mille need on ostnud tingimusel, et allahindamise või teisendamise õiguse kasutamine vastavalt käesoleva seaduse §-dele 56–58 ei mõjuta kriisilahendussubjekti kontrolli tütarettevõtja üle.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(8<sup>2</sup>) Kui käesoleva paragrahvi lõigetes 2 ja 4–7 ning §-s 19<sup>1</sup> nimetatud ettevõtja täidab miinimumnõuet konsolideeritud alusel, hõlmab selle ettevõtja omavahendite ja kõlblike kohustuste summa järgmisi kohustusi, mille on lõike 8 kohaselt emiteerinud Euroopa Liidus asutatud tütarettevõtja, kes kuulub vastava ettevõtja konsolideerimisgruppi:
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+1\) kohustused, mis on emiteeritud kriisilahendussubjekti jaoks ja mille ta on ostnud otse või kaudselt teiste samasse kriisilahenduse konsolideerimisgruppi kuuluvate ettevõtjate kaudu, kes ei kuulu käesoleva seaduse § 17 lõikes 1 sätestatud miinimumnõuet täitva ettevõtja konsolideerimisalasse;
+
+2\) kohustused, mis on emiteeritud olemasoleva aktsionäri jaoks, kes ei kuulu samasse kriisilahenduse konsolideerimisgruppi.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(8<sup>3</sup>) Käesoleva paragrahvi lõikes 8<sup>2</sup> nimetatud kohustused ei või ületada summat, mis määratakse kindlaks, lahutades konsolideeritava tütarettevõtja suhtes kohaldatavast käesoleva seaduse § 17 lõike 1 alusel määratud miinimumnõude summast kõigi järgmiste elementide summa:
+
+1\) kohustused, mis on emiteeritud käesoleva seaduse § 17 lõikes 1 sätestatud nõuet konsolideeritud alusel täitva ettevõtja jaoks ja mille ta on ostnud kas otse või kaudselt teiste samasse kriisilahenduse konsolideerimisgruppi kuuluvate ettevõtjate kaudu, kes kuuluvad vastava ettevõtja konsolideerimisalasse;
+
+2\) käesoleva paragrahvi lõike 8<sup>1</sup> kohaselt emiteeritud omavahendite summa.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(9) Kui nii tütarettevõtja kui ka kriisilahendussubjekt on asutatud Eestis ning nad kuuluvad samasse kriisilahenduse konsolideerimisgruppi, võib Finantsinspektsioon loobuda miinimumnõude kohaldamisest sellise tütarettevõtja suhtes, kes ei ole kriisilahendussubjekt, kui on täidetud kõik järgmised tingimused:
+
+1\) kriisilahendussubjekt täidab käesoleva seaduse § 18 lõikes 2 nimetatud miinimumnõuet konsolideeritud alusel;
+
+2\) puuduvad olemasolevad või oodatavad olulised praktilised või õiguslikud takistused omavahendite kiirele ülekandmisele või kohustuste tagasimaksmisele kriisilahendussubjektilt tütarettevõtjale, kelle suhtes on toimunud käesoleva seaduse § 56 lõike 1 kohane kindlakstegemine, eelkõige juhul, kui kriisilahendussubjekti suhtes on võetud kriisilahendusmeede;
+
+3\) kriisilahendussubjekt tõendab Finantsinspektsioonile seda rahuldaval viisil, et tütarettevõtja juhtimine vastab usaldatavusnõuetele, ja on Finantsinspektsiooni finantsjärelevalvet teostava üksuse nõusolekul kinnitanud, et ta tagab tütarettevõtja võetud siduvate kohustuste täitmise, või ei ole tütarettevõtjaga seonduvad riskid märkimisväärse tähtsusega;
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+4\) kriisilahendussubjekti riskide hindamise, mõõtmise ja kontrollimise protseduurid hõlmavad ka tütarettevõtjat;
+
+5\) kriisilahendussubjektile kuulub enam kui 50 protsenti tütarettevõtja aktsiate või osadega seotud hääleõigusest või kriisilahendussubjektil on õigus määrata ametisse või vabastada ametist enamik tütarettevõtja juhtorgani liikmetest.
+
+(10) Kui nii tütarettevõtja kui ka selle emaettevõtja on asutatud Eestis ning nad kuuluvad samasse kriisilahenduse konsolideerimisgruppi, võib Finantsinspektsioon loobuda miinimumnõude kohaldamisest sellise tütarettevõtja suhtes, kes ei ole kriisilahendussubjekt, kui on täidetud kõik järgmised tingimused:
+
+1\) emaettevõtja täidab käesoleva seaduse miinimumnõude konsolideeritud alusel emaettevõtja asukoha järgses lepinguriigis;
+
+2\) puuduvad olemasolevad või oodatavad olulised praktilised või õiguslikud takistused omavahendite kiirele ülekandmisele või kohustuste tagasimaksmisele emaettevõtjalt tütarettevõtjale, kelle suhtes on käesoleva seaduse § 56 lõike 1 alusel tehtud kindlaks, et esinevad allahindamise või teisendamise alused, eelkõige juhul, kui emaettevõtja suhtes on võetud kasutusele kriisilahendusmeede või nendest alustest tulenevalt on kasutatud § 56 lõikes 1 nimetatud õigust;
+
+3\) emaettevõtja tõendab Finantsinspektsioonile seda rahuldaval viisil, et tütarettevõtja juhtimine vastab usaldatavusnõuetele, ja on järelevalveasutuse nõusolekul kinnitanud, et ta tagab tütarettevõtja võetud siduvate kohustuste täitmise, või ei ole tütarettevõtjaga seonduvad riskid märkimisväärse tähtsusega;
+
+4\) emaettevõtja riskide hindamise, mõõtmise ja kontrollimise protseduurid hõlmavad ka tütarettevõtjat;
+
+5\) emaettevõtjale kuulub enam kui 50 protsenti tütarettevõtja aktsiate või osadega seotud hääleõigusest või emaettevõtjal on õigus määrata enamik tütarettevõtja juhtorgani liikmetest või nad tagasi kutsuda.
+
+(11) Kui nii tütarettevõtja kui ka kriisilahendussubjekt on asutatud Eestis ja kuuluvad samasse konsolideerimisgruppi ning käesoleva paragrahvi lõike 9 punktis 1 sätestatud tingimus on täidetud, võib Finantsinspektsioon lubada tütarettevõtjal käesoleva seaduse miinimumnõude täielikult või osaliselt täita kriisilahendussubjekti antava garantiiga, mis vastab järgmistele tingimustele:
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+1\) garantii antakse summas, mis on vähemalt samaväärne nõude summaga, mis sellega asendatakse;
+
+2\) garantii aktiveeritakse juhul, kui tütarettevõtja ei suuda tähtaja jooksul oma võlgasid tagasi maksta või muid kohustusi täita või tütarettevõtja suhtes on käesoleva seaduse § 56 lõike 1 alusel tehtud kindlaks, et esinevad allahindamise või teisendamise alused, olenevalt sellest, kumb toimub varem;
+
+3\) garantii on tagatud finantstagatiskokkuleppe kaudu Euroopa Parlamendi ja nõukogu direktiivi 2002/47/EÜ finantstagatiskokkulepete kohta (EÜT L 168, 27.06.2002, lk 43–50) artikli 2 lõike 1 punkti a tähenduses vähemalt 50 protsendi ulatuses selle summast;
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+4\) garantii tagatis vastab Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artiklis 197 sätestatud nõuetele ning see on pärast asjakohaselt konservatiivsete väärtuskärbete tegemist piisav, et katta käesoleva lõike punktis 3 nimetatud tagatud summa;
+
+5\) garantii tagatis on koormamata ja seda ei kasutata muu garantii tagatisena;
+
+6\) tagatisel on tegelik lõpptähtaeg, mis vastab Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 72c lõikes 1 nimetatud lõpptähtaja tingimustele;
+
+7\) puuduvad õiguslikud, regulatiivsed või rakenduslikud takistused tagatise ülekandmisel kriisilahendussubjektilt asjaomasele tütarettevõtjale, sealhulgas juhul, kui kriisilahendussubjekti suhtes on võetud kriisilahendusmeede.
+
+(12) Käesoleva paragrahvi lõike 11 punkti 7 kohaldamisel esitab kriisilahendussubjekt Finantsinspektsiooni nõudmisel sõltumatu kirjaliku ja põhjendatud õigusliku arvamuse või tõendab muul rahuldaval viisil, et puuduvad õiguslikud, regulatiivsed või rakenduslikud takistused tagatise ülekandmisel kriisilahendussubjektilt asjaomasele tütarettevõtjale.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+#### § 19<sup>1</sup>. Konsolideerimisgruppi kuuluva tütarettevõtja erisus
+
+(1) Erandina käesoleva seaduse § 19 lõigetes 2 ja 4 sätestatust võib Finantsinspektsioon määrata tütarettevõtja jaoks kindlaks §-s 17<sup>2</sup> sätestatud nõude täitmise konsolideeritud alusel.
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud erandi kohaldamiseks peavad olema täidetud kõik järgmised tingimused:
+
+1\) kriisilahendussubjektil on otsene või kaudne kontroll tütarettevõtja üle või tema suhtes kohaldatakse krediidiasutuste seaduse §-s 104<sup>2</sup> nimetatud täiendavate omavahendite nõuet ainult konsolideeritud alusel ning käesoleva seaduse §-s 17<sup>2</sup> sätestatud miinimumnõude kindlaksmääramine konsolideeritud alusel ei too kaasa asjaomasesse konsolideerimisalasse kuuluvatest ettevõtjatest koosneva alagrupi rekapitaliseerimise vajaduse ülehindamist § 17<sup>2</sup> lõike 1 punkti 2 kohaldades, seda eelkõige juhul, kui samas konsolideerimisulatuses on palju likvideerimissubjekte;
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+2\) käesoleva seaduse §-s 17<sup>2</sup> sätestatud nõude konsolideeritud alusel täitmine asjaomase nõude individuaalsel alusel täitmise asemel ei kahjusta oluliselt konsolideerimisgrupi kriisilahendusstrateegia usaldusväärsust, teostatavust ega tütarettevõtja võimet täita omavahendite nõuet pärast allahindamise ja teisendamise õiguse kasutamist ning kahjumi sisemise ülekandmise ja rekapitaliseerimise mehhanismi asjakohasus, sealhulgas asjaomase tütarettevõtja või muude kriisilahenduse konsolideerimisgruppi kuuluvate ettevõtjate asjaomaste kapitaliinstrumentide ja kõlblike kohustuste allahindamine või teisendamine, on kooskõlas käesoleva seaduse §-ga 56.
+
+(3) Käesoleva paragrahvi lõike 2 punktis 1 nimetatud erandi kohaldamiseks peavad olema täidetud kõik järgmised tingimused:
+
+1\) kriisilahendussubjekt on Euroopa Liidus emaettevõtjana tegutsev finantsvaldusettevõtja või Euroopa Liidus emaettevõtjana tegutsev segafinantsvaldusettevõtja;
+
+2\) nii tütarettevõtja kui ka kriisilahendussubjekt on asutatud samas lepinguriigis ning nad kuuluvad samasse kriisilahenduse konsolideerimisgruppi;
+
+3\) kriisilahendussubjektil ei ole otsest ega kaudset kontrolli ühegi tütarettevõtja krediidiasutuse või käesoleva seaduse § 2 lõike 1 punktides 3 ja 4 nimetatud ettevõtja tütarettevõtja üle, kui selle tütarettevõtja suhtes kohaldatakse §-s 19 sätestatud nõudeid või §-s 17<sup>2</sup> nimetatud miinimumnõuet;
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+4\) Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 72e lõike 5 kohaselt nõutavad mahaarvamised mõjutaksid tütarettevõtjat ebaproportsionaalselt.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+#### § 20. Miinimumnõude kohaldamise erisused
+
+(1) Kui Finantsinspektsioon on konsolideerimisgrupi kriisilahendusasutus, võib ta jätta kohaldamata krediidiasutuse konsolideerimisgrupi emaettevõtjale miinimumnõude järgmistel juhtudel:
+
+1\) Euroopa Liidus emaettevõtjana tegutsev krediidiasutus täidab käesoleva seaduse § 18 lõikes 2 nimetatud miinimumnõuet konsolideeritud alusel;
+
+2\) Euroopa Liidus emaettevõtjana tegutseva krediidiasutuse suhtes ei kohaldata Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 7 lõike 3 kohaselt usaldatavusnõudeid individuaalsel alusel.
+
+(2) Kui Finantsinspektsioon on konsolideerimisgrupi tütarettevõtja kriisilahendusasutus, võib ta jätta krediidiasutusele miinimumnõude kohaldamata järgmistel juhtudel:
+
+1\) nii konsolideerimisgrupi emaettevõtja kui ka tütarettevõtja on saanud Eestis tegevusloa ning mõlema üle teostab järelevalvet Finantsinspektsioon;
+
+2\) konsolideerimisgrupi tütarettevõtja kuulub Finantsinspektsiooni poolt sama konsolideerimisgrupi üle teostatava järelevalve alla;
+
+3\) konsolideerimisgrupi tütarettevõtja emaettevõtja, kes ei ole kogu konsolideerimisgrupi emaettevõtja, täidab miinimumnõuet konsolideeritud alusel;
+
+4\) puuduvad kehtivad või ennustatavad praktilised või juriidilised takistused omavahendite koosseisu kuuluvate instrumentide ülekandmiseks või kohustuste tagasimaksmiseks tütarettevõtjale emaettevõtja poolt;
+
+5\) emaettevõtja kas tõendab Finantsinspektsioonile kui finantsjärelevalve asutusele, et tütarettevõtjat juhitakse usaldusväärselt, ja ta tagab tütarettevõtja võetud kohustused või ei ole tütarettevõtjaga seonduvad riskid olulise suurusega;
+
+6\) emaettevõtja riskide hindamise, mõõtmise ja kontrollimise protseduurid hõlmavad ka tütarettevõtjat;
+
+7\) emaettevõtjale kuulub enam kui 50 protsenti tütarettevõtja aktsiate või osadega seotud hääleõigustest või emaettevõtjal on õigus määrata ametisse või vabastada ametist enamik tütarettevõtja juhtorgani liikmetest;
+
+8\) Eestis asutatud krediidiasutusest tütarettevõtja suhtes ei kohaldata Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 7 lõike 1 kohaselt usaldatavusnõudeid individuaalsel alusel.
+
+\[RT I, 10.01.2019, 1 - jõust. 20.01.2019\]
+
+(3) Finantsinspektsioon võib jätta osaliselt või täielikult kohaldamata miinimumnõude keskasutuse suhtes või keskasutusega püsivalt seotud krediidiasutuse suhtes, kui on täidetud järgmised tingimused:
+
+1\) krediidiasutus ja keskasutus on asutatud Eestis ning nende mõlema üle teostab järelevalvet Finantsinspektsioon;
+
+2\) krediidiasutus ja keskasutus kuuluvad samasse kriisilahenduse konsolideerimisgruppi;
+
+3\) keskasutus ja sellega püsivalt seotud krediidiasutus vastutavad siduvate kohustuste täitmise eest solidaarselt või keskasutus tagab täies ulatuses temaga püsivalt seotud krediidiasutuste siduvate kohustuste täitmise;
+
+4\) keskasutuse ja kõigi sellega püsivalt seotud krediidiasutuste omavahendite ja kõlblike kohustuste miinimumnõuet, maksevõimet ja likviidsust jälgitakse tervikuna nimetatud krediidiasutuste konsolideeritud aastaaruannete põhjal;
+
+5\) kui keskasutusega püsivalt seotud krediidiasutusele tehakse erand, on keskasutuse juhtkond volitatud andma juhtnööre keskasutusega püsivalt seotud krediidiasutuste juhtkondadele;
+
+6\) asjaomane kriisilahenduse konsolideerimisgrupp täidab käesoleva seaduse § 18 lõikes 2<sup>2</sup> nimetatud nõuet;
+
+7\) puuduvad olemasolevad või oodatavad olulised praktilised või õiguslikud takistused kriisilahenduse korral omavahendite kiirele ülekandmisele või kohustuste tagasimaksmisele keskasutuse ja sellega püsivalt seotud krediidiasutuste vahel.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+#### § 21. Miinimumnõude täitmise asendamine kohustuste ja nõudeõiguste teisendamise lepinguga
+
+\[Kehtetu - RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+#### § 22. Kohustuste teisendamise õiguse sätestamine lepingutes
+
+(1) Krediidiasutus või temaga samasse konsolideerimisgruppi kuuluv isik on kohustatud sõlmitavas lepingus, millest tulenevale kohustusele kohaldatakse kolmanda riigi õigust, kokku leppima, et võlausaldaja, kohustuse aluseks oleva lepingu teine pool või võlainstrumendi omandaja tunnistab, et:
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+1\) lepingust tuleneva kohustuse suhtes võib kohaldada allahindamise ja teisendamise õigust;
+
+2\) ta nõustub kohustuse põhiosa või maksmisele kuuluva jäägi mis tahes vähendamise, teisendamise või tühistamisega kriisilahendusmenetluses.
+
+(1<sup>1</sup>) Finantsinspektsioon võib lubada jätta täitmata käesoleva paragrahvi lõikes 1 nimetatud nõuded, kui miinimumnõue on võrdne krediidiasutuse kahjumi katmise summaga ning samas lõikes nimetatud lepingutingimusi ei võeta miinimumnõude täitmisel arvesse.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2) Finantsinspektsioon võib nõuda, et krediidiasutus või temaga samasse konsolideerimisgruppi kuuluv isik esitab allahindamise ja teisendamise õiguse tingimust sisaldava lepingu jõustatavuse ja kehtivuse kohta erapooletu õigusliku hinnangu.
+
+(2<sup>1</sup>) Kui krediidiasutuse hinnangul on käesoleva paragrahvi lõikes 1 nimetatud nõuded kohustuse suhtes õiguslikult või muu asjaolu tõttu teostamatud, teavitab ta Finantsinspektsiooni sellisele järeldusele jõudmisest, sealhulgas teatab kohustuse klassi ja järelduse põhjendused. Kohustused ei hõlma täiendavaid esimese taseme omavahendite instrumente, teise taseme omavahendite instrumente ja võlakirju või muud liiki võõrandatavaid võlainstrumente ega instrumente, mille alusel tekib võlg või tunnustatakse võla olemasolu, kui need instrumendid on tagamata kohustused ja kõrgema nõudeõiguse järguga kui krediidiasutuste seaduse § 131 lõike 1 punktis 5<sup>1</sup> nimetatud kohustused.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(2<sup>2</sup>) Kui Finantsinspektsioon on saanud krediidiasutuselt käesoleva paragrahvi lõikes 2<sup>1</sup> nimetatud teate, peatub lõikes 1 sätestatud tingimuse lepingulistesse sätetesse lisamise kohustus automaatselt.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2<sup>3</sup>) Kui Finantsinspektsioon, võttes arvesse vajadust tagada krediidiasutuse kriisilahenduskõlblikkus, jõuab järeldusele, et käesoleva paragrahvi lõikes 1 sätestatud tingimuse lisamine lepingulistesse sätetesse on õiguslikult või muul viisil teostatav, nõuab ta mõistliku aja jooksul pärast lõikes 2<sup>1</sup> nimetatud teavitamist sellise lepingulise tingimuse lisamist. Lisaks võib Finantsinspektsioon nõuda krediidiasutuselt nõudeõiguste teisendamise lepingulise tunnustamisega seonduvate erandi tegemise tavade muutmist.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2<sup>4</sup>) Finantsinspektsioon võib täpsustada nende kohustuste kategooriad, mille puhul krediidiasutus või muu konsolideerimisgruppi kuuluv ettevõtja teeb kindlaks, et käesoleva paragrahvi lõikes 1 nimetatud lepingulise tingimuse lisamine on õiguslikult või muul viisil teostamatu.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(3) Käesoleva paragrahvi lõikes 1 sätestatut ei kohaldata:
+
+1\) hoiuste suhtes, mis rahuldatakse pankrotimenetluses nõuetena esimeses järgus vastavalt krediidiasutuste seaduse § 131 lõikele 1;
+
+2\) kui allahindamise ja teisendamise õigus on sätestatud asjakohase kolmanda riigi õiguses või kolmanda riigiga sõlmitud välislepingus;
+
+3\) kohustuste suhtes, mis on sätestatud käesoleva seaduse § 71 lõikes 1.
+
+(4) Kui krediidiasutus või temaga samasse konsolideerimisgruppi kuuluv isik ei täida käesolevas paragrahvis sätestatud nõudeid, ei takista see Finantsinspektsiooni kohaldada kohustuste teisendamise meedet vastavate kohustuste suhtes.
+
+#### § 22<sup>1</sup>. Miinimumnõudega seotud aruannete esitamine
+
+(1) Krediidiasutus esitab Finantsinspektsioonile miinimumnõude täitmise kohta aruande, mis sisaldab järgmist teavet:
+
+1\) käesoleva seaduse § 19 lõikes 8<sup>1</sup> nimetatud omavahendite summa, kui see on asjakohane, ja kõlblike kohustuste summa ning omavahendite ja kõlblike kohustuste summa vastavalt § 17<sup>2</sup> lõigetele 2–9, § 17<sup>3</sup> lõigetele 1–6 ning § 18<sup>1</sup> lõigetele 1 ja 2 pärast ükskõik milliste asjakohaste mahaarvamiste tegemist vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artiklitele 72e–72j;
+
+2\) teisendatavate kohustuste summa;
+
+3\) käesoleva lõike punktides 1 ja 2 nimetatud summade struktuur, tähtajaprofiil ning nendest tulenevate nõuete rahuldamisjärk tavalises maksejõuetusmenetluses;
+
+4\) kui käesoleva lõike punktides 1 ja 2 nimetatud summasid reguleeritakse kolmanda riigi õigusega, siis selgitus selle kohta koos asjaomase riigi nimega ning selle kohta, kas summade reguleerimine kolmanda riigi õigusega seisneb selliste lepinguliste tingimuste kehtestamises, millele on osutatud käesoleva seaduse § 22 lõigetes 1, 1<sup>1</sup> ja 3 ning Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 52 lõike 1 punktides p ja q ning artikli 63 punktides n ja o.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(1<sup>1</sup>) Käesoleva paragrahvi lõike 1 punktis 2 nimetatud teavet teisendatavate kohustuste summa kohta ei pea esitama krediidiasutus, kelle omavahendite ja kõlblike kohustuste summa, mis on vastava teabe esitamise kuupäeval kooskõlas lõike 1 punktiga 1, moodustab vähemalt 150 protsenti tema suhtes määratud miinimumnõudest.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(2) Käesoleva paragrahvi lõike 1 punktis 1 nimetatud teave esitatakse Finantsinspektsioonile vähemalt üks kord poolaasta jooksul ning punktides 2 ja 3 nimetatud teave vähemalt üks kord aasta jooksul, välja arvatud juhul, kui Finantsinspektsioon nõuab lõikes 1 nimetatud teabe esitamist tihedamini kui kord poolaasta või aasta jooksul. Finantsinspektsioon võib vajaduse korral nõuda käesoleva paragrahvi lõikes 1 nimetatud aruandeid lühemate perioodide kohta, kui on Euroopa Parlamendi ja nõukogu määruse (EL) nr 1093/2010 alusel kehtestatud aktis sätestatud.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(3) \[Kehtetu - RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(4) Krediidiasutus peab avaldama oma veebilehel ligipääsetavas vormis vähemalt kord aastas järgmise teabe:
+
+1\) käesoleva seaduse § 19 lõike 8<sup>1</sup> kohaste omavahendite summa, kui see on kohaldatav, ja kõlblike kohustuste summa;
+
+2\) käesoleva lõike punktis 1 nimetatud kirjete struktuur, nende tähtajaprofiil ja nendest tulenevate nõuete rahuldamisjärk tavalises maksejõuetusmenetluses;
+
+3\) teave käesoleva seaduse § 18 lõigetes 1, 2<sup>1</sup> ja 2<sup>2</sup> või § 19 lõigetes 2 ja 4–8 nimetatud miinimumnõude kohaldamise kohta, mis on vormistatud vastavalt § 17 lõikele 2.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(5) Käesoleva paragrahvi lõigetes 1, 1<sup>1</sup> ja 4 sätestatut ei kohaldata likvideerimissubjekti suhtes, välja arvatud juhul, kui Finantsinspektsioon on määranud sellise ettevõtja puhul kindlaks käesoleva seaduse § 17 lõikes 2 nimetatud nõude kooskõlas §-ga 17<sup>5</sup>. Vastav aruandlus- ja avalikustamiskohustus piirdub sellisel juhul käesoleva seaduse §-s 17<sup>5</sup> sätestatud miinimumnõude täitmisega ning Finantsinspektsioon määrab nimetatud ettevõtja jaoks kindlaks aruandlus- ja avalikustamiskohustuse sisu ja sageduse vastavalt komisjoni rakendusmäärusele (EL) 2021/763, millega kehtestatakse rakenduslikud tehnilised standardid Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 ning Euroopa Parlamendi ja nõukogu direktiivi 2014/59/EL kohaldamiseks seoses omavahendite ja kõlblike kohustuste miinimumnõude täitmise järelevalvelise aruandluse ja avalikustamisega (ELT L 168, 12.05.2021, lk 1–83). Finantsinspektsioon annab asjaomasele likvideerimissubjektile juhiseid, kuidas aruandlus- ja avalikustamiskohustust täita.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+#### § 22<sup>2</sup>. Peatamisõiguse lepinguline tunnustamine kriisilahenduses
+
+(1) Krediidiasutus või temaga samasse konsolideerimisgruppi kuuluv isik on kohustatud igas sõlmitavas finantslepingus, mille suhtes kohaldatakse kolmanda riigi õigust, leppima kokku, et võlausaldaja või lepingu teine pool nõustub, et Finantsinspektsioon võib kasutada finantslepingu suhtes käesoleva seaduse § 43 lõikest 2 tulenevat õigust peatada kohustuse täitmine või piirata õigusi, võttes arvesse §-s 40<sup>1</sup> sätestatud teatud kohustuste peatamise tingimusi, ja tunnustama oma seotust Euroopa Parlamendi ja nõukogu direktiivi 2014/59/EL artikli 68 nõuetega. Käesolevas seaduses käsitatakse finantslepingut Euroopa Parlamendi ja nõukogu direktiivi 2014/59/EL artikli 2 punkti 100 tähenduses.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(2) Euroopa Liidus tegutseva krediidiasutuse emaettevõtja peab tagama, et tema kolmanda riigi tütarettevõtja lisab finantslepingule käesoleva paragrahvi lõikes 1 nimetatud tingimused, et välistada võimalus need lepingud enne tähtaega lõpetada või peatada, neid muuta, tasaarvestada, tasaarvestuse õigust kasutada või tagatisest tulenevaid õigusi rakendada olukorras, kus Finantsinspektsioon kasutab kooskõlas lõikega 1 õigust peatada või piirata lepinguriigis tegutseva emaettevõtja õigusi ja kohustusi.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(3) Käesoleva paragrahvi lõikes 2 sätestatud nõuet võib Finantsinspektsioon kohaldada kolmanda riigi tütarettevõtja suhtes, kes on:
+
+1\) krediidiasutus;
+
+2\) investeerimisühing või oleks investeerimisühing, kui tema peakontor asuks lepinguriigis, või
+
+3\) finantseerimisasutus.
+
+(4) Käesolevat paragrahvi kohaldatakse kõigi finantslepingute suhtes, millega:
+
+1\) võetakse uus kohustus või muudetakse oluliselt olemasolevat kohustust;
+
+2\) nähakse ette Eesti õiguse alusel sõlmitud lepingust tuleneva kohustuse täitmise peatamine või ühel või mitmel alusel lepingu lõpetamine või tagatistest tulenevate õiguste teostamine käesoleva seaduse § 40<sup>1</sup>, 43 või 44 alusel.
+
+(5) Kui krediidiasutus või temaga samasse konsolideerimisgruppi kuuluv isik ei täida käesolevas paragrahvis sätestatud nõudeid, võib Finantsinspektsioon sellele vaatamata kohaldada kohustuse peatamise õigust.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+### 3. jagu — Konsolideerimisgrupisisene finantstoetus
+
+#### § 23. Konsolideerimisgrupi finantstoetuse leping
+
+(1) Eestis asutatud konsolideerimisgruppi kuuluval ettevõtjal on õigus sõlmida finantstoetuse leping, mille kohaselt võib anda teisele konsolideerimisgruppi kuuluvale ettevõtjale, kes vastab käesoleva seaduse §-s 36 sätestatud varajase sekkumise tingimustele, finantstoetust (edaspidi *konsolideerimisgrupi finantstoetuse leping*).
+
+(2) Käesolevas jaos sätestatu ei mõjuta konsolideerimisgrupisisest finantseerimiskorda, sealhulgas kriisilahendusfondide ja tsentraliseeritud rahastamiskorralduse toimimist, kui ükski sellise fondi või korralduse osaline ei vasta varase sekkumise tingimustele.
+
+(3) Konsolideerimisgrupi finantstoetuse lepingut ei käsitata igale konsolideerimisgrupi finantsraskustes ettevõtjale konsolideerimisgrupi finantstoetuse andmise eeldusena, juhul kui krediidiasutus või investeerimisühing otsustab iga üksikjuhtumi puhul eraldi seda teha vastavalt konsolideerimisgrupi põhimõtetele ja kui see ei kujuta riski konsolideerimisgrupile tervikuna.
+
+(4) Konsolideerimisgrupi finantstoetuse lepingust tulenevat mis tahes õigust, nõuet või meedet võivad rakendada ainult lepingupooled, kuid mitte kolmandad isikud.
+
+#### § 24. Nõuded konsolideerimisgrupi finantstoetuse lepingule
+
+(1) Konsolideerimisgrupi finantstoetuse lepingu võib sõlmida ainult olukorras, kus Finantsinspektsiooni ja teiste asjaomaste lepinguriikide finantsjärelevalve asutuste arvates ei vasta ükski kavandatud lepingu pooltest lepingu sõlmimise ajal käesoleva seaduse §-s 36 sätestatud varajase sekkumise tingimustele.
+
+(2) Konsolideerimisgrupi finantstoetuse leping võib:
+
+1\) hõlmata konsolideerimisgrupi ühte või mitut tütarettevõtjat ja selles võidakse sätestada finantstoetuse andmine emaettevõtjalt tütarettevõtjatele, tütarettevõtjatelt emaettevõtjale, ühelt tütarettevõtjalt teisele tütarettevõtjale, kes kõik kuuluvad konsolideerimisgruppi ja on lepingu osalised, või kõnealuste üksuste mis tahes kombinatsioonis;
+
+2\) sätestada finantstoetuse andmise laenuna, garantiina, tehingu tagatiseks vara pakkumisena või nimetatud finantstoetuse vormide kombinatsioonina, ühe või mitme tehinguna, sealhulgas toetuse saaja ja kolmanda isiku vahel sõlmitava tehinguna.
+
+(3) Kui konsolideerimisgruppi kuuluv üks ettevõtja on konsolideerimisgrupi finantstoetuse lepingu tingimuste kohaselt nõus andma finantstoetust teisele konsolideerimisgruppi kuuluvale ettevõtjale, võib leping sisaldada ka vastastikust kokkulepet, mille kohaselt toetust saav konsolideerimisgruppi kuuluv ettevõtja on nõus andma finantstoetust toetust andvale ettevõtjale.
+
+(4) Konsolideerimisgrupi finantstoetuse lepingus määratakse kindlaks lepingu alusel sooritatavate tehingute eest tasumisele kuuluva lepingutasu või muu hüvitise arvutamise põhimõtted. Kõnealused põhimõtted sisaldavad nõuet selle kohta, et vastav hüvitis määratakse kindlaks finantstoetuse andmise ajal. Lepingu tingimused, sealhulgas finantstoetuse andmisel hüvitise arvutamine, peavad vastama järgmistele nõuetele:
+
+1\) lepingupool peab sõlmima lepingu vabal tahtel;
+
+2\) lepingut sõlmides ja finantstoetuse andmise lepingu hüvitist kindlaks määrates peab iga lepingupool tegutsema oma huvidest lähtuvalt, mille puhul võib arvesse võtta mis tahes otsest või kaudset tulu, mida lepingupool võib teenida finantstoetuse andmise tulemusel;
+
+3\) enne finantstoetuse andmise lepingu hüvitise kindlaksmääramist ja enne finantstoetuse andmise otsuse tegemist peab igal finantstoetuse andjal olema täielik ülevaade asjakohasest teabest finantstoetuse saaja kohta;
+
+4\) finantstoetuse andmise lepingu hüvitise kindlaksmääramisel võib arvesse võtta finantstoetuse andja käsutuses olevat teavet, mille aluseks on kuulumine finantstoetuse saajaga samasse konsolideerimisgruppi ja mis ei ole turule kättesaadav ning
+
+5\) finantstoetuse andmise lepingu hüvitise arvutamise põhimõtetes ei ole vaja arvesse võtta konsolideerimisgrupivälistest sündmustest tulenevat eeldatavat ajutist mõju turuhindadele.
+
+(5) Eestis asutatud konsolideerimisgruppi kuuluvad ettevõtjad peavad avalikustama, kas nad on konsolideerimisgrupi finantstoetuse lepingu sõlminud või mitte, samuti võimaliku lepingu üldtingimuste kirjelduse ja lepingupoolteks olevate teiste konsolideerimisgruppi kuuluvate isikute nimed ning ajakohastama seda teavet vähemalt kord aastas. Avalikustamisele kohaldatakse Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikleid 431–434.
+
+#### § 25. Konsolideerimisgrupi finantstoetuse lepingu kinnitamise menetlus
+
+(1) Konsolideerimisgrupi emaettevõtja esitab Finantsinspektsioonile kui konsolideeritud järelevalve teostajale taotluse käesoleva seaduse § 24 kohaselt kavandatava konsolideerimisgrupi finantstoetuse lepingu kinnitamiseks. Taotlus peab sisaldama kavandatava lepingu teksti ja määrama kindlaks konsolideerimisgruppi kuuluvad ettevõtjad, kes on avaldanud soovi olla lepingupooled.
+
+(2) Finantsinspektsioon edastab käesoleva paragrahvi lõikes 1 sätestatud alusel esitatud taotluse viivitamata igale lepingus osaleda soovinud teise lepinguriigi finantsjärelevalve asutusele, kus asub konsolideerimisgruppi kuuluv tütarettevõtja, et jõuda lepingu kinnitamise kohta ühisotsusele.
+
+(3) Nelja kuu jooksul pärast käesoleva paragrahvi lõikes 1 nimetatud taotluse laekumist teeb Finantsinspektsioon kõik endast oleneva, et jõuda käesoleva paragrahvi lõikes 2 nimetatud finantsjärelevalve asutustega ühisotsusele, kas kavandatava lepingu tingimused on kooskõlas käesoleva seaduse §-s 24 ja § 27 lõikes 3 sätestatud finantstoetuse andmise tingimustega, võttes samal ajal arvesse lepingu täitmisega kaasnevat võimalikku mõju, sealhulgas võimalikku fiskaalmõju, kõigis lepinguriikides, kus konsolideerimisgrupp tegutseb. Finantsinspektsioon edastab igakülgselt põhjendatud ühisotsuse konsolideerimisgrupi emaettevõtjale.
+
+(4) Käesoleva paragrahvi lõike 3 kohase otsuse tegemise korral võib Finantsinspektsioon taotleda abi Euroopa Pangandusjärelevalve Asutuselt kooskõlas Euroopa Parlamendi ja nõukogu määruse (EL) nr 1093/2010 artikliga 19.
+
+(5) Kui käesoleva paragrahvi lõikes 3 sätestatud ajavahemiku jooksul ei jõuta ühisotsusele, teeb Finantsinspektsioon ise oma otsuse. Finantsinspektsiooni otsus peab olema igakülgselt põhjendatud ja selles tuleb arvesse võtta teiste asjaomaste lepinguriikide finantsjärelevalve asutuste seisukohti ja reservatsioone. Finantsinspektsioon esitab otsuse konsolideerimisgrupi emaettevõtjale ja teiste lepinguriikide finantsjärelevalve asutustele.
+
+(6) Kui teise lepinguriigi finantsjärelevalve asutus on käesoleva paragrahvi lõikes 3 nimetatud tähtaja jooksul teavitanud Euroopa Pangandusjärelevalve Asutust ühisotsuse saavutamisega seotud erimeelsustest, lükkab Finantsinspektsioon otsuse tegemise edasi ja ootab ära Euroopa Pangandusjärelevalve Asutuse otsuse ning teeb seejärel oma otsuse kooskõlas Euroopa Pangandusjärelevalve Asutuse otsusega. Kui Euroopa Pangandusjärelevalve Asutus ei ole ühe kuu jooksul teate esitamisest arvates otsust teinud, teeb Finantsinspektsioon oma otsuse.
+
+(7) Käesoleva paragrahvi lõikes 3, 5 või 6 nimetatud menetluse alusel kinnitab Finantsinspektsioon lepingu juhul, kui kavandatava lepingu tingimused vastavad käesoleva seaduse §-s 24 sätestatud finantstoetuse andmise tingimustele, ning keelab kavandatava lepingu sõlmimise, kui see on käesoleva seaduse §-s 24 sätestatud finantstoetuse andmise tingimustega vastuolus.
+
+#### § 26. Kavandatava lepingu heakskiitmine aktsionäride poolt
+
+(1) Kui Finantsinspektsioon on konsolideerimisgrupi finantstoetuse lepingu kinnitanud, peab konsolideerimisgrupi emaettevõtja esitama kavandatava lepingu heakskiitmiseks kõigi lepingu sõlmimiseks soovi avaldanud konsolideerimisgruppi kuuluvate isikute aktsionäridele.
+
+(2) Konsolideerimisgrupi finantstoetuse leping on konsolideerimisgruppi kuuluva ettevõtja suhtes kehtiv ainult juhul, kui selle isiku aktsionärid on andnud heakskiidu kõnealuse konsolideerimisgruppi kuuluva ettevõtja juhatusele või nõukogule võtta vastu otsus, et konsolideerimisgruppi kuuluv ettevõtja annab või saab finantstoetust vastavalt lepingu tingimustele ja kooskõlas käesolevas jaos sätestatud tingimustega, ning seda aktsionäride heakskiitu ei ole tühistatud.
+
+(3) Lepingupooleks oleva konsolideerimisgruppi kuuluva ettevõtja juhatus esitab aktsionäridele igal aastal aruande lepingu täitmise ja lepingu kohaselt vastu võetud otsuste täitmise kohta.
+
+#### § 27. Konsolideerimisgrupi finantstoetuse andmise tingimused
+
+(1) Otsuse anda vastavalt lepingule konsolideerimisgrupi finantstoetust teeb finantstoetust andva konsolideerimisgruppi kuuluva ettevõtja juhatus. Otsus peab olema põhjendatud ja selles peab olema välja toodud finantstoetuse andmise eesmärk ning finantstoetuse andmise vastavus käesoleva paragrahvi lõikes 3 sätestatud tingimustele.
+
+(2) Otsuse võtta vastavalt lepingule vastu konsolideerimisgrupi finantstoetus teeb finantstoetust saava konsolideerimisgruppi kuuluva ettevõtja juhatus.
+
+(3) Eestis asutatud konsolideerimisgruppi kuuluv ettevõtja, kes on Finantsinspektsiooni kinnitatud konsolideerimisgrupi finantstoetuse lepingu pool, võib anda finantstoetust ainult juhul, kui on täidetud kõik järgmised tingimused:
+
+1\) võib põhjendatult eeldada, et pakutav toetus leevendab oluliselt toetust saava konsolideerimisgruppi kuuluva isiku finantsraskusi;
+
+2\) finantstoetuse andmise eesmärk on konsolideerimisgrupi kui terviku või mis tahes sinna kuuluva isiku finantsstabiilsuse säilitamine või taastamine ja see vastab toetust andva konsolideerimisgruppi kuuluva ettevõtja huvidele;
+
+3\) finantstoetust antakse vastavalt finantstoetuse lepingu tingimustele ja lepingu hüvitisele ning kooskõlas käesoleva seaduse § 24 lõikega 4;
+
+4\) finantstoetust andva konsolideerimisgruppi kuuluva ettevõtja juhatus võib finantstoetuse andmise otsuse tegemise ajal kättesaadava teabe alusel põhjendatult eeldada, et toetust saav konsolideerimisgruppi kuuluv ettevõtja teeb toetuse andmise eest vastusoorituse või maksab muul kujul hüvitist, või kui toetust antakse laenu vormis, makstakse laen tagasi;
+
+5\) finantstoetuse andmine ei sea ohtu toetust andva konsolideerimisgruppi kuuluva ettevõtja likviidsust ega maksevõimet;
+
+6\) finantstoetuse andmine ei sea ohtu eelkõige Eesti finantsstabiilust;
+
+7\) toetust andev konsolideerimisgruppi kuuluv ettevõtja vastab toetuse andmise ajal krediidiasutuste seaduses ja muudes õigusaktides sätestatud kapitali- ja likviidsusnõuetele, sealhulgas täidab Finantsinspektsiooni kehtestatud täiendavaid kapitali- ja likviidsusnõudeid krediidiasutuste seaduse § 104 lõigete 2 ja 4 alusel ning finantstoetuse andmine ei põhjusta nimetatud nõuete rikkumist konsolideerimisgruppi kuuluva ettevõtja poolt, välja arvatud juhul, kui Finantsinspektsioon annab vastava loa;
+
+8\) toetust andev konsolideerimisgruppi kuuluv ettevõtja vastab toetuse andmise ajal krediidiasutuste seaduse §-des 82, 82<sup>2</sup> ja 84 sätestatud riskide kontsentreerumise nõuetele ning täidab Euroopa Parlamendi ja nõukogu määruses (EL) nr 575/2013 sätestatud riskide kontsentreerumise piirmäärasid ja finantstoetuse andmine ei põhjusta nimetatud nõuete rikkumist konsolideerimisgruppi kuuluva ettevõtja poolt, välja arvatud juhul, kui Finantsinspektsioon annab vastava loa;
+
+9\) finantstoetuse andmine ei kahjusta toetust andva konsolideerimisgruppi kuuluva ettevõtja kriisilahenduskõlblikkust.
+
+(4) Eestis asutatud ja finantstoetust anda kavatseva konsolideerimisgruppi kuuluva ettevõtja juhatus teavitab enne toetuse andmist ja pärast käesoleva paragrahvi lõike 1 kohaselt tehtud otsust sellest:
+
+1\) Finantsinspektsiooni;
+
+2\) konsolideeritud järelevalvet teostavat finantsjärelevalve asutust, kui see ei ole Finantsinspektsioon;
+
+3\) finantstoetust saava konsolideerimisgruppi kuuluva ettevõtja üle järelevalvet teostavat finantsjärelevalve asutust, kui see ei ole käesoleva lõike punktis 2 nimetatud finantsjärelevalve asutus;
+
+4\) Euroopa Pangandusjärelevalve Asutust.
+
+(5) Käesoleva paragrahvi lõike 4 kohaselt edastatud teade peab sisaldama käesoleva paragrahvi lõikes 1 sätestatud juhatuse põhjendatud otsust ja kavandatava finantstoetuse üksikasju, sealhulgas konsolideerimisgrupi finantstoetuse lepingu koopiat.
+
+(6) Kui toetus antakse garantiina või mis tahes vormis tagatisena, kohaldatakse garantii või tagatise sissenõudmise korral toetuse saaja vastutuse suhtes käesoleva paragrahvi lõike 3 punktis 4 sätestatud tingimust.
+
+(7) Finantsinspektsioon teeb viie tööpäeva jooksul käesoleva paragrahvi lõigetes 4 ja 5 nimetatud teate ja täieliku informatsiooni saamisest arvates otsuse, millega nõustub finantstoetuse andmisega või keelab selle andmise või piirab seda, kui tema hinnangul ei ole käesoleva paragrahvi lõikes 3 sätestatud konsolideerimisgrupi finantstoetuse andmise tingimused täidetud.
+
+(8) Kui Finantsinspektsioon ei keela ega piira finantstoetuse andmist käesoleva paragrahvi lõikes 7 märgitud tähtaja jooksul või on toetuse andmisega enne selle ajavahemiku lõppu nõustunud, võib finantstoetust anda Finantsinspektsiooni esitatud tingimustel.
+
+(9) Finantsinspektsioon teavitab käesoleva paragrahvi lõikes 7 sätestatud otsusest viivitamata lõikes 4 nimetatud asutusi, ja kui Finantsinspektsioon teostab konsolideeritud järelevalvet, ka järelevalvekolleegiumi ja kriisilahenduskolleegiumi liikmeid.
+
+(10) Kui Finantsinspektsioon teostab konsolideeritud järelevalvet või vastutab toetust saava konsolideerimisgruppi kuuluva ettevõtja järelevalve eest, võib ta kahe päeva jooksul pärast finantstoetuse andmise keelamise või piiramise otsuse kohta teate saamist teise lepinguriigi finantsjärelevalve asutuselt esitada selle küsimuse arutamiseks Euroopa Pangandusjärelevalve Asutusele vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 1093/2010 artiklile 31.
+
+(11) Kui teise lepinguriigi finantsjärelevalve asutus piirab finantstoetuse andmist või keelab selle Eestis asutatud konsolideerimisgruppi kuuluvale ettevõtjale ja kui vastavalt käesoleva seaduse § 11 lõike 2 punktis 4 sätestatule on konsolideerimisgrupi finantsseisundi taastamise kavas rakendatava meetmena ette nähtud konsolideerimisgrupisisene finantstoetus, võib Finantsinspektsioon nõuda, et konsolideeritud järelevalve eest vastutav finantsjärelevalve asutus algataks käesoleva seaduse § 13 kohaselt konsolideerimisgrupi finantsseisundi taastamise kava ümberhindamise, või kui finantsseisundi taastamise kava on koostatud konsolideerimisgruppi kuuluva ettevõtja kohta eraldi, siis nõuda, et see isik esitaks finantsseisundi taastamise muudetud kava.
+
+## 3. peatükk — Kriisilahenduse kavandamine
+
+### 1. jagu — Kriisilahenduskava
+
+#### § 28. Kriisilahenduskava koostamine
+
+(1) Finantsinspektsioon koostab iga krediidiasutuse kohta kriisilahenduskava, milles sätestatakse valikud kriisilahendusmeetmete või -õiguste rakendamiseks, kui tingimused kriisilahendusmenetluse algatamiseks on krediidiasutuse puhul täidetud.
+
+(1<sup>1</sup>) Kui Finantsinspektsioon on mitmest kriisilahenduse allkonsolideerimisgrupist koosneva konsolideerimisgrupi kriisilahendusasutus, esitab ta käesoleva seaduse § 55 lõikes 1 nimetatud kavandatavad kriisilahendusmeetmed § 30 lõikes 5 nimetatud ühisotsuses.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2) Kui see on vajalik, konsulteerib Finantsinspektsioon enne kriisilahenduskava koostamist teiste lepinguriikide finantsjärelevalve asutustega, kui nendes lepinguriikides asuvad selle krediidiasutuse olulised filiaalid.
+
+(3) Kui Finantsinspektsioon on konsolideerimisgrupi kriisilahendusasutus ja konsolideerimisgrupi emaettevõtja on asutatud Eestis, peab Finantsinspektsioon koostöös konsolideerimisgruppi kuuluvate tütarettevõtjate kriisilahendusasutustega ning konsulteerides konsolideerimisgruppi kuuluvate süsteemselt oluliste filiaalide kriisilahendusasutustega koostama konsolideerimisgrupi kriisilahenduskava ja seda ka haldama. Konsolideerimisgrupi kriisilahenduskava hõlmab kava kogu konsolideerimisgrupi kriisilahendusmenetluseks kas konsolideerimisgrupi emaettevõtja kriisilahendamise kaudu või konsolideerimisgrupi osadeks lahutamise ja tütarettevõtjate kriisilahendamise kaudu.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(3<sup>1</sup>) Käesoleva paragrahvi lõikes 3 nimetatud konsolideerimisgrupi kriisilahenduskavas käsitletakse kõiki konsolideerimisgruppi kuuluvaid kriisilahendussubjekte ja kriisilahenduse allkonsolideerimisgruppe.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(4) Kui Eestis asutatud krediidiasutus on konsolideerimisgrupi tütarettevõtja ja konsolideerimisgrupi emaettevõtja on asutatud teises liikmesriigis, ei pea eraldi kriisilahenduskava tütarettevõtja kohta koostama, välja arvatud juhul, kui:
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+1\) krediidiasutus kuulub nõukogu määruse (EL) nr 1024/2013 artikli 6 lõike 4 kohaselt Euroopa Keskpanga otsese järelevalve alla;
+
+2\) krediidiasutuse vara väärtus on suurem kui 30 miljardit eurot;
+
+3\) krediidiasutuse vara moodustab rohkem kui 20 protsenti Eesti sisemajanduse kogutoodangust, välja arvatud juhul, kui tema vara väärtus on väiksem kui 5 miljardit eurot.
+
+(5) Krediidiasutus või temaga ühte konsolideerimisgruppi kuuluv isik peab Finantsinspektsiooni nõudmisel abistama teda kriisilahenduskava koostamisel ja ajakohastamisel ning andma Finantsinspektsioonile teavet, mis on kriisilahenduskava koostamiseks ja rakendamiseks vajalik. Finantsinspektsioon võib nõuda kriisilahenduskava koostamiseks muu hulgas järgmise teabe esitamist:
+
+1\) krediidiasutuse organisatsioonilise struktuuri üksikasjalik kirjeldus, sealhulgas kõigi konsolideerimisgruppi kuuluvate juriidiliste isikute loetelu;
+
+2\) igale juriidilisele isikule kuuluvate õiguste, sealhulgas hääleõigusega seotud õiguste, otseste valdajate andmed ning osakaal;
+
+3\) iga konsolideerimisgruppi kuuluva juriidilise isiku asukoht, tegevusloa olemasolu, informatsioon juhtkonna liikmete ja neile kohaldatava kohtualluvuse kohta;
+
+4\) krediidiasutuse kriitiliste funktsioonide ja põhiäriliinide kaardistus, sealhulgas nende funktsioonide ja äriliinidega seotud olulise vara ja kohustuste ülevaade viitega igale juriidilisele isikule;
+
+5\) krediidiasutuse ja temaga samasse konsolideerimisgruppi kuuluvate isikute kohustuste summad jaotatuna tähtaegade, tagatuse ja allutatuse järgi, sealhulgas esitatakse eraldi vähemalt lühi- ja pikaajaliste, tagatud ja tagamata ning allutatud kohustuste summa;
+
+6\) üksikasjalikud andmed krediidiasutuse teisendatavate kohustuste kohta;
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+7\) andmed krediidiasutuse poolt panditud tagatise, pandipidaja ja tagatise asukoha kohta;
+
+8\) krediidiasutuse bilansiväliste kohustuste kirjeldus;
+
+9\) olulised krediidiasutuse riskimaandustehingud, sealhulgas nende jaotus juriidiliste isikute kaupa;
+
+10\) krediidiasutuse suuremate või kõige olulisemate vastaspoolte loetelu ja analüüs, millist mõju selle vastaspoole maksejõuetus avaldab krediidiasutuse finantsseisundile;
+
+11\) kõik kauplemissüsteemid, mille kaudu krediidiasutus sooritab arvuliselt või tehingute väärtuselt olulisel hulgal tehinguid, sealhulgas nende jaotus krediidiasutuse juriidiliste isikute, kriitiliste funktsioonide ja põhiäriliinide vahel;
+
+12\) kõik makse-, kliiring- ja arveldussüsteemid, mille liikmeks krediidiasutus otseselt või kaudselt on, sealhulgas nende jaotus krediidiasutuse juriidiliste isikute, kriitiliste funktsioonide ja põhiäriliinide vahel;
+
+13\) krediidiasutuses kasutatavate põhiliste juhtimisalaste infosüsteemide loetelu ja nende üksikasjalik kirjeldus, sealhulgas riskijuhtimise, raamatupidamise ning finants- ja aruandluse infosüsteemide kirjeldus, ning nende jaotus krediidiasutuse ning samasse konsolideerimisgruppi kuuluvate juriidiliste isikute, kriitiliste funktsioonide ja põhiäriliinide vahel;
+
+14\) käesoleva lõike punktis 13 nimetatud infosüsteemide, nendega seotud teenustaseme kokkulepete ning tarkvara ja süsteemide või litsentside omanike loetelu, sealhulgas nende jaotus krediidiasutuse või temaga seotud juriidiliste isikute, kriitiliste funktsioonide ja põhiäriliinide vahel;
+
+14<sup>1</sup>) Euroopa Parlamendi ja nõukogu määruse (EL) 2022/2554 artikli 3 punktis 23 nimetatud kriitilise tähtsusega kolmandast isikust info- ja tehnoloogiateenuse osutaja andmed;
+
+\[RT I, 11.10.2024, 1 - jõust. 17.01.2025\]
+
+14<sup>2</sup>) Euroopa Parlamendi ja nõukogu määruse (EL) 2022/2554 IV peatüki kohased digitaalse tegevuskerksuse testimise tulemused;
+
+\[RT I, 11.10.2024, 1 - jõust. 17.01.2025\]
+
+15\) krediidiasutusega samasse konsolideerimisgruppi kuuluvate ja muude krediidiasutusega seotud juriidiliste isikute loetelu ning nende isikute vaheliste vastastikuste seoste ning vastastikuse sõltuvuse kirjeldus, sealhulgas ühised või ühiselt kasutatavad töötajad, töövahendid ja süsteemid, kapitali-, rahastamis- või likviidsuskokkulepped, olemasolevad või tingimuslikud krediidiriski positsioonid, ristgarantii lepingud, risttagatiskokkulepped, samaaegse makseviivituse tingimused ning sidusüksustevahelise tasaarvestuse kokkulepped, riskide ülekandmised ja kompensatsioonitehingud ning teenustasemete kokkulepped;
+
+16\) iga käesoleva lõike punktis 15 nimetatud juriidilise isiku finantsjärelevalve asutus ja kriisilahendusasutus;
+
+17\) krediidiasutuse kriisilahenduskava koostamiseks vajaliku teabe esitamise eest vastutav juhatuse liige ning kriitiliste funktsioonide ja põhiäriliinide eest vastutavad isikud, kui need on eri isikud;
+
+18\) ülevaade krediidiasutuses kehtivatest reeglitest, millega tagatakse, et Finantsinspektsioonil on kriisilahenduse korral olemas kogu vajalik teave, mida on tarvis kriisilahendusmeetmete ja -õiguste rakendamiseks;
+
+19\) kõik krediidiasutuse ja temaga seotud juriidiliste isikute poolt kolmandate isikutega sõlmitud lepingud, mis võidakse lõpetada, kui otsustatakse rakendada kriisilahendusmeedet või -õigust, ning analüüs, kas lepingu lõpetamise tagajärjed võivad mõjutada kriisilahendusmeetme või -õiguse rakendamist;
+
+20\) kriisilahenduse toetamiseks võimalike likviidsusallikate kirjeldus;
+
+21\) teave vara koormatise, likviidse vara, bilansiväliste tegevuste, riskimaandusstrateegiate ja kirjendamistavade kohta.
+
+(6) Finantsinspektsioon vaatab kriisilahenduskava või konsolideerimisgrupi kriisilahenduskava läbi ja vajaduse korral ajakohastab seda vähemalt kord aastas või pärast krediidiasutuse või konsolideerimisgrupi, sealhulgas konsolideerimisgruppi kuuluva muu juriidilise isiku õigusliku seisundi või organisatsioonilise struktuuri muutmist või pärast majandustegevuse või finantsseisundiga seotud mis tahes sündmust või juhtumit, mis võib oluliselt mõjutada kava tulemuslikku rakendamist. Kriisilahenduskava vaadatakse läbi pärast käesoleva seaduse §-s 56 nimetatud kriisiennetusmeetmete rakendamist.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(6<sup>1</sup>) Finantsinspektsioon ajakohastab kriisilahenduskava või konsolideerimisgrupi kriisilahenduskava pärast kriisilahendusmeetmete või -õiguste kohaldamist.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(7) Krediidiasutus või konsolideerimisgrupi emaettevõtja teavitab Finantsinspektsiooni viivitamata käesoleva paragrahvi lõikes 6 osutatud muudatusest, mis võib ajendada kriisilahenduskava või konsolideerimisgrupi kriisilahenduskava läbi vaatama ja ajakohastama.
+
+(8) Käesolevas paragrahvis sätestatud kriisilahenduskava või konsolideerimisgrupi kriisilahenduskava koostamise kohustus ja käesoleva seaduse §-s 30 sätestatud ühisotsusele jõudmise menetlus peatub seniks, kuni kriisilahenduskõlblikkust pärssivad takistused on käesoleva peatüki 2. jaos sätestatu kohaselt Finantsinspektsiooni hinnangul kõrvaldatud või meetmed nende kõrvaldamiseks on Finantsinspektsioon heaks kiitnud.
+
+#### § 29. Kriisilahenduskavale esitatavad nõuded
+
+(1) Kriisilahenduskava peab sisaldama järgmist vajaduse ja võimaluse korral kvantifitseeritud informatsiooni:
+
+1\) ülevaade kava põhielementidest;
+
+2\) ülevaade pärast viimase kriisilahendusinformatsiooni esitamist krediidiasutuses toimunud olulistest muutustest;
+
+3\) üksikasjalik ülevaade erinevatest kriisilahendamise strateegiatest, mida saaks võimalike eri stsenaariumide korral rakendada, ja kohaldatavad ajakavad;
+
+4\) krediidiasutuse kriitiliste funktsioonide, põhiäriliinide ja vara väärtuse määramise ning turustatavuse protsessi üksikasjalik kirjeldus;
+
+5\) kriitiliste funktsioonide ja põhiäriliinide õiguslikult ja majanduslikult teistest funktsioonidest eraldamise võimaluste kohta, et tagada krediidiasutuse maksejõuetuse korral tema tegevuse jätkumine ja digitaalne tegevuskerksus;
+
+\[RT I, 11.10.2024, 1 - jõust. 17.01.2025\]
+
+6\) kava iga olulise aspekti elluviimise prognoositav ajakava;
+
+7\) ülevaade konsolideerimisgruppi kuuluvate isikute vastastikusest sõltuvusest;
+
+8\) krediidiasutuse jätkusuutlikkuse tagamiseks vajalike oluliste toimingute ja süsteemide kirjeldus, sealhulgas küberturvalisuse seaduse § 2 punktis 1 sätestatud võrgu- ja infosüsteemide kirjeldus;
+
+\[RT I, 11.10.2024, 1 - jõust. 17.01.2025\]
+
+9\) kriisilahendamise rahastamise võimaluste selgitus, arvestades käesoleva paragrahvi lõikes 3 sätestatut;
+
+10\) käesoleva peatüki 2. jao kohaselt läbi viidud kriisilahenduskõlblikkuse hindamise üksikasjalik kirjeldus ja hindamise tulemusena kindlaks tehtud kriisilahenduskõlblikkust pärssivate takistuste kõrvaldamise meetmete kirjeldus;
+
+11\) üksikasjalik ülevaade meetmetest, millega tagatakse, et krediidiasutuse poolt Finantsinspektsiooni nõudmisel esitatav teave on alati ajakohastatud ning Finantsinspektsioonile tema kriisilahendamise ülesannete täitmiseks kättesaadav;
+
+12\) ülevaade võimalustest säilitada juurdepääs makse- ja arveldusteenustele ja muudele infrastruktuuridele ning hinnang klientide nõuete või kohustuste üle antavuse kohta;
+
+13\) analüüs, millist mõju avaldab kava krediidiasutuse töötajatele, sealhulgas hinnang sellega seotud võimalikele kuludele, ja kriisilahendamise vältel töötajatega konsulteerimiseks kavandatava korra kirjeldus, mis näeb vajaduse korral ette krediidiasutuse töötajate usaldusisikuga konsulteerimise;
+
+14\) meedia ja avalikkusega suhtlemise plaan;
+
+15\) käesoleva seaduse 2. peatüki 2. jao kohaselt nõutavate omavahendite ja kõlblike kohustuste miinimumnõue ning selle rakendamise korral miinimumnõude täitmise tähtaeg;
+
+16\) kui see on rakendatav, käesoleva seaduse 2. peatüki 2. jao kohaste omavahendite ja kohustuste ja nõudeõiguste teisendamise lepingute sõlmimise teel täidetav miinimumnõue ning vajaduse korral selle nõude täitmise tähtaeg;
+
+17\) olemasolu korral kriisilahenduskava kohta väljendatud krediidiasutuse arvamus;
+
+18\) analüüs, kuidas ja millal võib krediidiasutus kavas käsitletavate tingimuste korral taotleda Eesti Panga vahendeid, välja arvatud käesoleva paragrahvi lõikes 3 sätestatud vahendeid, ning määrata kindlaks eeldatavalt tagatisena kvalifitseeruv vara.
+
+(1<sup>1</sup>) Finantsinspektsioon võtab käesoleva seaduse § 28 lõike 6 teises lauses sätestatut silmas pidades käesoleva paragrahvi lõike 1 punktides 15 ja 16 nimetatud tähtaegade määramisel arvesse krediidiasutuste seaduse §-s 104<sup>3</sup> sätestatud täiendavate omavahendite nõude täitmiseks ette nähtud tähtaega.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(1<sup>2</sup>) Kriisilahendusmeetmete ja -õiguste, sealhulgas kohustuste teisendamise rakendamise järel kohaldatakse miinimumnõude täitmisele asjakohast üleminekuperioodi, mis võetakse arvesse käesoleva paragrahvi lõike 1 punktides 15 ja 16 nimetatud miinimumnõude täitmise tähtaegade määramisel.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2) Konsolideerimisgrupi kriisilahenduskavas:
+
+1\) esitatakse käesoleva paragrahvi lõikes 1 sätestatud teave konsolideerimisgrupi kohta ja vajaduse korral ka konsolideerimisgrupi tütarettevõtjate kohta;
+
+2\) määratakse kindlaks käesoleva paragrahvi lõikes 5 nimetatud stsenaariumide rakendamiseks kriisilahendusmeetmed ja -õigused, sealhulgas kolmandas riigis asutatud isiku suhtes, kui käesoleva seaduse 9. peatüki 2. jaos sätestatud nõuded on täidetud ja kui seda nõuet on võimalik kohaldada kõigi konsolideerimisgruppi kuuluvate kriisilahendussubjektide suhtes;
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+2<sup>1</sup>) märgitakse käesoleva lõike punktis 2 nimetatud kriisilahendusmeetmete ja -õiguste mõju teistele konsolideerimisgruppi kuuluvatele üksustele;
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+3\) analüüsitakse, millisel määral oleks kriisilahendusmeetmeid ja -õigusi, sealhulgas meetmeid ja õigusi, mis võimaldaksid konsolideerimisgrupi kui terviku või konsolideerimisgrupi eri üksuste või teatavate konsolideerimisgrupi üksuste eraldi tegevusalade müümist kolmandale isikule, võimalik koordineeritult rakendada Euroopa Liidus asuvate konsolideerimisgruppi kuuluvate üksuste suhtes;
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+4\) selgitatakse välja koordineeritud kriisilahendust pärssivad asjaolud, ja kui konsolideerimisgrupis on kolmandates riikides asutatud üksusi, määratakse kindlaks nende kolmandate riikide asjaomaste ametiasutustega tehtava koostöö ja koordineerimise kord ning selle mõju Euroopa Liidus toimuvale kriisilahendusmenetlusele;
+
+5\) tuuakse välja meetmed, et kiirendada konsolideerimisgrupi kriisilahendusmenetlust, sealhulgas konsolideerimisgrupi teatavate funktsioonide või tegevusalade õiguslikku ja majanduslikku eraldamist;
+
+6\) määratakse kindlaks, kuidas konsolideerimisgrupi kriisilahendusmeetmeid või -õigusi rahastatakse, võttes arvesse käesoleva paragrahvi lõikes 3 sätestatut, ning kui on vaja kasutada Tagatisfondi või teise lepinguriigi kriisilahendusfondi vahendeid, nähakse ette põhimõtted rahastamisalase vastutuse jagamiseks lepinguriikide vahel;
+
+7\) sätestatakse kõik täiendavad meetmed, sealhulgas need, mida Finantsinspektsioon kavatseb rakendada konsolideerimisgrupi kriisilahenduseks iga konsolideerimisgruppi kuuluva isiku ja allkonsolideerimisgrupi kaupa;
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+7<sup>1</sup>) määratakse kindlaks kriisilahendusmeetmed ning hinnatakse meetmete mõju iga kriisilahenduse konsolideerimisgrupi kriisilahendussubjekti ja muu konsolideerimisgrupi ettevõtja jaoks, kui konsolideerimisgrupp koosneb mitmest kriisilahenduse konsolideerimisgrupist;
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+8\) kirjeldatakse üksikasjalikult kõiki olulisi kriisilahenduskõlblikkuse takistusi, ning kui see on vajalik ja proportsionaalne, kirjeldatakse asjakohaseid meetmeid, et kõrvaldada takistavad asjaolud kooskõlas käesoleva seaduse §-s 34 sätestatuga.
+
+(3) Käesoleva paragrahvi lõike 2 punktis 6 nimetatud rahastamise vastutuse jagamise põhimõtted tuleb kehtestada tasakaalustatud ja õiglaste kriteeriumide alusel, võttes seejuures arvesse eelkõige Tagatisfondi seaduse §-s 73<sup>21</sup> sätestatut ja kõigi asjaomaste lepinguriikide finantsstabiilsusele avalduvat mõju.
+
+(3<sup>1</sup>) Konsolideerimisgrupi kriisilahenduskavas määratakse iga konsolideerimisgrupi puhul kindlaks kriisilahendussubjektid ja kriisilahenduse konsolideerimisgrupp.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(4) Kriisilahenduskava või konsolideerimisgrupi kriisilahenduskava koostamisel ei tohi eeldada Eesti Panga erakorralise likviidsusabi ega sellise likviidsusabi kasutamist, mida antakse mittestandardse tagatise taseme, struktuuri või intressimääraga, ega erakorralise avaliku finantstoetuse kasutamist, välja arvatud kriisilahendusfondi vahendite kasutamist.
+
+(5) Kriisilahenduskava või konsolideerimisgrupi kriisilahenduskava koostamisel võetakse arvesse asjakohased stsenaariumid, sealhulgas asjaolu, et maksejõuetus võib puudutada üksnes konkreetset krediidiasutust või konsolideerimisgruppi või maksejõuetusega võib kaasneda laiem finantsiline ebastabiilsus või see võib hõlmata kogu süsteemi.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(6) Käesoleva paragrahvi lõike 1 punktis 1 nimetatud teave avaldatakse krediidiasutusele või konsolideerimisgrupi emaettevõtjale.
+
+(7) Finantsinspektsioon edastab konsolideerimisgrupi kriisilahenduskava ja kõik muudatused selles teiste asjaomaste lepinguriikide kriisilahendusasutustele.
+
+(8) Konsolideerimisgrupi kriisilahenduskaval ei tohi olla ebaproportsionaalset mõju ühelegi lepinguriigile.
+
+#### § 30. Konsolideerimisgrupi kriisilahenduskava koostamise menetlus
+
+(1) Kui Finantsinspektsioon on konsolideerimisgrupi kriisilahendusasutus, koostab ta konsolideerimisgrupi kriisilahenduskava koostöös nende lepinguriikide kriisilahendusasutustega, kus asuvad konsolideerimisgrupi tütarettevõtjad, ning pärast konsulteerimist teiste lepinguriikide finantsjärelevalve asutustega ja kriisilahendusasutustega, kui nendes lepinguriikides asuvad konsolideerimisgrupi olulised filiaalid ja kui see on filiaalide puhul vajalik. Finantsinspektsioon võib vajaduse korral konsolideerimisgrupi kriisilahenduskava koostamisse kaasata nende kolmandate riikide kriisilahendusasutusi, kus asuvad konsolideerimisgruppi kuuluvad isikud või olulised filiaalid, võttes arvesse käesoleva seaduse §-s 51 sätestatud konfidentsiaalsusnõudeid.
+
+(2) Kui Finantsinspektsioon on konsolideerimisgrupi kriisilahendusasutus, hindab ta konsolideerimisgrupi kriisilahenduskõlblikkust vastavalt käesoleva paragrahvi lõikes 1 sätestatule koos nende lepinguriikide kriisilahendusasutustega, kus asuvad konsolideerimisgrupi tütarettevõtjad, ning konsulteerib sealjuures konsolideerimisgrupi järelevalvekolleegiumiga ja teise sellise lepinguriigi kriisilahendusasutusega, kus asub oluline filiaal, kui see on filiaali puhul vajalik.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2<sup>1</sup>) Konsolideerimisgrupi kriisilahenduskõlblikkuse hinnang võetakse vastu käesoleva seaduse 9. peatükis sätestatud kriisilahenduskolleegiumi menetluse osana iga kriisilahendussubjekti ja konsolideerimisgruppi kuuluva tütarettevõtja kohta, kes on § 2 lõikes 1 nimetatud ettevõtja.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(3) Finantsinspektsioon edastab Euroopa Pangandusjärelevalve Asutusele teabe, mis on asjakohane seoses Euroopa Pangandusjärelevalve Asutuse rolliga konsolideerimisgrupi kriisilahendusmenetluse kavandamises.
+
+(4) Finantsinspektsioon ei ole kohustatud kolmandas riigis asuvate tütarettevõtjatega seotud teavet edastama ilma asjaomase kolmanda riigi finantsjärelevalve asutuse või kriisilahendusasutuse nõusolekuta.
+
+(5) Finantsinspektsioon peab tegema kõik endast oleneva, et jõuda nelja kuu jooksul pärast käesoleva paragrahvi lõikes 2 nimetatud teabe edastamist või pärast vastava teabe saamist konsolideerimisgrupi kriisilahendusasutuselt teiste asjaomaste lepinguriikide kriisilahendusasutustega ühisotsusele konsolideerimisgrupi kriisilahenduskava kohta.
+
+(6) Finantsinspektsioon võib pöörduda Euroopa Pangandusjärelevalve Asutuse poole, et ta abistaks vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 1093/2010 artikli 31 punktile c kriisilahendusasutusi ühisotsusele jõudmisel. Kui enne neljakuulise tähtaja lõppu ei jõuta ühisotsusele, võib Finantsinspektsioon sama määruse artikli 19 kohaselt pöörduda ka erimeelsuste korral Euroopa Pangandusjärelevalve Asutuse poole. Euroopa Pangandusjärelevalve Asutuse poole ei pöörduta pärast käesoleva paragrahvi lõikes 5 sätestatud perioodi lõppu ega pärast ühisotsusele jõudmist.
+
+(7) Kui Finantsinspektsioon on konsolideerimisgrupi kriisilahendusasutus ja ühisotsusele ei jõuta käesoleva paragrahvi lõikes 5 nimetatud tähtaja jooksul, teeb Finantsinspektsioon oma otsuse konsolideerimisgrupi kriisilahenduskava kohta, võttes seejuures arvesse teiste asjaomaste lepinguriikide kriisilahendusasutuste seisukohti ja reservatsioone.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(7<sup>1</sup>) Finantsinspektsioon esitab väljapakutud konsolideerimisgrupi kriisilahenduskava kohta tehtavas otsuses oma otsuse põhjendused ning teeb otsuse emaettevõtjale ja teiste asjaomaste lepinguriikide kriisilahendusasutustele teatavaks.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(7<sup>2</sup>) Käesoleva paragrahvi lõikes 7 sätestatu ei takista ühisotsuse tegemist konsolideerimisgrupi kriisilahenduskava kohta nende kriisilahendusasutustega, kellega Finantsinspektsioonil ei ole eriarvamusi.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(7<sup>3</sup>) Kui Finantsinspektsioon on kriisilahendussubjekti kriisilahendusasutus ja ühisotsusele ei jõuta käesoleva paragrahvi lõikes 5 nimetatud tähtaja jooksul, teeb Finantsinspektsioon konsolideerimisgrupi kriisilahenduskava kohta oma otsuse, võttes seejuures arvesse teiste asjaomaste lepinguriikide finantsjärelevalve asutuste seisukohti ja reservatsioone. Finantsinspektsioon esitab oma otsuses põhjendused väljapakutud konsolideerimisgrupi kriisilahenduskavaga mittenõustumise ja tehtud otsuse kohta ning teeb oma otsuse emaettevõtjale ja teiste asjaomaste lepinguriikide kriisilahendusasutustele teatavaks.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(8) Kui konsolideerimisgruppi kuuluv tütarettevõtja on asutatud Eestis ja käesoleva paragrahvi lõikes 5 nimetatud tähtaja jooksul ühisotsusele ei jõuta ning teiste asjaomaste lepinguriikide kriisilahendusasutused ei ole konsolideerimisgrupi kriisilahenduskavaga nõus, teeb Finantsinspektsioon otsuse, mille kohaselt koostatakse eraldi tütarettevõtja või Finantsinspektsiooni pädevusse kuuluva kriisilahenduse allkonsolideerimisgrupi kriisilahenduskava ja hallatakse seda. Finantsinspektsioon peab seejuures arvesse võtma teiste asjaomaste lepinguriikide kriisilahendusasutuste seisukohti ja reservatsioone ning esitama põhjendused väljapakutud konsolideerimisgrupi kriisilahenduskavaga mittenõustumise ja tehtud otsuse kohta. Finantsinspektsioon teeb oma otsuse teistele kriisilahenduskolleegiumi liikmetele teatavaks.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(9) Kui teise lepinguriigi kriisilahendusasutus on käesoleva paragrahvi lõikes 5 nimetatud tähtaja jooksul teavitanud Euroopa Pangandusjärelevalve Asutust ühisotsuse saavutamisega seotud erimeelsustest, lükkab Finantsinspektsioon otsuse tegemise edasi ja ootab ära Euroopa Pangandusjärelevalve Asutuse otsuse ning teeb seejärel oma otsuse kooskõlas Euroopa Pangandusjärelevalve Asutuse otsusega, välja arvatud juhul, kui teise asjaomase lepinguriigi kriisilahendusasutuse hinnangul võib erimeelsusi tekitav küsimus avaldada mõju tema riigieelarvele või tuua kaasa eelarvelisi kohustusi. Kui Euroopa Pangandusjärelevalve Asutus ei ole ühe kuu jooksul arvates teise lepinguriigi kriisilahendusasutuse teavitusest otsust teinud, teeb Finantsinspektsioon oma otsuse.
+
+(10) Käesolevas paragrahvis sätestatud ühisotsust või ühisotsuse puudumise korral Finantsinspektsiooni tehtud otsuseid käsitatakse lõplikuna teiste lepinguriikide kriisilahendusasutuste suhtes.
+
+(11) Kui teise lepinguriigi kriisilahendusasutus teavitab Finantsinspektsiooni, et käesoleva paragrahvi lõigete 7 ja 9 kohaselt tehtud ühisotsus avaldab mõju tema riigieelarvele või võib tuua kaasa eelarvelisi kohustusi, siis algatab Finantsinspektsioon konsolideerimisgrupi kriisilahendusasutusena konsolideerimisgrupi kriisilahenduskava ümberhindamise, mis muu hulgas hõlmab omavahendite miinimumnõude ja kõlblike kohustuste ümberhindamist.
+
+#### § 31. Kriisilahenduskava koostamine lihtsustatud kujul
+
+(1) Finantsinspektsioon võib teha otsuse koostada kriisilahenduskava lihtsustatud kujul (edaspidi *lihtsustatud kriisilahenduskava*), võttes arvesse, millist mõju avaldaks krediidiasutuse või konsolideerimisgrupi maksejõuetus ning sellele järgnev lõpetamine ja likvideerimine pankrotimenetluse alusel finantsturgudele, teistele krediidiasutustele ja investeerimisühingutele, rahastamistingimustele või majandusele laiemalt.
+
+(2) Finantsinspektsioon peab käesoleva paragrahvi lõikes 1 nimetatud otsuse tegemisel arvestama krediidiasutuse või konsolideerimisgrupi majandustegevuse iseloomu, aktsionäride struktuuri, õiguslikku vormi, riskiprofiili, suurust ja õiguslikku staatust, krediidiasutuse seotust teiste krediidiasutuste või investeerimisühingutega või finantssüsteemiga üldiselt, tegevuse ulatust ja keerukust, kuulumist krediidiasutuste kaitseskeemi ning seda, kas krediidiasutus osutab investeerimisteenuseid.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(3) Lihtsustatud kriisilahenduskava koostamisel võib:
+
+1\) vähendada käesoleva seaduse §-s 29 kriisilahenduskava sisule esitatud nõudeid või jätta need osaliselt kohaldamata;
+
+2\) jätta osaliselt kohaldamata käesoleva seaduse § 28 lõikes 6 sätestatud kriisilahenduskava ajakohastamise nõude;
+
+3\) alandada käesoleva peatüki 2. jaos käsitletud kriisilahenduskõlblikkuse hindamise üksikasjalikkuse taset.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(4) Finantsinspektsioon võib igal ajal koostada kriisilahenduskava täies mahus.
+
+(5) Lihtsustatud kriisilahenduskava koostamine ei mõjuta Finantsinspektsiooni õigust rakendada kriisiennetusmeedet või kriisiohjemeedet.
+
+(6) Vajaduse korral konsulteerib Finantsinspektsioon enne käesoleva paragrahvi lõikes 1 nimetatud otsuse tegemist Eesti Panga ja Rahandusministeeriumiga.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(7) Finantsinspektsioon teavitab Euroopa Pangandusjärelevalve Asutust käesoleva paragrahvi lõikes 1 nimetatud otsusest.
+
+(8) Lihtsustatud kriisilahenduskava ei või koostada käesoleva seaduse § 28 lõikes 4 nimetatud krediidiasutuste kohta.
+
+#### § 32. Kriisilahenduskava koostamata jätmine
+
+(1) Finantsinspektsioon võib teha otsuse jätta kriisilahenduskava koostamata, kui krediidiasutus on otseselt seotud konsolideerimisgrupi emaettevõtjaga või konsolideerimisgrupis keskse finantseerimist korraldava isikuga ja ta on kooskõlas Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikliga 10 usaldatavusnõuete täitmisest täielikult või osaliselt vabastatud.
+
+(2) Kui Finantsinspektsioon ei koosta vastavalt käesoleva paragrahvi lõikes 1 sätestatule kriisilahenduskava, koostab ta kriisilahenduskava konsolideeritud alusel käesoleva paragrahvi lõikes 1 nimetatud keskse isiku ja sellega seotud krediidiasutuste suhtes Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 10 tähenduses.
+
+(3) Finantsinspektsioon teavitab Euroopa Pangandusjärelevalve Asutust käesoleva paragrahvi lõikes 1 nimetatud otsusest.
+
+### 2. jagu — Kriisilahenduskõlblikkus
+
+#### § 33. Krediidiasutuse ja konsolideerimisgrupi kriisilahenduskõlblikkuse hindamine
+
+(1) Kui krediidiasutus ei kuulu konsolideerimisgruppi, hindab Finantsinspektsioon vajaduse korral pärast konsulteerimist nende lepinguriikide kriisilahendusasutustega, kus asuvad olulised filiaalid, millisel määral krediidiasutus on kriisilahenduskõlblik, ilma et kriisilahendusmenetluses oleks vajalik eeldada Eesti Panga erakorralise likviidsusabi saamist või sellise likviidsusabi saamist, mida antakse mittestandardse tagatise taseme, struktuuri või intressimääraga, või erakorralise avaliku toetuse saamist, välja arvatud kriisilahendusfondi vahendite saamist.
+
+(2) Kui Finantsinspektsioon on konsolideerimisgrupi kriisilahendusasutus, hindab ta konsolideerimisgrupi kriisilahenduskõlblikkust vastavalt käesoleva paragrahvi lõikes 1 sätestatule koos nende lepinguriikide kriisilahendusasutustega, kus asuvad konsolideerimisgrupi tütarettevõtjad, ning konsulteerib sealjuures teiste lepinguriikide kriisilahendusasutustega, kus asub oluline filiaal, kui see on filiaali puhul vajalik, ja nende lepinguriikide finantsjärelevalve asutustega. Konsolideerimisgrupi kriisilahenduskõlblikkuse hinnang võetakse vastu käesoleva seaduse 9. peatükis sätestatud kriisilahenduskolleegiumi menetluse osana.
+
+(2<sup>1</sup>) Kui kriisilahenduse konsolideerimisgrupp koosneb mitmest kriisilahenduse konsolideerimisgrupist, tuleb lisaks kogu konsolideerimisgrupi kriisilahenduskõlblikkuse hindamisele hinnata vastavalt käesoleva peatüki 1. jaole käesoleva paragrahvi lõikes 2 nimetatud kriisilahenduskõlblikkust iga allkonsolideerimisgrupi kohta eraldi.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(2<sup>2</sup>) Konsolideerimisgrupi kriisilahenduskõlblikkuse hindamine käesoleva seaduse tähenduses seisneb kõigi konsolideerimisgruppi kuuluvate krediidiasutuste või käesoleva seaduse § 2 lõike 1 punktis 3 nimetatud isikute kriisilahenduskõlblikkuse hindamises.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(3) Finantsinspektsiooni finantskriisi lahendamise funktsiooni täitja hindab kriisilahenduskõlblikkust samal ajal, kui ta koostab ja ajakohastab krediidiasutuse või konsolideerimisgrupi kriisilahenduskava.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(4) Krediidiasutuse või konsolideerimisgrupi kriisilahenduskõlblikkuse hinnangu koostamisel hinnatakse vähemalt järgmisi asjaolusid:
+
+1\) krediidiasutuse võimalus paigutada põhiäriliinid ja kriitilised funktsioonid ümber teistesse juriidilistesse isikutesse;
+
+2\) krediidiasutuse või konsolideerimisgrupi õiguslike ja organisatsiooniliste struktuuride kooskõla põhiäriliinide ja kriitiliste funktsioonidega;
+
+3\) kehtivate kokkulepete olemasolu krediidiasutuse või konsolideerimisgrupi oluliste töötajatega kindlustamiseks, infrastruktuuri toimimiseks, rahastuse ja likviidsuse tagamiseks ning kapitaliga varustamiseks, et toetada põhiäriliine ja kriitilisi funktsioone ning säilitada nende toimimine;
+
+4\) krediidiasutuse teenuslepingute, sealhulgas info- ja kommunikatsioonitehnoloogia teenuse osutamisega seotud lepingute püsivus ja täielikult täitmisele pööratavus krediidiasutuse kriisilahendusmenetluse korral;
+
+\[RT I, 11.10.2024, 1 - jõust. 17.01.2025\]
+
+4<sup>1</sup>) kriitilisi funktsioone ja põhiäriliine toetavate võrgu- ja infosüsteemide digitaalne tegevuskerksus, võttes arvesse Euroopa Parlamendi ja nõukogu määruse (EL) 2022/2554 artiklis 19 sätestatud teavitusi tõsistest info- ja kommunikatsioonitehnoloogiaga seotud intsidentidest, kui see on asjakohane, ja määruse IV peatüki kohase digitaalse tegevuskerksuse testimise tulemusi;
+
+\[RT I, 11.10.2024, 1 - jõust. 17.01.2025\]
+
+5\) krediidiasutuse juhtimisstruktuuri asjakohasus krediidiasutuse teenuslepingutega seonduvate sise-eeskirjade järgimise haldamiseks ja tagamiseks;
+
+6\) niisuguse korra olemasolu krediidiasutuses, mille alusel kanda kriitiliste funktsioonide või põhiäriliinide eraldamise korral teenuslepingute alusel pakutavad teenused üle kolmandatele isikutele;
+
+7\) kehtivad plaanid ja meetmed ettenägematu olukorra lahendamiseks, et tagada pidev juurdepääs makse- ja arveldussüsteemidele;
+
+8\) juhtimisinfosüsteemide asjakohasus täpse ja kõikehõlmava teabe kogumise tagamiseks Finantsinspektsiooni poolt põhiäriliinide ja kriitiliste funktsioonide kohta, et need aitaksid kaasa kiirete otsuste vastuvõtmisele;
+
+9\) juhtimisinfosüsteemide suutlikkus pakkuda igal ajal krediidiasutuse tulemuslikuks kriisilahenduseks vajalikku teavet;
+
+10\) krediidiasutuse juhtimisinfosüsteemide testimise ulatus Finantsinspektsiooni välja töötatud raskustesse sattumise stsenaariumide korral;
+
+11\) krediidiasutuse suutlikkus tagada oma juhtimisinfosüsteemide katkematu toimimine nii kahjustatud krediidiasutuses kui ka uues krediidiasutuses, kui kriitilised funktsioonid ja põhiäriliinid teistest funktsioonidest ja äriliinidest eraldatakse;
+
+12\) krediidiasutuse asjakohased protsessid, mis on vajalikud, et esitada Finantsinspektsioonile teave hoiustajate ja Tagatisfondi seaduse kohaselt tagatud summade kindlaksmääramiseks;
+
+13\) kui konsolideerimisgrupis kasutatakse konsolideerimisgrupisiseseid garantiisid, siis kirjeldust, et neid garantiisid antakse turutingimustel ning kuivõrd usaldusväärsed on nende garantiidega seotud riskijuhtimissüsteemid;
+
+14\) kui konsolideerimisgrupp tegeleb kompensatsioonitehingute sõlmimisega, siis kirjeldust, mis määral neid tehinguid sõlmitakse turutingimustel ja kuivõrd usaldusväärsed on nende tehingutega seotud riskijuhtimissüsteemid;
+
+15\) mis määral konsolideerimisgrupisiseste garantiide andmine või kompensatsioonitehingute sõlmimine suurendab konsolideerimisgrupisisest finantsraskuste ülekandumist;
+
+16\) mis määral konsolideerimisgrupi õiguslik struktuur takistab kriisilahendusmeetmete ja -õiguste rakendamist, seda sõltuvalt konsolideerimisgruppi kuuluvate isikute arvust, konsolideerimisgrupi struktuuri keerukusest või raskustest äriliinide ja konsolideerimisgrupi ettevõtjate kokkuviimisel;
+
+17\) krediidiasutuse teisendatavate kohustuste summa ja liik;
+
+\[RT I, 30.11.2022, 1 - jõust. 10.12.2022\]
+
+18\) kui hindamine hõlmab segavaldusettevõtjat, siis kas konsolideerimisgrupi krediidiasutuste, investeerimisühingute või finantseerimisasutuste kriisilahendus võiks avaldada negatiivset mõju konsolideerimisgrupi sellele osale, mis ei ole seotud finantstegevusega;
+
+19\) teenustaseme kokkulepete olemasolu ja usaldusväärsus;
+
+20\) kas kolmanda riigi ametiasutustel on vajalikud kriisilahendusmeetmed ja -õigused, et toetada Finantsinspektsiooni kriisilahendusmeetmeid ja -õigusi, ning kui ulatuslik on Finantsinspektsiooni ja kolmanda riigi ametiasutuste vaheline kooskõlastatud tegevus;
+
+21\) kriisilahendusmeetmete ja -õiguste kasutamise võimalikkus viisil, mis vastab kriisilahenduse eesmärkidele, võttes arvesse kasutada olevaid meetmeid ja õigusi ning krediidiasutuse struktuuri;
+
+22\) kas konsolideerimisgrupi struktuur võimaldab Finantsinspektsioonil kriisilahendusmenetlust kogu konsolideerimisgrupi või konsolideerimisgrupi ühe või enama ettevõtja suhtes läbi viia ning selle lõpetada, ilma et see põhjustaks märkimisväärset otsest või kaudset ebasoodsat mõju finantssüsteemile, turu usaldusele või majandusele, ning pidades silmas konsolideerimisgrupi kui terviku väärtuse maksimeerimist;
+
+23\) kokkulepped ja viisid, mille abil saaks kriisilahendust lihtsustada konsolideerimisgruppide puhul, kuhu kuuluvad eri riikides asutatud tütarettevõtjad;
+
+24\) kriisilahendusmeetmete ja -õiguste usaldusväärne kasutamine viisil, mis vastab kriisilahenduse eesmärkidele, võttes arvesse võimalikku mõju võlausaldajatele, vastaspooltele, klientidele ja töötajatele ning võimalikke meetmeid ja õigusi, mida võivad rakendada kolmanda riigi ametiasutused;
+
+25\) mis määral saab adekvaatselt hinnata krediidiasutuse kriisilahenduse mõju finantssüsteemile ja finantsturu usaldusele;
+
+26\) kas krediidiasutuse kriisilahendusmenetlusel on märkimisväärne otsene või kaudne ebasoodne mõju finantssüsteemile, turu usaldusele või majandusele;
+
+27\) kuidas kriisilahendusmeetmete ja -õiguste rakendamise abil saaks piirata finantsraskuste ülekandumist teistele krediidiasutustele või investeerimisühingutele või finantsturgudele;
+
+28\) kas krediidiasutuse kriisilahendusmenetlusel võib olla oluline mõju makse- ja arveldussüsteemide toimimisele.
+
+(5) Krediidiasutus, allkonsolideerimisgrupp või konsolideerimisgrupp loetakse kriisilahenduskõlblikuks, kui Finantsinspektsioon on veendunud, et:
+
+1\) krediidiasutuse lõpetamine ja likvideerimine on võimalik ja teostatav krediidiasutuste seaduse 11. peatükis ja pankrotiseaduses sätestatud korras või konsolideerimisgruppi kuuluvate üksuste lõpetamine ja likvideerimine on võimalik ja teostatav teiste lepinguriikide tavapärases maksejõuetusmenetluses ette nähtud korras või
+
+2\) kriisilahendusmenetluses on krediidiasutuse või konsolideerimisgrupi suhtes võimalik rakendada kriisilahendusmeetmeid või -õigusi, mis tagavad krediidiasutuse kriitiliste funktsioonide täitmise jätkuvuse ning väldivad nii palju kui võimalik olulisi negatiivseid tagajärgi Eesti ja teiste lepinguriikide konsolideerimisgruppi kuuluvale ettevõtjale või filiaalile ning Eesti ja teiste lepinguriikide või Euroopa Liidu finantssüsteemile, sealhulgas laiemat finantsilist ebastabiilsust tekitavate või kogu süsteemi haaravate sündmuste korral.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(5<sup>1</sup>) Käesoleva paragrahvi lõikes 5 nimetatud kriisilahenduskõlblikkuse hindamisel võtab Finantsinspektsioon arvesse ka laiemat finantsilist ebastabiilsust kogu finantssüsteemi haaravate sündmuste korral, lähtudes eesmärgist tagada konsolideerimisgrupi ettevõtjate kriitiliste funktsioonide täitmise jätkuvus sellega, et nimetatud funktsioone saab õigel ajal kergesti eraldada või muul viisil nende täitmist tagada.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(6) Kui Finantsinspektsiooni hinnangul ei ole krediidiasutus, allkonsolideerimisgrupp või konsolideerimisgrupp kriisilahenduskõlblik, teavitab ta sellest viivitamata Euroopa Pangandusjärelevalve Asutust.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(7) Allkonsolideerimisgrupi ja konsolideerimisgrupi kriisilahenduskõlblikkuse kohta antud hinnangut võetakse arvesse käesoleva seaduse 9. peatükis sätestatud kriisilahenduskolleegiumi otsustes.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+#### § 34. Kriisilahenduskõlblikkust pärssivate takistustega tegelemine ja nende kõrvaldamine
+
+(1) Kui krediidiasutuse käesoleva seaduse § 33 kohasel kriisilahenduskõlblikkuse hindamisel tuvastatakse pärast Finantsinspektsiooni finantsjärelevalve funktsiooni täitjaga konsulteerimist krediidiasutuse kriisilahendusmenetluses olulisi takistusi, teavitab Finantsinspektsioon sellest kirjalikult krediidiasutusi ja nende lepinguriikide kriisilahendusasutust, kus asuvad krediidiasutuse olulised filiaalid.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2) Krediidiasutus peab esitama nelja kuu jooksul pärast käesoleva paragrahvi lõikes 1 nimetatud teate kättesaamist Finantsinspektsioonile ettepaneku, milles toob välja võimalikud meetmed teates märgitud oluliste takistustega tegelemiseks või nende kõrvaldamiseks. Finantsinspektsioon hindab, kas pakutud meetmetega on võimalik kõnealuseid takistusi vähendada või kõrvaldada.
+
+(2<sup>1</sup>) Kahe nädala jooksul pärast käesoleva paragrahvi lõikes 1 nimetatud teate kättesaamist esitab krediidiasutus Finantsinspektsioonile võimalikud meetmed oluliste takistuste kõrvaldamiseks kriisilahendusmenetlusest ja nende rakendamise ajakava, millega tagatakse käesoleva seaduse §-s 18 või 19 ja krediidiasutuste seaduse § 86<sup>44</sup> lõikes 2 nimetatud kombineeritud puhvri nõude täitmine, juhul kui kriisilahenduskõlblikkust oluliselt pärssiv asjaolu on tingitud ühest järgmisest olukorrast:
+
+1\) krediidiasutus täidab krediidiasutuste seaduse § 86<sup>44</sup> lõikes 2 nimetatud kombineeritud puhvri nõuet, kui seda võetakse arvesse lisaks sama seaduse § 86<sup>50</sup> lõigetes 1–3<sup>1</sup> nimetatud nõuetele, kuid ei täida nimetatud kombineeritud puhvri nõuet, kui seda võetakse arvesse lisaks miinimumnõuetele, kui need arvutatakse kooskõlas käesoleva seaduse § 17 lõike 2 punktiga 1;
+
+2\) krediidiasutus ei täida Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artiklites 92a ja 494 nimetatud nõudeid või käesoleva seaduse §-des 17<sup>2</sup> ja 17<sup>3</sup>, § 17<sup>4</sup> lõigetes 1–5 ning § 18<sup>1</sup> lõigetes 1–5 nimetatud nõudeid.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(2<sup>2</sup>) Käesoleva paragrahvi lõike 2<sup>1</sup> kohaselt esitatud meetmete rakendamise ajakavas võetakse arvesse kriisilahenduskõlblikkust oluliselt pärssiva asjaolu põhjusi.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2<sup>3</sup>) Pärast Finantsinspektsiooni finantsjärelevalve funktsiooni täitjaga konsulteerimist hindab Finantsinspektsiooni finantskriisi lahendamise funktsiooni täitja, kas käesoleva paragrahvi lõikes 2<sup>1</sup> nimetatud meetmetega on võimalik asjaomase oluliselt pärssiva asjaoluga tõhusalt tegeleda või see kõrvaldada.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(3) Kui Finantsinspektsiooni finantskriisi lahendamise funktsiooni täitja hinnangul krediidiasutuse pakutud meetmed ei vähenda ega kõrvalda tuvastatud takistusi tulemuslikult, nõuab Finantsinspektsioon ettekirjutusega, et krediidiasutus rakendaks alternatiivseid meetmeid kriisilahenduskõlblikkuse saavutamiseks.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(3<sup>1</sup>) Finantsinspektsioon võtab käesoleva paragrahvi lõikes 3 nimetatud hinnangus arvesse kriisilahenduse takistustest tuleneva ohu finantsstabiilsusele ning meetmete mõju krediidiasutuse majandustegevusele, selle stabiilsusele ja suutlikkusele majandusele kasu tuua.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(3<sup>2</sup>) Krediidiasutus esitab ühe kuu jooksul pärast käesoleva paragrahvi lõikes 3 nimetatud nõude kättesaamist plaani kriisilahenduskõlblikkuse saavutamiseks.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(3<sup>3</sup>) Finantsinspektsiooni finantskriisi lahendamise funktsiooni täitja konsulteerib enne käesoleva paragrahvi lõikes 3 nimetatud alternatiivsete meetmete nõudmise otsust finantsjärelevalve funktsiooni täitjaga ning, kui see on asjakohane, Eesti Pangaga, et hinnata nende meetmete võimalikku mõju krediidiasutusele, finantsteenuste siseturule ning teiste lepinguriikide ja Euroopa Liidu kui terviku finantsstabiilsusele.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(4) Finantsinspektsioon võib käesoleva paragrahvi lõikes 3 sätestatu kohaselt nõuda krediidiasutuselt või konsolideerimisgrupi mõnelt üksuselt:
+
+1\) konkreetsetel juhtudel või regulaarselt lisateabe esitamist;
+
+2\) teatava vara võõrandamist;
+
+3\) mõne toimuva või kavandatud tegevuse piiramist või lõpetamist;
+
+4\) maksimaalse individuaalse ja summaarse riskipositsiooni piiramist;
+
+5\) uute või olemasolevate tegevusalade arendamise piiramist või takistamist või uute või olemasolevate toodete võõrandamist;
+
+6\) otsese või kaudse kontrolli all oleva konsolideerimisgruppi kuuluva üksuse õiguslike või organisatsiooniliste struktuuride muutmist vähem keerukaks, et kriisilahendusmeetmete või -õiguste rakendamisel oleks võimalik kriitilised funktsioonid teistest funktsioonidest õiguslikult ja tegevuslikult eraldada;
+
+7\) emaettevõtjana tegutseva finantsvaldusettevõtja asutamist Eestis või mujal Euroopa Liidus;
+
+8\) \[kehtetu - RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+9\) meetmete rakendamist käesoleva seaduse 2. peatüki 2. jaos nimetatud omavahendite ja kõlblike kohustuste miinimumnõude täitmiseks, sealhulgas eelkõige püüet uuesti läbi rääkida tema emiteeritud mis tahes kõlbliku kohustuse, täiendavatesse esimese taseme omavahenditesse kuuluva instrumendi või teise taseme omavahenditesse kuuluva instrumendi tingimused eesmärgiga tagada, et Finantsinspektsiooni otsust antud kohustuse või instrumendi allahindamiseks või teisendamiseks täidetaks selle lepinguriigi õigusnormide kohaselt, mis hõlmavad antud kohustust või instrumenti;
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+10\) võimalike konsolideerimisgrupisiseste rahastamislepingute läbivaatamist või nende puudumisel nimetatud lepingute koostamist või konsolideerimisgrupisiseste või kolmandate isikutega selliste teenuslepingute koostamist, mis hõlmaksid kriitiliste funktsioonide täitmist.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(4<sup>1</sup>) Finantsinspektsioon võib käesoleva paragrahvi lõikes 3 sätestatu alusel nõuda segavaldusettevõtja tütarettevõtjast krediidiasutuse puhul, et segavaldusettevõtja asutaks krediidiasutuse kontrollimiseks eraldi finantsvaldusettevõtja, kui seda on vaja krediidiasutuse kriisilahendusmenetluse hõlbustamiseks või et vältida käesolevas seaduses sätestatud kriisilahendusmeetmete või -õiguste rakendamisest tulenevat negatiivset mõju konsolideerimisgrupi muule kui finantsosale.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(4<sup>2</sup>) Finantsinspektsioon kriisilahendusasutusena võib käesoleva paragrahvi lõikes 3 sätestatu alusel nõuda krediidiasutuselt või käesoleva seaduse § 2 lõike 1 punktides 3 ja 4 nimetatud ettevõtjalt:
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+1\) kava esitamist selle kohta, kuidas taastada omavahendite ja kõlblike kohustuste minimaalse taseme vastavus käesoleva seaduse §-dele 18 ja 19;
+
+2\) kõlblike kohustuste emiteerimist, et täita käesoleva seaduse §-s 18 või 19 sätestatud nõuded;
+
+3\) võtta käesoleva seaduse §-s 18 või 19 nimetatud omavahendite ja kõlblike kohustuste miinimumnõude täitmiseks kasutusele muid meetmeid, eelkõige kohaldada käesoleva paragrahvi lõike 4 punktis 9 nimetatud tegevusi;
+
+4\) pädeva järelevalveasutusega kokkuleppel omavahendite koosseisu kuuluvate instrumentide ja kõlblike kohustuste tähtajaprofiili muutmist;
+
+5\) juhul kui tegemist on segavaldusettevõtja tütarettevõtjaga, et segavaldusettevõtja looks ettevõtja kontrollimiseks eraldi finantsvaldusettevõtja, kui seda on vaja ettevõtja kriisilahenduse hõlbustamiseks ning selleks, et vältida selliste käesoleva seaduse 4. peatükis nimetatud kriisilahendusmeetmete kohaldamist ja õiguste kasutamist, millel on negatiivne mõju konsolideerimisgrupi sellele osale, mis ei osuta finantsteenuseid.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(4<sup>3</sup>) Kui Finantsinspektsioon teeb krediidiasutuse käesoleva seaduse §-s 33 sätestatud kriisilahenduskõlblikkuse hindamisel või muul ajal kindlaks, et kõlblikke kohustusi sisaldavas kohustuste klassis moodustab selliste kohustuste summa, mis kooskõlas § 22 lõikega 2<sup>1</sup> ei sisalda § 22 lõikes 1 nimetatud lepingulist tingimust, koos kohustustega, mis on vastavalt §-le 71 kohustuste ja nõudeõiguste teisendamise vahendi kohaldamisest välistatud või mis vastavalt §-le 72 välistatakse tõenäoliselt teisendamise õiguste kasutamisest, sellisest klassist rohkem kui kümme protsenti, hindab Finantsinspektsioon viivitamata selle konkreetse asjaolu mõju selle krediidiasutuse kriisilahenduskõlblikkusele.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(4<sup>4</sup>) Käesoleva paragrahvi lõikes 4<sup>3</sup> nimetatud mõju hindamisel arvestatakse ühtlasi kriisilahenduskõlblikkusele avalduva mõjuga, mis tuleneb ohust, et kõlblike kohustuste allahindamise ja teisendamise õiguste kasutamisel võidakse mitte täita käesoleva seaduse §-s 80 sätestatud võlausaldajatele kahju hüvitamise eeldusi.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(4<sup>5</sup>) Finantsinspektsioon võib kasutada käesoleva paragrahvi lõikes 4 sätestatud õigusi, kui ta jõuab lõikes 4<sup>3</sup> nimetatud järeldusele, et kohustused ei sisalda käesoleva seaduse § 22 lõikes 1 nimetatud lepingulist tingimust ja need põhjustavad kriisilahenduskõlblikkust oluliselt pärssiva asjaolu.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(5) Finantsinspektsioon teavitab krediidiasutust käesoleva paragrahvi lõikes 3 nimetatud hinnangust ja selgitab krediidiasutusele tema pakutud meetmete puudusi ja alternatiivsete meetmete sobivust kriisilahendusmenetluse takistuste kõrvaldamiseks. Krediidiasutus esitab ühe kuu jooksul pärast Finantsinspektsiooni hinnangu saamist alternatiivsete meetmete elluviimise kava.
+
+(6) Enne krediidiasutuse teavitamist oma hinnangust konsulteerib Finantsinspektsioon vajaduse korral Eesti Pangaga ja hindab vastavate meetmete võimalikku mõju krediidiasutusele, finantsteenuste siseturule ning teiste lepinguriikide ja Euroopa Liidu kui terviku finantsstabiilsusele.
+
+#### § 35. Kriisilahenduskõlblikkust pärssivate takistustega tegelemine ja nende kõrvaldamine konsolideerimisgrupi puhul
+
+(1) Kui Finantsinspektsioon on konsolideerimisgrupi kriisilahendusasutus ja käesoleva seaduse §-s 34 nimetatud hinnangu alusel on tuvastatud konsolideerimisgrupi kriisilahendusmenetluses olulisi takistusi, teeb Finantsinspektsioon kõik endast oleneva, et jõuda nende lepinguriikide kriisilahendusasutustega, kus asuvad konsolideerimisgrupi tütarettevõtjad, ühisotsusele käesoleva seaduse § 34 lõikes 4 sätestatud meetmete rakendamiseks kõikide konsolideerimisgruppi kuuluvate krediidiasutuste suhtes. Enne ühisotsuse tegemist konsulteerib Finantsinspektsioon konsolideerimisgrupi järelevalvekolleegiumiga ja nende lepinguriikide kriisilahendusasutustega, kus asuvad olulised filiaalid, kui see on olulise filiaali puhul vajalik.
+
+(2) Kui Finantsinspektsioon on konsolideerimisgrupi kriisilahendusasutus, koostab ta vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 1093/2010 artikli 25 lõikele 1 koostöös Euroopa Pangandusjärelevalve Asutusega ja konsolideerimisgrupi finantsjärelevalve asutusega ning pärast teiste seotud finantsjärelevalve asutustega konsulteerimist aruande, milles analüüsitakse olulisi takistusi, mis võivad pärssida tõhusat kriisilahendusmeetmete ja -õiguste rakendamist konsolideerimisgrupi suhtes.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2<sup>1</sup>) Käesoleva paragrahvi lõike 2 kohaselt koostatud aruandes analüüsitakse mõju kogu grupi ärimudelile ning antakse soovitusi proportsionaalsete ja sihipäraste meetmete rakendamiseks konsolideerimisgrupi tasandil ning vajaduse korral allkonsolideerimisgruppide suhtes, kui meetmeid on lõike 1 kohaselt otsustatud rakendada või need on Finantsinspektsiooni arvates vajalikud või asjakohased tuvastatud takistuste kõrvaldamiseks.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(2<sup>2</sup>) Kui Finantsinspektsioon on konsolideerimisgrupi tasandi kriisilahendusasutus, siis olukorras, kus konsolideerimisgrupi kriisilahenduskõlblikkust pärssiv asjaolu on tingitud käesoleva seaduse § 34 lõikes 2<sup>1</sup> nimetatud konsolideerimisgrupi ettevõtja olukorrast, teavitab Finantsinspektsioon pärast kriisilahendussubjekti kriisilahendusasutusega ja tema tütarettevõtjatest krediidiasutuste kriisilahendusasutustega konsulteerimist antud pärssiva asjaolu hinnangust Euroopa Liidus tegutsevat emaettevõtjat.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2<sup>3</sup>) Euroopa Liidus tegutsev emaettevõtja peab kahe nädala jooksul käesoleva paragrahvi lõikes 2<sup>2</sup> nimetatud teate saamisest arvates esitama konsolideerimisgrupi tasandi kriisilahendusasutusele võimalikud meetmed ja nende rakendamise ajakava.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(3) Finantsinspektsioon edastab käesoleva paragrahvi lõike 2 kohaselt koostatud aruande konsolideerimisgrupi Euroopa Liidus tegutsevale emaettevõtjale ning nende lepinguriikide kriisilahendusasutustele, kus asuvad konsolideerimisgruppi kuuluvad tütarettevõtjad ja olulised filiaalid. Konsolideerimisgruppi kuuluvate tütarettevõtjate kriisilahendusasutused edastavad aruande nende vastutusalas olevatele vastavatele tütarettevõtjatele.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(4) Nelja kuu jooksul pärast käesoleva paragrahvi lõikes 3 nimetatud aruande kättesaamist võib konsolideerimisgrupi emaettevõtja esitada Finantsinspektsioonile oma tähelepanekud ja teha ettepaneku alternatiivsete meetmete kohta, millega oleks võimalik aruandes nimetatud takistused kõrvaldada. Emaettevõtja pakutud meetmetest teavitab Finantsinspektsioon Euroopa Pangandusjärelevalve Asutust ning nende lepinguriikide kriisilahendusasutusi, kus asuvad konsolideerimisgruppi kuuluvad tütarettevõtjad ja olulised filiaalid, kui see on olulise filiaali puhul asjakohane.
+
+(5) Nelja kuu jooksul pärast käesoleva paragrahvi lõikes 4 nimetatud emaettevõtja tähelepanekute esitamist või pärast lõikes 4 sätestatud neljakuulise tähtaja möödumist, olenevalt kumb on varasem, teeb Finantsinspektsioon kõik endast oleneva, et jõuda kriisilahenduskolleegiumis ühisotsusele nende lepinguriikide kriisilahendusasutustega, kus asuvad konsolideerimisgrupi tütarettevõtjad, oluliste takistuste suhtes, mis võivad pärssida tõhusat kriisilahendusmeetmete ja -õiguste rakendamist konsolideerimisgrupi suhtes, ning kui see on vajalik, siis lõike 4 kohaselt tehtud emaettevõtja ettepaneku ja kriisilahendusasutuste poolt takistustega tegelemiseks või nende kõrvaldamiseks nõutavate meetmete suhtes. Enne ühisotsuseni jõudmist konsulteerib Finantsinspektsioon nende lepinguriikide kriisilahendusasutustega, kus asuvad olulised filiaalid, ja finantsjärelevalve asutustega.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(5<sup>1</sup>) Kui Euroopa Liidus tegutsev emaettevõtja ei ole käesoleva paragrahvi lõike 5 kohaselt tähelepanekuid esitanud, teeb Finantsinspektsioon kõik endast oleneva, et ühisotsusele jõutaks ühe kuu jooksul pärast lõikes 4 nimetatud neljakuulise tähtaja möödumist.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(5<sup>2</sup>) Käesoleva paragrahvi lõikes 5 sätestatud ühisotsusele kriisilahenduskõlblikkust pärssiva asjaolu suhtes, mille on tinginud käesoleva seaduse § 34 lõikes 2<sup>1</sup> nimetatud olukord, peab jõudma kahe nädala jooksul pärast seda, kui Euroopa Liidus tegutsev emaettevõtja on vastavalt käesoleva paragrahvi lõikele 4 esitanud oma tähelepanekud.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(6) Ühisotsuse tegemisel tuleb arvesse võtta meetmete võimalikku mõju kõikidele lepinguriikidele, kus konsolideerimisgrupp tegutseb. Ühisotsus peab olema igakülgselt põhjendatud ja Finantsinspektsioon esitab selle konsolideerimisgrupi emaettevõtjale.
+
+(7) Finantsinspektsioon võib pöörduda Euroopa Pangandusjärelevalve Asutuse poole, et ta abistaks vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 1093/2010 artikli 31 punktile c kriisilahendusasutusi ühisotsusele jõudmisel. Kui enne neljakuulise tähtaja lõppu ei jõuta ühisotsusele käesoleva seaduse § 34 lõike 4 punktides 6, 7 ja 10 nimetatud meetmetes, võib Finantsinspektsioon vastavalt sama määruse artiklile 19 pöörduda erimeelsuste lahendamiseks Euroopa Pangandusjärelevalve Asutuse poole. Euroopa Pangandusjärelevalve Asutuse poole ei pöörduta käesoleva paragrahvi lõikes 5 sätestatud ajavahemike jooksul ega pärast ühisotsusele jõudmist.
+
+(8) Kui Finantsinspektsioon on konsolideerimisgrupi kriisilahendusasutus ja kui käesoleva paragrahvi lõikes 5 sätestatud ajavahemike jooksul ei jõuta ühisotsusele, teeb Finantsinspektsioon oma otsuse, milliseid käesoleva seaduse § 34 lõikes 4 sätestatud meetmeid konsolideerimisgrupi tasandil rakendada. Finantsinspektsiooni otsus peab olema igakülgselt põhjendatud ja selles tuleb arvesse võtta teiste asjaomaste kriisilahendusasutuste seisukohti ja reservatsioone. Finantsinspektsioon esitab otsuse konsolideerimisgrupi emaettevõtjale.
+
+(8<sup>1</sup>) Kui Finantsinspektsioon ei ole konsolideerimisgrupi kriisilahendusasutus, kuid konsolideerimisgrupi tütarettevõtja asub Eestis ja käesoleva paragrahvi lõikes 5 sätestatud ajavahemiku jooksul ei jõuta ühisotsusele, teeb Finantsinspektsioon käesoleva seaduse § 34 lõike 4 kohaselt võetavate sobivate meetmete kohta oma otsuse. Finantsinspektsiooni otsus peab olema igakülgselt põhjendatud ja selles tuleb arvesse võtta teiste asjaomaste kriisilahendusasutuste seisukohti ja reservatsioone. Finantsinspektsioon esitab otsuse kriisilahendussubjektile.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(8<sup>2</sup>) Kui teise lepinguriigi kriisilahendusasutus on käesoleva paragrahvi lõikes 5 nimetatud tähtaja jooksul vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 1093/2010 artiklile 19 teavitanud Euroopa Pangandusjärelevalve Asutust ühisotsuse saavutamisega seotud erimeelsustest, lükkab Finantsinspektsioon lõikes 8<sup>1</sup> nimetatud otsuse tegemise edasi ja ootab ära Euroopa Pangandusjärelevalve Asutuse otsuse ning teeb seejärel kooskõlas saadud otsusega oma otsuse. Finantsinspektsioon ei pöördu Euroopa Pangandusjärelevalve Asutuse poole käesoleva paragrahvi lõikes 5 sätestatud ajavahemiku jooksul ega pärast ühisotsusele jõudmist.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(9) Kui käesoleva paragrahvi lõikes 5 sätestatud ajavahemike jooksul ei jõuta ühisotsusele, teeb Finantsinspektsioon juhul, kui konsolideerimisgrupi tütarettevõtja asub Eestis, oma otsuse, milliseid käesoleva seaduse § 34 lõikes 4 sätestatud meetmeid tütarettevõtja suhtes rakendada.
+
+(10) Kui teise lepinguriigi kriisilahendusasutus on käesoleva paragrahvi lõikes 5 nimetatud tähtaja jooksul teavitanud Euroopa Pangandusjärelevalve Asutust ühisotsuse saavutamisega seotud erimeelsustest vastavalt käesoleva paragrahvi lõikes 7 sätestatule, lükkab Finantsinspektsioon otsuse tegemise edasi ja ootab ära Euroopa Pangandusjärelevalve Asutuse otsuse ning teeb seejärel kooskõlas saadud otsusega oma otsuse. Kui Euroopa Pangandusjärelevalve Asutus ei ole ühe kuu jooksul teate saamisest arvates otsust teinud, teeb Finantsinspektsioon oma otsuse.
+
+(11) Käesolevas paragrahvis sätestatud ühisotsust või ühisotsuse puudumise korral Finantsinspektsiooni tehtud otsuseid käsitatakse lõplikuna teiste lepinguriikide kriisilahendusasutuste suhtes.
+
+### 3. jagu — Varajane sekkumine
+
+#### § 36. Varajase sekkumise meetmed
+
+(1) Finantsinspektsioon võib rakendada varajase sekkumise meetmeid, kui krediidiasutuse finantsolukorra kiire halvenemise tõttu seoses likviidsuse vähenemise või finantsvõimenduse määra, krediidiriski tingimuste või riskide kontsentreerumise piirmäära suurenemisega krediidiasutus rikub või võib lähitulevikus tõenäoliselt rikkuda Euroopa Parlamendi ja nõukogu määruses (EL) nr 575/2013, Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 finantsinstrumentide turgude kohta ning millega muudetakse määrust (EL) nr 648/2012 EMPs kohaldatav tekst (ELT L 173, 12.06.2014, lk 84–148) artiklites 3–7, 14–17 ja 24–26, krediidiasutuste seaduses või väärtpaberituru seaduses sätestatud nõudeid.
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud krediidiasutuse finantsolukorra kiire halvenemise põhjusi hinnatakse eelnevalt kindlaks määratud näitajate alusel, mis võivad hõlmata olukorda, kui krediidiasutuse omavahendite taseme ja minimaalse nõutava omavahendite taseme vahe on väiksem kui 1,5 protsenti.
+
+(3) Käesolevas paragrahvis sätestatu ei takista Finantsinspektsioonil kohaldada krediidiasutuste seaduse §-s 104 sätestatud meetmeid ega muid järelevalvemeetmeid, muu hulgas kehtestada krediidiasutusele moratooriumi.
+
+(4) Finantsinspektsioon võib varajase sekkumise meetmena ettekirjutuse alusel mõistliku tähtaja jooksul nõuda:
+
+1\) krediidiasutuse juhatuselt kindlaks määratud ajaks finantsseisundi taastamise kavas esitatud korra või meetme rakendamist või finantsseisundi taastamise kava ajakohastamist juhul, kui asjaolud, mis tõid kaasa varajase sekkumise, erinevad esialgses finantsseisundi taastamise kavas esitatud eeldustest, ning rakendada ajakohastatud kavas esitatud korda või meedet, et tagada käesoleva paragrahvi lõikes 1 nimetatud olukorrast hoidumine;
+
+2\) krediidiasutuse juhatuselt olukorra uurimist, tuvastatud probleemide lahendamiseks vajalike meetmete kindlaksmääramist ning nende probleemide kõrvaldamise tegevuskava ja selle elluviimise ajakava koostamist;
+
+3\) krediidiasutuse juhatuselt krediidiasutuse aktsionäride üldkoosoleku viivitamatut kokkukutsumist, kindla päevakorra määramist või küsimuse päevakorda võtmist;
+
+4\) krediidiasutuse juhatuselt kava koostamist võlgade restruktureerimise üle läbirääkimistesse astumiseks, arvestades võimaluse korral finantsseisundi taastamise kava;
+
+5\) muudatuse tegemist krediidiasutuse äristrateegias, õiguslikus või organisatsioonilises struktuuris;
+
+6\) vajalikku informatsiooni, sealhulgas kohapealse kontrolli teostamist, ja Finantsinspektsioonile kogu teabe esitamist, mis on vajalik kriisilahenduskava ajakohastamiseks ja krediidiasutuse võimaliku kriisilahendusmenetluse ettevalmistamiseks ning krediidiasutuse vara ja kohustuste hindamiseks.
+
+(5) Kui krediidiasutuse juhatus ei kutsu vastavalt käesoleva paragrahvi lõike 4 punktis 3 sätestatule kokku aktsionäride üldkoosolekut, võib Finantsinspektsioon ise kutsuda kokku üldkoosoleku ja määrata selle päevakorra.
+
+(6) Kui Finantsinspektsioon teeb kindlaks, et käesoleva paragrahvi lõigetes 1 ja 2 nimetatud eeldused on täidetud, võib Finantsinspektsioon nõuda, et krediidiasutus võtaks ühendust võimalike omandajatega kriisilahendusmenetluse ettevalmistamiseks vastavalt käesoleva seaduse § 59 lõikes 4 sätestatud tingimustele, arvestades käesoleva seaduse §-s 51 sätestatud konfidentsiaalsusnõudeid.
+
+(7) Kui krediidiasutuse finantsseisund on oluliselt halvenemas või kui ta on rikkunud õigusakte, haldusakte või krediidiasutuse sise-eeskirju ja käesoleva paragrahvi lõigetes 3–6 nimetatud meetmed ei ole olnud piisavad, võib Finantsinspektsioon kutsuda tagasi ühe või kõik krediidiasutuse juhatuse või nõukogu liikmed. Tagasikutsutud juhatuse või nõukogu liikme asemele võib nimetada uue liikme üksnes Finantsinspektsiooni nõusolekul. Sellisel juhul võib Finantsinspektsioon otsustada, et uue liikme nimetamisel ei kohaldata krediidiasutuste seaduse §-des 48, 56 ja 57 krediidiasutuse juhtide kohta sätestatut.
+
+#### § 37. Ajutine erihaldur
+
+(1) Kui Finantsinspektsiooni hinnangul ei ole krediidiasutuse juhatuse või nõukogu liikme tagasikutsumine käesoleva seaduse § 36 lõike 7 alusel andnud soovitud tulemusi krediidiasutusega seotud olukorra parandamiseks, võib Finantsinspektsioon määrata krediidiasutusele ühe või mitu ajutist erihaldurit. Ajutise erihalduri määramise otsus avalikustatakse Finantsinspektsiooni veebilehel.
+
+\[RT I, 10.01.2019, 1 - jõust. 20.01.2019\]
+
+(2) Ajutise erihalduri võib määrata töötama koos juhatusega ja nõukoguga. Kui ajutine erihaldur määratakse töötama koos juhatusega, täpsustab Finantsinspektsioon ajutise erihalduri ning juhatuse ja nõukogu omavahelised ülesanded, õigused ja kohustused, muu hulgas krediidiasutuse juhtorganile kehtestatud nõuded seoses vajadusega konsulteerida ajutise erihalduriga või saada temalt nõusolek enne mõnede otsuste tegemist või meetmete rakendamist.
+
+(3) Finantsinspektsioon määrab kindlaks ajutise erihalduri õigused, rolli ja ülesanded tema ametisse nimetamisel, täpsustades ajutisele erihaldurile seatavaid piiranguid.
+
+(4) Ajutine erihaldur võib teostada mõnesid või kõiki krediidiasutuse põhikirjast või seadusest tulenevaid juhatuse liikme õigusi, sealhulgas juhtorgani haldusfunktsioone. Ajutise erihalduri ülesannete hulka võib kuuluda krediidiasutuse finantsseisundi kindlakstegemine ning majandustegevuse või selle osa juhtimine eesmärgiga säilitada või taastada krediidiasutuse finantsseisund ja rakendada meetmeid krediidiasutuse majandustegevuse aruka ja usaldusväärse juhtimise taastamiseks.
+
+(5) Ajutisel erihalduril peavad olema krediidiasutuse juhtimiseks vajalikud teadmised, oskused, kogemused, laitmatu kutse- ja ärialane maine ja haridus ning ta peab vältima huvide konflikti ega tohi teha huvide konflikti põhjustavaid tehinguid. Ajutise erihalduri määramisele ja tema tegevusele kohaldatakse krediidiasutuste seaduse § 112 lõikes 6 ning § 113 lõigetes 1, 2 ja 5–7 moratooriumihalduri kohta sätestatut.
+
+(6) Finantsinspektsioon võib seada ajutisele erihaldurile kohustuse saada enne mõnede õiguste kasutamist, sealhulgas krediidiasutuse vara käsutamist, või muude toimingute tegemist Finantsinspektsioonilt nõusolek.
+
+(7) Ajutine erihaldur on kohustatud Finantsinspektsiooni määratud ajavahemike tagant ja volituste lõppemisel koostama aruande krediidiasutuse finantsseisundi ning kohustuste täitmise käigus tehtud toimingute kohta.
+
+(8) Ajutine erihaldur nimetatakse kuni üheks aastaks. Seda perioodi võib erandkorras pikendada, kui ajutise erihalduri nimetamise eeldused on jätkuvalt täidetud, sellise otsuse tegemisel peab Finantsinspektsioon seda aktsionäridele põhjendama.
+
+(9) Ajutine erihaldur võib kutsuda kokku krediidiasutuse aktsionäride üldkoosoleku ja koostada üldkoosoleku päevakorra üksnes Finantsinspektsiooni nõusolekul.
+
+(10) Ajutise erihalduri nimetamine ei sea piiranguid krediidiasutuse aktsionäride äriseadustikust tulenevatele õigustele. Ajutise erihalduri tegevusest tekkinud nõuetele ei kohaldata äriseadustiku §-s 289<sup>2</sup> sätestatut.
+
+(11) Erihaldur saab kriisilahendusmenetluses oleva krediidiasutuse arvel tasu, mis vastab tema ülesannetele ja kvalifikatsioonile. Erihalduri tasu suuruse määrab Finantsinspektsioon.
+
+(12) Ajutine erihaldur vastutab oma kohustuste rikkumisega üksnes süüliselt tekitatud kahju eest. Ajutise erihalduri vastu esitatava nõude aegumistähtaeg on kolm aastat ajutise erihalduri tegevuse lõppemise päevast arvates.
+
+(13) Finantsinspektsioon võib ajutise erihalduri igal ajal, olenemata põhjusest, tagasi kutsuda. Samuti võib Finantsinspektsioon ajutise erihalduri nimetamise tingimusi igal ajal muuta.
+
+(14) Ajutise erihalduriga sõlmitud lepingust tulenevad õigused ja kohustused lõpevad vastavalt lepingule. Ajutise erihalduri lepingu ülesütlemisele kohaldatakse võlaõigusseaduses käsunduslepingu ülesütlemise kohta sätestatut.
+
+#### § 38. Varajase sekkumise meetmete rakendamise koordineerimine konsolideerimisgrupi puhul
+
+(1) Kui tingimused varajaseks sekkumiseks on käesoleva jao kohaselt täidetud ja kui Finantsinspektsioon teostab konsolideeritud järelevalvet, peab ta varajase sekkumise meetme rakendamise või ajutise erihalduri nimetamise kavatsusest teavitama Euroopa Pangandusjärelevalve Asutust ning konsulteerima teiste järelevalvekolleegiumisse kuuluvate finantsjärelevalve asutustega.
+
+(2) Kui Finantsinspektsioon teostab konsolideerimisgruppi kuuluva tütarettevõtja üle järelevalvet, peab ta vastava meetme rakendamise või ajutise erihalduri nimetamise kavatsusest teavitama Euroopa Pangandusjärelevalve Asutust ja konsulteerima konsolideeritud järelevalvet teostava finantsjärelevalve asutusega.
+
+(3) Konsulteerimise järel otsustab Finantsinspektsioon, kas ja milliseid varajase sekkumise meetmeid kohaldada. Oma otsusest teavitab Finantsinspektsioon teisi järelevalvekolleegiumisse kuuluvaid finantsjärelevalve asutusi ja Euroopa Pangandusjärelevalve Asutust.
+
+(4) Kui teise lepinguriigi finantsjärelevalve asutus on Finantsinspektsiooni teavitanud kavandatavatest varajase sekkumise meetmetest või ajutise erihalduri nimetamisest ja kui Finantsinspektsioon teostab konsolideeritud järelevalvet, võib ta kolme päeva jooksul teise lepinguriigi finantsjärelevalve asutuselt vastavata teate saamisest arvates edastada talle oma hinnangu, millist mõju avaldab nende meetmete rakendamine konsolideerimisgrupile või konsolideerimisgruppi kuuluvatele isikutele.
+
+(5) Kui konsolideeritud järelevalvet teostav teise lepinguriigi finantsjärelevalve asutus on Finantsinspektsioonile andnud oma hinnangu vastavalt käesoleva paragrahvi lõikes 4 sätestatule, peab Finantsinspektsioon arvestama oma otsuse tegemisel seda hinnangut.
+
+(6) Kui samasse konsolideerimisgruppi kuuluva mitme isiku suhtes kavatsetakse rakendada varajase sekkumise meetmeid või nimetada ajutine erihaldur, kaalub Finantsinspektsioon koos teiste asjaomaste finantsjärelevalve asutustega enne vastavate meetmete rakendamist, kas on sobivam nimetada üks ja sama ajutine erihaldur kõigile konsolideerimisgruppi kuuluvatele isikutele või ühtlustada kavandatavaid varajase sekkumise meetmeid, et soodustada krediidiasutuse või konsolideerimisgrupi finantsseisundi taastamist. Finantsinspektsioon peab tegema kõik endast oleneva, et jõuda teiste asjaomaste lepinguriikide finantsjärelevalve asutustega ühisotsusele viie päeva jooksul käesoleva paragrahvi lõikes 1 nimetatud teate esitamisest arvates.
+
+(7) Kui Finantsinspektsioon on konsolideeritud järelevalve teostaja, koostab ta ühisotsuse, mis peab olema põhjendatud, ja esitab selle konsolideerimisgrupi emaettevõtjale.
+
+(8) Finantsinspektsioon võib esitada Euroopa Pangandusjärelevalvele Asutusele taotluse vastavalt nõukogu määruse (EL) nr 1093/2010 artiklile 31, et saada abi käesoleva paragrahvi lõikes 6 nimetatud kokkuleppe saavutamisel.
+
+(9) Kui käesoleva paragrahvi lõikes 6 nimetatud ajavahemiku jooksul ei jõuta ühisotsusele, teeb Finantsinspektsioon, kui ta teostab konsolideeritud järelevalvet või järelevalvet konsolideerimisgruppi kuuluva tütarettevõtja suhtes, oma otsuse ajutise erihalduri nimetamiseks või muu varajase sekkumise meetme rakendamiseks.
+
+(10) Käesoleva paragrahvi lõikes 3 või 9 sätestatud Finantsinspektsiooni otsus peab olema igakülgselt põhjendatud ja selles tuleb arvesse võtta teiste asjaomaste finantsjärelevalve asutuste seisukohti ning reservatsioone. Finantsinspektsioon esitab otsuse konsolideerimisgrupi emaettevõtjale või tütarettevõtjale.
+
+(11) Enne käesoleva paragrahvi lõikes 6 sätestatud perioodi lõppu, kui ei jõuta ühisotsusele või kui Finantsinspektsioon ei ole nõus järelevalvekolleegiumisse kuuluva teise lepinguriigi finantsjärelevalve asutuse ettepanekuga rakendada käesoleva seaduse § 36 lõike 4 punktis 1, 4 või 5 sätestatud varajase sekkumise meedet, võib Finantsinspektsioon pöörduda Euroopa Pangandusjärelevalve Asutuse poole. Euroopa Pangandusjärelevalve Asutuse poole ei pöörduta pärast käesoleva paragrahvi lõikes 6 sätestatud perioodi lõppu ega pärast ühisotsusele jõudmist.
+
+(12) Kui teise asjaomase lepinguriigi finantsjärelevalve asutus on teavitanud Euroopa Pangandusjärelevalve Asutust ühisotsuse saavutamisega seotud erimeelsustest vastavalt käesoleva paragrahvi lõikes 11 sätestatule, lükkab Finantsinspektsioon otsuse tegemise edasi ja ootab ära Euroopa Pangandusjärelevalve Asutuse otsuse ning teeb seejärel oma otsuse kooskõlas Euroopa Pangandusjärelevalve Asutuse otsusega. Kui Euroopa Pangandusjärelevalve Asutus ei ole kolme päeva jooksul teate saamisest arvates otsust teinud, teeb Finantsinspektsioon oma otsuse.
+
+## 4. peatükk — Kriisilahendusmenetlus
+
+### 1. jagu — Kriisilahendusmenetluse üldnõuded
+
+#### § 39. Kriisilahendusmenetluse algatamise tingimused
+
+(1) Finantsinspektsioon võib krediidiasutuse suhtes kriisilahendusmeetmeid või -õigusi rakendada üksnes siis, kui on täidetud kõik järgmised tingimused:
+
+1\) järelevalve käigus saadud informatsiooni põhjal on Finantsinspektsiooni hinnangul tõenäoline, et krediidiasutus on maksejõuetu või tõenäoliselt muutub maksejõuetuks;
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+2\) arvestades nii ajakriteeriumi kui ka muid olulisi asjaolusid, ei aita ükski muu meede või õigus, sealhulgas eraõiguslik ja järelevalvemeede ega ka kapitaliinstrumentide või kõlblike kohustuste allahindamine või teisendamine, krediidiasutuse maksejõuetust mõistliku aja jooksul ära hoida;
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+3\) meede või õigus on avaliku huvi seisukohast vajalik.
+
+(2) Krediidiasutuse maksejõuetuse tekkimine on tõenäoline ühe või mitme järgmise asjaolu esinemisel:
+
+1\) krediidiasutus rikub või on ilmne, et ta lähitulevikus hakkab rikkuma tegevusloa andmise aluseks olevaid nõudeid, eelkõige põhjusel, et krediidiasutus on kahjumis või tal tõenäoliselt tekib kahjum, mille tõttu vähenevad tema omavahendid olulises ulatuses;
+
+2\) krediidiasutuse vara ei kata tema kohustusi või on ilmne, et krediidiasutuse vara ei kata lähiajal tema kohustusi;
+
+3\) krediidiasutus ei suuda või on ilmne, et ta lähitulevikus ei suuda oma kohustusi tasuda nende sissenõutavaks muutumisel;
+
+4\) krediidiasutus taotleb erakorralist avalikku finantstoetust.
+
+(3) Käesoleva paragrahvi lõike 2 punktis 4 nimetatu all ei peeta silmas olukorda, kui riigigarantiid soovitakse seoses:
+
+1\) Eesti Panga väljastatud likviidsuslaenuga;
+
+2\) uue krediidiasutuse väljastatavate võlakohustustega;
+
+3\) aktsiakapitali suurendamisega või kapitaliinstrumentide omandamisega turutingimustel, kusjuures ükski käesoleva paragrahvi lõike 2 punktides 1–3 ja käesoleva seaduse § 56 lõike 1 punktis 5 nimetatud tingimustest ei esine juba erakorralise avaliku finantstoetuse andmise ajal.
+
+(3<sup>1</sup>) Käesoleva paragrahvi lõikes 3 sätestatut kohaldatakse riigigarantii suhtes, mis antakse maksevõimelisele krediidiasutusele ajutise proportsionaalse ettevaatusabinõuna tähtajaliselt, et leevendada tõsiste häirete tagajärgi. Riigigarantii abil saadud vahendeid ei või kasutada sellise kahjumi katmiseks, mis krediidiasutusel on tekkinud või lähiajal tõenäoliselt tekib.
+
+\[RT I, 10.01.2019, 1 - jõust. 20.01.2019\]
+
+(3<sup>2</sup>) Riigigarantii andmisel käesoleva paragrahvi lõike 3 punkti 3 alusel on selle suurus piiratud kapitali vajadusega, mis on kindlaks tehtud pädeva järelevalveasutuse läbi viidud stressitestide, varade kvaliteedi hindamise või muu samaväärse tegevuse käigus.
+
+\[RT I, 10.01.2019, 1 - jõust. 20.01.2019\]
+
+(4) Kriisilahendusmeetme või -õiguse rakendamist käsitatakse käesoleva paragrahvi lõike 1 punkti 3 kohaselt avaliku huvi seisukohast vajalikuna, kui see aitab kaasa ühe või mitme kriisilahenduse eesmärgi saavutamiseks ja on proportsionaalne ning krediidiasutuse lõpetamine ja likvideerimine pankrotimenetluses ei aitaks kriisilahenduse eesmärke saavutada.
+
+(5) Finantsinspektsioon võib krediidiasutuse tütarettevõtjast finantseerimisasutuse suhtes kriisilahendusmeetmeid või -õigusi rakendada üksnes siis, kui on täidetud kõik käesoleva paragrahvi lõikes 1 sätestatud tingimused nii finantseerimisasutuse enda kui ka konsolideeritud järelevalve alla kuuluva emaettevõtja puhul.
+
+(6) Finantsinspektsioon võib finantsvaldusettevõtja, segafinantsvaldusettevõtja ja segavaldusettevõtja suhtes kriisilahendusmeetmeid või -õigusi rakendada üksnes siis, kui on täidetud kõik käesoleva paragrahvi lõikes 1 sätestatud tingimused nii finantsvaldusettevõtja, segafinantsvaldusettevõtja või segavaldusettevõtja enda kui ka tema tütarettevõtjast krediidiasutuse puhul. Kui nimetatud krediidiasutus on asutatud kolmandas riigis, peab olema selle riigi pädev asutus määranud, et kriisilahenduse eesmärgid on selle riigi õiguse kohaselt täidetud.
+
+(7) Kui segavaldusettevõtjal on otsene või kaudne osalus tütarettevõtjast krediidiasutuses finantsvaldusettevõtjast vahendaja kaudu, peab kriisilahenduskava kohast vahendajast finantsvaldusettevõtjat käsitama kriisilahendussubjektina. Nimetatud juhul võib konsolideerimisgrupi kriisilahenduse eesmärgil kehtestatud kriisilahendusmeetmeid või -õigusi rakendada selle vahendajast finantsvaldusettevõtja, mitte segavaldusettevõtja suhtes.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(8) Kui finantsvaldusettevõtja, segafinantsvaldusettevõtja ega segavaldusettevõtja puhul ei ole käesoleva paragrahvi lõikes 1 sätestatud kriisilahendusmenetluse algatamise tingimusi täidetud, võib Finantsinspektsioon nende suhtes siiski rakendada kriisilahendusmeetmeid või -õigusi, kui:
+
+1\) finantsvaldusettevõtja, segafinantsvaldusettevõtja või segavaldusettevõtja on kriisilahendussubjekt;
+
+2\) üks või mitu finantsvaldusettevõtja, segafinantsvaldusettevõtja või segavaldusettevõtja tütarettevõtjat, kes on krediidiasutused, kuid ei ole kriisilahendussubjektid, vastavad käesoleva paragrahvi lõikes 1 sätestatud tingimustele;
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+3\) käesoleva lõike punktis 2 nimetatud tütarettevõtja varad ja kohustused on sellised, et tütarettevõtja maksejõuetus ohustab kriisilahenduse konsolideerimisgruppi tervikuna ning kriisilahendusmeetme rakendamine sellise ettevõtja puhul on vajalik tütarettevõtjast krediidiasutuse kriisilahenduseks või asjakohase kriisilahenduse konsolideerimisgrupi kui terviku kriisilahenduseks.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(9) Kui vastavalt käesoleva paragrahvi lõikes 6 või 8 sätestatule hinnatakse, kas kriisilahenduse eesmärgid on finantsvaldusettevõtja, segafinantsvaldusettevõtja ja segavaldusettevõtja tütarettevõtjast krediidiasutuse puhul täidetud, võib Finantsinspektsioon leppida selle välisriigi, kus on asutatud nimetatud finantsvaldusettevõtja, segafinantsvaldusettevõtja või segavaldusettevõtja, kriisilahendusasutusega kokku, et sellisel juhul ei arvestata konsolideerimisgrupisiseseid kapitali ega kahjumi ülekandmise võimalusi, kaasa arvatud võimalikku kapitaliinstrumentide allahindamist või teisendamist.
+
+#### § 39<sup>1</sup>. Keskasutuse ja sellega püsivalt seotud krediidiasutuse kriisilahendusmenetluse algatamise erisused
+
+(1) Finantsinspektsioon võib kohaldada keskasutuse ja kõigi sellega püsivalt seotud ja samasse kriisilahenduse konsolideerimisgruppi kuuluvate krediidiasutuste suhtes kriisilahendusmeetmeid ja -õigusi, kui nimetatud kriisilahenduse konsolideerimisgrupp vastab tervikuna käesoleva seaduse § 39 lõikes 1 sätestatud tingimustele.
+
+(2) Krediidiasutus või konsolideerimisgruppi kuuluv ettevõtja, kelle puhul Finantsinspektsioon leiab, et käesoleva seaduse § 39 lõike 1 punktides 1 ja 2 nimetatud tingimused on täidetud, kuid ei ole täidetud nimetatud lõike punktis 3 nimetatud avaliku huvi tingimus, likvideeritakse tavapärase likvideerimis- või pankrotimenetluse käigus.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+#### § 40. Kriisilahendusmenetluse üldpõhimõtted
+
+(1) Finantsinspektsioon rakendab kriisilahendusmeetmeid või -õigusi kooskõlas järgmiste põhimõtetega:
+
+1\) kriisilahendusmenetluses oleva krediidiasutuse kahjumi katavad esimeses järjekorras aktsionärid;
+
+2\) kriisilahendusmenetluses oleva krediidiasutuse kahjumi katavad teises järjekorras võlausaldajad pärast aktsionäre vastavalt nende nõuete rahuldamisjärgule pankrotimenetluses, kui käesolevas seaduses ei ole sätestatud teisiti;
+
+3\) kriisilahendusmenetluses oleva krediidiasutuse juhatuse ja nõukogu liikmed kutsutakse tagasi ja vahetatakse välja, välja arvatud juhul, kui kriisilahenduse eesmärkide paremaks saavutamiseks peetakse vajalikuks kõigi või mõnede juhatuse või nõukogu liikmete ametisse jäämist;
+
+4\) kriisilahendusmenetluses oleva krediidiasutuse juhatuse ja nõukogu liikmed peavad osutama igakülgset abi kriisilahenduse eesmärkide saavutamiseks;
+
+5\) füüsilised ja juriidilised isikud vastutavad krediidiasutuse maksejõuetuse põhjustamise eest; kui maksejõuetuse tekkimise põhjuseks on raske juhtimisviga, on ajutine erihaldur kohustatud esitama kahju hüvitamise nõude raskes juhtimisveas süüdi oleva isiku vastu, kui seda nõuet ei ole juba esitatud;
+
+6\) ühe ja sama nõude rahuldamisjärgu võlausaldajaid koheldakse võrdselt, kui käesolevas seaduses ei ole sätestatud teisiti;
+
+7\) ükski võlausaldaja ei kata kahjumit suuremas osas kui see, mida ta oleks katnud, kui krediidiasutus või tema tütarettevõtjast finantseerimisasutus või finantsvaldusettevõtja, segafinantsvaldusettevõtja või segavaldusettevõtja oleks lõpetatud ja likvideeritud pankrotimenetluses ning kooskõlas käesoleva seaduse §-s 80 sätestatuga;
+
+8\) tagatud ja hüvitamisele kuuluvad hoiused on täielikult kaitstud;
+
+9\) kriisilahendusmeetmeid või -õigusi rakendatakse kooskõlas käesolevas seaduses sätestatud kaitsemeetmetega.
+
+(2) Kui krediidiasutus kuulub konsolideerimisgruppi, peab Finantsinspektsioon kriisilahendusmeetmeid või -õigusi rakendama nii, et negatiivne mõju konsolideerimisgrupi teistele üksustele ning konsolideerimisgrupile tervikuna oleks minimaalne, samuti mõju Eesti finantsstabiilsusele ja teistele lepinguriikidele, eelkõige nendele, kus konsolideerimisgrupi teised üksused tegutsevad. Finantsinspektsioon peab kriisilahendusmeetmete või -õiguste rakendamisel arvestama ka Euroopa Liidu riigiabi alaseid õigusakte.
+
+(3) Kui krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva isiku suhtes rakendatakse käesoleva seaduse § 55 lõike 1 punktides 1–3 nimetatud kriisilahendusmeetmeid, ei kohaldata krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva isiku töötajate suhtes töölepingu seaduse § 112 lõigetes 1 ja 3 sätestatut.
+
+(4) Finantsinspektsioon teavitab kriisilahendusmeetme või -õiguse rakendamisel vajaduse korral vastava isiku töötajate esindajaid ning konsulteerib nendega. Finantsinspektsioon rakendab kriisilahendusmeetmeid ja kasutab kriisilahendusõigusi selliselt, et see ei piira töötajate esindatust äriühingu juhtorganites.
+
+#### § 40<sup>1</sup>. Teatud kohustuste peatamise õigus
+
+(1) Finantsinspektsioonil on õigus peatada krediidiasutuse või muu konsolideerimisgruppi kuuluva ettevõtja lepingujärgsed makse- või ülekandekohustused (edaspidi *peatamisõigus*), kui on täidetud kõik järgmised tingimused:
+
+1\) käesoleva seaduse § 39 lõike 1 punkti 1 kohaselt on tehtud kindlaks, et krediidiasutus või muu konsolideerimisgruppi kuuluv ettevõtja on maksejõuetu või tõenäoliselt muutub maksejõuetuks;
+
+2\) kohe ei ole võimalik rakendada ühtegi käesoleva seaduse § 39 lõike 1 punktis 2 nimetatud eraõiguslikku meedet, mis krediidiasutuse või muu konsolideerimisgruppi kuuluva ettevõtja maksejõuetuse ära hoiaks;
+
+3\) peatamisõiguse kasutamist peetakse vajalikuks, et hoida ära krediidiasutuse või muu konsolideerimisgruppi kuuluva ettevõtja finantsolukorra edasine halvenemine;
+
+4\) peatamisõiguse kasutamine on vajalik avaliku huvi tuvastamiseks või sobivate kriisilahendusmeetmete valimiseks või ühe või mitme kriisilahendusmeetme tulemusliku kohaldamise tagamiseks.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2) Finantsinspektsiooni finantskriisi lahendamise funktsiooni täitja peab enne peatamisõiguse kasutamist konsulteerima finantsjärelevalve funktsiooni täitjaga ja viimane peab vastama viivitamata.
+
+\[RT I, 30.11.2022, 1 - jõust. 10.12.2022\]
+
+(3) Peatamisõigust ei kohaldata makse- ja ülekandekohustuste suhtes, mis on võetud:
+
+1\) makse- ja arveldussüsteemide seaduses määratletud arveldussüsteemide või nende korraldajate ees;
+
+\[RT I, 01.03.2023, 3 - jõust. 11.03.2023\]
+
+2\) Euroopa Parlamendi ja nõukogu määruse (EL) nr 648/2012 börsiväliste tuletisinstrumentide, kesksete vastaspoolte ja kauplemisteabehoidlate kohta (ELT L 201, 27.07.2012, lk 1–59) artikli 14 kohase liidu tegevusloaga kesksete vastaspoolte ees ning kolmandate riikide kesksete vastaspoolte ees, keda Euroopa Väärtpaberiturujärelevalve Asutus nimetatud määruse artikli 25 kohaselt tunnustab;
+
+3\) keskpankade ees.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(4) Finantsinspektsioon määrab peatamisõiguse kasutamise perioodi vastavalt iga üksikjuhtumi asjaoludele, hinnates hoolikalt, kas peatamist on sobilik kohaldada ka tagatud kõlblike hoiuste suhtes, eriti füüsiliste isikute ning mikro-, väikeste ja keskmise suurusega ettevõtjate hoitavate tagatud hoiuste suhtes.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(5) Peatamisõiguse kasutamise aeg on võimalikult lühike, see ei ole pikem minimaalsest ajavahemikust, mida Finantsinspektsioon peab vajalikuks käesoleva paragrahvi lõike 1 punktides 3 ja 4 nimetatud eesmärgil rakendada, ega tohi kesta kauem kui lõikes 9 nimetatud peatamisteate avaldamisest kuni avaldamispäevale järgneva tööpäeva keskööni krediidiasutuse või muu konsolideerimisgrupi ettevõtja lepinguriigi aja järgi.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(6) Peatamisõiguse kasutamisel võtab Finantsinspektsioon arvesse selle mõju finantsturgudele, arvestades võlausaldajate õigusi ja võrdset kohtlemist tavapärases maksejõuetusmenetluses. Finantsinspektsioon võtab arvesse riigisisest maksejõuetusmenetlust, mida kohaldatakse avaliku huvi tuvastamise tulemusena.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(7) Peatamisõiguse kohaldamisel peatuvad samaks ajavahemikuks ka kõik vastaspoole antud lepingust tulenevad makse- või ülekandekohustused.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(8) Makse- või ülekandekohustus, mis oleks tulnud täita peatamisõiguse kohaldamise ajal, tuleb täita kohe pärast selle lõppu.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(9) Finantsinspektsioon teavitab viivitamata krediidiasutust või muud konsolideerimisgrupi ettevõtjat ning käesoleva seaduse § 50 lõikes 1 nimetatud asutusi, kui ta kasutab peatamisõigust pärast seda, kui § 39 lõike 1 punkti 1 kohaselt on kindlaks tehtud, et krediidiasutus on maksejõuetu või tõenäoliselt muutub maksejõuetuks, ja enne kriisilahendusotsuse tegemist.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(10) Finantsinspektsioon avaldab peatamisõiguse kohaldamise otsuse ning peatamise tingimused ja ajavahemiku käesoleva seaduse §-s 50 sätestatud viisil.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(11) Finantsinspektsioon võib kasutada peatamisõiguse perioodi jooksul õigust:
+
+1\) seada samaks ajavahemikuks krediidiasutuse või muu konsolideerimisgruppi kuuluva ettevõtja võlausaldajatele, kellel on asjaomase krediidiasutuse või muu ettevõtja varade suhtes tagatud nõuded, piiranguid tagatisest tulenevate õiguste jõustamisele, arvestades käesoleva seaduse § 43 lõikes 3 nimetatud erisusi;
+
+2\) peatada samaks ajavahemikuks asjaomase krediidiasutuse või muu konsolideerimisgruppi kuuluva ettevõtjaga lepingu sõlminud poole lõpetamisõigus, arvestades käesoleva seaduse § 43 lõigetes 1–5 ja §-s 44 sätestatud nõudeid.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(12) Kui Finantsinspektsioon on tulenevalt käesoleva seaduse § 39 lõike 1 punktist 1 kindlaks teinud, et krediidiasutus on maksejõuetu või tõenäoliselt muutub maksejõuetuks, ning on pärast seda kasutanud käesoleva paragrahvi lõike 1 või 11 kohast õigust peatada makse- või ülekandekohustused ning kui seejärel on asjaomase krediidiasutuse suhtes võetud kriisilahendusmeede, ei kasuta Finantsinspektsioon selle krediidiasutuse suhtes käesoleva seaduse § 43 lõikes 2 sätestatud õigust peatada teatavaid kohustusi või piirata tagatisest tulenevaid õigusi.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+### 2. jagu — Finantsinspektsiooni õigused ja kohustused kriisilahendusmenetluses
+
+#### § 41. Kriisilahendusmenetluse algatamise otsus
+
+(1) Finantsinspektsioon võib teha otsuse kriisilahendusmenetluse algatamiseks, kui krediidiasutus või temaga samasse konsolideerimisgruppi kuuluv isik vastab kriisilahendusmenetluse algatamise tingimustele. Kriisilahendusmenetluse algatamise otsuse aluseks on krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva isiku varalisele seisundile antud Finantsinspektsiooni esialgne hinnang või sõltumatu eksperdi hinnang vastavalt käesoleva seaduse 5. peatükis sätestatule.
+
+(2) Finantsinspektsiooni otsus kriisilahendusmenetluse algatamise kohta peab olema põhjendatud ja selles nähakse ette:
+
+1\) kriisilahendusmeetmed ja -õigused, mida kavatsetakse rakendada;
+
+2\) kriisilahendusmenetluse algatamise kuupäev ning kriisilahendusmeetmete ja -õiguste rakendamise alguse kellaaeg;
+
+3\) vajaduse korral erihalduri määramine;
+
+4\) käesoleva seaduse 5. peatükis sätestatud varalise seisundi hindamise kord, kui käesoleva paragrahvi lõikes 1 nimetatud otsuse aluseks on Finantsinspektsiooni läbi viidud varalise seisundi esialgse hindamise tulemused;
+
+5\) kriisilahendusmenetluse algatamise tingimused kooskõlas käesoleva seaduse §-ga 39;
+
+6\) teenuste osutamise ja vahendite üleandmise kord kooskõlas käesoleva seaduse §-ga 46;
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+7\) vajaduse korral Finantsinspektsiooni seaduse § 18 lõike 2 punktis 9 nimetatud avalduse esitamine;
+
+8\) muu asjakohane oluline teave.
+
+(3) Finantsinspektsioon ei otsusta kriisilahendusmenetluse algatamist ja kriisilahendusmenetluse käigus käesoleva seaduse §-s 55 nimetatud kriisilahendusmeetme või -õiguse täiendavat rakendamist ilma Eesti Panga seisukohta ära kuulamata.
+
+(4) Kui kriisilahendusmeetmeid või -õigusi on vaja rakendada kolmandas riigis asuva vara või kolmanda riigi õigusega reguleeritud aktsiate, muude omandiõiguse instrumentide, varaliste õiguste või kohustuste suhtes ja on tõenäoline, et Finantsinspektsiooni otsus ei ole objektiivsete asjaolude tõttu täidetav, võib Finantsinspektsioon vastu võtta kriisilahendusmenetluse algatamise otsuse kõrvaltingimusega.
+
+(5) Finantsinspektsiooni otsus kriisilahendusmenetluse algatamise kohta kehtib arvates selle avalikustamisest käesoleva seaduse § 50 lõikes 3 ette nähtud korras ja see tuleb viivitamata täita. Otsuse täitmist ei saa peatada, ajatada ega muuta kriisilahendusmeetmete või -õiguste rakendamise viisi ja korda ning kriitiliste funktsioonide toimimise korraldust.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+#### § 42. Finantsinspektsiooni volitused kriisilahendusmenetluses
+
+(1) Finantsinspektsioonil on õigus teha otsuseid kriisilahendusmenetluses oleva krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva isiku aktsiate, varade ja kohustuste valitsemise ja käsutamise kohta, muu hulgas nõuda ettekirjutusega:
+
+1\) aktsiate või muude kapitaliinstrumentide allahindamist või tühistamist;
+
+2\) aktsiate või kõigi varade, õiguste ja kohustuste üleandmist või võõrandamist;
+
+3\) kohustuste ja nõudeõiguste teisendamist;
+
+4\) emiteeritud võlainstrumentide ja muude teisendatavate kohustuste täitmise tähtaja muutmist või sellistelt instrumentidelt ja muudelt teisendatavatelt kohustustelt makstava intressi summa või kohustuse täitmise tähtpäeva muutmist, millest alates tuleb hakata intressi maksma, maksete ajutiselt peatamist, välja arvatud tagatud kohustuste puhul;
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+5\) tuletisinstrumentide lepingute lõpetamist käesoleva seaduse § 76 rakendamiseks;
+
+6\) märkimisõiguste tühistamist täiendavate aktsiate või muude omandiõiguse instrumentide omandamiseks;
+
+7\) uute aktsiate või muude kapitaliinstrumentide emiteerimist;
+
+8\) sõlmitud lepingu tingimuste muutmist, lepingust taganemist või selle ülesütlemist.
+
+\[RT I, 10.01.2019, 1 - jõust. 20.01.2019\]
+
+(2) Finantsinspektsioonil on käesoleva paragrahvi lõike 1 punktis 3 sätestatud kohustuste ja nõudeõiguste teisendamisel õigus nõuda kriisilahendusmenetluses oleva krediidiasutuse:
+
+1\) teisendatavate kohustuste põhiosa või maksmisele kuuluva jäägi vähendamist kuni nullini;
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+2\) emiteeritud võlainstrumentide, välja arvatud tagatud kohustuste tühistamist;
+
+3\) teisendatavate kohustuste teisendamist selle krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva isiku või sildasutuse, kellele kriisilahendusmenetluses oleva krediidiasutuse vara, õigused või kohustused üle antakse, lihtaktsiateks või muudeks omandiõiguse instrumentideks.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(3) Finantsinspektsioonil on õigus viia läbi olulise osaluse omandaja hindamine ilma krediidiasutuste seaduse §-s 30<sup>1</sup> sätestatud menetlustähtaegu kohaldamata.
+
+(4) Vajaduse korral on Finantsinspektsioonil õigus nõuda pädevalt reguleeritud väärtpaberituru korraldajalt reguleeritud väärtpaberiturul:
+
+1\) aktsiate või muude omandiõiguse instrumentide või võlainstrumentidega kauplemise või noteerimise peatamist või lõpetamist;
+
+2\) uute aktsiate või muude omandiõiguse instrumentide noteerimist või kauplemisele lubamist;
+
+3\) allahinnatud võlainstrumentide uuesti noteerimist või kauplemisele lubamist, ilma et tuleks täita Euroopa Parlamendi ja nõukogu direktiivi 2003/71/EÜ väärtpaberite üldsusele pakkumisel või kauplemisele lubamisel avaldatava prospekti ja direktiivi 2001/34/EÜ muutmise kohta (ELT L 345, 31.12.2003, lk 64–89) kohast prospekti avaldamise nõuet.
+
+(5) Finantsinspektsioon teavitab viivitamata äriregistrit, väärtpaberite keskdepositooriumi ja muid vastavaid registreid kriisilahendusmenetluse algatamise otsusest ning esitab kriisilahendusmeetme rakendamise otsuse alusel asjakohasel juhul kandeavaldusi.
+
+\[RT I, 26.06.2017, 1 - jõust. 06.07.2017\]
+
+(6) Kriisilahendusmenetluses ei kohaldata õigusnorme, mis sätestavad nõude saada tehingule või toimingule aktsionäri või võlausaldaja või muu kolmanda isiku eelnev heakskiit või nõusolek, ega õigusnorme eelneva teate või prospekti või muu sellesarnase teabe või dokumendi esitamise või registreerimise kohustuse kohta.
+
+#### § 43. Kriisilahendusmenetluse algatamise otsuse tagajärjed
+
+(1) Kui kriisilahendusmenetluse algatamise otsuses ei ole sätestatud teisiti, läheb kriisilahendusmenetluses oleva krediidiasutuse vara valitsemise ja käsutamise õigus üle erihaldurile ning peatuvad:
+
+1\) krediidiasutuse aktsionäride või muude omandiõiguse instrumentide omanike hääleõigused;
+
+2\) krediidiasutuse kõigi või mõne juhtorganite liikme volitused, kui kriisilahendusmenetluse algatamise otsusega ei ole juhtorgani liiget tagasi kutsutud;
+
+3\) viivise või ajas suureneva leppetrahvi arvestamine krediidiasutuse vastu suunatud nõudelt.
+
+(2) Finantsinspektsioonil on õigus kriisilahendusmenetluse algatamise otsusega peatada Eestis käesoleva seaduse §-s 50 nimetatud teate avaldamisest kuni avaldamispäevale järgneva tööpäeva keskööni kriisilahendusmenetluses oleva krediidiasutuse sõlmitud lepingutest tulenevad:
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+1\) krediidiasutuse makse- või ülekandekohustused, samuti kõnealuse lepingu teise poole makse- või ülekandekohustused;
+
+2\) tagatud võlakohustuste omanike tagatistest tulenevad õigused;
+
+3\) ülesütlemisõigused kõigi lepingupoolte suhtes juhul, kui täidetakse makse-, üleandmis- ja ülekandekohustusi ning tagatise andmise kohustust.
+
+(2<sup>1</sup>) Käesoleva paragrahvi lõikes 2 sätestatud lepingutest tulenevate õiguste ja kohustuste peatumist ei käsitata nende lepingute rikkumisena.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2<sup>2</sup>) Käesoleva paragrahvi lõikes 2 sätestatu kehtib ühetaoliselt kõigi konsolideerimisgruppi kuuluvate isikute suhtes tulenevalt sellest, kelle suhtes kriisilahendusmeedet rakendatakse.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(3) Käesoleva paragrahvi lõikes 2 sätestatut ei kohaldata:
+
+1\) makse- või ülekandekohustustele, mis tulenevad makse- ja arveldussüsteemide seaduses määratletud arveldussüsteemi või süsteemi korraldaja korrapärasest toimimisest;
+
+\[RT I, 01.03.2023, 3 - jõust. 11.03.2023\]
+
+1<sup>1</sup>) Euroopa Parlamendi ja nõukogu määruse (EL) nr 648/2012 artikli 14 kohaselt tegevusloa saanud või sama määruse artikli 25 kohaselt Euroopa Väärtpaberiturujärelevalve Asutuse poolt tunnustatud kesksetele vastaspooltele;
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+1<sup>2</sup>) keskpankadele vara suhtes, mille krediidiasutus on keskpangale pantinud või tagatiseks andnud.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+2\) \[kehtetu - RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+3\) \[kehtetu - RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(4) Finantsinspektsioon võib nõuda, et käesoleva paragrahvi lõike 2 punkti 3 kohaldatakse ka kriisilahendusmenetluses oleva krediidiasutuse tütarettevõtja mis tahes lepingupoolega sõlmitud lepingu suhtes, kui:
+
+1\) kõnealusest lepingust tulenevaid kohustusi tagab või toetab muul viisil kriisilahendusmenetluses olev krediidiasutus;
+
+2\) ülesütlemisõigus põhineb üksnes kriisilahendusmenetluses oleva krediidiasutuse maksejõuetusel või finantsseisundil ja
+
+3\) kriisilahendusmenetluses oleva krediidiasutuse suhtes on kasutatud või võidakse kasutada üleandmisõigust ning kõnealuse lepinguga seotud tütarettevõtja vara ja kohustused on üle antud ja saaja poolt vastu võetud või võidakse üle anda ja saaja poolt vastu võtta.
+
+\[RT I, 10.01.2019, 1 - jõust. 20.01.2019\]
+
+(4<sup>1</sup>) Käesoleva paragrahvi lõikes 4 sätestatut kohaldatakse juhul, kui Finantsinspektsioon pakub muul viisil piisava kaitse vastavatele lepingulistele kohustustele.
+
+\[RT I, 10.01.2019, 1 - jõust. 20.01.2019\]
+
+(4<sup>2</sup>) Finantsinspektsioon määrab käesoleva paragrahvi lõikes 4 nimetatud õiguse kasutamise ulatuse vastavalt iga üksikjuhtumi asjaoludele, hinnates hoolikalt, kas peatamist on sobilik kohaldada ka tagatud kõlblike hoiuste suhtes, eriti füüsiliste isikute ning mikro-, väikeste ja keskmise suurusega ettevõtjate hoitavate tagatud hoiuste suhtes.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(5) Isik, kelle suhtes kohaldatakse käesoleva paragrahvi lõike 2 punktis 3 sätestatut, võib kasutada lepingust tulenevat ülesütlemisõigust enne käesoleva paragrahvi lõikes 2 nimetatud ajavahemiku lõppu, kui ta saab Finantsinspektsioonilt teate, et lepinguga hõlmatud õigusi ja kohustusi ei anta üle teisele ettevõtjale või ei hinnata alla ega teisendata kohustuste ja nõudeõiguste teisendamise meetme rakendamisel.
+
+(5<sup>1</sup>) Kui Finantsinspektsioon kasutab käesoleva paragrahvi lõike 2 punktis 3 või lõikes 4 ette nähtud õigust peatada lepingu ülesütlemise õigus ning kui ei ole esitatud lõike 5 kohast teadet, võib peatatud õigust pärast peatamisaja lõppu kasutada, arvestades käesoleva seaduse §-s 44 sätestatut, järgmiselt:
+
+1\) kui lepingust tulenevad õigused ja kohustused on üle antud teisele ettevõtjale, võib vastaspool kasutada lepingu ülesütlemise õigust vastavalt asjaomase lepingu tingimustele üksnes saajast ettevõtja mis tahes jätkuva või järgneva täitmist tingiva juhtumi korral;
+
+2\) kui lepingust tulenevad õigused ja kohustused jäävad kriisilahendusmenetluses olevale krediidiasutusele ning Finantsinspektsioon ei ole sellise lepingu suhtes rakendanud kohustuste ja nõudeõiguste teisendamist kooskõlas käesoleva seaduse § 70 lõike 1 punktiga 1, võib vastaspool pärast peatamisaja lõppu kasutada lepingu lõpetamise õigust vastavalt lepingu tingimustele.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(6) Finantsinspektsioon võib taotleda kohtult kriisilahendusmenetluses oleva krediidiasutuse vara suhtes toimuva sundtäitmise või mis tahes kohtumenetluse peatamist, kui see on vajalik kriisilahendusmeetmete ja -õiguste tõhusaks rakendamiseks.
+
+(7) Kui hagi tagamise abinõusid kohaldati enne erihalduri määramise otsustamist ja kohus ei otsusta teisiti, jäävad need erihalduri määramisel kehtima.
+
+(8) Valdkonna eest vastutav minister võib määrusega kehtestada kriisilahendusmenetluses oleva krediidiasutuse sõlmitud lepingute peatamise täpsema korra.
+
+#### § 44. Lepinguliste kohustuste täitmine
+
+(1) Kriisiennetusmeetme või -õiguse rakendamise, teatud kohustuste peatamise ega kriisilahendusmenetluse algatamise otsuse tegemise fakti ei käsitata krediidiasutuse sõlmitud lepingu alusel täitmist tingiva juhtumina Euroopa Parlamendi ja nõukogu direktiivi 2002/47/EÜ tähenduses ega maksejõuetusmenetlusena makse- ja arveldussüsteemide seaduse tähenduses. Kriisilahendusmenetluses ei kohaldata asjaõigusseaduse §-des 314<sup>3</sup> ja 319<sup>2</sup> sätestatut.
+
+\[RT I, 01.03.2023, 3 - jõust. 11.03.2023\]
+
+(2) Käesoleva paragrahvi lõikes 1 sätestatut kohaldatakse ka krediidiasutuse tütarettevõtja sõlmitud sellise lepingu suhtes, mis sisaldab kohustusi, mida tagab või toetab muul viisil emaettevõtja või konsolideerimisgrupi ettevõtja, või konsolideerimisgrupi ettevõtja sõlmitud sellise lepingu suhtes, mis sisaldab samaaegse makseviivituse sätteid.
+
+(3) Kui krediidiasutus jätkab lepingust tulenevate kohustuste täitmist, sealhulgas makse- ja ülekandekohustuste täitmist, ning tagatise andmist, ei ole kriisiennetusmeetme rakendamise, käesoleva seaduse §-s 40<sup>1</sup> sätestatud teatud kohustuste peatamise või kriisilahendusmeetme või -õiguse rakendamise otsus ega selle kohaldamisega vahetult seotud mis tahes sündmus aluseks, et:
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+1\) kasutada lõpetamise, peatamise, muutmise või tasaarvestuse õigust või lõpetamisel toimuva tasaarvestuse õigust, sealhulgas seoses tütarettevõtja sõlmitavate lepingutega, mille kohaseid kohustusi tagab või toetab muul viisil konsolideerimisgrupi ettevõtja ja mis sisaldavad vastastikuste kohustuste täitmata jätmise sätet;
+
+2\) saada enda omandisse, kontrollida või tagatisena sisse nõuda või muul viisil mõjutada krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva isiku vara lepingu puhul, mis hõlmab vastastikuste kohustuste täitmata jätmise sätet;
+
+3\) mõjutada krediidiasutuse või krediidiasutusega samasse konsolideerimisgruppi kuuluva isiku lepingulisi õigusi seoses lepinguga, mis sisaldab vastastikuste kohustuste täitmata jätmise sätteid.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(4) Kui käesoleva paragrahvi lõikest 6 ei tulene teisiti, on keelatud kriisilahendusmenetluses oleva krediidiasutuse sõlmitud lepingust tulenevalt:
+
+\[RT I, 31.12.2015, 38 - jõust. 10.01.2016\]
+
+1\) tagatiseks oleva vara üleandmine, välja arvatud juhul, kui üle antakse ka kohustus ja tagatisest saadav kasu;
+
+2\) tagatud kohustuse üleandmine, välja arvatud juhul, kui üle antakse ka tagatisest saadav kasu;
+
+3\) tagatisest saadava kasu üleandmine, välja arvatud juhul, kui antakse üle ka tagatud kohustus;
+
+4\) tagatiskokkuleppe muutmine või lõpetamine kriisilahendusõigusega kaasnevate õiguste kasutamisega, kui sellise muutmise või lõpetamise tagajärjel ei ole kohustus enam tagatud;
+
+5\) õiguste ja kohustuste, mis on hõlmatud omandiõiguse üleminekul põhineva finantstagatiskokkuleppe või tasaarvestuskokkuleppega, üle andmine ilma kõiki vastava raamlepinguga hõlmatud õigusi ja kohustusi samaaegselt üle andmata.
+
+\[RT I, 31.12.2015, 38 - jõust. 10.01.2016\]
+
+(5) Käesoleva paragrahvi lõikes 4 sätestatut kohaldatakse ka pandikirjade ja struktureeritud finantskokkulepete, sealhulgas väärtpaberistamiste ja riskide maandamise eesmärgil kasutatavate finantsinstrumentide suhtes, mis moodustavad lahutamatu osa tagatiste kogumist ning mis on tagatud sarnaselt pandikirjadega.
+
+(6) Kui see on vajalik tagamisele kuuluvate hoiuste kättesaadavuse tagamiseks, võib Finantsinspektsioon nõuda nende tagamisele kuuluvate hoiuste üleandmist, mis moodustavad osa finantstagatiskokkulepetest, käesoleva paragrahvi lõikes 4 või 5 nimetatud tagatiskokkulepetest, andmata üle muud vara, õigusi ja kohustusi, mis moodustavad osa samast kokkuleppest, samuti võib Finantsinspektsioon nõuda nimetatud vara ja õiguste või kohustuste üleandmist, nende muutmist või lõpetamist, andmata üle tagamisele kuuluvaid hoiuseid.
+
+#### § 45. Muud piirangud kriisilahendusmenetluse puhul
+
+(1) Kohus keeldub määrusega pankrotiavaldust menetlusse võtmast, kui:
+
+1\) avalduse on esitanud võlgnikuna maksejõuetu krediidiasutus;
+
+2\) võlausaldaja pankrotiavaldus põhineb nõudel, mille suhtes kehtib Finantsinspektsiooni otsus kriisilahendusmeetme või -õiguse rakendamise kohta.
+
+(2) Kui kohus on käesoleva paragrahvi lõikes 1 nimetatud pankrotiavalduse menetlusse võtnud enne kriisilahendusmeetme või -õiguse rakendamist, lükkab kohus pankrotimenetluse algatamise otsustamise edasi kuni kriisilahendusmeetme või -õiguse rakendamise lõpetamiseni.
+
+#### § 46. Teenuste osutamine ja vahendite üleandmine
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(1) Finantsinspektsioonil on õigus asjakohasel juhul ette näha kriisilahendusmenetluses oleva krediidiasutuse teenuste osutamise ja vahendite üleandmise kord, mis võimaldab tagada kriisilahendusmenetluses oleva krediidiasutuse sõlmitud lepingutest tulenevate õiguste ja kohustuste täitmist seoses mis tahes üle antud finantsinstrumendi, õiguse, vara või kohustusega.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(2) Finantsinspektsioonil on kriisilahendusmenetluses oleva krediidiasutuse teenuste osutamise või vahendite üleandmise tagamiseks õigus rakendada muu hulgas järgmisi meetmeid:
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+1\) nõuda kriisilahendusmenetluses olevalt krediidiasutuselt või temaga samasse konsolideerimisgruppi kuuluvalt isikult selliste teenuste osutamist ja vahendite, välja arvatud rahaliste vahendite üleandmist, mis on omandajale vajalikud ja temale üle antud tulemuslikuks äritegevuseks;
+
+2\) jõustada teise asjaomase lepinguriigi kriisilahendusasutuse käesoleva lõike punktis 1 nimetatud teenuseid ja vahendeid konsolideerimisgruppi kuuluva Eestis asutatud isiku suhtes.
+
+(3) Käesoleva paragrahvi lõikes 2 nimetatud teenuseid osutatakse ja vahendeid antakse järgmistel tingimustel:
+
+1\) kui teenuseid osutati ja vahendid anti kriisilahendusmenetluses olevale krediidiasutusele vahetult enne kriisilahendusmeetme või -õiguse rakendamist lepingu alusel, siis samadel tingimustel kõnealuse lepingu kestuse jooksul;
+
+2\) kui lepingut ei ole või leping on lõppenud, siis mõistlikel tingimustel.
+
+#### § 47. Erihalduri määramine, tema õigused ja kohustused
+
+(1) Finantsinspektsioon võib, arvestades käesoleva seaduse § 41 lõikes 3 sätestatut, kriisilahendusmenetluse algatamise otsusega määrata erihalduri või erihaldurid, kui Finantsinspektsioon ei ole erihaldurit määranud seoses juhtorgani liikmete tagasikutsumisega.
+
+(2) Erihalduril on õigus esindada, juhtida ja kontrollida kriisilahendusmenetluses olevat krediidiasutust. Erihalduril on kõik krediidiasutuse aktsionäride ja juhtorganite õigused.
+
+(3) Erihalduril peavad olema krediidiasutuse juhtimiseks vajalikud teadmised, oskused, kogemused, haridus, kutsealane sobivus ja laitmatu ärialane maine.
+
+(4) Erihaldur on kohustatud tegutsema parimal võimalikul viisil, et kriis lahendada ja rakendada kriisilahendusmeetmeid või -õigusi kooskõlas Finantsinspektsiooni otsusega.
+
+(5) Finantsinspektsioon määrab erihalduri volitused, kusjuures võib nõuda, et erihalduri tehtavate otsuste rakendamiseks on vajalik Finantsinspektsiooni eelnev nõusolek.
+
+(6) Finantsinspektsioon saadab erihalduri määramise kohta viivitamata avalduse vastava kande tegemiseks krediidiasutuse asukohajärgsele äriregistrile ja sellesarnasele teadaolevale registrile lepinguriigis, kus on asutatud selle krediidiasutuse filiaal, lisades erihalduri nime, isikukoodi ja kontaktandmed.
+
+(7) Erihalduril on muu hulgas õigus:
+
+1\) peatada krediidiasutuse juhatuse või nõukogu otsuste täitmine;
+
+2\) valitseda krediidiasutuse Eestis või välisriigis asuvat või registreeritud vara, sealhulgas korraldada aktsiate või muude omandiõiguse instrumentide või vara, õiguste või kohustuste omandajale üleandmine;
+
+3\) teha muudatusi krediidiasutuse aktsionäride struktuuris;
+
+4\) suurendada krediidiasutuse aktsiakapitali, sealhulgas esitada äriregistrile avaldus aktsiakapitali suurendamise äriregistrisse kandmiseks koos äriseadustiku § 343 lõikes 1 nimetatud dokumentidega;
+
+5\) koostada krediidiasutuse tegevuse reorganiseerimise kava;
+
+6\) korraldada aktsiate või muude omandiõiguse instrumentide, vara, õiguste ja kohustuste omandajaga vajaliku teabe vahetamist või muu asjakohase abi andmist.
+
+(8) Erihaldur määratakse kuni üheks aastaks. Finantsinspektsioon võib tähtaega erandkorras pikendada, kui erihalduri määramise tingimused on jätkuvalt täidetud.
+
+(9) Finantsinspektsioon võib erihalduri igal ajal tagasi kutsuda ja määrata uue. Kui tegemist on konsolideerimisgruppi kuuluva krediidiasutusega, kaalub Finantsinspektsioon koos teise lepinguriigi kriisilahendusasutustega ühe erihalduri määramist terve grupi kohta.
+
+(10) Erihalduriga sõlmitud lepingust tulenevad õigused ja kohustused lõpevad vastavalt lepingule. Erihalduri lepingu ülesütlemisele kohaldatakse võlaõigusseaduses käsunduslepingu ülesütlemise kohta sätestatut.
+
+(11) Erihaldur vastutab oma kohustuste rikkumisega krediidiasutusele või tema aktsionärile või võlausaldajale ainult süüliselt tekitatud kahju eest. Erihalduri kohustuse täitmata jätmisest tuleneva kahju hüvitamise nõude aegumistähtaeg on kolm aastat arvates päevast, kui kannatanu sai teada kahjust ja erihalduri vastutuse aluseks olevatest asjaoludest, kuid mitte üle kolme aasta erihalduri volituste lõppemisest arvates.
+
+(12) Erihaldur esitab Finantsinspektsioonile 30 päeva jooksul ametisse määramisest arvates kirjaliku aruande krediidiasutuse varalise seisundi kohta ja erihalduri läbi viidud toimingute kohta (edaspidi käesolevas paragrahvis *tegevusaruanne*).
+
+(13) Valdkonna eest vastutav minister võib määrusega kehtestada tegevusaruande vormi.
+
+(14) Erihaldur on kohustatud esitama tegevusaruandeid Finantsinspektsiooni nõudmisel, kuid mitte harvem kui üks kord kuus.
+
+#### § 48. Krediidiasutuse tegevuse reorganiseerimise kava
+
+(1) Krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva ettevõtja juhatus või asjakohasel juhul erihaldur, kes on määratud vastutama juhtimise eest vastavalt käesoleva seaduse §-s 47 sätestatule (edaspidi käesolevas paragrahvis *juhatus*), peab ühe kuu jooksul kohustuste teisendamise meetme rakendamise otsuse tegemisest arvates koostama ja edastama Finantsinspektsioonile oma krediidiasutuse tegevuse reorganiseerimise kava (edaspidi *reorganiseerimiskava*), mis on kooskõlas Euroopa Liidu riigiabi reeglitega.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(2) Kui kohustuste teisendamise meedet on rakendatud vastavalt käesoleva seaduse § 56 lõike 1 punktis 1 sätestatule rohkem kui kahe samasse konsolideerimisgruppi kuuluva ettevõtja suhtes, koostab konsolideerimisgrupi emaettevõtja kõiki gruppi kuuluvaid ettevõtjaid hõlmava reorganiseerimiskava ning esitab selle konsolideerimisgrupi kriisilahendusasutusele.
+
+(3) Kui Finantsinspektsioon on konsolideerimisgrupi kriisilahendusasutus, esitab ta reorganiseerimiskava teiste asjaomaste lepinguriikide kriisilahendusasutustele ja Euroopa Pangandusjärelevalve Asutusele.
+
+(4) Finantsinspektsioon võib erandkorras pikendada käesoleva paragrahvi lõikes 1 sätestatud tähtaega kuni kahe kuuni, kui see on vajalik kriisilahenduse eesmärkide saavutamiseks. Kui reorganiseerimiskava kohaselt on vaja teavitada Euroopa Liidu riigiabist Euroopa Komisjoni, võib Finantsinspektsioon pikendada käesoleva paragrahvi lõikes 1 sätestatud tähtaega samuti kuni kahe kuuni või kuni tähtpäevani, mis tuleneb Euroopa Liidu riigiabi reeglitest, olenevalt kumb tähtaeg saabub varem.
+
+(5) Reorganiseerimiskavas tuleb kirjeldada neid meetmeid, mis on vajalikud krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva ettevõtja jätkusuutlikkuse taastamiseks või osalise äritegevuse taastamiseks mõistliku aja jooksul. Meetmed peavad põhinema reaalsetel eeldustel, võtma arvesse majanduslikku ja finantsturgu mõjutavat keskkonda, kus nimetatud krediidiasutus või temaga samasse konsolideerimisgruppi kuuluv ettevõtja tegutseb.
+
+(6) Lisaks käesoleva paragrahvi lõikes 5 sätestatule peab reorganiseerimiskava sisaldama vähemalt järgmist:
+
+1\) krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva ettevõtja maksejõuetuse või tõenäolise maksejõuetuse põhjuste üksikasjalik analüüs;
+
+2\) vajalike meetmete rakendamise ajakava;
+
+3\) kava mõju krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva ettevõtja töötajatele.
+
+(7) Reorganiseerimiskava koostamisel tuleb muu hulgas arvesse võtta finantsturgude hetkeolukorda ja tuleviku väljavaateid ning kava peab kajastama parima ja halvima stsenaariumi eeldusi, sealhulgas sündmuste kombinatsiooni, mis võimaldab välja selgitada krediidiasutuse peamised haavatavad kohad. Eeldusi võrreldakse vastava sektori asjakohaste baas- või alusnäitajatega.
+
+(8) Jätkusuutlikkuse taastamiseks rakendatavad meetmed võivad hõlmata järgmist:
+
+1\) krediidiasutuse sisemiste toimimissüsteemide ja infrastruktuuri muutmine;
+
+2\) selliste seniste tegevusalade arendamine, mida on võimalik konkurentsivõimeliseks muuta;
+
+3\) vara või äriliinide võõrandamine;
+
+4\) krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva isiku tegevusalade reorganiseerimine, sealhulgas loobumine kahjumlikest tegevusaladest.
+
+(9) Finantsinspektsioon hindab ühe kuu jooksul pärast reorganiseerimiskava esitamist, kui tõenäoline on, et sellise kava rakendamise korral taastatakse krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva ettevõtja jätkusuutlikkus.
+
+(10) Kui Finantsinspektsioon on veendunud, et kava saavutab käesoleva paragrahvi lõikes 9 nimetatud krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva ettevõtja pikaajalise jätkusuutlikkuse, esitab Finantsinspektsioon reorganiseerimiskava kinnitamiseks kohtule. Kava kinnitamisel kohaldatakse tsiviilkohtumenetluse seadustikus hagita menetluse kohta sätestatut.
+
+(11) Kui Finantsinspektsioon on veendunud, et reorganiseerimiskava ei saavuta käesoleva paragrahvi lõikes 9 nimetatud krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva ettevõtja pikaajalist jätkusuutlikkust, teavitab ta krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva isiku juhatust kavas esinevatest probleemidest ja nõuab, et kava vastavalt muudetaks.
+
+(12) Krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva ettevõtja juhatus peab esitama kahe nädala jooksul käesoleva paragrahvi lõikes 11 nimetatud hinnangu saamise kuupäevast arvates muudetud reorganiseerimiskava Finantsinspektsioonile heakskiitmiseks. Finantsinspektsioon hindab muudetud kava ja teavitab juhatust ühe nädala jooksul selle kättesaamisest arvates, kas väljatoodud probleemid on muudetud kavas lahendatud ning kas on vaja täiendavaid muudatusi.
+
+(13) Juhatus peab rakendama reorganiseerimiskava sellisel kujul, nagu Finantsinspektsioon selle heaks kiitis, ja esitama vähemalt iga kuue kuu tagant Finantsinspektsioonile aruande reorganiseerimiskava rakendamise edenemise kohta.
+
+(14) Kui Finantsinspektsiooni hinnangul on vaja reorganiseerimiskava korrigeerida käesoleva paragrahvi lõikes 9 sätestatud eesmärgi saavutamiseks, vaatab juhatus kava uuesti läbi ja esitab muudetud kava Finantsinspektsioonile uuesti hindamiseks.
+
+### 3. jagu — Teavitamisnõuded
+
+#### § 49. Võimalikust maksejõuetusest teavitamine
+
+(1) Krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva isiku juhatus peab teavitama Finantsinspektsiooni, kui krediidiasutus või temaga samasse konsolideerimisgruppi kuuluv isik on maksejõuetu või tõenäoliselt muutub maksejõuetuks käesoleva seaduse § 39 lõike 2 tähenduses.
+
+(2) Kui Finantsinspektsiooni hinnangul on kriisilahendusmeetmete ja -õiguste kasutamise tingimused vastavalt käesoleva seaduse § 39 lõike 1 punktidele 1 ja 2 täidetud, teavitab Finantsinspektsioon viivitamata sellest:
+
+1\) finantsjärelevalve asutusi, kes teostavad järelevalvet kriisilahendusmenetluses oleva krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva isiku üle, sealhulgas nende lepinguriikide finantsjärelevalve asutusi, kus asub krediidiasutuse filiaal;
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+2\) Eesti Panka;
+
+3\) Rahandusministeeriumi;
+
+4\) Tagatisfondi;
+
+5\) konsolideeritud järelevalvet tegevat asutust, kui krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva isiku suhtes kohaldatakse krediidiasutuste seaduse §-s 97 ning Finantsinspektsiooni seaduse §-des 47<sup>3</sup> ja 47<sup>5</sup> sätestatut;
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+6\) Euroopa Süsteemsete Riskide Nõukogu.
+
+(3) Finantsinspektsiooni teavitus selle kohta, kas ja milliseid kriisilahendusmeetmeid või -õigusi on vaja rakendada krediidiasutuse või vastava isiku puhul, peab sisaldama järgmist:
+
+1\) põhjendused, sealhulgas määratlus, mille kohaselt krediidiasutus vastab kriisilahendusmenetluse algatamise tingimustele;
+
+2\) kriisilahendusmeetmed või -õigused, mida Finantsinspektsioon kavatseb rakendada, sealhulgas asjakohasel juhul määratlus krediidiasutuse võimaliku lõpetamise ja likvideerimise kohta pankrotimenetluses.
+
+#### § 50. Teade kriisilahendusmenetluse algatamise otsuse kohta
+
+(1) Finantsinspektsioon teavitab kohe kriisilahendusmenetluse algatamise otsusest, mis sisaldab informatsiooni rakendatavatest kriislahendusmeetmetest või -õigustest ja nende rakendamise tähtaegasid:
+
+1\) kriisilahendusmenetluses olevat krediidiasutust;
+
+2\) finantsjärelevalve asutusi, kes teostavad järelevalvet kriisilahendusmenetluses oleva krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva isiku üle, sealhulgas nende lepinguriikide finantsjärelevalve asutusi, kus asub krediidiasutuse filiaal;
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+3\) Eesti Panka;
+
+4\) Rahandusministeeriumi;
+
+5\) Tagatisfondi;
+
+6\) asjakohasel juhul konsolideerimisgrupi kriisilahendusasutust;
+
+7\) Euroopa Süsteemsete Riskide Nõukogu;
+
+8\) Euroopa Komisjoni;
+
+9\) Euroopa Keskpanka;
+
+10\) Euroopa Pangandusjärelevalve Asutust, Euroopa Väärtpaberiturujärelevalve Asutust ning Euroopa Kindlustus- ja Tööandjapensionide Järelevalve Asutust;
+
+11\) makse- või arveldussüsteemi korraldajat, kui kriisilahendusmenetluses osalev isik on makse- ja arveldussüsteemide seaduses määratletud arveldussüsteemis osaleja.
+
+\[RT I, 01.03.2023, 3 - jõust. 11.03.2023\]
+
+(2) Teade sisaldab informatsiooni rakendatavatest kriislahendusmeetmetest või -õigustest ja nende rakendamise tähtaegasid.
+
+(3) Finantsinspektsioon avaldab teate käesoleva seaduse §-s 41 nimetatud kriisilahendusmenetluse algatamise otsuse vastuvõtmise kohta ja teabe kriisilahendusmeetmete või -õiguste tagajärgede ning mõju kohta klientidele oma veebilehel. Finantsinspektsioon peab tagama, et eeltoodud informatsioon avaldatakse ka Euroopa Pangandusjärelevalve Asutuse veebilehel ja kriisilahendusmenetluses oleva krediidiasutuse veebilehel.
+
+(4) Käesoleva paragrahvi lõiget 3 kohaldatakse kriisilahendusmenetluse käigus iga täiendavalt rakendatud kriisilahendusmeetme või -õiguse rakendamise kohta.
+
+(5) Teate kriisilahendusmenetluse algatamise ja kriisilahendusmeetmete või -õiguste rakendamise võimalike tagajärgede ning mõju kohta klientidele avaldab Finantsinspektsioon ka Ametlikes Teadaannetes ja muudes massiteabevahendites.
+
+(6) Kui kriisilahendusmenetluses oleva krediidiasutuse aktsiad või muud omandiõiguse või võlainstrumendid on võetud reguleeritud väärtpaberiturul kauplemisele, avaldatakse teave kriisilahendusmenetluse algatamise kohta teabe avaldamiseks kasutatavas meediakanalis kooskõlas Euroopa Parlamendi ja nõukogu direktiivi 2004/109/EÜ läbipaistvuse nõuete ühtlustamise kohta teabele, mis kuulub avaldamisele emitentide kohta, kelle väärtpaberid on lubatud reguleeritud turul kauplemisele, ning millega muudetakse direktiivi 2001/34/EÜ (ELT L 390, 31.12.2004, lk 38–57), artikli 21 lõikega 1.
+
+(7) Kui kriisilahendusmenetluses oleva krediidiasutuse aktsiad või muud omandiõiguse- või võlainstrumendid ei ole võetud reguleeritud väärtpaberiturul kauplemisele, tagab Finantsinspektsioon, et teade kriisilahendusmenetluse algatamise kohta saadetakse kriisilahendusmenetluses oleva krediidiasutuse teadaolevatele aktsionäridele ja võlausaldajatele, kelle andmed on Finantsinspektsioonile kättesaadavad registrite või andmebaaside kaudu.
+
+#### § 51. Konfidentsiaalsusnõuded
+
+(1) Varajase sekkumise meetmete rakendamise, kriislahendusmenetluse käigus või muu käesolevas seaduses sätestatud tegevuse käigus saadud dokumente, teavet ja selgitusi (edaspidi käesolevas paragrahvis *informatsioon*) tuleb hoida konfidentsiaalsena. Nimetatud informatsiooni ei või edastada kolmandatele isikutele, välja arvatud juhul, kui:
+
+1\) see on vajalik käesolevas seaduses sätestatud kohustuste täitmiseks või varajase sekkumise meetmete, kriisilahendusmeetmete või -õiguste rakendamiseks;
+
+2\) informatsiooni esitatakse või edastatakse sellisel kujul, mille põhjal ei ole võimalik tuvastada krediidiasutuse või temaga ühte konsolideerimisgruppi kuuluva isiku üksikandmeid, või
+
+3\) krediidiasutus või temaga ühte konsolideerimisgruppi kuuluv isik on andnud eelneva nõusoleku informatsiooni edastamiseks.
+
+(2) Käesolevas paragrahvis sätestatu ei takista Finantsinspektsioonil edastada nimetatud informatsiooni Rahandusministeeriumile, Eesti Pangale, Tagatisfondile, ajutisele erihaldurile, erihaldurile, moratooriumihaldurile, pankrotihaldurile, audiitoritele, võimalikele kriisilahendusmenetluses oleva krediidiasutuse aktsiate omandajatele, teiste lepinguriikide kriisilahendusasutustele, keskpankadele, ministeeriumidele, kriisilahendusfondidele ja Euroopa Pangandusjärelevalve Asutusele või kolmandate riikide kriisilahendusasutustele.
+
+(2<sup>1</sup>) Käesolevas paragrahvis sätestatu ei takista Finantsinspektsioonil edastada nimetatud informatsiooni Riigikontrollile, kui Riigikontroll vajab teavet, et hinnata Finantsinspektsiooni juhtimise tulemuslikkust finantskriisi ennetamise või lahendamise meetmete kohaldamisel.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2<sup>2</sup>) Teise lepinguriigi pädevalt kriisilahendusasutuselt või Ühtselt Kriisilahendusnõukogult saadud teavet võib avaldada Riigikontrollile üksnes teabe edastanud asutuse selgesõnalisel nõusolekul ja üksnes eesmärkidel, millega see asutus on nõustunud.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(3) Kui Finantsinspektsiooni seaduse § 5<sup>1</sup> lõike 4 alusel kehtestatud sise-eeskirju teabevahetuse kohta on rikutud, hindab Finantsinspektsioon koostöös Eesti Pangaga rikkumise mõju finants-, rahandus- ja majanduspoliitikaga seonduvatele avalikele huvidele, füüsiliste ja juriidiliste isikute majanduslikele huvidele ning kontrollidele, uurimisele või audiitorkontrollile. Teabe avaldamise mõju hindamine hõlmab finantsseisundi taastamise ja kriisilahenduskavade ning kriisilahenduskõlblikkuse hindamise tulemuste avaldamise mõju eraldi hindamist.
+
+\[RT I, 10.01.2019, 1 - jõust. 20.01.2019\]
+
+## 5. peatükk — Varalise seisundi hindamine
+
+### § 52. Varalise seisundi hindamise eesmärk ja tingimused
+
+(1) Enne kriislahendusmeetme või kapitaliinstrumentide ja kõlblike kohustuste allahindamise või teisendamise õiguse rakendamist viiakse läbi krediidiasutuse, tema tütarettevõtjast finantseerimisasutuse või samasse konsolideerimisgruppi kuuluva finantsvaldusettevõtja, segafinantsvaldusettevõtja või segavaldusettevõtja varalise seisundi hindamine (edaspidi käesolevas paragrahvis *hindamine*).
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2) Hindamise eesmärk on käesoleva seaduse §-s 39 sätestatud kriisilahenduse tingimustele vastava krediidiasutuse või käesoleva paragrahvi lõikes 1 nimetatud temaga samasse konsolideerimisgruppi kuuluva isiku vara ja kohustuste väärtuse kindlakstegemine. Finantsinspektsioon määrab varalise seisundi hindamiseks sõltumatu eksperdi.
+
+(3) Hindamine viiakse läbi, et otsustada:
+
+1\) kas kriisilahendusmenetluseks vajalikud tingimused või kapitaliinstrumentide ja kõlblike kohustuste allahindamise või teisendamise tingimused on täidetud;
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+2\) sobivaima kriisilahendusmeetme või -õiguse rakendamise üle;
+
+3\) aktsiate tühistamise või nende väärtuse alandamise ulatus ja kapitaliinstrumentide ja kõlblike kohustuste allahindamise või teisendamise ulatus, kui rakendatakse kapitaliinstrumentide ja kõlblike kohustuste allahindamise või teisendamise õigust;
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+4\) teisendatavate kohustuste allahindamise või teisendamise ulatus, kui rakendatakse kohustuste ja nõudeõiguste teisendamise meedet;
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+5\) vara, õiguste, kohustuste või aktsiate üleandmine või aktsionäridele makstav hüvitis, kui rakendatakse sildasutuse loomise või varade eraldamise meedet;
+
+6\) vara, õiguste, kohustuste või aktsiate üleandmine ja käesoleva seaduse § 59 kohaselt turutingimuste kindlaksmääramine, kui rakendatakse aktsiate ja varade võõrandamise meedet;
+
+7\) kahjumi arvessevõtmine täies ulatuses kriisilahendusmeetme või -õiguse rakendamisel.
+
+(4) Hindamine peab põhinema usaldusväärsetel eeldustel, sealhulgas tuleb arvesse võtta krediidiasutuse likvideerimise võimalust ja kõikvõimalike kahjude ulatust. Hindamisel ei tohi arvestada võimaliku erakorralise avaliku finantstoetusega, erakorralise likviidsuslaenu ega muu Eesti Panga erakorralise toetusega.
+
+(5) Hindamisel võetakse arvesse kriisilahendusmenetluse läbiviimisel tekkivad põhjendatud kulud kooskõlas käesoleva seaduse § 55 lõikega 6 ja Tagatisfondi poolt kriisilahendusmenetluses olevale krediidiasutusele antud laenudelt ja tagatistelt tasutud intressid või muud tasud.
+
+\[RT I, 10.01.2019, 1 - jõust. 20.01.2019\]
+
+(6) Hindamisaktile lisatakse järgmine teave:
+
+1\) krediidiasutuse või muu käesoleva paragrahvi lõikes 1 nimetatud isiku raamatupidamise aruanded ajakohase seisuga;
+
+2\) analüüs ja hinnang vara raamatupidamisliku väärtuse kohta;
+
+3\) vajaduse korral analüüs ja hinnang vara ja kohustuste turuväärtuse kohta;
+
+4\) raamatupidamisarvestuses ja -dokumentides kajastatud bilansiliste ja bilansiväliste kohustuste loetelu, milles on märgitud ka nende rahuldamisjärgud;
+
+5\) võlausaldajate jagamine klassidesse vastavalt nende nõuete rahuldamisjärkudele ning hinnang, kuidas aktsionäride ja võlausaldajate klasse oleks eeldatavalt koheldud, kui krediidiasutus või muu käesoleva paragrahvi lõikes 1 nimetatud isik oleks lõpetatud ja likvideeritud pankrotimenetluses.
+
+(7) Hindamine on lahutamatu osa Finantsinspektsiooni otsusest rakendada kriisilahendusmeetmeid või -õigusi, sealhulgas otsusest kasutada kapitaliinstrumentide ja kõlblike kohustuste allahindamise või teisendamise õigust. Hindamine ei anna iseseisvat kaebeõigust.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+### § 53. Varalise seisundi esialgne ja järelhindamine
+
+(1) Finantsinspektsioon viib läbi krediidiasutuse või käesoleva seaduse § 52 lõikes 1 nimetatud isiku varalise seisundi esialgse hindamise (edaspidi *esialgne hindamine*), kui:
+
+1\) ei ole võimalik läbi viia hindamist sõltumatu eksperdi poolt või
+
+2\) ajapuuduse tõttu ei ole käesoleva seaduse § 52 lõikes 6 nimetatud kogu teavet võimalik koguda.
+
+(2) Esialgsel hindamisel arvestatakse kõikvõimalikke kahjumeid koos asjakohaste põhjendustega.
+
+(3) Esialgse hindamise tulemused on põhjendatud alus kriisilahendusmenetluse algatamise otsuse tegemisel, samuti erihalduri määramisel või kapitaliinstrumentide ja kõlblike kohustuste allahindamise või teisendamise õiguse rakendamisel.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(4) Kui hindamine ei vasta kõigile käesoleva seaduse §-s 52 sätestatud nõuetele, peetakse seda esialgseks seni, kuni sõltumatu isik viib läbi hindamise, mis vastab kõigile käesoleva seaduse §-s 52 sätestatud nõuetele (edaspidi *lõplik järelhindamine*). Lõplik järelhindamine viiakse läbi mõistliku aja jooksul. Lõplik järelhindamine võidakse läbi viia käesoleva seaduse §-s 54 sätestatud aktsionäride ja võlausaldajate nõutud hindamisest eraldi või sellega koos ning sama sõltumatu isiku poolt, kuid lõplik järelhindamine peab toimuma eraldiseisvalt.
+
+(5) Lõpliku järelhindamise eesmärk on:
+
+1\) tagada, et krediidiasutuse või muu käesoleva seaduse § 52 lõikes 1 nimetatud isiku vara vähendav kahjum võetakse nimetatud isiku raamatupidamisarvestuses täies ulatuses arvesse;
+
+2\) saada teavet selleks, et teha otsus võlausaldajate nõuete taastamiseks või hüvitise suurendamiseks vastavalt käesoleva paragrahvi lõikele 6.
+
+(6) Kui lõpliku järelhindamise tulemuse kohaselt on krediidiasutuse või muu käesoleva seaduse § 52 lõikes 1 nimetatud isiku vara netoväärtus suurem kui esialgse hindamise käigus leitud väärtus, võib Finantsinspektsioon:
+
+1\) kasutada õigust suurendada võlausaldajate või aktsionäride nõuete ja instrumentide väärtust, mis on kohustuste ja nõudeõiguste teisendamise meetme rakendamise käigus varem alla hinnatud;
+
+2\) anda sildasutusele või vara valitsemise ettevõtjale korralduse suurendada võlausaldajatele või käesoleva seaduse § 80 kohaselt aktsionäridele seoses kriisilahendusmenetluses oleva krediidiasutuse vara, õiguste ja kohustuste või aktsiatega makstavat hüvitist.
+
+### § 54. Täiendav hindamine
+
+(1) Lisaks käesoleva seaduse §-des 52 ja 53 sätestatud hindamisele tuleb läbi viia täiendav eraldiseisev hindamine sõltumatu eksperdi poolt. Täiendav hindamine viiakse läbi esimesel võimalusel pärast kriisilahendusmeetme või kapitaliinstrumentide allahindamise või teisendamise õiguse rakendamist eesmärgiga teha kindlaks, millises ulatuses erineb kriisilahendusmenetluse algatamise otsuse alusel aktsionäride või võlausaldajate, sealhulgas Tagatisfondi, tegelik faktiline kohtlemine olukorrast, kui kriisilahendusmenetluse algatamise otsuse tegemise päeval oleks tehtud kohtumäärus pankroti väljakuulutamise kohta.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2) Täiendaval hindamisel eeldatakse, et kriisilahendusmenetluse algatamise otsuse tegemise päeval tehti kohtumäärus pankroti väljakuulutamise kohta ja kriisilahendusmeetmeid või -õigusi ei rakendatud.
+
+(3) Täiendaval hindamisel ei tohi arvestada võimaliku erakorralise avaliku finantstoetusega, erakorralise likviidsuslaenu ega muu Eesti Panga finantstoetusega.
+
+## 6. peatükk — Kriisilahendusmeetmed ja -õigused
+
+### 1. jagu — Üldsätted
+
+#### § 55. Kriisilahendusmeetmete ja -õiguste rakendamise üldpõhimõtted
+
+(1) Finantsinspektsioon võib rakendada järgmisi kriisilahendusmeetmeid:
+
+1\) aktsiate ja netovara (edaspidi *aktsiad ja varad*) võõrandamine;
+
+2\) sildasutuse loomine;
+
+3\) vara eraldamine;
+
+4\) kohustuste ja nõudeõiguste teisendamine.
+
+(2) Kui käesoleva paragrahvi lõikes 1 nimetatud meetme rakendamise tulemusena kannavad võlausaldajad kahjusid või nende nõudeid teisendatakse, peab Finantsinspektsioon rakendama kapitaliinstrumentide ja kõlblike kohustuste allahindamise ja teisendamise õigust vastavalt käesoleva peatüki 2. jaos sätestatule koos nimetatud kriisilahendusmeetme rakendamisega või vahetult enne seda.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(3) Kui krediidiasutus vastab kriisilahendusmenetluse algatamise tingimustele ja Finantsinspektsioon otsustab tema suhtes algatada kriisilahendusmenetluse, peab Finantsinspektsioon kohaldama kapitaliinstrumentide ja kõlblike kohustuste allahindamist või teisendamist kooskõlas käesoleva peatüki 2. jaos sätestatuga.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(4) Finantsinspektsioon võib kriisilahendusmeetmeid rakendada koos või eraldi, välja arvatud vara eraldamise meedet, mida võib rakendada üksnes koos mõne teise kriisilahendusmeetme rakendamisega.
+
+(5) Kui rakendatakse üksnes käesoleva paragrahvi lõike 1 punktis 1 või 2 nimetatud kriisilahendusmeedet ja seda meedet rakendatakse kriisilahendusmenetluses oleva krediidiasutuse, tema tütarettevõtjast finantseerimisasutuse või samasse konsolideerimisgruppi kuuluva finantsvaldusettevõtja, segafinantsvaldusettevõtja või segavaldusettevõtja vara, õiguste või kohustuste osaliseks võõrandamiseks, siis lõpetatakse ja likvideeritakse isik, kelle varad, õigused või kohustused üle anti, pankrotimenetluse käigus. Nimetatud isiku lõpetamine ja likvideerimine viiakse läbi mõistliku aja jooksul, kusjuures võetakse arvesse teenuste osutamise vajadust vastavalt käesoleva seaduse §-s 46 sätestatule ja muid põhjusi, mis näitavad, et nimetatud isiku tegevuse jätkamine teatud aja jooksul aitab kaasa kriisilahendamise eesmärkide saavutamisele.
+
+(6) Finantsinspektsioon, Rahandusministeerium või Tagatisfond võib nõuda sisse kõik kriisilahendusmeetmete või -õiguste rakendamisel või erakorralise avaliku finantstoetuse osutamisel tekkinud mõistlikud kulud järgmisel viisil:
+
+1\) lahutada vastava kulu maha makstavate hüvitiste summast;
+
+2\) nõuda see sisse kriisilahendusmenetluses olevalt krediidiasutustelt või
+
+3\) lahutada vastava kulu sildasutuse või varade valitsemise ettevõtja tegevuse lõpetamisel tekkinud tulust.
+
+(6<sup>1</sup>) Kulude sissenõudmisel eelistatakse sissenõudmist käesoleva paragrahvi lõike 6 punktides 2 ja 3 nimetatud isikutelt.
+
+\[RT I, 10.01.2019, 1 - jõust. 20.01.2019\]
+
+(7) Finantsinspektsioon võib kehtestada moratooriumi, teha ettepaneku krediidiasutuse aktsiate sundvõõrandamiseks või rakendada muid käesoleva paragrahvi lõigetes 1 ja 2 nimetamata kriisilahendusmeetmeid ja -õigusi, kui on täidetud järgmised tingimused:
+
+1\) see ei takista käesolevas seaduses ette nähtud kriisilahendusmenetluse efektiivset läbiviimist konsolideerimisgrupi puhul;
+
+2\) see on kooskõlas käesoleva seaduse §-des 4 ja 40 nimetatud kriisilahendamise eesmärkidega ja kriisilahendusmenetluse üldpõhimõtetega.
+
+(8) Erakorralist avalikku finantstoetust võib taotleda vastavalt käesoleva seaduse §-s 79 sätestatule, kui on esinenud süsteemse finantskriisi ilminguid ja kui on täidetud järgmised tingimused:
+
+1\) krediidiasutuse aktsionärid ja võlausaldajad on kahjumi katmise või kapitali taastamise eesmärgil panustanud kohustuste, sealhulgas teisendatavate kohustuste või kapitaliinstrumentide allahindamiseks, teisendamiseks või muul otstarbel kaheksa protsendi ulatuses krediidiasutuse kohustuste kogusummast, kaasa arvatud omavahenditest;
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+2\) see on tingimuslik enne lõpliku heakskiidu saamist vastavalt Euroopa Liidu riigiabi reeglitele.
+
+(9) Finantsinspektsiooni rakendatud kriisilahendusmeetmete või -õiguste suhtes ei kohaldata pankrotiseaduse §-des 110–116 sätestatut.
+
+(10) Kriisilahendusmeetmete või -õiguste rakendamisel ei kohaldata äriseadustiku §-des 246, 247–249, 249<sup>1</sup>, 292, 294, 294<sup>1</sup>, 298 ja 339–342, § 343 lõike 1 punktides 1 ja 2, §-des 345, 349, 352–356 ja 358, § 359 lõike 1 punktides 1 ja 2<sup>2</sup> ning lõikes 2 ja §-s 361 sätestatut.
+
+\[RT I, 23.12.2022, 2 - jõust. 01.02.2023\]
+
+(11) Kriisilahendusmeetmete või -õiguste rakendamisel ei kohaldata ümberkujundamise, ühinemise ega jagunemise puhul aktsionäride õiguste suhtes äriseadustikus sätestatut, sealhulgas äriseadustiku §-des 391–405 ja 418–427 aktsiaseltsi ühinemise, §-des 433<sup>1</sup>–433<sup>10</sup> piiriülese ühinemise, §-des 462–471 aktsiaseltsi jagunemise, §-des 477<sup>1</sup>–477<sup>10</sup> piiriülese jagunemise, §-des 502–504 aktsiaseltsi ümberkujundamise ning §-des 491<sup>1</sup>–491<sup>10</sup> piiriülese ümberkujundamise kohta sätestatut.
+
+\[RT I, 23.12.2022, 2 - jõust. 01.02.2023\]
+
+(11<sup>1</sup>) Kui kriisilahendusmeetmete või -õiguste rakendamise tulemusel krediidiasutus ühineb või jaguneb, ei kohaldata tema suhtes krediidiasutuste seaduse 6. peatüki 1. jaos sätestatut, välja arvatud juhul, kui käesolevas seaduses on sätestatud teisiti.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+(12) Kui aktsiate, muude omandiõiguse instrumentide, muude õiguste või kohustuste üleandmine hõlmab vara, mis asub teises lepinguriigis, või õigusi või kohustusi reguleeritakse teise lepinguriigi õigusaktidega, toimub üleandmine teise lepinguriigi õiguse kohaselt.
+
+### 2. jagu — Kapitaliinstrumentide ja kõlblike kohustuste allahindamine ja teisendamine
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+#### § 56. Kapitaliinstrumentide ja kõlblike kohustuste allahindamine ja teisendamine
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(1) Finantsinspektsioon võib nõuda krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva isiku kapitaliinstrumentide ja kõlblike kohustuste allahindamist või teisendamist aktsiateks või muudeks omandiõiguse instrumentideks juhul, kui esineb vähemalt üks järgmistest tingimustest:
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+1\) on täidetud kriisilahendusmenetluse algatamise tingimused ja järgitud kriisilahendusmenetluse üldpõhimõtteid vastavalt käesoleva seaduse §-des 39, 39<sup>1</sup> ja 40 sätestatule;
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+2\) Finantsinspektsioon on teinud kindlaks, et kapitaliinstrumentide ja kõlblike kohustuste allahindamiseta või teisendamiseta ei ole krediidiasutus või temaga samasse konsolideerimisgruppi kuuluv isik jätkusuutlik;
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+3\) need kapitaliinstrumendid on emiteerinud konsolideerimisgrupi tütarettevõtja ja neid arvestatakse omavahendite nõude täitmisel nii individuaalsel kui ka konsolideeritud alusel ning Finantsinspektsioon koos konsolideeritud finantsjärelevalvet teostava lepinguriigi pädeva asutusega on käesoleva seaduse 9. peatüki kohaselt kindlaks teinud, et nende kapitaliinstrumentide allahindamiseta või teisendamiseta ei ole konsolideerimisgrupp jätkusuutlik;
+
+4\) need kapitaliinstrumendid on emiteerinud konsolideerimisgrupi emaettevõtja ja neid arvestatakse emaettevõtja omavahendite nõude täitmisel nii individuaalsel kui ka konsolideeritud alusel ning konsolideeritud finantsjärelevalvet teostava lepinguriigi pädev asutus on kindlaks teinud, et nende kapitaliinstrumentide allahindamiseta või teisendamiseta ei ole konsolideerimisgrupp jätkusuutlik;
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+5\) krediidiasutus või temaga samasse konsolideerimisgruppi kuuluv isik on taotlenud erakorralist avalikku finantstoetust.
+
+(1<sup>1</sup>) Finantsinspektsioon võtab kapitaliinstrumentide ja kõlblike kohustuste allahindamise või teisendamise õiguse rakendamise otsustamisel aluseks käesoleva seaduse §-s 52 sätestatud krediidiasutuse varalise seisundi hindamise eesmärke ja tingimusi.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(1<sup>2</sup>) Lisaks käesoleva paragrahvi lõikes 1<sup>1</sup> sätestatule peab Finantsinspektsioon võtma kapitaliinstrumentide ja kõlblike kohustuste allahindamise või teisendamise õiguse rakendamise otsustamisel aluseks:
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+1\) summa, mille võrra tuleb krediidiasutuse esimese taseme põhiomavahendeid vähendada ja asjaomaseid kapitaliinstrumente ja kõlblikke kohustusi alla hinnata või teisendada, arvestades käesoleva seaduse § 57 lõikes 4 sätestatud nõuete rahuldamisjärke krediidiasutuse pankrotimenetluses;
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+2\) kogusumma, mille Finantsinspektsioon on kindlaks teinud kooskõlas käesoleva seaduse §-ga 73.
+
+\[RT I, 10.01.2019, 1 - jõust. 20.01.2019\]
+
+(1<sup>3</sup>) Finantsinspektsioon võib kasutada kapitaliinstrumentide ja kõlblike kohustuste allahindamise või teisendamise õigust kriisilahendusmeetmest sõltumatult üksnes seoses kõlblike kohustustega, mis vastavad käesoleva seaduse § 19 lõike 8 punktis 1 nimetatud tingimustele, välja arvatud kohustuste järelejäänud tähtajaga seotud tingimus tulenevalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 72c lõikest 1 ning kooskõlas käesoleva seaduse § 40 lõike 1 punktiga 7.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(1<sup>4</sup>) Kui kriisilahendussubjekt on kapitaliinstrumendid ja kõlblikud kohustused ostnud kaudselt sama kriisilahenduse konsolideerimisgrupi teiste ettevõtjate kaudu, kasutatakse kapitaliinstrumentide ja kõlblike kohustuste allahindamise või teisendamise õigust koos sama õiguse kasutamisega selle ettevõtja emaettevõtja tasandil või muude emaettevõtjate tasandil, kes ei ole kriisilahendussubjektid, nii et kahjum kantakse üle kriisilahendussubjektile ja kriisilahendussubjekt rekapitaliseerib vastava krediidiasutuse.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(1<sup>5</sup>) Kui Finantsinspektsioon rakendab kriisilahendusmeedet kriisilahendussubjekti suhtes või erandlikel asjaoludel kriisilahenduskavast kõrvale kaldudes ettevõtja suhtes, kes ei ole kriisilahendussubjekt, võtab Finantsinspektsioon kooskõlas käesoleva seaduse § 57 lõikega 4 sellise ettevõtja tasandil vähendatud, allahinnatud või teisendatud summat arvesse § 55 lõikes 8 või § 78 lõikes 3 või lõike 6 punktis 1 sätestatud künniste puhul, mida kohaldatakse asjaomasele ettevõtjale.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(2) Kapitaliinstrumentide ja kõlblike kohustuste allahindamisel või teisendamisel käsitletakse krediidiasutust või temaga samasse konsolideerimisgruppi kuuluvat isikut või kogu konsolideerimisgruppi jätkusuutmatuna üksnes juhul, kui nimetatud krediidiasutus, isik või konsolideerimisgrupp on maksejõuetu või tema maksejõuetus on tõenäoline ning eraõiguslikud meetmed või järelevalvemeetmed ei aita krediidiasutuse maksejõuetust mõistliku aja jooksul ära hoida.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(3) Konsolideerimisgruppi kuuluva tütarettevõtja emiteeritud kapitaliinstrumente ja emaettevõtja emiteeritud sama järgu kapitaliinstrumente hinnatakse alla või teisendatakse samadel tingimustel.
+
+(4) Kui Finantsinspektsioon on kindlaks teinud käesoleva paragrahvi lõike 1 punktis 3, 4 või 5 nimetatud asjaolud krediidiasutuse või piiriüleselt tegutseva konsolideerimisgrupi kohta, võtab Finantsinspektsioon otsuse tegemisel arvesse kriisilahendusmenetluse võimalikku mõju kõigis lepinguriikides, kus krediidiasutus või konsolideerimisgrupp tegutseb.
+
+(5) Kui Finantsinspektsioon rakendab kapitaliinstrumentide ja kõlblike kohustuste allahindamise või teisendamise õigust, teavitab ta sellest kohe Rahandusministeeriumi.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(6) Finantsinspektsioon rakendab kapitaliinstrumentide ja kõlblike kohustuste allahindamise või teisendamise õigust, kui:
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+1\) kapitaliinstrumendid on emiteerinud Eestis tegevusloa saanud või Eestis asutatud krediidiasutus või temaga samasse konsolideerimisgruppi kuuluv isik ja vastavaid kapitaliinstrumente võetakse arvesse krediidiasutuse omavahendite nõude täitmisel individuaalsel alusel kooskõlas Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikliga 92;
+
+2\) kapitaliinstrumendid või kõlblikud kohustused on emiteerinud krediidiasutus, kelle üle Finantsinspektsioon teostab konsolideeritud finantsjärelevalvet.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(7) Enne kui Finantsinspektsioon rakendab kapitaliinstrumentide ja kõlblike kohustuste allahindamise või teisendamise õigust ja on leidnud, et käesoleva paragrahvi lõike 1 punktides 2–5 nimetatud tingimused on täidetud, edastab ta teate koos põhjendustega konsolideerimisgrupiga seotud teiste asjaomaste lepinguriikide kriisilahendusasutustele ja finantsjärelevalve asutustele.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+#### § 57. Kapitaliinstrumentide ja kõlblike kohustuste allahindamise või teisendamise õiguse rakendamine
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(1) Kapitaliinstrumentide ja kõlblike kohustuste allahindamise või teisendamise õiguse rakendamisel võetakse aluseks käesoleva seaduse 5. peatüki kohaselt läbi viidud varalise seisundi hindamise andmed kahjumi katmiseks vajaliku taseme kohta, mis võimaldab krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva isiku rekapitaliseerida.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2) Kapitaliinstrumentide ja kõlblike kohustuste allahindamisel või teisendamisel rakendatakse aktsiate ja muude omandiõiguse instrumentide suhtes ühte või mõlemat järgmist meedet:
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+1\) tühistatakse olemasolevad aktsiad või muud omandiõiguse instrumendid või need antakse üle võlausaldajatele, kelle nõuete suhtes kohaldatakse kohustuste ja nõudeõiguste teisendamise meedet;
+
+2\) vähendatakse olulisel määral aktsiate ja muude omandiõiguse instrumentide arvestuslikku väärtust, kui kriisilahendusmenetluses oleva krediidiasutuse netovara väärtus on positiivne.
+
+(3) Käesoleva paragrahvi lõikes 2 sätestatut kohaldatakse, kui aktsiad või muud omandiõiguse instrumendid emiteeriti või anti:
+
+1\) seoses võlainstrumentide teisendamisega aktsiateks või muudeks omandiõiguse instrumentideks algsete võlainstrumentide lepinguliste tingimuste alusel sündmuse korral, mis eelnes käesoleva seaduse §-s 52 nimetatud varalise seisundi hindamisele;
+
+2\) seoses kapitaliinstrumentide ja kõlblike kohustuste teisendamisega esimese taseme põhiomavahendite instrumentideks.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(4) Kapitaliinstrumentide ja kõlblike kohustuste allahindamist või teisendamist rakendatakse kriisilahendusmenetluses vastavalt nõuete rahuldamisjärkudele krediidiasutuse pankrotimenetluses järgmises järjekorras:
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+1\) esimese taseme põhiomavahendeid vähendatakse esimesena proportsionaalselt kahjumiga ning kuni nende ammendumiseni kohaldatakse käesoleva paragrahvi lõikes 2 nimetatud üht või mõlemat meedet;
+
+2\) täiendavate esimese taseme põhiomavahendite instrumentide põhisumma hinnatakse alla või teisendatakse esimese taseme põhiomavahendite instrumentideks või tehakse mõlemat vajalikus ulatuses, et saavutada kriisilahenduse eesmärgid, või kuni nende instrumentide ammendumiseni, olenevalt sellest, millise toimingu väärtus on väiksem;
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+3\) käesoleva seaduse § 56 lõikes 1<sup>4</sup> nimetatud teise taseme omavahendite instrumentide põhisumma hinnatakse alla või teisendatakse esimese taseme põhiomavahendite instrumentideks või tehakse mõlemat vajalikus ulatuses, et saavutada § 4 lõikes 1 nimetatud kriisilahenduse eesmärgid, või kuni nende instrumentide ammendumiseni, olenevalt sellest, millise toimingu väärtus on väiksem;
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+4\) käesoleva seaduse § 56 lõikes 1<sup>4</sup> nimetatud kõlblike kohustuste põhisumma hinnatakse alla või teisendatakse esimese taseme põhiomavahendite instrumentideks või tehakse mõlemat vajalikus ulatuses, et saavutada § 4 lõikes 1 nimetatud kriisilahenduse eesmärgid, või kuni kõlblike kohustuste ammendumiseni, olenevalt sellest, kumma väärtus on väiksem.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(5) Käesoleva seaduse § 56 lõikes 1<sup>4</sup> nimetatud kapitaliinstrumentide ja kõlblike kohustuste põhisumma allahindamisel on põhisumma vähendamine püsiv ja kooskõlas § 73 lõikes 3 ette nähtud võimaliku üleshindamismehhanismi kohaldamisega ning kapitaliinstrumendi ja kõlblike kohustuste omanikul ei ole nõudeõigusi seoses allahinnatud instrumendi summaga, välja arvatud juhul, kui instrumentide omanikud ei saa hüvitist vastavalt käesoleva paragrahvi lõikes 7 sätestatule või kahju eest, mis tuleneb varem tekkinud kohustuste täitmisest või kapitaliinstrumendi või kõlblike kohustuste põhisumma allahindamisest. Käesolev nõue ei kohaldu olemasolevate kohustuste ning kahjude eest tekkinud vastutuse suhtes, mis võib tekkida allahindamise õiguse kasutamise õiguspärasuse kontrollimiseks esitatud kaebuse tagajärjel.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(6) Kapitaliinstrumente ja kõlblikke kohustusi võib teisendada üksnes juhul, kui on täidetud järgmised tingimused:
+
+\[RT I, 30.11.2022, 1 - jõust. 10.12.2022\]
+
+1\) need esimese taseme põhiomavahendite instrumendid on emiteerinud krediidiasutus või temaga samasse konsolideerimisgruppi kuuluv isik kokkuleppel Finantsinspektsiooniga või kohaldatavuse korral teise lepinguriigi kriisilahendusasutusega;
+
+2\) need esimese taseme põhiomavahendite instrumendid emiteeritakse enne seda, kui krediidiasutus või temaga samasse konsolideerimisgruppi kuuluv isik on emiteerinud aktsiaid või omandiõiguse instrumente eesmärgil, et riik või valitsusasutus saaks teha sissemakseid omavahendite suurendamiseks;
+
+3\) need esimese taseme põhiomavahendite instrumendid antakse üle viivitamata pärast teisendamise õiguse kasutamist;
+
+4\) teisendamise määr, millega määratakse kindlaks iga kapitaliinstrumendiga või kõlbliku kohustusega seoses pakutavate esimese taseme põhiomavahendite instrumentide arv, on kooskõlas käesoleva seaduse §-s 75 sätestatud põhimõtetega ja Euroopa Pangandusjärelevalve Asutuse vastavate suunistega.
+
+\[RT I, 30.11.2022, 1 - jõust. 10.12.2022\]
+
+(6<sup>1</sup>) Kui Finantsinspektsioon kavatseb vara võõrandada sildasutusele, tuleb kapitaliinstrumentide ja kõlblike kohustuste allahindamisel arvestada sildasutuse hilisemat täiendavat kapitalivajadust.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(7) Finantsinspektsioon võib nõuda krediidiasutuselt või temaga samasse konsolideerimisgruppi kuuluvalt isikult kapitaliinstrumentide ja kõlblike kohustuste teisendamiseks esimese taseme põhiomavahendite instrumentide emiteerimist kapitaliinstrumentide ja kõlblike kohustuste omanikele.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(8) Esimese taseme põhiomavahendite instrumentide pakkumiseks kooskõlas käesoleva paragrahvi lõikega 6 võib Finantsinspektsioon nõuda, et krediidiasutus või temaga samasse konsolideerimisgruppi kuuluv isik peab eelnevalt saama Finantsinspektsiooni nõusoleku vastava arvu esimese taseme põhiomavahendite instrumentide emiteerimiseks.
+
+(9) Finantsinspektsioon teeb pärast kapitaliinstrumentide või kõlblike kohustuste allahindamist või teisendamist käesoleva seaduse §-s 54 nimetatud täiendava hindamise kooskõlas § 53 lõike 6 punktiga 2 ja §-ga 80.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+#### § 58. Kapitaliinstrumentide ja kõlblike kohustuste allahindamise või teisendamise õiguse kohaldamine konsolideeritud alusel
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(1) Kui pärast asjakohase kriisilahendussubjekti kriisilahendusasutusega konsulteerimist otsustab Finantsinspektsioon teha kindlaks käesoleva seaduse § 56 lõike 1 punktis 3 nimetatud asjaolud, teavitab ta sellest otsusest viivitamata selliste lepinguriikide kriisilahendusasutusi ja konsolideerimisgrupi kriisilahendusasutusi või nende puudumisel selliste lepinguriikide pädevaid ametiasutusi, kus asuvad konsolideerimisgruppi kuuluvad ettevõtjad, keda tehtud otsus mõjutab.
+
+(2) Kui Finantsinspektsioon on konsolideerimisgrupi kriisilahendusasutus, teeb ta kõik endast oleneva, et leppida ühisotsuseni jõudmise eesmärgil teiste lepinguriikide kriisilahendusasutustega kokku käesoleva paragrahvi lõikes 1 nimetatud asjaoludes. Kui kokkuleppele ei jõuta, siis nimetatud asjaolusid kindlaks ei tehta.
+
+(3) Kui Finantsinspektsioon otsustab kindlaks teha käesoleva seaduse § 56 lõike 1 punktis 2, 3 või 4 nimetatud asjaolud, teavitab ta sellest otsusest viivitamata, kuid hiljemalt 24 tundi pärast asjaomase kriisilahendussubjekti kriisilahendusasutusega konsulteerimist:
+
+1\) konsolideeritud järelevalvet tegevat ametiasutust või selle puudumisel lepinguriigi asjaomast konsolideeritud järelevalvet tegevat finantsjärelevalve asutust;
+
+2\) teisi samasse konsolideerimisgruppi kuuluvate ettevõtjate kriisilahendusasutusi, kui konsolideerimisgrupp on otseselt või kaudselt ostnud käesoleva seaduse § 19 lõigete 2 ja 4–6 kohaldamisalasse kuuluvalt ettevõtjalt § 19 lõikes 8 nimetatud kohustusi.
+
+(4) Käesoleva paragrahvi lõikes 3 nimetatud teates peab Finantsinspektsioon põhjendama oma otsust tuvastada käesoleva seaduse § 56 lõike 1 punktis 2, 3 või 4 nimetatud asjaolud.
+
+(5) Kui Finantsinspektsioon on edastanud käesoleva paragrahvi lõigetes 1 ja 3 nimetatud teate kapitaliinstrumentide ja kõlblike kohustuste allahindamise kohta, hindab Finantsinspektsioon pärast lõigetes 1 ja 3 nimetatud ametiasutustega konsulteerimist järgmisi asjaolusid:
+
+1\) alternatiivse meetme olemasolu kapitaliinstrumentide ja kõlblike kohustuste allahindamiseks või teisendamiseks ja kas selle olemasolul on seda võimalik rakendada;
+
+2\) kas võib eeldada, et alternatiivse meetme rakendamisel kaovad mõistliku aja jooksul asjaolud, mis muidu eeldaksid käesoleva seaduse § 56 lõikes 1 sätestatud asjaolude kindlakstegemist.
+
+(6) Käesoleva paragrahvi lõike 5 punktis 1 nimetatud alternatiivse meetmena käsitatakse varase sekkumise meetmeid, krediidiasutuste seaduse §-s 104 sätestatud meetmeid või konsolideerimisgrupi emaettevõtjalt rahaliste vahendite või kapitali ülekandmist.
+
+(7) Kui pärast teise lepinguriigi kriisilahendusasutusega või muu pädeva ametiasutusega konsulteerimist leiab Finantsinspektsioon, et on olemas vähemalt üks alternatiivne meede ja seda on võimalik rakendada ning sellega saavutatakse käesoleva paragrahvi lõike 5 punktis 2 nimetatud tulemus, peab Finantsinspektsioon tagama selle meetme rakendamise.
+
+(8) Kui Finantsinspektsioon leiab, et ei ole olemas alternatiivseid meetmeid, millega saavutada käesoleva paragrahvi lõike 5 punktis 2 nimetatud tulemus, otsustab Finantsinspektsioon, kas käesoleva seaduse § 56 lõikes 1 sätestatud asjaolude kindlakstegemine on konkreetsel juhul asjakohane.
+
+(9) Kui Finantsinspektsioon on krediidiasutuse või piiriüleselt tegutseva konsolideerimisgrupi kriisilahendusmenetlusega seoses kindlaks teinud käesoleva seaduse § 56 lõikes 2, 3 või 4 nimetatud asjaolud, võtab ta arvesse kriisilahenduse võimalikku mõju kõigis lepinguriikides, kus krediidiasutus või konsolideerimisgrupp tegutseb.
+
+(10) Kui Finantsinspektsioon on tütarettevõtja kriisilahendusasutus, rakendab ta kooskõlas käesoleva paragrahviga tehtud kapitaliinstrumentide ja kõlblike kohustuste allahindamise või teisendamise otsust esimesel võimalusel.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+### 3. jagu — Vara ja aktsiate võõrandamine
+
+#### § 59. Võõrandamise alused ja tingimused
+
+(1) Finantsinspektsioon teeb kriisilahendusmenetluses olevale krediidiasutusele ettekirjutuse võõrandada krediidiasutuse kogu vara, kõik õigused ja kohustused (edaspidi 3., 4. ja 5. jaos *vara*) või tema emiteeritud aktsiad või osa nendest võimalikule ostjale aktsionäride või selle kolmanda isiku eelneva nõusolekuta, kes ei ole sildasutus.
+
+(2) Finantsinspektsioon määrab, millistel tingimustel vara ja aktsiaid võõrandatakse, arvestades seejuures turutingimustel võõrandamise põhimõtet. Vara ja nende kogumeid võib võõrandada eraldiseisvalt. Vara müük toimub enampakkumisel, kui Finantsinspektsioon ei otsusta teisiti. Ilma enampakkumist korraldamata võib Finantsinspektsiooni nõusolekul müüa vara, kui vara müük sel viisil annab suuremat kasu.
+
+(2<sup>1</sup>) Vara ja aktsiate võõrandaja suhtes kohaldatakse käesoleva seaduse § 62 lõikes 2 sätestatut.
+
+\[RT I, 10.01.2019, 1 - jõust. 20.01.2019\]
+
+(3) Vara ja aktsiate võõrandamisel nõuab Finantsinspektsioon krediidiasutuselt vara ja aktsiate ülekandmist omandajale. Finantsinspektsioon võib vara ja aktsiate võõrandamise õigust kasutada rohkem kui üks kord.
+
+(4) Krediidiasutuse vara või aktsiaid võib võõrandada järgmistel tingimustel:
+
+1\) ühte võimalikku omandajat ei asetata põhjendamatult soodsamasse ega ebasoodsamasse olukorda, võrreldes teiste võimalike omandajatega;
+
+2\) puudub igasugune huvide konflikt;
+
+3\) ühelegi võimalikule omandajale ei anta ebaõiglast eelist;
+
+4\) võetakse arvesse vajadust kriisilahendusmeede võimalikult kiiresti lõpule viia;
+
+5\) võõrandamine toimub suurimat kasu andval viisil;
+
+6\) võõrandamine on läbipaistev.
+
+(4<sup>1</sup>) Krediidiasutuse vara või aktsiate või muude omandiõigust tõendavate instrumentide võõrandamisel saadav hüvitis peab olema otseselt kriisilahendusmenetluses oleva krediidiasutuse enda ja tema vara või aktsiate või vastavate instrumentide algsete omanike huvides, võttes arvesse käesoleva seaduse § 55 lõikes 6 sätestatut.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(5) Käesoleva paragrahvi lõikes 2 sätestatut ei kohaldata, kui Finantsinspektsioon leiab, et võõrandamine turutingimustel seaks ohtu ühe või mitme kriisilahendamise eesmärgi saavutamise ja eelkõige juhul, kui:
+
+1\) kriisilahendusmenetluses oleva krediidiasutuse maksejõuetusega kaasneks oluline oht finantsstabiilsusele;
+
+2\) võõrandamisel turutingimuste järgimine kahjustaks vara ja aktsiate võõrandamise meetme rakendamise efektiivsust.
+
+(5) Finantsinspektsioon võib omandaja nõusolekul vara ja aktsiate võõrandamise meedet rakendada ka tagasimüügi kohustuse tingimusega, kus omandajale üle antud vara või aktsiad või muud omandiõigust tõendavad instrumendid antakse tagasi kriisilahendusmenetluses olevale krediidiasutusele või nende algsetele omanikele ning kriisilahendusmenetluses olev krediidiasutus või algsed omanikud on kohustatud vara või aktsiad või muud omandiõigust tõendavad instrumendid tagasi võtma.
+
+(6) Ülekandmisele, mis toimub kriisilahendusmenetluses oleva krediidiasutuse või aktsiate algsete omanike ja sildasutuse vahel, kohaldatakse käesoleva seaduse 8. peatükis sätestatut.
+
+(7) Kui Finantsinspektsioon rakendab vara ja aktsiate võõrandamise meedet osaliselt ning mitte kogu vara või kõiki aktsiaid ei anta üle teisele ettevõtjale, ei või selline üleandmine mõjutada makse- ja arveldussüsteemide seaduses määratletud arveldussüsteemide toimimist.
+
+\[RT I, 01.03.2023, 3 - jõust. 11.03.2023\]
+
+#### § 60. Omandaja õigused ja vastutus
+
+(1) Kui kriisilahendusmenetluses oleva krediidiasutuse vara või aktsiad on omandatud ülekandmise teel, peab nende omandajal olema vajaduse korral õigusaktides sätestatud tegevusluba, et jätkata majandustegevust.
+
+(2) Omandaja võib olla makse- ja arveldussüsteemi liige ning reguleeritud väärtpaberituru osaline ja tal võib olla neile jätkuvalt juurdepääs, kui ta vastab nendes osalemise tingimustele. Juurdepääsu makse- ja arveldussüsteemile või reguleeritud väärtpaberiturule ei või nende korraldajad piirata põhjusel, et omandajal puudub krediidireiting või et sildasutuse kui omandaja krediidireiting ei ole piisaval tasemel, et saada liikmeks või osaliseks.
+
+(3) Kui omandaja ei täida makse- ja arveldussüsteemi liikmeks olemise või reguleeritud väärtpaberiturul osalemise tingimusi, võib omandaja olla Finantsinspektsiooni nõusolekul ajutiselt kuni 24 kuu jooksul nimetatud süsteemi liige või turu osaline ilma juurdepääsuluba omamata.
+
+(4) Kriisilahendusmenetluses oleva krediidiasutuse nendel aktsionäridel või võlausaldajatel ja kolmandatel isikutel, kelle vara ei ole omandajale üle antud, ei teki õigusi seoses omandajale üle antava varaga või selle suhtes.
+
+(5) Finantsinspektsioon võib nõuda vara ja aktsiate tagasikandmist krediidiasutusele või algsetele aktsionäridele juhul, kui omandaja on nõus. Vara ja aktsiate üleandmise järel loetakse omanikuks krediidiasutus või algsed aktsionärid. Krediidiasutus ja algsed aktsionärid on kohustatud nimetatud vara ja aktsiad tagasi võtma.
+
+\[RT I, 10.01.2019, 1 - jõust. 20.01.2019\]
+
+#### § 61. Olulise osaluse omandamise hindamine
+
+(1) Kui aktsiate ülekandmise tulemusena omandatakse krediidiasutuses oluline osa või suurendatakse olulist osa, arvestab Finantsinspektsioon kui järelevalve teostaja krediidiasutuste seaduse §-des 29–33 sätestatud osaluse hindamisel ka kriisilahendamise eesmärkide saavutamist.
+
+(2) Kui Finantsinspektsioon kui järelevalve teostaja ei ole viinud osaluse hindamist lõpule aktsiate ülekandmise kuupäevaks, siis:
+
+1\) kantakse aktsiad omandajale üle;
+
+2\) osaluse hindamisaja ja vara müügi perioodi jooksul on peatatud omandaja õigus hääletada seoses nende aktsiatega ja see õigus on ainult Finantsinspektsioonil.
+
+(3) Käesoleva paragrahvi lõikes 2 sätestatud osaluse hindamisaja ja vara müügi perioodi jooksul võib Finantsinspektsioon jätta kohaldamata krediidiasutuste seaduse §-des 29–33 sätestatud olulise osaluse omandamise või võõrandamise nõudeid.
+
+(4) Kui Finantsinspektsioon kui järelevalve teostaja on viinud osaluse hindamise lõpule, teavitab ta omandajat kirjalikult osaluse omandamise või sellest keeldumise otsusest vastavalt krediidiasutuste seaduse §-s 31 sätestatule.
+
+(5) Kui Finantsinspektsioon teeb järelevalve teostajana otsuse osaluse omandamise kohta, võib omandaja teostada oma hääleõigust omandatud aktsiate suhtes selle otsuse teadasaamisest arvates.
+
+(6) Kui Finantsinspektsioon kui järelevalve teostaja teeb otsuse osaluse omandamise keelamise kohta, siis:
+
+1\) kohaldatakse hääleõiguse kasutamise kohta käesoleva paragrahvi lõike 2 punktis 2 sätestatut;
+
+2\) Finantsinspektsioon võib teatud perioodi jooksul nõuda omandajalt aktsiate edasivõõrandamist, arvestades kehtivaid turutingimusi;
+
+3\) ei kohaldata käesoleva paragrahvi lõikes 3 sätestatut.
+
+### 4. jagu — Sildasutus
+
+#### § 62. Sildasutuse asutamine
+
+(1) Et tagada vähemalt kriitiliste funktsioonide jätkumine või teenuste osutamine, asutab Rahandusministeerium Finantsinspektsiooni ettepanekul aktsiaseltsi või omandab aktsiaseltsi (edaspidi *sildasutus*) aktsiad, mille eesmärgiks on üle võtta kriisilahendusmenetluses oleva krediidiasutuse aktsiad või kogu vara või osa nendest.
+
+(2) Sildasutus on krediidiasutus või investeerimisühing ja sellele kohaldatakse krediidiasutuste seaduses või väärtpaberituru seaduses sätestatut, sealhulgas tegevusloa taotlemise kohta sätestatut. Erandkorras võib Finantsinspektsioon teha otsuse, mille kohaselt sildasutuse asutamisel ei järgita ajutiselt, kuid mitte rohkem kui kuue kuu jooksul krediidiasutuste seaduses või väärtpaberituru seaduses sätestatut, eelkõige seoses tegevusloa taotlemisega, kapitali- või likviidsusnõuete järgmisega või olulise osaluse omandamisega.
+
+(3) Sildasutuse asutajaõiguste teostamisele, juhtimisele ja järelevalvele ei kohaldata riigivaraseaduse 6. peatüki 1. ja 3. jaos, välja arvatud §-s 88, sätestatut.
+
+#### § 63. Aktsiate ja vara ülekandmine
+
+(1) Finantsinspektsioon nõuab kriisilahendusmenetluses olevalt krediidiasutuselt tema aktsiate või vara ülekandmist sildasutusele.
+
+(2) Finantsinspektsioon võib käesoleva paragrahvi lõikes 1 sätestatud õigust kasutada mitu korda.
+
+(3) Aktsiate või vara ülekandmine võib toimuda kriisilahendusmenetluses oleva krediidiasutuse aktsionäride või selle kolmanda isiku nõusolekuta, kes ei ole sildasutus, õiglase hüvitise eest. Aktsiate ülevõtmisele rahalise hüvitise eest ei kohaldata äriseadustiku 29<sup>1</sup>. peatüki sätteid.
+
+(3<sup>1</sup>) Krediidiasutuse vara või aktsiate või muude omandiõigust tõendavate instrumentide ülekandmisel saadav hüvitis peab olema otseselt kriisilahendusmenetluses oleva krediidiasutuse enda ja tema vara või aktsiate või vastavate instrumentide algsete omanike huvides, võttes arvesse käesoleva seaduse § 55 lõikes 6 sätestatut.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(4) Ülekandmisele, mis toimub kriisilahendusmenetluses oleva krediidiasutuse või aktsiate algsete omanike ning sildasutuse vahel, kohaldatakse käesoleva seaduse 8. peatükis sätestatut.
+
+(5) Aktsiate või vara ülekandmisel tuleb tagada, et sildasutusse üle kantud kohustuste koguväärtus ei ületa kriisilahendusmenetluses oleva krediidiasutuse üle kantud vara koguväärtust.
+
+#### § 64. Aktsiate ülekandmine
+
+(1) Rahandusministeerium teavitab kriisilahendusmenetluses oleva krediidiasutuse aktsiate ülekandmisest viivitamata väärtpaberite keskdepositooriumi. Väärtpaberite keskdepositoorium kannab teate alusel krediidiasutuse aktsiatele või nende aktsiatega seotud kontodele ajutiselt käsutamist piirava kirje. Konto jääb blokeerituks väärtpaberite registri pidamise seaduse § 17 lõikes 3 sätestatud alusel.
+
+\[RT I, 26.06.2017, 1 - jõust. 06.07.2017\]
+
+(2) Väärtpaberite keskdepositoorium kannab käesoleva paragrahvi lõikes 1 nimetatud aktsiad Rahandusministeeriumi märgitud väärtpaberikontole.
+
+\[RT I, 26.06.2017, 1 - jõust. 06.07.2017\]
+
+(3) Väärtpaberite keskdepositoorium kustutab kolmandate isikute õigused käesoleva paragrahvi lõikes 1 nimetatud aktsiate suhtes enne aktsiate Rahandusministeeriumile ülekandmist.
+
+\[RT I, 26.06.2017, 1 - jõust. 06.07.2017\]
+
+#### § 65. Sildasutuse juhtimine
+
+(1) Sildasutuse juhtimisele kohaldatakse riigivaraseaduse §-s 88 sätestatut.
+
+(2) Finantsinspektsioon teeb valdkonna eest vastutavale ministrile ettepaneku oma esindaja või esindajate määramiseks sildasutuse nõukogu ja juhatuse liikmeteks.
+
+(3) Rahandusministeerium kooskõlastab Finantsinspektsiooniga:
+
+1\) sildasutuse nõukogu ja juhatuse liikmete ülesanded ja tasud;
+
+2\) sildasutuse strateegilise plaani ja riskiprofiili.
+
+(4) Kriisilahendusmenetluses oleva krediidiasutuse aktsionäridel või võlausaldajatel ning muudel kolmandatel isikutel, kelle vara ei ole sildasutusele üle antud, ei ole õigusi üle antud vara suhtes. Eeltoodu ei piira käesoleva seaduse 8. peatüki kohaldamist.
+
+(5) Sildasutuse nõukogu või juhatuse liikmed ei vastuta kriisilahendusmenetluses oleva krediidiasutuse aktsionäride või võlausaldajate ees kahju eest, mis tuleneb nende tegevusest või tegevusetusest töökohustuste täitmisel, kui sellise tegevuse või tegevusetusega ei kaasnenud rasket hooletust või tahtlust, mis oleks mõjutanud aktsionäride või võlausaldajate õigusi.
+
+(6) Sildasutuse juhtimisel tuleb lähtuda eesmärgist, mille kohaselt võõrandatakse sildasutuse või kriisilahendusmenetluses oleva krediidiasutuse aktsiad või vara kolmandale isikule mõistliku aja jooksul või käesoleva seaduse § 68 lõikes 4 või 5 sätestatud tähtaja jooksul.
+
+#### § 66. Sildasutuse tegevuse jätkamise tingimused ja juurdepääs maksesüsteemidele
+
+(1) Sildasutus võib jätkata teenuste osutamist samas ulatuses kui kriisilahendusmenetluses olev krediidiasutus ja kasutada üle antud vara suhtes kõiki õigusi, mida krediidiasutus kasutas.
+
+(2) Sildasutus võib olla makse- ja arveldussüsteemi liige ning reguleeritud väärtpaberituru osaline ja omada neile jätkuvalt juurdepääsu, kui ta täidab liikmeks olemise ja osalemise tingimusi. Juurdepääsu makse- ja arveldussüsteemile või reguleeritud väärtpaberiturule ei või nende korraldajad piirata põhjusel, et sildasutusel puudub krediidireiting või et sildasutuse krediidireiting ei ole piisaval tasemel, et saada liikmeks või osaliseks.
+
+(3) Sildasutus on Tagatisfondi liige ja tasub osamakseid vastavalt Tagatisfondi seaduses sätestatule.
+
+(4) Kui sildasutus ei täida käesoleva paragrahvi lõikes 2 nimetatud süsteemides osalemise või liikmeks olemise tingimusi, võib sildasutus olla Finantsinspektsiooni nõusolekul kuni 24 kuu jooksul nimetatud süsteemi liige või turu osaline.
+
+(5) Finantsinspektsiooni ettepanekul võidakse sildasutus vabastada Tagatisfondi osamaksete tasumisest 24 kuu jooksul Tagatisfondi liikmeks saamisest arvates.
+
+#### § 67. Aktsiate ja vara tagasikandmine
+
+(1) Finantsinspektsioon võib teha Rahandusministeeriumile ettepaneku kanda aktsiad või vara tagasi algsetele aktsionäridele või kolmandale isikule. Aktsiate ja vara üleandmise järel loetakse omanikeks algsed aktsionärid.
+
+(2) Aktsiate või vara tagasikandmisel peab olema täidetud üks järgmistest tingimustest:
+
+1\) aktsiate või vara tagasiandmise võimalus on ülekandmise lepingus kindlaks määratud;
+
+2\) aktsiad või vara ei kuulu tegelikult selliste aktsiate või vara hulka või ei vasta sellistele aktsiatele või varale seatud ülekandmise tingimustele, mis on kindlaks määratud ülekandmise lepingus.
+
+#### § 68. Sildasutuse tegevuse lõpetamine
+
+(1) Sildasutuse tegevus lõpetatakse:
+
+1\) kui sildasutus ühineb krediidiasutuste seaduse § 65 lõike 2 või 3 alusel;
+
+2\) kui sildasutus ei täida käesoleva seaduse §-s 46 sätestatud nõudeid;
+
+3\) kui sildasutuse vara võõrandatakse kolmandale isikule;
+
+4\) kui sildasutuse põhikirjas seatud eesmärk on saavutatud;
+
+5\) kohtumäärusega sildasutuse sundlõpetamise kohta.
+
+(2) Sildasutuse ühinemisele kohaldatakse krediidiasutuste seaduse 6. peatüki 1. jaos sätestatut.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+(3) Käesoleva paragrahvi lõike 1 punktides 2 ja 4 sätestatud otsuse võtab vastu Rahandusministeerium Finantsinspektsiooni ettepanekul.
+
+(4) Kui sildasutuse tegevust ei lõpetata ühelgi käesoleva paragrahvi lõike 1 punktides 1–4 sätestatud juhul, algatatakse Finantsinspektsiooni avalduse alusel sildasutuse sundlõpetamine kahe aasta möödumisel kuupäevast, kui kriisilahendusmenetluses olevast krediidiasutusest tehti sildasutusele viimane aktsiate või vara ülekanne.
+
+(5) Finantsinspektsioon võib erandkorras pikendada käesoleva paragrahvi lõikes 4 nimetatud tähtaega, kui see:
+
+1\) aitab kaasa käesoleva paragrahvi lõikes 1 nimetatud tulemuste realiseerumisele;
+
+2\) tagab oluliste pangandus- või finantsteenuste kättesaadavuse.
+
+(6) Käesoleva paragrahvi lõike 5 kohaselt tehtud otsus peab olema igakülgselt põhjendatud ning sisaldama detailset hinnangut turuolukorra ja sildasutuse tulevikuväljavaadete kohta.
+
+(7) Sildasutuse tegevuse lõpetamise tulemusena saadud tulu saavad sildasutuse aktsionärid.
+
+(8) Sildasutuse aktsiate või vara võõrandamisel tasu eest lähtutakse riigivaraseaduse 4. peatükis sätestatust.
+
+(9) Kui sildasutust kasutatakse rohkem kui ühe kriisilahendusmenetluses oleva krediidiasutuse vara üleandmiseks, kohaldatakse käesoleva paragrahvi lõigetes 7 ja 8 sätestatut iga kriisilahendusmenetluses oleva krediidiasutuse üle antava vara suhtes.
+
+### 5. jagu — Varade eraldamine
+
+#### § 69. Varade eraldamine
+
+(1) Finantsinspektsioon võib otsustada rakendada vara eraldamise meedet. Selle kohaselt asutab Rahandusministeerium Finantsinspektsiooni ettepanekul aktsiaseltsi või omandab aktsiaseltsi (edaspidi *vara valitsemise ettevõtja*), kuhu kantakse üle kriisilahendusmenetluses oleva krediidiasutuse vara või osa sellest. Vara valitsemise ettevõtjale võib üle kanda ka eelnevalt asutatud sildasutuse vara.
+
+(2) Vara valitsemise ettevõtja haldab talle üle kantud vara eesmärgiga see lõpuks maksimaalse hinna eest võõrandada või vara valitsemise ettevõtja lõpetada ja likvideerida. Vara võib üle kanda kriisilahendusmenetluses oleva krediidiasutuse aktsionäride või kolmanda isiku nõusolekuta õiglase hüvitise eest.
+
+(3) Finantsinspektsioon võib otsustada rakendada vara eraldamise meedet, kui esineb üks järgmistest juhtudest:
+
+1\) turuolukord vara võõrandamiseks pankrotimenetluse käigus on ebasoodne või vara võõrandamine võib tuua kaasa negatiivseid mõjusid finantsturgudele tervikuna;
+
+2\) vara ülekandmine on vajalik, et tagada kriisilahendusmenetluses oleva krediidiasutuse või sildasutuse korrapärane toimimine;
+
+3\) vara ülekandmine on vajalik, et seda oleks võimalik hiljem võõrandada maksimaalse hinnaga.
+
+(4) Kui Rahandusministeerium asutab vara valitsemise ettevõtja või omandab selle aktsiad, nõuab Finantsinspektsioon kriisilahendusmenetluses olevalt krediidiasutuselt või sildasutuselt tema vara ülekandmist vara valitsemise ettevõtjale.
+
+(5) Finantsinspektsioon võib rakendada vara eraldamise meedet mitu korda.
+
+(6) Rahandusministeerium kooskõlastab Finantsinspektsiooniga vara valitsemise ettevõtja:
+
+1\) asutamislepingu ja põhikirja;
+
+2\) nõukogu ja juhatuse liikmete tasud ja nende ülesanded;
+
+3\) strateegilise plaani ja riskiprofiili.
+
+(7) Finantsinspektsioon võib teha Rahandusministeeriumile ettepaneku kanda vara tagasi kriisilahendusmenetluses olevasse krediidiasutusse. Nimetatud krediidiasutus on kohustatud selle vara tagasi võtma.
+
+(8) Vara võib tagasi kanda, kui vara tagasikandmise võimalus oli ülekandmise lepingus eelnevalt kindlaks määratud, või ka juhul, kui tagasikantav vara ei kuulu otseselt sellise varaklassi hulka või ei vasta ülekandmise lepingus varale seatud ülekandmise tingimustele.
+
+(9) Ilma et see piiraks käesoleva seaduse 8. peatükis sätestatu kohaldamist, ei ole kriisilahendusmenetluses oleva krediidiasutuse aktsionäridel, võlausaldajatel ega kolmandatel isikutel, kelle vara ei ole vara valitsemise ettevõtjale üle kantud, õigusi üle kantud vara suhtes.
+
+(10) Vara valitsemise ettevõtja nõukogu või juhatuse liikmed ei vastuta krediidiasutuse aktsionäride või võlausaldajate ees, samuti aktsionäride või võlausaldajate ees kahju eest, mis tuleneb nende tegevusest või tegevusetusest töökohustuste täitmisel, kui sellise tegevuse või tegevusetusega ei kaasnenud rasket hooletust või tahtlust, mis mõjutab aktsionäride või võlausaldajate õigusi.
+
+(11) Vara eraldamise meetme rakendamisel määrab Finantsinspektsioon hüvitise, mille eest vara valitsemise ettevõtja vara omandab, arvestades krediidiasutuse varade ja kohustuste suhtes läbi viidud hindamist ning Euroopa Liidu riigiabi reegleid. Makstav hüvitis peab olema otseselt kriisilahendusmenetluses oleva krediidiasutuse huvides. Hüvitist võib tasuda ka vara valitsemise ettevõtja emiteeritud võlakohustuste näol.
+
+### 6. jagu — Kohustuste ja nõudeõiguste teisendamine
+
+#### § 70. Kohustuste ja nõudeõiguste teisendamise alused
+
+(1) Kooskõlas kriisilahendusmenetluse põhimõtetega ja kriisilahenduse eesmärkide täitmiseks võib Finantsinspektsioon rakendada kohustuste ja nõudeõiguste teisendamise meedet (edaspidi *kohustuste teisendamise meede*), et:
+
+1\) rekapitaliseerida kriisilahenduse eeltingimustele vastav krediidiasutus või temaga samasse konsolideerimisgruppi kuuluv isik vastavalt krediidiasutuste seaduses või väärtpaberituru seaduses sätestatud tegevusloa saamise tingimustele ja säilitada üldine usaldus selle krediidiasutuse või nimetatud isiku vastu või
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+2\) teisendada kohustused omakapitaliks või vähendada nõudeõiguste või kohustuste põhisummat, kui need antakse üle sildasutusele tema kapitali suurendamiseks või aktsiate või varade võõrandamise või vara eraldamise meetmete rakendamiseks.
+
+(2) Finantsinspektsioon võib rakendada kohustuste teisendamise meedet käesoleva paragrahvi lõike 1 punktis 1 sätestatud eesmärgil vaid juhul, kui on põhistatud eeldus, et selle meetme rakendamine koos muude asjakohaste meetmetega, sealhulgas meetmetega, mida rakendatakse kooskõlas käesoleva seaduse §-s 48 sätestatud reorganiseerimiskavaga, aitab lisaks kriisilahenduse eesmärkide saavutamisele taastada krediidiasutuse või käesoleva paragrahvi lõikes 1 nimetatud muu isiku finantsilise usaldusväärsuse ja jätkusuutlikkuse.
+
+(3) Finantsinspektsioon peab kohustuste teisendamise meetme rakendamisel arvestama krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva isiku õiguslikku vormi ja võib algatada ka nimetatud isikute õigusliku vormi muutmise.
+
+#### § 71. Kohustuste teisendamise meetme kohaldamisala
+
+(1) Kohustuste teisendamise meedet võib kohaldada kriisilahendusmenetluses oleva krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva isiku kohustuste suhtes, välja arvatud järgmised kohustused:
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+1\) tagamisele ja hüvitamisele kuuluvad hoiused;
+
+2\) tagatud kohustused, sealhulgas pandikirjad ja pandikirjaportfelli osaks olevad finantsinstrumendid, mida kasutatakse riskide maandamiseks ning mis on tagatud sarnaselt pandikirjadega;
+
+\[RT I, 28.02.2019, 1 - jõust. 01.03.2019\]
+
+3\) kohustused, mis on tekkinud seoses klientide vara hoidmisega, sealhulgas kohustused seoses investeerimisfondide nimel hoitava varaga;
+
+4\) kohustused, mis on tekkinud kriisilahendusmenetluses oleva krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva isiku kui usaldusisiku ja teise isiku kui kasusaaja vahelise usaldussuhte alusel, tingimusel, et kasusaaja on kaitstud nendele kohaldatava maksejõuetus- või tsiviilõiguse alusel;
+
+5\) kohustused äriühingute ees, välja arvatud sama konsolideerimisgrupi ettevõtjate ees olevad kohustused, mille täitmise esialgne tähtaeg on lühem kui seitse päeva;
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+6\) kohustused, mille tähtpäevani on jäänud vähem kui seitse päeva ja mis on makse- ja arveldussüsteemide seaduses määratletud arveldussüsteemide ning sama seaduse § 4 lõigetes 1 ja 2 nimetatud süsteemi korraldajate ees või nendes osalejate ees ning mis tulenevad niisuguses süsteemis osalemisest, või Euroopa Parlamendi ja nõukogu määruse (EL) nr 648/2012 artikli 14 kohaselt Euroopa Liidus asutatud kesksete vastaspoolte ees või sama määruse artikli 25 kohaselt kolmandate riikide Euroopa Väärtpaberiturujärelevalve Asutuse tunnustatud kesksete osapoolte ees;
+
+\[RT I, 01.03.2023, 3 - jõust. 11.03.2023\]
+
+6<sup>1</sup>) kohustused krediidiasutuse või temaga samasse kriisilahenduse konsolideerimisgruppi kuuluva isiku ees, kes ise ei ole kriisilahendussubjekt, olenemata kohustuste lõpptähtajast;
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+7\) töölepingute alusel kohustused töötajate ees seoses palgavõlgnevuse, pensionihüvitise või muude kindlaks määratud töötasudega, välja arvatud krediidiasutuste seaduse § 57<sup>1</sup> lõikes 3 nimetatud töötajate tulemustasud, mis ei ole reguleeritud kollektiivlepinguga;
+
+8\) kohustused tarnijate ees, mis on tekkinud kriitiliste kaupade tarnimisega või teenuste, välja arvatud finantsteenused, osutamisega, sealhulgas IT-teenuste, kommunaalteenuste, ruumide rendi ja korrashoiu teenuste osutamisega;
+
+9\) kohustused Maksu- ja Tolliameti, Sotsiaalkindlustusameti ning teiste lepinguriikide vastavate maksu- ja sotsiaalkindlustusasutuste ees, kui selliste asutuste nõudeõigused rahuldatakse kohaldatava õiguse alusel eelisjärjekorras;
+
+10\) Tagatisfondi seaduse alusel tekkivad kohustused seoses hoiuste tagamise osafondi maksetega.
+
+(1<sup>1</sup>) Käesoleva paragrahvi lõike 1 punkti 6<sup>1</sup> kohaldamisel peab tütarettevõtja kriisilahendusasutus, kes ei ole kriisilahendussubjekt, hindama, kas käesoleva seaduse § 19 lõikes 8 sätestatud kirjete summa on kriisilahendusstrateegia rakendamise toetamiseks piisav.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(2) Kohustuste teisendamise meetme kohaldamine ei tohi mõjutada pandikirjade tagatisvara. Pandikirjade tagatisvara peab jääma eraldatuks ja piisavalt rahastatuks.
+
+\[RT I, 28.02.2019, 1 - jõust. 01.03.2019\]
+
+(3) Käesoleva paragrahvi lõike 1 punktis 2 ja lõikes 2 sätestatu ei välista kohustuste teisendamise meetme kohaldamist tagatud kohustuse, sealhulgas pandiga tagatud kohustuse sellise osa suhtes, mis ületab tagatiseks oleva vara, pandi, pandiõiguse või tagatise väärtust.
+
+(4) Käesoleva paragrahvi lõike 1 punktis 1 sätestatu ei välista kohustuste teisendamise meetme kohaldamist tagamisele ja hüvitamisele mittekuuluva hoiuse osa suhtes.
+
+(5) Finantsinspektsioon võib kooskõlas käesoleva seaduse § 34 lõikega 4 piirata kohustuste teisendamise meetme rakendamiseks vajalike teisendatavate kohustuste positsioonide hoidmist teiste krediidiasutuste poolt, välja arvatud konsolideerimisgruppi kuuluvate isikute hoitavad kohustuste positsioonid, võttes seejuures arvesse Euroopa Parlamendi ja nõukogu määruses (EL) nr 575/2013 ja krediidiasutuste seaduses sätestatud riskide kontsentreerumise nõudeid.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+#### § 72. Kohustuste teisendamise meetme kohaldamise erandid
+
+(1) Finantsinspektsioon võib erandkorras kohustuste teisendamise meetme rakendamisel välistada selle kasutamise täielikult või osaliselt, kui:
+
+1\) kohustust ei ole võimalik mõistliku aja jooksul teisendada, hoolimata Finantsinspektsiooni poolt heas usus tehtud jõupingutustest;
+
+2\) see on hädavajalik ja proportsionaalne kriitiliste funktsioonide ja põhiäriliinide jätkuvuse saavutamiseks;
+
+3\) see on hädavajalik ja proportsionaalne finantsraskuste ulatusliku levimise vältimiseks, eelkõige seoses füüsiliste isikute ning mikroettevõtjate, väikeste ja keskmise suurusega ettevõtjate hoiustega, ja kui see häiriks oluliselt finantsturgude ja nende taristute toimimist viisil, mis võib põhjustada olulisi häireid lepinguriikide majanduses;
+
+4\) teisendamine põhjustaks kohustuste ja nõudeõiguste väärtuse vähenemise sellisel viisil, et võlausaldajad peaksid katma kahjumit suuremas ulatuses kui olukorras, kus vastavate kohustuste teisendamine oleks välistatud.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(2) Finantsinspektsioon võtab käesoleva paragrahvi lõike 1 kohaldamisel arvesse:
+
+1\) põhimõtet, et kriisilahendusmenetluses oleva krediidiasutuse aktsionärid katavad kahjumi esimeses järjekorras ja seejärel katavad üldkorras kahjumi krediidiasutuse võlausaldajad vastavalt nende nõudeõiguste rahuldamisjärkudele;
+
+2\) kriisilahendusmenetluses oleva krediidiasutuse kahjumi katmise võime säilimist juhul, kui kohustuse või kohustuste klassi puhul välistatakse kohustuste teisendamise meetme rakendamine;
+
+3\) vajadust säilitada piisavad vahendid kriisilahendusmenetluse rahastamiseks.
+
+(3) Finantsinspektsioon võib käesoleva paragrahvi lõike 1 kohaldamisel välistada kohustuse puhul osaliselt või täielikult allahindamise või piirata kohustuse suhtes kohaldatava allahindamise ulatust.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(4) Finantsinspektsioon võib käesoleva paragrahvi lõike 1 kohaldamisel suurendada muude teisendatavate kohustuste suhtes kohaldatava allahindamise või teisendamise määra, arvestades, et ükski võlausaldaja ei kata kahjumit suuremas osas, kui ta oleks katnud krediidiasutuse lõpetamisel ja likvideerimisel tavapärases pankrotimenetluses.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(4<sup>1</sup>) Finantsinspektsioon hindab põhjalikult, kas sellised kohustused krediidiasutuse või temaga samasse kriisilahenduse konsolideerimisgruppi kuuluva isiku suhtes, kes ise ei ole kriisilahendussubjekt ja kelle suhtes ei kohaldu käesoleva seaduse § 71 lõike 1 punktis 6<sup>1</sup> sätestatud erandid, tuleks kohustuste teisendamise kohaldamisalast osaliselt või täielikult välja jätta, et tagada kriisilahendusstrateegia asjakohane rakendamine. Nimetatud hindamist ei kohaldata käesoleva paragrahvi lõikes 4 sätestatud kohustustele.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(5) Finantsinspektsioon teavitab Euroopa Komisjoni oma kavatsusest rakendada käesoleva paragrahvi lõikes 1 sätestatud erandeid.
+
+#### § 73. Kohustuste teisendamise summa hindamine
+
+(1) Enne kohustuste teisendamise meetme rakendamist hindab Finantsinspektsioon varalise seisundi hindamisele tuginedes järgmiste summade kogusummat:
+
+1\) asjakohasel juhul summa, mille ulatuses tuleb teisendatavad kohustused kahjumi katmiseks alla hinnata;
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+2\) vajaduse korral summa, mille ulatuses tuleb teisendatavad kohustused teisendada aktsiatesse või muudesse kapitaliinstrumentidesse, et taastada esimese taseme põhiomavahendite tase kas kriisilahendusmenetluses olevas krediidiasutuses või sildasutuses.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud hindamisel määratakse summa, mille võrra teisendatavaid kohustusi tuleb alla hinnata või teisendada, et taastada kriisilahendusmenetluses olevas krediidiasutuses, või kui see on kohaldatav, sildasutuses esimese taseme põhiomavahendite tase kooskõlas tegevusloa andmise tingimustega ja tegevuse jätkuvuseks pikemas perspektiivis, võttes arvesse Tagatisfondi seaduse § 73<sup>13</sup> lõike 1 punktis 4 sätestatu alusel tehtavat sissemakset.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2<sup>1</sup>) Kui Finantsinspektsioon rakendab käesoleva seaduse §-s 69 sätestatud vara eraldamise meedet, võetakse summa puhul, mille võrra teisendatavaid kohustusi on vaja vähendada, asjakohasel juhul arvesse usaldusväärset hinnangut vara valitsemise ettevõtja kapitalivajaduse kohta.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(3) Kui käesoleva seaduse 5. peatüki kohaselt teostatud varalise seisundi hindamise tulemusel kohustuste teisendamise summad ületavad lõpliku hindamise summasid, võidakse kohaldada üleshindamismehhanismi võlausaldajatele ja seejärel aktsionäridele hüvitise maksmiseks.
+
+(4) Finantsinspektsioon võib kehtestada täiendavaid nõudeid kriisilahendusmenetluses oleva krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva isiku varalise seisundi hindamisele, et väärtuse määramine põhineks võimalikult ajakohasel ja kõikehõlmaval teabel vara ja kohustuste kohta.
+
+#### § 74. Kohustuste allahindamise ja teisendamise järjestus
+
+(1) Kohustuste teisendamise meetme rakendamisel hinnatakse kohustusi alla või teisendatakse järgmiselt:
+
+1\) esimese taseme põhiomavahendeid vähendatakse kooskõlas käesoleva seaduse § 57 lõike 4 punktis 1 sätestatuga;
+
+2\) kui käesoleva lõike punkti 1 kohane vähendamine on allahindamise kogusummast väiksem, siis vähendatakse esimese taseme täiendavate omavahendite kirjetel olevaid summasid vajalikul määral ja vajaduse korral kogu esimese taseme täiendavate omavahendite summa ulatuses;
+
+3\) kui kogu vähendamise summa vastavalt käesoleva lõike punktidele 1 ja 2 on väiksem kui allahindamise kogusumma, siis vähendatakse teise taseme omavahendite kirjetel olevaid summasid vajalikul määral ja vajaduse korral kogu teise taseme täiendavate omavahendite summa ulatuses;
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+4\) kui käesoleva lõike punktides 1–3 nimetatud omavahendite kirjete vähendamine kokku on kogusummast väiksem, vähendatakse allahindamise kogusumma saamiseks vajalikul määral täiendavatest esimese taseme omavahenditest või teise taseme omavahenditest välja jäävat allutatud kohustuste põhisummat kooskõlas nõuete rahuldamise järjekorraga pankrotimenetluses.
+
+(2) Ainult juhul, kui käesoleva paragrahvi lõikes 1 sätestatud aktsiate või muude omandiõiguse instrumentide, kapitaliinstrumentide ja teisendatavate kohustuste vähendamine kokku on väiksem käesoleva seaduse §-s 57 osutatud summadest, rakendab Finantsinspektsioon kohustuste teisendamise meedet vajalikul määral ülejäänud kohustuste suhtes, vähendades teisendatavate kohustuste põhisummat või nendega seoses maksmisele kuuluvat jääki kooskõlas nõuete rahuldamisjärkudega pankrotimenetluses.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(3) Käesoleva paragrahvi lõigete 1 ja 2 kohaldamisel jaotatakse kahjud võrdeliselt sama liiki aktsiate või muude omandiõiguse instrumentide või sama järgu teisendatavate kohustuste vahel, vähendades nendega seoses maksmisele kuuluvat jääki võrdeliselt samal määral nende väärtusega.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(4) Käesoleva paragrahvi lõikes 3 sätestatut ei kohaldata, kui rakendatakse käesoleva seaduse §-s 72 sätestatud erandeid.
+
+(5) Käesoleva paragrahvi lõigetes 2 ja 3 sätestatu ei takista käesoleva seaduse § 72 kohaselt välistatud kohustuste eeliskohtlemist, võrreldes teisendatavate kohustustega, millel on sama nõude rahuldamise järk pankrotimenetluses.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(6) Enne allahindamise või teisendamise kohaldamist lähtuvalt käesoleva paragrahvi lõikest 2 peab Finantsinspektsioon teisendama või vähendama käesoleva paragrahvi lõikes 1 nimetatud instrumentide põhisummat, kui neid kapitaliinstrumente ei ole juba teisendatud ja nendele kohaldatakse tingimusi, millega nähakse ette:
+
+1\) krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva isiku kapitaliinstrumendi põhisumma vähendamine finantsseisundi parandamiseks, maksejõulisuse taastamiseks või omavahendite taseme tõstmiseks;
+
+2\) kapitaliinstrumentide teisendamine aktsiateks või muudeks omandiõiguse instrumentideks käesoleva lõike punktis 1 nimetatud vähendamise korral.
+
+(7) Kui instrumendi põhisummat on käesoleva paragrahvi lõike 6 punktis 1 nimetatud tingimuse alusel enne käesoleva paragrahvi lõikes 1 nimetatud meetme kasutamist vähendatud, kuid mitte nullini, kohaldab Finantsinspektsioon instrumendi põhisumma jäägile allahindamise ja teisendamise õigust käesoleva paragrahvi lõike 1 alusel.
+
+(8) Finantsinspektsioon arvestab kohustuste allahindamise või teisendamise kohta otsuse tegemisel põhimõtet, et ühte kohustuste klassi ei hinnata alla ega teisendata, kui sellele klassile alluv kohustuste klass jääb suures osas omakapitaliks teisendamata või alla hindamata, välja arvatud juhul, kui käesoleva seaduse §-s 72 on sätestatud teisiti.
+
+(9) Krediidiasutuste seaduse § 131 lõike 1 punktides 4 ja 5 sätestatud nõudeid käsitletakse kohustuste allahindamisel ja teisendamisel samas järgus.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(10) Käesoleva seaduse § 22 lõikes 2<sup>1</sup> nimetatud kohustused ei hõlma täiendavaid esimese taseme omavahendite instrumente, teise taseme omavahendite instrumente, krediidiasutuste seaduse § 131 lõikes 1 nimetatud võlakirju, muud liiki võõrandatavaid võlainstrumente ega instrumente, mille alusel tekib võlg või tunnustatakse võla olemasolu, kui need instrumendid on tagamata kohustused.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+#### § 75. Kohustuste omakapitaliks teisendamise määr
+
+(1) Teisendamise määr on tegur, millega määratakse kindlaks aktsiate või muude omandiõiguse instrumentide arv, milleks teatavat liiki kohustus teisendatakse, osutades kas kõnealust liiki üksikule instrumendile või võlanõude teatavale väärtusühikule, ja see väljendab mõistlikku hüvitist nendele võlausaldajatele, kes on kandnud kahju seoses allahindamise ja teisendamise õiguse kasutamisega.
+
+(2) Kui Finantsinspektsioon rakendab käesoleva seaduse §-des 42 ja 56 nimetatud õigusi, võib ta kohaldada kapitaliinstrumentide ja kohustuste eri klasside suhtes eri teisendamise määra.
+
+(3) Kui Finantsinspektsioon kohaldab eri teisendamise määrasid, on kohaldatava maksejõuetusõiguse kohaselt kõrgema nõude rahuldamisjärguga kohustuste teisendamise määr kõrgem kui allutatud kohustustel.
+
+#### § 76. Tuletisinstrumentidest tulenevate kohustuste teisendamine
+
+(1) Kui kohustuste teisendamise meedet kohaldatakse tuletisinstrumendist tulenevale kohustusele, rakendatakse seda üksnes tuletisinstrumendilepingu lõpetamisel või pärast seda.
+
+(2) Finantsinspektsioonil on kriisilahendusmenetluse algatamisel õigus lõpetada tuletisinstrumendileping, mille üheks pooleks on kriisilahendusmenetluses olev krediidiasutus, välja arvatud tuletisinstrumendileping, millele kohaldatakse käesoleva seaduse §-s 72 sätestatut.
+
+(3) Kui tuletisinstrumenditehingute suhtes kohaldatakse tasaarvestuskokkulepet, hindab Finantsinspektsioon või käesoleva seaduse 5. peatüki kohaselt tema nimetatud sõltumatu hindaja sellistest tehingutest tuleneva vastastikuste kohustuste tasaarvestamisest järelejäänud nõude saldot tasaarvestuskokkuleppe tingimuste alusel.
+
+(4) Finantsinspektsioon määrab tuletisinstrumentidest tulenevate kohustuste väärtuse kindlaks, arvestades:
+
+1\) sobivat metoodikat tuletisinstrumentide klasside väärtuse kindlaksmääramiseks, sealhulgas tehingute puhul, mille suhtes kohaldatakse tasaarvestuskokkulepet;
+
+2\) tuletisinstrumendi positsiooni väärtuse kindlaksmääramise tähtaja kehtestamise põhimõtteid;
+
+3\) sobivat metoodikat, mille abil saaks võrrelda väärtuse vähenemist, mis võib tekkida tuletisinstrumentide lepingute lõpetamisest ning kohustuste teisendamise meetme rakendamisest, kahjuga, mis tekiks tuletisinstrumentidele kohustuste teisendamise menetluses.
+
+#### § 77. Kohustuste teisendamise meetme kehtivus
+
+(1) Kui Finantsinspektsioon rakendab käesoleva seaduse § 42 lõike 1 punktides 4–7 ja §-s 56 nimetatud õigusi, avaldatakse Finantsinspektsiooni haldusakt kooskõlas käesoleva seaduse §-ga 50 kohustuste põhisumma või tasumata jäägi vähendamise, võlgade teisendamise või tühistamise kohta ja see hakkab kehtima selle avalikult teatavaks tegemisest arvates. Haldusakt on kohe siduv kriisilahendusmenetluses oleva krediidiasutuse ning mõjutatud võlausaldajate ja aktsionäride suhtes.
+
+(2) Kui Finantsinspektsioon on rakendanud kohustuste teisendamise meedet ja vähendanud kohustuse põhisummat või maksmisele kuuluvat jääki nullini tingimuslike kohustuste või nõudeõiguste suhtes, milles kohustuse või nõude tingimus ei ole saabunud, loetakse selline kohustus tühiseks ning selle kohustuse olemasolu ei saa ühegi järgneva menetluse käigus tõendada kriisilahendusmenetluses oleva krediidiasutuse ega selle õigusjärglasest ettevõtja hilisema lõpetamise või likvideerimise menetluses.
+
+(3) Kui Finantsinspektsioon vähendab kohustuste teisendamise meedet rakendades teatava kohustuse põhisummat või selle maksmisele kuuluvat jääki osaliselt, kuid mitte nullini, siis:
+
+1\) tühistatakse kohustus sellise summa ulatuses, mis määral seda vähendatakse;
+
+2\) jääb algse kohustuse aluseks olnud instrument või leping kehtima kohustuse põhisumma või maksmisele kuuluva jäägi ülejäänud osa suhtes, kusjuures arvestatakse põhisumma vähenemisega kaasnevat makstava intressisumma muutust ning muid tingimuste muudatusi.
+
+## 7. peatükk — Kriisilahendusfondi ja riigipoolsete meetmete kasutamine
+
+### § 78. Kriisilahenduse osafondi vahendite kasutamise tingimused
+
+(1) Kriisilahendusfondi vahendeid võib kasutada kriisilahendusmenetluses oleva krediidiasutuse tarvis, kui Finantsinspektsioon otsustab kohustuste teisendamise meetme rakendamisel välistada selle õiguse kasutamise täielikult või osaliselt teatavate kohustuste suhtes vastavalt käesoleva seaduse §-s 72 sätestatule ja neid kahjusid, mida oleks kaetud nimetatud kohustuste omanike arvelt, ei ole täielikult edasi kantud teistele võlausaldajatele.
+
+(2) Käesoleva paragrahvi lõikes 1 sätestatud juhul võib kriisilahendusfondi vahendite arvelt:
+
+1\) katta kahju, mida ei ole kaetud teisendatavate kohustustega, ja taastada kriisilahendusmenetluses oleva krediidiasutuse vara netoväärtuse nullini vastavalt käesoleva seaduse § 73 lõike 1 punktis 1 sätestatule või
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+2\) omandada kriisilahendusmenetluses oleva krediidiasutuse aktsiaid või muid kapitaliinstrumente eesmärgiga rekapitaliseerida see krediidiasutus vastavalt käesoleva seaduse § 73 lõike 1 punktis 2 sätestatule.
+
+(3) Kui käesolevas paragrahvis ei ole sätestatud teisiti, võib kriisilahendusfondi vahendeid kasutada üksnes juhul, kui kriisilahendusmenetluses oleva krediidiasutuse aktsionärid või kapitaliinstrumentide või muude teisendatavate kohustuste omanikud on eelnevalt kandnud kahjusid allahindamise või teisendamise tõttu või muul juhul vähemalt 8 protsendi ulatuses krediidiasutuse kohustuste kogusummast, kaasa arvatud omavahenditest, mis on hinnatud vastavalt käesoleva seaduse 5. peatükis sätestatule.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(4) Kriisilahendusfondi vahendeid võib kasutada kuni 5 protsendi ulatuses kriisilahendusmenetluses oleva krediidiasutuse varadest, mis on hinnatud vastavalt käesoleva seaduse 5. peatükis sätestatule.
+
+(5) Kui kriisilahendusmenetluses oleva krediidiasutuse kõik tagamata ja eelisõiguseta kohustused, välja arvatud tagamisele kuuluvad hoiused, on täielikult alla hinnatud või teisendatud, võib Finantsinspektsioon erandkorras teha otsuse kasutada rohkem kui 5 protsenti kriisilahendusfondi vahendeid krediidiasutuse varadest ning kui kriisilahendusfondi vahendid pärinevad:
+
+1\) alternatiivsetest rahastamisallikatest vastavalt Tagatisfondi seaduse §-s 86, 86<sup>1</sup> või 87 sätestatule;
+
+2\) Tagatisfondi seaduses sätestatud kriisilahendusfondi osamaksetest, mida ei ole eelnevalt kriisilahendusmenetluses oleva krediidiasutuse hüvanguks kasutatud.
+
+(6) Käesoleva paragrahvi lõikes 3 sätestatud künnist võib erandkorras mitte kohaldada ja kriisilahendusfondi vahendeid võib käesoleva paragrahvi lõike 2 kohaselt kasutada, kui:
+
+1\) käesoleva paragrahvi lõikes 3 nimetatud aktsionärid või võlausaldajad kannavad eelnevalt kahju vähemalt 20 protsenti krediidiasutuse riskiga kaalutud varadest;
+
+2\) kriisilahendusfondi on vastavalt Tagatisfondi seaduses sätestatule kogutud osamaksete kaudu, mis ei sisalda hoiuste tagamise osafondi tehtavaid kvartaliosamakseid, summa, mis moodustab vähemalt 3 protsenti Eestis tegevusloa saanud krediidiasutuste tagatud ja hüvitamisele kuuluvatest hoiustest, ja
+
+3\) krediidiasutuse varade maht konsolideeritud alusel on väiksem kui 900 miljardit eurot.
+
+### § 79. Riigipoolsete meetmete kasutamine kriisilahendusmenetluses
+
+(1) Erakorralist avalikku toetust võib finantsstabiilsuse säilitamise eesmärgil anda kriisilahendusmenetluses olevale krediidiasutusele ja rakendada muid riigipoolseid meetmeid (edaspidi *riigipoolsed meetmed*) üksnes juhul, kui:
+
+1\) on konsulteeritud Finantsinspektsiooniga;
+
+2\) Finantsinspektsioon on hinnanud käesolevas seaduses sätestatud kriisilahendusmeetmete rakendamise võimalikkust või neid on reaalselt rakendatud maksimaalses ulatuses.
+
+(2) Riigipoolse meetmena käesoleva seaduse tähenduses käsitatakse riigiabi Euroopa Liidu toimimise lepingu artikli 107 lõike 1 tähenduses või muud sellist toetust, mis oleks riigiabi, kui seda osutataks riigi tasandil, ning mida antakse krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva isiku jätkusuutlikkuse, likviidsuse või maksevõimelisuse säilitamiseks või taastamiseks.
+
+(3) Riigipoolse meetmena käsitatakse muu hulgas kriisilahendusmenetluses oleva krediidiasutuse või temaga ühte konsolideerimisgruppi kuuluva isiku:
+
+1\) aktsiate või muude kapitaliinstrumentide omandamist või muul kujul rekapitaliseerimist;
+
+2\) ühe ajutise kontrollsuhte saavutamist, sealhulgas krediidiasutuse aktsiate sundvõõrandamist vastavalt krediidiasutuste seaduses sätestatule.
+
+(4) Riigipoolseid meetmeid võib rakendada üksnes juhul, kui kriisilahendusmenetluse algatamise tingimused on täidetud ja kui nende rakendamine vastab vähemalt ühele järgmistest tingimustest:
+
+1\) pärast konsulteerimist Finantsinspektsiooni ja Eesti Pangaga on jõutud seisukohale, et üksnes kriisilahendusmeetme rakendamine ei hoia ära negatiivset mõju finantssüsteemile;
+
+2\) üksnes kriisilahendusmeetme rakendamine ei kaitse piisavalt avalikke huve ja kui eelnevalt on Eesti Pank andnud erakorralist likviidsuslaenu;
+
+3\) pärast konsulteerimist Finantsinspektsiooniga on jõutud seisukohale, et üksnes kriisilahendusmeetme rakendamine ei kaitse piisavalt avalikke huve ja kriisilahendusmenetluses oleva krediidiasutuse või temaga samasse konsolideerimisgruppi kuuluva isiku aktsiaid või muid kapitaliinstrumente on juba omandatud ning on asjakohane saavutada selle krediidiasutuse või isiku üle kontrolliv osalus.
+
+(5) Käesoleva paragrahvi lõikes 3 nimetatud osalused või kapitaliinstrumendid võõrandatakse eraõiguslikele juriidilistele isikutele esimesel võimalusel, kui turu- ja finantstingimused selleks sobivad.
+
+## 8. peatükk — Õiguskaitsevahendid
+
+### § 80. Kahju hüvitamise alused
+
+(1) Kui käesoleva seaduse 5. peatüki kohaselt läbi viidud varalise seisundi hindamise käigus tehakse kindlaks, et krediidiasutuse aktsionär või võlausaldaja on kandnud suuremat kahju, kui ta oleks kandnud krediidiasutuse lõpetamisel ja likvideerimisel pankrotimenetluses, on tal õigus saada Tagatisfondilt hüvitist tekkinud vahe ulatuses.
+
+(2) Käesoleva paragrahvi lõikes 1 sätestatut kohaldatakse ka juhul, kui:
+
+1\) kriisilahendusmenetluses on üle antud osa kriisilahendusmenetluses oleva krediidiasutuse õigustest, varast ja kohustustest ning nende aktsionäride ja võlausaldajate nõuded, kelle nõudeid ei ole üle antud, rahuldatakse sellises osas, nagu need oleks rahuldatud, kui kriisilahendusmenetluses olev krediidiasutus oleks lõpetatud ja likvideeritud pankrotimenetluses;
+
+2\) kriisilahendusmenetluses on rakendatud kohustuste ja nõudeõiguste teisendamise meedet, mille puhul ei kata need aktsionärid ja võlausaldajad, kelle nõuded hinnati alla või teisendati omakapitaliks, suuremat kahjumit kui see, mida nad oleksid katnud juhul, kui kriisilahendusmenetluses olev krediidiasutus oleks lõpetatud ja likvideeritud pankrotimenetluses.
+
+(3) Kui järelhindamise tulemuse kohaselt on krediidiasutuse vara netoväärtus suurem kui esialgse hindamise käigus leitud väärtus, võib Finantsinspektsioon:
+
+1\) suurendada võlausaldajate või aktsionäride nõuete ja instrumentide väärtust, mis on varem alla hinnatud kohustuste ja nõudeõiguste teisendamise meetme rakendamise käigus või nimetatud väärtuse taastada;
+
+2\) anda sildasutusele või vara valitsemise ettevõtjale korralduse suurendada võlausaldajatele või aktsionäridele makstava hüvitise väärtust seoses kriisilahendusmenetluses oleva krediidiasutuse vara, õiguste ja kohustuste või aktsiatega.
+
+(4) Hüvitise määramisega seotud nõuded vaadatakse läbi tsiviilkohtumenetluse korras hagita menetluses. Avaldus hüvitise määramiseks tuleb kohtule esitada kolme kuu jooksul järelhindamise tulemustele tugineva Finantsinspektsiooni juhatuse otsuse avaldamisest arvates.
+
+(4<sup>1</sup>) Käesoleva paragrahvi lõikes 4 sätestatut kohaldatakse ka käesoleva seaduse § 55 lõikes 12 nimetatud vara üleandmisest tulenevate vaidluste suhtes.
+
+\[RT I, 10.01.2019, 1 - jõust. 20.01.2019\]
+
+(5) Finantsinspektsiooni kriisilahendusmenetluse algatamise või kriisilahendusmeetme või -õiguse rakendamise otsuse osaline või täielik tühistamine ei mõjuta kriisilahendusmenetluse ajal tehtud tehingute ja toimingute kehtivust ja kahju hüvitis piirdub otsese varalise kahju hüvitamisega.
+
+## 9. peatükk — Piiriülese konsolideerimisgrupi kriisilahendus
+
+### 1. jagu — Kriisilahenduskolleegiumid
+
+#### § 81. Kriisilahenduskolleegiumid ja nende juhtimine
+
+(1) Kui Finantsinspektsioon on konsolideerimisgrupi kriisilahendusasutus, peab ta moodustama kriisilahenduskolleegiumi, et tõhustada eelkõige käesoleva seaduse §-des 17–19, 28, 30, 33, 35, 84 ja 85 nimetatud ülesannete täitmist ning vajaduse korral kooskõlastada kriisilahendusalast tegevust ja koostööd asjaomaste kolmandate riikide kriisilahendusasutustega.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2) Lisaks Finantsinspektsioonile on kriisilahenduskolleegiumi liikmeteks:
+
+1\) nende lepinguriikide kriisilahendusasutused, kus asuvad konsolideerimisgruppi kuuluvad isikud või olulise tähtsusega filiaalid;
+
+2\) konsolideeritud järelevalvet teostav finantsjärelevalve asutus ja nende lepinguriikide finantsjärelevalve asutused, kus asuvad konsolideerimisgruppi kuuluvad isikud või olulise tähtsusega filiaalid;
+
+3\) Eesti Pank või teiste käesoleva lõike punktides 1 ja 2 nimetatud lepinguriikide keskpangad, kui keskpangad ei ole ise finantsjärelevalve asutused ja kui lepinguriikide finantsjärelevalve asutused otsustavad keskpanku kriisilahenduskolleegiumisse kaasata;
+
+4\) Rahandusministeerium või teiste käesoleva lõike punktides 1 ja 2 nimetatud lepinguriikide asjaomased ministeeriumid juhul, kui nad ei ole ise kriisilahendusasutused;
+
+5\) Tagatisfond või teiste käesoleva lõike punktides 1 ja 2 nimetatud lepinguriikide hoiuste tagamise skeemid;
+
+6\) Euroopa Pangandusjärelevalve Asutus kui vaatleja.
+
+(3) Kriisilahenduskolleegiumisse võib lisaks vaatlejana kutsuda osalema kolmandate riikide kriisilahendusasutusi, kui kolmandas riigis asutatud emaettevõtjaga samasse konsolideerimisgruppi kuuluvad Euroopa Majanduspiirkonnas asutatud tütarettevõtjad või olulise tähtsusega filiaalid või kui Euroopa Majanduspiirkonnas asutatud emaettevõtjaga samasse konsolideerimisgruppi kuuluvad kolmandas riigis asutatud tütarettevõtjad või olulised filiaalid tingimusel, et nende suhtes kohaldatakse konfidentsiaalsusnõudeid, mis on samaväärsed käesoleva seaduse §-s 90 sätestatud tingimustega.
+
+(4) Kriisilahenduskolleegiumi ülesanded on:
+
+1\) olulise teabe vahetamine konsolideerimisgrupi kriisilahenduskavade väljatöötamiseks, ettevalmistavate ja ennetavate meetmete ning kriisilahendusmeetmete ja -õiguste kohaldamiseks konsolideerimisgruppide suhtes;
+
+2\) konsolideerimisgrupi kriisilahenduskavade väljatöötamine;
+
+3\) konsolideerimisgrupi kriisilahenduskõlblikkuse hindamine;
+
+4\) konsolideerimisgruppide kriisilahenduskõlblikkust takistavatele probleemidele lahenduse otsimine või nende lahendamine;
+
+5\) käesoleva seaduse §-des 84 ja 85 sätestatud konsolideerimisgrupi kriisilahendusskeemi väljatöötamise vajaduse üle otsustamine ja selles kokkuleppele jõudmine;
+
+6\) konsolideerimisgrupi kriisilahenduse strateegiatest ja kriisilahendusskeemidest avalikkuse teavitamise koordineerimine;
+
+7\) kriisilahendusfondide vahendite kasutamise koordineerimine;
+
+8\) konsolideerimisgrupi jaoks omavahendite miinimumnõuete kehtestamine konsolideeritud ja tütarettevõtja tasandil käesoleva seaduse 2. peatüki 2. jao kohaselt.
+
+(5) Kui Finantsinspektsioon on konsolideerimisgrupi kriisilahendusasutus, täidab ta kriisilahenduskolleegiumi juhtimisel järgmisi ülesandeid:
+
+1\) koostab pärast teiste kriisilahenduskolleegiumi liikmetega konsulteerimist kriisilahenduskolleegiumi toimimiseks protseduurireeglid;
+
+2\) koordineerib kriisilahenduskolleegiumi tegevust;
+
+3\) kutsub kokku ja juhatab kriisilahenduskolleegiumi koosolekuid ning teavitab eelnevalt selle liikmeid koosolekute korraldamisest, arutatavatest küsimustest ja päevakorrapunktidest;
+
+4\) otsustab, millised liikmed ja vaatlejad kutsutakse kriisilahenduskolleegiumi koosolekutel osalema, võttes arvesse arutatava küsimuse asjakohasust asjaomaste liikmete ja vaatlejate jaoks, eelkõige selle võimalikku mõju asjaomaste lepinguriikide finantsstabiilsusele;
+
+5\) teavitab kriisilahenduskolleegiumi liikmeid koosolekute otsustest.
+
+(6) Kui kolmandas riigis asutatud krediidiasutusel või konsolideerimisgrupi emaettevõtjal on Eestis ja lisaks vähemalt veel ühes lepinguriigis tütarettevõtja või olulise tähtsusega filiaal, moodustab Finantsinspektsioon koos asjaomase lepinguriigiga kriisilahenduskolleegiumi (edaspidi *kolmandate riikidega seotud kriisilahenduskolleegium*). Kui Finantsinspektsioon ega ükski teine lepinguriigi finantsjärelevalve asutus ei teosta selle grupi üle konsolideeritud järelevalvet, lepib Finantsinspektsioon selle lepinguriigiga kokku, kes juhib kolmandate riikidega seotud kriisilahenduskolleegiumi. Kolmandate riikidega seotud kriisilahenduskolleegiumile kohaldatakse käesolevas paragrahvis kriisilahenduskolleegiumi kohta sätestatut.
+
+(7) Kui Finantsinspektsioon on konsolideerimisgrupi kriisilahendusasutus, ei pea ta kriisilahenduskolleegiumi moodustama, kui muul kujul moodustatud koostöövormid või kolleegiumid täidavad samu funktsioone ja ülesandeid, mis on sätestatud käesolevas paragrahvis, ning järgivad käesolevas paragrahvis sätestatud liikmelisuse ja kolleegiumides osalemise tingimusi ja menetlusi ning käesoleva seaduse §-s 83 sätestatud teabe vahetamise nõudeid.
+
+#### § 81<sup>1</sup>. Euroopa kriisilahenduskolleegium
+
+(1) Kui kolmanda riigi krediidiasutusel või emaettevõtjal on Euroopa Liidus asutatud tütarettevõtja või kahes või enamas lepinguriigis asutatud Euroopa Liidus tegutsev emaettevõtja või kaks või enam kahe või enama lepinguriigi poolt oluliseks peetavat Euroopa Liidu filiaali ja üks eelnimetatud üksustest asub Eestis, moodustab Finantsinspektsioon koos teiste seotud lepinguriikide kriisilahendusasutustega, kus antud ettevõtjad on asutatud või kus antud olulised Euroopa Liidu filiaalid asuvad, ühtse Euroopa kriisilahenduskolleegiumi.
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud Euroopa kriisilahenduskolleegium täidab käesoleva seaduse §-s 81 sätestatud funktsioone ja ülesandeid seoses käesoleva paragrahvi lõikes 1 nimetatud ettevõtjatega, kui need ülesanded on asjakohased.
+
+(3) Euroopa kriisilahenduskolleegiumi ülesandeks on muu hulgas miinimumnõuete määramine. Miinimumnõude määramisel võtavad Euroopa kriisilahenduskolleegiumi liikmed arvesse kolmandate riikide ametiasutuste vastu võetud üldist kriisilahendusstrateegiat, kui see on olemas.
+
+(4) Kui Euroopa Liidus asutatud tütarettevõtja või Euroopa Liidus tegutsev emaettevõtja ja selle tütarettevõtjast krediidiasutusest kriisilahendussubjekt ning Euroopa kriisilahenduskolleegiumi liikmed on käesoleva paragrahvi lõikes 3 nimetatud kriisilahendusstrateegiaga nõus, järgib Euroopa Liidus asutatud tütarettevõtja või konsolideeritud alusel Euroopa Liidus tegutsev emaettevõtja käesoleva seaduse §-s 19 sätestatud miinimumnõuet, emiteerides § 19 lõigetes 8 ja 8<sup>1</sup> nimetatud instrumente oma kolmandas riigis asutatud põhiemaettevõtjale või nimetatud põhiemaettevõtja tütarettevõtjale, mis on asutatud samas kolmandas riigis, või muule ettevõtjale § 19 lõike 8 punktis 1 ning lõike 8<sup>1</sup> punktides 2 ja 3 sätestatud tingimustel.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(5) Finantsinspektsioon juhatab Euroopa kriisilahenduskolleegiumi, kui:
+
+1\) kõiki kolmanda riigi krediidiasutusi või kolmanda riigi emaettevõtja Euroopa Liidu tütarettevõtjaid omab Eestis asutatud emaettevõtja;
+
+2\) Eestis tegutseva kolmanda riigi emaettevõtja või tütarettevõtja bilansiliste varade koguväärtus on suurem teiste Euroopa Liidus tegutsevate üksuste bilansiliste varade koguväärtusest.
+
+(6) Finantsinspektsioon võib kõigi asjaomaste lepinguriikide kriisilahendusasutustega vastastikusel kokkuleppel loobuda Euroopa kriisilahenduskolleegiumi moodustamise nõude täitmisest, kui muu töörühm või kolleegium täidab samu funktsioone ja samu ülesandeid, nagu on sätestatud käesoleva paragrahvi lõigetes 1–5, ning järgib kõiki käesoleva seaduse §-s 83 sätestatud teabevahetuse tingimusi ja menetlusi, sealhulgas Euroopa kriisilahenduskolleegiumide liikmesust ning neis osalemist puudutavaid tingimusi ja menetlusi. Eelnimetatud juhul kohaldatakse sellistele töörühmadele või kolleegiumidele kõiki käesoleva seaduse Euroopa kriisilahenduskolleegiume puudutavaid sätteid.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(7) Kui käesoleva paragrahvi lõikes 5 või 6 ei ole sätestatud teisiti, tegutseb Euroopa kriisilahenduskolleegium kooskõlas käesoleva seaduse §-ga 81.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+#### § 82. Teisi lepinguriike puudutavate otsuste tegemise üldpõhimõtted
+
+(1) Finantsinspektsioon peab kriisilahendusmenetlusega seotud otsuste tegemisel arvestama oma otsuste võimalikku mõju teise lepinguriigi finantssüsteemi stabiilsusele ja lähtuma otsuste tegemisel järgmistest põhimõtetest:
+
+1\) kriisilahendusmeetme rakendamisel on otsuste tegemine tõhus ja kriisilahenduskulud hoitakse tulemusliku otsuste koordineerimise ja kooskõlastamisega võimalikult väikesed;
+
+2\) otsuseid tehakse ja kriisilahendusmeetmeid rakendatakse õigel ajal ja vajaliku kiirusega;
+
+3\) otsuste tegemisel tuleb arvestada nende mõju asjaomaste lepinguriikide, sealhulgas olulise tähtsusega filiaalide asukohaks olevate lepinguriikide fiskaalseisule, kriisilahendusfondile ning hoiuste tagamise ja investeeringute tagamise süsteemile;
+
+4\) eesmärk on tasakaalustada erinevate lepinguriikide huve ja hoida ära lepinguriikide huvide ebaõiglane kahjustamine või ebaõiglane kaitsmine, sealhulgas lepinguriikidele ebaõiglase koormuse põhjustamine;
+
+5\) käesolevast seadusest tuleneva konsulteerimiskohustuse puhul tuleb kavandatava otsuse või meetme rakendamisel konsulteerida eelkõige nende asjaolude üle, millel on või tõenäoliselt on mõju Euroopa Liidus asutatud konsolideerimisgrupi ema- või tütarettevõtjale või selle filiaalile ja selle lepinguriigi stabiilsusele, kus selle grupi üksus või filiaal on asutatud;
+
+6\) kriisilahendusmeetmete ja -õiguste rakendamisel järgitakse kriisilahenduskava käesoleva seaduse §-s 30 sätestatud menetluse alusel, välja arvatud juhul, kui leitakse, et kriisilahendamise eesmärke on võimalik saavutada tulemuslikumalt muude meetmetega, mida kriisilahenduskavas ei ole ette nähtud.
+
+(2) Lisaks käesoleva paragrahvi lõikes 1 sätestatule teevad Finantsinspektsioon, Rahandusministeerium ja Eesti Pank koostööd, et tagada koordineeritud ja tõhus kriisilahendust käsitlevate otsuste tegemine ja meetmete rakendamine.
+
+#### § 83. Teabevahetus
+
+(1) Finantsinspektsioon ja Rahandusministeerium edastavad teineteisele ning teiste riikide asjaomastele ametiasutustele õigeaegselt teavet, mis on vajalik käesolevast seadusest tulenevate ülesannete täitmiseks. Eelkõige peab Finantsinspektsioon edastama Rahandusministeeriumile teavet juhul, kui kriisilahendusmeetme või -õiguse rakendamiseks võib olla vajalik kasutada riigieelarve või muid avalikke või kriisilahendusfondi vahendeid.
+
+(2) Kui Finantsinspektsioon on konsolideerimisgrupi kriisilahendusasutus, peab ta koordineerima kogu vajaliku teabe liikumist kriisilahenduskolleegiumisse kuuluvate kriisilahendusasutuste vahel ning edastama neile vajalikku teavet õigeaegselt.
+
+(3) Kui Finantsinspektsioon on saanud teavet kolmanda riigi kriisilahendusasutuselt, palub ta temalt nõusolekut selle teabe edastamiseks, välja arvatud juhul, kui kolmanda riigi kriisilahendusasutus on selle teabe edastamisega juba nõustunud. Finantsinspektsioon ei edasta kolmanda riigi kriisilahendusasutuselt saadud teavet, kui see ei ole teabe edasisaatmiseks luba andnud.
+
+#### § 84. Konsolideerimisgrupi kriisilahendus tütarettevõtja kriisilahendusasutuse teavituse korral
+
+(1) Kui Finantsinspektsiooni hinnangul on tingimused kriisilahendusmenetluse algatamiseks konsolideerimisgruppi kuuluva tütarettevõtjast krediidiasutuse või muu gruppi kuuluva tütarettevõtja puhul täidetud, teavitab ta viivitamata konsolideerimisgrupi kriisilahendusasutust, finantsjärelevalve asutust, kes teostab konsolideeritud järelevalvet, ning teisi kriisilahenduskolleegiumi liikmeid:
+
+1\) otsusest selle kohta, kas nimetatud tütarettevõtja puhul on täidetud kriisilahendusmenetluse algatamise tingimused;
+
+2\) kavandatavatest asjakohastest kriisilahendus- või maksejõuetusmenetluse meetmetest või -õigustest.
+
+(2) Kui Finantsinspektsioon on konsolideerimisgrupi kriisilahendusasutus ja saab käesoleva paragrahvi lõike 1 kohase teate teise lepinguriigi kriisilahendusasutuselt, hindab ta pärast teiste kriisilahenduskolleegiumi liikmetega konsulteerimist teate edastanud kriisilahendusasutuse kavandatavate meetmete tõenäolist mõju konsolideerimisgrupile ja konsolideerimisgruppi kuuluvatele isikutele ning seda, kas kavandatavad meetmed suurendaksid tõenäosust, et kriisilahendusmenetluse algatamise tingimused seoses konsolideerimisgrupi teistes lepinguriikides asuvate isikutega täidetakse.
+
+(3) Kui Finantsinspektsioon leiab vastavalt käesoleva paragrahvi lõikes 2 sätestatule, et kavandatavad meetmed ei suurenda tõenäosust, et kriisilahendusmenetluse algatamise tingimused seoses konsolideerimisgrupi teistes lepinguriikides asuvate isikutega on täidetud, võib Finantsinspektsioon rakendada muid meetmeid. Kui Finantsinspektsioon ei ole käesoleva paragrahvi lõike 1 kohast teadet edastanud kriisilahendusasutusele ega konsolideerimisgrupi kriisilahendusasutusele, võib ta samuti rakendada muid meetmeid, kui konsolideerimisgrupi kriisilahendusasutus on seisukohal, et kavandatavad meetmed ei suurenda tõenäosust, et kriisilahendusmenetluse algatamise tingimused seoses konsolideerimisgrupi teistes lepinguriikides asuvate isikutega on täidetud.
+
+(4) Kui Finantsinspektsioon leiab vastavalt käesoleva paragrahvi lõikes 2 sätestatule, et kavandatavad meetmed suurendavad tõenäosust, et kriisilahendusmenetluse algatamise tingimused seoses konsolideerimisgrupi teistes lepinguriikides asuvate isikutega on täidetud, peab ta 24 tunni jooksul vastava teate saamisest arvates pakkuma kriisilahenduskolleegiumi liikmetele välja kriisilahendusskeemi ettepaneku. 24-tunnist tähtaega võib pikendada selle kriisilahendusasutuse nõusolekul, kes vastava teate esitas.
+
+(5) Kui Finantsinspektsioon on teate esitaja käesoleva paragrahvi lõike 1 kohaselt ja konsolideerimisgrupi kriisilahendusasutus ei ole käesoleva paragrahvi lõikes 1 sätestatud tähtaja jooksul oma hinnangut esitanud, võib Finantsinspektsioon rakendada käesoleva paragrahvi lõike 1 punktis 2 nimetatud meetmeid.
+
+(6) Konsolideerimisgrupi kriisilahendusskeemis:
+
+1\) võetakse arvesse ja järgitakse kriisilahenduskavasid, välja arvatud juhul, kui Finantsinspektsioon jõuab koos teiste lepinguriikide kriisilahendusasutustega seisukohale, et kriisilahenduse eesmärke on võimalik tõhusamalt saavutada meetmete abil, mida ei ole kriisilahenduskavades ette nähtud;
+
+2\) kirjeldatakse kriisilahendusmeetmeid, mida Finantsinspektsioon ja teised lepinguriikide kriisilahendusasutused peaksid konsolideerimisgrupi suhtes rakendama eesmärgiga täita kriisilahenduse ülesandeid või saavutada kriisilahenduse eesmärke vastavalt käesoleva seaduse §-des 4 ja 40 sätestatule;
+
+3\) täpsustatakse, kuidas kriisilahendusmeetmeid tuleb kriisilahendusasutuste vahel koordineerida;
+
+4\) kehtestatakse kriisilahendusmenetluse rahastamiskava, mis võtab arvesse grupi kriisilahenduskavas sätestatut ning vastutuse ja kulude jagamise põhimõtteid vastavalt käesoleva seaduse § 29 lõike 2 punktis 6 ja Tagatisfondi seaduse §-s 73<sup>21</sup> sätestatule.
+
+(7) Finantsinspektsioon lepib konsolideerimisgrupi kriisilahendusskeemi kokku koostöös teiste lepinguriikide kriisilahendusasutustega.
+
+(8) Kui Finantsinspektsioon ei nõustu konsolideerimisgrupi kriisilahendusasutuse pakutud kriisilahendusskeemiga või on seisukohal, et finantsstabiilsuse huvides on asjakohasem rakendada iseseisvalt muid meetmeid, kui on ette nähtud kriisilahendusskeemis, peab Finantsinspektsioon koos põhjendustega teavitama nendest asjaoludest konsolideerimisgrupi kriisilahendusasutust ja konsolideerimisgrupiga seotud teisi kriisilahendusasutusi. Mittenõustumisel tuleb arvesse võtta kriisilahenduskavas kokkulepitut, potentsiaalset mõju teiste asjaomaste lepinguriikide finantsstabiilsusele ja samuti Finantsinspektsiooni rakendatavate meetmete mõju konsolideerimisgruppi kuuluvatele teistele isikutele.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(9) Käesoleva paragrahvi lõikes 7 nimetatud otsust või lõikes 8 sätestatud ühise otsuse puudumise korral Finantsinspektsiooni tehtud otsust käsitatakse lõplikuna teiste lepinguriikide kriisilahendusasutuste suhtes.
+
+(10) Kui Finantsinspektsioon konsolideerimisgrupi kriisilahendusskeemi ei rakenda, peab ta omapoolsete meetmete rakendamisel teavitama nendest regulaarselt teiste lepinguriikide kriisilahendusasutusi ja tegema nendega kriisilahenduskolleegiumis koostööd, et luua kõigi maksejõuetute või tõenäoliselt maksejõuetuks muutuvate konsolideerimisgruppi kuuluvate isikute jaoks koordineeritud kriisilahendusstrateegia.
+
+#### § 85. Konsolideerimisgrupi kriisilahendus emaettevõtja kriisilahendusasutuse teavituse korral
+
+(1) Kui Finantsinspektsioon on konsolideerimisgrupi kriisilahendusasutus ja tema hinnangul on tingimused kriisilahendusmenetluse algatamiseks konsolideerimisgrupi emaettevõtja puhul täidetud, teavitab ta viivitamata teisi kriisilahenduskolleegiumi liikmeid:
+
+1\) otsusest selle kohta, kas nimetatud emaettevõtja puhul on täidetud kriisilahendusmenetluse algatamise tingimused;
+
+2\) kavandatavatest asjakohastest kriisilahendus- või maksejõuetusmenetluse meetmetest või -õigustest.
+
+(2) Käesoleva paragrahvi lõike 1 punktis 2 nimetatud meetmed võivad hõlmata ka konsolideerimisgrupi kriisilahendusskeemi rakendamist, kui esineb mõni järgmistest asjaoludest:
+
+1\) emaettevõtja tasandil rakendatavad meetmed suurendavad tõenäosust, et kriisilahendusmenetluse algatamise tingimused seoses grupi teistes lepinguriikides asuvate isikutega täidetakse;
+
+2\) emaettevõtja tasandil rakendatavad meetmed üksi ei ole kriisiolukorra stabiliseerimiseks piisavad või tõenäoliselt ei anna optimaalset tulemust;
+
+3\) üks või mitu konsolideerimisgruppi kuuluvat tütarettevõtjat vastab kriisilahendusmenetluse algatamise tingimustele nende tütarettevõtjate kriisilahendusasutuste hinnangul;
+
+4\) konsolideerimisgrupi tasandil rakendatavad meetmed on gruppi kuuluvatele tütarettevõtjatele vajalikud.
+
+(3) Kui Finantsinspektsiooni käesoleva paragrahvi lõike 1 punktis 2 nimetatud meetmed ei kajastu konsolideerimisgrupi kriisilahendusskeemis, teeb Finantsinspektsioon otsuse pärast teiste kriisilahenduskolleegiumi liikmetega konsulteerimist. Finantsinspektsioon võtab otsuse tegemisel arvesse ja järgib kriisilahenduskava, välja arvatud juhul, kui ta jõuab koos teiste lepinguriikide kriisilahendusasutustega seisukohale, et kriisilahenduse eesmärke on võimalik tõhusamalt saavutada meetmete abil, mida ei ole kriisilahenduskavades ette nähtud, samuti võtab Finantsinspektsioon arvesse finantsstabiilsuse olukorda teistes asjaomastes lepinguriikides.
+
+(4) Käesoleva paragrahvi lõikes 2 sätestatu korral lepib Finantsinspektsioon kui konsolideerimisgrupi kriisilahendusasutus konsolideerimisgrupi kriisilahendusskeemi kokku koostöös teiste lepinguriikide kriisilahendusasutustega.
+
+### 2. jagu — Kolmanda riigi krediidiasutuste kriisilahendus
+
+#### § 86. Kolmanda riigi kriisilahendusmenetluse tunnustamine ja selle kohaselt tehtud otsuste täitmine
+
+(1) Kolmandate riikidega seotud kriisilahenduskolleegiumis tehakse koostöös ühine otsus selle kohta, kas tunnustada kolmandas riigis toimuvat kriisilahendusmenetlust. Kriisilahendusmenetlus peab olema seotud kolmandas riigis asutatud krediidiasutuse või konsolideerimisgrupi emaettevõtjaga:
+
+1\) mis on asutanud Eestis ja millel on vähemalt veel ühes lepinguriigis tütarettevõtja või olulise tähtsusega filiaal;
+
+2\) millel on muul juhul Eestis ja vähemalt veel ühes lepinguriigis vara, õigused või kohustused ning millele kohaldatakse Eesti ja muu lepinguriigi õigust.
+
+(2) Käesoleva paragrahvi lõikes 1 sätestatut ei kohaldata käesoleva seaduse §-s 87 sätestatud juhul.
+
+(3) Kui kolmandas riigis toimuva kriisilahendusmenetluse tunnustamises on jõutud ühisele otsusele, rakendab Finantsinspektsioon kolmanda riigi kriisilahendusmenetluses tehtud otsuseid vastavalt käesolevale seadusele ja krediidiasutuste seadusele.
+
+(4) Kui kolmandas riigis toimuva kriisilahendusmenetluse tunnustamisel ei jõuta ühisele otsusele, teeb Finantsinspektsioon ise otsuse selle kohta, kas tunnustada kolmandas riigis toimuvat kriisilahendusmenetlust ja kas selles tehtud otsuseid rakendada. Otsuse tegemisel võtab Finantsinspektsioon arvesse teiste asjaomaste lepinguriikide huve, kus kolmanda riigi krediidiasutus või konsolideerimisgrupi emaettevõtja tegutseb, ning mõju, mida kolmandas riigis toimuva kriisilahendusmenetluse tunnustamine ja kriisilahendusmenetluses tehtud otsuste täitmine võib avaldada konsolideerimisgrupi muudele üksustele ja teiste asjaomaste lepinguriikide finantsstabiilsusele.
+
+(5) Finantsinspektsioon võib nimetatud eesmärkide saavutamiseks:
+
+1\) kasutada kriisilahendusõigusi kolmanda riigi krediidiasutuse või konsolideerimisgrupi emaettevõtja vara suhtes, mis asub Eestis või millele kohaldatakse Eesti õigust;
+
+2\) kasutada kriisilahendusõigusi kolmanda riigi krediidiasutuse nende õiguste või kohustuste suhtes, mida hoitakse Eestis asuva filiaali nimel või millele kohaldatakse Eesti õigust või millega seotud nõuded on sisse nõutavad Eestis;
+
+3\) viia lõpule aktsiate või muude omandiõiguse instrumentide üleandmise kolmanda riigi konsolideerimisgrupi Eestis asutatud tütarettevõtjale või nõuda teiselt isikult vastava meetme rakendamist;
+
+4\) peatada makseõigused, ülekandekohustused, tagatistest tulenevad õigused või ajutiselt lepingu täitmise, kui sellised õigused on vajalikud kolmanda riigi kriisilahendusmenetluses tehtud otsuste täitmiseks;
+
+5\) tunnistada mittetäidetavaks ükskõik millise õiguse üles öelda või lõpetada leping või mõjutada selliseid lepingulisi õigusi, mille omanik on kolmanda riigi krediidiasutus või muu temaga samasse konsolideerimisgruppi kuuluv isik, kui see õigus tuleneb kriisilahendusmeetmest, mille on kolmanda riigi kriisilahendusasutus ise otseselt nimetatud isikute suhtes rakendanud või mis on rakendatud muul viisil vastavalt selles kolmandas riigis kohaldatavatele kriisilahenduskorda reguleerivatele õigusaktidele.
+
+(6) Finantsinspektsioon võib avalikes huvides vajaduse korral rakendada kolmanda riigi konsolideerimisgrupi emaettevõtja suhtes kriisilahendusmeedet, kui asjaomase kolmanda riigi kriisilahendus- või muu ametiasutus teeb kindlaks, et selles kolmandas riigis asutatud krediidiasutus vastab selle kolmanda riigi õiguse kohaselt kriisilahenduse eeltingimustele. Finantsinspektsiooni pädevuses on kasutada emaettevõtja suhtes kõiki kriisilahendusõigusi.
+
+(7) Kolmanda riigi kriisilahendusmenetluse tunnustamine ja selle alusel tehtud otsuste täitmine ei piira pankroti- ega likvideerimismenetluse läbiviimist Eestis asutatud isikute suhtes.
+
+(8) Käesolevat paragrahvi kohaldatakse kolmandas riigis toimuvale kriisilahendusmenetlusele kuni selle ajani, kui asjaomase kolmanda riigiga sõlmitud Euroopa Parlamendi ja nõukogu direktiivi 2014/59/EL artikli 93 lõikes 1 nimetatud rahvusvaheline leping jõustub. Käesolevat paragrahvi kohaldatakse ka pärast asjaomase kolmanda riigiga sõlmitud rahvusvahelise lepingu jõustumist niivõrd, kuivõrd see leping ei reguleeri kolmandas riigis toimuva kriisilahendusmenetluse tunnustamist ja kriisilahendusmenetluses tehtud otsuste täitmist.
+
+#### § 87. Õigus keelduda kolmanda riigi kriisilahendusmenetluse tunnustamisest ja kriisilahendusmenetluses tehtud otsuste täitmisest
+
+Finantsinspektsioon võib pärast konsulteerimist kolmandate riikidega seotud kriisilahenduskolleegiumisse kuuluvate teiste lepinguriikide kriisilahendusasutustega keelduda tunnustamast kolmanda riigi kriisilahendusmenetlust või täitmast kriisilahendusmenetluses tehtud otsuseid, kui ta leiab, et:
+
+1\) kolmanda riigi kriisilahendusmenetlusel oleks ebasoodne mõju Eesti või mõne teise lepinguriigi finantsstabiilsusele;
+
+2\) Eestis asutatud filiaalile on vaja iseseisvalt rakendada kriisilahendusmeedet, et saavutada üks või mitu kriisilahenduse eesmärki;
+
+3\) võlausaldajaid, eelkõige hoiustajaid, kes asuvad või kellele tehakse makseid Eestis, ei kohelda kolmandas riigis toimuvas kriisilahendusmenetluses samaväärselt kolmanda riigi võlausaldajatega ja hoiustajatega, kellel on samasugused õigused;
+
+4\) kolmanda riigi kriisilahendusmenetluse tunnustamine või kriisilahendusmenetluses tehtud otsuste täitmine tooks kaasa olulise mõju Eesti riigieelarvele või
+
+5\) sellise tunnustamise või täitmise õiguslikud tagajärjed oleksid vastuolus kehtiva õigusega.
+
+#### § 88. Kolmanda riigi krediidiasutuse Eestis asutatud filiaali kriisilahendus
+
+(1) Finantsinspektsioonil on kõik käesolevas seaduses sätestatud õigused kolmanda riigi krediidiasutuse Eestis asutatud filiaali suhtes, mis ei ole üheski kolmandas riigis kriisilahendusmenetluse subjekt või mis on kolmandas riigis menetluse subjekt, kuid mille puhul esineb üks käesoleva seaduse §-s 87 nimetatud tingimustest.
+
+(2) Finantsinspektsioon võib kasutada käesoleva paragrahvi lõikes 1 nimetatud õigusi juhul, kui tema arvates on vastava meetme rakendamine vajalik tulenevalt avalikust huvist ja täidetud on vähemalt üks järgmistest tingimustest:
+
+1\) filiaal ei vasta enam või tõenäoliselt ei vasta tegevusloa andmise ja tegutsemise tingimustele ning puudub väljavaade, et mis tahes eraõiguslik, järelevalve- või asjaomase kolmanda riigi meede taastaks tingimustele vastamise või hoiaks mõistliku aja jooksul ära maksejõuetuse;
+
+2\) Finantsinspektsioon leiab, et kolmanda riigi krediidiasutus ei suuda või ei soovi või tõenäoliselt ei suuda täita oma kohustusi filiaali võlausaldajate ees või nende kohustuste sissenõutavaks muutumisel, mis on võetud filiaali nimel, ning on veendunud, et asjaomase kolmanda riigi krediidiasutuse suhtes ei ole mõistliku aja jooksul algatatud või ei algatata kolmanda riigi õiguse kohaselt kriisilahendusmenetlust ega pankroti- või likvideerimismenetlust;
+
+3\) kolmanda riigi kriisilahendus- või muu ametiasutus on algatanud kolmandas riigis kriisilahendusmenetluse seoses kolmanda riigi krediidiasutusega või on teavitanud Finantsinspektsiooni kavatsusest selline menetlus algatada.
+
+(3) Kui Finantsinspektsioon rakendab seoses filiaaliga iseseisvalt kriisilahendusmeedet, lähtub ta kriisilahenduse eesmärkidest ja üldpõhimõtetest ning rakendab vastavat meedet käesoleva seaduse §-s 40 sätestatud kriisilahendusmenetluse üldpõhimõtteid ja 5. peatükis varalise seisundi hindamise kohta sätestatut järgides.
+
+#### § 89. Koostöö kolmanda riigi kriisilahendus- ja muude ametiasutustega
+
+(1) Finantsinspektsioon sõlmib vajaduse korral asjaomase kolmanda riigi kriisilahendus- või muu ametiasutusega koostöölepingu. Koostöölepingus lepitakse kokku kolmanda riigi kriisilahendus- või muu ametiasutuse ja Finantsinspektsiooni vaheline menetlus ning kord vajaliku teabe vahetamiseks ja koostööks järgmiste ülesannete täitmisel:
+
+1\) kriisilahenduskavade väljatöötamine ja uuendamine;
+
+2\) koostöö kriisilahenduskavade, sealhulgas käesoleva seaduse §-de 86 ja 88 alusel õiguste kasutamise põhimõtete ning asjaomase kolmanda riigi õiguses sätestatud sarnaste õiguste kasutamise põhimõtete väljatöötamisel;
+
+3\) kriisilahendusmeetmete ning -õiguste rakendamine ja asjaomase kolmanda riigi õiguses sätestatud sarnaste õiguste kasutamine;
+
+4\) varajase sekkumise meetme rakendamine ja konsulteerimine enne märkimisväärse meetme võtmist vastavalt käesolevale seadusele või asjaomase kolmanda riigi õigusele, mis mõjutab krediidiasutust või konsolideerimisgruppi;
+
+5\) avalikkuse teavitamise koordineerimine ühiste kriisilahendusmeetmete ning -õiguste rakendamise korral.
+
+(2) Käesolevas paragrahvis sätestatu ei välista Finantsinspektsiooni õigust sõlmida kolmandate riikidega kahe- või mitmepoolseid kokkuleppeid kooskõlas Euroopa Parlamendi ja nõukogu määruse (EL) nr 1093/2010 artikliga 33.
+
+(3) Finantsinspektsioon teavitab Euroopa Pangandusjärelevalve Asutust kolmandate riikide kriisilahendus- või muude ametiasutustega sõlmitud koostöölepingutest.
+
+#### § 90. Konfidentsiaalse teabe edastamine kolmandale riigile
+
+(1) Finantsinspektsioon ja Rahandusministeerium edastavad konfidentsiaalset teavet, sealhulgas finantsseisundi taastamise kavasid, asjaomase kolmanda riigi kriisilahendusasutusele või muule ametiasutusele ainult juhul, kui on täidetud järgmised tingimused:
+
+1\) kolmanda riigi kriisilahendusasutuse või muu ametiasutuse suhtes kehtivad ametisaladuse hoidmise nõuded, mis on samaväärsed vähemalt käesoleva seaduse §-s 51 sätestatuga;
+
+2\) seda teavet on kolmanda riigi kriisilahendusasutusel või muul ametiasutusel vaja oma riigisisese õiguse kohaste kriisilahendusülesannete täitmiseks ja seda ei kasutata ühelgi teisel eesmärgil.
+
+(2) Kui teabevahetus puudutab isikuandmeid, kohaldatakse isikuandmete töötlemisel ja kolmanda riigi ametiasutusele edastamisel isikuandmete kaitse seadust ning Euroopa Parlamendi ja nõukogu määrust (EL) 2016/679 füüsiliste isikute kaitse kohta isikuandmete töötlemisel ja selliste andmete vaba liikumise ning direktiivi 95/46/EÜ kehtetuks tunnistamise kohta (isikuandmete kaitse üldmäärus) (ELT L 119, 04.05.2016, lk 1–88).
+
+\[RT I, 13.03.2019, 2 - jõust. 15.03.2019\]
+
+(3) Teisest lepinguriigist pärinevat konfidentsiaalset teavet võib Finantsinspektsioon või Rahandusministeerium avaldada asjaomasele kolmanda riigi kriisilahendusasutusele või muule ametiasutusele, kui on täidetud järgmised tingimused:
+
+1\) selle lepinguriigi kriisilahendusasutus või muu pädev asutus, kust teave pärineb, on selle teabe edastamisega nõus;
+
+2\) teave avaldatakse üksnes lepinguriigi kriisilahendusasutuse või muu ametiasutuse heakskiidetud eesmärgil.
+
+## 9<sup>1</sup>. peatükk — Keskse vastaspoole kriisiennetus ja -lahendus
+
+\[RT I, 30.11.2022, 1 - jõust. 10.12.2022\]
+
+### § 90<sup>1</sup>. Finantsinspektsiooni õigused järelevalve teostamisel
+
+Käesolevas seaduses ja Euroopa Parlamendi ja nõukogu määruse (EL) 2021/23 III jaotises ning nende alusel kehtestatud õigusaktides sätestatud nõuete täitmise üle järelevalve teostamisel on Finantsinspektsioonil õigus teha kesksele vastaspoolele ettekirjutusi ja asjakohaseid otsuseid.
+
+\[RT I, 30.11.2022, 1 - jõust. 10.12.2022\]
+
+### § 90<sup>2</sup>. Varajase sekkumise meetmed keskse vastaspoole suhtes
+
+(1) Keskse vastaspoole kriisiennetusena on Finantsinspektsioonil õigus rakendada Euroopa Parlamendi ja nõukogu määruse (EL) 2021/23 artiklites 18 ja 19 nimetatud varajase sekkumise meetmeid.
+
+(2) Kui Finantsinspektsioon määrab kesksele vastaspoolele ühe või mitu ajutist erihaldurit kooskõlas käesoleva paragrahvi lõikega 1, kohaldatakse vastavalt käesoleva seaduse § 37 lõikeid 1–7 ja 11–14.
+
+\[RT I, 30.11.2022, 1 - jõust. 10.12.2022\]
+
+### § 90<sup>3</sup>. Finantsinspektsiooni õigused keskse vastaspoole kriisilahenduses
+
+(1) Finantsinspektsioonil on keskse vastaspoole kriisilahenduse tulemuslikuks rakendamiseks kõik Euroopa Parlamendi ja nõukogu määruse (EL) 2021/23 artikli 48 lõikes 1 ja artiklis 49 nimetatud õigused ja õigus teha asjakohaseid ettekirjutusi ja otsuseid.
+
+(2) Finantsinspektsioon teavitab viivitamata äriregistrit ja muid asjaomaseid registreid keskse vastaspoole suhtes kriisilahendusmenetluse algatamise otsusest ja selle juhatuse või nõukogu tagasikutsumisest ning esitab kriisilahendusmeetme rakendamise otsuse või muu otsuse alusel asjakohasel juhul kandeavaldusi, sealhulgas kandeavaldusi erihalduri määramise kohta, kooskõlas Euroopa Parlamendi ja nõukogu määruse (EL) 2021/23 artikliga 50.
+
+\[RT I, 30.11.2022, 1 - jõust. 10.12.2022\]
+
+### § 90<sup>4</sup>. Erisused kriisilahenduses
+
+Keskse vastaspoole kriisilahendusmeetmete või -õiguste suhtes kohaldatakse käesoleva seaduse § 55 lõigetes 10 ja 11 sätestatud erisusi.
+
+\[RT I, 30.11.2022, 1 - jõust. 10.12.2022\]
+
+### § 90<sup>5</sup>. Kriisilahendusmenetlusega seotud piirangud
+
+Kriisilahendusmenetluses kohaldatakse käesoleva seaduse §-s 45 sätestatud piiranguid.
+
+\[RT I, 30.11.2022, 1 - jõust. 10.12.2022\]
+
+### § 90<sup>6</sup>. Nõuded sildasutusena toimiva keskse vastaspoole suhtes
+
+Euroopa Parlamendi ja nõukogu määruse (EL) 2021/23 artiklites 42 ja 43 sildasutusena toimivale kesksele vastaspoolele esitatud nõuetele lisaks kohaldatakse käesoleva seaduse §-des 62–64, § 65 lõigetes 1–3, § 66 lõigetes 1, 2 ja 4 ning §-des 67 ja 68 sätestatut.
+
+\[RT I, 30.11.2022, 1 - jõust. 10.12.2022\]
+
+### § 90<sup>7</sup>. Alternatiivsed kriisilahenduse rahastamise allikad
+
+Tulenevalt Euroopa Parlamendi ja nõukogu määruse (EL) 2021/23 artiklist 44 võib Finantsinspektsioon teha Rahandusministeeriumile või Eesti Pangale ettepaneku sõlmida leping laenu või finantstoetuse saamiseks, et tagada keskse vastaspoole kriisilahenduse vahendite tõhus rakendamine.
+
+\[RT I, 30.11.2022, 1 - jõust. 10.12.2022\]
+
+### § 90<sup>8</sup>. Riigipoolsed meetmed
+
+Kriisilahendusmenetluses olevale kesksele vastaspoolele võib finantsstabiilsuse säilitamise eesmärgil anda erakorralist avalikku toetust ja rakendada muid riigipoolseid meetmeid üksnes juhul, kui:
+
+1\) on konsulteeritud Eesti Panga ja Finantsinspektsiooniga;
+
+2\) lähtutakse Euroopa Parlamendi ja nõukogu määruse (EL) 2021/23 artikli 45 lõigetes 1 ja 3 sätestatud põhimõtetest.
+
+\[RT I, 30.11.2022, 1 - jõust. 10.12.2022\]
+
+### § 90<sup>9</sup>. Kahju hüvitamise alused
+
+(1) Finantsinspektsioonil ja Rahandusministeeriumil on õigus sisse nõuda kõik nende poolt kriisilahendusmeetmete või -õiguste rakendamisega seoses kantud mõistlikud kulud. Sellised vahendid ja kulud nõutakse sisse esimese järgu nõude võlausaldajana muu hulgas:
+
+1\) kriisilahendusmenetluses olevalt keskselt vastaspoolelt, sealhulgas tema mis tahes nõuetelt kohustusi mittetäitvate kliirivate liikmete vastu;
+
+2\) keskse vastaspoole varade, õiguste ja kohustuste üleandmise või võõrandamise korral kesksele vastaspoolele omandajalt saadud tulust enne Euroopa Parlamendi ja nõukogu määruse (EL) 2021/23 artikli 40 lõike 4 kohaldamist;
+
+3\) sildasutusena toimiva keskse vastaspoole tegevuse lõpetamise tulemusena saadud tulust enne Euroopa Parlamendi ja nõukogu määruse (EL) 2021/23 artikli 42 lõike 5 kohaldamist.
+
+(2) Lisaks käesoleva paragrahvi lõikes 1 nimetatule võib Rahandusministeerium sisse nõuda mõistlikud kulud tuludest, mis on saadud Euroopa Parlamendi ja nõukogu määruse (EL) 2021/23 artiklis 46 nimetatud riigipoolsete meetmete rakendamisel ning sama määruse artiklis 47 nimetatud ajutiselt riigi omandisse võtmisel, sealhulgas omakapitaliosaluse või sildasutuse müügist saadud tulust.
+
+(3) Kahju hüvitamisega seoses kohaldatakse käesoleva seaduse § 80 lõikeid 4 ja 5.
+
+\[RT I, 30.11.2022, 1 - jõust. 10.12.2022\]
+
+## 10. peatükk — Täiendavad haldusmeetmed
+
+### § 91. Sunniraha igakordse rakendamise ülemmäär
+
+(1) Finantsinspektsioon võib käesoleva seaduse alusel tehtud ettekirjutuse või muu haldusakti täitmata jätmise või ebakohase täitmise korral rakendada sunniraha asendustäitmise ja sunniraha seaduses sätestatud korras.
+
+(2) Haldusakti täitmata jätmise või ebakohase täitmise korral on sunniraha ülemmäär:
+
+1\) füüsilise isiku puhul esimesel korral kuni 5000 eurot ja järgmistel kordadel kuni 50 000 eurot ühe ja sama kohustuse täitmisele sundimiseks, kuid kokku mitte rohkem kui 5 000 000 eurot või kuni kahekordsele rikkumise tulemusel teenitud kasule või ärahoitud kahjule vastav summa;
+
+\[RT I, 30.11.2022, 1 - jõust. 10.12.2022\]
+
+2\) juriidilise isiku puhul kuni 32 000 eurot ja järgmistel kordadel kuni 100 000 eurot ühe ja sama kohustuse täitmisele sundimiseks, kuid kokku mitte rohkem kui 10 protsenti kogu juriidilise isiku aastasest netokäibest, sealhulgas brutotulust, mis kooskõlas Euroopa Parlamendi ja nõukogu määrusega (EL) nr 575/2013 koosneb komisjoni- ja teenustasudest ning intressi- ja muudest sellesarnastest tuludest, või kuni kahekordsele rikkumise tulemusel teenitud kasule või ärahoitud kahjule vastav summa.
+
+\[RT I, 30.11.2022, 1 - jõust. 10.12.2022\]
+
+(3) Kui juriidiline isik on emaettevõtja tütarettevõtja, on käesoleva paragrahvi lõike 2 punktis 2 nimetatud asjakohaseks käibeks eelmise majandusaasta käive põhiemaettevõtja konsolideeritud raamatupidamise aastaaruande järgi.
+
+\[RT I, 30.11.2022, 1 - jõust. 10.12.2022\]
+
+## 11. peatükk — Vastutus
+
+### § 92. Teabe avalikustamata ja esitamata jätmine
+
+(1) Käesolevas seaduses sätestatud aruande, dokumendi, selgituse või muu teabe tähtpäevaks avalikustamata jätmise või Finantsinspektsioonile esitamata jätmise, mitteõigeaegse esitamise või ebaõige, puuduliku või eksitava teabe esitamise või avalikustamise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni kümme protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+### § 93. Konsolideerimisgrupisisese finantstoetusega seotud nõuete rikkumine
+
+\[Kehtetu - RT I, 30.11.2022, 1 - jõust. 10.12.2022\]
+
+### § 94. Omavahendite ja kõlblike kohustuste miinimumnõude rikkumine
+
+(1) Käesolevas seaduses sätestatud omavahendite ja kõlblike kohustuste miinimumnõude rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni kümme protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+### § 94<sup>1</sup>. Finantsseisundi taastamise kavaga seotud nõuete rikkumine
+
+(1) Käesolevas seaduses sätestatud ning Euroopa Parlamendi ja nõukogu määruse (EL) 2021/23 artikli 9 kohase finantsseisundi taastamise kava koostamata, haldamata, ajakohastamata või Finantsinspektsioonile esitamata jätmise, mitteõigeaegse esitamise või vale, ebapiisava või eksitava teabe esitamise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni kümme protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+### § 94<sup>2</sup>. Kriisilahenduskava koostamise nõuete rikkumine
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) 2021/23 artikli 13 nõuete rikkumise eest, sealhulgas kriisilahenduskavade koostamiseks vajaliku teabe Finantsinspektsioonile esitamata jätmise või mitteõigeaegse esitamise või vale, ebapiisava või eksitava teabe esitamise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni kümme protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+### § 94<sup>3</sup>. Maksejõuetusest või tõenäoliselt maksejõuetuks jäämisest teatamise kohustuse täitmata jätmine
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) 2021/23 artikli 70 lõikes 1 sätestatud Finantsinspektsioonile keskse vastaspoole maksejõuetusest või tõenäoliselt maksejõuetuks jäämisest teatamise kohustuse täitmata jätmise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni kümme protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+### § 94<sup>4</sup>. Juriidilise isiku ja tema konsolideerimisgrupi käive
+
+Käesolevas peatükis sätestatud juriidilise isiku käive on aastane netokäive eelmisel majandusaastal, sealhulgas brutotulu, mis kooskõlas Euroopa Parlamendi ja nõukogu määrusega (EL) nr 575/2013 koosneb komisjoni- ja teenustasudest ning intressi- ja muudest sellesarnastest tuludest. Kui juriidiline isik on emaettevõtja tütarettevõtja, on netokäibeks aastane netokäive eelmisel majandusaastal põhiemaettevõtja konsolideeritud raamatupidamise aastaaruande järgi.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+### § 94<sup>5</sup>. Aegumine
+
+Käesolevas peatükis sätestatud väärtegude aegumistähtaeg on kolm aastat.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+### § 95. Menetlus
+
+Käesolevas peatükis sätestatud väärtegude kohtuväline menetleja on Finantsinspektsioon.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+## 12. peatükk — Seaduse rakendamine
+
+### § 96. Kooskõlla viimine seadusest tulenevate nõuetega ja seaduse kohaldamine
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(1) Krediidiasutus peab viima oma tegevuse käesoleva seaduse nõuetega kooskõlla 2015. aasta 30. juuniks.
+
+(2) Krediidiasutus peab viima oma tegevuse käesoleva seaduse 2. peatüki 2. jaos sätestatud omavahendite ja kõlblike kohustuste miinimumnõudega kooskõlla 2016. aasta 1. jaanuariks.
+
+(3) Käesoleva seaduse § 22<sup>1</sup> sätestatud aruannete esitamise kohustust kohaldatakse alates miinimumnõuete täitmise tähtpäevast, kuid hiljemalt alates 2024. aasta 1. jaanuarist.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(4) Kriisilahendusmeetmete rakendamisel või käesoleva seaduse §-s 56 nimetatud allahindamise või teisendamise õiguste kasutamisel hakatakse miinimumnõude avalikustamise nõudeid kohaldama alates §-s 18 või 19 nimetatud nõuete täitmise tähtpäevast.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(5) Käesoleva seaduse § 17<sup>2</sup> lõike 3 ja § 17<sup>3</sup> kohaldamisel tõlgendatakse kapitalinõudeid vastavalt sellele, kuidas järelevalveasutused kohaldavad üleminekusätteid, mis on sätestatud Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 X osa I jaotise 1., 2. ja 4. peatükis ning lepinguriikide õigusaktides, millega kasutatakse nimetatud määrusega järelevalveasutustele antud valikuvõimalusi.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(6) Käesoleva seaduse § 71 lõike 1 punktis 6<sup>1</sup> sätestatut ei kohaldata juhul, kui need kohustused olid 2014. aasta 31. detsembri seisuga tavapärase maksejõuetusmenetluse kohustustest madalama rahuldamisjärguga kui muud tagamata kohustused.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+### § 96<sup>1</sup>. Omavahendite ja kõlblike kohustuste miinimumnõude rakendamine
+
+(1) Finantsinspektsioon määrab käesoleva seaduse § 29 lõike 1 punktides 15 ja 16 nimetatud tähtaja seadmisel asjakohase üleminekuperioodi käesoleva seaduse 2021. aasta 12. mail vastu võetud redaktsiooni jõustumise järel kehtestatud miinimumnõude täitmiseks, mille lõpptähtpäev on 2024. aasta 1. jaanuar. Käesoleva seaduse § 18<sup>1</sup> lõigetes 1 ja 3 nimetatud kriisilahendussubjektidele kohaldatakse lõpptähtpäeva 2022. aasta 1. jaanuar.
+
+(2) Finantsinspektsioon teavitab krediidiasutust omavahendite ja kõlblike kohustuste oodatavast miinimumnõude tasemest iga 12-kuulise perioodi kohta kogu määratud üleminekuperioodi jooksul, et hõlbustada selle kahjumikatmis- ja rekapitaliseerimisvõime järkjärgulist kasvatamist lõpliku tasemeni.
+
+(3) Finantsinspektsioon võib lisaks miinimumnõude täitmise lõpptähtajale määrata vahesihttaseme, mis tuleb saavutada 2022. aasta 1. jaanuariks.
+
+(4) Finantsinspektsioon võtab käesoleva paragrahvi lõikes 1 nimetatud üleminekuperioodi määramisel arvesse:
+
+1\) hoiuste suurt osakaalu ja võlainstrumentide puudumist krediidiasutuse rahastamismudelis;
+
+2\) krediidiasutuse juurdepääsu kõlblike kohustuste kapitaliturgudele;
+
+3\) ulatust, milles kriisilahendussubjekt tugineb esimese taseme põhiomavahenditele, et täita käesoleva seaduse §-s 17<sup>2</sup> nimetatud nõuet.
+
+(5) Finantsinspektsioon võib vastavalt käesoleva paragrahvi lõikes 4 nimetatud kriteeriumidele kehtestada üleminekuperioodi, mis lõpeb hiljem kui 2024. aasta 1. jaanuar, kui see on nõuetekohaselt põhjendatud ja asjakohane, võttes arvesse:
+
+1\) ettevõtja finantsseisundi arengut;
+
+2\) väljavaadet, et ettevõtja on võimeline tagama mõistliku aja jooksul miinimumnõuetele vastavuse;
+
+3\) seda, kas ettevõtja on võimeline asendama kohustusi, mis ei vasta miinimumnõude kõlblikkus- ja tähtajakriteeriumidele, ning kui mitte, siis kas see võimetus on spetsiifilist laadi või tingitud kogu turgu hõlmavast häirest.
+
+(6) Käesoleva seaduse § 22 lõikes 1 sätestatud lepinguliste sätete kohustusi kohaldatakse juhul, kui kohustus on emiteeritud või sellega seotud leping sõlmiti pärast käesoleva seaduse 2021. aasta 12. mail vastu võetud redaktsiooni jõustumist.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+### § 96<sup>2</sup>. Krediidiasutuse avalikustamiskohustuse rakendamine
+
+Krediidiasutus peab avaldama aruande käesoleva seaduse § 22<sup>1</sup> lõikes 4 sätestatud omavahendite kohta juhul, kui need omavahendid on emiteeritud hiljem kui 2024. aasta 1. jaanuaril. Krediidiasutus avaldab esimese aruande hiljemalt 2025. aasta 31. detsembriks.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+## 13. peatükk — Muudatused teistes seadustes
+
+### § 97.
+
+–
+
+### § 103.
+
+\[Käesolevast tekstist välja jäetud.\]
+
+---
+
+<sup>1</sup> Euroopa Parlamendi ja nõukogu direktiiv 2014/59/EL, millega luuakse krediidiasutuste ja investeerimisühingute finantsseisundi taastamise ja kriisilahenduse õigusraamistik ning muudetakse nõukogu direktiivi 82/891/EMÜ ning Euroopa Parlamendi ja nõukogu direktiive 2001/24/EÜ, 2002/47/EÜ, 2004/25/EÜ, 2005/56/EÜ, 2007/36/EÜ, 2011/35/EL, 2012/30/EL ja 2013/36/EL ning määruseid (EL) nr 1093/2010 ja (EL) nr 648/2012 (ELT L 173, 12.06.2014, lk 190–348), muudetud direktiividega (EL) 2017/1132 (ELT L 169, 30.06.2017, lk 46–127), (EL) 2017/2399 (ELT L 345, 27.12.2017, lk 96–101), (EL) 2019/879 (ELT L 150, 07.06.2019, lk 296–344), (EL) 2019/2034 (ELT L 314, 05.12.2019, lk 64–114), (EL) 2019/2162 (ELT L 328, 18.12.2019, lk 29–57), (EL) 2022/2556 (ELT L 333, 27.12.2022, lk 153–163) ja (EL) 2024/1174 (ELT L, 2024/1174, 22.04.2024) ning määrustega (EL) 2021/23 (ELT L 22, 22.01.2021, lk 1–102) ja (EL) 2022/2036 (ELT L 275, 25.10.2022, lk 1–10).
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]

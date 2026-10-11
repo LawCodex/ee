@@ -13,7 +13,7 @@ date: 2001-09-26
 last_amended: 2026-09-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/510092026001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "120062026018"
 ---
@@ -21,8 +21,6 @@ translation_of: "120062026018"
 # Law of Obligations Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Part 1 — GENERAL PART
 
@@ -13113,7 +13111,7 @@ This Act enters into force as of the date provided in the Implementation Act the
 
 ---
 
-Directive 2002/47/EC of the European Parliament and of the Council on financial collateral arrangements (OJ L 168, 27.6.2002, pp 43–50), last amended by Directive 2009/44/EC (OJ L 146, 10.6.2009, pp 37–43); 
+<sup>1</sup> Directive 2002/47/EC of the European Parliament and of the Council on financial collateral arrangements (OJ L 168, 27.6.2002, pp 43–50), last amended by Directive 2009/44/EC (OJ L 146, 10.6.2009, pp 37–43); 
  Directive 97/5/EC of the European Parliament and of the Council on cross-border credit transfers (OJ L 43, 14.2.1997, pp 25–30); \[RT I, 29.06.2011, 1 – entry into force 30.06.2011; omitted in part \[RT I, 27.05.2026, 2\]\]
  Directive 2011/7/EU of the European Parliament and of the Council on combating late payment in commercial transactions (OJ L 48, 23.02.2011, pp 1–10); \[RT I, 05.04.2013, 1 – entry into force 15.04.2013\]
  Commission Directive 2011/90/EU, amending Part II of Annex I of Directive 2008/48/EC of the European Parliament and of the Council providing additional assumptions for the calculation of the annual percentage rate of charge (OJ L 296, 15.11.2011, pp 35–37); \[RT I, 03.12.2012, 1 – entry into force 01.05.2013\]

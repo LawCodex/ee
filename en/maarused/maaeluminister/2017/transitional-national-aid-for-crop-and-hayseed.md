@@ -14,7 +14,7 @@ date: 2017-04-17
 last_amended: 2018-01-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/517102019001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "129122017044"
 ---

@@ -13,7 +13,7 @@ date: 1994-03-16
 last_amended: 2023-08-31
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/512072023002"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "130032023008"
 ---
@@ -21,8 +21,6 @@ translation_of: "130032023008"
 # Patents Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter I — GENERAL PROVISIONS
 
@@ -1611,5 +1609,5 @@ International applications are filed pursuant to subsections 3 and 4 of § 32 of
 
 ---
 
-Directive 98/44/EC of the European Parliament and of the Council on the legal protection of biotechnological inventions (OJ L 213, 30.07.1998, pp 13–21); Regulation (EC) No 469/2009 of the European Parliament and of the Council concerning the supplementary protection certificate for medicinal products (OJ L 152, 16.6.2009, p 1–10); Regulation (EC) No 1901/2006 of the European Parliament and of the Council on medicinal products for paediatric use and amending Regulation (EEC) No 1768/92, Directive 2001/20/EC, Directive 2001/83/EC and Regulation (EC) No 726/2004 (OJ L 378, 27.12.2006, pp 1–19); Regulation (EC) No 1610/96 of the European Parliament and of the Council concerning the creation of a supplementary protection certificate for plant protection products (OJ 198, 08.08.1996, pp 30–35); Regulation (EC) No 816/2006 of the European Parliament and of the Council on compulsory licensing of patents relating to the manufacture of pharmaceutical products for export to countries with public health problems (OJ L 157, 09.06.2006, pp 1–7).
+<sup>1</sup> Directive 98/44/EC of the European Parliament and of the Council on the legal protection of biotechnological inventions (OJ L 213, 30.07.1998, pp 13–21); Regulation (EC) No 469/2009 of the European Parliament and of the Council concerning the supplementary protection certificate for medicinal products (OJ L 152, 16.6.2009, p 1–10); Regulation (EC) No 1901/2006 of the European Parliament and of the Council on medicinal products for paediatric use and amending Regulation (EEC) No 1768/92, Directive 2001/20/EC, Directive 2001/83/EC and Regulation (EC) No 726/2004 (OJ L 378, 27.12.2006, pp 1–19); Regulation (EC) No 1610/96 of the European Parliament and of the Council concerning the creation of a supplementary protection certificate for plant protection products (OJ 198, 08.08.1996, pp 30–35); Regulation (EC) No 816/2006 of the European Parliament and of the Council on compulsory licensing of patents relating to the manufacture of pharmaceutical products for export to countries with public health problems (OJ L 157, 09.06.2006, pp 1–7).
 \[RT I, 06.01.2023, 2 - entry into force 16.01.2023\]

@@ -1,0 +1,10280 @@
+---
+title: "Väärtpaberituru seadus"
+identifier: "111072026030"
+rt_reference: "RT I, 11.07.2026, 30"
+rt_original: "RT I 2001, 89, 532"
+abbreviation: "VPTS"
+group_id: "153607"
+type: act
+issuer: "Riigikogu"
+text_type: "terviktekst"
+jurisdiction: ee
+language: et
+date: 2001-10-17
+last_amended: 2026-07-21
+status: in_force
+source: "https://www.riigiteataja.ee/akt/111072026030"
+retrieved: 2026-10-12
+---
+
+# Väärtpaberituru seadus
+
+## 1. osa — ÜLDOSA
+
+### 1. peatükk — ÜLDSÄTTED
+
+#### § 1. Reguleerimisala
+
+(1) Käesolev seadus reguleerib väärtpaberite avalikku pakkumist ja nende reguleeritud väärtpaberiturul kauplemisele võtmist, investeerimisühingute tegevust, investeerimisteenuste osutamist, aruandlusteenuse osutamist, väärtpaberite kauplemiskoha toimimist, kvalifitseeruvate finantstehingute tasaarvestust, järelevalve teostamist väärtpaberituru ja selle osaliste üle ning nende vastutust.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(2) Käesoleva seaduse 3<sup>1</sup>. peatükis ning §-des 237<sup>84</sup> ja 237<sup>90</sup> sätestatut kohaldatakse nendele ühisrahastusteenuse osutajatele, kelle teenuseid reguleerib Euroopa Parlamendi ja nõukogu määrus (EL) 2020/1503, mis käsitleb ettevõtjatele Euroopa ühisrahastusteenuse osutajaid ning millega muudetakse määrust (EL) 2017/1129 ja direktiivi (EL) 2019/1937 (ELT L 347, 20.10.2020, lk 1–49).
+
+\[RT I, 11.10.2024, 1 - jõust. 17.01.2025\]
+
+#### § 2. Väärtpaber
+
+(1) Väärtpaber käesoleva seaduse tähenduses, ka selle kohta dokumenti väljastamata, on järgmine vähemalt ühepoolse tahteavalduse alusel üleantav varaline õigus või kohustus või leping:
+
+1\) aktsia või muu samaväärne kaubeldav õigus;
+
+2\) võlakiri, vahetusväärtpaber või muu emiteeritud ja kaubeldav võlakohustus, mis ei ole rahaturuinstrument;
+
+3\) märkimisõigus või muu kaubeldav õigus, mis annab õiguse omandada käesoleva lõike punktis 1 või 2 nimetatud väärtpabereid või mis on täidetav rahas, mille arvelduse suurus määratakse kindlaks vabalt võõrandatavate väärtpaberite, valuutade, intressimäärade või tootluste, kaupade või muude indeksite või näitajate alusel;
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+4\) investeerimisfondi osak ja aktsia;
+
+\[RT I, 31.12.2016, 3 - jõust. 10.01.2017\]
+
+5\) rahaturuinstrument;
+
+6\) tuletisväärtpaber või tuletisleping;
+
+7\) kaubeldav väärtpaberi hoidmistunnistus;
+
+8\) kasvuhoonegaaside heitkoguse ühik atmosfääriõhu kaitse seaduse § 137 lõike 1 tähenduses (edaspidi *heitkoguse ühik*).
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1<sup>1</sup>) Käesoleva paragrahvi lõikes 1 nimetatud väärtpaberid võivad olla emiteeritud hajusraamatu tehnoloogia abil.
+
+\[RT I, 30.11.2022, 1 - jõust. 10.12.2022\]
+
+(2) Rahaturuinstrument käesoleva seaduse tähenduses on tagamata, üleantav ja likviidne võlakohustus, millega tavapäraselt kaubeldakse rahaturul, sealhulgas komisjoni delegeeritud määruse (EL) nr 2017/565, millega täiendatakse Euroopa Parlamendi ja nõukogu direktiivi 2014/65/EL seoses investeerimisühingute suhtes kohaldatavate organisatsiooniliste nõuete ja tegutsemistingimustega ning nimetatud direktiivi jaoks määratletud mõistetega (ELT L 87, 31.03.2017, lk 1–83), artiklis 11 sätestatud tingimustele vastav riigi võlakohustus, kommertspaber, hoiusetunnistus, krediidiasutuse garanteeritud veksel ja muu väärtpaber.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) Tuletisväärtpaber käesoleva seaduse tähenduses on omandamis-, vahetamis- või võõrandamisõigust või -kohustust väljendav kaubeldav väärtpaber, mille alusvaraks on käesoleva paragrahvi lõikes 1 nimetatud väärtpaberid või mille hind sõltub otseselt või kaudselt:
+
+1\) väärtpaberi börsi- või turuhinnast;
+
+2\) intressimäärast;
+
+3\) väärtpaberiindeksist, muust finantsindeksist või finantsnäitajast, sealhulgas inflatsioonimäärast, prahihinnast, heitkoguse ühikutest või muust ametlikust majandusstatistikast;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+4\) valuutavahetuskurssidest;
+
+5\) krediidi- ja muudest riskidest, sealhulgas klimaatilistest muutujatest;
+
+6\) kauba, sealhulgas väärismetalli börsi- või turuhinnast.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(3<sup>1</sup>) Hoidmistunnistus on väärtpaber, mis tõendab välisriigi emitendi väärtpaberite omandiõiguse kuuluvust ja mille saab reguleeritud turule kauplemisele võtta, sõltumata selle välisriigi emitendi väärtpaberitest.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(4) Vahetusväärtpaber käesoleva seaduse tähenduses on:
+
+1\) vahetusvõlakiri äriseadustiku §-s 241 sätestatud tähenduses;
+
+2\) vahetusvõlakiri, mida võib vahetada üksnes emitendi tütarettevõtja aktsia vastu – asendusvõlakiri;
+
+3\) optsioonivõlakiri (ostutähega võlakiri), mis koosneb lunastatavast võlakirjast ja emiteeritavate aktsiate omandamise õigusest (ostutäht).
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(5) Omakapitaliväärtpaber käesoleva seaduse tähenduses on:
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+1\) käesoleva paragrahvi lõike 1 punktis 1 nimetatud väärtpaber;
+
+2\) igasugune vabalt kaubeldav märkimisõigus, vahetus- või tuletisväärtpaber, mis annab õiguse omandada käesoleva paragrahvi lõike 1 punktis 1 nimetatud väärtpabereid vahetamise teel või muu õiguse teostamisega, kui emiteeritava väärtpaberi emitent on ise väärtpaberi alusvaraks olevate väärtpaberite emitent või kuulub tema konsolideerimisgruppi.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(6) Mitteomakapitaliväärtpaber käesoleva seaduse tähenduses on igasugune muu käesoleva paragrahvi lõikes 5 nimetamata väärtpaber.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(7) Kestvalt või korduvalt emiteeritavad väärtpaberid käesoleva seaduse tähenduses on sama liiki väärtpaberid, mida emiteeritakse kas kestvalt või 12-kuulise perioodi jooksul vähemalt kahes eraldi emissioonis.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(8) Väärtpaberiteks käesoleva seaduse tähenduses ei peeta veksleid, tšekke ja muid maksevahendeid, välja arvatud rahaturuinstrumendina käsitatavat krediidiasutuse garanteeritud vekslit.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(9) Tuletisväärtpaberid ja tuletislepingud on tuletisinstrumendid.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(10) Tuletisleping käesoleva seaduse tähenduses on omandamis-, vahetamis- või võõrandamisõigust või -kohustust sätestav leping:
+
+1\) mis on lepingupoole nõusolekul ülevõetav või ülevõetamatu kolmanda isiku poolt;
+
+2\) mille alusvaraks on käesoleva paragrahvi lõikes 1 nimetatud väärtpaberid või mille hind sõltub otseselt või kaudselt käesoleva paragrahvi lõikes 3 sätestatud asjaoludest.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(11) Käesoleva seaduse 3. ja 4. osas hõlmab väärtpaberi mõiste üksnes järgmisi tuletislepinguid:
+
+1\) optsiooni-, futuur-, vahetus- ja intressimääraleping ning muu tuletisleping, mis on seotud väärtpaberite, valuuta, intressimäära või heitkoguse ühikuga, või muu tuletisinstrument ja finantsindeksi või finantsnäitajaga seotud tuletisleping, mida võib täita natuuras, rahas või valikuõiguse alusel rahas või mille puhul saab natuuras täitmise asendada täitmisega rahas;
+
+2\) optsiooni-, futuur-, vahetus- ja forvardleping ning muu kaubaga seotud tuletisleping, mida peab täitma rahas, valikuõiguse alusel rahas või mille täitmise saab asendada täitmisega rahas;
+
+3\) kauplemiskohta kauplemisele võetud optsiooni-, futuur- ja vahetusleping ning muu kaubaga seotud tuletisleping, mida on võimalik täita natuuras, välja arvatud organiseeritud kauplemissüsteemis kauplemisele võetud energia hulgimüügitoode, mida tuleb täita natuuras;
+
+4\) optsiooni-, futuur-, vahetus- ja forvardleping ning muu kaubaga seotud tuletisleping, mida ei ole nimetatud käesoleva lõike punktis 3 ja mida ei ole loodud ärilisel eesmärgil, kuid millel on tuletisinstrumentide tunnuseid;
+
+5\) tuletisinstrument krediidiriski üleandmiseks;
+
+6\) hinnavaheleping;
+
+7\) optsiooni-, futuur-, vahetus- ja intressimääraleping ning klimaatiliste muutujate, prahihindade, inflatsioonimäärade või muu ametliku majandusstatistikaga seotud tuletisleping, mis tuleb täita rahas või valikuõiguse alusel rahas või mille saab asendada täitmisega rahas, samuti muu vara, õiguse, kohustuse, indeksi ja käesolevas paragrahvis nimetamata asjaoludega seotud tuletisleping, millel on tuletisinstrumendi tunnuseid või mis on kauplemiskohta kauplemisele võetud;
+
+8\) heitkoguse ühik.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(12) Täpsemad tuletisinstrumentide tunnused on sätestatud komisjoni delegeeritud määruse (EL) nr 2017/565 artiklites 7 ja 8.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 3. Kauplemiskoht
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1) Kauplemiskoht on reguleeritud väärtpaberiturg, mitmepoolne kauplemissüsteem ja organiseeritud kauplemissüsteem.
+
+(2) Reguleeritud väärtpaberiturg (edaspidi *reguleeritud turg*) on Eestis või muus Euroopa Majanduspiirkonna lepinguriigis (edaspidi *lepinguriik*) korraldatav või juhitav ning lepinguriigi poolt järelevalvatav organisatsiooniliste, õiguslike ja tehniliste lahenduste mitmepoolne süsteem, mis on moodustatud sinna kauplemisele võetud väärtpaberitega pideva ja korrapärase kauplemise võimaldamise eesmärgil ning mis viib ühetaolistel tingimustel kokku eri isikute eri- või üheaegsed väärtpaberite omandamis- ja võõrandamishuvid, mille tulemuseks on lepingu sõlmimine. Reguleeritud turgu juhib või korraldab üksnes reguleeritud turu korraldaja.
+
+(3) Mitmepoolne kauplemissüsteem on mitmepoolne süsteem, mis viib ühetaolistel tingimustel kokku eri isikute eri- või üheaegsed väärtpaberite omandamis- ja võõrandamishuvid, mille tulemuseks on lepingu sõlmimine. Mitmepoolset kauplemissüsteemi võib korraldada reguleeritud turu korraldaja või investeerimisühing.
+
+(4) Organiseeritud kauplemissüsteem on mitmepoolne süsteem, mis ei ole reguleeritud turg ega mitmepoolne kauplemissüsteem ning milles viiakse kokku eri isikute omandamis- ja võõrandamishuvid seoses käesoleva seaduse § 2 lõike 1 punktides 2, 6 ja 8 nimetatud väärtpaberite või struktureeritud finantstoodetega Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 finantsinstrumentide turgude kohta ning millega muudetakse määrust (EL) nr 648/2012 (ELT L 173, 12.06.2014, lk 84–148) artikli 2 lõike 1 punkti 28 tähenduses, mille tulemuseks on lepingu sõlmimine. Organiseeritud kauplemissüsteemi võib korraldada reguleeritud turu korraldaja ja investeerimisühing.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(5) \[Kehtetu - RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+#### § 4. Väärtpaberituru osaline
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 5. Emitent
+
+(1) Emitent käesoleva seaduse tähenduses on juriidiline isik, kes on väärtpabereid emiteerinud või võtnud kohustuse väärtpabereid emiteerida.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(2) Käesoleva seaduse 20. peatüki tähenduses mõistetakse emitendi all lisaks käesoleva paragrahvi lõikes 1 nimetatule:
+
+1\) teise lepinguriigi füüsilist isikut või varakogumit, kes on väärtpabereid emiteerinud või võtnud kohustuse väärtpabereid emiteerida;
+
+2\) aktsiaid esindavate hoidmistunnistuste puhul selliste hoidmistunnistuste emiteerimise aluseks olevate aktsiate emitenti.
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+#### § 5<sup>1</sup>. Pakkuja
+
+Pakkujana käesoleva seaduse tähenduses käsitatakse Euroopa Parlamendi ja nõukogu määruse (EL) 2017/1129, mis käsitleb väärtpaberite avalikul pakkumisel või reguleeritud turul kauplemisele võtmisel avaldatavat prospekti ning millega tunnistatakse kehtetuks direktiiv 2003/71/EÜ (ELT L 168, 30.06.2017, lk 12–82), artikli 2 punktis i määratletud isikut.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 5<sup>2</sup>. Kauplemise taotleja
+
+Kauplemise taotleja käesoleva seaduse tähenduses on isik, kes taotleb väärtpaberite reguleeritud turul kauplemisele võtmist või kelle taotlusel on väärtpaberid reguleeritud turul kauplemisele võetud, sealhulgas emitendi nõusolekuta.
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+#### § 6. Investor
+
+(1) Investor käesoleva seaduse tähenduses on isik, kellele kuulub väärtpaber või kes on võtnud kohustuse omandada väärtpabereid.
+
+(2) Kutseline investor käesoleva seaduse tähenduses on:
+
+1\) krediidiasutus, investeerimisühing, fondivalitseja, investeerimisfond, kindlustusandja ja muu finantsjärelevalve alla kuuluv finantseerimisasutus;
+
+2\) Eesti Vabariik, välisriik, Eesti või välisriigi regionaalse omavalitsuse üksus või keskpank;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+3\) rahvusvaheline asutus või organisatsioon, sealhulgas Rahvusvaheline Valuutafond, Euroopa Keskpank ja Euroopa Investeerimispank;
+
+4\) finantseerimisasutus, kelle ainsaks äritegevuseks on väärtpaberitesse investeerimine, turul kauba ja kaubatuletisinstrumendiga kaupleja;
+
+5\) suurettevõtja;
+
+6\) muu käesoleva lõike punktides 1–5 nimetamata asjatundlik klient või võrdne vastaspool vastavalt käesoleva seaduse §-des 46 ja 46<sup>1</sup> sätestatule või isik, keda käsitatakse asjatundliku kliendi või võrdse vastaspoolena vastavalt teises lepinguriigis kehtivatele õigusaktidele, välja arvatud juhul, kui klient on taotlenud enda kohtlemist tavakliendina.
+
+\[RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+(2<sup>1</sup>) Suurettevõtja käesoleva seaduse tähenduses on äriühing, kes vastab vähemalt kahele järgmistest tingimustest:
+
+1\) tema bilansimaht on võrdne 20 miljoni euroga või sellest suurem;
+
+2\) tema netokäive on võrdne 40 miljoni euroga või sellest suurem;
+
+3\) tema omakapital on võrdne 2 miljoni euroga või sellest suurem.
+
+\[RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+(2<sup>2</sup>) Kutselise investori määratlemiseks emitendi või pakkuja poolt on investeerimisühing ja krediidiasutus kohustatud andma teavet oma kliendi käsitamise kohta asjatundliku kliendina või võrdse vastaspoolena emitendile või pakkujale viimase nõudmisel, kui isikuandmete kaitse seaduses ei ole sätestatud teisiti.
+
+\[RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+(3) \[Kehtetu - RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+(4) \[Kehtetu - RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+#### § 6<sup>1</sup>. Turutegija
+
+Turutegija käesoleva seaduse tähenduses on isik, kes on väärtpaberiturul alaliselt valmis väärtpaberiga oma arvel kauplema oma ostu- ja müügipakkumuses määratud hinnaga.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 7. Väärtpaberituru kutseline osaline
+
+(1) Väärtpaberituru kutseline osaline on:
+
+1\) investeerimisühing;
+
+2\) krediidiasutus;
+
+2<sup>1</sup>) fondivalitseja;
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+3\) reguleeritud turu korraldaja;
+
+4\) väärtpaberiarveldussüsteemi korraldaja;
+
+5\) muu seadusega sätestatud isik.
+
+(2) \[Kehtetu - RT I 2005, 59, 464 - jõust. 15.11.2005\]
+
+#### § 7<sup>1</sup>. Pakkumiskava
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 7<sup>2</sup>. Korraldatud teave
+
+Korraldatud teave käesoleva seaduse tähenduses on kogu teave, mille emitent või kauplemise taotleja on kohustatud avalikustama vastavalt käesoleva seaduse 20. peatükis ja Euroopa Parlamendi ja nõukogu määruse (EL) nr 596/2014, mis käsitleb turukuritarvitusi ning millega tunnistatakse kehtetuks Euroopa Parlamendi ja nõukogu direktiiv 2003/6/EÜ ja komisjoni direktiivid 2003/124/EÜ, 2003/125/EÜ ja 2004/72/EÜ (ELT L 173, 12.6.2014, lk 1–61), artiklis 17 sätestatule.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 8. Väärtpaberiturujärelevalve
+
+Järelevalvet käesoleva seaduse täitmise üle ja käesoleva seaduse § 230 lõikes 1 nimetatud õigusaktide täitmise üle teostab Finantsinspektsioon (edaspidi *inspektsioon*).
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 8<sup>1</sup>. Konsolideerimisgrupp
+
+Konsolideerimisgrupp on konsolideeriv üksus koos ühe või mitme konsolideeritava üksusega raamatupidamise seaduse § 27 tähenduses.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 8<sup>2</sup>. Kontrollsuhe ja märkimisväärne seos
+
+(1) Käesoleva seaduse 3. osas ja 14.–18<sup>1</sup>. peatükis tähendab kontrollsuhe raamatupidamise seaduse § 27 lõigetes 1 ja 2 sätestatud emaettevõtja ning tütarettevõtja suhet.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) Käesoleva seaduse III osas ja 14.–18<sup>1</sup>. peatükis tähendab märkimisväärne seos olukorda, kus vähemalt kaks isikut on seotud:
+
+1\) osaluse kaudu, kus äriühingus või muus juriidilises isikus omatakse vähemalt 20 protsenti aktsia- või osakapitalist või aktsiate või osadega määratud häältest;
+
+2\) kontrollsuhte kaudu käesoleva paragrahvi lõike 1 tähenduses.
+
+(3) Märkimisväärse seosena käsitatakse ka olukorda, kus vähemalt kaks isikut on kontrollsuhte kaudu ühe ja sama isikuga alaliselt seotud.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 9. Oluline osalus
+
+(1) Oluline osalus käesoleva seaduse tähenduses on otsene või kaudne osalus äriühingu aktsia- või osakapitalis, mis on vähemalt 10 protsenti äriühingu aktsia- või osakapitalist, seda väljendavatest kõigist õigustest või kõigist häältest äriühingus või mis võimaldab olulise mõju äriühingu juhtorganite üle.
+
+(2) Osalus on otsene, kui isik omab või teostab seda isiklikult.
+
+(3) Osalus on kaudne, kui:
+
+1\) seda omab või teostab isik koos ühe või mitme kontrollitava äriühinguga;
+
+2\) seda omab või teostab üks või mitu isiku kontrollitavat äriühingut;
+
+3\) seda omab või teostab isik või tema kontrollitav äriühing kokkuleppel kolmanda isikuga;
+
+4\) sellest tulenev hääleõigus loetakse isikule kuuluvaks.
+
+\[RT I 2005, 13, 64 - jõust. 01.04.2005\]
+
+#### § 10. Kontrollitav äriühing ja hääleõiguse kuuluvus
+
+(1) Isiku kontrollitav äriühing käesoleva seaduse tähenduses on äriühing, mille puhul on täidetud vähemalt üks järgmistest tingimustest:
+
+1\) isik omab äriühingus enamikku aktsiate või osaga esindatud häältest või omab täis- või usaldusosanikuna enamikku häältest;
+
+2\) isik, olles äriühingu täis- või usaldusosanik, osanik või aktsionär, omab õigust nimetada või tagasi kutsuda selle äriühingu nõukogu või juhatuse liikmete enamikku;
+
+3\) isik, olles ise äriühingu täis- või usaldusosanik, osanik või aktsionär, kontrollib üksinda enamikku häältest vastavalt teiste täisosanikega, usaldusosanikega, osanikega või aktsionäridega sõlmitud kokkuleppele;
+
+4\) isik omab äriühingu üle valitsevat mõju või kontrolli või tal on võimalus seda teostada.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(2) Käesoleva paragrahvi lõike 1 punkti 2 rakendamisel loetakse isikule kuuluvateks kontrollitava äriühingu hääleõigused, samuti õigus nimetada ja tagasi kutsuda nõukogu või juhatuse liikmete enamikku ning isiku või tema kontrollitava äriühingu arvel ja enda nimel tegutseva kolmanda isiku omatavaid vastavaid hääleõigusi ning õigust nimetada ja tagasi kutsuda nõukogu või juhatuse liikmete enamikku.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(3) Hääleõiguse kindlaksmääramisel loetakse isikule kuuluvaks:
+
+1\) isikule isiklikult kuuluvad hääled;
+
+2\) isiku jaoks kolmanda isiku poolt oma nimel valitsetavad hääled;
+
+3\) isiku kontrollitavale äriühingule kuuluvad hääled;
+
+4\) hääled, mis kuuluvad kolmandale isikule, kellega isikul on sõlmitud kokkulepe, mis kohustab pooli kooskõlastatud hääletamise teel rakendama kestvat ühtset poliitikat vastava äriühingu juhtimisel;
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+5\) kolmandale isikule kuuluvad ja selle kolmanda isikuga sõlmitud ning vastusoorituse eest häälte ajutist loovutamist isikule sätestava kirjaliku lepingu alusel teostatavad hääleõigused;
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+6\) tagatiseks olevate aktsiatega esindatud hääled, välja arvatud juhul, kui tagatise saanud isikul (aktsiate ajutine omaja) on õigus aktsiatest tulenevaid hääleõigusi teostada ning ta ei ole sellest õigusest isiku kasuks loobunud;
+
+7\) kolmanda isiku kasuks koormatud aktsiatega esindatud hääled, välja arvatud juhul, kui isikul, kelle kasuks aktsiad koormati, on õigus aktsiatest tulenevaid hääleõigusi teostada ning ta ei ole sellest õigusest isiku kasuks loobunud;
+
+8\) isikule tagatiseks antud või isiku kasuks koormatud aktsiatega esindatud hääled juhul, kui isikul on õigus aktsiatest tulenevaid hääleõigusi teostada ning ta ei ole sellest õigusest loobunud;
+
+9\) hääleõigus, mis on esindatud emiteeritud aktsiatega, mida isikul on õigus omandada tema otseselt või kaudselt hoitavast väärtpaberist tuleneva õiguse teostamise või kohustuse täitmise tähtpäeva saabudes tagasivõtmatult või valikuõiguse alusel ja siduva kokkuleppe põhjal vastavalt selle suhtes kohaldatavale õigusele;
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+9<sup>1</sup>) hääleõigus, mis on esindatud isiku otseselt või kaudselt hoitava ning emitendi emiteeritud aktsiatega seotud ja selliste aktsiate omamise või omandamise õigusega sarnase majandusliku mõjuga väärtpaberiga;
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+10\) isiku hoiul olevate aktsiatega esindatud hääleõigused, mida isik võib teostada enda suva kohaselt vastavate aktsiate tegelike omanike hääleõiguse teostamise juhtnööride puudumise korral;
+
+11\) hääleõigused, mis on esindatud aktsiatega, mis on isiku kasuks koormatud rendiga;
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+12\) hääleõigused, mida isik võib aktsionäride spetsiifiliste juhiste puudumise korral teostada oma parima äranägemise kohaselt talle antud volituse alusel.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(4) Aktsiatega esindatud häälte saamiseks käesoleva paragrahvi lõike 3 tähenduses loetakse ka:
+
+1\) vahetusväärtpaberi vahetamist hääleõigust andvaks aktsiaks;
+
+2\) märkimistõendis dokumenteeritud õigust omandada aktsiatest tulenev hääleõigus aktsiate saamisel;
+
+3\) eelisaktsia omaniku poolt hääleõiguse omandamist.
+
+(5) Käesoleva paragrahvi lõike 3 punktides 9 ja 9<sup>1</sup> nimetatud väärtpaberitena käsitatakse käesoleva seaduse § 2 lõike 1 punktides 1–3, 6 ja 7 nimetatud väärtpabereid ning mis tahes lepinguid, mida saab täita natuuras või rahas.
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+#### § 10<sup>1</sup>. Muud seaduses kasutatavad terminid
+
+Käesolevas seaduses määratlemata termineid kasutatakse Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013, mis käsitleb krediidiasutuste suhtes kohaldatavaid usaldatavusnõudeid ja millega muudetakse määrust (EL) nr 648/2012 (ELT L 176, 27.06.2013, lk 1–337), Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 ning Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033, mis käsitleb investeerimisühingute suhtes kohaldatavaid usaldatavusnõudeid ning millega muudetakse määrusi (EL) nr 1093/2010, (EL) nr 575/2013, (EL) nr 600/2014 ja (EL) nr 806/2014 (ELT L 314, 05.12.2019, lk 1–63), tähenduses.
+
+\[RT I, 11.10.2024, 1 - jõust. 21.10.2024\]
+
+## 2. osa — VÄÄRTPABERITE PAKKUMINE JA ÜHISRAHASTUSPAKKUMINE
+
+\[RT I, 07.12.2021, 3 - jõust. 17.12.2021\]
+
+### 2. peatükk — ÜLDSÄTTED
+
+#### § 11. Väärtpaberite pakkumine
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 12. Väärtpaberite avalik pakkumine
+
+(1) Väärtpaberite avaliku pakkumisena käesoleva seaduse tähenduses käsitatakse Euroopa Parlamendi ja nõukogu määruse (EL) 2017/1129 artikli 2 punktis d määratletud pakkumist.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 13. Väärtpaberite emissioon
+
+(1) Väärtpaberite emissioon käesoleva seaduse tähenduses on emitendi ühekordse otsuse alusel emiteeritud samaliigiliste väärtpaberite kogum (edaspidi *emissioon*).
+
+(2) Väärtpaberite emissiooni emitendi ühekordse otsuse alusel, kuid erinevatel aegadel (seeriatena), loetakse üheks emissiooniks. Ühe emissiooni raames võib mitteomakapitaliväärtpabereid emiteerida seeriatena selliselt, et emiteeritud või lunastamata väärtpaberite nimiväärtus või arvestuslik väärtus kokku ei ületa emissiooni mahtu.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 13<sup>1</sup>. Päritolulepinguriik
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 13<sup>2</sup>. Vastuvõtjalepinguriik
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 14. Käesoleva osa kohaldamine
+
+(1) Käesolevat osa kohaldatakse Euroopa Parlamendi ja nõukogu määruse (EL) 2017/1129 artikli 2 punktis a nimetatud väärtpaberitele, võttes ühtlasi arvesse sama määruse artiklis 1 sätestatud erandeid.
+
+(2) Käesoleva seaduse 3.–6. peatükis väärtpaberite kohta sätestatut ei kohaldata Euroopa Parlamendi ja nõukogu määruse (EL) 2017/1129 artiklis 1 sätestatud eranditele ning järgmistele väärtpaberitele:
+
+1\) väärtpaberid, mille emitendiks on Tagatisfond, Eesti Töötukassa või Tervisekassa;
+
+\[RT I, 11.03.2023, 9 - jõust. 01.04.2023\]
+
+2\) kestvalt või korduvalt emiteeritavad Tagatisfondi seaduse § 24 lõikes 3 nimetatud ja lepinguriigi hoiuste tagamise skeemiga tagatud hoiusesertifikaadid, mis ei ole allutatud, vahetatavad, asendatavad, ei anna teist liiki väärtpaberite omandamis- või vahetamisõigust ega ole tuletisväärtpaberite alusvaraks.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 14<sup>1</sup>. Prospekt
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 14<sup>2</sup>. Põhiprospekt
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 14<sup>3</sup>. Prospekti kehtivus
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+### 3. peatükk — AVALIKU PAKKUMISE PROSPEKT
+
+#### § 15. Prospekti avalikustamine
+
+(1) Kui Eestis pakutakse väärtpabereid, mille avaliku pakkumise koguväärtus on vähemalt 12 miljonit eurot kõikide lepinguriikide kohta kokku väärtpaberite pakkumise üheaastase ajavahemiku jooksul ning Euroopa Parlamendi ja nõukogu määruse (EL) 2017/1129 artiklis 1 või käesoleva seaduse § 14 lõikes 2 ei ole sätestatud teisiti, tuleb selle kohta avalikustada nimetatud määruse nõuetele vastav prospekt määruses sätestatud korras.
+
+\[RT I, 30.12.2025, 1 - jõust. 05.06.2026\]
+
+(2) Euroopa Parlamendi ja nõukogu määruse (EL) 2017/1129 artikli 8 lõikes 1 nimetatud isikud võivad samas artiklis nimetatud tingimustel otsustada väärtpaberite avalikul pakkumisel koostada samas artiklis nimetatud põhiprospekti.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+(3) Euroopa Parlamendi ja nõukogu määruse (EL) 2017/1129 artikli 14a lõikes 1 nimetatud isikud võivad samas artiklis nimetatud tingimustel otsustada väärtpaberite avalikul pakkumisel koostada samas artiklis nimetatud jätkuprospekti.
+
+\[RT I, 30.12.2025, 1 - jõust. 05.03.2026\]
+
+(4) Euroopa Parlamendi ja nõukogu määruse (EL) 2017/1129 artikli 15a lõikes 1 nimetatud isikud võivad samas artiklis nimetatud tingimustel otsustada väärtpaberite avalikul pakkumisel koostada samas artiklis nimetatud kasvuemissiooniprospekti.
+
+\[RT I, 30.12.2025, 1 - jõust. 05.03.2026\]
+
+(5) Inspektsioon teavitab prospekti või selle lisade kinnitamisest esimesel võimalusel, kuid mitte hiljem kui taotluse esitaja teavitamisele järgneva tööpäeva lõpuks Euroopa Väärtpaberiturujärelevalve Asutust, esitades talle ühtlasi:
+
+1\) prospekti ja selle lisade elektroonilise koopia ning Euroopa Parlamendi ja nõukogu määruse (EL) 2017/1129 artikli 21 lõikes 6 nimetatud andmete säilitamise mehhanismis Euroopa Väärtpaberiturujärelevalve Asutusele liigitamiseks vajalikud andmed ning
+
+2\) Euroopa Parlamendi ja nõukogu määruse (EL) 2017/1129 artiklis 47 nimetatud aruandeks vajalikud andmed.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+(6) Kui väärtpaberid kuuluvad Eestis pakkumisse koguväärtusega vähemalt 1 000 000 eurot, kuid vähem kui 12 000 000 eurot väärtpaberite pakkumise üheaastase ajavahemiku jooksul, võib valdkonna eest vastutav minister määrusega ette näha eelnimetatud pakkumiste kohta teabe avaldamise nõuded, sealhulgas nõuded teabe sisule, ja täpsemad nõuded sellistest pakkumistest teavitamisele.
+
+\[RT I, 30.12.2025, 1 - jõust. 05.06.2026\]
+
+(7) Käesoleva paragrahvi lõikes 6 nimetatud määrusega kehtestatud nõuetele vastava pakkumise puhul ei rakendata Euroopa Parlamendi ja nõukogu määruse (EL) 2017/1129 artikli 24 lõikega 1 kehtestatud piiriülest prospekti tunnustamist.
+
+\[RT I, 07.12.2021, 3 - jõust. 17.12.2021\]
+
+#### § 16. Registreerimise või teavitamise kohustus
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 17. Erandid
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 18. Registreerimise taotlemine
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 19.
+
+\[Kehtetu - RT I 2005, 59, 464 - jõust. 15.11.2005\]
+
+#### § 19<sup>1</sup>. Registreerimise üleandmine
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 20. Prospekti registreerimine
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 21. Registreerimisest keeldumine
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 22.
+
+\[Kehtetu - RT I 2005, 59, 464 - jõust. 15.11.2005\]
+
+#### § 23. Prospekti lisa
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 24. Prospekti kinnitamine
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 25. Hüvitamiskohustus
+
+(1) Kui prospekt sisaldab väärtpaberite väärtuse hindamise seisukohalt olulist teavet, mis osutub tegelikkusest erinevaks, siis hüvitab emitent, pakkuja või muu väärtpaberi prospektis vastutava isikuna esitatud isik pakutud väärtpaberi omanikule põhjustatud kahju, mis tuleneb erinevusest tegelikkuse ja prospektis esitatud teabe vahel, kui emitent, pakkuja või muu väärtpaberi prospektis vastutava isikuna esitatud isik oli teadlik või oleks pidanud olema teadlik antud erinevustest.
+
+(2) Käesoleva paragrahvi lõikes 1 sätestatu kehtib ka prospekti mittetäielikkuse, asjakohaste faktide väljajätmise korral, kui prospekti mittetäielikkus tuleneb varjamisest emitendi, pakkuja või muu väärtpaberi prospektis vastutava isikuna esitatud isiku poolt.
+
+(2<sup>1</sup>) Käesoleva paragrahvi lõikes 1 sätestatu kehtib eraldiseisva prospekti kokkuvõtte, kaasa arvatud selle tõlke puhul üksnes juhul, kui kokkuvõte on eksitav, ebatäpne või prospekti muude osadega vastuolus.
+
+(3) Käesoleva paragrahvi lõikes 1 sätestatud kahju hüvitamise kohustus lasub emitendil, pakkujal või muul väärtpaberi prospektis vastutava isikuna esitatud isikul ka juhul, kui prospektis on märgitud teabe saamise allikaks kolmas isik.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 26. Hüvitamise ulatus
+
+(1) Käesoleva seaduse §-s 25 sätestatud kahju tekitajal on õigus kahju hüvitada, omandades pakutud väärtpaberi kannatanult hinna eest, mis kannatanu sellise pakutud väärtpaberi omandamiseks tasus. Taoliselt kannatanult väärtpaberite omandamisega vabaneb kahju tekitaja kannatanule muu kahju hüvitamise kohustusest.
+
+(2) Emitent, pakkuja või muu väärtpaberi prospektis vastutava isikuna esitatud isik ei ole käesoleva seaduse § 25 alusel kohustatud kahju hüvitama, kui kannatanu oli pakutud väärtpaberi omandamise hetkel teadlik pakkumise tegemise aluseks olnud prospekti mittetäielikkusest või selles sisalduvast valeteabest.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 27. Aegumistähtaeg
+
+Käesoleva seaduse §-s 25 sätestatud kahju hüvitamise nõude aegumistähtaeg on viis aastat, arvates vastava väärtpaberi pakkumise algusest valeteavet sisaldava või mittetäieliku prospekti alusel.
+
+#### § 28. Kokkulepe vastutuse piiramiseks
+
+Käesoleva seaduse §-des 25–27 sätestatud hüvitamist ja aegumistähtaega välistavad, piiravad või vähendavad kokkulepped on tühised.
+
+### 3<sup>1</sup>. peatükk — INVESTEERIMISE PÕHITEABEDOKUMENT
+
+\[RT I, 07.12.2021, 3 - jõust. 17.12.2021\]
+
+#### § 28<sup>1</sup>. Hüvitamiskohustus ühisrahastuspakkumise korral
+
+(1) Kui Euroopa Parlamendi ja nõukogu määruse (EL) 2020/1503 artikli 23 lõikes 2 nimetatud investeerimise põhiteabedokument ning asjakohasel juhul selle tõlge sisaldab ühisrahastusprojekti väärtuse hindamise seisukohalt olulist teavet, mis osutub tegelikkusest erinevaks, siis hüvitab projektiomanik investorile põhjustatud kahju, mis tuleneb erinevusest tegelikkuse ja investeerimise põhiteabedokumendis esitatud teabe vahel, kui projektiomanik teadis või oleks pidanud teadma sellest erinevusest.
+
+(2) Kui Euroopa Parlamendi ja nõukogu määruse (EL) 2020/1503 artikli 24 lõikes 1 nimetatud platvormi tasandi investeerimise põhiteabedokument ning asjakohasel juhul selle tõlge sisaldab individuaalse laenuportfelli valitsemise teenuse kohta teavet, mis osutub tegelikkusest erinevaks, siis hüvitab ühisrahastusteenuse osutaja investoritele põhjustatud kahju, mis tuleneb erinevusest tegelikkuse ja platvormi tasandi investeerimise põhiteabedokumendis esitatud teabe vahel, kui ühisrahastusteenuse osutaja teadis või oleks pidanud teadma sellest erinevusest.
+
+(3) Projektiomanik või ühisrahastusteenuse osutaja ei ole käesoleva paragrahvi lõike 1 või 2 alusel kohustatud kahju hüvitama, kui kahju kannatanu ühisrahastusprojekti investeerimise ajal teadis või oleks pidanud teadma investeerimise põhiteabedokumendi mittetäielikkusest või selles sisalduvast valeteabest. Sama kehtib juhul, kui kogenud investorist kannatanu oleks pidanud ühisrahastusprojekti investeerimisel oma tegevuses tavapärase hoolsuse korral aru saama, et investeerimise põhiteabedokument sisaldab valeteavet või et see ei ole täielik, välja arvatud juhul, kui kahju on tekitatud tahtlikult.
+
+(4) Käesoleva paragrahvi lõigetes 1 ja 2 sätestatu kehtib ka investeerimise põhiteabedokumendi mittetäielikkuse ja asjakohaste faktide väljajätmise korral, kui investeerimise põhiteabedokumendi mittetäielikkus tuleneb teabe varjamisest vastavalt projektiomaniku või ühisrahastusteenuse osutaja poolt.
+
+(5) Käesoleva paragrahvi lõikes 1 või 2 sätestatud kahju hüvitamise kohustus lasub vastavalt projektiomanikul või ühisrahastusteenuse osutajal ka juhul, kui investeerimise põhiteabedokumendis on märgitud teabe saamise allikaks kolmas isik.
+
+\[RT I, 07.12.2021, 3 - jõust. 17.12.2021\]
+
+#### § 28<sup>2</sup>. Vastutuse piiramise kokkulepe
+
+Käesoleva seaduse §-s 28<sup>1</sup> sätestatud hüvitamist välistavad, piiravad või vähendavad kokkulepped on tühised.
+
+\[RT I, 07.12.2021, 3 - jõust. 17.12.2021\]
+
+### 4. peatükk — PAKKUMISE VÄLJAKUULUTAMINE JA LÄBIVIIMINE
+
+#### § 29. Pakkumise väljakuulutamine
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 30. Pakkumise teade
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 31. Reklaamile esitatavad nõuded
+
+(1) Pakkumise kohta käiv reklaam peab vastama Euroopa Parlamendi ja nõukogu määruse (EL) 2017/1129 artiklis 22 ning reklaamiseaduses sätestatud nõuetele.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 32. Keel
+
+\[Kehtetu - RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+#### § 33. Emitent või pakkuja kohustused
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 34.
+
+\[Kehtetu - RT I 2005, 59, 464 - jõust. 15.11.2005\]
+
+#### § 35. Tagasiostmise kohustus
+
+(1) Kui emitent või pakkuja, kes pakub väärtpabereid avalikkusele Eestis, avalikustab pakkumise perioodil prospekti lisa, on ta kohustatud:
+
+\[RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+1\) väärtpabereid märkinud isikute nõudel tühistama märkimise ning tagastama neile kogu märkimise tulemusena saadu;
+
+2\) ostma pakutavad väärtpaberid vähemalt märkimisel makstud ostuhinna eest tagasi investoritelt, kes seda nõuavad.
+
+(1<sup>1</sup>) Emitendile või pakkujale laienevad käesoleva paragrahvi lõikes 1 sätestatud kohustused ka juhul, kui kinnitatud ja avalikustatud prospekt ei sisaldanud pakutavate väärtpaberite lõplikku müügihinda ja arvu ega väärtpaberite maksimumhinda ja kriteeriume, millest lähtuvalt pakutavate väärtpaberite lõplik hind ja arv kindlaks määratakse.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+(2) Nõue väärtpaberite märkimise tühistamise või tagasiostmise kohta käesoleva paragrahvi lõikes 1 või 1<sup>1</sup> sätestatud alusel tuleb esitada emitendile või pakkujale pakkumise teates sätestatud tähtaja jooksul, mis ei või olla lühem kui kaks tööpäeva, arvates prospekti lisa või pakutavate väärtpaberite müügihinna ja arvu kohta lõpliku teabe avalikustamisest, kui prospektis sisalduva teabega seotud mis tahes uued olulised asjaolud, vead või ebatäpsused ilmnesid enne avalikkusele pakkumise lõppu ning väärtpaberite üleandmist. Emitent või pakkuja võib tähtaega pikendada.\
+Tühistamisõiguse lõppkuupäev sätestatakse prospekti lisas.
+
+\[RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+(3) Käesolevas paragrahvis sätestatud märkimise tulemusena tuleb saadu tagastada või väärtpaberid tagasi osta kümne tööpäeva jooksul käesoleva paragrahvi lõikes 2 nimetatud nõude saamisest arvates. Emitent või pakkuja on kohustatud teavitama inspektsiooni talle esitatud nõuetest või märkimise tulemusena saadu tagastamisest või väärtpaberite tagasiostmisest ühe tööpäeva jooksul. Kõik tagastamise või tagasiostmisega seonduvad kulud kannab emitent või pakkuja.
+
+\[RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+#### § 36. Pakkumise peatamine
+
+(1) Inspektsioonil on õigus oma ettekirjutusega nõuda emitendi, kelle päritolulepinguriik on Eesti, väärtpaberite avaliku pakkumise lõpetamist või peatamist, kui:
+
+1\) rikutakse või on alust arvata, et rikutakse avaliku pakkumise kohta käesolevas seaduses ja selle alusel kehtestatud või muudes õigusaktides sätestatud nõudeid;
+
+2\) ei ole kinni peetud prospektis sätestatud pakkumise tingimustest;
+
+3\) prospekti kinnitamisel esitatud teave on osutunud olulisel määral ebaõigeks.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(2) Pakkumise peatamisel kohustab inspektsioon oma ettekirjutusega emitenti või pakkujat kõrvaldama pakkumise peatamise aluseks olnud asjaolud. Nimetatud asjaolude kõrvaldamisel võib emitent või pakkuja inspektsiooni loal pakkumist jätkata.
+
+\[RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+(3) \[Kehtetu - RT I 2005, 59, 464 - jõust. 15.11.2005\]
+
+(4) Emitent või pakkuja võib peatada pakkumise inspektsiooni eelneval nõusolekul.
+
+\[RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+(5) Pakkumine peatatakse inspektsiooni poolt määratud tähtajaks, kuid mitte kauemaks kui 10 järjestikuseks tööpäevaks. Kui nimetatud tähtaja möödumisel pakkumist ei jätkata, on emitent või pakkuja kohustatud 10 tööpäeva jooksul tähtaja möödumisest arvates tühistama märkimise ning tagastama märkijale kogu tema poolt märkimise tulemusena saadu.
+
+\[RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+(6) Emitent või pakkuja on kohustatud viivitamata teavitama avalikkust pakkumise peatamisest ja selle jätkamisest või märkimise tühistamisest vähemalt selles üleriigilise levikuga päevalehes, kus avalikustati pakkumise teade. Inspektsioon avalikustab käesoleva paragrahvi lõikes 1 nimetatud ettekirjutuse ja lõikes 4 nimetatud nõusoleku käesoleva seaduse § 237 lõike 3 alusel sätestatud korras oma veebilehel.
+
+\[RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+### 5. peatükk — VÄLISRIIGI EMITENDI PAKKUMINE
+
+#### § 37. Registreerimise taotlemine
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 38.
+
+\[Kehtetu - RT I 2005, 59, 464 - jõust. 15.11.2005\]
+
+### 6. peatükk — PAKKUMINE VÄLISRIIGIS
+
+#### § 39. Teavitamise kohustus pakkumisest kolmandas riigis
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 39<sup>1</sup>. Pakkumine lepinguriigis
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+## 3. osa — INVESTEERIMISÜHING
+
+### 7. peatükk — ÜLDSÄTTED
+
+#### § 40. Investeerimisühing
+
+(1) Investeerimisühing käesoleva seaduse tähenduses on aktsiaselts, kelle püsivaks tegevuseks on investeerimisteenuse osutamine kolmandatele isikutele või investeerimistegevus kutsetegevusena. Investeerimisühing on finantseerimisasutus krediidiasutuste seaduse § 5 tähenduses. Erandina käesoleva lõike teises lauses sätestatust ei käsitata investeerimisühingut finantseerimisasutusena käesoleva seaduse 3. osa, Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 4 lõike 1 punkti 26 ning Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 tähenduses.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(2) Käesoleva paragrahvi lõikes 1 nimetamata tegevus on investeerimisühingule lubatud üksnes seadusega sätestatud juhtudel või kui selline tegevus on otseselt vajalik investeerimisteenuse või investeerimisteenuse kõrvalteenuse osutamiseks.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) \[Kehtetu - RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(4) Krediidiasutuste seaduse 10<sup>1</sup>. peatükis sätestatud mitmes riigis tegutsevate krediidiasutuste tervendamist ja 11. peatüki 3. jaos sätestatud mitmes riigis tegutsevate krediidiasutuste likvideerimist kohaldatakse ka investeerimisühingute, sealhulgas investeerimisühingute teistes lepinguriikides asuvate filiaalide suhtes. Investeerimisühingut käsitatakse krediidiasutusena krediidiasutuste seaduse 10<sup>1</sup>. peatüki ja 11. peatüki 3. jao tähenduses.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(5) Krediidiasutuste seaduse §-s 3<sup>1</sup> nimetatud mõisteid ja §-des 13<sup>4</sup>–13<sup>7</sup> sätestatud finantsvaldusettevõtja ja segafinantsvaldusettevõtja tegevuse heakskiitmise regulatsiooni kohaldatakse ka investeerimisühingu emaettevõtja suhtes, kes on kas finantsvaldusettevõtja või segafinantsvaldusettevõtja, juhul kui inspektsioon teostab investeerimisühingu üle järelevalvet konsolideeritud alusel. Krediidiasutuste seaduse §-de 13<sup>4</sup>–13<sup>7</sup> tähenduses käsitatakse investeerimisühingut krediidiasutusena.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(6) Kui investeerimisühing vastab Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 4 lõike 1 punkti 1 alapunktis b nimetatud tingimustele, käsitatakse teda krediidiasutusena ning tema suhtes kohaldatakse krediidiasutuste seaduses ja teistes õigusaktides krediidiasutuse kohta sätestatut.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(7) Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 artikli 1 lõigetes 2 ja 5 nimetatud investeerimisühingute puhul teostatakse järelevalvet Euroopa Parlamendi ja nõukogu direktiivi 2013/36/EL, mis käsitleb krediidiasutuste tegevuse alustamise tingimusi ning krediidiasutuste ja investeerimisühingute usaldatavusnõuete täitmise järelevalvet, millega muudetakse direktiivi 2002/87/EÜ ning millega tunnistatakse kehtetuks direktiivid 2006/48/EÜ ja 2006/49/EÜ (ELT L 176, 27.06.2013, lk 338–436), VII ja VIII jaotise kohaste usaldatavusnõuete täitmise üle vastavalt sama määruse artikli 1 lõike 2 teisele lõigule ja artikli 1 lõike 5 kolmandale lõigule.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(7<sup>1</sup>) Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 artiklis 7 nimetatud juhul kohaldatakse käesoleva seaduse § 79<sup>2</sup> lõikeid 2–11, §-e 79<sup>3</sup> ja 79<sup>4</sup>, § 82<sup>2</sup> lõikeid 3–8, §-e 83<sup>3</sup> ja 110<sup>2</sup>, § 110<sup>3</sup> lõiget 1 ja lõike 2 punkti 3 investeerimisühingu suhtes individuaalsel ja konsolideeritud alusel. Nimetatud sätteid ei kohaldata kolmandas riigis asutatud tütarettevõtja suhtes, kes kuulub konsolideeritud järelevalve alla, kui Euroopa Liidus asuv emaettevõtja tõendab inspektsioonile, et sätete kohaldamine on selle kolmanda riigi õigusega vastuolus.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(8) Investeerimisühingu võlausaldajate nõuete rahuldamisjärkude määramisel lähtutakse krediidiasutuste seaduse §-s 131 sätestatust.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(9) Kolmanda riigi konsolideerimisgrupi investeerimisühingu tegevuse suhtes kohaldatakse krediidiasutuste seaduse §-s 20<sup>7</sup> sätestatut.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+#### § 40<sup>1</sup>. Väike ja mitteseotud investeerimisühing
+
+(1) Kui investeerimisühing vastab kõigile Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 artikli 12 lõikes 1 sätestatud väikeseks ja mitteseotud investeerimisühinguks kvalifitseerumise tingimustele (edaspidi *väike ja mitteseotud investeerimisühing*), ei kohaldata selle investeerimisühingu suhtes käesoleva seaduse § 79<sup>2</sup> lõikeid 2–11, §-e 79<sup>3</sup> ja 79<sup>4</sup>, § 82<sup>2</sup> lõiget 2, lõike 3 punkti 2 ja lõikeid 4–7, § 110 lõiget 6, § 110<sup>2</sup>, § 110<sup>3</sup> lõiget 1 ja lõike 2 punkte 1 ja 3 ning §-e 236<sup>11</sup>–236<sup>13</sup>, kui käesolevas paragrahvis ei ole sätestatud teisiti.
+
+(2) Käesoleva seaduse § 110 lõiget 6 ja § 110<sup>3</sup> lõike 2 punkti 1 kohaldatakse väikesele ja mitteseotud investeerimisühingule, kes emiteerib täiendavatesse esimese taseme omavahenditesse kuuluvaid instrumente.
+
+(3) Käesoleva paragrahvi lõikes 1 sätestatut kohaldatakse, kui investeerimisühing on kuus kuud järjest vastanud väikeseks ja mitteseotud investeerimisühinguks kvalifitseerumise tingimustele ning on teavitanud sellest inspektsiooni.
+
+(4) Kui investeerimisühing ei kvalifitseeru enam väikeseks ja mitteseotud investeerimisühinguks, tuleb sellest teavitada inspektsiooni ning tema suhtes ei kohaldata käesoleva paragrahvi lõigetes 1 ja 5 sätestatut 12 kuu jooksul hindamisest arvates.
+
+(5) Kui investeerimisühing ei kvalifitseeru enam väikeseks ja mitteseotud investeerimisühinguks, kohaldatakse tema suhtes järgmisel majandusaastal käesoleva seaduse §-s 79<sup>3</sup> sätestatud tulemustasu nõudeid.
+
+(6) Inspektsioon võib otsustada väikese ja mitteseotud investeerimisühingu suhtes:
+
+1\) kohaldada käesoleva seaduse § 82<sup>2</sup> lõiget 2, lõike 3 punkti 2 ja lõikeid 4–7 asjakohasel määral;
+
+2\) kohaldada käesoleva seaduse § 230 lõikeid 5 ja 5<sup>1</sup>, lähtudes investeerimisühingu suurusest ning tegevuse laadist, ulatusest ja keerukusest;
+
+3\) kehtestada käesoleva seaduse § 235 punkti 9 alusel täiendavate omavahendite nõude, võttes arvesse §-s 236<sup>11</sup> sätestatud tingimusi;
+
+4\) kehtestada likviidsuse erinõuded käesoleva seaduse § 235 punkti 16 alusel, võttes arvesse §-s 236<sup>12</sup> sätestatud tingimusi, juhul kui investeerimisühingut ei ole Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 artikli 43 lõike 1 kohaselt likviidsusnõuete täitmisest vabastatud.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+#### § 41. Nime kaitse
+
+Sõna «investeerimisühing» või selle tuletisi ja võõrkeelseid vasteid võib oma ärinimes kasutada üksnes investeerimisühing.
+
+#### § 42.
+
+\[Kehtetu - RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 43. Investeerimisteenused ja -tegevused
+
+(1) Investeerimisteenused ja -tegevused (edaspidi *investeerimisteenused*) käesoleva seaduse tähenduses on:
+
+1\) väärtpaberiga seotud korralduse vastuvõtmine ja edastamine;
+
+2\) väärtpaberiga seotud korralduse täitmine kliendi nimel või arvel;
+
+3\) väärtpaberitega kauplemine oma arvel;
+
+4\) väärtpaberiportfelli valitsemine;
+
+5\) investeerimisnõustamine;
+
+6\) väärtpaberi garanteerimine või väärtpaberi pakkumise, emiteerimise või müümise garanteerimine;
+
+7\) väärtpaberi pakkumise või emiteerimise korraldamine;
+
+8\) mitmepoolse kauplemissüsteemi korraldamine;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+9\) organiseeritud kauplemissüsteemi korraldamine.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) Käesoleva paragrahvi lõike 1 punktis 2 nimetatud investeerimisteenuse sisu on mis tahes toiming lepingu sõlmimiseks või lepingu sõlmimine kliendi nimel või arvel eesmärgiga omandada või võõrandada väärtpabereid, kaasa arvatud selliseid väärtpabereid, mille emitendiks nende emiteerimise hetkel on investeerimisühing.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) Käesoleva paragrahvi lõike 1 punktis 3 nimetatud investeerimisteenuse sisu on oma kapitali arvel tehingu tegemine väärtpaberiga.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(4) Käesoleva paragrahvi lõike 1 punktis 4 nimetatud investeerimisteenuse sisu on ühest või mitmest väärtpaberist moodustatud portfelli valitsemine kliendi antud volituse alusel, omal äranägemisel ja iga kliendi puhul eraldi.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(5) Käesoleva paragrahvi lõike 1 punktis 5 nimetatud investeerimisteenuse sisu on kliendile väärtpaberiga seotud tehingu kohta isikliku soovituse andmine komisjoni delegeeritud määruse (EL) nr 2017/565 artikli 9 tähenduses.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(6) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 44. Investeerimisteenuse kõrvalteenused
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+Investeerimisteenuse kõrvalteenused (edaspidi *kõrvalteenus*) on:
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+1\) väärtpaberite hoidmine ja haldamine kliendi jaoks ning nendega seotud tegevused, sealhulgas väärtpaberi ülekande- ja pandikorralduste, samuti muude finantstagatiste koormamisega seotud korralduste klientidelt vastuvõtmine, edastamine ja täitmine, välja arvatud Euroopa Parlamendi ja nõukogu määruse (EL) nr 909/2014, mis käsitleb väärtpaberiarvelduse parandamist Euroopa Liidus ja väärtpaberite keskdepositooriume ning millega muudetakse direktiive 98/26/EÜ ja 2014/65/EL ning määrust (EL) nr 236/2012 (ELT L 257, 28.08.2014, lk 1–72), lisa jao A punktis 2 nimetatud teenus;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+2\) investorile väärtpaberitehingu tegemiseks krediidi või laenu andmine tingimusel, et krediidi- või laenuandja ise on seotud nimetatud tehinguga;
+
+3\) äriühingu nõustamine kapitali struktuuri, ettevõtlussektori strateegia või ka muus seesuguses küsimuses ning äriühingute ühinemise ja osaluse omandamisega seotud nõustamine ning nendega seotud teenused;
+
+4\) välisvaluuta vahetusega seotud teenused, kui need on seotud investeerimisteenuste osutamisega;
+
+5\) investeerimis- ja finantsanalüüsi või muu üldise soovituse koostamine või andmine seoses väärtpaberitehingutega;
+
+6\) väärtpaberi pakkumise või emiteerimise garanteerimisega seotud teenused;
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+7\) muu investeerimisteenuse ja kõrvalteenuse osutamine seoses käesoleva seaduse § 2 lõike 11 punktis 2, 3, 4, 7 või 8 nimetatud tuletisinstrumendiga, kui väärtpaberid on seotud investeerimisteenuse või kõrvalteenuse osutamisega.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 45. Investeerimisteenuste osutamine
+
+Investeerimisteenuseid võib püsiva tegevusena osutada üksnes:
+
+1\) investeerimisühing, välisriigi investeerimisühingu filiaal ja piiriüleselt välisriigi investeerimisühing käesoleva seaduse kohaselt;
+
+2\) krediidiasutus, välisriigi krediidiasutuse filiaal ja piiriüleselt välisriigi krediidiasutus käesoleva seaduse ja krediidiasutuste seaduse kohaselt;
+
+3\) fondivalitseja, välisriigi fondivalitseja filiaal ja piiriüleselt välisriigi fondivalitseja käesoleva seaduse ja investeerimisfondide seaduse kohaselt;
+
+4\) reguleeritud turu korraldaja käesoleva seaduse kohaselt.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 45<sup>1</sup>. Krüptovarateenuse osutamine
+
+(1) Investeerimisühingule, kes soovib osutada või osutab kooskõlas Euroopa Parlamendi ja nõukogu määruse (EL) 2023/1114, mis käsitleb krüptovaraturge ning millega muudetakse määrusi (EL) nr 1093/2010 ja (EL) nr 1095/2010 ning direktiive 2013/36/EL ja (EL) 2019/1937 (ELT L 150, 09.06.2023, lk 40–205), artikli 60 lõikega 3 investeerimisteenusega samaväärset krüptovarateenust, kohaldatakse lisaks käesolevas seaduses sätestatule nimetatud määruses ja krüptovaraturu seaduses sätestatut.
+
+(2) Kui käesolevas seaduses ja krüptovaraturu seaduses on sätestatud nõuded sama tegevuse suhtes, kohaldatakse investeerimisühingule nõudeid, mis on detailsemad või rangemad.
+
+\[RT I, 21.06.2024, 3 - jõust. 01.07.2024\]
+
+#### § 46. Investeerimisühingu klient
+
+(1) Investeerimisühingu klient käesoleva seaduse 3. osa tähenduses on iga isik, kellele investeerimisühing osutab investeerimisteenust või kõrvalteenust. Investeerimisühingu potentsiaalne klient on isik, kellele soovitakse investeerimisteenust või kõrvalteenust osutada, kuid kellega ei ole veel lepingulisse suhtesse astutud (edaspidi *potentsiaalne klient*).
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) Investeerimisühingu asjatundlik klient on käesoleva seaduse § 6 lõike 2 punktides 1–5 nimetatud isik.
+
+\[RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+(3) Käesoleva paragrahvi lõikes 2 nimetamata isikut käsitatakse investeerimisühingu tavakliendina.
+
+\[RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+(4) Asjatundlik klient võib taotleda enda käsitamist tavakliendina, kui tema hinnangul ei ole ta ise võimeline teenuste ja tehingutega seotud riske piisavalt hindama või juhtima. Sellisel juhul ei eeldata tema puhul asjatundliku kliendiga võrdset kõrget teadlikkust väärtpaberiturust.
+
+(5) Asjatundliku kliendi käsitamiseks tavakliendina kliendi algatusel sõlmib investeerimisühing kliendiga kirjaliku lepingu, kus tuleb sätestada, milliste teenuste, tehingute või väärtpaberite suhtes asjatundlikku klienti tavakliendina käsitatakse.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+(6) Tavaklient võib taotleda enda käsitamist asjatundliku kliendina, kui tema hinnangul on tal piisavad kogemused, teadmised ja asjatundlikkus ise investeerimisotsuste tegemiseks ja nendega seotud riskide adekvaatseks hindamiseks. Investeerimisühing on kohustatud eelnimetatud asjaolusid hindama ning hindamisel peab investeerimisühing võtma arvesse kavandatud tehingute või teenuste laadi. Sellise kliendi puhul ei eeldata asjatundliku kliendi teadmiste ja kogemustega võrreldavaid väärtpaberiturualaseid teadmisi ja kogemusi.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(7) Investeerimisühing võib kliendi asjatundlikkust, kogemusi ja teadmisi hinnata krediidiasutuste, investeerimisühingute ja teiste finantsjärelevalve alla kuuluvate finantseerimisasutuste juhtidele esitatavate nõuete alusel. Äriühingu puhul, kes ei ole käesoleva seaduse tähenduses suurettevõtja, hinnatakse vastavalt käesolevas paragrahvis sätestatule tehingute tegemiseks vajalikku esindusõigust omavat isikut.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(8) Käesoleva paragrahvi lõigetes 6 ja 7 nimetatud hindamise käigus peab olema täidetud vähemalt kaks järgmistest tingimustest:
+
+1\) klient on teinud väärtpaberiturul keskmiselt kümme olulises mahus tehingut kvartali kohta viimase nelja kvartali jooksul;
+
+2\) kliendi väärtpaberiportfelli maht ületab 500 000 eurot;
+
+3\) klient töötab või on töötanud vähemalt ühe aasta finantsvaldkonnas töö- või ametikohal, mis nõuab teadmisi väärtpaberitesse investeerimise kohta.
+
+\[RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+(9) Investeerimisühing on kohustatud võtma kasutusele kõik vajalikud meetmed tagamaks, et enne tavakliendi asjatundliku kliendina käsitamise otsustamist vastaks tavaklient käesoleva paragrahvi lõigetes 6–8 nimetatud tingimustele ning tavaklienti võib asjatundliku kliendina käsitada üksnes juhul, kui on täidetud kõik järgmised tingimused:
+
+1\) klient peab investeerimisühingule kirjalikult kinnitama, et ta soovib asjatundliku kliendina kohtlemist kas üldiselt või seoses konkreetse investeerimisteenuse või tehinguga või tehingu või teenuse liigiga;
+
+2\) investeerimisühing peab kliendile andma kirjalikus vormis selgituse õiguste kohta, millest klient asjatundliku kliendina käsitamise korral ilma võib jääda;
+
+3\) klient peab kirjalikult kinnitama, et ta on teadlik õigustest, mille ta kaotab asjatundliku kliendina käsitamise tagajärjel.
+
+(10) Kui klienti käsitatakse juba asjatundliku kliendina käesoleva paragrahvi lõigetes 6–9 nimetatud tunnuste ja korraga samaväärsete tunnuste ja korra alusel, ei mõjuta käesoleva paragrahvi lõigetest 6–9 tulenev kord kliendi suhteid investeerimisühinguga.
+
+(11) Investeerimisühing on kohustatud kehtestama klientide käsitamiseks kirjalikud protseduurireeglid.
+
+(12) Asjatundlik klient on kohustatud investeerimisühingut teavitama muutustest, mis võivad mõjutada tema käsitamist asjatundliku kliendina. Kui investeerimisühingule saab teatavaks, et asjatundliku kliendina käsitatav klient ei vasta enam käesolevas paragrahvis sätestatud tingimustele, peab investeerimisühing kliendile kohaldama tavakliendi sätteid vastavalt muutunud asjaoludele.
+
+(13) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(14) Käesolevas paragrahvis sätestatud vorminõuete järgimata jätmine ei too kaasa lepingu tühisust.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 46<sup>1</sup>. Tehing võrdse vastaspoolega
+
+(1) Käesoleva seaduse § 43 lõike 1 punktis 1, 2 või 3 nimetatud investeerimisteenuse osutamiseks tegevusluba omavale investeerimisühingule ei kohaldata võrdse vastaspoolega tehingu tegemisel ja sellise tehinguga otseselt seotud kõrvalteenuse osutamisel § 79<sup>1</sup> lõikes 2, § 85 lõike 1 punktides 1, 5–7 ja 9, §-des 85<sup>2</sup> ja 85<sup>4</sup>–85<sup>6</sup>, § 86 lõigetes 1, 2 ja 5, § 87 lõike 1 punktides 3–5 ja lõigetes 2–5, §-des 87<sup>1</sup>–87<sup>5</sup> ning § 89<sup>1</sup> lõigetes 1 ja 3 sätestatut. Investeerimisühing võib käesoleva seaduse § 85 lõike 1 punktis 1 ja § 86 lõikes 2 sätestatud kohustuse täitmisel arvesse võtta võrdse vastaspoole ja tema äritegevuse olemust.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(2) Võrdne vastaspool käesoleva seaduse tähenduses on käesoleva seaduse § 6 lõike 2 punktides 1, 2 ja 3 nimetatud isik.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) Investeerimisühing võib asjatundliku kliendi nõusolekul teda käsitada võrdse vastaspoolena. Sellisel juhul selgitab investeerimisühing enne asjatundliku kliendi võrdse vastaspoolena käsitamist kliendile põhjalikult sellise seisundi muutumise tagajärgi.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(4) Võrdsel vastaspoolel on õigus investeerimisühingult nõuda enda muud liiki kliendina kohtlemist üldiselt või konkreetse tehingu suhtes. Sellisel juhul investeerimisühingu ja kliendi suhtes käesoleva paragrahvi lõiget 1 ei kohaldata.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(5) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(6) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 47. Käesoleva osa kohaldamine
+
+(1) Käesoleva seaduse III osa ei kohaldata:
+
+1\) lepinguriigi tegevusluba omava kindlustusandja suhtes;
+
+2\) isiku suhtes, kes osutab investeerimisteenust üksnes samasse kontserni kuuluvale isikule;
+
+3\) isiku suhtes, kes osutab investeerimisteenust juhuti muu kutsetegevuse hulgas, kui kutsetegevust reguleerivad õigusaktid ja selle ameti eetikakoodeks ei välista investeerimisteenuse osutamist;
+
+4\) isiku suhtes, kes kaupleb oma arvel muude väärtpaberitega kui kaubatuletisinstrumendid, heitkoguse ühikud või nende tuletisinstrumendid ega osuta nende muude väärtpaberitega seoses muud investeerimisteenust;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+5\) Tagatisfondi või muu isiku suhtes, kes osutab investeerimisteenust, mis seisneb üksnes töötajate osalusega pensioni- või kompensatsioonisüsteemi valitsemises;
+
+6\) isiku suhtes, kes osutab investeerimisteenust, mis seisneb üksnes töötajate osalusega pensioni- või kompensatsioonisüsteemi valitsemises ja investeerimisteenuse osutamises üksnes samasse kontserni kuuluvale isikule;
+
+7\) Eesti Panga ja muu lepinguriigi keskpanga, samuti Rahandusministeeriumi ja muu lepinguriigi avalik-õiguslikust või muust seda laadi isikust või asutustest selle riigi võlgade haldaja suhtes ning kahe või enama lepinguriigi asutatud sellise rahvusvahelise finantsinstitutsiooni suhtes, mille eesmärk on koguda vahendeid ja osutada vajaduse korral finantsabi oma liikmetele;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+8\) investeerimisfondi, sealhulgas pensionifondi, ning sellise fondi depositooriumi suhtes ja fondivalitseja suhtes seoses investeerimisfondi valitsemisega, välja arvatud juhul, kui seaduses on sätestatud teisiti;
+
+9\) isiku suhtes, kes kaupleb oma arvel, sealhulgas turutegijana, kuid mitte kliendi korralduste täitmiseks kaubatuletisinstrumentide, heitkoguse ühikute või nende tuletisinstrumentidega või osutab muud investeerimisteenust seoses selliste väärtpaberitega oma põhitegevusala kliendile või muule isikule, kellega tekib esmane lepinguline suhe või muu õigussuhe tema põhitegevusega seotud tehingu kaudu;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+10\) isiku suhtes, kes pakub investeerimisnõustamist sellise kutsetegevuse käigus, mida ei reguleerita käesoleva seadusega tingimusel, et sellist nõustamist ei tasustata eraldi;
+
+11\) \[kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+12\) \[kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+13\) pensionifondi osakute pakkumise ning seoses nendega tehtavate tehingute ja toimingute suhtes;
+
+14\) atmosfääriõhu kaitse seaduse tähenduses heiteallika käitaja ja õhusõiduki käitaja suhtes, kes kaupleb oma arvel heitkoguse ühikutega, tingimusel et selline isik ei täida klientide korraldusi, ei osuta muud investeerimisteenust ega kasuta algoritmipõhist välkkauplemistehnikat;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+15\) elektrituruseaduse tähenduses põhivõrguettevõtja ja maagaasiseaduse tähenduses süsteemihalduri suhtes vastavalt maagaasiseaduses, elektrituruseaduses, Euroopa Parlamendi ja nõukogu määruses (EÜ) nr 714/2009 võrkudele juurdepääsu tingimuste kohta piiriüleses elektrikaubanduses ning millega tunnistatakse kehtetuks määrus (EÜ) nr 1228/2003 (ELT L 211, 14.08.2009, lk 15–35), Euroopa Parlamendi ja nõukogu määruses (EÜ) nr 715/2009 maagaasi ülekandevõrkudele juurdepääsu tingimuste kohta ning millega tunnistatakse kehtetuks määrus (EÜ) nr 1775/2005 (ELT L 211, 14.08.2009, lk 36–54) või nende alusel kehtestatud õigusaktides sätestatud ülesannete täitmisel ning nende nimel käesolevas punktis nimetatud õigusaktidega sätestatud ülesandeid täitva isiku suhtes, samuti elektrituruseaduse ja maagaasiseaduse tähenduses süsteemi- või bilansihalduri suhtes, kelle ülesandeks on tagada bilanss, juhul kui käesolevas punktis nimetatud ülesannete täitmine eeldab investeerimisteenuse osutamist seoses kaubatuletisinstrumentidega;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+16\) väärtpaberite keskdepositooriumi suhtes Euroopa Parlamendi ja nõukogu määruse (EL) nr 909/2014 artikli 2 lõike 1 punkti 1 või 2 tähenduses, kellel on vastav tegevusluba artiklis 73 sätestatud tingimustel;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+17\) Euroopa Parlamendi ja nõukogu määruse (EL) 2020/1503 artikli 2 lõike 1 punktis e nimetatud ühisrahastusteenuse osutajate suhtes.
+
+\[RT I, 07.12.2021, 3 - jõust. 17.12.2021\]
+
+(1<sup>1</sup>) Käesoleva paragrahvi lõike 1 punktis 4 sätestatud erandit ei kohaldata isiku suhtes, kes:
+
+1\) on turutegija;
+
+2\) on reguleeritud turu või mitmepoolse kauplemissüsteemi liige või selles osaleja, välja arvatud selline reguleeritud turu või mitmepoolse kauplemissüsteemi liige või selles osaleja, kes ei ole krediidiasutus, investeerimisühing ega finantseerimisasutus ja kes teeb kauplemiskohas niisuguseid tehinguid, mis on osa likviidsuse juhtimisest või mis vähendavad objektiivselt mõõdetaval viisil tema enda või temaga samasse konsolideerimisgruppi kuuluva isiku äritegevusega või äritegevuse rahastamisega otseselt seotud riske;
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+3\) \[kehtetu - RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+4\) kasutab algoritmipõhist välkkauplemistehnikat või
+
+5\) kaupleb oma arvel kliendi korralduste täitmiseks.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1<sup>2</sup>) Käesoleva paragrahvi lõikes 1<sup>1</sup> sätestatud erandi kohaldumise välistus ei rakendu lõike 1 punktides 1, 8 ja 9 sätestatud erandi korral.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1<sup>3</sup>) Käesoleva paragrahvi lõike 1 punkti 9 kohaldamiseks peavad olema täidetud kõik järgmised tingimused:
+
+1\) isiku tegevus või tema osutatud teenus on igal üksikjuhul ja kogumis konsolideerimisgrupi tasandilt võetuna põhitegevuse suhtes kõrvaltegevus;
+
+2\) isik ei kuulu konsolideerimisgruppi, mille põhitegevusala on investeerimisteenuse osutamine, krediidiasutuste seaduse §-s 6 sätestatud finantsteenuse osutamine või kaubatuletisinstrumendi turutegijana tegutsemine;
+
+3\) isik ei kasuta algoritmipõhist välkkauplemistehnikat;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+4\) isik põhjendab inspektsiooni nõudmisel käesoleva paragrahvi lõike 1 punktis 9 nimetatud tegevuse või teenuse käsitamist kõrvaltegevusena.
+
+\[RT I, 29.03.2022, 3 - jõust. 30.03.2022\]
+
+(2) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) \[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+(4) \[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+(4<sup>1</sup>) Käesoleva paragrahvi lõike 1 punktis 15 sätestatut ei kohaldata järelturu korraldamisele, sealhulgas rahaliste ülekandeõigustega kauplemiseks kasutatava järelturu platvormi suhtes.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(5) Käesolevas osas investeerimisühingute ja investeerimisteenuste osutamise suhtes sätestatut kohaldatakse krediidiasutustele, fondivalitsejatele ning välisriigi krediidiasutuste ja fondivalitsejate filiaalidele niivõrd, kuivõrd käesolevast seadusest, krediidiasutuste seadusest või investeerimisfondide seadusest ei tulene teisiti.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(6) Käesoleva paragrahvi lõike 1 punktides 1, 8, 9 ja 14 nimetatud isikule, kes on reguleeritud turul või mitmepoolses kauplemissüsteemis osaleja, kohaldatakse käesoleva seaduse §-des 82<sup>15</sup>, 82<sup>16</sup> ja 90 sätestatut.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(7) Käesoleva seaduse §-s 46<sup>1</sup>, § 54 lõike 1 punktis 14, § 79 lõigetes 5–8, § 79<sup>1</sup> lõigetes 2 ja 4, §-des 82<sup>3</sup>, 82<sup>4</sup>, 82<sup>6</sup> ja 82<sup>9</sup>–82<sup>14</sup>, § 85 lõikes 1, §-des 85<sup>1</sup>, 85<sup>2</sup>, 85<sup>4</sup>–87<sup>6</sup>, 89<sup>1</sup> ja 90, 13<sup>1</sup>. peatükis, 21. peatüki 6. jaos ning 6. osas sätestatut kohaldatakse ka krediidiasutuste seaduse § 89<sup>1</sup> lõikes 2 nimetatud investeerimisriskiga hoiuse müümisele või soovitamisele.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(8) Kui käesoleva seaduse § 43 lõike 1 punktis 4 või 5 nimetatud investeerimisteenuse osutamise raames pakutakse või turustatakse Euroopa Parlamendi ja nõukogu määruse (EL) 2019/1238 üleeuroopalise personaalse pensionitoote (PEPP) kohta (ELT L 198, 25.07.2019, lk 1–63) artikli 2 punkti 15 või 16 tähenduses sama artikli punktis 2 nimetatud üleeuroopalist personaalset pensionitoodet ehk PEPP-i, kohaldatakse investeerimisühingu ja tema osutatava investeerimisteenuse suhtes käesolevas osas sätestatut, kui samast määrusest ei tulene teisiti.
+
+\[RT I, 17.03.2023, 5 - jõust. 27.03.2023\]
+
+(9) Käesolevas osas investeerimis- ja kõrvalteenuse osutamise suhtes sätestatud õigusi ei kohaldata teenuste osutamisel osapoolena tehingutes, mida teevad käesoleva paragrahvi lõike 1 punktis 7 nimetatud riigi võlgade haldajad või Euroopa Keskpankade Süsteemi liikmed, kes täidavad Euroopa Liidu toimimise lepingus ning protokollis nr 4 Euroopa Keskpankade Süsteemi ja Euroopa Keskpanga põhikirja kohta sätestatud ülesandeid või samaväärseid ülesandeid riigisiseste õigusnormide alusel.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+### 8. peatükk — TEGUTSEMISE ÕIGUS
+
+#### 1. jagu — Tegevusluba
+
+##### § 48. Tegevusluba
+
+(1) Investeerimisühinguna tegutsemiseks peab isikul olema vastav tegevusluba (edaspidi käesolevas osas *tegevusluba*).
+
+(2) Tegevusluba on tähtajatu.
+
+(3) Tegevusluba ei ole üleantav ning selle omandamine ja kasutamine teiste isikute poolt on keelatud.
+
+(4) Isik tagab, et investeerimisühing ja tema tegevus vastab igal ajal kehtiva tegevusloa andmise tingimustele ning õigusaktides sätestatud nõuetele.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 49. Tegevusloa ulatus
+
+(1) Tegevusluba antakse ühe või mitme investeerimisteenuse osutamiseks. Tegevusluba võib hõlmata ühte või mitut kõrvalteenust. Üksnes kõrvalteenuste osutamiseks investeerimisühingule tegevusluba eraldi ei anta.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) Investeerimisühing võib osutada üksnes neid investeerimisteenuseid ja kõrvalteenuseid, mille kohta talle on antud tegevusluba. Tegevusloas nimetamata investeerimisteenuste ja kõrvalteenuste osutamiseks peab investeerimisühing taotlema vastava täiendava tegevusloa.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 50. Krediidiasutuse ja fondivalitseja tegevusload
+
+(1) Krediidiasutuse tegevusluba omav äriühing ei pea investeerimisteenuste ja kõrvalteenuste osutamiseks eraldi tegevusluba taotlema.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) Fondivalitseja tegevusluba omav äriühing ei pea käesoleva seaduse § 43 lõike 1 punktides 4 ja 5 ning § 44 punktis 1 sätestatud teenuse osutamiseks käesolevas seaduses sätestatud korra kohaselt eraldi tegevusluba taotlema.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+##### § 51. Otsus
+
+(1) Tegevusloa annab ja selle tunnistab kehtetuks inspektsioon oma otsusega. Inspektsioon võib tegevusloa andmisel kehtestada taotlejale soodsamaid kõrvaltingimusi, millega lubatakse põhjendatuse korral taotlejal osaliselt kõrvale kalduda tegevusloa saamise aluseks olevatest asjaoludest, või määrata käesoleva seaduse §-s 55<sup>1</sup> sätestatud tähtajast pikema tähtaja, mille jooksul peab taotleja viima ennast tegevusloa saamise aluseks olevate nõuetega kooskõlla.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(2) Tegevusloa kohta tehtavas otsuses märgitakse vähemalt:
+
+1\) isiku, kelle kohta otsus tehakse, nimi ja registrikood;
+
+2\) investeerimisteenuse või kõrvalteenuse liik või liigid, mille kohta otsus tehakse;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+3\) otsuse tegemise ja jõustumise kuupäev.
+
+(3) Tegevusloa andmisest keeldumise ja tegevusloa kehtetuks tunnistamise korral peab otsus sisaldama sellekohast põhjendust.
+
+##### § 52. Otsusest teavitamine
+
+(1) Otsuse tegevusloa andmise või sellest keeldumise või tegevusloa kehtetuks tunnistamise kohta toimetab inspektsioon viivitamata investeerimisühingule kätte.
+
+(2) Inspektsioon avalikustab tegevusloa andmise, selle muutmise ning kehtetuks tunnistamise oma veebilehel hiljemalt otsuse tegemisele järgneval tööpäeval.
+
+(3) Tegevusloa kehtetuks tunnistamise avalikustab inspektsioon lisaks käesoleva paragrahvi lõikes 2 ettenähtule veel vähemalt ühes üleriigilise levikuga meediaväljaandes.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+##### § 53. Tegevusloa taotlus
+
+(1) Tegevusloa taotlemiseks esitavad asutatava või tegutseva äriühingu (edaspidi käesolevas jaos *taotleja*) juhatuse liikmed vastava taotluse.
+
+(2) Taotlus koosneb kirjalikust avaldusest ja käesoleva seaduse §-s 54 nimetatud lisadest.
+
+(3) Kui tegevusloa taotluse menetlemise ajal toimuvad muudatused käesoleva seaduse § 54 lõikes 1 nimetatud andmetes või dokumentides, esitab taotleja viivitamata inspektsioonile vastavad andmed ja dokumendid uuendatud kujul.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+##### § 54. Taotlemisel esitatavad andmed
+
+(1) Tegevusloa taotlemiseks tuleb taotlejal esitada Euroopa Parlamendi ja nõukogu direktiivi 2014/65/EL finantsinstrumentide turgude kohta ning millega muudetakse direktiive 2002/92/EÜ ja 2011/61/EL (ELT L 173, 12.06.2014, lk 349–496) artikli 7 lõike 4 alusel antud komisjoni delegeeritud määruses nimetatud andmed ja dokumendid ning järgmised andmed ja dokumendid:
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+1\) äriühingu asutamisel – asutamislepingu või -otsuse notariaalselt kinnitatud ärakiri;
+
+2\) põhikirja ärakiri, tegutseva äriühingu puhul üldkoosoleku otsus põhikirja muutmise kohta ning põhikirja muudetud tekst;
+
+3\) taotleja aktsionäride nimekiri, milles on ära näidatud iga aktsionäri nimi, olemasolu korral registrikood või isikukood või selle puudumisel sünniaeg ning andmed iga aktsionäri poolt omandatavate või talle kuuluvate aktsiate ja häälte arvu kohta;
+
+4\) käesoleva seaduse § 74 lõikes 1 nimetatud andmed taotlejas olulist osalust omavate aktsionäride ja muude isikute kohta, samuti käesoleva seaduse § 55 lõikes 7 sätestatud andmed seotuse kohta lepinguriigis tegevusluba omava investeerimisühingu, krediidiasutuse, kindlustusandja või muu finantsjärelevalve alla kuuluva isikuga;
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+5\) andmed taotleja juhtide kohta, mis sisaldavad neist igaühe ees- ja perekonnanime, isikukoodi või selle puudumisel sünniaega, elukohta, hariduse kirjeldust, viimase viie aasta töö- ja ametikohtade täielikku loetelu ning juhatuse liikmete puhul nende vastutusvaldkonna kirjeldust, ning muud juhtide usaldusväärsust ja käesoleva seaduse nõuetele vastavust kinnitavad dokumendid, mida taotleja peab oluliseks esitada;
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+6\) andmed äriühingute kohta, milles taotleja või tema juhi osalus on suurem kui 20 protsenti, kusjuures need andmed peavad sisaldama aktsia- või osakapitali suurust, tegevusalade loetelu ning taotleja ja iga juhi osaluse suurust;
+
+7\) andmed taotleja audiitori ja sisekontrolli teostava(te) isiku(te) kohta, mis sisaldavad nime, elu- või asukohta, isikukoodi või selle puudumisel sünniaega või registrikoodi;
+
+8\) taotleja algbilanss ning ülevaade taotleja tuludest ja kuludest või tegutseva äriühingu puhul bilanss ja kasumiaruanne taotluse esitamisele eelneva kuu lõpu seisuga ning olemasolu korral viimase kolme majandusaasta aruanded;
+
+9\) tegutseva äriühingu puhul omavahendite suurust tõendavad dokumendid koos vandeaudiitori aruannetega;
+
+\[RT I 2010, 9, 41 - jõust. 08.03.2010\]
+
+10\) kui taotlejas omab olulist osalust kolmanda riigi krediidiasutus, fondivalitseja, investeerimisfond, investeerimisühing, kindlustusandja või muu finantsjärelevalve alla kuuluv isik, siis vastava riigi järelevalveasutuse väljastatud kinnitus selle kohta, et nimetatud kolmanda riigi isikul on tegevusluba ja tema tegevus ei ole järelevalveasutuse teada vastuolus kehtivate õigusaktidega;
+
+11\) taotleja kolme aasta äriplaan, mis sisaldab vähemalt kavandatavate tegevuste, taotleja organisatsioonilise ülesehituse, tegevuskohtade, rakendatavate infotehnoloogiliste süsteemide ja muude tehniliste vahendite ning majandusnäitajate kirjeldust;
+
+12\) raamatupidamise sise-eeskiri ja käesoleva seaduse §-s 82 nimetatud sise-eeskirjad või nende projektid;
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+13\) rahapesu ja terrorismi rahastamise tõkestamise seaduse § 14 lõikes 1 sätestatud protseduurireeglid ning nende täitmise kontrollimise sisekontrollieeskirja;
+
+\[RT I, 17.11.2017, 2 - jõust. 27.11.2017\]
+
+14\) dokument, millega taotleja võtab kohustuse tasuda Tagatisfondi seaduses ettenähtud investorikaitse osafondi ühekordne osamakse;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+15\) tõend inspektsioonile menetlustasu maksmise kohta;
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+16\) taotleja peakontori või registrijärgse asukoha aadress.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(1<sup>1</sup>) Taotleja või investeerimisühingu juht on nõukogu liige ja juhatuse liige. Juhina võib inspektsioon käsitada taotleja või investeerimisühingu töötajat ja muud isikut, kes iseseisvalt võtab vastu juhtimisotsuseid taotleja või investeerimisühingu arengu või äritegevuse suhtes.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(2) Käesoleva paragrahvi lõike 1 punktides 5 ja 7 nimetatud füüsiliste isikute kohta esitatud andmete ja dokumentide õigsust kinnitavad need isikud oma allkirjaga.
+
+(3) Täiendava tegevusloa taotlemisel esitab investeerimisühing käesoleva paragrahvi lõike 1 punktides 3, 9, 10, 12, 13 ja 15 nimetatud andmed ja dokumendid.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+##### § 55. Taotluse läbivaatamine
+
+(1) Kui taotleja ei ole tegevusloa taotlemisel esitanud kõiki käesoleva seaduse §-s 54 nimetatud andmeid ja dokumente või need ei ole täielikud või nõuetekohaselt vormistatud, nõuab inspektsioon taotlejalt puuduste kõrvaldamist.
+
+(1<sup>1</sup>) Kui tegevusloa taotluse menetlemise ajal tehakse käesoleva seaduse § 54 lõikes 1 nimetatud andmetes või dokumentides muudatusi, esitab taotleja viivitamata inspektsioonile vastavad andmed või dokumendid uuendatud kujul. Kui muudatus on oluline, võib inspektsioon lugeda menetlustähtaja alguseks uuendatud andmete või dokumentide kättesaamise aja. Sellisel juhul peab inspektsioon teatama taotlejale uue menetlustähtaja.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(2) Kui käesoleva seaduse §-s 54 nimetatud andmete ja dokumentide põhjal ei ole võimalik veenduda, kas tegevusloa taotlejal on investeerimisteenuste osutamiseks piisavad võimalused ja ta vastab seadusega või selle alusel investeerimisühingule sätestatud nõuetele, võib inspektsioon nõuda täiendavate andmete ja dokumentide esitamist.
+
+(3) Taotleja esitatud andmete kontrollimiseks võib inspektsioon teostada kohapealset kontrolli, määrata ekspertiisi ja erakorralist audiitorkontrolli, teostada päringuid riigi andmekogudest, saada suulisi selgitusi taotleja juhtidelt ja audiitorilt, nende esindajatelt ning põhjendatud vajaduse korral kolmandatelt isikutelt esitatud dokumentide sisu ja tegevusloa andmise otsustamisel tähtsust omavate asjaolude kohta.
+
+(4) Käesoleva paragrahvi lõigetes 1–3 nimetatud andmed esitatakse inspektsiooni poolt määratud mõistlikul tähtajal.
+
+(4<sup>1</sup>) Kui taotleja ei ole kõrvaldanud käesoleva paragrahvi lõikes 1 nimetatud puudusi ettenähtud tähtaja jooksul või ei ole tähtpäevaks esitanud inspektsiooni nõutud andmeid või dokumente, võib inspektsioon jätta taotluse läbi vaatamata. Taotluse läbi vaatamata jätmise korral tagastab inspektsioon esitatud dokumendid.
+
+(5) \[Kehtetu - RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(6) \[Kehtetu - RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(7) Inspektsioon teeb tegevusloa taotluse menetlemisel koostööd vastava lepinguriigi väärtpaberituru- või finantsjärelevalve asutusega, kui:
+
+1\) taotleja on lepinguriigis tegevusluba omava krediidiasutuse, investeerimisühingu, kindlustusandja või muu finantsjärelevalve alla kuuluva isiku tütarettevõtja;
+
+2\) taotleja on lepinguriigis tegevusluba omava krediidiasutuse, investeerimisühingu, kindlustusandja või muu finantsjärelevalve alla kuuluva isiku emaettevõtja tütarettevõtja;
+
+3\) taotlejat kontrollib isik või isikud, kes kontrollivad teises lepinguriigis tegevusluba omavat investeerimisühingut, krediidiasutust, kindlustusandjat või muud finantsjärelevalve alla kuuluvat isikut.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(8) Inspektsioon konsulteerib teiste lepinguriikide väärtpaberituru- või finantsjärelevalve asutustega taotleja ning temaga ühte konsolideerimisgruppi kuuluva juriidilise isiku oluliste osaluste omajate ja juhtide maine, kogemuse ning sobivuse hindamiseks. Inspektsioon edastab sellise konsultatsiooni käigus üksnes olulised andmed taotleja ja temaga ühte konsolideerimisgruppi kuuluva juriidilise isiku oluliste osaluste omajate ja juhtide maine, kogemuse ning sobivuse kohta, mis on vajalikud teistele lepinguriigi tegevusloa andmisega seotud väärtpaberituru- või finantsjärelevalve asutustele.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+##### § 55<sup>1</sup>. Tegevusloa andmine
+
+(1) Inspektsioon annab tegevusloa, kui taotleja on esitanud kõik õigusaktidega nõutud andmed, kui ei esine tegevusloa andmisest keeldumise aluseid ja tegevusloa lõppemise aluseid ning kui on kõrvaldatud inspektsiooni taotlejale väljendatud kahtlus, et taotleja ei vasta kõigile käesolevast seadusest ja selle alusel kehtestatud õigusaktidest tulenevatele nõuetele.
+
+(2) Kui inspektsioonil on tekkinud põhjendatud kahtlus, et taotleja ei vasta kõigile käesolevast seadusest ja selle alusel kehtestatud õigusaktidest tulenevatele nõuetele, on taotleja kohustatud kahtluse kõrvaldamise eesmärgil esitama inspektsioonile teavet omal initsiatiivil. Inspektsioon on kohustatud eelnevalt täpsustama, millist teavet ja andmeid ta kahtluse kõrvaldamiseks vajab.
+
+(3) Otsuse tegevusloa andmise või sellest keeldumise kohta teeb inspektsioon kahe kuu jooksul kõigi vajalike andmete ja dokumentide saamisest arvates, kuid mitte hiljem kui kuue kuu jooksul tegevusloa taotluse saamisest arvates.
+
+(4) Otsuse täiendava tegevusloa andmise või sellest keeldumise kohta teeb inspektsioon ühe kuu jooksul pärast inspektsioonile vastava taotluse ja kõigi nõutavate andmete ning dokumentide laekumist, kuid mitte hiljem kui kuue kuu jooksul täiendava tegevusloa taotluse saamisest arvates.
+
+(5) Tegevusluba omav investeerimisühing teatab inspektsioonile viivitamata olulistest muutustest tegevusloa andmise otsuse aluseks olnud taotleja poolt inspektsioonile esitatud asjaoludes nendest teadasaamisel.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+##### § 56. Tegevusloa andmisest keeldumine
+
+(1) Inspektsioon keeldub tegevusloa andmisest, kui:
+
+1\) tegevusloa taotlemisel esitatud andmed või dokumendid ei vasta käesolevas seaduses, Euroopa Parlamendi ja nõukogu määruses (EL) 2019/2033, nende alusel kehtestatud õigusaktides või Euroopa Parlamendi ja nõukogu direktiivi 2014/65/EL artikli 7 lõike 4 alusel antud komisjoni delegeeritud määruses sätestatud nõuetele või need on ebaõiged, eksitavad või mittetäielikud;
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+2\) taotleja ei esita tähtajaks loa taotlemisel ettenähtud või inspektsiooni nõutud muid andmeid, dokumente või teavet või keeldub neid esitamast;
+
+3\) taotleja ei vasta käesoleva lõike punktis 1 nimetatud õigusaktides sätestatud nõuetele;
+
+4\) taotleja juht, siseauditi üksuse ülesannete täitja või taotlejas olulist osalust omav isik ei vasta käesoleva lõike punktis 1 nimetatud õigusaktides sätestatud nõuetele;
+
+5\) taotleja on olulisel määral või korduvalt rikkunud õigusaktides sätestatud nõudeid või taotleja tegevus või tegevusetus ei vasta heale äritavale;
+
+6\) taotleja ja teise isiku vaheline märkimisväärne seos või taotleja või temaga märkimisväärselt seotud teise isiku suhtes kohaldatavatest teise riigi õigusaktidest tulenevad nõuded või õigusaktide rakendamine takistavad investeerimisühingu üle vajalikul tasemel või piisavalt tõhusa järelevalve teostamist.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) Käesoleva paragrahvi lõike 1 punktis 6 sätestatu hindamisel võtab inspektsioon muu hulgas arvesse Euroopa Parlamendi ja nõukogu direktiivi 2014/65/EL artikli 7 lõike 4 alusel antud komisjoni delegeeritud määruse artiklis 10 sätestatud kriteeriume.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 57. Tegevusloa lõppemine
+
+Tegevusluba lõpeb:
+
+1\) investeerimisühingu vabatahtliku lõpetamise korral inspektsioonilt vastava loa saamisel;
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+2\) tegevusloa kehtetuks tunnistamisel;
+
+3\) investeerimisühingute ühendamisel – ühendataval isikul;
+
+4\) investeerimisühingu pankroti väljakuulutamisel.
+
+##### § 57<sup>1</sup>. Investeerimisühingu lõpetamine
+
+(1) Investeerimisühingu lõpetamiseks (edaspidi käesolevas paragrahvis *lõpetamine*) on vajalik inspektsiooni luba.
+
+(2) Lõpetamisele kohaldatakse äriseadustikus sätestatut, kui käesolevast seadusest ei tulene teisiti.
+
+(3) Lõpetamise loa saamiseks esitab investeerimisühing inspektsioonile avalduse, millele lisatakse järgmised andmed ja dokumendid:
+
+1\) investeerimisühingu üldkoosoleku otsus lõpetamise ja selleks loa taotlemise kohta;
+
+2\) investeerimisühingu hinnang lõpetamise mõju kohta oma klientide või teiste võlausaldajate huvidele.
+
+(4) Lõpetamise loa taotluse menetlemisele, esitatud andmete kontrollimisele ja investeerimisühingu lõpetamise klientide või teiste võlausaldajate huvidele vastavuse kontrollimisele kohaldatakse käesoleva seaduse §-s 55 sätestatut.
+
+(5) Otsuse lõpetamise loa andmise või sellest keeldumise kohta teeb inspektsioon ühe kuu jooksul pärast kõigi vajalike dokumentide ja andmete esitamist, kuid mitte hiljem kui kaks kuud pärast vastava avalduse saamist.
+
+(6) Inspektsioon võib keelduda lõpetamise loa andmisest, kui lõpetamine on vastuolus investeerimisühingu klientide või teiste võlausaldajate huvidega.
+
+(7) Otsuse lõpetamise loa andmise või sellest keeldumise kohta teeb inspektsioon viivitamata investeerimisühingule teatavaks.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+##### § 58. Tegevusloa kehtetuks tunnistamine
+
+(1) Tegevusloa kehtetuks tunnistamine on tegevusloaga antud õiguse täielik või osaline äravõtmine. Tegevusloa võib tunnistada kehtetuks täielikult või üksikute investeerimisteenuste või kõrvalteenuste kaupa, piiritledes õigused, mis tegevusloa omanik tegevusloa kehtetuks tunnistamisega kaotab.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) Inspektsioon võib tegevusloa kehtetuks tunnistada, kui:
+
+1\) investeerimisühing ei ole alustanud tegevust või investeerimisühingu asutajad on oma tegevusega näidanud, et investeerimisühing ei suuda tegevust alustada 12 kuu jooksul tegevusloa andmisest arvates või investeerimisühing ei ole tegelenud investeerimisteenuse osutamisega kuue järjestikuse kuu jooksul;
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+2\) on ilmnenud, et taotleja esitas tegevusloa taotlemisel valeandmeid või tegevusluba on saadud muul ebaausal viisil, samuti muudel juhtudel, kui investeerimisühingu poolt või nimel on inspektsioonile esitatud valeandmeid;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+3\) investeerimisühing on rikkunud korduvalt või olulisel määral tema tegevust reguleerivates õigusaktides sätestatut, investeerimisühingut või tema juhti on karistatud majandusalase, ametialase, varavastase või avaliku usalduse vastase süüteo eest ning karistusandmed ei ole karistusregistri seaduse kohaselt karistusregistrist kustutatud või investeerimisühingu tegevus ei vasta heale äritavale;
+
+4\) investeerimisühing ei vasta kehtivatele tegevusloa andmise tingimustele;
+
+5\) ilmnevad käesoleva seaduse § 56 punktis 4 või 6 sätestatud asjaolud;
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+6\) investeerimisühing ei ole ettenähtud tähtpäevaks või ulatuses täitnud inspektsiooni ettekirjutust;
+
+7\) investeerimisühingu omavahendite suurus ei vasta Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 või käesoleva seaduse või selle alusel antud õigusakti nõuetele;
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+8\) investeerimisühing ei ole võimeline täitma endale võetud kohustusi või muul põhjusel kahjustab tema tegevus oluliselt investorite või teiste klientide huve või väärtpaberituru korrapärast toimimist;
+
+9\) investeerimisühing on toime pannud rahapesu või rikub õigusaktiga kehtestatud rahapesu ning terrorismi rahastamise tõkestamise korda;
+
+10\) investeerimisühing kuulub konsolideerimisgruppi, mille struktuur ei võimalda saada konsolideeritud järelevalveks vajalikku informatsiooni, või investeerimisühinguga samasse konsolideerimisgruppi kuuluv äriühing tegutseb välisriigi õigusaktide alusel, mis takistavad piisava järelevalve teostamist;
+
+11\) investeerimisühing ei ole ettenähtud tähtaja jooksul või täies ulatuses tasunud Tagatisfondi seaduse kohaseid investorikaitse osafondi osamakseid;
+
+12\) investeerimisühing avaldab oma tegevuse või juhi kohta oluliselt ebaõiget või eksitavat teavet või reklaami;
+
+13\) lepinguriigi väärtpaberiturujärelevalve asutuse poolt inspektsioonile esitatud teabe kohaselt on investeerimisühing rikkunud lepinguriigi õigusaktis sätestatud tingimusi;
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+14\) käesoleva seaduse §-s 82 nimetatud sise-eeskirjad ei ole investeerimisühingu tegevuse reguleerimiseks piisavalt täpsed või üheselt mõistetavad;
+
+15\) ilmneb, et investeerimisühing on valinud tegevusloa taotlemise ja registreerimise kohaks Eesti eesmärgiga hoida kõrvale teises lepinguriigis, kus ta peamiselt tegutseb, investeerimisühingu tegevusele kehtestatud rangematest nõuetest.
+
+(3) Tegevusluba või täiendav tegevusluba tunnistatakse kas täielikult või osaliselt kehtetuks investeerimisühingu taotluse alusel, kui investeerimisühing ei soovi enam osutada investeerimisteenuseid ning tema klientide õigustatud huvid on seejuures küllaldaselt kaitstud.
+
+(3<sup>1</sup>) Inspektsioon võib keelduda käesoleva paragrahvi lõikes 3 nimetatud taotluse alusel tegevusloa kehtetuks tunnistamisest, kui on põhjendatud alus arvata, et tegevusloa kehtetuks tunnistamine võib kahjustada investorite või teiste klientide õigustatud huve.
+
+(3<sup>2</sup>) Käesoleva paragrahvi lõikes 3 nimetatud taotluse vaatab inspektsioon läbi ning teeb otsuse tegevusloa täieliku või osalise kehtetuks tunnistamise või sellest keeldumise kohta kahe kuu jooksul taotluse saamisest arvates.
+
+(4) Enne tegevusloa käesoleva paragrahvi lõike 2 alusel kehtetuks tunnistamise otsustamist võib inspektsioon teha investeerimisühingule tähtajalise ettekirjutuse tegevusloa kehtetuks tunnistamise aluseks olevate puuduste kõrvaldamiseks.
+
+\[RT I 2005, 13, 64 - jõust. 01.04.2005\]
+
+##### § 58<sup>1</sup>. Tegevusloa andmise otsuse muutmine
+
+\[Kehtetu - RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+#### 2. jagu — Tegevus välisriigis
+
+##### § 58<sup>2</sup>. Investeerimisühingu tegevus välisriigis
+
+(1) Eestis asutatud ja tegevusluba omav investeerimisühing võib välisriigis osutada investeerimisteenust või kõrvalteenust, asutades selleks filiaali, kasutades investeerimisagenti või osutades teenust piiriüleselt. Kõrvalteenust võib investeerimisühing välisriigis osutada üksnes koos investeerimisteenuse osutamisega.
+
+(2) Investeerimisteenuse osutamisel välisriigis peab investeerimisühing järgima käesolevas seaduses ja selle alusel antud õigusaktides ning muudes, sealhulgas välisriigi õigusaktides sätestatud nõudeid.
+
+(3) Teises lepinguriigis investeerimisühingu poolt investeerimisteenuse osutamisele kohaldatakse käesoleva seaduse §-des 64–65<sup>1</sup> sätestatut. Muid teenuseid võib investeerimisühing osutada lepinguriigis vastavalt lepinguriigi õigusaktides sätestatule.
+
+(4) Kolmandas riigis investeerimisteenuse osutamisele kohaldatakse käesoleva seaduse §-des 59–62, 65 ja 65<sup>1</sup> sätestatut.
+
+(5) Teenuse piiriülene osutamine on investeerimisteenuse ja kõrvalteenuse osutamine riigis, kus investeerimisühing või tema filiaal ei ole registreeritud. Investeerimisteenuse osutamiseks vastavalt käesoleva seaduse §-s 119<sup>2</sup> sätestatule Eestis investeerimisagentide nimekirja kantud investeerimisagendi kasutamisele kohaldatakse käesolevas jaos teenuse piiriülese osutamise kohta sätestatut.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 59. Filiaal kolmandas riigis
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1) Kolmandas riigis filiaali asutamiseks taotleb investeerimisühing inspektsioonilt loa (edaspidi käesolevas jaos *luba*).
+
+(2) Investeerimisühing esitab loa taotluses järgmised andmed:
+
+1\) riik, kus filiaali soovitakse asutada;
+
+2\) filiaali nimetus ja aadress;
+
+3\) filiaali tegevuskava, mis sisaldab vähemalt kavandatavate tegevuste, taotleja organisatsioonilise ülesehituse ja edasiantavate funktsioonide kirjeldust;
+
+4\) teave filiaali juhtimise eest vastutavate isikute (edaspidi *filiaali juhid*) kohta vastavalt käesoleva seaduse § 54 lõike 1 punktis 5 sätestatule.
+
+(3) Investeerimisteenuse osutamisele kolmandas riigis asutatud investeerimisagendi vahendusel kohaldatakse käesolevas seaduses filiaali asutamise ja tegevuse kohta sätestatut.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 60. Loa taotluse menetlemine
+
+(1) Loa taotlemisele ja taotluse läbivaatamisele kohaldatakse käesoleva seaduse §-des 51–53, 55 ja 55<sup>1</sup> tegevusloa ja taotluse kohta sätestatut, kui käesolevast jaost ei tulene teisiti.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(2) Inspektsioon teavitab vastava kolmanda riigi väärtpaberiturujärelevalve asutust esitatud loa taotlusest kahe kuu jooksul, arvates taotluse esitamisest. Kui inspektsiooni ja vastava kolmanda riigi väärtpaberiturujärelevalve asutuse vahel ei ole sõlmitud koostöölepingut, sõlmib inspektsioon nimetatud asutusega kokkuleppe filiaali üle järelevalve teostamise kohta.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) Otsuse loa andmise või sellest keeldumise kohta teeb inspektsioon kahe kuu jooksul pärast kõigi nõutud andmete ja dokumentide esitamist, kuid mitte hiljem kui kuus kuud pärast loa taotluse esitamist. Loa andmisest keeldumise korral peab otsus sisaldama põhjendust.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(4) Loa andmise või sellest keeldumise kohta tehtud otsuse edastab inspektsioon viivitamata taotlejale. Loa andmisest teavitatakse ka vastava kolmanda riigi väärtpaberiturujärelevalve asutust.
+
+\[RT I 2005, 13, 64 - jõust. 01.04.2005\]
+
+(5) Kolmandas riigis filiaali omav investeerimisühing on kohustatud inspektsioonile ja vastava riigi väärtpaberiturujärelevalve asutusele teatama käesoleva seaduse § 59 lõike 2 punktides 2–4 nimetatud andmete muutmise kavatsusest vähemalt üks kuu ette.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 61. Loa andmisest keeldumine
+
+Inspektsioon võib keelduda loa andmisest, kui:
+
+1\) loa taotlemisel esitatud andmed või dokumendid ei vasta käesolevas seaduses või selle alusel kehtestatud õigusaktides sätestatud nõuetele või need on ebaõiged, eksitavad või mittetäielikud;
+
+2\) taotleja ei esitanud tähtaegselt või on keeldunud esitamast inspektsioonile loa taotlemisel esitamisele kuuluvaid või muid inspektsiooni poolt nõutud andmeid, dokumente või teavet;
+
+3\) filiaali juhid ei vasta käesolevas seaduses investeerimisühingu juhtidele kehtestatud nõuetele;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+4\) \[kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+5\) \[kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+6\) filiaali asutamine võib kahjustada investorite huve või investeerimisühingu finantsseisundit või usaldusväärset tegevust Eestis või vastavas kolmandas riigis;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+7\) käesoleva seaduse § 60 lõikes 2 nimetatud lepingut või kokkulepet ei ole sõlmitud või vastava kolmanda riigi õigusaktid ei võimalda tõhusa järelevalve teostamist ning selleks vajaliku teabe saamist.
+
+\[RT I 2005, 13, 64 - jõust. 01.04.2005\]
+
+##### § 62. Loa kehtetuks tunnistamine
+
+(1) Inspektsioon võib tunnistada investeerimisühingule kolmandas riigis filiaali asutamiseks antud loa kehtetuks, kui:
+
+1\) investeerimisühing või selle filiaal ei vasta kehtivatele filiaali asutamise loa saamise tingimustele;
+
+2\) investeerimisühing ei esita filiaali kohta nõuetekohaseid aruandeid;
+
+3\) investeerimisühing on filiaali asutamise loa taotlemisel või muul juhul esitanud filiaali kohta inspektsioonile eksitavaid andmeid või dokumente või valeandmeid või -dokumente;
+
+4\) \[kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+5\) filiaali tegevusest tulenevad riskid on oluliselt suuremad kui investeerimisühingu tegevusest tulenevad riskid;
+
+6\) investeerimisühingu tegevusluba on kehtetuks tunnistatud;
+
+7\) ilmnevad käesoleva seaduse §-s 61 sätestatud asjaolud;
+
+8\) investeerimisühing ei ole ettenähtud tähtpäevaks või ulatuses täitnud inspektsiooni ettekirjutust.
+
+(2) Filiaali asutamise loa kehtetuks tunnistamise otsuse teeb inspektsioon viivitamata teatavaks investeerimisühingule ning kolmanda riigi väärtpaberiturujärelevalve asutusele.
+
+(3) Pärast filiaali asutamise loa kehtetuks tunnistamisest teadasaamist lõpetab investeerimisühing oma teenuste osutamise käesoleva paragrahvi lõikes 2 nimetatud kolmandas riigis registreeritud filiaali kaudu hiljemalt inspektsiooni määratud tähtpäevaks.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+##### § 63. Esinduse avamine välisriigis
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 64. Filiaal teises lepinguriigis ja investeerimisteenuse osutamine teise lepinguriigi investeerimisagendi vahendusel
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1) Investeerimisühing teavitab inspektsiooni kavatsusest asutada oma tegevusloas sätestatud investeerimisteenuse ja kõrvalteenuse osutamiseks teises lepinguriigis filiaal või kasutada selles lepinguriigis investeerimisagenti ning esitab inspektsioonile järgmised andmed ja dokumendid:
+
+1\) lepinguriik, kus investeerimisühing soovib filiaali asutada või investeerimisagenti kasutada;
+
+2\) tegevuskava, mis peab sisaldama andmeid kõigi kavandatavate teenuste kohta;
+
+3\) filiaali asutamise korral andmed filiaali organisatsioonilise ülesehituse kohta ja selle kohta, kas filiaal kavatseb kasutada investeerimisagenti, ning agendi kasutamise korral agendi nimi, elu- või asukoht, isikukood või selle puudumise korral sünniaeg või registrikood;
+
+4\) üksnes investeerimisagendi kasutamise korral investeerimisagendi kirjeldus, sealhulgas teave aruandlusahelate ja selle kohta, kuidas agent sobitub investeerimisühingu äristruktuuri;
+
+5\) filiaali või investeerimisagendi kontaktaadress lepinguriigis, kus on võimalik saada vajalikke dokumente;
+
+6\) andmed filiaali juhtide või investeerimisagendi juhtimise eest vastutavate isikute kohta.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud dokumendid esitatakse eesti keeles koos vandetõlgi tehtud tõlkega selle lepinguriigi ametlikku keelde või ühte ametlikest keeltest, kus investeerimisühing soovib filiaali asutada.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) Inspektsioon teeb otsuse käesoleva paragrahvi lõikes 1 nimetatud andmete ja dokumentide lepinguriigi väärtpaberiturujärelevalve asutusele edastamise kohta või sellest keeldumise kohta käesoleva paragrahvi lõikes 5 sätestatud alustel kahe kuu jooksul kõigi nõutud andmete ja dokumentide saamisest arvates, kuid mitte hiljem kui kolme kuu jooksul vastava taotluse saamisest arvates. Otsuse andmete ja dokumentide edastamise või sellest keeldumise kohta teeb inspektsioon investeerimisühingule viivitamata teatavaks.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(4) Inspektsioon võib jätta käesoleva paragrahvi lõikes 1 nimetatud andmed ja dokumendid läbi vaatamata, kui:
+
+1\) edastamiseks esitatud andmed või dokumendid ei vasta käesolevas seaduses või selle alusel antud õigusaktides sätestatud nõuetele;
+
+2\) inspektsiooni nõutud andmeid või dokumente ei ole ettenähtud tähtaja jooksul esitatud.
+
+(5) Inspektsioon teeb otsuse käesoleva paragrahvi lõikes 1 nimetatud andmete ja dokumentide edastamisest keeldumise kohta, kui:
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+1\) investeerimisühingu finantsseisund, organisatsiooniline ülesehitus või muud võimalused ei ole piisavad tegevuskavas nimetatud teenuste osutamiseks lepinguriigis;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+2\) filiaali asutamine või investeerimisühingu esitatud tegevuskava rakendamine võib kahjustada tema klientide huve, investeerimisühingu finantsseisundit või tegevuse usaldusväärsust;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+3\) edastamiseks esitatud andmed või dokumendid on ebaõiged, eksitavad või puudulikud;
+
+4\) investeerimisühing soovib osutada üksnes kõrvalteenuseid.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(6) Käesoleva paragrahvi lõikes 1 nimetatud andmete ja dokumentide edastamise korral esitab inspektsioon lepinguriigi väärtpaberiturujärelevalve asutusele andmed ka Eestis rakendatava investori kaitse skeemi kohta.
+
+(7) Investeerimisühing võib lepinguriigis filiaali asutada vastavalt teise lepinguriigi õigusaktides sätestatule.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(8) Muudatusest käesoleva paragrahvi lõikes 1 nimetatud andmetes või dokumentides teavitab investeerimisühing inspektsiooni võimaluse korral vähemalt üks kuu enne muudatuse rakendumist või vahetult pärast selle toimumist. Inspektsioon teatab sellest muudatusest ka vastava lepinguriigi väärtpaberiturujärelevalve asutusele.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(9) Iga muudatuse Eestis rakendatavas investori kaitse skeemis, mis toimub investeerimisühingu filiaali kaudu vastavas lepinguriigis tegutsemise ajal, teeb inspektsioon viivitamata pärast muudatuse toimumist lepinguriigi väärtpaberiturujärelevalve asutusele teatavaks.
+
+(10) Inspektsioon võib oma ettekirjutusega keelata investeerimisühingul teises lepinguriigis asutatud filiaali kaudu teenuste osutamise, kui:
+
+1\) esineb käesoleva paragrahvi lõikes 5 sätestatud alus andmete ja dokumentide edastamisest keeldumiseks;
+
+2\) lepinguriigi väärtpaberiturujärelevalve asutus on inspektsiooni teavitanud lepinguriigi õigusakti rikkumisest investeerimisühingu poolt.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(11) Investeerimisühing on kohustatud hiljemalt ettekirjutuses määratud tähtpäevaks lõpetama teenuse osutamise selles lepinguriigis asutatud filiaali kaudu.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(12) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 65. Teenuse piiriülene osutamine teises lepinguriigis ja kolmandas riigis
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1) Investeerimisühing teavitab inspektsiooni kavatsusest osutada teises lepinguriigis või kolmandas riigis piiriüleselt oma tegevusloas nimetatud investeerimisteenust ja kõrvalteenust ning esitab inspektsioonile järgmised andmed ja dokumendid:
+
+1\) riik, kus kavatsetakse investeerimisteenust osutada;
+
+2\) tegevuskava, mis peab sisaldama andmeid kõigi kavandatavate teenuste kohta;
+
+3\) teave selle kohta, kas investeerimisühing kavatseb kasutada vastavalt käesoleva seaduse §-s 119<sup>2</sup> sätestatule Eestis investeerimisagentide nimekirja kantud investeerimisagenti, ning agendi kasutamise korral agendi nimi, elu- või asukoht, isikukood või selle puudumise korral sünniaeg või registrikood.
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud andmed ja dokumendid esitatakse koos vandetõlgi tehtud tõlkega selle lepinguriigi ametlikku keelde või ühte ametlikest keeltest, kus on kavas lõikes 1 nimetatud teenuseid osutada.
+
+(3) Inspektsioon teeb otsuse käesoleva paragrahvi lõikes 1 nimetatud andmete ja dokumentide vastava lepinguriigi või kolmanda riigi väärtpaberiturujärelevalve asutusele edastamise või sellest keeldumise kohta ning avaldab selle viivitamata investeerimisühingule. Kui inspektsioon teeb otsuse nimetatud andmete ja dokumentide edastamise kohta, edastatakse need vastava lepinguriigi väärtpaberiturujärelevalve asutusele ühe kuu jooksul investeerimisühingult teabe saamisest arvates.
+
+(4) Inspektsioon keeldub käesoleva paragrahvi lõikes 1 nimetatud andmete ja dokumentide edastamisest, kui:
+
+1\) esitatud andmed või dokumendid ei vasta käesolevas seaduses sätestatud nõuetele või need on ebaõiged, eksitavad või puudulikud;
+
+2\) investeerimisühing soovib osutada üksnes kõrvalteenuseid.
+
+(5) Investeerimisühing võib alustada teenuste piiriülest osutamist, võttes arvesse selle lepinguriigi või kolmanda riigi õigusaktides sätestatud ja vastava riigi väärtpaberiturujärelevalve asutuse esitatud tingimusi, arvates käesoleva paragrahvi lõikes 3 nimetatud andmete edastamise otsuse investeerimisühingule avaldamisest.
+
+(6) Käesoleva paragrahvi lõikes 1 nimetatud andmete ja dokumentide muutumisest teavitab investeerimisühing inspektsiooni vähemalt üks kuu enne muudatuse jõustumist. Inspektsioon teatab sellest muudatusest vastava riigi väärtpaberiturujärelevalve asutusele.
+
+(7) Inspektsioon võib oma ettekirjutusega keelata investeerimisühingul teenuste piiriülese osutamise lepinguriigis või kolmandas riigis, kui:
+
+1\) esineb käesoleva paragrahvi lõikes 4 sätestatud alus nimetatud andmete ja dokumentide edastamisest keeldumise kohta;
+
+2\) lepinguriigi või kolmanda riigi väärtpaberiturujärelevalve asutus on inspektsiooni teavitanud, et investeerimisühing on rikkunud lepinguriigi või kolmanda riigi õigusakti.
+
+(8) Investeerimisühing on kohustatud lõpetama teenuste piiriülese osutamise selles lepinguriigis hiljemalt ettekirjutuses määratud tähtpäevaks.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 65<sup>1</sup>. Mitmepoolse kauplemissüsteemi ja organiseeritud kauplemissüsteemi korraldamise teenuse piiriülene osutamine teises lepinguriigis ning kolmandas riigis
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1) Mitmepoolse kauplemissüsteemi või organiseeritud kauplemissüsteemi korraldamise teenust piiriüleselt osutada kavatsev investeerimisühing teavitab inspektsiooni, mis riigis ta kavatseb kauplemissüsteemi korraldamise teenust piiriüleselt osutada.
+
+(2) Inspektsioon esitab käesoleva paragrahvi lõikes 1 nimetatud teabe vastava lepinguriigi väärtpaberiturujärelevalve asutusele ühe kuu jooksul nimetatud teabe saamisest arvates ja teavitab sellest viivitamata investeerimisühingut. Lepinguriigi väärtpaberiturujärelevalve asutuse nõudmisel edastab inspektsioon Eestis asutatud mitmepoolses kauplemissüsteemis osalejate ja kaugliikmete andmed.
+
+(3) Investeerimisühing võib alustada mitmepoolse kauplemissüsteemi või organiseeritud kauplemissüsteemi korraldamise teenuse piiriülest osutamist, arvestades selle lepinguriigi õigusaktides sätestatud ja lepinguriigi väärtpaberiturujärelevalve asutuse esitatud tingimusi, kui inspektsioon teavitab investeerimisühingut andmete edastamisest.
+
+(4) Käesolevas paragrahvis sätestatud investeerimisteenuse piiriülesele osutamisele ei kohaldata käesoleva seaduse §-s 65 sätestatut.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### 3. jagu — Välisriigi investeerimisühingu tegevus Eestis
+
+##### § 65<sup>2</sup>. Välisriigi investeerimisühingu tegevuse alused
+
+(1) Isik, kes päritoluriigi õigusaktide kohaselt võib osutada investeerimisteenust või kõrvalteenust, võib päritoluriigis pädeva väärtpaberiturujärelevalve asutuse väljastatud tegevusloa alusel Eestis osutada investeerimisteenust ja kõrvalteenust, asutades selleks filiaali, kasutades investeerimisagenti või osutades Eestis teenuseid piiriüleselt, kui käesolevas seaduses ei ole sätestatud teisiti. Päritoluriigiks käesoleva jao tähenduses loetakse riiki, kus isik on asutatud.
+
+(2) Lepinguriigis asutatud investeerimisühingu poolt Eestis investeerimisteenuse osutamisele investeerimisagendi vahendusel või filiaali asutamisega kohaldatakse käesoleva seaduse §-des 69 ja 70 sätestatut.
+
+(3) Kolmanda riigi investeerimisühingu poolt Eestis investeerimisteenuse osutama asumisele kohaldatakse käesoleva seaduse §-des 66, 67 ja 70<sup>1</sup> ning Euroopa Parlamendi ja nõukogu määruses (EL) nr 600/2014 sätestatud korda.
+
+(4) Kolmanda riigi investeerimisühing võib Eestis investeerimisteenust piiriüleselt osutada üksnes asjatundlikule kliendile või võrdsele vastaspoolele.
+
+(5) Kolmanda riigi investeerimisühingule ei kohaldata käesolevas jaos sätestatut, kui klient pöördub omal initsiatiivil investeerimisteenuse või kõrvalteenuse saamiseks selles kolmandas riigis asutatud investeerimisühingu poole. Käesoleva lõike esimeses lauses sätestatut ei kohaldata juhul, kui investeerimisühing ise otse turustab investeerimisteenuseid või kõrvalteenuseid või muid investeerimisteenuseid või -tooteid, mille vastu ei ole klient huvi väljendanud, sealhulgas ka juhul, kui investeerimisühingu nimel osutab eelnimetatud teenuseid või turustab tooteid kolmas isik või investeerimisühinguga seotud isik, välja arvatud juhul, kui tegemist on grupisiseste tehingutega.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(6) Välisriigi investeerimisühingule, kes soovib Eestis investeerimisteenust ja kõrvalteenust osutada päritoluriigis asuva investeerimisagendi vahendusel, kohaldatakse käesolevas jaos teenuse piiriülese osutamise kohta sätestatut.
+
+(7) Investeerimisteenuse osutamisel Eestis peab välisriigi investeerimisühing järgima käesoleva seadusega ja selle alusel kehtestatud õigusaktidega tema tegevuse kohta kehtestatud nõudeid ning muid Eesti õigusaktidest tulenevaid nõudeid Eestis tegutsemise kohta.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 66. Kolmanda riigi investeerimisühingu filiaal Eestis
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1) Kolmanda riigi investeerimisühing peab Eestis filiaali asutamiseks taotlema inspektsioonilt loa (edaspidi käesolevas jaos *luba*).
+
+(2) Taotluses esitatakse inspektsioonile järgmised andmed ja dokumendid:
+
+1\) investeerimisühingu nimi ja aadress päritoluriigis ning filiaali ärinimi ja aadress Eestis;
+
+2\) investeerimisühingule väljastatud tegevusloa ulatus ja tegevusloa väljastanud asutus;
+
+3\) teave filiaali juhtide kohta vastavalt käesoleva seaduse § 54 lõike 1 punktis 5 sätestatule, mis tõendab juhi vastavust §-s 79 sätestatud nõuetele;
+
+4\) andmed investeerimisühingus olulist osalust omavate isikute kohta vastavalt käesoleva seaduse § 74 lõikes 1 sätestatule;
+
+5\) andmed vastavalt äriseadustiku § 386 lõike 2 punktides 1, 3 ja 5 sätestatule;
+
+\[RT I, 11.10.2024, 1 - jõust. 21.10.2024\]
+
+5<sup>1</sup>) äriühingu põhikirja või ühingulepingu asukohariigi seaduste kohaselt tõestatud ärakiri, kui põhikiri või ühinguleping tuleb registrile esitada ka ühingu asukohariigis;
+
+\[RT I, 11.10.2024, 1 - jõust. 21.10.2024\]
+
+6\) taotleja kahe viimase majandusaasta aruanded;
+
+7\) filiaali tegevuskava, mis sisaldab vähemalt kavandatavate tegevuste, taotleja organisatsioonilise ülesehituse ja edasiantavate funktsioonide kirjeldust, millele lisatakse kirjeldus suhete kohta investeerimisühinguga;
+
+8\) andmed taotleja finantsseisundi, sealhulgas omavahendite suuruse, kapitali adekvaatsuse, maksejõulisuse ning päritoluriigi investorikaitse skeemi kohta.
+
+(3) Lisaks käesoleva paragrahvi lõikes 2 nimetatule esitab kolmanda riigi investeerimisühing inspektsioonile oma päritoluriigi väärtpaberiturujärelevalve asutuse:
+
+1\) nõusoleku filiaali asutamiseks Eestis;
+
+2\) kinnituse, et investeerimisühingul on päritoluriigis kehtiv tegevusluba ning tema tegevus on korrektne ja kooskõlas heade tavadega ning ta järgib rahvusvahelisi rahapesu ja terrorismi rahastamise tõkestamise standardeid.
+
+(4) Käesolevas paragrahvis nimetatud võõrkeelsed andmed ja dokumendid esitatakse koos vandetõlgi tehtud või notariaalselt kinnitatud eestikeelse tõlkega. Inspektsiooni nõusolekul võib nimetatud andmed ja dokumendid esitada muus keeles.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 67. Loa taotluse menetlemine ja loa kehtetuks tunnistamine
+
+(1) Loa taotlemisele, taotluse läbivaatamisele, loa andmisele ning kehtetuks tunnistamisele kohaldatakse käesoleva seaduse §-des 51–53, § 55 lõigetes 1–4<sup>1</sup>, §-des 55<sup>1</sup>, 56 ja 58 tegevusloa ning taotluse kohta sätestatut, kui käesolevast jaost ei tulene teisiti.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(2) Lisaks käesoleva seaduse §-s 56 sätestatud alustele võib inspektsioon keelduda loa andmisest, kui:
+
+1\) taotleja päritoluriigi õigusaktid või väärtpaberiturujärelevalve asutus ei taga piisavat järelevalvet taotleja üle;
+
+2\) käesoleva seaduse § 60 lõikes 2 nimetatud lepingut või kokkulepet ei ole sõlmitud ja inspektsiooni koostöö päritoluriigi väärtpaberiturujärelevalve asutusega ei ole piisav;
+
+3\) selle kolmanda riigi ja Eesti vahel ei ole sõlmitud Majanduskoostöö ja Arengu Organisatsiooni tulu- ja kapitalimaksu mudellepingu artiklis 26 sätestatud standarditele vastavat lepingut, sealhulgas mitmepoolset maksulepingut, mis tagab maksustamisalase teabe tõhusa vahetamise;
+
+4\) taotleja ei kuulu investorikaitse skeemi, mis vastab Euroopa Liidus ettenähtud nõuetele;
+
+5\) filiaali juhtimise eest vastutavad isikud ei vasta käesoleva seaduse §-s 79 juhtidele sätestatud nõuetele.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) Eestis filiaali asutanud kolmanda riigi investeerimisühing on kohustatud inspektsiooni ja vastava riigi väärtpaberiturujärelevalve asutust teavitama käesoleva seaduse § 66 lõike 2 punktides 1, 3 ja 7 nimetatud andmete muutmise kavatsusest vähemalt üks kuu ette.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(4) Inspektsioon võib tunnistada loa kehtetuks, kui ilmnevad käesoleva seaduse §-s 58 või käesoleva paragrahvi lõikes 2 sätestatud asjaolud.
+
+##### § 67<sup>1</sup>. Kolmanda riigi investeerimisühingu filiaali aruandluskohustus
+
+(1) Kolmanda riigi investeerimisühing esitab inspektsioonile Eestis asutatud filiaali kohta ühe kuu jooksul pärast majandusaasta lõppu:
+
+1\) andmed tegevuse ja osutatavate teenuste kohta Eestis;
+
+2\) igakuise minimaalse, keskmise ja maksimaalse riskipositsiooni Euroopa Liidus asuvate isikute suhtes, kui investeerimisühing osutab käesoleva seaduse § 43 lõike 1 punktis 3 nimetatud teenust;
+
+3\) andmed nende väärtpaberite koguväärtuse kohta, mille on emiteerinud Euroopa Liidus asutatud juriidilised isikud või mis pärinevad eelnimetatud isikutelt, juhul kui investeerimisühing on garanteerinud selliste väärtpaberite pakkumise, emiteerimise või müügi viimase 12 kuu jooksul;
+
+4\) andmed Eestis osutatavate teenuste ja tegevuse käibe ning varade koguväärtuse kohta;
+
+5\) filiaali klientidele kättesaadavate investorikaitse meetmete üksikasjaliku kirjelduse, sealhulgas klientide õigused, mis tulenevad rakendatavast investorikaitse skeemist;
+
+6\) riskijuhtimise põhimõtted ja korra, mida filiaal kohaldab Eestis osutatavate teenuste ja tegevuse puhul;
+
+7\) filiaali juhtimiskorralduse, sealhulgas filiaali juhtimise eest vastutavate isikute ja muude võtmeisikute nimed.
+
+(2) Inspektsioon võib lisaks käesoleva paragrahvi lõikes 1 sätestatule nõuda muu vajaliku teabe esitamist, et jälgida filiaali tegevust.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+##### § 68. Välisriigi investeerimisühingu esindus
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 69. Lepinguriigi investeerimisühingu filiaal Eestis ja investeerimisteenuse osutamine investeerimisagendi vahendusel
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1) Lepinguriigi investeerimisühing teavitab oma lepinguriigi väärtpaberiturujärelevalve asutuse kaudu inspektsiooni soovist asutada Eestis filiaal või osutada investeerimisteenust investeerimisagendi vahendusel, kui investeerimisagent ei asu päritoluriigis. Inspektsioonile esitatakse järgmised andmed ja dokumendid:
+
+1\) tegevuskava, mis peab sisaldama andmeid kõigi kavandatavate teenuste kohta;
+
+2\) filiaali asutamise korral filiaali organisatsiooniline ülesehitus ja teave selle kohta, kas filiaal kavatseb kasutada investeerimisagenti, ning agendi kasutamise korral agendi nimi, elu- või asukoht, isikukood või selle puudumise korral sünniaeg või registrikood;
+
+3\) kontaktaadress Eestis, kus on võimalik saada vajalikke dokumente;
+
+4\) andmed filiaali juhtide või investeerimisagendi juhtimise eest vastutavate isikute kohta;
+
+5\) üksnes investeerimisagendi kasutamise korral investeerimisagendi kirjeldus, sealhulgas teave aruandlusahelate ja selle kohta, kuidas agent sobitub investeerimisühingu äristruktuuri;
+
+6\) lepinguriigis rakendatava investorikaitse skeemi kirjeldus.
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud võõrkeelsed andmed ja dokumendid esitatakse koos vandetõlgi tehtud eestikeelse tõlkega. Inspektsiooni nõusolekul võib nimetatud andmed ja dokumendid esitada muus keeles.
+
+\[RT I, 23.12.2013, 1 - jõust. 01.01.2020 ; muudetud (RT I, 30.12.2017, 3)\]
+
+(3) Inspektsioon teavitab käesoleva paragrahvi lõikes 1 nimetatud andmete ja dokumentide saamisest viivitamata lepinguriigi väärtpaberiturujärelevalve asutust.
+
+(4) Lepinguriigi investeerimisühing võib filiaali asutada ja tegevust alustada pärast käesoleva paragrahvi lõikes 3 nimetatud teate saamist või kahe kuu möödumisel päevast, kui inspektsioon sai lõikes 1 nimetatud andmed ja dokumendid.
+
+(5) Käesoleva paragrahvi lõikes 1 nimetatud andmete või dokumentide muutumisest tuleb inspektsiooni teavitada võimaluse korral vähemalt üks kuu ette.
+
+(6) Filiaali äriregistrisse kandmisel esitatakse inspektsiooni kinnitus käesoleva paragrahvi lõikes 1 nimetatud andmete saamise kohta.
+
+(7) Lepinguriigi investeerimisühingu filiaal peab täitma Eestis teenuste osutamisel käesoleva seaduse § 79<sup>1</sup> lõigetes 2 ja 4, § 85 lõikes 1, §-des 85<sup>2</sup>, 85<sup>4</sup>–87<sup>6</sup> ja 89<sup>1</sup> ning Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artiklites 14–26 ja nende alusel kehtestatud õigusaktides sätestatud kohustusi.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 70. Lepinguriigi investeerimisühingu poolt teenuse piiriülene osutamine Eestis
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1) Lepinguriigi investeerimisühing, kes soovib Eestis investeerimisteenust ja kõrvalteenust piiriüleselt osutada, sealhulgas oma päritoluriigis asuva investeerimisagendi vahendusel, teavitab sellest lepinguriigi väärtpaberiturujärelevalve asutuse kaudu inspektsiooni. Inspektsioonile esitatakse järgmised andmed ja dokumendid:
+
+1\) tegevuskava, mis peab sisaldama andmeid kõigi kavandatavate teenuste kohta;
+
+2\) teave selle kohta, kas investeerimisühing kavatseb kasutada investeerimisagenti, ning agendi kasutamise korral agendi nimi, elu- või asukoht, isikukood või selle puudumise korral sünniaeg või registrikood.
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud võõrkeelsed andmed ja dokumendid tuleb esitada koos vandetõlgi tehtud eestikeelse tõlkega. Inspektsiooni nõusolekul võib nimetatud andmed ja dokumendid esitada muus keeles.
+
+\[RT I, 23.12.2013, 1 - jõust. 01.01.2020 ; muudetud (RT I, 30.12.2017, 3 ja RT I, 04.12.2019, 1)\]
+
+(3) Lepinguriigi investeerimisühing võib alustada investeerimisteenuse piiriülest osutamist Eestis pärast seda, kui inspektsioon on saanud käesoleva paragrahvi lõikes 1 nimetatud andmed vastava lepinguriigi väärtpaberiturujärelevalve asutuselt.
+
+(4) Mitmepoolse kauplemissüsteemi või organiseeritud kauplemissüsteemi korraldamise teenust võib Eestis hakata piiriüleselt osutama pärast seda, kui inspektsioon on saanud asjakohase teate selle lepinguriigi väärtpaberiturujärelevalve asutuselt ja olemasolu korral teabe meetmete kohta, millega soodustatakse juurdepääsu eelnimetatud kauplemissüsteemi liikmeks saamisel või selles osalemiseks.
+
+(5) Inspektsioon võib taotleda lepinguriigi väärtpaberiturujärelevalve asutuselt Eestis investeerimisteenuseid piiriüleselt osutava vastava lepinguriigi investeerimisühingu mitmepoolse kauplemissüsteemi või organiseeritud kauplemissüsteemi liikmete ja selles osalejate andmeid.
+
+(6) Inspektsioonil on õigus avalikustada Eestis investeerimisteenust piiriüleselt osutava lepinguriigi investeerimisühingu investeerimisagendi andmed, sealhulgas agendi nimi, asukoht, isikukood või selle puudumise korral sünniaeg või registrikood.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 70<sup>1</sup>. Kolmanda riigi investeerimisühingu poolt teenuse piiriülene osutamine Eestis
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1) Kolmanda riigi investeerimisühingule, mille päritoluriigi kohta on Euroopa Komisjon vastu võtnud samaväärsust kinnitava otsuse vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artiklile 47, kohaldatakse Eestis investeerimisteenuse piiriülesele osutamisele nimetatud määruse artiklis 46 sätestatut ning andmete ja dokumentide esitamisele käesoleva seaduse §-s 70 sätestatut.
+
+(2) Käesoleva paragrahvi lõikes 1 nimetamata juhul kohaldatakse kolmanda riigi investeerimisühingule lõigetes 3–9 sätestatut.
+
+(3) Kolmanda riigi investeerimisühing on kohustatud Eestis investeerimisteenuse piiriüleseks osutamiseks taotlema inspektsioonilt loa (edaspidi käesolevas paragrahvis *teenuste piiriülese osutamise luba*). Teenuste piiriülese osutamise loa taotlemisel esitatakse inspektsioonile järgmised andmed ja dokumendid:
+
+1\) investeerimisühingu nimi ja aadress päritoluriigis;
+
+2\) investeerimisühingule väljastatud tegevusloa ulatus ja tegevusloa väljastanud asutus;
+
+3\) andmed investeerimisühingu juhtide kohta vastavalt käesoleva seaduse § 54 lõike 1 punktis 5 sätestatule, mis tõestavad juhtide vastavust §-s 79 juhtidele sätestatud nõuetele;
+
+4\) andmed investeerimisühingus olulist osalust omavate isikute kohta vastavalt käesoleva seaduse § 74 lõikes 1 sätestatule;
+
+5\) andmed vastavalt äriseadustiku § 386 lõike 2 punktides 1, 3 ja 5 sätestatule;
+
+\[RT I, 11.10.2024, 1 - jõust. 21.10.2024\]
+
+5<sup>1</sup>) äriühingu põhikirja või ühingulepingu asukohariigi seaduste kohaselt tõestatud ärakiri, kui põhikiri või ühinguleping tuleb registrile esitada ka ühingu asukohariigis;
+
+\[RT I, 11.10.2024, 1 - jõust. 21.10.2024\]
+
+6\) taotleja kahe viimase majandusaasta auditeeritud aruanded;
+
+7\) taotleja tegevuskava, mis peab sisaldama andmeid kõigi teenuste kohta;
+
+8\) andmed taotleja finantsseisundi, sealhulgas omavahendite suuruse, kapitali adekvaatsuse, maksejõulisuse ja päritoluriigi investorikaitse skeemi kohta.
+
+(4) Lisaks käesoleva paragrahvi lõikes 3 nimetatud andmetele tuleb kolmanda riigi investeerimisühingul esitada inspektsioonile päritoluriigi väärtpaberiturujärelevalve asutuse:
+
+1\) nõusolek isiku poolt teenuste piiriüleseks osutamiseks Eestis;
+
+2\) kinnitus, et investeerimisühingul on päritoluriigis kehtiv tegevusluba, tema tegevus on korrektne ja kooskõlas heade tavadega ning ta järgib rahvusvahelisi rahapesu ja terrorismi rahastamise tõkestamise standardeid.
+
+(5) Käesolevas paragrahvis nimetatud võõrkeelsed andmed ja dokumendid esitatakse koos vandetõlgi tehtud eestikeelse tõlkega. Inspektsiooni nõusolekul võib nimetatud andmed ja dokumendid esitada muus keeles.
+
+\[RT I, 04.12.2019, 1 - jõust. 01.01.2020\]
+
+(6) Loa taotlemisele, taotluse läbivaatamisele, loa andmisele ja kehtetuks tunnistamisele kohaldatakse käesoleva seaduse §-des 51–53, § 55 lõigetes 1–4<sup>1</sup> ning §-des 55<sup>1</sup>, 56 ja 58 investeerimisühingu tegevusloa ning taotluse kohta sätestatut, kui käesolevast paragrahvist ei tulene teisiti.
+
+(7) Lisaks käesoleva seaduse §-s 56 sätestatud alustel keeldumisele võib inspektsioon keelduda teenuste piiriülese osutamise loa andmisest, kui:
+
+1\) taotleja päritoluriigi õigusaktid või väärtpaberiturujärelevalve asutus ei taga piisavat järelevalvet taotleja üle;
+
+2\) käesoleva seaduse § 60 lõikes 2 nimetatud lepingut või kokkulepet ei ole sõlmitud ja inspektsiooni koostöö päritoluriigi väärtpaberiturujärelevalve asutusega ei ole piisav;
+
+3\) selle kolmanda riigi ja Eesti vahel ei ole sõlmitud Majanduskoostöö ja Arengu Organisatsiooni tulu- ja kapitalimaksu mudellepingu artiklis 26 sätestatud standarditele vastavat lepingut, sealhulgas mitmepoolset maksulepingut, mis tagab maksustamisalase teabe tõhusa vahetamise;
+
+4\) taotleja ei kuulu investorikaitse skeemi, mis vastab Euroopa Liidus ettenähtud nõuetele.
+
+(8) Inspektsioon võib tunnistada teenuste piiriülese osutamise loa kehtetuks, kui ilmnevad käesoleva seaduse §-s 58 või käesoleva paragrahvi lõikes 7 nimetatud asjaolud.
+
+(9) Investeerimisühing on kohustatud inspektsiooni ja vastava riigi väärtpaberiturujärelevalve asutust teavitama käesoleva paragrahvi lõike 3 punktides 1, 3 ja 7 nimetatud andmete muutmise kavatsusest vähemalt üks kuu ette.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+### 9. peatükk — INVESTEERIMISÜHINGU KONTROLLILE, JUHTIMISELE JA ORGANISATSIOONILISELE ÜLESEHITUSELE ESITATAVAD NÕUDED
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### 1. jagu — Oluline osalus ja juhtimine
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 71.
+
+\[Kehtetu - RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+##### § 72. Olulist osalust omandavatele ja omavatele isikutele esitatavad nõuded
+
+Investeerimisühingus võib olulise osaluse omandada, seda omada ja suurendada ning investeerimisühingu üle kontrolli saavutada, seda omada ja suurendada igaüks:
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+1\) kes on laitmatu ärialase mainega ning kelle tegevus seoses omandamisega vastab investeerimisühingu kindla ja usaldusväärse juhtimise põhimõtetele;
+
+2\) kes pärast osaluse omandamist või suurendamist valib, nimetab või määrab investeerimisühingu juhiks üksnes sellise isiku, kes vastab käesoleva seaduse §-s 79 sätestatud nõuetele;
+
+3\) kelle finantsseisund on piisavalt tugev, et tagada investeerimisühingu korrapärane ja usaldusväärne tegevus, ning juriidilise isiku puhul võimaldavad tema raamatupidamise aruanded nende olemasolu korral adekvaatselt hinnata tema finantsseisundit;
+
+4\) kes on võimeline tagama, et investeerimisühing on suuteline järgima käesolevas seaduses sätestatud usaldatavusnõudeid, juriidilise isiku puhul eelkõige nõuet, et konsolideerimisgrupil, mille osaks investeerimisühing saab, on olemas struktuur, mis võimaldab teostada tõhusat järelevalvet, vahetada teavet ja teha koostööd finantsjärelevalve asutuste vahel;
+
+5\) kelle suhtes ei ole põhjendatud kahtlust, et osaluse omandamine, omamine või suurendamine või kontroll investeerimisühingu üle on seotud rahapesu või terrorismi rahastamisega või selle katsega või suurendab selliseid riske.
+
+\[RT I 2009, 37, 250 - jõust. 10.07.2009\]
+
+##### § 72<sup>1</sup>. Osaluse määramise tingimused ja erisused
+
+(1) Olulise osaluse määramisel tuleb lisaks käesoleva seaduse §-des 9 ja 10 sätestatule arvesse võtta ka käesoleva seaduse § 185<sup>4</sup> lõikes 1 ning § 187<sup>1</sup> lõike 1 punktides 1 ja 2 ning sama paragrahvi lõikes 2 sätestatu.
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+(2) Olulise osaluse määramisel ei arvestata aktsiakapitali väljendavaid neid hääleõigusi, mille investeerimisühing või krediidiasutus võib omandada või mida omada seoses käesoleva seaduse § 43 lõike 1 punktis 6 nimetatud teenuse osutamisega tingimustel, et neid õigusi ei kasutata ükskõik millisel viisil selle äriühingu juhtimisse sekkumiseks ning et need õigused võõrandatakse ühe aasta jooksul alates omandamisest.
+
+(3) Olulise osaluse arvutamisel ei summeerita eurofondi fondivalitseja ja lepinguriigi eurofondi fondivalitseja emaettevõtja puhul käesoleva seaduse § 185 lõikes 1 nimetatud osalusi nende osalustega, mida fondivalitseja ise valitseb, eeldusel, et ta teostab oma hääleõigust emaettevõtjast sõltumatult.
+
+(4) Olulise osaluse arvutamisel ei summeerita Eesti ja lepinguriigi investeerimisühingu emaettevõtja puhul käesoleva seaduse § 185 lõikes 1 nimetatud osalusi nende osalustega, mida see investeerimisühing valitseb iga kliendi suhtes eraldi, arvestades käesoleva seaduse § 187<sup>1</sup> lõikes 7 nimetatud tingimusi.
+
+\[RT I 2009, 37, 250 - jõust. 10.07.2009\]
+
+##### § 73. Osaluse omandamisest teavitamine
+
+(1) Isik, kes soovib investeerimisühingus otseselt või kaudselt olulise osaluse omandada või osalust suurendada nii, et see ületab 20, 30 või 50 protsenti investeerimisühingu aktsiakapitalist või aktsiatega esindatud häälte arvust, või teha tehingu, mille tulemusel investeerimisühing muutuks tema kontrollitavaks äriühinguks (edaspidi *omandaja*), teavitab eelnevalt oma kavatsusest inspektsiooni ning esitab käesoleva seaduse § 74 lõikes 1 ja lõike 1<sup>1</sup> alusel kehtestatud määruses nimetatud andmed ja dokumendid.
+
+(2) Käesolevas peatükis sätestatut kohaldatakse ka juhul, kui isik omandab mõne muu sündmuse tõttu või tehingu tulemusel investeerimisühingus olulise osaluse või tema osalus suureneb üle 20, 30 või 50 protsendi investeerimisühingu aktsiakapitalist või aktsiatega esindatud häälte arvust või kui investeerimisühing muutub selle sündmuse tõttu või tehingu tulemusel tema kontrollitavaks äriühinguks. Sellisel juhul on isik kohustatud pärast investeerimisühingu üle kontrolli saamisest või olulise osaluse omandamisest või osaluse suurenemisest teadasaamist viivitamata teavitama inspektsiooni.
+
+(3) Inspektsioon teavitab omandajat kirjalikult kahe tööpäeva jooksul käesoleva paragrahvi lõikes 1 või 2 nimetatud teate või käesoleva seaduse § 74 lõikes 3 nimetatud lisaandmete ja -dokumentide kättesaamisest ning §-s 74<sup>1</sup> sätestatud menetlustähtaja võimalikust lõppkuupäevast.
+
+\[RT I 2009, 37, 250 - jõust. 10.07.2009\]
+
+##### § 74. Osaluse omandamisest teavitamisel esitatavad andmed
+
+(1) Inspektsioonile teatatakse selle äriühingu nimi, milles oluline osalus omandatakse või seda suurendatakse või mis muudetakse omandaja poolt kontrollitavaks, samuti selles äriühingus omandatava osaluse suurus ning esitatakse järgmised andmed ja dokumendid:
+
+1\) omandatava äriühingu kirjeldus, mis sisaldab väljavõtet aktsiaraamatust, andmeid omandaja poolt omandatavate ja talle kuuluvate aktsiate tüübi ja häälte arvu kohta ning vajaduse korral muud informatsiooni;
+
+2\) füüsilisest isikust omandaja elulookirjeldus, mis sisaldab muu hulgas omandaja nime, elukohta, senist haridus-, töö- ja teenistuskäiku ning isikukoodi või selle puudumise korral sünniaega;
+
+3\) juriidilisest isikust omandaja või varakogumit valitseva juriidilise isiku nimetus, asukoht, registrikood, registritunnistuse kinnitatud ärakiri ja põhikirja olemasolu korral selle ärakiri;
+
+4\) juriidilisest isikust omandaja omanike või liikmete nimekiri ning andmed igale omanikule või liikmele kuuluvate aktsiate hulga või kuuluva osa suuruse ja häälte arvu kohta;
+
+5\) andmed juriidilisest isikust omandaja juhatuse ja nõukogu liikmete kohta, mis sisaldavad neist igaühe ees- ja perekonnanime, isikukoodi või selle puudumise korral sünniaega, senist haridus-, töö- ja teenistuskäiku, ning nende isikute usaldusväärsust, kogemusi, kompetentsust ja laitmatut ärialast mainet kinnitavad dokumendid;
+
+6\) kinnitus, et osaluse omandamise tulemusel investeerimisühingu juhiks saavat isikut ei ole karistatud majandusalase, ametialase, varavastase või avaliku usalduse vastase süüteo eest ja karistusandmed on karistusregistri seaduse kohaselt karistusregistrist kustutatud. Välisriigi kodaniku puhul on aktsepteeritav tema päritoluriigi karistusregistri tõend või pädeva kohtu- või haldusorgani väljastatud samaväärne dokument tingimusel, et selle väljastamisest ei ole möödunud rohkem kui kolm kuud;
+
+7\) kirjeldus omandaja tegevuse kohta ettevõtluses ning omandajaga seotud isikute majanduslike ja mittemajanduslike huvide kirjeldus;
+
+8\) kinnitus, et käesoleva lõike punktis 6 nimetatud isiku puhul ei ole esinenud ega esine asjaolusid, mis seaduse kohaselt välistavad tema õiguse olla investeerimisühingu juht;
+
+9\) olemasolu korral omandaja kolme viimase majandusaasta aruanded. Kui viimase majandusaasta lõppemisest on möödunud rohkem kui üheksa kuud, esitatakse auditeeritud vahearuanne majandusaasta esimese poolaasta kohta. Aruannetele tuleb lisada vandeaudiitori aruanne, kui selle koostamine on õigusaktiga ette nähtud;
+
+\[RT I 2010, 9, 41 - jõust. 08.03.2010\]
+
+10\) võimaluse korral füüsilisest isikust omandaja ning temaga seotud äriühingute finantsseisundi hindamiseks vajalikud reitingud ning avalikkusele mõeldud aruanded, juriidilisest isikust omandaja puhul tema ning konsolideerimisgrupi suhtes väljastatud krediidireitingud;
+
+11\) konsolideerimisgruppi kuuluva omandaja puhul konsolideerimisgrupi struktuuri kirjeldus koos andmetega sinna kuuluvate äriühingute osaluse suuruse kohta ja konsolideerimisgrupi kolme viimase majandusaasta aruanded ning vandeaudiitori aruanded;
+
+\[RT I 2010, 9, 41 - jõust. 08.03.2010\]
+
+12\) füüsilisest isikust omandaja varanduslikku seisu tõendavad dokumendid kolme viimase aasta kohta;
+
+13\) andmed ja dokumendid nende rahaliste ja mitterahaliste vahendite päritolu kohta, mille eest kavatsetakse oluline osalus omandada või seda suurendada või kontroll saavutada;
+
+14\) osaluse omandamisega seotud asjaolud vastavalt käesoleva seaduse §-dele 10 ja 72<sup>1</sup>;
+
+15\) pärast osaluse omandamist omatava olulise osaluse suurus ja selle omamisega seotud asjaolud vastavalt käesoleva seaduse §-dele 10 ja 72<sup>1</sup>;
+
+16\) investeerimisühingut kontrollivaks äriühinguks muutumise korral äriplaan ning muud kontrolli saamise ja teostamisega seotud asjaolud vastavalt käesoleva seaduse §-le 10;
+
+\[RT I, 31.12.2016, 3 - jõust. 10.01.2017\]
+
+17\) ülevaade investeerimisühingus rakendatavast strateegiast, kui ta omandamise tulemusel ei muutu kontrollitavaks äriühinguks.
+
+\[RT I 2009, 37, 250 - jõust. 10.07.2009\]
+
+(1<sup>1</sup>) Valdkonna eest vastutav minister võib kehtestada määruse, milles täpsustatakse Inspektsioonile esitatavaid käesoleva paragrahvi lõikes 1 nimetatud andmeid ja dokumente.
+
+\[RT I 2009, 37, 250 - jõust. 10.07.2009\]
+
+(1<sup>2</sup>) Inspektsioonile esitatavad andmed ja dokumendid peavad olema eesti keeles. Inspektsiooni nõusolekul võib nimetatud andmed ja dokumendid esitada ka mõnes muus keeles.
+
+\[RT I 2009, 37, 250 - jõust. 10.07.2009\]
+
+(2) Kui olulist osalust soovib omandada kolmanda riigi fondivalitseja, investeerimisühing, krediidiasutus, kindlustusandja, investeerimisfond või muu finantsjärelevalve alla kuuluv isik, tuleb lisaks käesoleva paragrahvi lõikes 1 nimetatud andmetele ja dokumentidele esitada inspektsioonile kolmanda riigi vastava finantsjärelevalve asutuse tõend selle kohta, et nimetatud kolmanda riigi isikul on tegevusluba ja vastava finantsjärelevalve asutuse teadmisel täidab ta tema suhtes kehtivaid nõudeid.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(3) Inspektsioon võib kirjalikult nõuda käesoleva paragrahvi lõikes 1 nimetatud dokumentide täpsustamiseks ja kontrollimiseks lisaandmeid ja -dokumente. Sealjuures täpsustatakse, millist lisateavet tuleb Inspektsioonile esitada.
+
+\[RT I 2009, 37, 250 - jõust. 10.07.2009\]
+
+(4) Inspektsioon võib loobuda käesoleva paragrahvi lõikes 1 nimetatud andmete või dokumentide nõudmisest osaliselt või täies mahus.
+
+\[RT I 2005, 13, 64 - jõust. 01.04.2005\]
+
+##### § 74<sup>1</sup>. Menetlus ja menetlustähtajad
+
+(1) Inspektsioon hindab omandaja vastavust käesoleva seaduse §-s 72 esitatud nõuetele ning otsustab osaluse omandamise keelamise või lubamise 60 tööpäeva jooksul (edaspidi *menetlustähtaeg*) Inspektsiooni poolt hindamiseks vajalike andmete ja dokumentide saamist kinnitava § 73 lõikes 3 sätestatud teate esitamisest arvates.
+
+(2) Inspektsioonil on õigus käesoleva seaduse § 74 lõikes 3 sätestatud lisaandmeid ja -dokumente nõuda 50 tööpäeva jooksul menetlustähtaja algusest arvates.
+
+(3) Inspektsiooni poolt käesoleva paragrahvi lõikes 2 nimetatud lisaandmete ja -dokumentide esmakordse nõudmise ja omandajalt nõutud lisaandmete ja -dokumentide saamise vaheliseks perioodiks menetlustähtaeg peatub. Peatumine ei kesta kauem kui 20 tööpäeva.
+
+(4) Täiendava lisaandmete ja -dokumentide nõudmise korral menetlustähtaeg ei peatu.
+
+(5) Kui omandaja üle ei teostata finantsjärelevalvet või omandaja üle teostab järelevalvet kolmanda riigi finantsjärelevalve asutus, võib Inspektsioon käesoleva paragrahvi lõikes 3 nimetatud menetlustähtaja peatamist pikendada kuni 30 tööpäevani.
+
+(6) Inspektsioon teeb käesolevas paragrahvis sätestatud menetlusaja jooksul koostööd teise lepinguriigi pädeva järelevalve asutusega, kui omandajaks on lepinguriigis registreeritud fondivalitseja, krediidiasutus, investeerimisühing, investeerimisfond, kindlustusandja, muu finantsjärelevalve alla kuuluv isik või nimetatud isikutega ühte konsolideerimisgruppi kuuluv isik või nimetatud isikuid kontrolliv isik.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(7) Käesoleva paragrahvi lõikes 6 nimetatud koostöö raames konsulteerib inspektsioon teiste lepinguriikide järelevalve asutustega. Inspektsioon edastab viivitamata teistele finantsjärelevalveasutustele kõik andmed, mis on olulised olulise osaluse omandamise ja suurendamise ning investeerimisühingu kontrollitavaks äriühinguks muutmise hindamisel. Teiste finantsjärelevalve asutuste nõudmisel edastab inspektsioon viivitamata ka andmed, mis on nimetatud hindamisel asjakohased.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(8) Kui olulist osalust soovib üheaegselt omandada rohkem kui üks isik, peab Inspektsioon neid kohtlema võrdsete asjaolude korral võrdselt.
+
+\[RT I 2009, 37, 250 - jõust. 10.07.2009\]
+
+##### § 75. Osaluse omandamise tingimused
+
+(1) Inspektsioonil on õigus määrata omandajale tähtaeg, mille jooksul tal on õigus olulist osalust omandada, seda suurendada või muuta investeerimisühing kontrollitavaks äriühinguks. Inspektsioon võib ettenähtud tähtaega pikendada, kui see on asjakohane. Omandaja on kohustatud nimetatud tähtaja jooksul teavitama olulise osaluse omandamise, suurendamise või investeerimisühingu kontrollitavaks äriühinguks muutumise tehingu teostamisest või teostamata jätmise otsusest viivitamata inspektsiooni.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(2) Olulise osaluse võib omandada, seda suurendada või investeerimisühingu kontrollitavaks äriühinguks muuta, kui Inspektsioon ei keela oma ettekirjutusega olulise osaluse omandamist, selle suurendamist või investeerimisühingu kontrollitavaks äriühinguks muutmist, lähtudes käesoleva seaduse §-s 74<sup>1</sup> ja § 76 lõikes 1 sätestatust.
+
+\[RT I 2009, 37, 250 - jõust. 10.07.2009\]
+
+##### § 76. Osaluse omandamise keelamise alused ja otsus omandamise kohta
+
+\[RT I 2009, 37, 250 - jõust. 10.07.2009\]
+
+(1) Inspektsioon võib oma ettekirjutusega keelata olulise osaluse omandamise ja suurendamise ning investeerimisühingu kontrollitavaks äriühinguks muutmise, kui:
+
+1\) omandaja ei vasta käesoleva seaduse §-s 72 sätestatud nõuetele;
+
+2\) omandaja ei ole ettenähtud tähtpäevaks Inspektsioonile esitanud käesolevas seaduses sätestatud või seaduse alusel nõutud andmeid või dokumente;
+
+3\) Inspektsioonile esitatud andmed või dokumendid ei vasta õigusaktidega sätestatud nõuetele või need on ebaõiged, eksitavad või puudulikud või esitatud andmete ja dokumentide alusel ei saa kõrvaldada Inspektsiooni mõistlikku kahtlust omandamise ebasobivuses ning selles, et omandamine ei vasta käesolevas seaduses sätestatud nõuetele;
+
+4\) investeerimisühing muutuks kolmandas riigis elava või asuva isiku kontrollitavaks äriühinguks ning selle isiku üle ei teostata tema elu- või asukohariigis piisavat järelevalvet või selle kolmanda riigi finantsjärelevalve asutusel ei ole õiguslikku alust või võimalust teha Inspektsiooniga koostööd.
+
+\[RT I 2009, 37, 250 - jõust. 10.07.2009\]
+
+(2) Inspektsioon esitab omandajale otsuse olulise osaluse omandamise lubamise kohta või keelava ettekirjutuse kahe tööpäeva jooksul pärast vastava otsuse vastuvõtmist, kuid enne menetlustähtaja lõppu. Kui omandaja üle teostab finantsjärelevalvet teise lepinguriigi finantsjärelevalve asutus, tuleb otsuses muu hulgas märkida tema hinnang olulise osaluse omandamise või suurendamise või investeerimisühingu kontrollitavaks äriühinguks muutmise kohta.
+
+\[RT I 2009, 37, 250 - jõust. 10.07.2009\]
+
+(3) Kui käesoleva paragrahvi lõikes 1 nimetatud asjaolud ilmnevad pärast olulise osaluse omandamist või suurendamist või investeerimisühingu kontrollitavaks äriühinguks muutmist, võib Inspektsioon teha ettekirjutuse, mille kohaselt arvatakse osaluse omandamine või investeerimisühingu kontrollitavaks äriühinguks muutmine käesoleva seadusega vastuolus olevaks.
+
+\[RT I 2009, 37, 250 - jõust. 10.07.2009\]
+
+(4) Inspektsioonil on õigus oma ettekirjutusega igakordselt keelata või piirata omandajal või isikul, kes investeerimisühingus olulist osalust omab või kelle kontrollitavaks äriühinguks investeerimisühing on, investeerimisühingus hääleõiguse või muude kontrolli võimaldavate õiguste teostamist, kui esinevad käesoleva paragrahvi lõikes 1 või 3 sätestatud asjaolud. Ettekirjutuse võib inspektsioon teha olenemata käesoleva paragrahvi lõikes 1 või 3 sätestatud ettekirjutuse tegemisest. Inspektsioon võib ettekirjutuse avalikustada oma veebilehel, sealhulgas võib omandaja ise nõuda ettekirjutuse avalikustamist.
+
+\[RT I 2009, 37, 250 - jõust. 10.07.2009\]
+
+(5) Juhul kui omandaja või isik, kes omab investeerimisühingus olulist osalust või kelle kontrollitavaks äriühinguks investeerimisühing on, on teises lepinguriigis registreeritud krediidiasutus, fondivalitseja, investeerimisfond, investeerimisühing, kindlustusandja, muu finantsjärelevalve alla kuuluv isik või nimetatud isikutega ühte konsolideerimisgruppi kuuluv isik, teatab inspektsioon käesoleva paragrahvi lõikes 3 või 4 nimetatud ettekirjutuse tegemisest selle lepinguriigi pädevale finantsjärelevalve asutusele.
+
+(6) Käesoleva paragrahvi lõigetes 1, 3 ja 4 sätestatud inspektsiooni ettekirjutuse järgimine on kohustuslik ka investeerimisühingule, tema aktsiaraamatu pidajale või muule seda laadi isikule, kes korraldab hääleõiguste teostamist.
+
+\[RT I 2005, 13, 64 - jõust. 01.04.2005\]
+
+##### § 77. Osaluse ebaseadusliku omandamise tagajärjed
+
+(1) Olulise osaluse omandamise või suurendamise tehingu tagajärjel ei omanda isik aktsiatega kaasnevat hääleõigust ning aktsiatega esindatud hääli ei arvata üldkoosoleku kvoorumisse, kui:
+
+1\) tehing on vastuolus inspektsiooni ettekirjutusega;
+
+2\) inspektsioon on teinud käesoleva seaduse § 76 lõikes 3 või 4 nimetatud ettekirjutuse;
+
+3\) tehingust ei ole inspektsiooni käesoleva seaduse §-des 73 ja 74 sätestatud korras teavitatud;
+
+4\) tehing on tehtud pärast käesoleva seaduse § 75 lõikes 1 nimetatud tähtaja möödumist või enne, kui olulise osaluse omandamine oli käesoleva seaduse alusel lubatud;
+
+\[RT I 2009, 37, 250 - jõust. 10.07.2009\]
+
+(2) Tehingu tulemusel, mille puhul esineb mõni käesoleva paragrahvi lõikes 1 nimetatud asjaolu, ei teki isikul õigusi, mis muudaksid investeerimisühingu tema kontrollitavaks äriühinguks.
+
+\[RT I 2005, 13, 64 - jõust. 01.04.2005\]
+
+(3) Kui niisuguse tehingu tulemusel, mille puhul esines mõni käesoleva paragrahvi lõikes 1 nimetatud asjaolu, omandatud või suurendatud olulist osalust esindavad hääled arvati üldkoosoleku kvoorumisse ja need mõjutasid üldkoosoleku otsuse vastuvõtmist, on üldkoosoleku otsus tühine. Kohus võib Inspektsiooni, aktsionäri või äriühingu nõukogu või juhatuse liikme avalduse alusel tuvastada üldkoosoleku otsuse tühisuse, kui avaldus on esitatud kolme kuu jooksul üldkoosoleku otsuse vastuvõtmisest arvates.
+
+\[RT I 2009, 37, 250 - jõust. 10.07.2009\]
+
+(4) Kui teostati tehingust, millega investeerimisühing pidi muutuma isiku kontrollitavaks äriühinguks ja mille puhul esineb mõni käesoleva paragrahvi lõikes 1 nimetatud asjaolu, tulenevaid kontrolli võimaldavaid õigusi, võib kohus inspektsiooni, aktsionäri või äriühingu nõukogu või juhatuse liikme avalduse alusel tunnistada selliste õiguste teostamise tühiseks, kui avaldus on esitatud kolme kuu jooksul, arvates õiguste teostamise hetkest.
+
+\[RT I 2009, 37, 250 - jõust. 10.07.2009\]
+
+##### § 78. Osaluse muutumisest teavitamine
+
+(1) Kui isik kavatseb võõrandada aktsiaid ulatuses, millega ta kaotab olulise osaluse investeerimisühingus või vähendab oma osalust alla mõne käesoleva seaduse § 73 lõikes 1 nimetatud määra, või loobub kontrollist investeerimisühingu üle, peab ta kavatsusest inspektsiooni viivitamata teavitama, näidates teates ära tema omatavate, võõrandatavate ja pärast tehingut talle jäävate aktsiate arvu.
+
+\[RT I 2009, 37, 250 - jõust. 10.07.2009\]
+
+(2) Käesoleva paragrahvi lõikes 1 sätestatut kohaldatakse ka juhul, kui isik kaotab mõne muu sündmuse tõttu või tehingu tulemusel kontrolli investeerimisühingu üle või investeerimisühingus olulise osaluse või tema osalus väheneb alla mõne käesoleva seaduse § 73 lõikes 1 nimetatud määra. Sellisel juhul on isik kohustatud inspektsiooni viivitamata teavitama pärast olulise osaluse või kontrolli kaotamisest või osaluse vähenemisest teadasaamist.
+
+(3) Investeerimisühing on käesoleva seaduse §-s 73 ja käesoleva paragrahvi lõigetes 1 ja 2 nimetatud tehingutest teadasaamise korral kohustatud sellest viivitamata teavitama inspektsiooni.
+
+(4) Investeerimisühing esitab koos majandusaasta aruandega inspektsioonile andmed aktsionäride kohta, kellel majandusaasta lõpu seisuga oli investeerimisühingus oluline osalus, näidates seejuures ära aktsionärile kuuluva osaluse suuruse.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+##### § 78<sup>1</sup>. Investeerimisühingu asukoht ja peakontor
+
+\[RT I, 20.04.2017, 1 - jõust. 15.01.2018\]
+
+(1) Eestis äriregistrisse kantud ja Finantsinspektsioonilt tegevusloa saanud investeerimisühingu registrijärgne asukoht ja peakontor peavad olema Eestis.
+
+(2) Investeerimisühingu ühinguleping või põhikiri peab kindlaks määrama, et investeerimisühingu registrijärgne asukoht ja peakontor on Eestis.
+
+\[RT I, 20.04.2017, 1 - jõust. 15.01.2018\]
+
+##### § 79. Investeerimisühingu, investeerimisvaldusettevõtja ja segafinantsvaldusettevõtja juhtide ning võtmeisikute valimisele, pädevusele ja tegevusele esitatavad nõuded
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+(1) Investeerimisühing peab tagama, et tema juhatuse või nõukogu liikmel (edaspidi käesolevas peatükis *juht*) ning võtmeisikul on investeerimisühingu juhtimiseks ja ülesannete täitmiseks vajalikud teadmised, oskused ja kogemused, vajalik haridus, kutsesobivus ja laitmatu ärialane maine ning ta sobitub oma teadmiste, kogemuste ja oskuste poolest juhtide koosseisu.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+(1<sup>1</sup>) Võtmeisik on isik, kellel on märkimisväärne mõju investeerimisühingu juhtimisele, aga kes ei ole juhtorgani liige. Võtmeisik on eelkõige finantsjuht ning vastavuskontrolli, riskikontrolli või siseauditi üksuse juht. Lisaks käesolevas seaduses töötaja kohta sätestatule kohaldatakse võtmeisikule käesoleva paragrahvi lõikeid 1 ja 2.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud ärialane maine ei ole laitmatu muu hulgas, kui:
+
+1\) isiku tegevus või tegevusetus on kaasa toonud investeerimisühingu või muu finantsjärelevalve alla kuuluva isiku pankroti või tegevusloa kehtetuks tunnistamise finantsjärelevalve asutuse algatusel;
+
+2\) isikut on karistatud esimese astme kuriteo eest ja tema vastavad karistusandmed ei ole karistusregistri seaduse kohaselt karistusregistrist kustutatud;
+
+3\) kohus on isiku suhtes kohaldanud tegutsemiskeeldu või ettevõtluskeeldu vastavalt karistusseadustiku §-le 49 või 49<sup>1</sup>, samuti kui isiku suhtes on kohaldatud seaduses või kohtulahendis ettenähtud ärikeeldu või teataval erialal või ametikohal töötamise keeldu või teda on karistatud sellise keelu rikkumise eest ja tema vastavad karistusandmed ei ole karistusregistri seaduse kohaselt karistusregistrist kustutatud;
+
+4\) isik ei ole suuteline korraldama investeerimisühingu tegevust selliselt, et klientide huvid oleksid piisavalt kaitstud;
+
+5\) isik on esitanud inspektsioonile valeteavet või jätnud olulise teabe esitamata;
+
+6\) isikut on karistatud majandusalase, ametialase, varavastase või avaliku usalduse vastase süüteo eest või terrorikuriteo või selle toimepanemisele suunatud tegevuse rahastamise või toetamise eest ning tema vastavad karistusandmed ei ole karistusregistri seaduse kohaselt karistusregistrist kustutatud või tema suhtes on kohaldatud rahvusvahelist sanktsiooni.
+
+(3) Juhtide valimise või määramise tulemusena peab juhtide koosseis olema investeerimisühingu juhtimiseks vähemalt käesoleva paragrahvi esimeses lõikes nimetatud tingimusi arvestades piisavalt mitmekesine ja vastama investeerimisühingu kehtestatud juhtide koosseisu mitmekesisuse põhimõttele. Kõikidel juhtidel peavad olema piisavad teadmised, oskused ja kogemused, et mõista investeerimisühingu tegevust, sealhulgas peamisi riske, millele investeerimisühing on avatud, ning oma tehtavate otsuste mõju lühikeses, keskpikas ja pikas perspektiivis, muu hulgas võttes arvesse keskkonna-, sotsiaalseid ja juhtimistegureid.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+(4) Investeerimisühingu juhatuses on vähemalt kaks liiget.
+
+(4<sup>1</sup>) Investeerimisühingu juhid ja võtmeisikud peavad tegutsema ausalt ja usaldusväärselt ning olema oma otsuste tegemisel vabad.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+(5) Investeerimisühingu juhid määravad kindlaks investeerimisühingu efektiivse ja usaldusväärse juhtimise meetmed ning vastutavad nende rakendamise ja regulaarse ülevaatamise eest, arvestades väärtpaberituru korrapärase toimimisega ning lähtudes klientide huvidest. Meetmete rakendamisel määratakse investeerimisühingus kindlaks selged vastutusalad ja huvide konflikti ennetamine.
+
+(6) Käesoleva paragrahvi lõikes 5 nimetatud meetmete kindlaksmääramisel peavad investeerimisühingu juhid muu hulgas:
+
+1\) määrama organisatsiooni ülesehituse investeerimisteenuste osutamiseks, sealhulgas töötajate teadmistele ja oskustele esitatavad nõuded, samuti ressursid ja protseduurid teenuste osutamiseks, võttes arvesse investeerimisühingu tegevuse laadi, ulatust ja keerukuse astet;
+
+2\) kinnitama teenuste osutamise ja toodete pakkumise üldise poliitika, arvestades klientide vajadusi ja huve ning lähtudes investeerimisühingu riskitaluvusest, samuti asjakohaste stressitestide läbiviimise korralduse;
+
+3\) kinnitama investeerimisteenuste osutamisega seotud isikute tasustamise poliitika, et tagada vastutustundlik ärijuhtimine ja klientide võrdne kohtlemine, sealhulgas huvide konflikti vältimine suhetes klientidega.
+
+(7) Investeerimisühingu juhid vaatavad regulaarselt üle investeerimisühingu strateegiliste eesmärkide ning juhtimiskorralduse asjakohasuse seoses investeerimisteenuste ja kõrvalteenuste osutamisega ning klientidele teenuste osutamise poliitika ja võtavad vajalikud meetmed tuvastatud puuduste kõrvaldamiseks.
+
+(7<sup>1</sup>) Lisaks käesoleva paragrahvi lõigetes 5–7 sätestatule kuuluvad investeerimisühingu nõukogu pädevusse ja kohustuste hulka muu hulgas:
+
+1\) investeerimisühingu sisekontrolli üksuse juhi ametisse nimetamine ja ametist vabastamine ning siseauditi üksuse juhi ettepanekul asjakohaste üksuste töötajate ametisse nimetamine ja ametist vabastamine;
+
+2\) riskikomitee, nomineerimiskomitee ning töötasukomitee pädevuse, õiguste ja tegevuspõhimõtete kinnitamine;
+
+3\) käesoleva seaduse § 79<sup>2</sup> lõikes 1 sätestatud investeerimisühingu juhatuse liikmete ja töötajate tasustamise põhimõtete kinnitamine ning nende rakendamise järelevalve, välja arvatud juhul, kui investeerimisühingus on moodustatud töötasukomitee;
+
+4\) kohaldatavuse korral finantskriisi ennetamise ja lahendamise seaduse alusel koostatud finantsseisundi taastamise kava kinnitamine;
+
+5\) muude põhikirjaga nõukogu pädevusse antud küsimuste otsustamine.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+(7<sup>2</sup>) Lisaks käesoleva paragrahvi lõigetes 5–7 sätestatule on investeerimisühingu juhatus muu hulgas kohustatud:
+
+1\) kehtestama ja regulaarselt üle vaatama investeerimisühingu riskide võtmise, juhtimise, jälgimise ning maandamise põhimõtted ja protseduurid, mis hõlmavad nii olemasolevaid kui ka potentsiaalseid riske, sealhulgas makromajanduskeskkonnast tulenevaid majandustsükli faasiga seotud riske;
+
+2\) pidevalt kindlaks tegema ja hindama kõiki investeerimisühingu tegevusega kaasnevaid riske ning tagama nende suuruse jälgimise ja kontrollimise;
+
+3\) kujundama investeerimisühingu organisatsiooni struktuuri põhikirjas sätestatud põhimõtete alusel ja kinnitama selle struktuuri;
+
+4\) töötama välja investeerimisühingu tegevuse kontrollimise süsteemid, muu hulgas sisekontrolli süsteemi, ja neid rakendama, samuti tagama nende järgimise, pidevalt hindama selliste süsteemide piisavust ning vajaduse korral neid täiustama;
+
+5\) tagama, et kõik investeerimisühingu töötajad oleksid teadlikud oma töökohustustega seotud õigusaktide sätetest ja investeerimisühingu juhtimisorganite kinnitatud dokumentides sätestatud põhimõtetest ning tagama kontrolli selle üle, et investeerimisühingu ning selle juhtide ja töötajate tegevus oleks kooskõlas õigusaktidega ja investeerimisühingu juhtimisorganite kinnitatud dokumentidega;
+
+6\) teavitama nõukogu kõigist avastatud õigusaktide ja investeerimisühingu juhtimisorganite kehtestatud sise-eeskirjade ja muude reeglite rikkumistest tema kehtestatud ulatuses ja korras;
+
+7\) tagama selliste süsteemide olemasolu ja töötamise, mis tagavad investeerimisühingu töötajatele nende tööülesannete täitmiseks vajaliku teabe õigeaegse edastamise;
+
+8\) tagama investeerimisühingu kasutatavate infotehnoloogiliste ja klientide vara hoidmiseks kasutatavate süsteemide turvalisuse ning nende regulaarse kontrollimise;
+
+9\) jälgima, et investeerimisühingu kõigi tegevuste puhul oleks tagatud piisav funktsioonide lahusus, ja vältima huvide konflikti tekkimist;
+
+10\) korraldama, et investeerimisühing avalikustaks õigusaktide kohaselt nõutava teabe;
+
+11\) kohaldatavuse korral heaks kiitma ja esitama inspektsioonile finantskriisi ennetamise ja lahendamise seaduse alusel koostatud finantsseisundi taastamise kava ning asjakohase teabe regulaarselt teadmiseks võtma.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+(8) Investeerimisühingu juhil peab olema piisav juurdepääs andmetele ja dokumentidele, mis on vajalikud investeerimisühinguga seotud juhtimisotsuste ülevaatamiseks ja jälgimiseks.
+
+(9) Investeerimisühingu juhid peavad omama ja pühendama piisavalt aega oma ülesannete täitmiseks investeerimisühingu juhtimisel, muu hulgas tuleb pühendada piisavalt aega ja vahendeid, et tagada käesoleva paragrahvi lõike 7<sup>2</sup> punktis 1 nimetatud ülesannete nõuetekohane täitmine. Investeerimisühing peab eraldama piisavalt ressurssi ametisse nimetatud juhtide juhendamiseks ja nende kutsealaste teadmiste täiendamiseks vastavalt ametikohale esitatavatele nõuetele, sealhulgas võttes arvesse keskkonna-, sotsiaalseid ja juhtimisriske ja mõjusid ning Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 4 lõike 1 punktis 52c määratletud IKT-riske.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+(9<sup>1</sup>) Investeerimisühing kontrollib, et tema juhid ja võtmeisikud vastaksid igal ajal käesoleva seadusega juhtidele ja võtmeisikutele kehtestatud nõuetele, ning tagab selle ja vastutab selle eest, tehes ühingusisese sobivushindamise ning dokumenteerides vajaliku protsessi.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+(9<sup>2</sup>) Investeerimisühing hindab juhtide ja võtmeisikute nõuetele vastavust enne nende valimist ning juhul, kui ilmnevad juhi või võtmeisiku sobivust mõjutada võivad uued faktid või muud asjaolud. Samuti teeb investeerimisühing regulaarselt sobivushindamist.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+(9<sup>3</sup>) Juhul kui enamik juhtorgani liikmetest tuleb asendada uute juhtorgani liikmetega samal ajal ja juhtorganist lahkuvad liikmed peaksid tegema uute liikmete sobivushindamise, teeb investeerimisühing asutusesisese sobivushindamise pärast seda, kui uute ametisse valitud või määratud juhtide volitused on hakanud kehtima.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+(9<sup>4</sup>) Investeerimisühing on kohustatud hoidma juhi ja võtmeisiku sobivuse kohta käiva teabe ajakohasena.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+(9<sup>5</sup>) Kui investeerimisühing saab teadlikuks asjaoludest, mille tõttu tema juht või võtmeisik ei vasta kehtestatud nõuetele, siis:
+
+1\) ei tohi seda isikut ametisse nimetada;
+
+2\) nimetatud juht või võtmeisik kutsutakse tagasi viivitamata või
+
+3\) asjakohasel juhul kohaldatakse meetmeid, et juht või võtmeisik sobiks ametisse või saab ametisse sobivaks.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+(9<sup>6</sup>) Investeerimisühing kohaldab meetmeid, et tagada võtmeisiku ülesannete nõuetekohane täitmine, sealhulgas asendab võtmeisikut, kui ta ei vasta enam sobivusnõuetele.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+(10) Käesolevat paragrahvi kohaldatakse ka Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 artikli 4 lõike 1 punktis 57 nimetatud investeerimisvaldusettevõtja ning Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 4 lõike 1 punktis 21 nimetatud segafinantsvaldusettevõtja juhatuse ja nõukogu liikmele ulatuses, mis on nende eriomast rolli arvesse võttes asjakohane.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+##### § 79<sup>1</sup>. Nõuded investeerimisühingu juhtidele ja töötajatele
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(1) Investeerimisühingu juhid ja töötajad on kohustatud tegutsema nendelt oodatava ettenägelikkuse ning asjatundlikkusega vastavalt nende ametikohale esitatavatele nõuetele, lähtudes investeerimisühingu ning selle klientide huvidest. Investeerimisühingu juhid ja töötajad on kohustatud seadma investeerimisühingu ning selle klientide majanduslikud huvid oma isiklikest majanduslikest huvidest kõrgemale.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+(2) Investeerimisühing tagab, et investeerimisühingu nimel väärtpaberi, investeerimisteenuse või kõrvalteenuse kohta kliendile teabe andmise või investeerimisnõustamisega tegeleval töötajal on vajalikud teadmised ja pädevus, et täita käesoleva seaduse §-des 86–87<sup>2</sup> sätestatud kohustusi.
+
+(3) Investeerimisühingu juhtidele ja töötajatele ning seoses laenude andmisega investeerimisühinguga seotud isikutele kohaldatakse krediidiasutuste seaduse § 49 lõigetes 1<sup>1</sup>–2 ja §-s 84 sätestatut. Kui inspektsioon on andnud investeerimisühingu juhile krediidiasutuste seaduse § 49 lõike 1<sup>3</sup> punktis 3 nimetatud loa, teavitab inspektsioon sellest Euroopa Väärtpaberiturujärelevalve Asutust.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+(4) \[Kehtetu - RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(5) Inspektsioon avaldab juhendiga käesoleva paragrahvi lõikes 2 nimetatud investeerimisühingu töötaja teadmiste ja pädevuse hindamise kriteeriumid.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 79<sup>2</sup>. Investeerimisühingu juhtide ja töötajate tasustamine
+
+(1) Investeerimisühing tagab, et tema töötajate tasustamise ning tööga kaasnevate hüvede, sealhulgas lahkumis- ja pensionihüvitiste ning muude soodustuste määramise alused ja põhimõtted (edaspidi *tasustamise põhimõtted*) ei lähe vastuollu investeerimisühingu kohustusega lähtuda oma tegevuses kliendi parimatest huvidest, sealhulgas ei või investeerimisühing mõjutada oma töötajaid soovitama tavakliendile teatud väärtpaberit võrreldes muu, kliendi vajadustele paremini vastava väärtpaberiga.
+
+(2) Töötajaks käesoleva paragrahvi, käesoleva seaduse § 79<sup>3</sup> lõigete 1–9 ja § 79<sup>4</sup> tähenduses loetakse järgmisi isikuid:
+
+1\) juhatuse või nõukogu liige;
+
+2\) töötaja, kelle tööülesanded hõlmavad ettevõtja nimel riskide võtmist (edaspidi *riskivõtja*);
+
+3\) sisekontrollifunktsiooni täitmisse kaasatud töötaja;
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+4\) töötaja, kelle töötasu võrdub vähemalt juhatuse liikme või riskivõtja väikseima töötasuga;
+
+5\) töötaja, kelle ametialane tegevus mõjutab oluliselt investeerimisühingu riskiprofiili või tema valitsetava vara riskiprofiili.
+
+(3) Investeerimisühingu töötaja tasustamise põhimõtted peavad:
+
+1\) olema selged ja dokumenteeritud ning vastama investeerimisühingu suurusele, sisemisele korraldusele ning tegevuse laadile, ulatusele ja keerukusele;
+
+2\) olema kooskõlas soolise võrdõiguslikkuse seaduses nimetatud põhimõtetega;
+
+3\) olema kooskõlas usaldusväärse ja tulemusliku riskide juhtimise põhimõtetega;
+
+4\) lähtuma investeerimisühingu äristrateegiast ja eesmärkidest ning võtma arvesse investeerimisotsuste pikaajalist mõju;
+
+5\) hõlmama huvide konflikti vältimise meetmeid, soodustama vastutustundlikke äritavasid ning edendama teadlikkust riskidest ja ettevaatlikku riskide võtmist.
+
+(4) Tasustamise põhimõtted peavad olema kehtestatud ja kohaldatavad viisil, mis on sobiv, arvestades investeerimisühingu suurust ja sisemist korraldust ning tegevuse laadi, ulatust ja keerukust.
+
+(5) \[Kehtetu - RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+(6) Investeerimisühing teeb kontrollifunktsiooni raames vähemalt üks kord aastas tasustamise põhimõtete rakendamise keskse ja sõltumatu sisekontrolli.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(7) Riskijuhtimise ja vastavuskontrolli funktsiooni täitvate kõrgema taseme töötajate töötasu peab olema investeerimisühingu nõukogu või, kui see on moodustatud, siis töötasukomitee otsese järelevalve all.
+
+(8) Sisekontrollifunktsiooni täitvad töötajad peavad olema sõltumatud nende kontrollitavatest äriüksustest, neil peavad olema asjakohased volitused ja neid peab tasustama vastavalt täidetava funktsiooniga seotud eesmärkide saavutamisele, olenemata nende kontrollitavate ärivaldkondade tulemustest.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026, osaliselt muudetud \[RT I, 11.07.2026, 7\]\]
+
+(9) Tasustamise põhimõtetes eristatakse selgelt järgmisi tasusid:
+
+1\) põhitöötasu, mis kajastab töötaja asjakohaseid erialaseid kogemusi ja organisatsioonisisest vastutust vastavalt töötaja töölepingu juurde kuuluvale töökirjeldusele;
+
+2\) tulemustasu, mis kajastab töötaja pidevaid ja riskiga korrigeeritud tulemusi ning tööd, mis on tehtud lisaks töökirjeldusele vastavale tööle.
+
+(10) Põhitöötasu peab moodustama kogu töötasust piisavalt suure osa ja võimaldama rakendada paindlikku tasustamispoliitikat, sealhulgas võimalust tulemustasu mitte maksta.
+
+(11) Käesoleva paragrahvi lõike 9 kohaldamiseks peab investeerimisühing määrama oma tasustamispoliitikas kindlaks asjakohased põhitöötasu ja tulemustasu komponentide suhtarvud. Suhtarvude määramisel tuleb muu hulgas arvesse võtta investeerimisühingu tegevust ja sellega seonduvaid riske ning iga vastava kategooria töötajate mõju investeerimisühingu riskiprofiilile.
+
+(12) Inspektsioon avaldab juhendiga investeerimisühingu usaldusväärse tasustamispoliitika kohaldamise täpsemad nõuded.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+##### § 79<sup>3</sup>. Tulemustasu maksmise põhimõtted
+
+(1) Tulemustasu määramisel ja väljamaksmisel arvestatakse järgmist:
+
+1\) tulemustasu on seotud töö tulemusega ning põhineb töötaja ja asjaomase äriüksuse ning investeerimisühingu üldiste tulemuste hindamisel, mida arvutatakse mitmeaastasest ajavahemikust lähtudes ning milles võetakse arvesse investeerimisühingu äritsüklit ja äririske;
+
+2\) töötaja töötulemuste hindamisel tuleb arvesse võtta investeerimisühingu finants- ja muid kriteeriume;
+
+3\) tulemustasu ei tohi mõjutada investeerimisühingu suutlikkust tagada tugev kapitalibaas;
+
+4\) tulemustasu ei saa olla garanteeritud, välja arvatud uutele töötajatele nende esimesel tööaastal juhul, kui investeerimisühing on kõrgelt kapitaliseeritud;
+
+5\) töölepingu ennetähtaegse lõpetamisega seotud maksed kajastavad töötaja poolt aja jooksul saavutatud tulemusi ja tööülesannete täitmata jätmise või mittekohase täitmise korral vähendatakse tulemustasu vastavalt;
+
+6\) hüvitisega või eelmisest töölepingust väljaostmisega seotud töötasupaketid peavad kokku sobima investeerimisühingu pikaajaliste huvidega;
+
+7\) selliste töötulemuste mõõtmisel, mida kasutatakse tulemustasu reservi arvutamise alusena, võetakse arvesse igat liiki olemasolevaid ja tulevasi riske, kapitalikulusid ning vastavalt Euroopa Parlamendi ja nõukogu määrusele (EL) 2019/2033 vajalikku likviidsust;
+
+8\) tulemustasu maksmisel võetakse arvesse kõiki olemasolevaid ja tulevasi riske;
+
+9\) vabatahtlikud pensionihüvitised peavad olema kooskõlas investeerimisühingu äristrateegia, eesmärkide, väärtuste ja pikaajaliste huvidega.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(2) Vähemalt 50 protsenti tulemustasust koosneb järgmistest instrumentidest:
+
+1\) aktsiad;
+
+2\) aktsiatega seotud instrumendid või samaväärsed mitterahalised instrumendid;
+
+3\) täiendavatesse esimese taseme omavahenditesse kuuluvad instrumendid, teise taseme omavahenditesse kuuluvad instrumendid või muud instrumendid, mida on võimalik täielikult konverteerida esimese taseme põhiomavahenditesse kuuluvateks instrumentideks või alla hinnata ja mis kajastavad adekvaatselt investeerimisühingu krediidikvaliteeti pikemas perspektiivis;
+
+4\) mitterahalised instrumendid, mis vastavad valitsetavate portfellide instrumentide struktuurile.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(3) Kui investeerimisühing ei emiteeri ühtegi käesoleva paragrahvi lõikes 2 nimetatud instrumenti, võib inspektsioon erandina lubada kasutada samu eesmärke täitvat alternatiivset korda.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(4) Käesoleva paragrahvi lõike 2 kohaldamisel tuleb selles nimetatud instrumentide suhtes kohaldada asjakohaseid võõrandamispiiranguid, mis on kooskõlas investeerimisühingu ning tema võlausaldajate ja klientide pikemaajaliste huvidega. Inspektsioon võib käesoleva paragrahvi lõikes 2 nimetatud instrumentide liikidele ja struktuuridele seada piiranguid või keelata teatud instrumentide kasutamise tulemustasu maksmiseks.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(5) Arvestades investeerimisühingu äritsüklit, tegevuse laadi, riske ja asjaomase töötaja tegevust, lükkab investeerimisühing asjakohasel juhul tulemustasu maksmise vähemalt 40 protsendi ulatuses edasi kolme kuni viie aasta võrra. Kui tulemustasu on eriti suur, lükatakse tulemustasu maksmine edasi vähemalt 60 protsendi ulatuses. Maksmata tulemustasu osa ei maksta töötajale enne proportsionaalselt makstavat põhitöötasu.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(6) Vastavalt investeerimisühingu kehtestatud kriteeriumidele vähendatakse tulemustasu või nõutakse väljamakstud tulemustasu tagasi kuni 100 protsendi ulatuses, kui investeerimisühingu finantstulemused on tagasihoidlikud või negatiivsed, muu hulgas olukorras, kus:
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+1\) isik osales investeerimisühingule olulist kahju tekitanud tegevuses või oli selle eest vastutav;
+
+2\) isik ei tule tööülesannete täitmisega toime ebapiisava tööoskuse, töökohale sobimatuse või kohanematuse tõttu või on tööandja hoiatusest hoolimata eiranud tööandja mõistlikke korraldusi või rikkunud töökohustusi.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(7) Investeerimisühingu töötajal ei ole lubatud sõlmida vastutuskindlustuse lepinguid ega võtta kasutusele muid sarnaseid meetmeid, millega vähendatakse käesoleva seaduse §-s 79<sup>2</sup> nimetatud tasustamise põhimõtetega eesmärgiks seatud tulemuste saavutamist.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(8) Kui töötaja lahkub investeerimisühingust enne pensioniikka jõudmist, hoiab investeerimisühing käesoleva paragrahvi lõike 1 punkti 9 kohaldamisel vabatahtlikke pensionihüvitisi viie aasta jooksul lõikes 2 nimetatud instrumentide kujul. Kui töötaja jõuab pensioniikka ja läheb pensionile, makstakse talle vabatahtlik pension välja käesoleva paragrahvi lõikes 2 nimetatud instrumentide kujul, kohaldades viie aasta pikkust võõrandamispiirangut.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(9) Käesoleva paragrahvi lõikeid 2, 5 ja 8 ei kohaldata, kui:
+
+1\) investeerimisühingu bilansilise ja bilansivälise vara väärtus oli asjaomasele majandusaastale vahetult eelnenud nelja-aastasel ajavahemikul keskmiselt 100 miljonit eurot või sellest väiksem;
+
+2\) töötaja aastane tulemustasu ei ole suurem kui 50 000 eurot ega moodusta üle ühe neljandiku tema aastasest töötasust.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(10) Kui investeerimisühing saab finantskriisi ennetamise ja lahendamise seaduse § 8 lõikes 1 nimetatud erakorralist avalikku finantstoetust, siis investeerimisühing:
+
+1\) ei maksa nõukogu ega juhatuse liikmetele tulemustasu;
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+2\) kehtestab investeerimisühingu töötajatele tulemustasu maksmiseks piirangu, mis vastab teatavale osale töötaja netosissetulekust, kui tulemustasu maksmine läheks vastuollu investeerimisühingu tugeva kapitalibaasi säilimisega ja erakorralise avaliku finantstoetuse õigeaegse lõppemisega.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(11) Tulemustasu maksmiseks kasutatavad finantsvahendid ja meetodid peavad tagama lisaks käesoleva seaduse nõuete täitmisele ka Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 nõuete täitmise.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+##### § 79<sup>4</sup>. Töötasukomitee
+
+(1) Investeerimisühing, mille bilansilise ja bilansivälise vara väärtus oli asjaomasele majandusaastale vahetult eelnenud nelja-aastasel ajavahemikul keskmiselt suurem kui 100 miljonit eurot, peab moodustama nõukogu liikmetest koosneva töötasukomitee. Töötasukomitee koosseis peab olema soolises tasakaalus.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(2) Investeerimisühing ei pea moodustama töötasukomiteed, kui töötasukomitee on moodustatud konsolideeritud tasandil ja selle tegevus hõlmab kogu konsolideerimisgruppi.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(3) Töötasukomitee:
+
+1\) teostab järelevalvet juhatuse liikmete ja töötajate, sealhulgas sisekontrollifunktsioonide täitmist juhtivate isikute tasustamise üle;
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+2\) hindab asjatundlikult ja sõltumatult tasustamise põhimõtete rakendamist ja tasustamisega seotud otsuste mõju riskijuhtimise, omavahendite ja likviidsuse kohta sätestatud nõuete täitmisele ning teeb vajaduse korral ettepaneku tasustamise põhimõtete ajakohastamiseks;
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+3\) valmistab investeerimisühingu nõukogule ette tasustamisotsuste projektid.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(4) Töötasukomitee lähtub oma tegevuses investeerimisühingu aktsionäride, klientide, investorite ja investeerimisühingu teiste sidusrühmade pikaajalistest huvidest ning avalikust huvist.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+##### § 79<sup>5</sup>. Nomineerimiskomitee ja selle ülesanded
+
+(1) Kui see on proportsionaalne investeerimisühingu tegevuse laadi, ulatuse ja keerukuse astmega, tuleb investeerimisühingus moodustada nomineerimiskomitee, mis koosneb investeerimisühingu nõukogu liikmetest.
+
+(2) Nomineerimiskomitee ülesanded on:
+
+1\) esitada nõukogule investeerimisühingu juhatuse liikme kandidaadid ning nende ametiülesannete kirjeldus ja ametiaja pikkus, muu hulgas tagades tasakaalu kandidaatide teadmiste, oskuste ja kogemuste vahel ning investeerimisühingus kehtestatud juhtorganite koosseisu mitmekesisuse põhimõtete arvessevõtmise;
+
+2\) määrata sihttase, kui palju peaks juhatuses olema vähem esindatud soost isikuid, ja töötada välja poliitika selle kohta, kuidas suurendada selliste isikute arvu, et jõuda seatud sihttasemeni, ning avalikustada teave käesolevas punktis nimetatud sihttaseme, poliitika ja selle rakendamise kohta vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 435 lõike 2 punktile c;
+
+3\) hinnata vähemalt üks kord aastas juhatuse koosseisu, struktuuri ja tegevust ning vajaduse korral teha muudatusettepanekuid;
+
+4\) hinnata vähemalt üks kord aastas juhatuse liikmete ja juhatuse kui terviku kutsealaste teadmiste, oskuste ja kogemuste sobivust ning teavitada nõukogu tulemustest;
+
+5\) välja töötada investeerimisühingus kehtivad juhtorgani koosseisu mitmekesisuse põhimõtted ja juhatuse valimise kord ning hinnata neid regulaarselt ja vajaduse korral teha muudatusettepanekuid.
+
+(3) Nomineerimiskomitee peab oma ülesannete täitmiseks pidevalt jälgima ja võimaluste piires tagama, et juhatuse otsustusprotsess ei oleks liigselt mõjutatud ühe isiku ega väikese grupi isikute huvidest, mis ei ole kooskõlas kogu investeerimisühingu huvidega.
+
+(4) Nomineerimiskomiteel on oma ülesannete täitmisel õigus kasutada välist hindajat.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+##### § 80. Juhtidest ja audiitorist teavitamine
+
+\[Kehtetu - RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+##### § 80<sup>1</sup>. Juhist teavitamine
+
+(1) Investeerimisühing teavitab inspektsiooni juhi valimise, määramise või ametiaja pikendamise kavatsusest vähemalt kümme päeva enne selle küsimuse otsustamist ning esitab käesoleva paragrahvi lõikes 4 loetletud andmed ja dokumendid. Tähtaega ei kohaldata, kui dokumentide eelnev esitamine ei ole mõjuval põhjusel võimalik.
+
+(2) Euroopa Parlamendi ja nõukogu direktiivi (EL) 2024/1619, millega muudetakse direktiivi 2013/36/EL seoses järelevalvevolituste, sanktsioonide, kolmandate riikide filiaalide ning keskkonna-, sotsiaalsete ja juhtimisriskidega (ELT L, 2024/1619, 19.06.2024), artikli 91 lõike 1d punktides a–f sätestatud isik (edaspidi käesolevas peatükis *oluline investeerimisühing*) teavitab inspektsiooni investeerimisühingu juhi valimise või määramise kavatsusest, esitades käesoleva paragrahvi lõikes 4 loetletud andmed ja dokumendid hiljemalt 30 päeva enne juhi ametisse asumise kuupäeva.
+
+(3) Juhi sobivust mõjutada võivate uute faktide või muude asjaolude ilmnemise korral teavitab investeerimisühing sellest inspektsiooni viivitamata.
+
+(4) Juhi valimiseks või määramiseks esitatakse inspektsioonile järgmised andmed ja dokumendid:
+
+1\) isiku kirjalik nõusolek ametikohale valimiseks või määramiseks ja täidetud sobivusküsimustik;
+
+2\) isiku elulookirjeldus ja üldandmed, juhatuse liikme puhul tema vastutusvaldkonna kirjeldus, ülevaade isiku hariduse, teadmiste, oskuste ja kogemuste ning ettevõtluses osalemise kohta;
+
+3\) andmed isiku ametiaja ja -koha kohta;
+
+4\) investeerimisühingu tehtud sobivushindamise dokumendid, välja arvatud käesoleva paragrahvi lõikes 3 sätestatud juhul;
+
+5\) andmed äriühingute kohta, milles isiku osalus on suurem kui 20 protsenti;
+
+6\) andmed võimalike huvide konfliktide ja isiku enda ametiülesannete täitmisele pühendatava aja kohta;
+
+7\) isiku kinnitus, et tal puuduvad käesolevas seaduses sätestatud asjaolud, mis välistavad õiguse olla investeerimisühingu juht;
+
+8\) välisriigi kodaniku puhul tema päritolu- või elukohariigi karistusregistri väljavõte või pädeva kohtu- või haldusorgani väljastatud samaväärne dokument, mis ei või olla vanem kui kolm kuud;
+
+9\) juhi ametisse nimetamise kuupäev ja tegelik ametisse asumise kuupäev.
+
+(5) Käesoleva paragrahvi lõikes 4 loetletud andmed esitatakse inspektsiooni kinnitatud vormil ja mahus.
+
+(6) Kui investeerimisühingu tehtava sobivushindamise käigus selguvad uued asjaolud, mille tõttu juht ei vasta kehtestatud nõuetele, teavitab ta sellest inspektsiooni viivitamata.
+
+(7) Investeerimisühing teavitab inspektsiooni juhi tagasiastumisest või tema tagasikutsumise algatamisest enne volituste tähtaja lõppemist vähemalt kümme päeva enne selle küsimuse otsustamist. Eeltoodud tähtaega ei kohaldata, kui eelnev teavitamine ei ole mõjuval põhjusel võimalik.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+##### § 80<sup>2</sup>. Inspektsiooni sobivushindamise menetlus
+
+(1) Inspektsioonil on õigus teha investeerimisühingu juhi sobivushindamine igal ajal, sealhulgas investeerimisühinguga seotud riskide suurenemise või juhi kohta uute asjaolude ilmnemise korral.
+
+(2) Inspektsioon võib määrata sobivushindamise tegemise tähtaja olulise investeerimisühingu juhi valimise või määramise korral.
+
+(3) Kui käesoleva seaduse § 80<sup>1</sup> lõikes 4 loetletud andmetes ja dokumentides on puudusi, võib inspektsioon nõuda, et juht ei asuks ametisse enne kõikide asjakohaste andmete ja dokumentide esitamist.
+
+(4) Inspektsioon võib nõuda lisadokumente ja -teavet ning selgitusi käesoleva seaduse § 80<sup>1</sup> lõikes 4 loetletud andmete täpsustamiseks ja kontrollimiseks.
+
+(5) Inspektsioonil on käesoleva seaduse § 80<sup>1</sup> lõikes 4 loetletud andmete kontrollimiseks õigus saada isikuandmeid ja muud teavet karistusregistrist ning muudest allikatest.
+
+(6) Inspektsioon võib nõuda investeerimisühingult asjakohaste meetmete kohaldamist, et tagada juhi ametisse sobivus ja nõuetele vastavus.
+
+(7) Inspektsioon ei pea sobivushindamist tegema, kui juhi ametiaega pikendatakse, välja arvatud juhul, kui isikut puudutav teave on muutunud ja see võib mõjutada tema sobivust.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+##### § 81. Investeerimisühingu juhi valimata või määramata jätmine ja tagasikutsumine
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+(1) Inspektsiooni ettekirjutusega võib investeerimisühingult nõuda juhi tagasikutsumist, kui:
+
+1\) juht ei vasta investeerimisühingu juhile kehtestatud nõuetele;
+
+2\) juht on esitanud enda valimise või määramise asjus eksitavaid või tegelikkusele mittevastavaid andmeid või dokumente;
+
+3\) investeerimisühingu juhi tegevus on näidanud, et ta ei ole suuteline investeerimisühingut usaldusväärselt ega kindlalt juhtima;
+
+4\) inspektsioonile ei ole esitatud juhi sobivushindamise tegemiseks seadusega ette nähtud või inspektsiooni poolt käesoleva seaduse alusel nõutud andmeid või dokumente.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+(2) Kui investeerimisühing ei ole täielikult või tähtaegselt täitnud käesoleva paragrahvi lõikes 1 nimetatud ettekirjutust, on inspektsioonil õigus nõuda juhi tagasikutsumist kohtu poolt.
+
+#### 2. jagu — Organisatsioonilised nõuded
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 81<sup>1</sup>. Üldised organisatsioonilised nõuded
+
+(1) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(4) Investeerimisühing peab kehtestama, rakendama ja säilitama õiguslikud, tehnilised ja organisatsioonilised meetmed, et tagada investeerimisteenuste osutamise järjepidevus ja korrapärasus.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(5) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(6) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(7) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(8) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(9) Investeerimisühing järgib Euroopa Parlamendi ja nõukogu määruses (EL) 2022/2554, mis käsitleb finantssektori digitaalset tegevuskerksust ning millega muudetakse määrusi (EÜ) nr 1060/2009, (EL) nr 648/2012, (EL) nr 600/2014, (EL) nr 909/2014 ja (EL) 2016/1011 (ELT L 333, 27.12.2022, lk 1–79), sätestatud nõudeid, sealhulgas on tal asjakohased ja proportsionaalsed info- ja kommunikatsioonitehnoloogia süsteemid ning ta haldab neid määruse artiklis 7 sätestatu kohaselt.
+
+\[RT I, 11.10.2024, 1 - jõust. 17.01.2025\]
+
+##### § 81<sup>2</sup>. Nõuded riskide juhtimisele ja kontrollile ning riskikomitee moodustamine
+
+(1) Investeerimisühing ja temaga samasse konsolideerimisgruppi kuuluvad äriühingud ei või oma tegevuses võtta riske, mis võivad seada ohtu investeerimisühingu või konsolideerimisgrupi maksevõime.
+
+(2) Investeerimisühingul ja temaga samasse konsolideerimisgruppi kuuluvatel äriühingutel peavad olema piisavad ning nende tegevuse laadi, ulatuse ja keerukuse astmega proportsionaalsed riskide tuvastamise, mõõtmise ja juhtimise ühtsed strateegiad, protseduurid ja süsteemid, mida vaadatakse regulaarselt läbi ja ajakohastatakse ning mis on määratud asjaomastes sise-eeskirjades ja mis kehtivad nii investeerimisühingus kui ka temaga samasse konsolideerimisgruppi kuuluvates äriühingutes.
+
+(3) Käesoleva paragrahvi lõikes 2 nimetatud protseduurid, strateegiad ja süsteemid ning asjaomased sise-eeskirjad peavad tagama piisavad võimalused investeerimisühingu ja tema segavaldusettevõtjast emaettevõtja ning investeerimisühingu ja tema segavaldusettevõtjast emaettevõtja teiste tütarettevõtjate vaheliste tehingute kindakstegemiseks ja kontrollimiseks. Investeerimisühing on kohustatud viivitamata teavitama inspektsiooni igast märkimisväärsest tehingust oma segavaldusettevõtjast emaettevõtjaga või sellise emaettevõtja tütarettevõtjaga.
+
+(4) Investeerimisühing peab looma aruandlusahelad, mis tagavad nõukogu teavitamise kõigist olulistest riskidest ning riskijuhtimise põhimõtetest ja nendega seotud muudatustest.
+
+(5) Investeerimisühing, mille bilansilise ja bilansivälise vara väärtus oli asjaomasele majandusaastale vahetult eelnenud nelja-aastasel ajavahemikul keskmiselt suurem kui 100 miljonit eurot, peab moodustama nõukogu liikmetest koosneva riskikomitee.
+
+(6) Riskikomitee pädevusse kuulub:
+
+1\) nõukogu ja juhatuse nõustamine investeerimisühingu olemasoleva ning tulevase üldise riskivalmiduse ja -strateegia alal;
+
+2\) järelevalve juhatusepoolse riskistrateegia rakendamise üle vastavalt nõukogu juhistele.
+
+(7) Investeerimisühingu riskistrateegiate ja -poliitika eest vastutab nõukogu.
+
+(8) Riskikomitee liikmetel peavad olema asjakohased teadmised ja oskused ning asjatundlikkus, et täielikult mõista, juhtida ja jälgida investeerimisühingu riskistrateegiat ja riskivalmidust ning täita käesoleva paragrahvi lõikes 6 nimetatud ülesandeid.
+
+(9) Investeerimisühingu nõukogule ja riskikomiteele peab olema tagatud juurdepääs investeerimisühingu potentsiaalseid riske puudutavale teabele.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+##### § 82. Sise-eeskirjad
+
+(1) Investeerimisühingus peavad olema kehtestatud ja rakendatud investeerimisühingu ning tema juhtide ja töötajate tegevust reguleerivad protseduurireeglid (edaspidi käesolevas, 10. ja 11. peatükis *sise-eeskirjad*), mis tagavad investeerimisühingu tegevust reguleerivate õigusaktide ja investeerimisühingu juhtorganite otsuste täitmise.
+
+(2) Investeerimisühingu kehtestatud ja rakendatud sise-eeskirjad peavad tagama investeerimisteenuste õigus- ja korrapärase osutamise. Investeerimisühing hindab regulaarselt sise-eeskirjade toimivust ja vastavust tegelikkusele ning korrigeerib sise-eeskirju nii, et oleks tagatud klientide huvide parim kaitse.
+
+(3) Sise-eeskirjadega määratakse muu hulgas kindlaks:
+
+1\) investeerimisühingu sisese teabe ja dokumentide liikumise kord, sealhulgas teabe esitamise ja edastamise nõuded;
+
+2\) investeerimisteenuste ja kõrvalteenuste osutamise kord, sealhulgas kava investeerimisteenuste osutamisega seotud äritegevuse katkemise ohu määramiseks, selle riski maandamiseks või vältimiseks;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+2<sup>1</sup>) sisekontrolli süsteemi toimimise kord, mis peab sisaldama ka investeerimisühingu usaldusväärset juhtimiskorda ja raamatupidamise sise-eeskirja;
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+2<sup>2</sup>) tegevuspõhimõtted õigusaktidest tulenevate kohustuste täitmata jätmise tõttu tekkivate õigusriskide ning nendega seotud muude riskide tuvastamiseks ja maandamiseks või vältimiseks;
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+2<sup>3</sup>) ülevaade kõigi juhatuse liikmete ja võtmeisikute individuaalsetest töökohustustest, sealhulgas aruandluse ning vastutuse korra üksikasjalikud andmed, samuti käesoleva paragrahvi lõike 3 punktis 3 sätestatud juhtimise korraldusse kaasatud isikud ja nende töökohustused;
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+3\) töötajate valikukriteeriumid, töö- või ametiülesanded, selge organisatsiooniline struktuur ning läbipaistvad ja järjepidevad vastutusalad ja alluvussuhted, aruandlusahelad, aruannete esitamise protseduur ja õiguste delegeerimine, sätestades funktsioonide lahususe investeerimisühingu nimel kohustuste võtmisel, teenuste kajastamisel raamatupidamises ja aruannetes ning riskide hindamisel;
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+3<sup>1</sup>) juhtide ja võtmeisikute sobivushindamise kord;
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+4\) andmekogude pidamise ja andmete käitlemise kord;
+
+5\) sisemised protseduurireeglid rahvusvahelise sanktsiooni seaduse alusel kehtestatud rahvusvaheliste sanktsioonide rakendamiseks ning rahapesu ja terrorismi rahastamise tõkestamise seaduse rakendamiseks ning nende täitmise kontrollimise sisekontrollieeskirjad.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+##### § 82<sup>1</sup>. Riskide juhtimine
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 82<sup>2</sup>. Sisemise kapitali ja likviidsuse piisavuse hindamise protsess
+
+\[RT I, 10.01.2019, 1 - jõust. 20.01.2019\]
+
+(1) Investeerimisühingu kõik olulised riskid peavad olema igal hetkel adekvaatselt kaetud omavahenditega.
+
+(2) Investeerimisühing kehtestab usaldusväärse, tulemusliku ja kõikehõlmava korra, strateegiad ja protsessid, et hinnata ja säilitada pidevalt sisemise kapitali suurust, liike ja koosseisu ning likviidset vara, mida ta peab piisavaks, et katta seda laadi ja selle tasemega riske, mida ta võib teistele tekitada ning millele see investeerimisühing on avatud või võib avatud olla. Nimetatud kord, strateegiad ja protsessid peavad vastama investeerimisühingu tegevuse laadile, ulatusele ja keerukusele ning ärimudeli ja tegevusega seotud riskide laadile, ulatusele ja mitmekesisusele. Investeerimisühing vaatab nimetatud korra, strateegiad ja protsessid regulaarselt üle.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(2<sup>1</sup>) Käesoleva paragrahvi lõike 2 esimeses lauses nimetatud riskide hulgas käsitletakse ka kontsentratsiooniriski, mis tuleneb riskipositsioonidest kesksete vastaspoolte suhtes, võttes arvesse Euroopa Parlamendi ja nõukogu määruse (EL) nr 648/2012 börsiväliste tuletisinstrumentide, kesksete vastaspoolte ja kauplemisteabehoidlate kohta (ELT L 201, 27.07.2012, lk 1–59) artiklis 7a sätestatud tingimusi.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(3) Investeerimisühing kehtestab usaldusväärsed strateegiad, protsessid ja süsteemid ning usaldusväärse poliitika, et teha kindlaks, mõõta, juhtida ja jälgida:
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+1\) kliendile tekitatava riski olulisi allikaid ja mõju, samuti igasugust olulist mõju omavahenditele;
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+2\) turule tekitatava riski olulisi allikaid ja mõju, samuti igasugust olulist mõju omavahenditele;
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+3\) investeerimisühingule avalduva riski olulisi allikaid ja mõju, eelkõige neid, mis võivad omavahendite taset vähendada;
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+4\) likviidsusriski asjakohastel, sealhulgas tööpäevasisestel ajavahemikel, et tagada investeerimisühingu likviidsete vahendite piisav tase, sealhulgas seoses käesoleva lõike punktides 1–3 nimetatud riskide oluliste allikate käsitlemisega;
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+5\) kesksete vastaspoolte suhtes olevatest riskipositsioonidest tuleneva kontsentratsiooniriski olulisi allikaid ja mõju, samuti igasugust olulist mõju omavahenditele.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(3<sup>1</sup>) Käesoleva paragrahvi lõikes 3 nimetatud strateegiad, poliitika, protsessid ja süsteemid peavad vastama investeerimisühingu keerukusele, riskiprofiilile, tegevuse ulatusele ja juhtorgani kindlaks määratud riskitaluvusele ning kajastama investeerimisühingu olulisust igas lepinguriigis, kus ta tegutseb.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(4) Käesoleva paragrahvi lõike 3 punkti 1 ja lõike 3<sup>1</sup> kohaldamisel arvestatakse käesoleva seaduse §-s 88 sätestatut.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(5) Käesoleva paragrahvi lõike 3 punktis 1 nimetatud riskide tõhusa juhtimise vahendina kaalub investeerimisühing kutsekindlustuse sõlmimist.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(6) Käesoleva paragrahvi lõike 3 punkti 3 kohaldamisel loetakse asjakohasel juhul investeerimisühingule avalduva riski oluliseks allikaks ja mõjuks:
+
+1\) muutusi vara bilansilises väärtuses, sealhulgas nõudeid seotud vahendite suhtes;
+
+2\) klientide või vastaspoolte maksejõuetust;
+
+3\) väärtpaberi-, valuuta- ja kaubapositsioone;
+
+4\) kohustusi kindlaksmääratud hüvitisega pensioniskeemide suhtes.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(6<sup>1</sup>) Käesoleva paragrahvi lõike 3 punkti 5 kohaldamisel töötab investeerimisühing välja konkreetsed kavad ja mõõdetavad eesmärgid kooskõlas Euroopa Parlamendi ja nõukogu määruse (EL) nr 648/2012 artikli 7a nõuetega, et jälgida ja käsitleda kontsentratsiooniriski, mis tuleneb riskipositsioonidest selliste kesksete vastaspoolte suhtes, kes pakuvad ühes või mitmes lepinguriigis süsteemselt olulisi teenuseid.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(7) Investeerimisühing kaalub hoolikalt igasugust olulist mõju omavahenditele, kui selliseid riske ei ole Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 artikli 11 kohaselt arvutatud omavahendite nõuetes asjakohaselt arvesse võetud.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(8) Lõpetamise või likvideerimise korral kaalub investeerimisühing kogu turult väljumise protsessi jooksul hoolikalt omavahendite ja likviidsete vahendite haldamise nõudeid ja vajalikke ressursse, võttes arvesse ärimudelite ja strateegiate elujõulisust ja kestlikkust.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+##### § 82<sup>3</sup>. Investeerimisühingu juhi, töötaja ja muu seotud isiku isiklik tehing
+
+(1) Investeerimisühing peab sise-eeskirjadega määrama temaga seotud isikute isiklike väärtpaberitehingute tegemise korra ja tagama klientide huvide kaitse ning turu õigus- ja korrapärase toimimise.
+
+(2) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(4) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(5) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(6) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 82<sup>4</sup>. Huvide konflikti maandamine ja vältimine
+
+(1) Investeerimisühing kehtestab sise-eeskirjadega õiguslikud, tehnilised ja organisatsioonilised meetmed, et määrata ja maandada või vältida investeerimisteenuse ning kõrvalteenuse osutamisel investeerimisühingusisest huvide konflikti, investeerimisühinguga kontrollsuhet omava isiku huvide konflikti, investeerimisühingu ja kliendi ning klientide omavaheliste huvide konflikti ja nende kahjulikku mõju klientide huvidele, ning rakendab neid meetmeid. Käesoleva lõike esimeses lauses sätestatut kohaldatakse ka rahalise või mitterahalise tasu või hüve saamisele seoses investeerimisteenuse ja kõrvalteenuse osutamisega ning investeerimisühingu juhtide ja töötajate tasustamisele.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+(2) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(4) Investeerimisühing teavitab enne investeerimisteenuse või kõrvalteenuse osutamist klienti huvide konflikti üldisest laadist või allikast ning selliste riskide maandamiseks rakendatud meetmetest, kui käesoleva paragrahvi lõikes 1 nimetatud investeerimisühingu rakendatud meetmed konkreetsel juhul ei taga kliendi huvide kahjustamise ohu vältimist.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(5) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(6) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(7) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(8) Käesoleva paragrahvi lõikes 4 sätestatud teavitus tuleb teha püsival andmekandjal ja piisava üksikasjalikkusega, võttes sealjuures arvesse kliendi liiki, et võimaldada kliendil teha teenuse kohta igakülgselt kaalutud otsus huvide konflikti kontekstis.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(9) Püsiv andmekandja on teabe taasesitamist võimaldav vahend võlaõigusseaduse § 11<sup>1</sup> tähenduses.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(10) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 82<sup>5</sup>. Täiendavad organisatsioonilised nõuded investeerimisanalüüse koostavale ja levitavale investeerimisühingule
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 82<sup>6</sup>. Olulise tööülesande või tegevuse edasiandmine
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1) Investeerimisühing kehtestab sise-eeskirjadega sellise tööülesande või tegevuse edasiandmise korra, mis on investeerimisteenuse pidevaks ja nõuetekohaseks osutamiseks komisjoni delegeeritud määruse (EL) nr 2017/565 artikli 30 tähenduses oluline, ning rakendab sise-eeskirju ja muid mõistlikke meetmeid põhjendamatute tegevusriskide vältimiseks.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) Käesolevas seaduses käsitatakse edasiandmist komisjoni delegeeritud määruse (EL) nr 2017/565 artikli 2 punkti 3 tähenduses.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) Edasiandmine ei või kahjustada investeerimisühingu sisekontrolli kvaliteeti ega takistada investeerimisühingu üle vajalikul tasemel järelevalve teostamist.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(4) Edasiandmisel peavad olema täidetud komisjoni delegeeritud määruses (EL) nr 2017/565 ning info- ja kommunikatsioonitehnoloogia teenuse edasiandmisel lisaks Euroopa Parlamendi ja nõukogu määruses (EL) 2022/2554 sätestatud ning käesolevast seadusest tulenevad nõuded, sealhulgas rakendab investeerimisühing usaldusväärseid turvasüsteeme, et tagada teabeedastusviiside ohutus ja autentimine, vähendada andmete rikkumise ja loata juurdepääsu riski ning hoida ära teabelekked, säilitades igal ajal andmete konfidentsiaalsuse.
+
+\[RT I, 11.10.2024, 1 - jõust. 17.01.2025\]
+
+##### § 82<sup>7</sup>. Kliendi kaebuste lahendamine
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 82<sup>8</sup>. Klientidele teabe esitamise üldtingimused ja teabe edastamise vorm
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 82<sup>9</sup>. Üldised organisatsioonilised nõuded väärtpabereid välja töötavale investeerimisühingule
+
+(1) Investeerimisühing kehtestab sise-eeskirjadega tema poolt müügi eesmärgil välja töötatud väärtpaberi heakskiitmise ja olulise muutmise korra ning rakendab seda iga välja töötatud väärtpaberi pakkumisel või turustamisel.
+
+(2) Väärtpaberi väljatöötamine on väärtpaberi loomine, arendamine, emiteerimine või selle omaduste kujundamine.
+
+(3) Investeerimisühing tagab käesoleva paragrahvi lõikes 1 nimetatud sise-eeskirjade ja muude õiguslike, tehniliste ning organisatsiooniliste meetmete rakendamisega, et väärtpaberi väljatöötamise ja sellega seotud töötaja tasustamise põhimõtted on kooskõlas käesoleva seaduse § 82<sup>4</sup> lõikes 1 nimetatud sise-eeskirjadega. Väärtpaberi struktuur ja omadused ei või kahjustada klientide huve ning väärtpaberituru usaldusväärset ja korrapärast toimimist ega võimaldada investeerimisühingul vähendada riske või neist vabaneda seoses väärtpaberi alusvaraga, mida investeerimisühing oma arvel hoiab.
+
+(4) Investeerimisühing hindab enne väärtpaberi turuletoomist, et välja töötatud väärtpaber ei ohusta väärtpaberituru usaldusväärset ja korrapärast toimimist ega finantssüsteemi stabiilsust. Investeerimisühing analüüsib väärtpaberi väljatöötamisel võimalikke huvide konflikte, jälgides eelkõige, et välja töötatud väärtpaber ei kahjusta kliendi huve, kui lõppklient võtab positsiooni, mis on vastupidine investeerimisühingu varem hoitud positsioonile või positsioonile, mida investeerimisühing kavatseb hoida pärast välja töötatud väärtpaberi müüki.
+
+(5) Investeerimisühing tagab, et väärtpaberi väljatöötamisega seotud töötajatel on vajalik asjatundlikkus, et mõista väljatöötatava väärtpaberi omadusi ja riske.
+
+(6) Investeerimisühing tagab, et investeerimisühingu juhtidel on kontroll väärtpaberi heakskiitmise protsessi üle ja et komisjoni delegeeritud määruse (EL) nr 2017/565 artikli 22 lõike 2 punktis c nimetatud aruanded hõlmavad teavet investeerimisühingu välja töötatud väärtpaberi ja selle turustamisstrateegia kohta. Investeerimisühing esitab käesoleva lõike esimeses lauses nimetatud aruanded nõudmisel inspektsioonile.
+
+(7) Investeerimisühing tagab, et komisjoni delegeeritud määruse (EL) nr 2017/565 artikli 22 lõikes 2 nimetatud vastavuskontrolli funktsiooni täitja kontrollib käesoleva paragrahvi lõikes 1 nimetatud sise-eeskirjade ning investeerimisühingu rakendatud õiguslike, tehniliste ja organisatsiooniliste meetmete regulaarset ülevaatamist ning ajakohastamist, et tuvastada riske, mis võivad mõjutada investeerimisühingu võimet täita käesoleva seaduse 3. osas sätestatud nõudeid.
+
+(8) Kui investeerimisühing töötab väärtpaberi välja koostöös teise investeerimisühingu või muu isikuga, määratakse poolte vastastikused kohustused kindlaks kirjalikus vormis lepinguga.
+
+(9) Käesoleva paragrahvi lõigetes 3–8 ja käesoleva seaduse §-des 82<sup>10</sup>–82<sup>14</sup> sätestatut kohaldatakse väärtpabereid välja töötavale investeerimisühingule niivõrd, kui see on asjakohane ning proportsionaalne väärtpaberi ja selle sihtrühma ning investeerimisteenuse olemust arvesse võttes.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 82<sup>10</sup>. Üldised organisatsioonilised nõuded väärtpabereid turustavale investeerimisühingule
+
+(1) Teise investeerimisühingu või muu isiku välja töötatud väärtpabereid pakkuv, müüv või soovitav investeerimisühing (edaspidi *turustav investeerimisühing*) kehtestab sise-eeskirjad ja võtab kasutusele muud õiguslikud, tehnilised ning organisatsioonilised meetmed, et tagada tema turustatava väärtpaberi või teenuse vastavus määratud sihtrühma vajadustele, tunnustele ja eesmärkidele, sealhulgas jätkusuutlikkuseesmärkidele, ning kavandatud turustamisstrateegia vastavus sihtrühmale.
+
+\[RT I, 03.06.2022, 5 - jõust. 21.08.2022\]
+
+(2) Turustavale investeerimisühingule kohaldatakse seoses tema turustatava väärtpaberi ja teenusega käesoleva seaduse § 82<sup>9</sup> lõigetes 6–8 väärtpaberi väljatöötaja kohta sätestatut.
+
+(3) Turustav investeerimisühing tagab, et väärtpaberi turustamisega seotud töötajatel on vajalik asjatundlikkus, et mõista turustatava väärtpaberi ja teenuse omadusi ja riske ning sihtrühma vajadusi, tunnuseid ja eesmärke.
+
+(4) Turustav investeerimisühing on kohustatud järgima käesolevas paragrahvis ja käesoleva seaduse §-des 82<sup>11</sup>–82<sup>14</sup> sätestatut ka juhul, kui väärtpaberi väljatöötaja on isik, kellele ei kohaldata käesoleva seaduse 3. osas sätestatut.
+
+(5) Käesoleva paragrahvi lõigetes 1 ja 2 ning käesoleva seaduse §-des 82<sup>11</sup>–82<sup>14</sup> turustava investeerimisühingu kohta sätestatut kohaldatakse niivõrd, kui see on asjakohane ja proportsionaalne turustatava väärtpaberi ja selle sihtrühma ning investeerimisteenuse olemust arvesse võttes.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 82<sup>11</sup>. Organisatsioonilised lisanõuded väärtpaberi sihtrühma määramisele
+
+(1) Käesoleva seaduse § 82<sup>9</sup> lõikes 1 nimetatud sise-eeskirjadega kehtestatud väärtpaberi heakskiitmise protsessi käigus määrab investeerimisühing kindlaks iga välja töötatud väärtpaberi sihtrühma lõppklientide liikide kaupa ning hindab väärtpaberiga seotud kõiki olulisi riske ja kavandatava turustamisstrateegia vastavust sihtrühmale.
+
+(2) Väärtpabereid välja töötav investeerimisühing määrab väärtpaberi sihtrühma piisava üksikasjalikkusega, täpsustades kliendiliigid, kelle vajadustele, tunnustele ja eesmärkidele, sealhulgas jätkusuutlikkuseesmärkidele, väärtpaber vastab.
+
+\[RT I, 03.06.2022, 5 - jõust. 21.08.2022\]
+
+(2<sup>1</sup>) Väärtpabereid välja töötav investeerimisühing määrab kliendiliigid, kelle vajadustele, tunnustele ja eesmärkidele väärtpaber ei vasta, välja arvatud juhul, kui väärtpaber võtab arvesse jätkusuutlikkustegureid.
+
+\[RT I, 03.06.2022, 5 - jõust. 21.08.2022\]
+
+(3) Kui investeerimisühing ei turusta välja töötatud väärtpaberit ise, määrab ta selliste klientide vajadused ja tunnused, kellele väärtpaber on kohane, tuginedes teoreetilistele teadmistele ja varasemale kogemusele seoses väärtpaberi või samalaadse väärtpaberi, finantsturgude ning potentsiaalsete klientide vajaduste, tunnuste ja eesmärkidega.
+
+(4) Kui investeerimisühing töötab väärtpaberi välja koostöös teise investeerimisühingu või muu isikuga, määrab investeerimisühing väärtpaberile ühe sihtrühma. Kui investeerimisühing turustab enda välja töötatud väärtpaberit, võib sihtrühma määrata ühel korral.
+
+(5) Investeerimisühing määrab, kas väärtpaber vastab sihtrühma vajadustele, tunnustele ja eesmärkidele, kontrollides muu hulgas, et väärtpaberi riski ja tulu suhe vastab sihtrühmale, asjakohasel juhul, et väärtpaberi jätkusuutlikkustegurid vastavad sihtrühmale, ning väärtpaberi struktuur lähtub kliendi huvidest ega juhindu ärimudelist, mis kasumlikkuse saavutamiseks tugineb kliendile ebasoodsale tulemusele.
+
+\[RT I, 03.06.2022, 5 - jõust. 21.08.2022\]
+
+(5<sup>1</sup>) Jätkusuutlikkusteguritena käsitatakse Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2088, mis käsitleb jätkusuutlikkust käsitleva teabe avalikustamist finantsteenuste sektoris (ELT L 317, 09.12.2019, lk 1–16), artikli 2 punktis 24 nimetatud tegureid.
+
+\[RT I, 03.06.2022, 5 - jõust. 21.08.2022\]
+
+(6) Turustav investeerimisühing määrab kindlaks ja hindab, millises olukorras ning milliste vajadustega klientidele on kavas väärtpaberit turustada, et tagada klientide huvide kaitse ka turustava investeerimisühingu ärihuvidest või äritegevuse rahastamise vajadusest tingitud surve olukorras. Muu hulgas määrab turustav investeerimisühing kliendigrupid, kelle vajadustele, tunnustele ja eesmärkidele väärtpaber või teenus ei vasta.
+
+(7) Kui väärtpaberi väljatöötaja ei ole väärtpaberi sihtrühma kindlaks määranud, määrab turustav investeerimisühing väärtpaberi sihtrühma ja väärtpaberi turustamisstrateegia kindlaks väärtpaberi väljatöötajalt saadud ning turustava investeerimisühingu klientide kohta olemasoleva teabe põhjal.
+
+(8) Turustav investeerimisühing määrab väärtpaberi sihtrühma uuesti või ajakohastab käesoleva paragrahvi lõikes 1 nimetatud sise-eeskirju, kui ilmneb, et investeerimisühing on väärtpaberi või teenuse sihtrühma kindlaksmääramisel eksinud või väärtpaber või teenus ei vasta enam sihtrühma tingimustele, sealhulgas juhul, kui väärtpaber muutub turumuutuste tõttu mittelikviidseks või äärmiselt volatiilseks.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 82<sup>12</sup>. Organisatsioonilised lisanõuded väljatöötatava väärtpaberi kujundamisele
+
+(1) Investeerimisühing analüüsib väljatöötatava väärtpaberi võimalikke arenguid kliendi jaoks, hinnates väärtpaberiga seotud ebasoodsa tulemuse riski ja asjaolusid, millal selline risk võib realiseeruda, muu hulgas kui:
+
+1\) turutingimused halvenevad;
+
+2\) väärtpaberi väljatöötaja või väärtpaberi väljatöötamisse või toimimisse kaasatud isik satub finantsraskustesse või realiseerub muu vastaspoole risk;
+
+3\) väärtpaber ei osutu majanduslikult jätkusuutlikuks või
+
+4\) väärtpaberi nõudlus on oodatust suurem, mis pingestab investeerimisühingu ressursse või kauplemist väärtpaberi alusvaraga.
+
+(2) Väärtpaberi kavandatava tasustruktuuri määramisel kontrollib investeerimisühing muu hulgas, et:
+
+1\) väärtpaberiga kaasnevad kulud ja tasud on vastavuses sihtrühma vajaduste, tunnuste ning eesmärkidega;
+
+2\) tasud ei kahjusta väärtpaberi oodatavat tootlust, näiteks kui kulud või tasud on võrdsed või suuremad kui väärtpaberi eeldatavad maksualased eelised või kui kulud või tasud kõrvaldavad need eelised muul viisil;
+
+3\) väärtpaberi tasustruktuur on sihtrühmale kohaselt läbipaistev ja arusaadav ega võimalda investeerimisühingul tasusid varjata.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 82<sup>13</sup>. Organisatsioonilised lisanõuded väärtpaberi regulaarsele ülevaatamisele
+
+(1) Investeerimisühing vaatab tema välja töötatud väärtpaberid regulaarselt üle, võttes arvesse kõik sündmused, mis võivad oluliselt mõjutada sihtrühma jaoks võimalikke riske, sealhulgas enne iga järgmist emissiooni või turuletoomist, kui investeerimisühingule on teada käesolevas lõikes nimetatud asjaolusid hinnates vähemalt, kas:
+
+1\) väärtpaber vastab jätkuvalt sihtrühma vajadustele, tunnustele ja eesmärkidele, sealhulgas jätkusuutlikkuseesmärkidele;
+
+\[RT I, 03.06.2022, 5 - jõust. 21.08.2022\]
+
+2\) väärtpaberi turustamisstrateegia on jätkuvalt sihtrühmale kohane;
+
+3\) väärtpaberit turustatakse üksnes sihtrühmale;
+
+4\) väärtpaber toimib kavakohaselt.
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud ülevaatuse sageduse määramisel võtab investeerimisühing arvesse asjakohaseid tegureid, sealhulgas järgitava investeerimisstrateegia keerukust ja uuenduslikkust.
+
+(3) Investeerimisühing määrab kindlaks olulised sündmused, mis võivad mõjutada investeerimisühingu välja töötatud väärtpaberi võimalikke riske või oodatavat tulu, nagu väärtpaberi tootluse struktuuri mõjutava künnise ületamine või sellise emitendi maksevõime, kelle väärtpaberid või garantiid võivad mõjutada väärtpaberi tootlust.
+
+(4) Käesoleva paragrahvi lõikes 3 nimetatud asjaolude ilmnemisel rakendab investeerimisühing kohaseid meetmeid, mis muu hulgas on:
+
+1\) sündmuse ja selle väärtpaberile avalduva mõju kohta asjakohase teabe esitamine klientidele või juhul, kui investeerimisühing ei tegele ise väärtpaberi müügiga, väärtpaberi turustajatele;
+
+2\) väärtpaberi heakskiitmise protsessi muutmine;
+
+3\) väärtpaberi edasise emiteerimise peatamine;
+
+4\) väärtpaberi muutmine, et vältida ebamõistlikke lepingutingimusi;
+
+5\) turustamiskanalite kohasuse hindamine juhul, kui väärtpaberit ei turustata kavandatud tingimustel;
+
+6\) turustajale ettepaneku tegemine turustamisprotsessi muutmise algatamiseks;
+
+7\) turustajaga sõlmitud lepingu ülesütlemine;
+
+8\) inspektsiooni teavitamine.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 82<sup>14</sup>. Organisatsioonilised lisanõuded väärtpaberi väljatöötaja ja turustava investeerimisühingu teabevahetusele
+
+(1) Investeerimisühing teeb igale turustajale kättesaadavaks kogu asjakohase teabe väärtpaberi ja selle heakskiitmise protsessi, sealhulgas väärtpaberi sihtrühma ja sobivate turustamiskanalite kohta, mis peab olema piisav, et turustaja võiks mõista väärtpaberi omadusi ning seda turustada.
+
+(1<sup>1</sup>) Lisaks käesoleva paragrahvi lõikes 1 nimetatud teabele teeb investeerimisühing läbipaistval viisil igale turustajale kättesaadavaks teabe väärtpaberi jätkusuutlikkustegurite kohta, mis võimaldab arvesse võtta kliendi või potentsiaalse kliendi jätkusuutlikkuseesmärke.
+
+\[RT I, 03.06.2022, 5 - jõust. 21.08.2022\]
+
+(2) Turustav investeerimisühing rakendab meetmeid, et saada väärtpaberi väljatöötajalt käesoleva paragrahvi lõikes 1 nimetatud teave.
+
+(3) Kui väärtpaberi väljatöötaja on isik, kellele ei kohaldata käesoleva seaduse 3. osas sätestatut, ja käesoleva paragrahvi lõikes 1 nimetatud teave ei ole avalikult kättesaadav, selge ega usaldusväärne või seda ei ole avalikustatud seaduses sätestatud nõuete kohaselt korraldatud teabena, kohaldatakse turustavale investeerimisühingule käesoleva paragrahvi lõikes 2 sätestatut niivõrd, kui see on mõistlik ja proportsionaalne, võttes arvesse avalikustatud teabe kättesaadavust ning väärtpaberi keerukust.
+
+(4) Turustav investeerimisühing esitab väärtpaberi väljatöötajale teabe väärtpaberi müügi kohta, ja kui see on väärtpaberi väljatöötaja hinnangute kujundamisel asjakohane, käesoleva seaduse § 82<sup>9</sup> lõikes 6 nimetatud aruannete kohta.
+
+(5) Kui turustav investeerimisühing turustab tooteid või osutab teenuseid koostöös teise investeerimisühinguga, vastutab käesolevas paragrahvis ja käesoleva seaduse §-des 82<sup>10</sup>–82<sup>13</sup> turustavale investeerimisühingule sätestatud nõuete täitmise eest investeerimisühing, kellel on vahetu suhe lõppkliendiga. Vahendajana tegutsev investeerimisühing:
+
+1\) edastab asjakohase teabe väärtpaberi väljatöötajalt väärtpaberi lõppturustajale;
+
+2\) edastab väärtpaberi väljatöötaja nõudmisel väljatöötaja kohustuste täitmiseks vajalikku teavet väärtpaberi müügi kohta;
+
+3\) järgib käesolevas paragrahvis ja käesoleva seaduse §-des 82<sup>9</sup>–82<sup>13</sup> väärtpaberi väljatöötaja kohta sätestatut, kui see on asjakohane seoses osutatava teenusega.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 82<sup>15</sup>. Organisatsioonilised lisanõuded algoritmkauplemisega tegelevale investeerimisühingule
+
+(1) Algoritmkauplemisega tegelemisel, sealhulgas algoritmipõhise välkkauplemistehnika kasutamisel, rakendab investeerimisühing oma äritegevuse jaoks sobivaid ja tõhusaid süsteeme ning riskikontrolli, tagamaks, et algoritmkauplemiseks kasutatav infotehnoloogiline süsteem on töökindel ja piisava võimsusega, selles rakendatakse asjakohaseid kauplemiskünniseid ja -piirmäärasid ning see ennetab ekslike korralduste andmist ja muid toiminguid, mis võivad ohustada väärtpaberituru korra- või õiguspärast toimimist. Investeerimisühing järgib käesolevas lõikes nimetatud meetmete rakendamisel muu hulgas komisjoni delegeeritud määruses (EL) nr 2017/589, millega täiendatakse Euroopa Parlamendi ja nõukogu direktiivi 2014/65/EL seoses regulatiivsete tehniliste standarditega, milles määratakse kindlaks algoritmkauplemisega tegelevate investeerimisühingute organisatsioonilised nõuded (ELT L 87, 31.03.2017, lk 417–448), ning Euroopa Parlamendi ja nõukogu määruses (EL) 2022/2554 sätestatut.
+
+\[RT I, 11.10.2024, 1 - jõust. 17.01.2025\]
+
+(2) Algoritmkauplemine on väärtpaberiga kauplemine infotehnoloogilist süsteemi kasutades, mis määrab komisjoni delegeeritud määruse (EL) nr 2017/565 artikli 18 tähenduses vähese inimsekkumisega või inimsekkumiseta kindlaks väärtpaberiga seotud korralduse esitamise ja selle ajastuse, korralduse hinna ja mahu ning esitatud korralduse edasise haldamise või muud sellised kauplemisparameetrid. Algoritmkauplemisena ei käsitata investeerimisühingu poolt üksnes korralduse kauplemiskohta edastamiseks, korralduse töötlemiseks ilma kauplemisparameetreid määramata, täidetud korralduse kinnitamiseks või kauplemisjärgseks töötlemiseks ettenähtud süsteemide kasutamist.
+
+(3) Algoritmipõhine välkkauplemistehnika on algoritmkauplemise viis, mis vastab järgmistele tunnustele:
+
+1\) kasutatakse taristut, mille eesmärk on vähendada võrgu- ja muid viivitusi ning mis hõlmab vähemalt üht sellist algoritmipõhist korralduste sisestamise lahendust nagu ühispaiknemine, lähestikku paiknemine või kiire otsese elektroonilise juurdepääsu võimaldamine;
+
+2\) kasutatakse süsteemi, mis algatab, tekitab, edastab või täidab korraldusi automaatselt;
+
+3\) esineb suur süsteemis edastatavate sõnumite, sealhulgas korralduste, hinnapakkumiste ja tühistamiste hulk päeva jooksul komisjoni delegeeritud määruse (EL) nr 2017/565 artikli 19 tähenduses.
+
+(4) Käesoleva paragrahvi lõikes 1 nimetatud süsteemid ja riskikontroll peavad olema piisavad, et ära hoida kauplemissüsteemi kasutamine viisil, mis on vastuolus Euroopa Parlamendi ja nõukogu määruse (EL) nr 596/2014 või selle kauplemiskoha reeglitega, millega süsteem on ühendatud.
+
+(5) Investeerimisühingul peab olema tõhus talitluspidevuse kord, mis sisaldab muu hulgas info- ja kommunikatsioonitehnoloogia talitluspidevuse põhimõtteid ja plaane ning info- ja kommunikatsioonitehnoloogia reageerimis- ja taasteplaane Euroopa Parlamendi ja nõukogu määruse (EL) 2022/2554 artikli 11 kohaselt, et toime tulla kauplemissüsteemi tõrgetega. Investeerimisühing tagab käesoleva paragrahvi lõikes 1 nimetatud süsteemide igakülgse testimise ja nende vastavuse käesolevas paragrahvis, sealhulgas määruse II ja IV peatükis sätestatud nõuetele.
+
+\[RT I, 11.10.2024, 1 - jõust. 17.01.2025\]
+
+(6) Investeerimisühing, kes tegeleb algoritmkauplemisega turutegemise strateegia rakendamiseks, peab arvestama vastava turu likviidsust, suurust ja laadi ning kaubeldavate väärtpaberite omadusi ja vastama järgmistele tingimustele:
+
+1\) ta tegutseb turutegijana järjepidevalt, kindlaksmääratud aja jooksul kauplemiskoha kauplemisajast, välja arvatud erakorralistel asjaoludel, tagades kauplemiskohale korrapärase ja prognoositava likviidsuse;
+
+2\) ta on kauplemiskohaga kokku leppinud käesoleva lõike punktis 1 nimetatud kohustuste täitmise täpsemates tingimustes;
+
+3\) ta kasutab tõhusaid süsteeme ja kontrolli, et tagada käesoleva lõike punktis 1 nimetatud kohustuste täitmine igal ajal.
+
+(7) Käesoleva paragrahvi ja käesoleva seaduse §-de 125<sup>1</sup> ja 125<sup>2</sup>, § 132 lõigete 5–7 ning §-de 134<sup>4</sup> ja 136<sup>1</sup> kohaldamisel loetakse, et algoritmkauplemisega tegelev investeerimisühing rakendab turutegemise strateegiat, kui ta kaupleb oma arvel ühe või mitme kauplemiskoha osalejana, tehes ühes või mitmes kauplemiskohas siduvaid, samaaegseid, konkurentsivõimelise hinna ja võrreldava mahuga pakkumisi ühe või mitme väärtpaberi ostuks ning müügiks, tagades selle tulemusel korrapäraselt ja pidevalt likviidsuse väärtpaberiturul.
+
+(8) Investeerimisühing teavitab Eestis algoritmkauplemisega tegelemisest inspektsiooni ja selle kauplemiskoha üle järelevalvet teostavat vastava lepinguriigi pädevat järelevalveasutust, mille osaleja või liikmena investeerimisühing algoritmkauplemisega tegeleb.
+
+(9) Investeerimisühing avaldab nõudmisel inspektsioonile ühekordselt või regulaarselt teavet oma algoritmkauplemise ja selleks kasutatavate süsteemide kohta, sealhulgas algoritmkauplemise strateegiate kirjelduse, üksikasjalikud andmed süsteemis kohaldatavate kauplemisparameetrite või -piirmäärade, süsteemide testimise ning peamiste vastavus- ja riskikontrollide kohta, mida investeerimisühing rakendab käesoleva paragrahvi lõigetes 1, 4 ja 5 sätestatud tingimuste täitmiseks.
+
+(10) Inspektsioon avaldab nõudmisel käesoleva paragrahvi lõikes 9 nimetatud teabe viivitamata vastava lepinguriigi pädevale järelevalveasutusele, kes teostab järelevalvet selle kauplemiskoha üle, mille osaleja või liikmena investeerimisühing algoritmkauplemisega tegeleb.
+
+(11) Investeerimisühing säilitab andmed algoritmkauplemise kohta käesolevas seaduses sätestatud korras. Algoritmipõhist välkkauplemistehnikat kasutav investeerimisühing salvestab täpsed ja kronoloogilised andmed iga esitatud, tühistatud ning täidetud korralduse ja kauplemiskohas tehtud hinnapakkumise kohta ning avaldab need nõudmisel inspektsioonile.
+
+(12) Investeerimisühing, kes tegutseb väärtpaberiarveldussüsteemi liikmena, rakendab tõhusaid süsteeme ja riskikontrolli vastavalt komisjoni delegeeritud määruse (EL) nr 2017/565 artiklites 24–26 sätestatule, millega tagatakse, et teenuseid osutatakse siduva kirjaliku kokkuleppe põhjal üksnes isikutele, kes on sobilikud ja vastavad selgetele kriteeriumidele. Investeerimisühing rakendab muu hulgas algoritmkauplemisega tegelemisel asjakohaseid meetmeid eelnimetatud isikute suhtes investeerimisühingut ja väärtpaberituru korrapärast toimimist mõjutavate riskide maandamiseks.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 82<sup>16</sup>. Organisatsioonilised lisanõuded otsese elektroonilise juurdepääsu võimaldamisele
+
+(1) Kauplemiskohta otsese elektroonilise juurdepääsu võimaldamisel rakendab investeerimisühing tõhusaid süsteeme ja kontrolli, et hinnata teenust kasutava kliendi sobivust, vaadata selline hinnang regulaarselt üle, tagada kliendi poolt asjakohaste kauplemiskünniste ja -piirmäärade järgimine ning kliendi kauplemistegevuse kohane jälgimine. Asjakohase riskikontrolli abil peab vältima sellist kauplemistegevust, mis võib ohustada investeerimisühingu tegevust või väärtpaberituru korra- või õiguspärast toimimist või mis on vastuolus Euroopa Parlamendi ja nõukogu määruse (EL) nr 596/2014 või selle kauplemiskoha reeglitega. Otsese elektroonilise juurdepääsu võimaldamine kauplemiskohale eelnimetatud meetmeid rakendamata ei ole lubatud.
+
+(2) Otsene elektrooniline juurdepääs käesoleva seaduse tähenduses on kauplemiskoha osaleja, liikme või kliendina tegutseva investeerimisühingu poolt oma juurdepääsuõiguse kliendile kasutada andmine, mille tulemusel saab klient edastada väärtpaberiga seotud korraldusi elektrooniliselt otse kauplemiskohta, seejuures investeerimisühingu taristut või muud süsteemi kasutades või ilma selleta ning võttes arvesse komisjoni delegeeritud määruse (EL) nr 2017/565 artiklis 20 sätestatut.
+
+(3) Kauplemiskohale otsest elektroonilist juurdepääsu võimaldav investeerimisühing vastutab selle eest, et teenust kasutava kliendi kauplemistegevus vastab käesolevas seaduses sätestatud nõuetele ja selle kauplemiskoha reeglitele. Investeerimisühing jälgib tehinguid, et tuvastada käesoleva lõike esimeses lauses nimetatud nõuete ja reeglite rikkumine, väärtpaberituru korra- või õiguspärast toimimist ohustada võivad korralduse tingimused või turukuritarvitusena käsitatav tegevus, millest tuleb teavitada inspektsiooni.
+
+(4) Investeerimisühing sõlmib kliendiga otsese elektroonilise juurdepääsu võimaldamiseks siduva kirjaliku kokkuleppe, mille kohaselt jääb investeerimisühing vastutavaks käesolevast seadusest tulenevate nõuete täitmise eest.
+
+(5) Investeerimisühing teavitab kauplemiskohale otsese elektroonilise juurdepääsu võimaldamisest inspektsiooni ja selle lepinguriigi pädevat järelevalveasutust, kes teostab järelevalvet selle kauplemiskoha üle, millele investeerimisühing otsest elektroonilist juurdepääsu võimaldab.
+
+(6) Investeerimisühing avaldab nõudmisel inspektsioonile ühekordselt või regulaarselt teavet käesoleva paragrahvi lõikes 1 sätestatud meetmete ja nende rakendamise kohta.
+
+(7) Inspektsioon avaldab nõudmisel käesoleva paragrahvi lõikes 6 nimetatud teabe viivitamata selle lepinguriigi pädevale järelevalveasutusele, kes teostab järelevalvet selle kauplemiskoha üle, millele investeerimisühing otsest elektroonilist juurdepääsu võimaldab.
+
+(8) Investeerimisühing säilitab andmed otsese elektroonilise juurdepääsu võimaldamise kohta käesolevas seaduses sätestatud korras.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 82<sup>17</sup>. Nõuete täitmata jätmine väärtpaberite pakkumise ja väljatöötamise korral
+
+(1) Investeerimisühing ei pea täitma käesoleva seaduse § 82<sup>9</sup> lõikes 1, § 82<sup>11</sup> lõikes 1, § 82<sup>13</sup> lõikes 1, § 82<sup>14</sup> lõikes 1 ning § 85 lõike 1 punktides 6<sup>1</sup> ja 6<sup>2</sup> sätestatud nõudeid, kui:
+
+1\) investeerimisühingu osutatav investeerimisteenus on seotud võlakirjadega, millel ei ole muid tuletisinstrumendi tunnuseid kui varasema lunastamise kokkulepe;
+
+2\) väärtpabereid turustatakse või pakutakse üksnes võrdsetele vastaspooltele.
+
+(2) Varasema lunastamise kokkulepe on kokkulepe, mille kohaselt peab emitent tasuma võlakirja ennetähtaegse lunastamise korral võlakirja omavale investorile summa, mis võrdub lunastatava võlakirja põhisumma ja lunastustähtpäevani jäänud eeldatavate kupongimaksete nüüdispuhasväärtuse summaga.
+
+\[RT I, 29.03.2022, 3 - jõust. 30.03.2022\]
+
+##### § 82<sup>18</sup>. Intsidendist ja küberohust teavitamine
+
+(1) Investeerimisühing teavitab tõsisest info- ja kommunikatsioonitehnoloogiaga seotud intsidendist inspektsiooni ning Riigi Infosüsteemi Ametit Euroopa Parlamendi ja nõukogu määruse (EL) 2022/2554 artiklis 19 sätestatu kohaselt.
+
+(2) Investeerimisühing kasutab käesoleva paragrahvi lõikes 1 sätestatud juhul esialgse teate ja raportite edastamisel Euroopa Parlamendi ja nõukogu määruse (EL) 2022/2554 artikli 20 alusel kehtestatud teavitusvorme ja lähtub kehtestatud tähtaegadest, välja arvatud juhul, kui tehnilistel põhjustel ei ole võimalik esialgset teadet edastada asjakohast vormi kasutades.
+
+(3) Kui investeerimisühing otsustab Euroopa Parlamendi ja nõukogu määruse (EL) 2022/2554 artikli 19 lõike 2 kohaselt teavitada inspektsiooni olulisest küberohust, edastab ta teavituse ühtlasi Riigi Infosüsteemi Ametile.
+
+\[RT I, 11.10.2024, 1 - jõust. 17.01.2025\]
+
+##### § 83. Sisekontrolli süsteem
+
+(1) Investeerimisühingus peab pidevalt toimima sisekontrolli süsteem, mis on proportsionaalne tema tegevuse laadi, ulatuse ja keerukuse astmega ning mis tagab ühingu juhtimise heade tavade järgimise.
+
+(2) Investeerimisühingu sisekontrolli süsteem peab hõlmama kõiki investeerimisühingu juhtimis- ja tegevustasandeid, et tagada ühingu tegevuse tõhusus, finantsaruandluse usaldatavus ning vastavus seadustele ja muudele õigusaktidele, samuti investeerimisühingu juhtimisorganite kinnitatud dokumentidele, sealhulgas tagada otsuste vastuvõtmine usaldusväärse ja asjakohase teabe alusel.
+
+(3) Sisekontrolli süsteem koosneb vastavuskontrollifunktsioonist ning vajaduse korral siseauditi- ja riskikontrollifunktsioonist (edaspidi koos *sisekontrollifunktsioonid*). Sisekontrollifunktsioonid peavad olema organisatsiooniliselt sõltumatud ja lahutatud riskide võtmisega seotud tegevustest.
+
+(4) Sisekontrollifunktsioonide täitjad peavad:
+
+1\) tagama kõigi oluliste riskide nõuetekohase tuvastamise, mõõtmise ja neist teavitamise;
+
+2\) andma ülevaate kõigi riskide kohta, millele investeerimisühing on avatud.
+
+(5) Siseauditifunktsiooni ei või kombineerida investeerimisühingu ühegi muu äriliini ega kontrollifunktsiooniga.
+
+(6) Vastavuskontrollifunktsiooni võib kombineerida mõne muu kontrolli tegeva üksuse funktsiooniga, kui see on proportsionaalne investeerimisühingu tegevuse laadi, ulatuse ja keerukuse astmega ega mõjuta vastavuskontrolli tegija sõltumatust ja suutlikkust täita oma ülesandeid.
+
+(7) Täpsemad siseauditi, riski- ja vastavuskontrolli nõuded on sätestatud komisjoni delegeeritud määruse (EL) nr 2017/565 artiklites 22–24.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+##### § 83<sup>1</sup>. Vastavuskontrolli funktsioon
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 83<sup>2</sup>. Siseauditi üksus
+
+\[RT I, 09.05.2014, 2 - jõust. 19.05.2014\]
+
+(1) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) Komisjoni delegeeritud määruse (EL) nr 2017/565 artiklis 24 sätestatud siseauditi üksuse ülesannete täitja ja temaga sõlmitava lepingu tingimused määrab investeerimisühingu nõukogu. Siseauditi üksuse ülesannete täitjale kohaldatakse audiitortegevuse seaduses atesteeritud siseaudiitorile sätestatud nõudeid ja tegevuse õiguslikke aluseid.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(4) Investeerimisühingu juhatus peab tagama siseauditi üksuse ülesannete täitjale kõik tema ülesannete täitmiseks vajalikud õigused ja töötingimused, sealhulgas õiguse saada selgitusi ja teavet investeerimisühingu juhtidelt ning õiguse jälgida avastatud puuduste kõrvaldamist ja tehtud ettepanekute täitmist.
+
+\[RT I, 09.05.2014, 2 - jõust. 19.05.2014\]
+
+(5) Siseauditi üksuse ülesannete täitja on kohustatud talle investeerimisühingu kohta teatavaks saanud teabe, mis osutab õigusrikkumisele või klientide huvide kahjustamisele, edastama investeerimisühingu juhtidele ning inspektsioonile.
+
+\[RT I, 09.05.2014, 2 - jõust. 19.05.2014\]
+
+##### § 83<sup>3</sup>. Nõukogu ja riskikomitee kohustused seoses investeerimisühingu riskide käsitlemisega
+
+\[Kehtetu - RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+### 10. peatükk — INVESTEERIMISÜHINGU TEGEVUSELE ESITATAVAD NÕUDED
+
+#### § 84. Käesoleva peatüki kohaldamine
+
+(1) Käesolevas peatükis investeerimisühingule kehtestatud nõudeid kohaldatakse ka välisriigis registreeritud investeerimisühingutele, kes osutavad investeerimisteenuseid isikutele, kelle elu- või asukoht on Eestis, kui lepinguriigis registreeritud investeerimisühingu suhtes ei ole käesolevas seaduses sätestatud teisiti.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(2) Käesolevas peatükis investeerimisühingule kehtestatud nõudeid ei kohaldata käesoleva paragrahvi lõikes 1 nimetatud välisriigis registreeritud investeerimisühingutele, kes osutavad investeerimisteenuseid üksnes välisriigis ja kelle investeerimisteenuseid ei pakuta isikutele Eestis.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(3) Investeerimisteenused loetakse pakutuks isikutele Eestis, kui neid teenuseid reklaamitakse Eestis või kui nende pakkumise viisist või sisust, sealhulgas pakkumise keelest võib järeldada, et see on suunatud isikutele, kelle elu- või asukoht on Eestis.
+
+(4) Kui investeerimisteenust osutatakse osana muust finantsteenusest või tootest, millele kohaldatakse võlaõigusseaduse 22. peatüki 2. jaos sätestatud kliendi teavitamise nõudeid seoses tarbijakrediidilepinguga, ei kohaldata investeerimisteenuse osutamisele käesolevas peatükis sätestatud kliendi teavitamise nõudeid.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(5) Käesoleva seaduse §-s 87<sup>1</sup> sätestatut ei kohaldata, kui tarbijale osutatakse investeerimisteenust võlaõigusseaduse § 402 lõikes 2 nimetatud elamukinnisvaraga seotud tarbijakrediidilepingu eeltingimusena seoses võlakirjadega, mis on emiteeritud selle elamukinnisvara finantseerimise tagamiseks, selle elamukinnisvaraga seotud tarbijakrediidilepinguga samadel tingimustel ja eesmärgiga, et laen oleks väljamakstav, refinantseeritav või tagasimakstav.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 85. Investeerimisühingu tegevuse üldpõhimõtted
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1) Investeerimisühing on investeerimisteenuse ja kõrvalteenuse osutamisel kohustatud:
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+1\) osutama teenuseid õiguspäraselt, piisava asjatundlikkuse, täpsuse ja hoolikusega, lähtudes eelkõige oma kliendi parimatest huvidest;
+
+2\) arvestama oma tegevuses väärtpaberituru usaldusväärse ja korrapärase toimimisega;
+
+3\) järgima käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatut ning oma sise-eeskirju;
+
+4\) määrama kliendi kogemuse väärtpaberiturul tegutsemiseks ja teadlikkuse finantsturust ning kavandatavast investeerimisteenusest, võttes kliendi liigitamisel aluseks käesoleva seaduse §-des 46 ja 46<sup>1</sup> sätestatu;
+
+5\) teavitama klienti piisavalt investeerimisteenuse olemusest ja sellega seonduvatest riskidest;
+
+6\) hindama investeerimisteenuse ja väärtpaberi sobivust või asjakohasust kliendile;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+6<sup>1</sup>) tagama, et tema poolt müügi eesmärgil välja töötatud väärtpaber vastab selle väärtpaberi kindlaks määratud sihtrühma kuuluvate lõppklientide vajadustele vastavalt klientide liigitusele, väärtpaberi turustamisstrateegia vastab sihtrühmale ja väärtpaberit turustatakse üksnes sihtrühmale;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+6<sup>2</sup>) mõistma kliendile pakutavate või soovitatavate väärtpaberite omadusi, hindama väärtpaberi sihtrühma arvesse võttes selliste väärtpaberite vastavust kliendi vajadustele ja pakkuma või soovitama väärtpabereid üksnes siis, kui see on kooskõlas kliendi huvidega;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+7\) täitma kliendi korralduse parimal viisil ja käitlema kliendi korraldust vastavalt käesolevas seaduses ning selle alusel kehtestatud õigusaktides sätestatule;
+
+8\) hoidma ja kaitsma kliendi raha ja väärtpabereid, mis on antud investeerimisühingule hoiule või tema käsutusse;
+
+9\) andma kliendile regulaarselt teavet investeerimisteenuse osutamisest;
+
+10\) registreerima ja säilitama investeerimisteenuse osutamisel kogutud ja käesoleva seadusega ning selle alusel kehtestatud õigusaktidega ja komisjoni määrusega (EÜ) nr 1287/2006 registreerimiseks ning säilitamiseks nõutud andmeid;
+
+11\) lahendama kliendi kaebuse seoses investeerimisteenuse osutamisega võimalikult kiiresti ja läbipaistvalt;
+
+12\) tagama oma tegevuseks vajalike finantsvahendite pideva olemasolu;
+
+13\) \[kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+14\) \[kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+(2) Kui investeerimisühing annab investeerimisnõustamise raames soovitusi vabatahtliku pensionifondi osakute kohta või kui ta tegutseb vabatahtliku pensionifondi osakute pakkumisel fondivalitseja või kontohalduri nimel, on ta kohustatud esitama vajaliku teabe ning hindama selliste osakute sobivust kliendile ja potentsiaalsele kliendile vastavalt kogumispensionide seaduses sätestatule.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) Kui investeerimisühing on Euroopa Parlamendi ja nõukogu määruse (EL) nr 1286/2014, mis käsitleb kombineeritud jae- ja kindlustuspõhiste investeerimistoodete (PRIIPid) põhiteabedokumente (ELT L 352, 09.12.2014, lk 1–23), artikli 4 punktis 3 nimetatud kombineeritud jae- ja kindlustuspõhise investeerimistoote koostaja või müüja sama artikli punktide 4 ja 5 tähenduses või kui ta annab soovitusi sellise toote kohta, on ta kohustatud järgima nimetatud määruses sätestatud nõudeid.
+
+\[RT I, 22.02.2017, 1 - jõust. 01.01.2018\]
+
+#### § 85<sup>1</sup>. Investeerimisteenuse osutamine teise investeerimisühingu vahendusel
+
+Teiselt investeerimisühingult kliendi nimel investeerimisteenuse või kõrvalteenuse osutamiseks korralduse saanud investeerimisühing võib tugineda korralduse edastanud investeerimisühingu poolt kliendile teenuse või tehingu kohta antud soovitusele ning vastutab investeerimisteenuse või kõrvalteenuse osutamiseks antud korralduse täitmise eest. Korralduse edastanud investeerimisühing vastutab edastatud teabe õigsuse, täpsuse ja täielikkuse ning kliendile antud soovituse sobivuse eest.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 85<sup>2</sup>. Tasu või hüve seoses investeerimisteenuse või kõrvalteenuse osutamisega
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1) Investeerimisühing võib seoses investeerimisteenuse või kõrvalteenuse osutamisega anda rahalist või mitterahalist tasu või hüvet (edaspidi *tasu või hüve*) muule isikule kui klient või tema esindaja või saada seda muult isikult kui klient või tema esindaja üksnes juhul, kui selline tasu või hüve:
+
+1\) ei tekita oma olemuselt ega funktsioonist tulenevalt investeerimisühingu ja kliendi vahel huvide konflikti;
+
+2\) on ette nähtud kliendile osutatava teenuse kvaliteedi tõstmiseks;
+
+3\) ei takista investeerimisühingul osutada investeerimisteenuseid ausal, asjatundlikul ja kliendi parimatest huvidest lähtuval viisil.
+
+(2) Tasu või hüve on ette nähtud kliendile osutatava teenuse kvaliteedi tõstmiseks käesoleva paragrahvi lõike 1 punkti 2 tähenduses, kui selle teenuse osutamine ei ole tasu või hüve tulemusel kallutatud ega moonutatud ja tasu või hüve saamise või andmise perioodil on täidetud kõik järgmised tingimused:
+
+1\) tasu või hüve on õigustatud kliendile sellise täiendava või kõrgema taseme teenuse osutamisega, mille täiendav ulatus või kõrgem tase on tasu või hüvega vastavuses;
+
+2\) tasu või hüve ei too investeerimisühingule, tema aktsionäridele ega töötajatele otsest kasu, toomata tuntavat kasu kliendile;
+
+3\) tasu või hüve on õigustatud seetõttu, et jooksvalt saadav või antav tasu või hüve võimaldab pakkuda kliendile jooksvalt eelist.
+
+(3) Investeerimisühing tõendab, et investeerimisühingu antud või saadud tasu või hüve on ette nähtud kliendile osutatava teenuse kvaliteedi tõstmiseks, järgmiselt:
+
+1\) pidades nimekirja kõigist seoses investeerimisteenuse või kõrvalteenuse osutamisega kolmandale isikule antud või kolmandalt isikult saadud tasudest või hüvedest;
+
+2\) dokumenteerides põhjendused, kuidas antud, saadud või kavandatav tasu või hüve parandab kliendile osutatava teenuse kvaliteeti ning kuidas on tagatud, et tasu või hüve ei takista investeerimisühingul teenust osutada ausal, asjatundlikul ja kliendi parimatest huvidest lähtuval viisil.
+
+(4) Käesoleva paragrahvi lõike 2 punkti 1 tähenduses on täiendava või kõrgema taseme teenuse osutamine muu hulgas:
+
+1\) sellise investeerimisnõustamise teenuse osutamine, mis ei ole käesoleva seaduse § 87<sup>1</sup> lõike 2<sup>1</sup> tähenduses sõltumatu (edaspidi *sõltuv investeerimisnõustamine*) ja mis hõlmab laias valikus sobivaid väärtpabereid koos sellistele väärtpaberitele juurdepääsu võimaldamisega ning kui valikusse kuulub piisavalt väärtpabereid, mida pakkuval kolmandal isikul puudub investeerimisühinguga märkimisväärne seos;
+
+2\) sõltuv investeerimisnõustamine koos kliendile pakutava võimalusega vähemalt kord aastas hinnata soovitatud väärtpaberite, millesse klient on investeerinud, jätkuvat sobivust kliendile või koos muu, tõenäoliselt kliendile väärtusliku püsivalt osutatava teenusega, näiteks kliendi nõustamisega optimaalse varaklasside jaotuse kohta;
+
+3\) konkurentsivõimelise hinnaga juurdepääsu pakkumine laiale valikule väärtpaberitele, mis tõenäoliselt vastavad kliendi vajadustele, sealhulgas piisavale arvule sellise kolmanda isiku pakutavatele väärtpaberitele, kellel puudub investeerimisühinguga märkimisväärne seos, koos lisaväärtust andvate muude lahendustega, nagu objektiivsed teabevahendid, mis aitavad kliendil teha investeerimisotsuseid või võimaldavad kliendil jälgida, mudeldada ja kohandada talle kuuluvate väärtpaberite valikut, või regulaarselt esitatavad aruanded väärtpaberi tootluse ning väärtpaberiga seotud kulude ja tasude kohta.
+
+(5) Käesoleva paragrahvi lõikes 1 sätestatud tingimustega vastuolus olevana ei käsitata investeerimisteenuse osutamiseks vältimatult vajalikku tasu ega hüvet, nagu väärtpaberite hoidmise või haldamisega seotud tasu, arveldus- ja ülekandetasu, reguleeritud turuga seotud tasu, järelevalvetasu, riigilõiv, juriidilised tasud ja muud sarnased tasud, mis ei tekita oma olemusest tulenevalt investeerimisühingu ja kliendi vahel huvide konflikti investeerimisteenuste ausal, asjatundlikul ja kliendi parimatest huvidest lähtuval osutamisel.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 85<sup>3</sup>. Tavakliendi põhileping
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 85<sup>4</sup>. Tasu või hüve avaldamine kliendile
+
+(1) Investeerimisühing avaldab kliendile enne investeerimisteenuse või kõrvalteenuse osutamist arusaadavalt, õigesti, täpselt ja täielikult käesoleva seaduse § 85<sup>2</sup> lõikes 1 nimetatud tasu või hüve olemasolu, olemuse ja summa või tasu või hüve arvutamise metoodika, kui täpset summat ei ole võimalik kindlaks määrata, ning investeerimisühingu saadud tasu või hüve kliendile edastamise viisi, kui investeerimisühing on kohustatud saadud tasu või hüve kliendile üle andma.
+
+(2) Lisaks käesoleva paragrahvi lõikes 1 sätestatule avaldab investeerimisühing kliendile seoses investeerimisteenuse või kõrvalteenuse osutamisega antud või saadud mis tahes tasu või hüve kohta järgmise teabe, võttes arvesse käesoleva seaduse § 87 lõikes 2 ning komisjoni delegeeritud määruse (EL) nr 2017/565 artiklis 50 sätestatut, sealhulgas juhul, kui väärtpaberit turustab mitu investeerimisühingut:
+
+1\) antud või saadud tasu või hüve täpne summa juhul, kui investeerimisühing on eelnevalt kliendile avaldanud täpse summa puudumise korral tasu või hüve arvutamise metoodika;
+
+2\) individuaalne teavitus antud või saadud tasu või hüve tegeliku summa kohta vähemalt kord aastas jooksvalt saadava tasu või hüve saamise ajal.
+
+(3) Investeerimisteenuse või kõrvalteenuse osutamisega seoses antud või saadud väheolulised mitterahalised hüved võib avaldada üldistatult, muud mitterahalised hüved hinnastatakse ja avaldatakse eraldi.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 85<sup>5</sup>. Tasu või hüve sõltumatu investeerimisnõustamise või väärtpaberiportfelli valitsemise teenuse osutamisel
+
+(1) Investeerimisühingul on keelatud sõltumatu investeerimisnõustamise või väärtpaberiportfelli valitsemise teenuse osutamisel endale jätta muult isikult kui klient või tema esindaja saadud tasu või mis tahes hüvet, välja arvatud väheolulised mitterahalised hüved, mis on kooskõlas käesoleva seaduse § 85<sup>2</sup> lõikes 1 ning käesoleva paragrahvi lõigetes 4 ja 5 sätestatuga ning mis on kliendile selgesõnaliselt avaldatud enne vastava investeerimisteenuse või kõrvalteenuse osutamist. Investeerimisühingul on keelatud sõltumatu investeerimisnõustamise või väärtpaberiportfelli valitsemise teenuse osutamisel vastu võtta mitterahalisi hüvesid, mis ei vasta käesoleva lõike esimeses lauses sätestatud tingimustele.
+
+(2) Investeerimisühing annab sõltumatu investeerimisnõustamise või väärtpaberiportfelli valitsemise teenuse osutamisega seoses muult isikult kui klient või tema esindaja saadud kõik tasud või rahalised hüved kliendile üle täies ulatuses ja mõistliku aja jooksul pärast tasu või rahalise hüve saamist.
+
+(3) Investeerimisühing kehtestab korra ja rakendab seda, et tagada käesoleva paragrahvi lõikes 2 nimetatud tasude või hüvede kliendipõhine jaotamine ja üleandmine. Investeerimisühing teavitab klienti üleantavast tasust või hüvest regulaarselt esitatavate aruannete koosseisus või muul viisil.
+
+(4) Käesoleva paragrahvi lõikes 1 nimetatud väheoluline mitterahaline hüve peab olema mõistlik, proportsionaalne ja sellise kaaluga, et see tõenäoliselt ei mõjuta investeerimisühingut käituma kliendi huve kahjustaval viisil.
+
+(5) Väheolulise hüve andmine või saamine on lubatud üksnes juhul, kui selleks on:
+
+1\) investeerimisteenuse või väärtpaberiga seotud üldistatud või isikustatud teave või dokument;
+
+2\) kolmandalt isikult saadud, emitendi või potentsiaalse emitendi tellitud ja tasutud kirjalikud materjalid uue emissiooni turustamiseks või kui kolmas isik koostab regulaarselt selliseid materjale emitendiga sõlmitud kokkuleppe alusel ja emitendi kulul, tingimusel et materjalis on selline lepinguline suhe selgesõnaliselt avaldatud ning materjal tehakse samal ajal kättesaadavaks mis tahes selleks soovi avaldanud investeerimisühingule või avalikkusele;
+
+3\) osalemine konverentsil, seminaril ja muul koolitusel, kus käsitletakse investeerimisteenuse või väärtpaberi eeliseid ja omadusi;
+
+4\) elementaarne külalislahkus, nagu ärikohtumisel või käesoleva lõike punktis 3 nimetatud üritustel pakutav toit ja jook;
+
+5\) muu väheoluline mitterahaline hüve, mis võib parandada kliendile osutatava teenuse kvaliteeti ja investeerimisühingu ühe või mitme üksuse pakutavate hüvede kogutaset arvesse võttes tõenäoliselt ei takista oma olemuselt ega ulatuselt investeerimisühingul teenuseid osutada ausal, asjatundlikul ja kliendi parimatest huvidest lähtuval viisil.
+
+(6) Inspektsioon võib juhendiga piiritleda käesoleva paragrahvi lõike 5 punktis 5 nimetatud muu mitterahalise hüve lubatavuse eeltingimusi ja anda asjakohase näidisloetelu.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 85<sup>6</sup>. Kolmanda isiku analüüsiga seotud tasu või hüve
+
+(1) Analüüsi, mille kolmas isik koostab väärtpaberiportfelli valitsemise või muid investeerimis- või kõrvalteenuseid osutavale investeerimisühingule, ei käsitata tasu või hüvena käesoleva seaduse § 85<sup>2</sup> lõike 1 tähenduses, kui:
+
+1\) investeerimisühing ning korralduste täitmise teenust osutav ja analüüse koostav kolmas isik on sõlminud lepingu, milles on kindlaks määratud tasustamise metoodika, sealhulgas see, kuidas võetakse üldiselt investeerimisteenuste kogumaksumuse kindlaksmääramisel arvesse analüüsi kogukulusid;
+
+2\) investeerimisühing teavitab oma kliente sellest, kas ta otsustab korralduste täitmise teenuse ja kolmanda isiku koostatud analüüsi eest maksta ühismaksega või eraldi, ning teeb neile kättesaadavaks selle teenuse ja analüüsi eest tasumise põhimõtted, sealhulgas esitatava teabe liigi olenevalt investeerimisühingu valitud makseviisist ning asjakohasel juhul selle, kuidas investeerimisühing ennetab või haldab huvide konflikte vastavalt käesoleva seaduse §-s 82<sup>4</sup> sätestatule, kui ta maksab korralduste täitmise teenuse ja kolmanda isiku koostatud analüüsi eest ühismaksega;
+
+3\) investeerimisühing hindab kasutatud analüüsi kvaliteeti, kasutatavust ja väärtust ning seda, kuidas see analüüs aitab kaasa paremate investeerimisotsuste tegemisele, igal aastal;
+
+4\) korralduste täitmise teenuse ja kolmanda isiku koostatud analüüsi eest eraldi maksmisel tasutakse analüüsi eest kas investeerimisühingu poolt ja tema kulul tehtavate otseste maksetega või maksetega investeerimisühingu kontrollitavalt eraldiseisvalt analüüsimaksete kontolt (edaspidi *analüüsimaksete konto*).
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(1<sup>1</sup>) Analüüsi, mille investeerimisühing saab analüüsi koostajalt, kes ei osuta korralduste täitmise teenust ega kuulu korralduste täitmise või maakleriteenuseid pakkuva investeerimisühinguga samasse konsolideerimisgruppi, ei käsitata tasu või hüvena käesoleva seaduse § 85<sup>2</sup> lõike 1 tähenduses. Sellisel juhul järgib investeerimisühing käesoleva paragrahvi lõike 1 punktis 3 sätestatud nõuet.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(1<sup>2</sup>) Investeerimisühing dokumenteerib talle koostatud kolmanda isiku analüüsidele omistatavad kogukulud, kui need on investeerimisühingule teada, ja teeb taotluse korral selle teabe oma klientidele kättesaadavaks igal aastal.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(2) Analüüsimaksete konto haldamisel peavad olema täidetud järgmised tingimused:
+
+1\) analüüsimaksete konto vahendid laekuvad kliendilt analüüsi eest saadud eriotstarbelise tasu (edaspidi *analüüsitasu*) arvelt, mis vastab käesoleva paragrahvi lõikes 3 sätestatud tingimustele;
+
+2\) investeerimisühing koostab konto avamise ja kliendilt analüüsitasu nõudmisega seoses sisemise kontrollimeetmena analüüsi eelarve ning vaatab selle regulaarselt üle;
+
+3\) investeerimisühing vastutab analüüsimaksete konto eest.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(3) Hinnanguline analüüsitasu võib põhineda üksnes analüüsi eelarvel, mille investeerimisühing koostab oma klientidele investeerimisteenuste osutamiseks vajaliku kolmanda isiku koostatud analüüsi jaoks, ning seda ei või siduda kliendi nimel täidetud tehingute arvu ega väärtusega.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(4) Analüüsimaksete konto kasutamisel esitab investeerimisühing enne investeerimisteenuse osutamist kliendile teabe eelarves analüüsidele ettenähtud vahendite ja kliendilt nõutava hinnangulise analüüsitasu kohta ning üks kord aastas teabe investeerimisühingu kogukulu kohta seoses kolmanda isiku analüüsidega.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(5) Investeerimisühing, kes otsustab maksta korralduste täitmise teenuse ja analüüsi eest eraldi ning on kasutusele võtnud analüüsimaksete konto, esitab kliendi või inspektsiooni nõudmisel kõik järgmised andmed:
+
+1\) analüüsimaksete kontolt rahastatud analüüside koostajate loetelu;
+
+2\) kindlaks määratud perioodil käesoleva lõike punktis 1 nimetatud analüüside koostajatele tehtud maksete kogusumma;
+
+3\) käesoleva lõike punktis 1 nimetatud analüüsi koostajatelt investeerimisühingule antud hüved ja osutatud teenused;
+
+4\) analüüsimaksete kontolt tehtud maksete kogusumma võrdlus investeerimisühingu selleks perioodiks kehtestatud analüüsi eelarvega ja nimetatud kontol oleva vahendite ülejäägi korral teave vahendite tagastamise või järgmisse perioodi ülekandmise kohta.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(6) Käesoleva paragrahvi lõikes 5 nimetatud investeerimisühing esitab iga analüüsitasu kogumise korra kohta eraldi analüüsitasu ning ta peab täielikult täitma käesoleva paragrahvi lõigetes 2 ja 4 sätestatud tingimusi.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(7) Käesoleva paragrahvi lõikes 5 nimetatud investeerimisühingu saadud analüüsitasude kogusumma ei või ületada tema koostatud analüüsi eelarvet.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(8) Käesoleva paragrahvi lõikes 5 nimetatud investeerimisühing määrab kokkuleppel kliendiga analüüsi eelarvel põhineva analüüsitasu ja selle nõudmise sageduse aasta kohta. Analüüsi eelarvet võib suurendada üksnes pärast klientide sellisest kavatsusest selget teavitamist. Investeerimisühing kehtestab korra, mille kohaselt investeerimisühing maksab arvestusperioodi lõpus analüüsimaksete konto ülejäägi kliendile tagasi või tasaarvestab selle järgmise perioodi eelarve alusel kindlaks määratud analüüsitasu arvelt.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(9) Käesoleva paragrahvi lõikes 5 nimetatud investeerimisühing vastutab ainuisikuliselt analüüsi eelarve haldamise eest. Analüüsi eelarve põhineb kolmanda isiku koostatud analüüsi vajaduse mõistlikul hindamisel. Analüüsi eelarvest kolmanda isiku koostatud analüüside ostmiseks vajalike vahendite eraldamisel rakendab investeerimisühing kontrolli ja investeerimisühingu juhtide järelevalvet, mida peetakse objektiivselt kohaseks, et tagada eelarve haldamine ja kasutamine kliendi parimates huvides. Sellise kontrolli tegemiseks säilitab investeerimisühing muu hulgas analüüsi koostajatele analüüsi eest tehtud makseid tõendavad andmed ja andmed selle kohta, kuidas makstavad summad käesoleva paragrahvi lõike 11<sup>1</sup> esimeses lauses nimetatud kvaliteedikriteeriume arvesse võttes kindlaks määrati. Investeerimisühingul on keelatud kasutada analüüsi eelarvet ja analüüsimaksete kontot investeerimisühingu koostatud analüüside rahastamiseks.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(10) Analüüsimaksete konto haldamise võib edasi anda kolmandale isikule tingimusel, et see lihtsustab kolmanda isiku koostatud analüüside ostu ja analüüsi koostajale tasu maksmist põhjendamatu viivituseta investeerimisühingu nimel ja korraldusel.
+
+(11) \[Kehtetu - RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(11<sup>1</sup>) Olenemata sellest, kuidas investeerimisühing tasub korralduste täitmise teenuse ja analüüsi eest, põhineb käesoleva paragrahvi lõike 1 punktis 3 nimetatud iga-aastane analüüsi hindamine usaldusväärsetel kvaliteedikriteeriumidel, mis võimaldavad investeerimisühingul objektiivselt hinnata analüüsi kvaliteeti, kasutatavust ja väärtust ning seda, kuidas see analüüs aitab kaasa paremate investeerimisotsuste tegemisele. Investeerimisühing võtab kasutusele vajalikud meetmed, kui hindamised näitavad analüüsi kvaliteedi, kasutatavuse või väärtuse puudumist või kui analüüs ei aita kaasa paremate investeerimisotsuste tegemisele.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(12) Investeerimisühing määrab kindlaks eraldi tasu väärtpaberiga seotud korralduse täitmise teenuse osutamise eest, milles kajastab üksnes korralduse täitmisega seotud kulud. Investeerimisühingu poolt lepinguriigi investeerimisühingule antud tasu hüve või osutatud teenuse eest või lepinguriigi investeerimisühingult saadud tasu hüve või teenuse eest määratakse kindlaks eraldi, sealjuures ei tohi sellise hüve andmine, teenuse osutamine ega tasu nende eest sõltuda korralduse täitmise tasu maksmise tasemest ega olla sellest mõjutatud.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(13) \[Kehtetu - RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(14) Analüüs käesoleva paragrahvi ja käesoleva seaduse § 85<sup>8</sup> tähenduses on analüüsimaterjal või teenus:
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+1\) mis on seotud ühe või mitme väärtpaberi või muu varaga või väärtpaberi emitentide või potentsiaalsete emitentidega või mis on tihedalt seotud konkreetse tööstusharu või turuga, nii et see annab teavet selle tööstusharu või turu väärtpaberite, varade või emitentide kohta;
+
+2\) milles otseselt või kaudselt soovitatakse investeerimisstrateegiat ning milles esitatakse põhjendatud arvamus väärtpaberi või vara praeguse või tulevase väärtuse või hinna kohta või mis sisaldab analüüsi ja algupäraseid seisukohti ning uue või olemasoleva teabe põhjal tehtud järeldusi, mida võidakse kasutada investeerimisstrateegia kujundamisel ning mis võib olla asjakohane ja anda lisaväärtust otsustele, mille investeerimisühing teeb analüüsi eest maksvate klientide nimel.
+
+\[RT I, 29.03.2022, 3 - jõust. 30.03.2022\]
+
+(15) Käesoleva paragrahvi ja käesoleva seaduse § 85<sup>8</sup> tähenduses ei käsitata analüüsina kauplemiskommentaare ega muid sihipäraseid kauplemise nõustamise teenuseid, mis on lahutamatult seotud väärtpaberitehingu tegemisega.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+#### § 85<sup>7</sup>. Tasu või hüve seoses korralduse edastamisega
+
+\[Kehtetu - RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+#### § 85<sup>8</sup>. Investeerimisühingu või kolmanda isiku koostatud analüüs
+
+(1) Investeerimisühingu või kolmanda isiku koostatud analüüs, mida investeerimisühing, selle kliendid või potentsiaalsed kliendid kasutavad või mida neile levitatakse, peab olema õiglane ja selge ning ei tohi olla eksitav. Analüüs peab olema sellisena või sarnase nimetuse kaudu selgelt tuvastatav, tingimusel et kõik analüüsi suhtes kohaldatavad komisjoni delegeeritud määruse (EL) 2017/565 tingimused on täidetud.
+
+(2) Investeerimisühing, kes osutab väärtpaberiportfelli valitsemise või muid investeerimis- või kõrvalteenuseid, peab tagama, et analüüs, mida ta klientidele või potentsiaalsetele klientidele levitab ja mille eest on täielikult või osaliselt maksnud emitent, nimetatakse emitendi rahastatud analüüsiks üksnes siis, kui see on koostatud kooskõlas emitendi rahastatud analüüsi käsitleva Euroopa Liidu tegevusjuhendiga, mis on kehtestatud Euroopa Parlamendi ja nõukogu direktiivi 2014/65/EL artikli 24 lõike 3c alusel Euroopa Väärtpaberiturujärelevalve Asutuse välja töötatud regulatiivsete tehniliste standarditega (edaspidi käesolevas paragrahvis *tegevusjuhend*).
+
+(3) Emitendi rahastatud analüüsiks nimetatud analüüsi esilehel peab olema selgelt ja nähtavalt märgitud, et see on koostatud kooskõlas tegevusjuhendiga. Mis tahes muu analüüsimaterjal, mille eest on täielikult või osaliselt maksnud emitent, kuid mis ei ole koostatud kooskõlas tegevusjuhendiga, tuleb nimetada reklaamteateks.
+
+(4) Investeerimisühingul, kes koostab või levitab emitendi rahastatud analüüse, peab olema organisatsiooniline kord tagamaks, et sellised analüüsid on koostatud kooskõlas tegevusjuhendiga ning need vastavad käesoleva paragrahvi lõigetele 1–3.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+#### § 86. Kliendi teavitamine
+
+(1) Investeerimisühingu kliendil on õigus tutvuda kõikide kohustuslikule avalikustamisele kuuluvate andmetega ja investeerimisühing on kohustatud kliendi nõudmisel need temale esitama.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(2) Investeerimisühingu poolt kliendile ja potentsiaalsele kliendile avaldatav teave peab olema arusaadav, õigeaegne, täpne ja täielik.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(3) Teave osutatava investeerimisteenuse ning sellega seotud väärtpaberi olemuse ja riskide kohta vastavalt käesoleva seaduse §-s 87 sätestatule ning investeerimisühingu poolt seoses investeerimisteenuse või kõrvalteenuse osutamisega antud või saadud rahalise või mitterahalise tasu või hüve kohta vastavalt §-des 85<sup>2</sup>–85<sup>6</sup> sätestatule tuleb esitada kujul, mis võimaldab kliendil ja potentsiaalsel kliendil mõista investeerimisteenuse või pakutava väärtpaberi olemust ja sellega seotud riske ning teha igakülgselt kaalutud investeerimisotsuse. Seejuures ei ole lubatud rõhutada investeerimisteenusest või väärtpaberist saadavat võimalikku kasu, kui samal ajal ei viidata selgelt selle investeerimisteenusega või väärtpaberiga seotud riskidele.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(4) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(5) Investeerimisühing on kohustatud kliendi või potentsiaalse kliendi nõudmisel andma talle teavet:
+
+1\) investeerimisühingus olulist osalust omavate aktsionäride (juriidilise isiku puhul vähemalt ärinimi ja registrikood selle olemasolul, füüsilise isiku puhul vähemalt ees- ja perekonnanimi ning isikukood või selle puudumisel sünniaeg) ja nende osaluse suuruse kohta investeerimisühingu aktsiakapitalis;
+
+2\) investeerimisühingu juriidilise vormi, organisatsioonilise ülesehituse ja majandusaasta aruande kättesaadavuse kohta;
+
+3\) investeerimisühingu juhtide kohta (ees- ja perekonnanimi, isikukood või selle puudumisel sünniaeg, hariduse kirjeldus, viimase viie aasta töö- ja ametikohtade täielik loetelu);
+
+4\) investeerimisühingu juhatuse liikmete ülesannete kohta investeerimisühingus;
+
+5\) osutatavate investeerimisteenuste ja kõrvalteenuste kohta.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(6) Investeerimisühing esitab kliendile või potentsiaalsele kliendile kogu käesolevas seaduses esitamiseks nõutava teabe elektrooniliselt. Klient või potentsiaalne klient, kes ei ole kutseline investor, võib nõuda teabe tasuta esitamist paberil.
+
+\[RT I, 29.03.2022, 3 - jõust. 30.03.2022\]
+
+(7) Investeerimisühing, kes annab klientidele edaspidi teavet üksnes elektroonilisel teabekandjal, peab kliente, kes ei ole kutselised investorid ja kes on seni saanud teavet paberil, teavitama sellisest muutusest vähemalt kaheksa nädalat ette. Seejuures on investeerimisühing kohustatud eelnimetatud kliente teavitama:
+
+1\) nende õigusest saada edaspidi teavet paberil, juhul kui nad seda soovivad;
+
+2\) sellest, et kui nad teavitamisest kaheksa nädala jooksul ei avalda soovi saada teavet paberil, hakatakse seda automaatselt saatma elektrooniliselt.
+
+\[RT I, 29.03.2022, 3 - jõust. 30.03.2022\]
+
+#### § 87. Teavitamine teenuste osutamisel
+
+(1) Teenuste osutamisel on investeerimisühing kohustatud:
+
+1\) teavitama klienti ja potentsiaalset klienti tema käsitamisest teatud liiki kliendina ning nõudma kliendilt ja potentsiaalselt kliendilt teavet osutatava investeerimisteenuse ja kõrvalteenusega seotud teadmiste või kogemuste ning teenuse osutamisega seotud eesmärkide ja asjaolude kohta;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+2\) esitama kliendile ja potentsiaalsele kliendile kogu asjakohase teabe kavatsetavate tehingute ning nendega seotud riskide kohta, arvestades kliendi ja potentsiaalse kliendi huve ja asjatundlikkust ning kavatsetavate tehingute liiki ja mahtu;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+3\) esitama kliendile ja potentsiaalsele kliendile teabe investeerimisteenuse ning kõrvalteenuse osutamisega seotud väärtpaberi ja kavandatud investeerimisstrateegia kohta, sealhulgas juhised ja hoiatused sellise väärtpaberi ja investeerimisstrateegiaga seotud riskide kohta, ning teavitama, kas väärtpaber on mõeldud tavakliendile või asjatundlikule kliendile, lähtudes sellele väärtpaberile määratud sihtrühmast;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+4\) esitama kliendile ja potentsiaalsele kliendile teabe korralduste täitmise kohtadest;
+
+5\) esitama kliendile ja potentsiaalsele kliendile teabe teenusega seotud kulust ja tasudest;
+
+6\) teavitama klienti ja potentsiaalset klienti kohaldatavast investori kaitse skeemist;
+
+7\) teavitama klienti olukorrast, kus kliendi tehingukorralduse alusel tehtud tehingu teiseks pooleks on ta ise, kui investeerimisühing ja klient ei ole kirjalikus või kirjalikku taasesitamist ja isiku identifitseerimist võimaldavas vormis ning selgesõnaliselt kokku leppinud teisiti;
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+8\) andma kliendi nõudmisel, kuid vähemalt üks kord kolme kuu jooksul, teavet väärtpaberiportfelli valitsemisel kliendi varadega tehtud tehingute, vara väärtuse, väärtpaberiportfelli koosseisu ja muude teenuse osutamisega seotud asjaolude kohta.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(2) Käesoleva paragrahvi lõike 1 punktis 5 nimetatud teave esitatakse nii investeerimisteenuse kui ka kõrvalteenuse kohta ja see peab hõlmama nõustamistasu, kliendile soovitatud või turustatud väärtpaberi maksumust ja viise, kuidas klient saab teenuse eest tasuda, ning mis tahes kolmandate isikute makseid. Teave kõigi kulude ja tasude kohta, sealhulgas seoses teenuse ning väärtpaberiga, mida ei ole põhjustanud tururiski realiseerumine, esitatakse koondatult või kliendi nõudel loeteluna, et klient võiks mõista kogukulu ja selle kumulatiivset mõju investeeringu tootlusele. Kui see on asjakohane, esitatakse nimetatud teave kliendile vähemalt kord aastas investeeringu kestuse ajal.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2<sup>1</sup>) Kui väärtpaberi ostmise või müümise kokkulepe sõlmitakse sidevahendi abil, mis ei võimalda eelnevalt anda teavet kulude ja tasude kohta, võib investeerimisühing esitada nimetatud teabe viivitamata pärast tehingu sõlmimist, kui on täidetud järgmised tingimused:
+
+1\) klient annab nõusoleku saada teavet põhjendamatu viivituseta pärast tehingu sõlmimist;
+
+2\) investeerimisühing annab kliendile võimaluse lükata tehingu tegemine teabe saamiseni edasi;
+
+3\) avaldatav teave vastab käesoleva seaduse § 86 lõikes 2 nimetatud nõuetele;
+
+4\) investeerimisühing annab kliendile võimaluse saada enne tehingu sõlmimist teavet telefoni teel.
+
+\[RT I, 29.03.2022, 3 - jõust. 30.03.2022\]
+
+(3) Kui investeerimisühing osutab investeerimisteenust teise teenuse või tootega samas paketis või paketi või lepingu tingimusena, teavitab investeerimisühing klienti, kas paketti kuuluvaid teenuseid on võimalik osutada või tooteid osta eraldi, ning esitab teabe paketi iga osaga seotud kulude ja tasude kohta. Kui tavakliendile pakutava paketi või lepinguga seotud riskid tõenäoliselt erinevad sellisesse paketti kuuluvate teenuste või toodetega seotud riskidest, kirjeldab investeerimisühing sellise paketi või lepingu vastavaid teenuseid ja tooteid ning seda, kuidas nende paketina pakkumine mõjutab nendega seotud riske.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(4) Investeerimisühing teavitab klienti piisava ajavaruga enne investeerimisnõustamist sellest, kas:
+
+1\) investeerimisnõustamine on sõltumatu;
+
+2\) investeerimisnõustamine põhineb eri liiki väärtpaberite laiemal või piiratumal analüüsil, sealhulgas juhul, kui investeerimisnõustamine põhineb ainult investeerimisühingu ja temaga märkimisväärses seoses või muus, sealhulgas lepingulises õigussuhtes oleva isiku emiteeritud või pakutavate väärtpaberite analüüsil, mis võib ohtu seada investeerimisnõustamise sõltumatuse;
+
+3\) investeerimisühing hindab kliendile soovitatud teenuse või väärtpaberi sobivust regulaarselt.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(5) Investeerimisnõustamisel esitab investeerimisühing kliendile enne tehingu tegemist püsival andmekandjal sobivuse hinnangu, milles kirjeldatakse kliendile antud isiklikku soovitust, selle vastavust tavakliendi eelistustele, investeerimiseesmärkidele ja muudele näitajatele. Kui sobivuse hinnangut ei ole võimalik kliendile esitada enne sidevahendi abil tehtud tehingut, võib sobivuse hinnangu esitada püsival andmekandjal viivitamata pärast tehingu tegemist, kui on täidetud järgmised tingimused:
+
+1\) investeerimisühing on pakkunud kliendile võimalust tehing sobivuse hinnangu esitamiseni edasi lükata;
+
+2\) klient on andnud nõusoleku sobivuse hinnangu esitamiseks viivitamata pärast tehingu tegemist.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 87<sup>1</sup>. Investeerimisteenuse ja väärtpaberi sobivuse ning asjakohasuse hindamine
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1) Investeerimisühing peab enne investeerimisteenuse osutamist hindama vastava teenuse ja väärtpaberi sobivust või asjakohasust kliendile ja potentsiaalsele kliendile.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) Investeerimisnõustamise või väärtpaberiportfelli valitsemise teenuse osutamisel kliendile ja potentsiaalsele kliendile sobiva investeerimisteenuse ja väärtpaberi soovitamiseks peab investeerimisühing omandama enne teenuse osutamist vajaliku teabe isiku teadmiste ning kogemuste kohta seoses konkreetse teenuse liigiga ja väärtpaberiga, rahalise olukorra kohta, sealhulgas kahjumi kandmise võime ning investeerimiseesmärkide, sealhulgas riskitaluvuse kohta. Nimetatud teave peab investeerimisühingul võimaldama soovitada kliendile või potentsiaalsele kliendile investeerimisteenust või väärtpaberit, mis on talle sobiv ning mis eelkõige vastab tema kahjumi kandmise võimele ja riskitaluvusele.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2<sup>1</sup>) Kliendile sõltumatu investeerimisnõustamise teenuse osutamiseks hindab investeerimisühing piisaval määral turul kättesaadavaid eri tüüpi ja eri isikute emiteeritud või pakutavaid väärtpabereid, piirdumata seejuures üksnes investeerimisühingu ning temaga märkimisväärses seoses või muus, sealhulgas lepingulises õigussuhtes oleva isiku emiteeritud või pakutavate väärtpaberitega.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2<sup>2</sup>) Kui investeerimisühing osutab investeerimisnõustamise või väärtpaberiportfelli valitsemise teenuseid, mis sisaldavad ühe väärtpaberi müümise ja teise ostmise või olemasoleva väärtpaberi muutmise õiguse kasutamise teenust (edaspidi *väärtpaberi vahetamine*), hangib investeerimisühing vajalikku teavet kliendi investeeringu kohta ja analüüsib väärtpaberi vahetamise kulu ja tulu. Investeerimisnõustamise korral annab investeerimisühing kliendile sealjuures teada, kas väärtpaberi vahetamisest saadav tulu on suurem kui kulu.
+
+\[RT I, 29.03.2022, 3 - jõust. 30.03.2022\]
+
+(3) Muude investeerimisteenuste kui investeerimisnõustamise ja väärtpaberiportfelli valitsemise teenuse osutamise korral on investeerimisühing kohustatud asjakohasuse hindamiseks kindlaks tegema, kas kliendil on vajalikud teadmised ja kogemused investeerimisvaldkonnas, mis on seotud konkreetse toote või osutatava või kliendi poolt nõutava investeerimisteenuse liigiga.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(4) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(5) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(6) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(7) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(8) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(9) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(10) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(11) Investeerimisühing hoiatab klienti, kui investeerimisühing leiab saadud andmete alusel, et toode või teenus ei ole kliendi jaoks asjakohane.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(12) Investeerimisühing hoiatab klienti ja potentsiaalset klienti, et asjakohasuse hindamiseks vajaliku teabe esitamata jätmise või ebapiisava teabe esitamise korral on investeerimisühingul raske või võimatu kindlaks teha, kas soovitud investeerimisteenus või väärtpaber on kliendi jaoks asjakohane.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(12<sup>1</sup>) Käesoleva paragrahvi lõigetes 11 ja 12 nimetatud hoiatuse võib esitada standardiseeritud kujul.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(13) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(14) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(15) Käesoleva seaduse § 87 lõikes 3 nimetatud teenuste või toodete paketi soovitamisel või pakkumisel hindab investeerimisühing kogu paketi sobivust või asjakohasust kliendile ja potentsiaalsele kliendile.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 87<sup>2</sup>. Sobivuse ja asjakohasuse hindamata jätmine teatud investeerimisteenuse puhul
+
+(1) Investeerimisteenuse või väärtpaberi asjakohasust ei pea hindama käesoleva seaduse § 43 lõike 1 punktis 1 või 2 sätestatud investeerimisteenuse osutamisel koos kõrvalteenuse osutamisega või ilma selleta, välja arvatud § 44 punktis 2 nimetatud kõrvalteenus, mis ei hõlma kliendi laenu, arvelduskonto ja arvelduskrediidi olemasolevaid krediidilimiite, kui on täidetud kõik järgmised tingimused:
+
+1\) investeerimisteenuse või kõrvalteenuse osutamine on seotud vähem keerukate väärtpaberitega;
+
+2\) investeerimisteenust või kõrvalteenust osutatakse kliendi või potentsiaalse kliendi algatusel;
+
+3\) investeerimisühing on klienti või potentsiaalset klienti selgesõnaliselt hoiatanud, et käesolevas lõikes sätestatud tingimustel ei hinda investeerimisühing pakutava väärtpaberi ja teenuse asjakohasust ning selle tagajärjel võivad kliendi huvid olla vähem kaitstud.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1<sup>1</sup>) Vähem keerukad väärtpaberid käesoleva seaduse tähenduses on:
+
+1\) reguleeritud turule või samaväärsele kolmanda riigi turule või mitmepoolsesse kauplemissüsteemi kauplemisele võetud tuletisinstrumenti mittesisaldav äriühingu või eurofondi aktsia;
+
+2\) reguleeritud turule või samaväärsele kolmanda riigi turule või mitmepoolsesse kauplemissüsteemi kauplemisele võetud tuletisinstrumenti mittesisaldav võlakiri, mille struktuur ei raskenda sellega seotud riskide mõistmist, või muu sellise võlakirjaga samaväärne võlakohustus;
+
+3\) tuletisinstrumenti mittesisaldav rahaturuinstrument, mille struktuur ei raskenda sellega seotud riskide mõistmist;
+
+4\) eurofondi aktsia või osak, välja arvatud struktureeritud eurofondi aktsia või osak komisjoni määruse (EL) nr 583/2010, millega rakendatakse Euroopa Parlamendi ja nõukogu direktiivi 2009/65/EÜ seoses investorile esitatava põhiteabega ja tingimustega, mida tuleb täita investorile esitatava põhiteabe või prospekti esitamisel veebilehel või muul püsival andmekandjal kui paberil (ELT L 176, 10.07.2010, lk 1–15), artikli 36 lõike 1 tähenduses;
+
+5\) krediidiasutuste seaduse § 89<sup>1</sup> lõikes 2 nimetatud investeerimisriskiga hoius, mille struktuur ei raskenda tootlusega seotud riski ja hoiuse ennetähtaegse sulgemisega seotud kulude mõistmist;
+
+6\) muud vähem keerukad väärtpaberid komisjoni delegeeritud määruse (EL) nr 2017/565 artikli 57 tähenduses.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) Käesoleva paragrahvi lõike 1<sup>1</sup> punktides 1 ja 2 nimetatud kolmanda riigi reguleeritud turuna käsitatakse turgu, mille kohta Euroopa Komisjon on vastu võtnud samaväärsust kinnitava otsuse. Sellise otsuse puudumise korral taotleb inspektsioon Euroopa Komisjonilt otsuse vastuvõtmist selle kolmanda riigi turu samaväärsuse kohta, märkides taotluses, miks võib hinnata kolmanda riigi õiguskorda ja järelevalve korraldust samaväärseks.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2<sup>1</sup>) Käesoleva paragrahvi lõike 2 teises lauses sätestatud juhul võib inspektsioon kolmanda riigi õiguskorda ja järelevalve korraldust hinnata samaväärseks, kui on täidetud vähemalt järgmised tingimused:
+
+1\) kolmandas riigis tegutsevale turu korraldajale kohaldatakse tegevusloa nõuet ja tema üle teostatakse pidevat järelevalvet;
+
+2\) kolmandas riigis tegutsevatel turgudel väärtpaberite kauplemisele võtmisele kehtivad selged ja läbipaistvad reeglid ning kauplemisele võetud väärtpaberitega on võimalik kaubelda õiglaselt ja korrapäraselt ning väärtpaberid on vabalt kaubeldavad;
+
+3\) emitentidele kohaldatakse perioodilise ja igakordse teabe avaldamise nõudeid, et tagada investorikaitse kõrge tase;
+
+4\) turu läbipaistvus ja terviklikkus on tagatud turukuritarvituse keelamisega.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 87<sup>3</sup>. Kliendi korralduse parim täitmine
+
+(1) Investeerimisühing kehtestab ja rakendab õiguslikud, tehnilised ja organisatsioonilised meetmed kliendi korralduse parimaks täitmiseks. Investeerimisühing määrab sise-eeskirjadega kliendi korralduste parima täitmise korra ja reeglid.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(2) Investeerimisühing täidab kliendi korralduse kliendi jaoks parimal võimalikul viisil, järgides investeerimisühingus kehtivaid kliendi korralduste parima täitmise reegleid, arvestades korralduse täitmise hinda, kulusid, kiirust, täitmise ja arveldamise tõenäosust, korralduse suurust, olemust ja muid korralduse täitmisega seotud asjaolusid. Kui klient on korralduse täitmiseks andnud konkreetse juhendi, järgib investeerimisühing korralduse täitmisel üksnes kliendi juhendit.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(3) Investeerimisühing on kliendi nõudmisel kohustatud kliendile tõendama, et investeerimisühing on kliendi korralduse täitnud kooskõlas investeerimisühingus kehtivate kliendi korralduste parima täitmise reeglitega.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(4) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(5) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(6) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(7) Kui investeerimisühing täidab tavakliendi nimel korraldust, määratakse parim võimalik tulemus kogumaksumuse alusel, mis koosneb väärtpaberi hinnast ja täitmisega seotud kuludest, mille hulka kuuluvad kõik kliendi poolt kantud korralduse täitmisega otseselt seotud kulud, sealhulgas täitmiskoha teenustasud, arveldustasud ja muud korralduse täitmisega seotud kolmandatele isikutele makstud tasud.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(8) Kui korraldust saab täita mitmes võistlevas täitmiskohas, võrdleb ja hindab investeerimisühing kliendi jaoks saavutatavaid tulemusi kõigis nendes täitmiskohtades, mis on loetletud investeerimisühingu kliendi korralduste parima täitmise reeglites ja on kõlblikud vastava korralduse täitmiseks. Täitmiskohtade võrdlemisel ja hindamisel võtab investeerimisühing muu hulgas arvesse oma vahendustasud ja kulud, mis kaasnevad korralduse täitmisega igas täitmiskohas.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(9) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(10) Pärast kliendi nimel korralduse täitmist teatab investeerimisühing kliendile korralduse täitmise koha.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(11) \[Kehtetu - RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(12) \[Kehtetu - RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+#### § 87<sup>4</sup>. Kliendi korralduste parima täitmise reeglid
+
+(1) Kliendi korralduste parima täitmise reeglites esitab investeerimisühing iga väärtpaberi liigi kohta teabe seoses erinevate korralduse täitmise kohtadega, kus investeerimisühing oma klientide korraldusi täidab, ja korralduste täitmise koha valikut määravate asjaoludega. Investeerimisühing käsitleb vähemalt selliseid korralduse täitmise kohti, kus on võimalik järjepidevalt saavutada kliendi korralduse täitmisel parim tulemus.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) Investeerimisühing avaldab kliendile ja potentsiaalsele kliendile korralduste parima täitmise reeglid, sealhulgas asjakohase teabe ning arusaadavad ja piisavalt üksikasjalikud selgitused, kuidas investeerimisühing täidab kliendi korraldusi. Investeerimisühing teatab kliendile olulistest muudatustest kliendi korralduste parima täitmise reeglites.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) Investeerimisühing teatab kliendile selgelt võimalusest täita kliendi korraldus väljaspool kauplemiskohta, kui seesugune võimalus on kliendi korralduste parima täitmise reeglites sätestatud.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(4) Investeerimisühing võib kliendi korralduse võtta täitmiseks üksnes pärast kliendilt korralduste parima täitmise reeglite suhtes nõusoleku saamist.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(5) Käesoleva paragrahvi lõikes 4 nimetatud kliendi nõusolek võib olla igakordne enne korralduse täitmisele asumist või sisalduda kliendiga sõlmitud lepingus.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(6) Investeerimisühing vaatab kliendi korralduste parima täitmise reeglid ja klientide korralduste täitmise meetmed vähemalt üks kord aastas üle ning puuduste ilmnemisel ajakohastab need reeglid ja meetmed, teavitades kliente reeglites tehtud peamistest muudatustest. Reeglite ja meetmete ülevaatamisel ning nende muutmise vajaduse kindlakstegemisel hinnatakse muu hulgas, kas investeerimisühingu valitud täitmiskohtades on võimalik saavutada kliendi jaoks parim tulemus.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(7) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(8) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(9) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(10) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(11) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(12) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(13) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(14) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 87<sup>5</sup>. Kliendi korralduse käitlemine
+
+(1) Investeerimisühing kehtestab ja rakendab õiguslikud, tehnilised ja organisatsioonilised meetmed kliendi korralduse kiireks ja erapooletuks täitmiseks, võrreldes teiste klientide korralduste või investeerimisühingu enda kauplemisega. Investeerimisühing määrab seda tagava korra sise-eeskirjadega.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(2) Investeerimisühing täidab klientide korraldused nende investeerimisühingu poolt täitmiseks vastuvõtmise järjekorras, kui muus osas on korraldused võrreldavad.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(3) Investeerimisühing rakendab kõrgendatud hoolsust klientide huvide kahjustamise riski maandamiseks klientide korralduste koondamise ja jaotamise korral.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(4) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(5) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(6) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(7) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(8) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(9) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(10) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(11) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(12) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(13) Investeerimisühing on kohustatud säilitama dokumente, milles sätestatakse investeerimisteenuse või kõrvalteenuse osutamise lepingu kohased investeerimisühingu ja kliendi õigused ja kohustused või tingimused, mille alusel investeerimisühing kliendile seda teenust osutab, vähemalt niikaua, kuni lepinguline või muu investeerimisteenuse või kõrvalteenuse osutamisega seotud õigussuhe kliendiga ei ole lõppenud.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 87<sup>6</sup>. Määratud hinnaga korralduse avalikustamine
+
+(1) Kui kauplemiskohta kauplemisele võetud aktsiaga seoses kliendi antud määratud hinnaga korraldust ei täideta valitsevate turutingimuste tõttu kohe, avalikustab investeerimisühing sellise korralduse viivitamata teistele turuosalistele kergesti kättesaadaval viisil, et tagada korralduse täitmine esimesel võimalusel, välja arvatud juhul, kui klient annab selgesõnaliselt teistsuguse juhise.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) Inspektsioonil on õigus vabastada investeerimisühing Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artiklis 4 sätestatud tingimustel ja korras üheks või mitmeks korraks või alaliselt käesoleva paragrahvi lõikes 1 sätestatud kohustuse täitmisest, kui määratud hinnaga korraldus on inspektsiooni hinnangul turu jaoks tavalise korraldusega võrreldes suuremahuline.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(4) Määratud hinnaga korraldus on selline väärtpaberite ostmise või müümise korraldus, kus konkreetsete arvuliste näitajatega määratakse väärtpaberite maht ja hind või minimaalselt aktsepteeritav hind.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 87<sup>7</sup>. Allutatud kõlbliku kohustuse müük
+
+Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artiklis 72a nimetatud tingimustele, välja arvatud nimetatud määruse artikli lõike 1 punkti b ja artikli 72b lõigetele 3–5, vastavaid kõlblikke kohustusi võib müüa kliendile, kes ei ole kutseline investor, üksnes juhul, kui:
+
+1\) allutatud kõlbliku kohustuse nominaalne väärtus on vähemalt 50 000 eurot;
+
+2\) täidetakse käesolevas seaduses sätestatud investeerimisteenuse osutamise nõudeid.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+#### § 88. Kliendi varade hoidmise ja kaitse üldnõuded
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(1) Investeerimisühing on kohustatud talle usaldatud kliendi vara hoidma lahus enda ja investeerimisühingu teiste klientide varast, välja arvatud juhul, kui klient ja investeerimisühing on püsival andmekandjal taasesitamist võimaldavas vormis kokku leppinud teisiti. Kliendi püsival andmekandjal taasesitamist võimaldav nõusolek on muu hulgas vajalik kliendi väärtpaberite hoidmiseks esindajakontol.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(2) Investeerimisühing on kohustatud võtma tarvitusele piisavad abinõud kliendile kuuluva vara ja kliendi õiguste kaitseks ning tagama kliendi vara hoidmise ja investeerimise vastavalt kokkulepitud tingimustele.
+
+(3) Investeerimisühingul ei ole lubatud kasutada kliendile kuuluvaid väärtpabereid oma huvides, välja arvatud juhul, kui klient on andnud selleks eelneva selgesõnalise nõusoleku kirjalikus või kirjalikku taasesitamist ja isiku identifitseerimist võimaldavas vormis. Kliendi raha võib oma huvides kasutada üksnes krediidiasutuse arvel ja nimel krediidiasutuste seaduse § 4 lõigetes 1 ja 2 sätestatu kohaselt.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(4) Investeerimisühing võib oma nimel kliendi vara pantida üksnes kliendi kirjalikus vormis antud selgesõnalisel nõusolekul.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(4<sup>1</sup>) Investeerimisühingul on keelatud sõlmida tavakliendiga kliendi raha nõudeõiguse või väärtpaberi omandiõiguse tagatise andmise eesmärgil ülekandmise kokkulepet klientide olemasolevate või tulevikus tekkivate, tegelike, tingimuslike või oodatavate kohustuste tagamiseks või katmiseks. Asjatundliku kliendi ja võrdse vastaspoole puhul kirjeldab investeerimisühing kliendile sellise kokkuleppega kaasnevaid riske ning nende mõju kliendi varale.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(4<sup>2</sup>) Kui investeerimisühing sõlmib asjatundliku kliendi või võrdse vastaspoolega käesoleva paragrahvi lõikes 4<sup>1</sup> nimetatud kokkuleppe, kaalub ta hoolikalt kliendil investeerimisühingu ees oleva kohustuse ja kliendi sellise vara suhet, millele finantstagatise kokkulepet kohaldatakse, samuti sellise kokkuleppe kasutamise asjakohasust, ning vajaduse korral tõendab seda, võttes arvesse ja dokumenteerides kõik järgmised asjaolud:
+
+1\) kas seos kliendi kohustuste ja lõikes 4<sup>1</sup> nimetatud kokkuleppe sõlmimise vajaduse vahel on nõrk, sealhulgas juhul, kui kliendi vastutus investeerimisühingu ees on madal või selle tekkimine vähe tõenäoline;
+
+2\) kas lõikes 4<sup>1</sup> nimetatud kokkuleppega hõlmatav kliendi vara väärtus ületab oluliselt kliendi kohustusi investeerimisühingu ees või on piiramata, kui kliendil puuduvad kohustused investeerimisühingu ees;
+
+3\) kas lõikes 4<sup>1</sup> nimetatud kokkulepe hõlmab kõigi klientide vara, eristamata iga kliendi kohustusi investeerimisühingu ees.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(5) Investeerimisühing, kes hoiab klientide vara esindajakontol või ühingu enda nimel avatud väärtpaberi- või pangakontol, on kohustatud pidama arvestust eraldi iga kliendi vara suhtes.
+
+(6) Investeerimisühingu poolt valitsetav ja hoitav klientide vara, sealhulgas investeerimisühingu enda nimel hoitav klientide vara, samuti selle arvel omandatud vara, kuulub vastavatele klientidele ning ei kuulu investeerimisühingu pankrotivara hulka ning selle arvel ei saa rahuldada investeerimisühingu võlausaldajate nõudeid.
+
+\[RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+(6<sup>1</sup>) Investeerimisühing määrab vastutava isiku, kelle ülesanne on tagada investeerimisühingu kohustuste täitmine kliendi väärtpaberite ja raha kaitsmisel ning kellel on selleks piisavad oskused ja pädevus. Investeerimisühing võib määrata vastutavale isikule muid ülesandeid, tingimusel et käesolevas seaduses sätestatud investeerimisühingu kohustuste täitmine on tagatud ja muude ülesannete täitmine ei takista vastutaval isikul oma funktsiooni täita.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(7) Investeerimisühing määrab sise-eeskirjadega kliendi vara kaitsmise ja hoidmise põhimõtted. Investeerimisühing tagab, et inspektsioonile esitatakse vähemalt kord aastas investeerimisühingu audiitori aruanne nimetatud põhimõtete järgimise kohta investeerimisühingus, sealhulgas investeerimisühingu tegevuse vastavuse kohta käesolevas paragrahvis ja käesoleva seaduse §-des 88<sup>1</sup>–88<sup>4</sup> sätestatule.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(8) Investeerimisühingul ei ole lubatud anda kliendi raha ega väärtpaberitega seoses kolmandale isikule tagatisi, kinnipidamise ega tasaarvestamise õigusi, mille alusel kolmas isik võib rahuldada oma nõudeid kliendi raha või väärtpaberite arvel kliendiga või kliendile teenuse osutamisega mitteseotud kohustuste täitmiseks, välja arvatud juhul, kui see on nõutav sellises kolmandas riigis kohaldatava õiguse alusel, kus kliendi raha või väärtpabereid hoitakse.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(9) Kui investeerimisühingul ei ole võimalik hoiduda lepingu sõlmimisest, mille tulemusel tekivad kolmandal isikul käesoleva paragrahvi lõikes 8 nimetatud õigused, teavitab investeerimisühing klienti sellest ja sellise kokkuleppega seotud riskidest. Lõikes 8 nimetatud õiguste andmisel või kui klienti on selliste õiguste andmisest teavitatud, märgitakse need õigused ära kliendilepingus ning investeerimisühingusiseses raamatupidamisarvestuses, andmetes ja registrites selliselt, et nendest ilmneks selgelt kliendi vara omandiõiguse kuuluvus.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(10) Investeerimisühing esitab inspektsioonile ja pankrotihaldurile nende nõudmisel või seaduses sätestatud juhul muule isikule viivitamata kliendi raha ja väärtpaberitega seotud teabe, milleks on muu hulgas:
+
+1\) investeerimisühingusisene raamatupidamisarvestus, andmed ja registrid, mis võimaldavad igal ajal viivitamata kindlaks määrata iga kliendi jaoks hoitava raha ja väärtpaberid;
+
+2\) andmed isikute kohta, kelle juures investeerimisühing hoiab kliendi raha vastavalt käesoleva seaduse §-s 88<sup>3</sup> sätestatule, ning nende isikutega seotud kontoandmed ja -lepingud;
+
+3\) andmed isikute kohta, kelle juures investeerimisühing hoiab kliendi väärtpabereid vastavalt käesoleva seaduse §-s 88<sup>2</sup> sätestatule, ning nende isikutega seotud kontoandmed ja -lepingud;
+
+4\) andmed isikute kohta, kellele investeerimisühing on investeerimisteenusega seotud tegevuse edasi andnud;
+
+5\) andmed võtmetöötajate, sealhulgas käesoleva paragrahvi lõikes 6<sup>1</sup> nimetatud isiku kohta, kes on seotud kliendi raha ja väärtpaberite hoidmise toimingutega;
+
+6\) lepingud, mis võimaldavad kindlaks määrata vara kuulumise kliendile.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 88<sup>1</sup>. Kliendi väärtpaberite ja raha kaitse
+
+Investeerimisühing on kohustatud kliendi väärtpaberite ja rahaga seotud huvide kaitseks:
+
+1\) säilitama andmeid ning pidama selliseid registreid ja raamatupidamisarvestust, mis võimaldavad tal igal ajal viivitamata eristada kliendi jaoks hoitavat vara teiste klientide jaoks hoitavast varast ja investeerimisühingu oma varast;
+
+2\) säilitama andmeid ning pidama registreid ja raamatupidamisarvestust sellisel viisil, mis tagab nende täpsuse ning vastavuse tegelikkuses klientide jaoks hoitavatele väärtpaberitele ja rahale nii, et need on kasutatavad kontrolljäljena;
+
+3\) kontrollima regulaarselt investeerimisühingusisese raamatupidamisarvestuse, andmete ja registrite vastavust sellist vara hoidvate kolmandate isikute arvestusele, andmetele ning registritele;
+
+4\) võtma vajalikud meetmed tagamaks, et kliendile kuuluvad väärtpaberid, mida hoitakse kolmanda isiku juures, on eristatavad investeerimisühingule kuuluvatest väärtpaberitest ja kolmandale isikule kuuluvatest väärtpaberitest kas kolmanda isiku raamatupidamisarvestuses erinevatele kontodele kirjendamise või muude samaväärsete meetodite abil, millega saavutatakse sama kaitstuse tase;
+
+5\) võtma vajalikud meetmed tagamaks, et kliendi raha hoitakse kontol või kontodel, mis on eristatavad kontodest, millel hoitakse investeerimisühingu raha;
+
+6\) rakendama asjakohaseid organisatsioonilisi meetmeid kliendi vara või sellega seotud õiguste kaotamise või vähenemise niisuguse riski maandamiseks, mis tuleneb vara väärkasutamisest, pettusest, haldamises esinevatest puudustest, ebakorrektsest registripidamisest või hooletusest.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 88<sup>2</sup>. Kliendi väärtpaberite hoidmine
+
+(1) Investeerimisühingul on kolmanda isiku juures avatud kontol või kontodel lubatud klientide jaoks väärtpabereid hoida tingimusel, et investeerimisühing tegutseb piisava vilumuse, ettenägelikkuse ja hoolsusega kolmanda isiku ning selliste väärtpaberite hoidmise korra valikul, määramisel ja regulaarsel kontrollimisel. Investeerimisühing peab arvestama kolmanda isiku asjatundlikkust ja mainet ning selliste väärtpaberite hoidmisega seotud mis tahes õiguslikke nõudeid ja turutavasid, mis võivad klientide õigusi kahjustada.
+
+(2) Investeerimisühingul on lubatud hoida väärtpabereid kolmanda isiku juures üksnes sellises jurisdiktsioonis, kus kohaldatakse väärtpaberite teise isiku arvel hoidmise suhtes eriomaseid nõudeid ja järelevalvet, ning sellise kolmanda isiku juures, kelle suhtes selliseid nõudeid ja järelevalvet kohaldatakse.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) Investeerimisühingul on keelatud klientide nimel hoitavaid väärtpabereid hoida kolmanda isiku juures sellises kolmandas riigis, kus väärtpaberite teise isiku arvel hoidmine ei ole reguleeritud, välja arvatud juhul, kui on täidetud üks järgmistest tingimustest:
+
+1\) väärtpaberite või nendega seotud investeerimisteenuste iseloom nõuab nende hoidmist sellises kolmandas riigis paikneva kolmanda isiku juures;
+
+2\) kui väärtpabereid hoitakse asjatundliku kliendi nimel ja asjatundlik klient annab investeerimisühingule kirjalikus vormis nõusoleku selliste väärtpaberite hoidmiseks sellises kolmandas riigis paikneva kolmanda isiku juures.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(4) Käesoleva paragrahvi lõigetes 2 ja 3 sätestatut kohaldatakse ka juhul, kui kolmas isik, kelle juures investeerimisühing hoiab kliendi jaoks väärtpabereid, annab väärtpaberite hoidmise ja haldamisega seotud tegevuse edasi muule isikule.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 88<sup>3</sup>. Kliendi raha hoidmine
+
+(1) Investeerimisühing on kohustatud kliendi raha saamisel selle viivitamata hoiustama ühel või enamal keskpangas või lepinguriigis või kolmandas riigis tegevusloa saanud krediidiasutuses avatud kontol või kliendi selgesõnalisel nõusolekul investeerima selle vastava rahaturufondi aktsiatesse või osakutesse.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) Käesoleva paragrahvi lõikes 1 sätestatud rahaturufond peab vastama investeerimisfondi seaduse nõuetele või muudele samaväärsetele lepinguriigi õigusakti nõuetele, mille kohaselt teostatakse tema üle järelevalvet, ning vastama järgmistele tingimustele:
+
+1\) fondi peamine investeerimiseesmärk on säilitada oma vara väärtus konstantsena nimiväärtuses, arvestamata tulu, või väärtuse juures, mis vastab investorite algkapitalile, millele on liidetud tulu;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+2\) käesoleva lõike punktis 1 nimetatud investeerimiseesmärgi saavutamiseks investeeritakse fondi vara üksnes krediidiasutuste hoiustesse või kõrge kvaliteediga rahaturuinstrumentidesse, mille lunastamis- või lõpptähtajani on kuni 397 päeva või mille intresse korrigeeritakse regulaarselt vastavalt sellele lõpptähtajale, ning fondi vara hulka kuuluvate väärtpaberite ja hoiuste kaalutud keskmine lõpptähtaeg on 60 päeva;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+3\) fondil peavad olema vahendid likviidsuse tagamiseks sama päeva või järgmise päeva arveldusteks.
+
+(3) Käesoleva paragrahvi lõike 2 punkti 2 kohaldamisel loetakse, et rahaturuinstrument on kõrge kvaliteediga, kui seda kinnitab investeerimisühingu tehtud ja dokumenteeritud krediidikvaliteedi hinnang, milles on arvesse võetud Euroopa Väärtpaberiturujärelevalve Asutuse registreeritud reitinguagentuuride poolt rahaturufondile antud krediidireitinguid.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(4) Kui investeerimisühing ei hoia kliendi raha keskpangas, peab ta tegutsema piisava vilumuse, ettevaatuse ja hoolsusega sellise krediidiasutuse või rahaturufondi valikul, kuhu vahendid paigutatakse, ja nende vahendite hoidmise korra valikul ning regulaarsel kontrollimisel, samuti vahendite paigutamise mitmekesistamise vajaduse hindamisel. Investeerimisühingud peavad arvesse võtma nimetatud krediidiasutuste või rahaturufondide või neid valitsevate fondivalitsejate asjatundlikkust ja mainet, et tagada klientide õiguste kaitse ning vältida kliendi vahendite hoidmisega seotud mis tahes õiguslikke nõudeid või turutavasid, mis võivad kliendi õigusi kahjustada.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(5) Investeerimisühing võib käesoleva paragrahvi lõikes 1 nimetatud kliendi nõusolekule tugineda üksnes juhul, kui investeerimisühing on klienti teavitanud, et kliendi raha hoidmisele lõikes 2 sätestatud tingimustele vastavas rahaturufondis ei kohaldata käesolevas seaduses sätestatud kliendi raha hoidmise ja kaitse nõudeid.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(6) Investeerimisühinguga samasse konsolideerimisgruppi kuuluva krediidiasutuse juures avatud kontol või rahaturufondis on investeerimisühingul keelatud hoida rohkem kui 20 protsenti kliendi rahast. Käesoleva lõike esimeses lauses sätestatut ei kohaldata juhul, kui see ei ole investeerimisühingu hinnangul proportsionaalne, võttes arvesse investeerimisühingu äritegevuse olemust, ulatust ja keerukust, käesoleva lõike esimeses lauses nimetatud krediidiasutuse või rahaturufondi võetud meetmeid ning mis tahes juhul hoiustatava summa vähesust.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(7) Investeerimisühing vaatab käesoleva paragrahvi lõike 6 teises lauses nimetatud hinnangu regulaarselt üle ning teavitab inspektsiooni igast antud hinnangust ja selle muutmisest.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 88<sup>4</sup>. Kliendi väärtpaberite kasutamine ja käsutamine
+
+(1) Investeerimisühingul on keelatud teha väärtpaberite kaudu finantseerimise tehinguid väärtpaberitega, mida ta hoiab kliendi jaoks, või selliseid väärtpabereid muul viisil oma arvel või investeerimisühingu mõne teise kliendi või muu isiku arvel kasutada või käsutada. Investeerimisühing võib nimetatud väärtpabereid kasutada üksnes juhul, kui on täidetud järgmised tingimused:
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+1\) klient on andnud väärtpaberite kindlaksmääratud tingimustel kasutamiseks eelneva selgesõnalise nõusoleku kirjalikus või kirjalikku taasesitamist ja isiku identifitseerimist võimaldavas vormis ning selline nõusolek võib sisalduda kliendiga sõlmitud teenuse osutamise lepingus;
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+2\) kliendi väärtpaberite kasutamine peab piirduma nimetatud kindlaksmääratud tingimustega.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(2) Investeerimisühingul on keelatud teha väärtpaberite kaudu finantseerimise tehinguid väärtpaberitega, mida hoitakse kliendi arvel kolmanda isiku esindajakontol või muul samaväärsel kontol, ja selliseid väärtpabereid muul viisil oma arvel või investeerimisühingu mõne teise kliendi või muu isiku arvel kasutada või käsutada, välja arvatud juhul, kui lisaks käesoleva paragrahvi lõikes 1 sätestatud tingimustele on täidetud vähemalt üks järgmistest tingimustest:
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+1\) iga klient, kelle väärtpabereid esindajakontol või muul samaväärsel kontol koos hoitakse, peab olema andnud käesoleva paragrahvi lõike 1 punkti 1 kohase eelneva nõusoleku;
+
+2\) investeerimisühing peab rakendama vastavaid süsteeme ja kontrolli, mis tagavad, et selliselt kasutatakse ainult nende klientide väärtpabereid, kes on andnud käesoleva paragrahvi lõike 1 punkti 1 kohase eelneva nõusoleku.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(3) Investeerimisühing peab registreerima nende klientide andmed, kelle juhendite kohaselt väärtpaberite kasutamine on toimunud, ning igale nõusoleku andnud kliendile kuuluvate kasutatud väärtpaberite arvu, et tagada võimaliku tekkiva kahju õiglane jaotamine.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(3<sup>1</sup>) Investeerimisühing rakendab asjakohaseid meetmeid, et vältida kliendi väärtpaberite oma arvel või muu isiku arvel kasutamist kliendi nõusolekuta. Muu hulgas investeerimisühing:
+
+1\) määrab kliendiga sõlmitavas lepingus meetmed, mida investeerimisühing rakendab, kui kliendi kontol puuduvad arvelduspäeval piisavad vahendid tehingu arveldamiseks, näiteks väärtpaberite laenamine kliendi nimel või positsiooni likvideerimine;
+
+2\) jälgib, et investeerimisühingul on võimalik arvelduspäeval tehing arveldada, ja määrab arveldamise võimatuse heastamise meetmed;
+
+3\) jälgib tehingu arveldamise korrektsust ning nõuab viivitamata arvelduspäeval ja edaspidi saamata jäänud väärtpabereid.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3<sup>2</sup>) Investeerimisühing rakendab meetmeid, et tagada kliendi väärtpaberite laenamine kohase tagatise vastu. Investeerimisühing jälgib pidevalt tagatise kohasust ja astub samme, et säilitada tagatise tasakaal kliendi väärtpaberite väärtusega.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(4) Väärtpaberite kaudu finantseerimise tehingu all mõistetakse Euroopa Parlamendi ja nõukogu määruse (EL) 2015/2365, mis käsitleb väärtpaberite kaudu finantseerimise tehingute ja uuesti kasutamise läbipaistvust ning millega muudetakse määrust (EL) nr 648/2012 (ELT L 337, 23.12.2015, lk 1–34), artikli 3 punktis 11 sätestatut.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 88<sup>5</sup>. Kauplemisteabe avalikustamise kohustus
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 88<sup>6</sup>. Kliendi korralduste süsteemse täitja kohustuste rakendumine
+
+(1) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) Kliendi korralduste süsteemne täitja (edaspidi *süsteemne täitja*) on investeerimisühing, kes täidab organiseeritult, sagedasti ja korrapäraselt kliendi korraldusi seoses omakapitaliväärtpaberitega oma arvel väljaspool kauplemiskohta ning korraldamata mitmepoolset süsteemi või kes võtab endale süsteemse täitja staatuse.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(4) Hinnanoteering käesoleva seaduse §-de 88<sup>7</sup>–88<sup>12</sup> tähenduses on süsteemse täitja tehtud siduv pakkumus teatud koguse aktsiate ostmiseks või müümiseks.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(5) \[Kehtetu - RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(6) \[Kehtetu - RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(7) \[Kehtetu - RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(8) Kui investeerimisühingut käsitatakse süsteemse täitjana, teavitab investeerimisühing sellest inspektsiooni. Inspektsioon edastab asjakohase teabe Euroopa Väärtpaberiturujärelevalve Asutusele.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(9) \[Kehtetu - RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+#### § 88<sup>7</sup>. Süsteemse täitja hinnanoteeringu avaldamise kohustus
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 88<sup>8</sup>. Hinnanoteeringu avaldamise viis
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 88<sup>9</sup>. Hinnanoteeringu sisu
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 88<sup>10</sup>. Hinnanoteeringu muutmine
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 88<sup>11</sup>. Hinnanoteeringuga seotud korralduse täitmine
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 88<sup>12</sup>. Inspektsiooni tegevus seoses hinnanoteeringuga
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 88<sup>13</sup>. Nõuded isiklikule soovitusele
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 89. Keelatud tegevused tehingute tegemisel
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+#### § 89<sup>1</sup>. Kliendile teenuse osutamise kohta esitatavad aruanded
+
+(1) Investeerimisühing esitab kliendile püsival andmekandjal ülevaatliku aruande kliendile osutatud teenuste kohta. Aruanne sisaldab perioodiliselt esitatavat teavet, mille puhul on arvesse võetud asjakohaste väärtpaberite liiki ja keerukust, kliendile osutatud teenuse laadi, ning kui see on asjakohane, kliendi jaoks tehtud tehingute ja osutatud teenustega seotud kulusid.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) Investeerimisühing esitab kliendile aruande vähemalt väärtpaberite korralduse täitmise ja väärtpaberiportfelli valitsemise toimingute kohta ning kliendi raha ja väärtpaberite hoidmise kohta.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(3) Väärtpaberiportfelli valitsemise teenuse osutamisel ja juhul, kui investeerimisühing on klienti teavitanud, et hindab regulaarselt kliendile soovitatud väärtpaberi või teenuse sobivust, esitab investeerimisühing kliendile regulaarselt ajakohastatud teabe selle kohta, kuidas investeering vastab kliendi eelistustele ja eesmärkidele ning tavakliendi muudele näitajatele.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 89<sup>2</sup>. Nõuete kohaldamise erisused kutselisele investorile
+
+(1) Käesoleva seaduse § 87 lõike 1 punktis 5 sätestatud nõudeid kohaldatakse kutselisele investorile vaid investeerimisnõustamise ja väärtpaberiportfelli valitsemise teenuse osutamise korral.
+
+(2) Käesoleva seaduse § 87 lõikes 5, § 87<sup>1</sup> lõikes 2<sup>1</sup> ning § 89<sup>1</sup> lõigetes 1 ja 3 sätestatud nõudeid ei kohaldata väärtpaberituru kutselise osalise puhul, välja arvatud juhul, kui ta on investeerimisühingule teada andnud, et soovib nimetatud sätetega kehtestatud õigusi kasutada. Investeerimisühing säilitab kliendi teavitused kirjalikku taasesitamist võimaldavas vormis.
+
+\[RT I, 29.03.2022, 3 - jõust. 30.03.2022\]
+
+#### § 90. Registreerimis- ja säilitamiskohustus
+
+(1) Investeerimisühing ning välisriigi investeerimisühingu Eesti äriregistrisse kantud filiaal registreerivad osutatavate teenuste ja tehingute andmed, samuti kliendi ja investeerimisühingu omavahelise suhtluse ning säilitavad need andmed.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud andmed peavad võimaldama inspektsioonil teostada järelevalvet ja rakendada meetmeid käesoleva seaduse § 230 lõikes 1 nimetatud õigusaktidega kehtestatud nõuete täitmise tagamiseks ning veenduda investeerimisühingu ja välisriigi investeerimisühingu filiaali kõikide kohustuste täitmises, sealhulgas tema kliendi, potentsiaalse kliendi ja väärtpaberituru kui terviku ees.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(4) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(5) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(6) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(7) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(8) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 90<sup>1</sup>. Telefonikõnede ja elektrooniliste vahendite kaudu toimunud suhtluse salvestamine
+
+(1) Investeerimisühing salvestab ja säilitab käesoleva seaduse §-s 90 sätestatud korras vähemalt väärtpaberiga oma arvel kauplemise käigus tehtud tehingute tegemise, väärtpaberiga seotud korralduse vastuvõtmise ja edastamisega ning kliendi nimel või arvel täitmisega seotud tehingu tegemise eesmärgil telefoni teel ja elektrooniliste vahendite kaudu toimunud suhtluse, sealhulgas juhul, kui telefoni teel või elektrooniliste vahendite kaudu toimunud suhtluse tulemusel tehingut ei tehtud või teenust ei osutatud.
+
+(2) Investeerimisühing salvestab käesoleva paragrahvi lõikes 1 nimetatud telefoni teel ja elektrooniliste vahendite kaudu toimunud suhtluse, milleks on kasutatud seadet, mille investeerimisühing on töötajale või teenuse osutajale kasutada andnud või mida töötaja või teenuse osutaja kasutab investeerimisühingu heakskiidul või loal. Investeerimisühing rakendab mõistlikke meetmeid, et töötaja ega teenuse osutaja ei kasutaks käesoleva paragrahvi lõikes 1 nimetatud suhtluseks isiklikke seadmeid, mille kasutamiseks puudub investeerimisühingu heakskiit või luba, kui investeerimisühingul ei ole võimalik salvestada või kopeerida sellise seadme abil toimunud suhtlust.
+
+(3) Investeerimisühing teavitab klienti ja potentsiaalset klienti enne investeerimisteenuste osutamist sellest, et investeerimisühing salvestab telefoni teel ning elektrooniliste vahendite kaudu toimunud suhtluse, mille tulemuseks on või võib olla tehingu tegemine.
+
+(4) Investeerimisühing ei või osutada telefoni teel investeerimisteenuseid seoses kliendi korralduste vastuvõtmise, edastamise ega kliendi nimel või arvel täitmisega, kui klienti ei ole teavitatud telefonikõnede salvestamisest.
+
+(5) Muul viisil saadud korralduse salvestab investeerimisühing püsival andmekandjal kirjalikus või kirjalikku taasesitamist võimaldavas vormis ja käesolevas paragrahvis sätestatu kohaselt.
+
+(6) Käesoleva paragrahvi lõikes 1 nimetatud salvestisi säilitatakse viis aastat, inspektsiooni nõudel kuni seitse aastat. Nõudmisel esitab investeerimisühing kliendiga toimunud suhtluse salvestised kliendile.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 91. Tehinguaruandlus
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 92. Nõuete täpsustamine
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+### 11. peatükk — USALDATAVUSNÕUDED
+
+#### § 93. Investeerimisühingu aktsia- ja algkapital
+
+(1) Investeerimisühingu asutamisel uue äriühinguna peab tema aktsiakapital või tegutseva äriühingu puhul algkapital olema vähemalt:
+
+1\) 750 000 eurot, kui ta osutab käesoleva seaduse § 43 lõike 1 punktis 3 või 6 nimetatud investeerimisteenuseid;
+
+2\) 750 000 eurot, kui ta osutab käesoleva seaduse § 43 lõike 1 punktis 9 nimetatud investeerimisteenuseid, kui see investeerimisühing kaupleb oma arvel või talle on see lubatud;
+
+3\) 75 000 eurot, kui ta osutab käesoleva seaduse § 43 lõike 1 punktis 1, 2, 4, 5 või 7 nimetatud investeerimisteenuseid, tingimusel et tal ei ole lubatud hoida klientide raha ega klientidele kuuluvaid väärtpabereid;
+
+4\) 150 000 eurot muude kui käesoleva lõike punktis 1, 2 või 3 nimetatud teenuseid pakkuvate investeerimisühingute puhul.
+
+(2) Algkapital koosneb Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 artiklis 9 nimetatud vahenditest.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+#### § 94. Usaldatavusnormatiivid
+
+(1) Investeerimisühing on oma usaldusväärsuse tagamiseks ja investeerimisteenuste osutamisega seotud riskide vähendamiseks kohustatud pidevalt järgima usaldatavusnormatiive, mille nõuded ja arvestamise kord on kehtestatud Euroopa Parlamendi ja nõukogu määruses (EL) 2019/2033.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(2) Inspektsioon võib otsustada kohaldada vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 artikli 1 lõike 2 punktile c Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 ning krediidiasutuste seaduse kohaseid usaldatavusnõudeid investeerimisühingu suhtes, kes tegeleb käesoleva seaduse § 43 lõike 1 punktis 3 või 6 nimetatud tegevusega, kui investeerimisühingu konsolideeritud vara koguväärtus eelnenud 12 kuu keskmisena on viis miljardit eurot või rohkem ning kui esineb vähemalt üks järgmistest asjaoludest:
+
+1\) investeerimisühingu maksejõuetuse või finantsraskuste korral võib tekkida olukord, mis kujutab endast süsteemset riski finantssüsteemile;
+
+2\) investeerimisühing on Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 artikli 4 lõike 1 punktis 3 määratletud kliiriv liige;
+
+3\) investeerimisühingu suurus, tegevuse laad, ulatus ja keerukus ning vastastikune seos finantssüsteemiga on Euroopa Liidu või Eesti majanduse seisukohast piisavalt oluline.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(3) \[Kehtetu - RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(4) Investeerimisühingu omavahendid peavad igal hetkel olema võrdsed käesoleva seaduse §-s 93 sätestatud algkapitali minimaalsuurusega või seda ületama.
+
+(5) Investeerimisühingu juhtimis- ja sisekontrollisüsteemid, raamatupidamise korraldus ning kõigi tehingute ja toimingute dokumenteerimise ja säilitamise süsteem peavad võimaldama inspektsioonil igal ajahetkel kontrollida õigusaktidest tulenevate nõuete täitmist ning tagama usaldatavusnormatiivide nõuetekohase arvutamise ja sellekohase aruandluse õigsuse.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(6) Kui investeerimisühing kuulub finantskonglomeraati krediidiasutuste seaduse § 110<sup>1</sup> tähenduses, peab ta järgima krediidiasutuste seaduse 9<sup>1</sup>. peatükis sätestatut.
+
+\[RT I, 09.05.2014, 2 - jõust. 19.05.2014\]
+
+(7) Käesoleva paragrahvi lõiget 2 ei kohaldata kaubavahendajate ja heitkoguse ühikute vahendajate, fondivalitsejate ega kindlustusandjate suhtes.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(8) Kui inspektsioon tunnistab käesoleva paragrahvi lõike 2 alusel tehtud otsuse kehtetuks, sealhulgas juhul, kui investeerimisühingu konsolideeritud vara koguväärtus ei vasta enam künnisele, mis on arvutatud 12 järjestikuse kuu alusel, teavitab ta sellest viivitamata investeerimisühingut.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(9) Inspektsioon teavitab viivitamata käesoleva paragrahvi lõigete 2 ja 8 alusel tehtud otsustest Euroopa Pangandusjärelevalve Asutust.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+#### § 94<sup>1</sup>.
+
+–
+
+#### § 103<sup>1</sup>.
+
+\[Kehtetud - RT I, 09.05.2014, 2 - jõust. 19.05.2014\]
+
+#### § 104. Likviidsus
+
+(1) Investeerimisühing peab paigutama oma vara selliselt, et igal ajal oleks tagatud kreeditoride õigustatud nõuete rahuldamine ehk likviidsus. Selleks peab investeerimisühing säilitama vajalikku likviidsete vahendite ja jooksvate kohustuste vahekorda.
+
+(2) Kui see on vajalik investeerimisühingu poolt osutatavate teenuste iseloomu või investeerimisühingu finantsseisundi tõttu, võib inspektsioon kehtestada igale investeerimisühingule eraldi likviidsuse piirmäära.
+
+#### § 105. Riskide kontsentratsiooni piirmäärad
+
+\[Kehtetu - RT I, 09.05.2014, 2 - jõust. 19.05.2014\]
+
+#### § 105<sup>1</sup>. Erandid riskide kontsentreerumise piirmäärade arvutamisel
+
+\[Kehtetu - RT I, 09.05.2014, 2 - jõust. 19.05.2014\]
+
+#### § 106. Teavitamiskohustus
+
+Investeerimisühing peab viivitamata teavitama inspektsiooni ning esitama omapoolse selgituse, kui investeerimisühingu omavahendite suurus väheneb rohkem kui viie protsendi võrra.
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+#### § 106<sup>1</sup>. Loamenetluse tähtajad usaldatavusnormatiivide arvutamisel
+
+\[Kehtetu - RT I, 09.05.2014, 2 - jõust. 19.05.2014\]
+
+### 12. peatükk — INVESTEERIMISÜHINGU USALDATAVUSNÕUETE, RISKIJUHTIMISE JA RAAMATUPIDAMISEGA SEOTUD TEABE AVALIKUSTAMINE NING ARUANDLUS
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 107. Raamatupidamise korraldamine
+
+(1) Investeerimisühingu raamatupidamisarvestust ja -aruandlust korraldatakse, lähtudes raamatupidamise seadusest, käesolevast seadusest, muudest õigusaktidest ja investeerimisühingu põhikirjast.
+
+(2) Investeerimisühingu raamatupidamine peab tagama tõese teabe saamise investeerimisühingu majandustegevuse ja finantsseisundi kohta.
+
+(3) Investeerimisühingu konsolideerimisgrupi emaettevõtja on kohustatud korraldama konsolideeritud raamatupidamist.
+
+\[RT I 2005, 13, 64 - jõust. 01.04.2005\]
+
+#### § 108. Aruanded
+
+(1) Investeerimisühing koostab ja esitab inspektsioonile aruanded seadusega ettenähtud ning Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 alusel kehtestatud korras.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(2) Kui investeerimisühing kuulub konsolideerimisgruppi, siis tema emaettevõtja, kelle üle inspektsioon teostab konsolideeritud järelevalvet, koostab ja esitab inspektsioonile konsolideeritud aruandlust.
+
+(3) Valdkonna eest vastutav minister kehtestab oma määrusega investeerimisühingule ja investeerimisühingu emaettevõtjale aruannete sisu, koostamise metoodika ja esitamise korra.
+
+(4) Valdkonna eest vastutav minister võib oma määrusega kehtestada välisriigi investeerimisühingu filiaalile aruannete sisu, koostamise metoodika ning esitamise korra.
+
+(5) Inspektsioonil on õigus nõuda täiendavalt või sagedamini aruandeid ja andmeid, mis on vajalikud järelevalve teostamiseks käesolevas seaduses sätestatud ulatuses, samuti andmeid ja aruandeid investeerimisühingu osutatavate teenuste kohta, mis on vajalikud inspektsiooni ülesannete täitmiseks Euroopa Parlamendi ja nõukogu määruse 1095/2010, millega asutatakse Euroopa Järelevalveasutus (Euroopa Väärtpaberiturujärelevalve) (ELT L 331, 15.12.2010, lk 84–119), alusel.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(5<sup>1</sup>) Käesoleva seaduse § 82<sup>2</sup>, § 230 lõigete 1<sup>1</sup> ja 5 ning § 236<sup>10</sup> lõigete 4–6, samuti Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 kohaldamisel on inspektsioonil õigus nõuda käesolevas seaduses ja nimetatud määruses sätestatud nõuetega võrreldes lisa- või sagedasemat aruandlust, sealhulgas kapitali- ja likviidsuspositsioonide kohta, üksnes juhul, kui on täidetud üks järgmistest tingimustest:
+
+1\) tegemist on ühe käesoleva seaduse § 230 lõike 1<sup>1</sup> punktides 1 ja 2 nimetatud juhuga;
+
+2\) inspektsioon peab vajalikuks koguda käesoleva seaduse § 230 lõike 1<sup>1</sup> punktis 2 nimetatud tõendeid;
+
+3\) lisateave on vajalik käesoleva seaduse § 230 lõikes 5 sätestatud järelevalvealaseks ülevaatamiseks ja hindamiseks.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(6) Inspektsioon küsib täiendavat või sagedasemat teavet võimalusel nii, et arvestab juba varem saadud teabega. Inspektsioon ei nõua käesoleva paragrahvi lõigete 5 ja 5<sup>1</sup> alusel lisateabe esitamist, kui teave on talle kättesaadav muus vormis või erineva detailsusastmega ning see ei takista tal teabest samasuguse kvaliteedi ja usaldusväärsusega teabe tuletamist.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(7) Investeerimisühingu emaettevõtja suhtes, kes on finantsvaldusettevõtja või segafinantsvaldusettevõtja, juhul kui inspektsioon teostab investeerimisühingu üle järelevalvet konsolideeritud alusel, kohaldatakse krediidiasutuste seaduse §-s 91<sup>1</sup> sätestatud finantsvaldusettevõtja ja segafinantsvaldusettevõtja aruandluse regulatsiooni. Investeerimisühingut käsitatakse krediidiasutusena krediidiasutuste seaduse § 91<sup>1</sup> tähenduses.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(8) Inspektsioonil on järelevalve tegemiseks õigus nõuda investeerimisühingult täiendavaid andmeid ja selgitusi investeerimisühingu osalemise kohta maksesüsteemis, sealhulgas makse- ja arveldussüsteemide seaduses sätestatud arveldussüsteemis.
+
+\[RT I, 01.03.2023, 3 - jõust. 11.03.2023\]
+
+(9) Eesti Pangal on Eesti Panga seadusest ning makse- ja arveldussüsteemide seadusest tulenevate ülesannete täitmiseks õigus nõuda investeerimisühingult regulaarset aruandlust. Aruandluse sisu ning esitamise perioodilisuse, korra ja tähtajad kehtestab Eesti Pank.
+
+\[RT I, 01.03.2023, 3 - jõust. 11.03.2023\]
+
+#### § 109. Aruannete esitamise tähtaeg
+
+\[RT I, 09.05.2014, 2 - jõust. 19.05.2014\]
+
+(1) Käesolevas seaduses sätestatud investeerimisteenuseid osutav investeerimisühing esitab inspektsioonile järelevalvelisi aruandeid:
+
+1\) üks kord kuus 20 päeva jooksul pärast aruandeperioodi lõppu, kui tal on tegevusluba käesoleva seaduse § 43 lõike 1 punktis 3 või 6 nimetatud teenuste osutamiseks;
+
+2\) üks kord kvartalis 20 päeva jooksul pärast aruandeperioodi lõppu, kui tal on tegevusluba käesoleva seaduse § 43 lõike 1 punktis 1, 2, 4, 5, 7 või 8 või § 44 punktis 1 nimetatud teenuste osutamiseks.
+
+\[RT I, 09.05.2014, 2 - jõust. 19.05.2014\]
+
+(2) Investeerimisühingu konsolideerimisgrupi emaettevõtja esitab inspektsioonile käesoleva paragrahvi lõikes 1 nimetatud aruanded üks kord kvartalis ühe kuu jooksul pärast aruandeperioodi lõppu.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(3) \[Kehtetu - RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+#### § 110. Aruannete avalikustamine
+
+(1) Investeerimisühing avalikustab majandusaasta aruande, kasumi jaotamise või kahjumi katmise ettepaneku ja otsuse ning vandeaudiitori aruande kahe nädala jooksul pärast aktsionäride üldkoosoleku toimumist, kuid hiljemalt neli kuud pärast majandusaasta lõppu.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(2) Investeerimisühing, kellel on tegevusluba käesoleva seaduse § 43 punktides 3–8 või § 44 punktis 1 nimetatud teenuste osutamiseks, avalikustab ja esitab inspektsioonile avalikud aruanded kuue kuu ja kaheteistkümne kuu kohta kahe kuu jooksul pärast aruandeperioodi lõppu.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(3) Valdkonna eest vastutav minister võib kehtestada määrusega avalikustamisele kuuluvate andmete loetelu, aruannete koostamise metoodika ning nende avalikustamise ja inspektsioonile esitamise korra.
+
+\[RT I 2010, 2, 3 - jõust. 22.01.2010\]
+
+(3<sup>1</sup>) \[Kehtetu - RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(4) Investeerimisühingu avalikustatav aruanne peab olema kättesaadav investeerimisühingu asukohas, tema kõigis filiaalides ja esindustes ning investeerimisühingu veebilehel. Veebilehe puudumisel esitab investeerimisühing avalikustatava aruande inspektsioonile avalikustamiseks inspektsiooni veebilehel.
+
+\[RT I 2005, 59, 464 - jõust. 01.03.2006\]
+
+(5) Välisriigi investeerimisühingu filiaal avalikustab vähemalt investeerimisühingu viimase aruande majandusaasta kohta, mis on koostatud vastavalt investeerimisühingu asukohariigi õigusaktidele ning tõlgitud eesti keelde.
+
+\[RT I 2005, 59, 464 - jõust. 01.03.2006\]
+
+(6) Inspektsioon võib nõuda, et investeerimisühing kasutaks teabe avaldamiseks peale majandusaasta aruande ka muid teabekanaleid, eelkõige oma veebilehte.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(7) Avalikustatud teabes olulise vea ilmnemise korral tuleb sellest esimesel võimalusel avalikkust teavitada oma veebilehel ja avalikustada korrigeeritud aruanne käesoleva paragrahvi lõikes 4 sätestatud viisil.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(8) Käesoleva seaduse §-s 110<sup>2</sup> ja § 110<sup>3</sup> lõikes 2 sätestatud teabe võib avaldada viitena asukohale, kus see on avalikustatud.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+#### § 110<sup>1</sup>. Riskijuhtimise, omavahendite ja kapitali adekvaatsuse kohta avalikustatav teave
+
+\[Kehtetu - RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+#### § 110<sup>2</sup>. Investeerimisühingu filiaali ja finantseerimisasutusest tütarettevõtja kohta avalikustatav teave
+
+Investeerimisühing avalikustab koos majandusaasta aruandega Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 4 lõike 1 punkti 26 tähenduses oma teistes riikides asutatud filiaalide ja finantseerimisasutusest tütarettevõtjate kohta järgmise teabe:
+
+1\) geograafiline asukoht, ärinimi ja tegevuse laad;
+
+2\) käive või müügitulu;
+
+3\) töötajate arv täistööaja arvestuse alusel;
+
+4\) maksustamiseelne kasum või kahjum;
+
+5\) tulumaks või muu kasumilt või kahjumilt tasumisele kuuluv maks;
+
+6\) saadud riiklike toetuste summa.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+#### § 110<sup>3</sup>. Investeerimisühingu kohta muu teabe avaldamine
+
+(1) Investeerimisühing edastab majandusaasta aruande avalikustamise päeval Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 artikli 51 esimese lõigu punktides c ja d nimetatud teabe ning teabe soolise palgalõhe kohta inspektsioonile, kes kasutab seda tasustamissuundumuste ja -tavade võrdlemiseks. Samuti annab investeerimisühing inspektsioonile miljoni euro suuruste töötasuvahemike kaupa teavet selliste investeerimisühingus töötavate füüsiliste isikute arvu kohta, kelle töötasu on majandusaastal miljon eurot või rohkem, sealhulgas teave nende töökohustuste, asjaomase ärivaldkonna, põhitöötasu, tulemustasu, lisatasude ja pensionimaksete kohta. Inspektsioon edastab teabe Euroopa Pangandusjärelevalve Asutusele.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(2) Inspektsioonil on muu hulgas õigus nõuda, et:
+
+1\) investeerimisühing avaldaks Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 artiklis 46 nimetatud teabe sagedamini kui kord aastas ning määraks avaldamise tähtaja;
+
+2\) emaettevõtja avaldaks kord aastas kas täieliku teabe või viite vastavale teabele oma juriidilise struktuuri ja investeerimisühingu konsolideerimisgrupi üldjuhtimis- ja organisatsioonilise struktuuri kirjelduse kohta vastavalt käesolevale seadusele;
+
+3\) investeerimisühing edastaks teabe juhtorgani või kõrgema juhtkonna iga liikme töötasu kogusumma kohta.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+#### § 111. Audiitorkontroll
+
+(1) Investeerimisühingu raamatupidamise aastaaruanne peab olema auditeeritud. Investeerimisühinguga samasse konsolideerimisgruppi kuuluvaid äriühinguid peab kontrollima vähemalt üks ühine audiitor.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(2) Investeerimisühingu auditeerimise tulemusel peab audiitor esitama investeerimisühingule ja inspektsioonile aruande, milles tuleb muu hulgas avaldada arvamust ka omavahenditele kehtestatud usaldatavusnõuete ning sisekontrolli süsteemi piisavuse ja tõhususe kohta.
+
+\[RT I 2005, 13, 64 - jõust. 01.04.2005\]
+
+#### § 112. Audiitori nimetamine
+
+(1) Investeerimisühingu audiitoriks võib nimetada investeerimisühingu auditeerimiseks piisavate teadmiste ja kogemustega usaldusväärse isiku.
+
+(2) Investeerimisühingu audiitori võib nimetada ühekordse audiitorkontrolli tegemiseks või teatud tähtajaks, kuid kokku mitte kauemaks kui viieks aastaks.
+
+(3) Investeerimisühingu asukohajärgne kohus määrab inspektsiooni avalduse alusel audiitori, kui:
+
+1\) üldkoosolek ei ole audiitorit nimetanud;
+
+2\) üldkoosoleku poolt nimetatud audiitor loobus audiitorkontrolli läbiviimisest ja investeerimisühingu üldkoosolek ei ole ühe kuu jooksul nimetanud uut audiitorit;
+
+3\) audiitor on kaotanud inspektsiooni arvamuse kohaselt usalduse.
+
+(4) Kohtu poolt määratud audiitori volitused kestavad kuni uue audiitori nimetamiseni üldkoosoleku poolt.
+
+\[RT I 2005, 13, 64 - jõust. 01.04.2005\]
+
+#### § 113. Audiitori teavitamiskohustus
+
+(1) Audiitor on kohustatud vandeaudiitori aruande väljastamise või kliendilepingu ülesütlemise korral viivitamata kirjalikult inspektsiooni teavitama investeerimisühingu auditeerimise käigus talle teatavaks saanud asjaoludest, mille tulemuseks on või võib olla:
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+1\) investeerimisühingu tegevust reguleerivate õigusaktide oluline rikkumine;
+
+2\) investeerimisühingu tegevuse peatumine;
+
+3\) investeerimisühingu tütarettevõtja tegevuse peatumine;
+
+4\) modifitseeritud vandeaudiitori aruanne investeerimisühingu raamatupidamise aastaaruande või konsolideeritud raamatupidamise aastaaruande kohta;
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+5\) olukord või oht olukorra tekkimiseks, kus investeerimisühing ei ole võimeline täitma oma kohustusi;
+
+6\) juhi või töötaja tegudest tulenev oluline varaline kahju investeerimisühingule, tema kliendile või klientidele.
+
+(1<sup>1</sup>) Audiitor on kohustatud vandeaudiitori aruande väljastamise või kliendilepingu ülesütlemise korral viivitamata kirjalikult inspektsiooni teavitama investeerimisühinguga märkimisväärses seoses oleva isiku auditeerimise käigus talle teatavaks saanud asjaoludest, mille tulemuseks on või võib olla käesoleva paragrahvi lõikes 1 sätestatud asjaolu.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(2) Inspektsioonile andmete edastamise nõudele ei laiene õigusakti või lepinguga audiitorile pandud andmete mitteavalikustamise kohustus.
+
+### 13. peatükk — INVESTEERIMISÜHINGU ÜHINEMINE, JAGUNEMINE JA ÜMBERKUJUNDAMINE
+
+\[RT I, 11.10.2024, 1 - jõust. 21.10.2024\]
+
+#### § 114. Jagunemise ja piiriülese ümberkujundamise keeld
+
+\[RT I, 11.10.2024, 1 - jõust. 21.10.2024\]
+
+Investeerimisühingu jagunemine ja piiriülene ümberkujundamine ei ole lubatud.
+
+\[RT I, 11.10.2024, 1 - jõust. 21.10.2024\]
+
+#### § 115. Ühinemise erisused
+
+(1) Investeerimisühingu ühinemine toimub äriseadustikus sätestatud korras, kui käesolevast peatükist ei tulene teisiti.
+
+(2) Investeerimisühing võib ühineda üksnes lepinguriigi õiguse alusel asutatud investeerimisühinguga, välja arvatud ühendatava ühinguna krediidiasutusega krediidiasutuste seaduse § 65 lõike 1 punktis 2 sätestatud juhul.
+
+\[RT I, 10.01.2019, 1 - jõust. 20.01.2019\]
+
+(3) Kui investeerimisühingud ühinevad uue äriühingu asutamise teel, lõpevad kõigi ühinevate investeerimisühingute tegevusload.
+
+#### § 115<sup>1</sup>. Omavahendid investeerimisühingute ühinemisel
+
+\[Kehtetu - RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+#### § 116. Ühinemisleping ja ühinemisaruanne
+
+(1) Investeerimisühingu ühinemisleping ei või olla sõlmitud edasilükkava või äramuutva tingimusega.
+
+(2) Investeerimisühingute vahelise ühinemislepingu sõlmimisest peab teavitama inspektsiooni kolme tööpäeva jooksul ühinemislepingu sõlmimisest arvates.
+
+(3) Investeerimisühingute ühinemisel tuleb koostada ühinemisaruanne, mida kontrollib audiitor.
+
+\[RT I, 02.11.2011, 1 - jõust. 12.11.2011\]
+
+(4) Audiitori aruandes antakse hinnang aktsiate vahetussuhtele ja selle määramisele ning arvamus selle kohta, kas ühendav või asutatav investeerimisühing vastab käesolevas seaduses sätestatud usaldatavusnormatiividele.
+
+#### § 117. Ühinemisluba
+
+(1) Investeerimisühingute ühinemiseks on vaja inspektsiooni luba (edaspidi *ühinemisluba*).
+
+(2) Ühinemisloa saamiseks esitab ühendav investeerimisühing või käesoleva seaduse § 115 lõikes 3 sätestatud juhul esitavad ühinevad investeerimisühingud ühiselt inspektsioonile vastava taotluse, millele lisatakse alljärgnevad andmed ja dokumendid:
+
+1\) ühinemisleping või selle notariaalselt tõestatud ärakiri;
+
+2\) ühinemisaruanne;
+
+3\) ühinemisotsused, kui nende tegemine on nõutav;
+
+\[RT I, 02.11.2011, 1 - jõust. 12.11.2011\]
+
+4\) audiitori aruanne;
+
+5\) käesoleva seaduse § 54 lõike 1 punktis 11 nimetatud äriplaan ühinemisele järgneva kolme aasta kohta;
+
+6\) käesoleva seaduse § 54 lõike 1 punktides 4, 5, 12 ja 13 nimetatud andmed ja dokumendid;
+
+7\) Konkurentsiameti otsus koondumiseks loa andmise kohta, kui kohustus selle taotlemiseks tuleneb konkurentsiseadusest, või ühendava investeerimisühingu kinnitus, et ta on taotlenud Konkurentsiametilt koondumiseks luba ning on selle saanud konkurentsiseaduse § 27 lõike 5 alusel;
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+8\) Tarbijakaitse ja Tehnilise Järelevalve Ameti otsus välisinvesteeringu loa andmise kohta, kui selle taotlemise kohustus tuleneb välisinvesteeringu usaldusväärsuse hindamise seadusest, või ühendava investeerimisühingu kinnitus, et ta on taotlenud Tarbijakaitse ja Tehnilise Järelevalve Ametilt välisinvesteeringu luba ning on selle saanud sama seaduse § 11 lõike 1 kohaselt.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+(3) Ühinemisloa taotlusele kohaldatakse käesoleva seaduse §-s 53 ja § 55 lõigetes 1–4<sup>1</sup> tegevusloa taotluse ja selle läbivaatamise kohta sätestatut.
+
+\[RT I 2005, 59, 464 - jõust. 15.11.2005\]
+
+(4) Kui ühendatava investeerimisühingu aktsionärid omandavad olulise osaluse ühendavas investeerimisühingus, kohaldatakse osaluse omandamisele käesoleva seaduse §-des 73–78 sätestatut.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+#### § 118. Otsus ühinemisloa kohta
+
+(1) Otsuse ühinemisloa andmise või sellest keeldumise kohta või ühinemise tulemusena asutatavale investeerimisühingule tegevusloa andmise kohta teeb inspektsioon 30 päeva jooksul, arvates kõigi nõutud andmete ja dokumentide esitamisest. Otsusest teatatakse viivitamata taotlejale.
+
+(2) Inspektsioon võib keelduda ühinemisloa andmisest, kui:
+
+1\) ühinemisloa taotlemisel esitatud andmed või dokumendid ei vasta käesolevas seaduses või selle alusel kehtestatud õigusaktides sätestatud nõuetele või need on ebaõiged, eksitavad või mittetäielikud;
+
+2\) taotleja ei esitanud tähtaegselt või on keeldunud esitamast inspektsioonile ühinemisloa taotlemisel esitamisele kuuluvaid või muid inspektsiooni poolt nõutud andmeid, dokumente või teavet;
+
+3\) ühinemise tulemusena tekkiv investeerimisühing ei vasta käesolevas seaduses või selle alusel kehtestatud õigusaktides sätestatud nõuetele või ühinemine muul põhjusel kahjustaks investeerimisühingu klientide huve;
+
+4\) inspektsiooni hinnangul ühinemise tulemusena tekkiva investeerimisühingu juht, siseauditi üksuse ülesannete täitja või taotlejas olulist osalust omav isik ei vasta käesolevas seaduses sätestatud nõuetele;
+
+\[RT I, 09.05.2014, 2 - jõust. 19.05.2014\]
+
+5\) ühinemine vähendab oluliselt tõhusat konkurentsi väärtpaberiturul või muul põhjusel kahjustaks väärtpaberituru korrapärast toimimist.
+
+(3) Tegevusloa lõpetamise investeerimisühingute ühinemise korral uue investeerimisühingu asutamise teel otsustab inspektsioon üheaegselt ühinemise tulemusel asutatavale investeerimisühingule tegevusloa andmise otsustamisega, kusjuures otsus ei jõustu varem kui uue investeerimisühingu äriregistrisse kandmise päeval.
+
+(4) Ühendatava investeerimisühingu tegevusloa lõpetamise investeerimisühingute ühinemise korral otsustab inspektsioon üheaegselt ühinemisloa andmise otsustamisega, kusjuures otsus ei jõustu varem kui ühinemise kande äriregistrisse kandmise päeval.
+
+\[RT I 2005, 13, 64 - jõust. 01.04.2005\]
+
+#### § 119. Ühinemisest teavitamine
+
+\[RT I 2007, 65, 405 - jõust. 15.12.2007\]
+
+(1) Ühinevad investeerimisühingud peavad avaldama ühinemisteate ühinemisloa saamise kohta viivitamata vähemalt ühes üleriigilise levikuga päevalehes ning kõigi ühinevate investeerimisühingute veebilehtedel.
+
+\[RT I 2007, 65, 405 - jõust. 15.12.2007\]
+
+(2) \[Kehtetu - RT I 2007, 65, 405 - jõust. 15.12.2007\]
+
+(2<sup>1</sup>) Avalduse ühinemise kandmiseks äriregistrisse esitab investeerimisühing viivitamata pärast käesoleva paragrahvi lõikes 1 nimetatud ühinemisteate avaldamist.
+
+\[RT I 2007, 65, 405 - jõust. 15.12.2007\]
+
+(3) Inspektsioon avalikustab käesoleva seaduse § 237 lõike 3 alusel sätestatud korras investeerimisühingute ühinemiseks loa andmise otsuse inspektsiooni veebilehel.
+
+\[RT I 2005, 13, 64 - jõust. 01.04.2005\]
+
+### 13<sup>1</sup>. peatükk — INVESTEERIMISAGENT
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 119<sup>1</sup>. Investeerimisagendi kasutamine
+
+(1) Investeerimisagent on volituse alusel tegutsev investeerimisühingu esindaja, keda investeerimisühing võib kasutada enda osutatavate investeerimisteenuste ja kõrvalteenuste reklaamimiseks, tutvustamiseks ja müügiedendustegevuseks, klientide väärtpaberiga seotud korralduste vastuvõtmiseks ja edastamiseks, sealhulgas investeerimisteenusega seotud juhendite edastamiseks, väärtpaberi pakkumise või emiteerimise korraldamiseks ning väärtpaberitega ja investeerimisühingu osutatavate teenustega seotud nõustamiseks. Investeerimisagent võib nimetatud tegevust teostada ka kõrvaltegevusena.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) Investeerimisühing määrab sise-eeskirjadega investeerimisagentide kasutamise korra.
+
+(3) Investeerimisagent võib esindada vaid ühte investeerimisühingut.
+
+(4) Investeerimisühingu poolt investeerimisagendi kasutamisele kohaldatakse käesoleva seaduse §-s 82<sup>6</sup> sätestatut.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(5) Käesolevas peatükis investeerimisagendi kohta sätestatut ei kohaldata investeerimisühingu suhtes juhul, kui investeerimisühing ise osutab samaväärset teenust kui investeerimisagent.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 119<sup>2</sup>. Investeerimisagentide nimekiri
+
+(1) Investeerimisagendina võib tegutseda üksnes investeerimisagentide nimekirja (edaspidi *nimekiri*) kantud investeerimisagent ning investeerimisühing võib kasutada üksnes nimekirja kantud investeerimisagendi teenust.
+
+(2) Investeerimisagendi kannab nimekirja ja kustutab nimekirjast investeerimisühing, keda ta esindab, või seaduses sätestatud juhtudel inspektsioon.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) Nimekiri avalikustatakse inspektsiooni veebilehel.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 119<sup>3</sup>. Investeerimisagendile esitatavad nõuded
+
+(1) Füüsilisest isikust investeerimisagendil ja äriühingust investeerimisagendi juhatuse liikmel peab olema laitmatu eri- ja ärialane maine.
+
+(2) Käesoleva paragrahvi lõikes 1 sätestatud isikuna ei või tegutseda isik:
+
+1\) kelle tegevus on kaasa toonud äriühingu pankroti või sundlikvideerimise või äriühingule antud tegevusloa kehtetuks tunnistamise;
+
+2\) kellel on ärikeeld;
+
+3\) kelle tegevus on näidanud, et ta ei ole suuteline korraldama äriühingu juhtimist selliselt, et äriühingu aktsionäride, osanike, liikmete, võlausaldajate ja klientide huvid oleksid piisavalt kaitstud;
+
+4\) keda on karistatud majandusalase, ametialase, varavastase või avaliku usalduse vastase süüteo eest ja kelle karistusandmed ei ole karistusregistri seaduse kohaselt karistusregistrist kustutatud.
+
+(3) Käesoleva paragrahvi lõikes 1 nimetatud füüsilisel isikul peab olema piisav investeerimis- ja muu finantsteenuse osutamisega seotud töö kogemus ja piisav investeerimisalane väljaõpe.
+
+(4) Investeerimisühing, keda investeerimisagent esindab, on kohustatud investeerimisagendi nõudmisel pakkuma talle investeerimisalast väljaõpet.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 119<sup>4</sup>. Investeerimisagendi nimekirja kandmine
+
+(1) Isik kantakse nimekirja tema taotluse alusel.
+
+(2) Otsuse nimekirja kandmise või sellest keeldumise kohta teeb taotluse saanud investeerimisühing 14 päeva jooksul taotluse saamisest arvates. Investeerimisühing kannab taotleja nimekirja viivitamata vastava otsuse tegemise järel.
+
+(3) Nimekirja ei kanta isikut, kes ei vasta käesoleva seaduse § 79<sup>1</sup> lõigetes 1, 2, 4 ja 5 ning §-s 119<sup>3</sup> sätestatud nõuetele.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(4) Füüsilisest isikust investeerimisagendi kohta kantakse nimekirja tema ees- ja perekonnanimi, isikukood ja kontaktandmed ning investeerimisühingu nimi, keda ta esindab.
+
+(5) Juriidilisest isikust investeerimisagendi kohta kantakse nimekirja tema ärinimi, registrikood, aadress, esindatava investeerimisühingu nimi ning investeerimisühingu tegevusele kaasaaitamise eest vastutava juhatuse liikme ees- ja perekonnanimi.
+
+(6) Nimekirja tehtud kannete õigsuse eest vastutab kande teinud investeerimisühing.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 119<sup>5</sup>. Investeerimisagendi nimekirjast kustutamine
+
+(1) Investeerimisühing, keda investeerimisagent esindab, kustutab investeerimisagendi viivitamata nimekirjast oma esindajana, kui:
+
+1\) investeerimisagent taotleb enda nimekirjast kustutamist;
+
+2\) juriidilisest isikust investeerimisagent lõpeb või füüsilisest isikust investeerimisagent sureb;
+
+3\) esindussuhe investeerimisagendi ja investeerimisühingu vahel lõpeb;
+
+4\) investeerimisagent ei vasta käesolevas seaduses investeerimisagendile esitatud nõuetele;
+
+5\) investeerimisagendi juhatuse liige ei vasta käesolevas seaduses sätestatud nõuetele;
+
+6\) investeerimisagent on rikkunud käesolevas seaduses sätestatut või investeerimisühingu klientide huvid ei ole piisavalt kaitstud;
+
+7\) mõne käesolevas lõikes nimetatud asjaolu ilmnemisel nõuab inspektsioon investeerimisagendi nimekirjast kustutamist.
+
+(2) Inspektsioonil on õigus käesoleva paragrahvi lõikes 1 nimetatud asjaolude ilmnemisel kustutada investeerimisagent nimekirjast.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 119<sup>6</sup>. Investeerimisagendi erikohustused
+
+(1) Lisaks käesolevas seaduses sätestatud ja selle alusel kehtestatud õigusaktidest tulenevate kliendi teavitamise kohustuste täitmisele peab investeerimisagent kliendiga või potentsiaalse kliendiga kontakteerumisel avaldama esindatava investeerimisühingu nime ja tema volituse mahu.
+
+(2) Investeerimisagendil ei ole õigust vastu võtta ega hoida kliendi poolt investeerimisühingule üleantavat raha ja väärtpaberit, kui investeerimisagent ei ole ise investeerimisühing või krediidiasutus.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+## 3<sup>1</sup>. osa — ARUANDLUSTEENUSED
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+### 13<sup>2</sup>. peatükk — TEGUTSEMISE ÕIGUS
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 119<sup>7</sup>. Aruandlusteenuse osutaja
+
+(1) Aruandlusteenuse osutaja on väärtpaberite kohta kauplemisteabe aruannete avalikustaja, kauplemiskoondteabe esitaja ja aruandlussüsteemi korraldaja ning aruandlusteenuse osutamiseks õigust omav investeerimisühing ja turu korraldaja vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artikli 27b lõikele 2.
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+(2) Kauplemisteabe aruanded on Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artiklite 6, 7, 10, 12, 13, 20 ja 21 kohaselt esitatavad aruanded.
+
+(3) Kauplemisteabe aruannete avalikustaja on Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artikli 2 lõike 1 punktis 34 nimetatud isik.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(4) Kauplemiskoondteabe esitaja on Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artikli 2 lõike 1 punktis 35 nimetatud isik.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(5) Aruandlussüsteemi korraldaja on Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artikli 2 lõike 1 punktis 36 nimetatud isik.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(6) Aruandlusteenuse osutaja, kes osutab ühte või mitut käesoleva paragrahvi lõigetes 3 ja 5 nimetatud teenust ning vastab Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artikli 2 lõike 3 alusel vastu võetud komisjoni delegeeritud määruses sätestatud tingimustele (edaspidi *erandi alusel tegutsev aruandlusteenuse osutaja*), suhtes kohaldatakse lisaks käesolevas seaduses sätestatule Euroopa Parlamendi ja nõukogu määruses (EL) nr 600/2014 ja selle alusel kehtestatud õigusaktides selle aruandlusteenuse osutaja kohta sätestatut.
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+#### § 119<sup>8</sup>. Aruandlusteenuse osutaja tegevusluba
+
+(1) Aruandlusteenuse osutajana tegutsemiseks peab isikul olema vastav tegevusluba (edaspidi käesolevas peatükis *tegevusluba*). Kui käesoleva seaduse § 119<sup>7</sup> lõigetes 3–5 nimetatud teenuseid osutab sama isik, kajastatakse teenused, mille osutamiseks talle on antud õigused, ühel tegevusloal.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) Erandi alusel tegutseva aruandlusteenuse osutaja tegevusloa suhtes kohaldatakse käesoleva seaduse § 48 lõigetes 2–4 ja §-s 57 investeerimisühingu tegevusloa kohta sätestatut.
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+#### § 119<sup>9</sup>. Tegevusloa ulatus
+
+\[Kehtetu - RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+#### § 119<sup>10</sup>. Tegevusloa taotlemine, taotluse läbivaatamine ning tegevusloa andmise või sellest keeldumise otsus
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+(1) Käesoleva seaduse § 119<sup>7</sup> lõigetes 3–5 nimetatud ühe või mitme teenuse osutamiseks esitab isik (edaspidi *taotleja*) Euroopa Väärtpaberiturujärelevalve Asutusele või sama paragrahvi lõikes 6 sätestatud juhul inspektsioonile tegevusloa taotluse.
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+(2) Käesoleva paragrahvi lõikes 1 sätestatut ei kohaldata teises lepinguriigis aruandlusteenuse osutamiseks tegevusloa saanud isikule.
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+(3) Tegevusloa taotlemise, taotluse läbivaatamise ning tegevusloa andmise ja andmisest keeldumise suhtes kohaldatakse Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artiklites 27b–27d sätestatut.
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+(4) Taotleja, kes on erandi alusel tegutsev aruandlusteenuse osutaja, peab lisaks Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artikli 27d lõike 4 alusel kehtestatud andmetele ja dokumentidele esitama inspektsioonile:
+
+1\) käesoleva seaduse § 54 lõike 1 punktides 1, 2, 5–8, 12 ja 15 nimetatud andmed ja dokumendid;
+
+2\) Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artiklites 27g ja 27i nimetatud korrad või nende projektid ja süsteemide kirjeldused ning käesoleva seaduse §-s 119<sup>18</sup> nimetatud sise-eeskirjad.
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+(5) Käesoleva paragrahvi lõike 4 punkti 1 ei kohaldata investeerimisühingule ja turu korraldajale.
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+(6) Erandi alusel tegutseva aruandlusteenuse osutaja tegevusloa taotlemise, taotluse läbivaatamise ning tegevusloa andmise või sellest keeldumise otsuse suhtes kohaldatakse lisaks Euroopa Parlamendi ja nõukogu määruses (EL) nr 600/2014 sätestatule käesoleva seaduse § 51 lõike 1 esimeses lauses ja lõike 2 punktides 1 ja 3, § 52 lõigetes 2 ja 3, § 53 lõikes 1, § 54 lõikes 2, §-s 55 ning § 55<sup>1</sup> lõigetes 1, 2 ja 5 investeerimisühingu tegevusloa kohta sätestatut.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+#### § 119<sup>11</sup>. Täiendava tegevusloa taotlemine
+
+(1) Kui aruandlusteenuse osutaja või erandi alusel tegutsev aruandlusteenuse osutaja soovib osutada käesoleva seaduse § 119<sup>7</sup> lõigetes 3–5 nimetatud teenust, milleks tal tegevusloa alusel õigust ei ole, taotleb ta vastavalt Euroopa Väärtpaberiturujärelevalve Asutuselt või inspektsioonilt täiendava tegevusloa.
+
+(2) Täiendava tegevusloa taotlemisel esitab erandi alusel tegutsev aruandlusteenuse osutaja inspektsioonile kirjaliku avalduse, täiendatud tegevusplaani ja uuendatud, käesoleva seaduse § 119<sup>10</sup> lõike 4 punktis 2 viidatud andmed ja dokumendid.
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+#### § 119<sup>12</sup>. Tegevusloa andmisest keeldumise alused
+
+Inspektsioon võib keelduda erandi alusel tegutseva aruandlusteenuse osutaja tegevusloa või ühe või mitme käesoleva seaduse § 119<sup>7</sup> lõigetes 3 ja 5 nimetatud aruandlusteenuse osutamise õiguse andmisest, kui:
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+1\) taotleja või taotleja juhid ei vasta käesolevas seaduses, selle alusel antud õigusaktides või Euroopa Parlamendi ja nõukogu määruses (EL) nr 600/2014 ja selle artikli 27f lõike 5 alusel kehtestatud komisjoni delegeeritud määruses sätestatud nõuetele;
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+2\) tegevusloa taotlemisel esitatud andmed või dokumendid ei vasta käesoleva lõike punktis 1 nimetatud õigusaktides sätestatud nõuetele või need on ebaõiged, eksitavad või mittetäielikud;
+
+3\) taotleja ja teise isiku vaheline märkimisväärne seos takistab aruandlusteenuse osutaja üle vajalikul tasemel järelevalve teostamist või selle riigi õigusaktidest, kus on asutatud isik, kellega taotlejal on märkimisväärne seos, tulenevad nõuded või õigusaktide rakendamine takistavad aruandlusteenuse osutaja üle vajalikul tasemel järelevalve teostamist;
+
+4\) tegevusplaanis esitatud andmed ei ole adekvaatsed või piisavad;
+
+5\) käesoleva seaduse §-s 119<sup>18</sup> nimetatud sise-eeskirjad ei ole aruandlusteenuse osutaja tegevuse reguleerimiseks piisavalt täpsed või üheselt mõistetavad;
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+6\) taotlejat või tema juhti on karistatud majandusalase, ametialase, varavastase või avaliku usalduse vastase süüteo eest või terrorikuriteo või selle toimepanemisele suunatud tegevuse rahastamise või toetamise eest ja tema vastavad karistusandmed ei ole karistusregistri seaduse kohaselt karistusregistrist kustutatud või taotleja või tema juhi suhtes on kohaldatud rahvusvahelist sanktsiooni;
+
+7\) aktsiaseltsile antud aruandlusteenuse osutaja tegevusluba on varem kehtetuks tunnistatud, välja arvatud juhul, kui tegevusluba on kehtetuks tunnistatud käesoleva seaduse § 119<sup>13</sup> alusel.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 119<sup>13</sup>. Tegevusloa kehtetuks tunnistamise alused
+
+(1) Inspektsioon võib erandi alusel tegutseva aruandlusteenuse osutaja tegevusloa täielikult või osaliselt kehtetuks tunnistada, kui:
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+1\) aruandlusteenuse osutaja ei ole alustanud tegevust 12 kuu jooksul tegevusloa andmisest arvates, selgesõnaliselt loobub tegevusloast või ei ole osutanud aruandlusteenuseid kuue järjestikuse kuu jooksul;
+
+2\) on ilmnenud, et taotleja esitas tegevusloa taotlemisel valeandmeid või tegevusluba on saadud muul ebaausal viisil, samuti muudel juhtudel, kui aruandlusteenuse osutaja poolt või nimel on inspektsioonile esitatud valeandmeid;
+
+3\) aruandlusteenuse osutaja ei vasta kehtivatele tegevusloa andmise tingimustele;
+
+4\) ilmnevad käesoleva seaduse § 119<sup>12</sup> punktis 3 või 4 sätestatud asjaolud;
+
+5\) taotlejat või tema juhti on karistatud majandusalase, ametialase, varavastase või avaliku usalduse vastase süüteo eest või terrorikuriteo või selle toimepanemisele suunatud tegevuse rahastamise või toetamise eest ja tema vastavad karistusandmed ei ole karistusregistri seaduse kohaselt karistusregistrist kustutatud või taotleja või tema juhi suhtes on kohaldatud rahvusvahelist sanktsiooni või aruandlusteenuse osutaja tegevus või tegevusetus ei vasta heale äritavale;
+
+6\) aruandlusteenuse osutaja avaldab oma tegevuse või juhi kohta ebaõigeid või eksitavaid andmeid või ebaõiget ja eksitavat reklaami;
+
+7\) aruandlusteenuse osutaja ei ole võimeline täitma endale võetud kohustusi;
+
+8\) aruandlusteenuse osutaja ei ole ettenähtud tähtpäevaks või ulatuses täitnud inspektsiooni ettekirjutust;
+
+9\) aruandlusteenuse osutaja tegevuses ilmnevad tunnused, mis Finantsinspektsiooni põhjendatud kahtluse alusel osutavad rahapesule, või aruandlusteenuse osutaja rikub õigusaktiga kehtestatud rahapesu ja terrorismi rahastamise tõkestamise korda;
+
+10\) aruandlusteenuse osutaja on korduvalt või olulisel määral rikkunud õigusaktides sätestatud nõudeid;
+
+11\) lepinguriigi finantsjärelevalve asutuse poolt inspektsioonile esitatud teabe kohaselt on aruandlusteenuse osutaja rikkunud lepinguriigi õigusaktides sätestatud või lepinguriigi finantsjärelevalve asutuse esitatud tingimusi.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) Erandi alusel tegutseva aruandlusteenuse osutaja tegevusloa kehtetuks tunnistamisele kohaldatakse lisaks käesoleva paragrahvi lõikele 1 ning Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artiklile 27e käesoleva seaduse § 58 lõigetes 1 ja 3–3<sup>2</sup> investeerimisühingu tegevusloa kehtetuks tunnistamise kohta sätestatut.
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+### 13<sup>3</sup>. peatükk — ARUANDLUSTEENUSE OSUTAJA JUHTIMISELE JA ORGANISATSIOONILISELE ÜLESEHITUSELE ESITATAVAD NÕUDED
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 119<sup>14</sup>. Aruandlusteenuse osutaja juhtide valimisele, pädevusele ja tegevusele esitatavad nõuded
+
+(1) Erandi alusel tegutseva aruandlusteenuse osutaja juhatuse või nõukogu liikmeks (edaspidi käesolevas peatükis *juht*) võib valida või määrata vaid isiku, kellel on erandi alusel tegutseva aruandlusteenuse osutaja juhtimiseks vajalikud teadmised, oskused, kogemused, haridus, kutsealane sobivus, laitmatu ärialane maine ja piisavalt aega oma tööülesannete täitmiseks ning kes sobitub oma teadmiste, kogemuste ja oskuste poolest juhtide koosseisu. Erandi alusel tegutseva aruandlusteenuse osutaja juhtide teadmised, oskused ja kogemused ühtekokku peavad olema piisavad, et mõista erandi alusel tegutseva aruandlusteenuse osutaja tegevust.
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud isiku ärialane maine ei ole laitmatu muu hulgas, kui:
+
+1\) isiku tegevus või tegevusetus on kaasa toonud erandi alusel tegutseva aruandlusteenuse osutaja, krediidiandja, krediidivahendaja, krediidiasutuse, investeerimisühingu või muu finantsjärelevalve alla kuuluva isiku pankroti või tegevusloa kehtetuks tunnistamise finantsjärelevalve asutuse algatusel;
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+2\) isikut on karistatud esimese astme kuriteo eest ja tema vastavad karistusandmed ei ole karistusregistri seaduse kohaselt karistusregistrist kustutatud;
+
+3\) isiku suhtes on kohus vastavalt karistusseadustiku §-le 49 kohaldanud tegutsemiskeeldu või §-le 49<sup>1</sup> ettevõtluskeeldu, samuti kui tema suhtes on kohaldatud seaduses või kohtulahendis ettenähtud ärikeeldu või teataval erialal või ametikohal töötamise keeldu või teda on karistatud sellise keelu rikkumise eest ja tema vastavad karistusandmed ei ole karistusregistri seaduse kohaselt karistusregistrist kustutatud;
+
+4\) isik ei ole suuteline korraldama erandi alusel tegutseva aruandlusteenuse osutaja tegevust selliselt, et klientide huvid oleksid piisavalt kaitstud;
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+5\) isik on esitanud inspektsioonile valeteavet või jätnud olulise teabe esitamata;
+
+6\) isikut on karistatud majandusalase, ametialase, varavastase või avaliku usalduse vastase süüteo eest või terrorikuriteo või selle toimepanemisele suunatud tegevuse rahastamise või toetamise eest ning tema vastavad karistusandmed ei ole karistusregistri seaduse kohaselt karistusregistrist kustutatud või tema suhtes on kohaldatud rahvusvahelist sanktsiooni.
+
+(3) Erandi alusel tegutseva aruandlusteenuse osutaja juhid peavad pühendama piisavalt aega oma ülesannete täitmisele ja peavad tegutsema nende puhul eeldatava ettenägelikkuse ja hoolsusega ning vastavalt nende ametikohale esitatavatele nõuetele, seades erandi alusel tegutseva aruandlusteenuse osutaja ja klientide majanduslikud huvid kõrgemale oma isiklikest majanduslikest huvidest.
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+(4) Juht peab tegutsema ausalt, usaldusväärselt ja sõltumatult, et vajaduse korral tulemuslikult vaidlustada nõukogu otsuseid ning vajaduse korral tulemuslikult kontrollida ja jälgida juhtimisotsuste tegemist.
+
+(5) Erandi alusel tegutsev aruandlusteenuse osutaja määrab oma sise-eeskirjas sellise juhtimiskorra, millega tagatakse organisatsiooni tõhus ja usaldusväärne juhtimine, sealhulgas ülesannete lahusus organisatsioonis ja huvide konflikti ennetamine, teostab järelevalvet selle rakendamise üle ning teeb seda turu usaldusväärsust ja klientide huve toetaval viisil.
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+(6) Erandi alusel tegutseva aruandlusteenuse osutaja juhid on kohustatud regulaarselt üle vaatama käesoleva seaduse alusel kehtestatud eeskirjad ja muud protseduurireeglid, hindama nende tulemuslikkust ning rakendama asjakohaseid meetmeid puuduste kõrvaldamiseks.
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+(7) Erandi alusel tegutseva aruandlusteenuse osutaja juhi nõuetele vastavuse hindamisel arvestab inspektsioon Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artikli 27f lõike 5 alusel kehtestatud komisjoni delegeeritud määruses juhtide kohta esitatavaid andmeid.
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+#### § 119<sup>15</sup>. Juhtidest ja audiitorist teavitamine
+
+(1) Erandi alusel tegutseva aruandlusteenuse osutaja juhi valimisel või määramisel esitab valitav või määratav isik erandi alusel tegutsevale aruandlusteenuse osutajale:
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+1\) käesoleva seaduse § 54 lõike 1 punktides 5 ja 6 nimetatud andmed;
+
+2\) kinnituse, et puuduvad käesolevas seaduses sätestatud asjaolud, mis välistavad õiguse olla erandi alusel tegutseva aruandlusteenuse osutaja juht.
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+(2) Erandi alusel tegutsev aruandlusteenuse osutaja teatab inspektsioonile juhi ja audiitori valimisest või määramisest, samuti nende tagasiastumisest või tagasikutsumise algatamisest enne volituste tähtaja lõppemist või juhi ametiaja pikendamisest vähemalt kümme päeva enne vastava otsuse tegemist või viivitamata pärast vastava avalduse saamist ning esitab vajaliku teabe käesoleva seaduse §-s 119<sup>14</sup> sätestatud nõuete täitmise hindamiseks.
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+#### § 119<sup>16</sup>. Aruandlusteenuse osutaja juhi tagasikutsumine
+
+(1) Inspektsioonil on õigus ettekirjutusega nõuda erandi alusel tegutseva aruandlusteenuse osutaja juhi tagasikutsumist või valimata või määramata jätmist, kui:
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+1\) isik ei vasta käesolevas seaduses juhile kehtestatud nõuetele;
+
+2\) isik on seoses enda valimise või määramisega esitanud eksitavaid või tegelikkusele mittevastavaid andmeid või võltsitud dokumente;
+
+3\) isiku tegevus erandi alusel tegutseva aruandlusteenuse osutaja juhtimisel on näidanud, et ta ei ole suuteline erandi alusel tegutsevat aruandlusteenuse osutajat usaldusväärselt ja kindlalt juhtima või et ta ei ole suuteline korraldama erandi alusel tegtuseva aruandlusteenuse osutaja juhtimist selliselt, et klientide ja võlausaldajate huvid oleksid küllaldaselt kaitstud.
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+(2) Tagasikutsutud erandi alusel tegutseva aruandlusteenuse osutaja juhi asemele võib uue liikme määrata kohus inspektsiooni nõudel. Kohtu määratud juhi volitused kehtivad uue juhi nimetamise või valimiseni üldkoosoleku poolt.
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+#### § 119<sup>17</sup>. Organisatsioonilised nõuded aruandlusteenuse osutajale ja audiitori teavitamiskohustus
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+(1) Erandi alusel tegutseva aruandlusteenuse osutaja suhtes kohalduvad lisaks käesolevas seaduses sätestatule Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artiklites 27g ja 27i sätestatud organisatsioonilised nõuded, sealjuures lähtub aruandlusteenuse osutaja teenuse osutamisel viidatud artiklite alusel kehtestatud komisjoni delegeeritud määruses sätestatust.
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+(2) Erandi alusel tegutseva aruandlusteenuse osutaja audiitorkontrolli korral kohaldub audiitorile käesoleva seaduse §-s 113 sätestatud teavitamiskohustus.
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+(3) Erandi alusel tegutsevale aruandlusteenuse osutajale kohaldatakse info- ja kommunikatsioonitehnoloogiaga seotud intsidentidest ja küberohtudest teavitamise korral käesoleva seaduse §-s 82<sup>18</sup> investeerimisühingu kohta sätestatut.
+
+\[RT I, 11.10.2024, 1 - jõust. 17.01.2025\]
+
+#### § 119<sup>18</sup>. Sise-eeskirjad
+
+(1) Erandi alusel tegutsev aruandlusteenuse osutaja kehtestab erandi alusel tegutseva aruandlusteenuse osutaja ning tema juhtide ja töötajate tegevust reguleerivad protseduurireeglid, mis tagavad erandi alusel tegutseva aruandlusteenuse osutaja tegevust reguleerivate õigusaktide ja erandi alusel tegutseva aruandlusteenuse osutaja juhtorganite otsuste täitmise, ning rakendab neid reegleid.
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+(2) Erandi alusel tegtuseva aruandlusteenuse osutaja kehtestatud ja rakendatud sise-eeskirjad peavad tagama aruandlusteenuse õigus- ja korrapärase osutamise. Erandi alusel tegutsev aruandlusteenuse osutaja hindab regulaarselt sise-eeskirjade toimivust ja vastavust tegelikkusele ning muudab sise-eeskirju nii, et oleks tagatud klientide huvide parim kaitse.
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+(3) Sise-eeskirjadega määratakse muu hulgas kindlaks:
+
+1\) erandi alusel tegutseva aruandlusteenuse osutaja sisese teabe ja dokumentide liikumise kord, sealhulgas teabe esitamise ja edastamise nõuded;
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+2\) aruandlusteenuse osutamise kord, sealhulgas kava aruandlusteenuse osutamisega seotud äritegevuse katkemise ohu määramiseks, selle riski maandamiseks või vältimiseks;
+
+3\) töötajate valiku kriteeriumid, töö- või ametiülesanded, alluvussuhted, aruandlusahelad, aruannete esitamise kord ja õiguste delegeerimine, sätestades funktsioonide lahususe erandi alusel tegutseva aruandlusteenuse osutaja nimel kohustuste võtmisel, teenuste kajastamisel raamatupidamises ja aruannetes ning riskide hindamisel;
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+4\) andmekogude pidamise ja andmete käitlemise kord;
+
+5\) sisemised protseduurireeglid rahvusvahelise sanktsiooni seaduse alusel kehtestatud rahvusvaheliste sanktsioonide rakendamiseks ning rahapesu ja terrorismi rahastamise tõkestamise seaduse rakendamiseks ning nende täitmise kontrollimise sisekontrollieeskirjad.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+## 4. osa — REGULEERITUD TURG
+
+### 14. peatükk — TEGUTSEMISE ÕIGUS
+
+#### § 120. Tegevusluba
+
+(1) Reguleeritud turu (edaspidi käesolevas osas *turg*) korraldamiseks püsiva tegevusalana tuleb inspektsioonilt taotleda vastav tegevusluba (edaspidi käesolevas osas *tegevusluba*).
+
+(2) Tegevusluba tuleb taotleda iga turu korraldamiseks eraldi. Mitmepoolse kauplemissüsteemi tegevusluba saab taotleda koos turu tegevusloaga või pärast turu tegevusloa saamist.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(3) Igal turul võib olla ainult üks turu korraldaja (edaspidi käesolevas ja 14<sup>1</sup>.–17. peatükis *korraldaja*). Korraldaja ei saa korraldada üksnes mitmepoolset kauplemissüsteemi.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(4) Korraldajana tegutsemiseks on õigus üksnes aktsiaseltsil.
+
+(5) Korraldajal ei ole õigust tegeleda tegevusaladega, mis ei ole seotud turu ja korraldaja korraldatava muu kauplemiskoha korraldamisega või mis seavad ohtu turu või korraldaja korraldatava muu kauplemiskoha korrapärase ning usaldusväärse toimimise või tema korraldajana tegutsemise.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(6) Käesoleva paragrahvi alusel tegevusloa saanud korraldaja võib kooskõlas Euroopa Parlamendi ja nõukogu määruse (EL) 2023/1114 artikli 60 lõikega 6 korraldada artikli 3 lõike 1 punkti 16 alapunktis b sätestatud krüptovaraga kauplemise platvormi, järgides nimetatud määruses ja krüptovaraturu seaduses sätestatut.
+
+\[RT I, 21.06.2024, 3 - jõust. 01.07.2024\]
+
+(7) Kui käesolevas seaduses ja krüptovaraturu seaduses on sätestatud nõuded sama tegevuse suhtes, kohaldatakse korraldajale nõudeid, mis on detailsemad või rangemad.
+
+\[RT I, 21.06.2024, 3 - jõust. 01.07.2024\]
+
+(8) Käesolevas osas kauplemiskoha korraldamise suhtes sätestatud õigusi ei kohaldata käesoleva seaduse § 47 lõikes 9 sätestatud juhul.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+#### § 121. Tegevusloa taotlemine ja selle menetlemine
+
+(1) Korraldaja tegevusloa suhtes kohaldatakse käesoleva seaduse § 48 lõigetes 2–4, § 51 lõikes 1, lõike 2 punktides 1 ja 3 ning lõikes 3, §-s 52, § 53 lõikes 3, § 54 lõigetes 2 ja 3 ning §-des 55, 55<sup>1</sup>, 57 ja 113 sätestatut.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(2) Tegevusloa taotlemiseks esitavad asutatava või tegutseva äriühingu (edaspidi käesolevas peatükis *taotleja*) juhatuse liikmed kirjaliku avalduse ning käesoleva seaduse § 54 lõike 1 punktides 1–10, 12 ja 15 nimetatud andmed ja dokumendid ning käesoleva seaduse §-s 127 nimetatud reglemendi projekti ja taotleja äriplaani järgmise kolme aasta kohta (edaspidi käesolevas peatükis *taotlus*).
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(3) Käesoleva paragrahvi lõikes 2 nimetatud äriplaan peab sisaldama turu kauplemis-, arveldus-, teabe- ja muude süsteemide toimimise täpset kirjeldust, samuti taotleja organisatsioonilise ülesehituse, tegevuskohtade, rakendatavate info- ja kommunikatsioonitehnoloogia ja muude tehniliste vahendite ning majandusnäitajate kirjeldust.
+
+\[RT I, 11.10.2024, 1 - jõust. 17.01.2025\]
+
+(4) Valdkonna eest vastutav minister võib kehtestada oma määrusega täpsemad nõuded käesoleva paragrahvi lõikes 2 nimetatud äriplaanile.
+
+#### § 122. Tegevusloa andmisest keeldumine
+
+(1) Inspektsioon keeldub tegevusloa andmisest, kui:
+
+1\) tegevusloa taotlemisel esitatud andmed või dokumendid ei vasta käesolevas seaduses või selle alusel kehtestatud õigusaktides sätestatud nõuetele või need on ebaõiged, eksitavad või mittetäielikud;
+
+2\) taotleja ei esitanud tähtaegselt või on keeldunud esitamast inspektsioonile tegevusloa taotlemisel esitamisele kuuluvaid või muid inspektsiooni poolt nõutud andmeid, dokumente või teavet;
+
+3\) taotleja ei suuda tulenevalt oma organisatsioonilisest ülesehitusest, õiguslikest ja tehnilistest lahenditest ning vara ja omakapitali ebapiisavusest täita käesoleva seaduse ja selle alusel kehtestatud õigusaktidega korraldajale, turule või korraldaja korraldatavale muule kauplemiskohale kehtestatud nõudeid;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+4\) taotleja muud tegevusalad seavad ohtu turu või korraldaja korraldatava muu kauplemiskoha korra- või õiguspärase toimimise või korraldajana tegutsemise;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+5\) inspektsiooni hinnangul ei ole taotleja nõukogu ja juhatuse liikmetel piisavalt turu või korraldaja korraldatava muu kauplemiskoha korraldamiseks vajalikke teadmisi või nad ei ole võimelised korraldama turu või korraldaja korraldatava muu kauplemiskoha korra- ja õiguspärast toimimist, samuti kui taotleja juhil ei ole oma kohustuste täitmiseks vajalikku haridust, teadmisi, kogemusi või laitmatut mainet;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+6\) juht on olnud pankrotivõlgnik või tema suhtes on pankrotimenetlus raugenud, juhi tegevus või tegevusetus on põhjustanud isiku pankroti, sundlõpetamise või tegevusloa kehtetuks tunnistamise või juhi tegevus või tegevusetus on näidanud tema suutmatust korraldada väärtpaberituru kutselise osalise või kutselise investori tegevust selliselt, et võlausaldajate huvid oleksid küllaldaselt kaitstud;
+
+7\) taotleja ei ole täitnud käesolevas seaduses või selle alusel kehtestatud õigusaktides sätestatud nõudeid;
+
+8\) taotleja on olulisel määral või korduvalt rikkunud õigusaktides sätestatud nõudeid või taotleja tegevus või tegevusetus ei vasta headele äritavadele;
+
+9\) taotleja ja teise isiku vaheline märkimisväärne seos takistab korraldaja üle vajalikul tasemel järelevalve teostamist või riigi, mille õigusnorme kohaldatakse taotleja suhtes või temaga märkimisväärselt seotud teise isiku suhtes, õigusaktidest tulenevad nõuded või õigusaktide rakendamine takistavad korraldaja üle tõhusa järelevalve teostamist.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(2) Tegevusluba omav korraldaja on kohustatud tegevusloa kehtivuse ajal vältima asjaolusid, mis on aluseks käesoleva paragrahvi lõikes 1 sätestatud tegevusloa andmisest keeldumisele.
+
+#### § 123. Tegevusloa kehtetuks tunnistamine
+
+(1) Korraldaja tegevusloa kehtetuks tunnistamisele kohaldatakse käesoleva seaduse § 58 lõigetes 1 ja 3–4 sätestatut, kui käesolevast paragrahvist ei tulene teisiti.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) Inspektsioonil on õigus tunnistada tegevusluba kehtetuks, kui:
+
+1\) korratus turul või korraldaja korraldatavas muus kauplemiskohas võib põhjustada ohu riigi majandusele tervikuna või riigi avalikule korrale;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+2\) korraldaja seab oma tegevuse või tegevusetusega ohtu turu või korraldaja korraldatava muu kauplemiskoha korra- või õiguspärase toimimise;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+3\) korraldaja ei vasta kehtivatele tegevusloa andmise tingimustele;
+
+4\) korraldaja ei suuda oma pädevuse piires tagada turuga või korraldaja korraldatava muu kauplemiskohaga seotud investorite huvide kaitset;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+5\) korraldaja suhtes esineb käesoleva seaduse § 122 lõikes 1 sätestatud tegevusloa andmisest keeldumise alus;
+
+6\) korraldaja on rikkunud korduvalt või olulisel määral tema tegevust reguleerivates õigusaktides sätestatut või korraldaja tegevus ei vasta headele äritavadele;
+
+7\) lepinguriigi väärtpaberiturujärelevalve asutuse poolt inspektsioonile esitatud teabe kohaselt on korraldaja rikkunud lepinguriigi õigusaktis sätestatud tingimusi;
+
+8\) korraldaja ei ole täies ulatuses või tähtaegselt täitnud inspektsiooni tehtud ettekirjutust;
+
+9\) korraldaja on oma tegevuse või tegevusetuse tõttu kaotanud usalduse;
+
+10\) ilmneb, et korraldaja on valinud tegevusloa taotlemise ja registreerimise kohaks Eesti eesmärgiga hoida kõrvale teises riigis, kus ta peamiselt tegutseb, korraldaja tegevusele kehtestatud rangematest nõuetest;
+
+10<sup>1</sup>) ilmneb, et taotleja esitas tegevusloa taotlemisel valeandmeid või tegevusluba on saadud muul ebaausal viisil, samuti muudel juhtudel, kui korraldaja poolt või nimel on inspektsioonile esitatud valeandmeid;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+11\) korraldaja ei ole alustanud tegevust 12 kuu jooksul tegevusloa andmisest arvates või ei ole tegelenud turu korraldamisega kuue järjestikuse kuu jooksul või korraldaja asutajad on oma tegevusega näidanud, et korraldaja ei suuda tegevust alustada 12 kuu jooksul tegevusloa andmisest arvates, või korraldaja selgesõnaliselt loobub tegevusloast;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+12\) korraldaja ei ole alustanud turu korraldamist kuue kuu jooksul tegevusloa andmisest arvates.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+### 14<sup>1</sup>. peatükk — TURU KORRALDAJA KONTROLLILE, JUHTIMISELE JA ORGANISATSIOONILISELE ÜLESEHITUSELE ESITATAVAD NÕUDED
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 123<sup>1</sup>. Oluline osalus korraldajas
+
+(1) Korraldajas olulist osalust omandavale, suurendavale, vähendavale, võõrandavale ja omavale isikule ning korraldajale kohaldatakse käesoleva seaduse §-des 72–78 investeerimisühingu suhtes sätestatut.
+
+(2) Korraldaja avalikustab oma veebilehel selged, õiged ja täpsed andmed aktsionäride kohta, kellel möödunud majandusaasta lõpu seisuga oli korraldajas oluline osalus. Korraldaja muudab andmeid viivitamata pärast nende muutumisest teada saamist.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 124. Tegevusriski maandamine
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 124<sup>1</sup>. Korraldaja juhtide valimisele, pädevusele ja tegevusele ning töötajatele esitatavad nõuded
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1) Korraldaja nõukogu või juhatuse liikmeks (edaspidi käesolevas peatükis *juht*) võib valida või määrata isiku, kellel on korraldaja juhtimiseks vajalikud teadmised, haridus, oskused, kogemused, kutsealane sobivus, laitmatu ärialane maine ja piisavalt aega oma tööülesannete täitmiseks ning kes sobitub oma teadmiste, kogemuste ja oskuste poolest juhtide koosseisu. Inspektsioon võib käsitada korraldaja juhina korraldaja töötajat ja muud isikut, kes iseseisvalt võtab vastu juhtimisotsuseid korraldaja arengu või äritegevuse kohta. Inspektsioon teavitab korraldajat viivitamata töötaja või muu isiku käsitamisest korraldaja juhina.
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud isiku ärialane maine ei ole laitmatu muu hulgas järgmistel juhtudel:
+
+1\) isiku tegevus või tegevusetus on kaasa toonud korraldaja või muu finantsjärelevalve alla kuuluva isiku pankroti või tegevusloa kehtetuks tunnistamise finantsjärelevalve asutuse algatusel;
+
+2\) isikut on karistatud esimese astme kuriteo eest ja tema vastavad karistusandmed ei ole karistusregistri seaduse kohaselt karistusregistrist kustutatud;
+
+3\) isiku suhtes on kohus kohaldanud tegutsemiskeeldu või ettevõtluskeeldu vastavalt karistusseadustiku §-le 49 või 49<sup>1</sup>, samuti kui tema suhtes on kohaldatud seaduses või kohtulahendis ettenähtud ärikeeldu või teataval erialal või ametikohal töötamise keeldu või teda on karistatud sellise keelu rikkumise eest ja tema vastavad karistusandmed ei ole karistusregistri seaduse kohaselt karistusregistrist kustutatud;
+
+4\) isik ei ole suuteline korraldama korraldaja tegevust selliselt, et oleks tagatud turu õigus- ja korrapärane toimimine;
+
+5\) isik on esitanud inspektsioonile valeteavet või jätnud olulise teabe esitamata;
+
+6\) isikut on karistatud majandusalase, ametialase, varavastase või avaliku usalduse vastase süüteo eest või terrorikuriteo või selle toimepanemisele suunatud tegevuse rahastamise või toetamise eest ning tema vastavad karistusandmed ei ole karistusregistri seaduse kohaselt karistusregistrist kustutatud või tema suhtes on kohaldatud rahvusvahelist sanktsiooni.
+
+(3) Juhtide valimise või määramise tulemusena peab juhtide koosseis olema korraldaja juhtimiseks vähemalt käesoleva paragrahvi lõike 1 esimeses lauses nimetatud tingimusi arvestades piisavalt mitmekesine ja vastama korraldaja kehtestatud juhtide koosseisu mitmekesisuse põhimõttele. Korraldaja juhtide teadmised, oskused ja kogemused ühtekokku peavad olema piisavad, et mõista korraldaja tegevust, sealhulgas peamisi riske.
+
+(4) Korraldaja juhatuses on vähemalt kaks liiget.
+
+(5) Korraldaja juhatuse liikmed peavad:
+
+1\) pühendama piisavalt aega oma ülesannete täitmiseks korraldaja juhtimisel;
+
+2\) omama piisavalt teadmisi, oskusi ja kogemusi, et aru saada korraldaja toimimisest, sealhulgas peamistest riskidest;
+
+3\) tegutsema ausalt, usaldusväärselt ja sõltumatult, et vajaduse korral vaidlustada tulemuslikult nõukogu otsuseid ning kontrollida ja jälgida juhtimisotsuste tegemist.
+
+(6) Korraldaja peab eraldama piisavalt ressurssi ametisse nimetatud juhtide juhendamiseks ja nende kutsealaste teadmiste täiendamiseks vastavalt ametikohale esitatavatele nõuetele.
+
+(7) Korraldaja juhid määravad kindlaks korraldaja efektiivse ja usaldusväärse juhtimise meetmed, vastutavad nende rakendamise ning regulaarse ülevaatamise eest, arvestades väärtpaberituru korrapärase toimimisega. Meetmete rakendamisel määratakse korraldajas selged vastutusalad ja huvide konflikti ennetamine.
+
+(8) Korraldaja juhid vaatavad regulaarselt üle korraldaja juhtimiskorralduse asjakohasuse ja rakendamise ning võtavad tarvitusele vajalikud meetmed tuvastatud puuduste kõrvaldamiseks.
+
+(9) Korraldaja juhtidel peab olema piisav juurdepääs teabele ja dokumentidele, mis on vajalikud korraldajaga seotud juhtimisotsuste ülevaatamiseks ja jälgimiseks.
+
+(10) Korraldaja juhid ja töötajad on kohustatud tegutsema ootuspärase ettenägelikkuse ja hoolsusega ning vastavalt nende ametikohale esitatavatele nõuetele.
+
+(11) Korraldaja juhtidele kohaldatakse krediidiasutuste seaduse § 49 lõigetes 1<sup>1</sup>–1<sup>4</sup> ja lõikes 2 sätestatut, kui see on asjakohane ja proportsionaalne, arvestades korraldaja tegevuse laadi, ulatust ja keerukuse astet. Kui inspektsioon on andnud korraldaja nõukogu liikmele krediidiasutuste seaduse § 49 lõike 1<sup>3</sup> punktis 3 nimetatud loa, teavitab inspektsioon sellest Euroopa Väärtpaberiturujärelevalve Asutust.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 124<sup>2</sup>. Juhtidest ja audiitorist teavitamine
+
+(1) Korraldaja juhi valimisel või määramisel peab valitav või määratav isik korraldajale esitama:
+
+1\) käesoleva seaduse § 54 lõike 1 punktides 5 ja 6 nimetatud andmed;
+
+2\) kinnituse, et puuduvad käesolevas seaduses sätestatud asjaolud, mis välistavad õiguse olla korraldaja juht.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(2) Korraldaja teatab inspektsioonile juhi ja audiitori valimisest või määramisest, samuti nende tagasiastumisest või tagasikutsumise algatamisest enne volituste tähtaja lõppemist või juhi ametiaja pikendamisest vähemalt kümme päeva enne vastava otsuse tegemist või viivitamata pärast vastava avalduse saamist ning esitab vajaliku teabe käesoleva seaduse §-s 124<sup>1</sup> sätestatud nõuete täitmise hindamiseks. Juhi valimise või määramise korral peab korraldaja esitama käesoleva paragrahvi lõikes 1 nimetatud andmed ja kinnituse ning audiitori puhul tema nime ja audiitori kinnituse, et audiitori suhtes puuduvad asjaolud, mis välistavad õiguse olla korraldaja audiitor.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 124<sup>3</sup>. Juhi tagasikutsumine
+
+(1) Inspektsiooni ettekirjutusega võib korraldajalt nõuda juhi tagasikutsumist, kui:
+
+1\) juht ei vasta käesolevas seaduses sätestatud nõuetele;
+
+2\) seoses tema valimise või määramisega on esitatud eksitavaid, mittetäielikke või tegelikkusele mittevastavaid andmeid või dokumente;
+
+3\) juhi tegevus korraldaja juhtimisel on näidanud, et ta ei ole suuteline korraldama korraldaja juhtimist selliselt, et tema klientide ja võlausaldajate huvid oleksid piisavalt kaitstud.
+
+(2) Kui korraldaja ei ole täielikult või tähtaegselt täitnud käesoleva paragrahvi lõikes 1 nimetatud ettekirjutust, on inspektsioonil õigus nõuda juhi tagasikutsumist kohtu poolt.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 124<sup>4</sup>. Sise-eeskirjad
+
+(1) Korraldaja kehtestab protseduurireeglid (edaspidi käesolevas peatükis *sise-eeskirjad*), mis tagavad korraldaja tegevust reguleerivate õigusaktide, turu reglemendi ja korraldaja juhtorganite otsuste täitmise ning korraldaja ja turu õigus- ja korrapärase tegevuse, ning rakendab neid.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) Korraldaja kehtestatud ja rakendatud sise-eeskirjad peavad tagama korraldaja ning turu õigus- ja korrapärase tegevuse. Korraldaja hindab regulaarselt sise-eeskirjade toimivust ja vastavust tegelikkusele ning korrigeerib sise-eeskirju nii, et oleks tagatud turu parim õigus- ja korrapärane toimimine.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(3) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(4) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 124<sup>5</sup>. Nomineerimiskomitee
+
+(1) Kui see on proportsionaalne korraldaja tegevuse laadi, ulatuse ja keerukuse astmega, tuleb korraldajas moodustada nomineerimiskomitee, välja arvatud juhul, kui nomineerimiskomitee on moodustanud korraldaja emaettevõtja ja komitee tegevus hõlmab kogu konsolideerimisgruppi.
+
+(2) Nomineerimiskomitee moodustatakse nõukogu liikmetest. Korraldaja nõukogu määrab ka nomineerimiskomitee pädevuse, õigused ja tegevuse põhimõtted.
+
+(3) Nomineerimiskomitee:
+
+1\) esitab nõukogule korraldaja juhatuse liikme kandidaadid, nende ametiülesannete kirjelduse ja ametiperioodi pikkuse;
+
+2\) määrab sihttaseme, kui palju peaks juhatuses olema vähem esindatud soost isikuid, ja töötab välja poliitika vähem esindatud soost isikute arvu suurendamiseks ja seatud sihttasemini jõudmiseks;
+
+3\) hindab vähemalt üks kord aastas juhatuse koosseisu, struktuuri ja tegevust ning teeb vajaduse korral muudatusettepanekuid;
+
+4\) hindab vähemalt üks kord aastas juhatuse liikmete ja juhatuse kui terviku kutsealaste teadmiste, oskuste ja kogemuste sobivust ning teavitab tulemustest nõukogu;
+
+5\) töötab välja korraldaja juhtide koosseisu mitmekesisuse põhimõtte ja juhatuse valimise korra, hindab seda regulaarselt ning teeb vajaduse korral muudatusettepanekuid.
+
+(4) Nõukogule juhatuse liikme kandidaatide esitamisel arvestab nomineerimiskomitee juhatuse teadmiste, oskuste ja kogemuste tasakaalu ning juhtide koosseisu mitmekesisuse põhimõttega.
+
+(5) Nomineerimiskomitee peab oma ülesannete täitmiseks pidevalt jälgima ja võimaluste piires tagama, et juhatuse otsustusprotsess ei oleks liigselt mõjutatud ühe isiku või väikese grupi isikute huvidest, mis ei ole kooskõlas korraldaja huvidega tervikuna.
+
+(6) Nomineerimiskomiteel on oma ülesannete täitmisel õigus kasutada välist hindajat.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 124<sup>6</sup>. Organisatsioonilised nõuded reguleeritud turu korraldajale
+
+(1) Korraldaja kehtestab õiguslikud, tehnilised ja organisatsioonilised meetmed ning rakendab neid, et tuvastada ja maandada turu õigus- ja korrapärase toimimise riskid, sealhulgas info- ja kommunikatsioonitehnoloogia riskid Euroopa Parlamendi ja nõukogu määruse (EL) 2022/2554 II peatükis sätestatu kohaselt.
+
+\[RT I, 11.10.2024, 1 - jõust. 17.01.2025\]
+
+(2) Korraldaja rakendab meetmeid, et tuvastada huvide konfliktid turu, korraldaja või selle omanike ning turu õigus- ja korrapärase toimimise vahel ning maandada huvide konflikti võimalikud kahjulikud tagajärjed turu toimimisele või sellel osalejatele, sealhulgas juhul, kui huvide konflikt võib kahjustada inspektsiooni ja korraldaja koostööd turujärelevalve teostamisel.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) Korraldaja järgib Euroopa Parlamendi ja nõukogu määruses (EL) 2022/2554 sätestatud nõudeid, sealhulgas rakendab meetmeid, et usaldusväärselt hallata turu korraldamiseks kasutatava infotehnoloogilise süsteemi või muu tehingute tegemist vahendava ja andmeid salvestava süsteemi (edaspidi *kauplemissüsteem*) tehnilisi toiminguid ning toime tulla süsteemide riketega.
+
+\[RT I, 11.10.2024, 1 - jõust. 17.01.2025\]
+
+(4) Korraldaja kehtestab turul läbipaistvalt ja ühetaoliselt kohaldatavad reeglid, millega tagatakse õiglane ja korrapärane kauplemine turul ja tehingute täitmine objektiivsete kriteeriumide alusel.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(5) Korraldaja rakendab meetmeid, et tagada tema süsteemides täidetud tehingute tõhus ja õigeaegne lõpuleviimine.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(6) Korraldaja tagab turu korrapäraseks toimimiseks piisavate finantsvahendite pideva olemasolu, võttes arvesse turul tehtavate tehingute laadi ja mahtu ning turu toimimist mõjutavate riskide ulatust ja taset.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(7) Korraldaja ei või ühelgi enda korraldataval turul täita oma arvel kliendi korraldusi ega kaubelda oma arvel ostu- ja müügihuvide sobitamisel.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(8) Oma arvel kauplemine ostu- ja müügihuvide sobitamisel on tehing, mille täitja asub ostja ja müüja vahele sellisel viisil, et ei võta ostu- ja müügitehingu samaaegsel täitmisel tururiski ning tehing tehakse hinnaga, mille arvelt tehingu täitja ei saa kasu ega kahju, välja arvatud eelnevalt avaldatud vahendus-, teenus- või muu tasu.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(8<sup>1</sup>) Korraldaja kehtestab meetmed ja rakendab neid, et tagada Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artiklis 22b sätestatud andmete kvaliteedinõuete täitmine.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(8<sup>2</sup>) Reguleeritud turul peab olema vähemalt kolm olulisel määral aktiivset osalejat, kellel on võimalik hinna kujundamiseks kõigi teiste osalejatega vahetada teavet.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(9) Korraldajale ei kohaldata küberturvalisuse seaduse 2. peatükis sätestatud küberturvalisuse tagamise nõudeid.
+
+\[RT I, 11.10.2024, 1 - jõust. 17.01.2025\]
+
+#### § 125. Finantsriski maandamine
+
+(1) Korraldaja aktsiakapital peab olema vähemalt 375 000 eurot.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(1<sup>1</sup>) Inspektsiooni loal võib korraldaja aktsiakapital olla vähemalt 125 000 eurot, kui see on inspektsiooni hinnangul piisav korraldaja finantsriski maandamiseks, arvestades muu hulgas käesoleva seaduse § 124<sup>6</sup> lõikes 6 nimetatud asjaolusid. Inspektsioonil on õigus nõuda korraldaja aktsiakapitali suurendamist käesoleva paragrahvi lõikes 1 nimetatud summani, kui inspektsiooni hinnangul ei ole korraldaja aktsiakapital enam piisav tema finantsriski maandamiseks, arvestades muu hulgas käesoleva lõike esimeses lauses viidatud asjaolusid.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(2) Korraldaja omakapital peab olema vähemalt võrdne summaga, mis on vajalik vastava turu korraldamiseks vajalike viie kuu tegevuskulude katmiseks.
+
+(3) Kui korraldaja ei ole alustanud tegevust, arvestatakse turu korraldamiseks vajalike tegevuskulude suurus lähtuvalt äriplaanist, mille taotleja esitab tegevusloa taotlemisel inspektsioonile.
+
+#### § 125<sup>1</sup>. Süsteemide töökindluse tagamine
+
+(1) Korraldaja rakendab õiguslikke, tehnilisi ja organisatsioonilisi meetmeid, et tagada turu kauplemissüsteemi töökindlus, piisav võimsus korralduste ja sõnumite tippmahtudega toimetulekuks, korrapärane toimimine pingelises turuolukorras ning kauplemiskünniseid ja -piirmäärasid ületavate või selgelt ekslike korralduste tagasilükkamine.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) Korraldaja tagab turu kauplemissüsteemi igakülgse testimise ja selle vastavuse käesoleva paragrahvi lõikes 1 sätestatule. Korraldajal on tõhus talitluspidevuse kord teenuste osutamise jätkuvuse tagamiseks turu kauplemissüsteemi tõrgete korral, sealhulgas kehtestab korraldaja info- ja kommunikatsioonitehnoloogia talitluspidevuse põhimõtted ja plaani ning info- ja kommunikatsioonitehnoloogia reageerimis- ja taasteplaanid Euroopa Parlamendi ja nõukogu määruse (EL) 2022/2554 artiklis 11 sätestatu kohaselt.
+
+\[RT I, 11.10.2024, 1 - jõust. 17.01.2025\]
+
+#### § 125<sup>2</sup>. Organisatsioonilised lisanõuded elektroonilisel kauplemisel
+
+(1) Korraldaja rakendab õiguslikke, tehnilisi ja organisatsioonilisi meetmeid, et vältida ja hallata algoritmkauplemisest ja selleks kasutatavatest infotehnoloogilistest süsteemidest tulenevat ohtu väärtpaberituru korra- ja õiguspärasele toimimisele. Muu hulgas nõuab korraldaja turul osalejalt algoritmide asjakohast testimist ja selleks vajaliku keskkonna loomist Euroopa Parlamendi ja nõukogu määruse (EL) 2022/2554 II ja IV peatükis sätestatu kohaselt.
+
+\[RT I, 11.10.2024, 1 - jõust. 17.01.2025\]
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud meetmed peavad võimaldama piirata turul osaleja poolt turu kauplemissüsteemi sisestatud ja täitmata korralduste suhet, aeglustada korralduste voogu, kui on oht turu kauplemissüsteem üle koormata, ning kohaldada ja piirata väikseimat hinnasammu käesoleva seaduse § 137<sup>1</sup> tähenduses.
+
+(3) Korraldaja kehtestab läbipaistvad ja õiglased reeglid ühispaiknemisele käesoleva seaduse § 82<sup>15</sup> lõike 3 punkti 1 tähenduses ning kohaldab neid ühetaolistel alustel.
+
+(4) Korraldaja rakendab õiguslikke, tehnilisi ja organisatsioonilisi meetmeid, et võimaldada otsest elektroonilist juurdepääsu üksnes tingimusel, et investeerimisühingust või krediidiasutusest turul osaleja on kehtestanud asjakohased sobivusnõuded turule otsest elektroonilist juurdepääsu soovivale kliendile ja kohaldab neid ning vastutab otsese elektroonilise juurdepääsu kaudu esitatud ja täidetud korralduse vastavuse eest käesoleva seaduse nõuetele.
+
+(5) Korraldaja kehtestab kohased riskikontrolli standardid ja künnised otsese elektroonilise juurdepääsu kaudu kauplemisele. Korraldaja tagab, et otsese elektroonilise juurdepääsu kaudu esitatud korraldus on eristatav teistest turul osaleja korraldustest ja sellise korralduse täitmise või otsest elektroonilist juurdepääsu kasutava isiku kauplemise saab vajaduse korral peatada turul osaleja teistest korraldustest ja kauplemistegevusest sõltumata. Korraldaja rakendab meetmeid, et vajaduse korral peatada või lõpetada turul osalejale otsese elektroonilise juurdepääsu võimaldamine käesoleva paragrahvi lõikes 4 ja käesolevas lõikes sätestatu järgimata jätmise korral.
+
+(6) Korraldaja tagab, et algoritmkauplemise käigus turule esitatud iga korraldus on tuvastatav ja turul osaleja tähistab selleks iga sellise korralduse, selle koostamiseks kasutatud algoritmi ja korralduse sisestaja. Nõudmisel esitab korraldaja inspektsioonile käesoleva lõike esimeses lauses nimetatud teabe.
+
+(7) Kauplemise jälgimise võimaldamiseks teeb korraldaja inspektsiooni nõudmisel talle kättesaadavaks teabe kõigi turule esitatud ja täitmata korralduste kohta.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 125<sup>3</sup>. Intsidendist ja küberohust teavitamine
+
+(1) Korraldaja teavitab tõsisest info- ja kommunikatsioonitehnoloogiaga seotud intsidendist inspektsiooni ning Riigi Infosüsteemi Ametit Euroopa Parlamendi ja nõukogu määruse (EL) 2022/2554 artiklis 19 sätestatu kohaselt.
+
+(2) Korraldaja kasutab käesoleva paragrahvi lõikes 1 sätestatud juhul esialgse teate ja raportite edastamisel Euroopa Parlamendi ja nõukogu määruse (EL) 2022/2554 artikli 20 alusel kehtestatud teavitusvorme ja lähtub kehtestatud tähtaegadest, välja arvatud juhul, kui tehnilistel põhjustel ei ole võimalik esialgset teadet edastada asjakohast vormi kasutades.
+
+(3) Kui korraldaja otsustab Euroopa Parlamendi ja nõukogu määruse (EL) 2022/2554 artikli 19 lõike 2 kohaselt teavitada inspektsiooni olulisest küberohust, edastab ta teavituse ühtlasi Riigi Infosüsteemi Ametile.
+
+\[RT I, 11.10.2024, 1 - jõust. 17.01.2025\]
+
+### 15. peatükk — REGLEMENT
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 126. Isereguleerimine
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 127. Reglement
+
+(1) Korraldaja kehtestab reeglid turul osalemise, väärtpaberi turule kauplemisele võtmise ja tehingute tegemise ning täitmise kohta (edaspidi *reglement*). Reglementi kohaldatakse ja muudetakse ühetaoliselt ning samadel alustel iga turul osaleja, turul osalemise taotleja, turule kauplemisele võetud väärtpaberite emitendi ja kauplemise taotleja suhtes.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1<sup>1</sup>) Korraldaja tagab reglemendi rakendamisega turu läbipaistva ja tõhusa toimimise selliselt, et on täidetud mõlemad järgmised tingimused:
+
+1\) väärtpaberitega kauplemise ja väärtpaberite emitentide kohta õige teabe viivitamatu ja üheaegne kättesaadavus kõigile turul osalejatele ning avalikkusele;
+
+2\) teabe kohene kättesaadavus turul osalejate pakkumuste ja tehingute tegemise kohta ning tehingute tõhus täitmine.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1<sup>2</sup>) Reglementi käsitatakse korraldaja ja turul osalemise õiguse taotleja ning väärtpaberite turule kauplemisele võtmiseks korraldaja ja emitendi või kauplemise taotleja vahel sõlmitava lepingu tüüptingimustena.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) Reglemendis sätestatakse vähemalt:
+
+1\) turu ja selle korraldaja organisatsiooniline ülesehitus korraldaja põhikirjas kajastamata osas;
+
+2\) väärtpaberi kauplemisele võtmise, kauplemise peatamise ja kauplemise lõpetamise alused, tingimused ning kord;
+
+3\) kauplemisele võetud väärtpaberi emitendi peamised õigused ning kohustused korraldaja, turul osalejate ja teiste turule kauplemisele võetud väärtpaberi emitentide suhtes;
+
+4\) korraldajale teabe edastamise alused, tingimused ja kord;
+
+5\) turule lubamise ja osaleja turult eemaldamise ning otse- ja kaugliikmena tegutsemise alused, tingimused ja kord;
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+6\) turul osaleja peamised õigused ning kohustused korraldaja, teiste turul osalejate, turul osaleja klientide või võlausaldajate ja turule kauplemisele võetud väärtpaberite emitentide suhtes;
+
+7\) turul tehingute võimalikult kiire, ohutu ja tõrgeteta tegemise ning arveldamise tingimused ja kord, tehingust teatamine, tehingu täitmiseks vajaliku teabe edastamine ning väärtpaberi hinnanoteeringu ja muude selliste andmete avalikustamine;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+8\) väärtpaberi kauplemisele võtmist, kauplemise peatamist ja kauplemise lõpetamist otsustava isiku, organi ja organi liikme õigused ning kohustused, samuti valimise või määramise alused, tingimused ja kord;
+
+9\) järelevalvet teostava isiku, organi ja organi liikme õigused ning kohustused järelevalve teostamisel, samuti valimise või määramise alused, tingimused ja kord;
+
+10\) õiguskaitsevahendid, sealhulgas leppetrahvid käesoleva seaduse ning selle alusel kehtestatud õigusakti ja reglemendi rikkumise eest, samuti nende rakendamise vaidlustamise kord ning õiguskaitsevahendite rakendamise avalikustamine korraldaja poolt;
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+11\) garantiifondiga seonduv, kui reguleeritud turul on garantiifond.
+
+(3) Reglemendi suhtes ei kohaldata seadusega ebamõistlikult kahjustavate tüüptingimuste kohta sätestatut.
+
+(4) Korraldajaga sõlmitud leping teenustasu suuruse ja maksmise kohta turul osalemise, väärtpaberi kauplemisele lubamise, turul tehingute tegemise ja muude teenuste eest ei ole reglement.
+
+#### § 128. Reglemendi muutmine
+
+(1) Korraldajal on õigus reglementi ühepoolselt muuta.
+
+(2) Reglemendi muutmise korral esitatakse reglemendi muudatused kooskõlastamiseks inspektsioonile. Kooskõlastamise taotlemisel esitatakse inspektsioonile vastav kirjalik avaldus, reglemendi projekt koos muudatuste selgitustega ja hinnanguga nende mõju kohta turul osalejatele ning turu toimimisele.
+
+(3) Inspektsioon võib nõuda reglemendi muudatuste täpsustamiseks ja mõju hindamiseks korraldajalt täiendavate andmete ja dokumentide esitamist.
+
+(4) Inspektsioon teeb otsuse reglemendi muudatuste kooskõlastamise või sellest keeldumise kohta 30 päeva jooksul vastava avalduse esitamisest arvates, kuid mitte hiljem kui 20 päeva pärast kõigi käesoleva paragrahvi lõikes 3 nimetatud andmete esitamist.
+
+(5) Inspektsioon keeldub kooskõlastamisest, kui reglemendi muudatused on vastuolus õigusaktidega, ebamõistlikult kahjustavad, vastuolulised, eksitavad või mittetäielikud või kui nende rakendamine ei taga küllaldaselt investorite, emitentide või turul osalejate huvide kaitset.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 129. Reglemendi muudatuste jõustumine
+
+(1) Reglemendi muudatused jõustuvad nende avalikustamisel käesoleva seaduse §-s 130 sätestatud korras, kui muudatustes ei ole määratud hilisemat tähtaega.
+
+(2) Avalikustada võib üksnes inspektsiooni poolt kooskõlastatud reglemendi muudatusi.
+
+#### § 130. Reglemendi avalikustamine
+
+Korraldaja avalikustab reglemendi oma veebilehel.
+
+### 16. peatükk — TURU KORRALDAMINE
+
+#### 1. jagu — Turul osalemine ja väärtpaberi kauplemisele võtmine
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 131. Korraldaja üldine kohustus
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 132. Võrdne kohtlemine
+
+(1) Õigus turul osaleda on igal Eesti või teise lepinguriigi investeerimisühingul, krediidiasutusel ja muul isikul, kellel on laitmatu ärialane maine, sobiv organisatsiooniline ülesehitus, piisavad oskused, asjatundlikkus ja kogemused turul osalemiseks ning finantsvahendid turul tehtud tehingute kiireks ja tõrgeteta täitmiseks.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1<sup>1</sup>) Igaüks võib taotleda väärtpaberite turul kauplemisele võtmist, kui väärtpaberite turul kauplemisele võtmine vastab käesolevas seaduses, selle alusel kehtestatud õigusaktides ja prospektimääruses sätestatule.
+
+\[RT I 2005, 59, 464 - jõust. 15.11.2005\]
+
+(2) \[Kehtetu - RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(3) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(4) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(5) Korraldaja tagab, et turul kehtestatud teenustasud, muu hulgas tehingute täitmise tasud, muud tasud ja mis tahes tagastatavad soodustused on läbipaistvalt, õiglaselt ja ühetaolistel alustel kohaldatavad ning ei ajenda korraldusi esitama, muutma, täitma ega tühistama viisil, mis võib ohustada väärtpaberituru korra- ja õiguspärast toimimist.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(6) Korraldaja võimaldab tagastatavaid soodustusi üksnes turutegemise kohustuse täitmise eest üksiku aktsia või aktsiakorvi lõikes.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(7) Korraldajal on õigus määrata korralduse tühistamise tasu vastavalt korralduse hoidmise ajale ja väärtpaberile.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 132<sup>1</sup>. Käesoleva seaduse II osa sätete kohaldamine väärtpaberite turul kauplemisele võtmisel
+
+(1) Seoses väärtpaberite turul kauplemisele võtmisega avalikustatava prospekti (edaspidi *kauplemisprospekt*) ja selle lisade, samuti kauplemisprospekti avalikustamise suhtes kohaldatakse käesoleva seaduse § 15 lõigetes 1–5 ja §-s 31 prospekti ning selle pakkumise kohta sätestatut.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+(2) Kui käesolevas peatükis ei ole sätestatud teisiti, kohaldatakse väärtpaberite turul kauplemisele võtmise, kauplemise taotleja ja turul kaubeldavate väärtpaberite emitendi suhtes käesoleva seaduse §-des 31 ja 36 väärtpaberite avaliku pakkumise, pakkuja ning emitendi kohta sätestatut.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+(3) Käesoleva seaduse §-des 25–28 sätestatut kohaldatakse kauplemisprospektile, arvestades, et kahju tekitajal on õigus kahju hüvitada, omandades turul kaubeldava väärtpaberi kannatanult hinna eest, mis kannatanu selle omandamiseks tasus, või kohe pärast väärtpaberi turul kauplemisele võtmist kehtinud müügihinna eest.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+(4) Käesoleva osa 14.–17. peatükis väärtpaberite kohta sätestatut ei kohaldata Euroopa Parlamendi ja nõukogu määruse (EL) 2017/1129 artiklis 1 sätestatud erandite ning käesoleva seaduse § 14 lõikes 2 nimetatud väärtpaberite suhtes. Nimetatud väärtpaberitega turul kauplemine toimub vastavalt selle turu reglemendile, kus väärtpaberid kauplemisele võetakse.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+##### § 132<sup>2</sup>. Kauplemisprospekti avalikustamine väärtpaberite turul kauplemiseks võtmisel
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(1) Väärtpaberite Eestis asuvale või tegutsevale turule kauplemisele võtmisel tuleb avalikustada selle kohta Euroopa Parlamendi ja nõukogu määruses (EL) 2017/1129 kehtestatud nõuetele vastav prospekt.
+
+(2) Prospekti ei pea avalikustama Euroopa Parlamendi ja nõukogu määruse (EL) 2017/1129 artikli 1 lõikes 5 sätestatud juhtudel.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+##### § 132<sup>3</sup>. Erandid kauplemisprospekti avalikustamisel
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+##### § 132<sup>4</sup>. Kauplemisprospekti lisa
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+##### § 132<sup>5</sup>. Väärtpaberite turule kauplemiseks võtmine
+
+(1) Kauplemisele võib võtta ainult sellise väärtpaberi, mis vastab reglemendis sätestatud tingimustele, mille kohaselt on tagatud, et:
+
+1\) väärtpaberiga on võimalik turul õiglaselt, korrapäraselt ja tulemuslikult tehinguid teha komisjoni delegeeritud määruse (EL) nr 2017/568, millega täiendatakse Euroopa Parlamendi ja nõukogu direktiivi 2014/65/EL seoses finantsinstrumentide reguleeritud turgudel kauplemisele lubamist käsitlevate regulatiivsete tehniliste standarditega (ELT L 87, 31.03.2017, lk 117–121), artiklite 2–5 tähenduses;
+
+2\) käesoleva seaduse § 2 lõike 1 punktides 1–3, 6 ja 7 nimetatud väärtpaber on vabalt kaubeldav komisjoni delegeeritud määruse (EL) nr 2017/568 artikli 1 tähenduses;
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+3\) tuletisväärtpaberi olemus võimaldab selle korrapärast ja õiget hinnastamist ning sellega tehtud tehingute kiiret ja tõrgeteta arveldamist.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(4) Korraldaja kehtestab õiguslikud, tehnilised ja organisatsioonilised meetmed ja rakendab neid, et tagada väärtpaberi kauplemisele võtmisel väärtpaberi vastavus korraldaja kehtestatud kauplemisele võtmise tingimustele ja kauplemisele võetud väärtpaberi vastavuse regulaarne kontrollimine.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 132<sup>6</sup>. Aktsiate turul kauplemisele võtmise lisatingimused
+
+(1) Aktsiaid võib kauplemisele võtta, kui nende turuväärtus on vähemalt miljon eurot, või kui seda ei ole võimalik hinnata, siis juhul, kui aktsiaseltsi viimase majandusaasta omakapital on vähemalt miljon eurot.
+
+(2) Käesoleva paragrahvi lõikes 1 sätestatud nõuet ei kohaldata selliste aktsiate kauplemisele võtmise suhtes, mis on juba kauplemisele võetud aktsiatega sama liiki.
+
+(3) Kauplemisele võib võtta üksnes selliseid aktsiaid, mille puhul on kauplemisele võtmise ajal täidetud tingimus, et avalikkuse hulka kuuluvatele investoritele (edaspidi käesolevas paragrahvis *avalikkus*) kuulub vähemalt kümme protsenti kõigist seda liiki aktsiatest, kui käesolevas paragrahvis ei ole sätestatud teisiti.
+
+(4) Kui käesoleva paragrahvi lõikes 3 sätestatud tingimus ei ole täidetud, võib kauplemisele võtta üksnes selliseid aktsiaid, mille puhul on kauplemisele võtmise ajal täidetud vähemalt üks järgmistest tingimustest:
+
+1\) piisav arv aktsiaid kuulub avalikkusele;
+
+2\) aktsiad kuuluvad piisavale arvule aktsionäridele;
+
+3\) avalikkusele kuuluvate aktsiate turuväärtus vastab piisaval määral kõigi seda liiki aktsiate turuväärtusele.
+
+(5) Aktsiaid ei käsitata avalikkusele kuuluvateks, kui need kuuluvad emitendi või tema tütarettevõtja juhtkonnale või nimetatud isikute lähikondlastele.
+
+(6) Kui ühele aktsionärile kuulub rohkem kui viis protsenti emitendi aktsiatega esindatud häältest, ei käsitata neid aktsiaid avalikkusele kuuluvateks, välja arvatud juhul, kui korraldaja kauplemisele võtmist otsustav organ otsustab, et sellist isikut võib pidada avalikkuse hulka kuuluvaks.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+##### § 133. Vaidluste lahendamine
+
+(1) Isikul on õigus esitada kohtusse või poolte kokkuleppel käesoleva seaduse §-s 202 nimetatud vahekohtusse hagi väärtpaberi kauplemisele võtmise õiguse tunnustamiseks ja korraldaja sundimiseks väärtpaberi kauplemisele võtmiseks.
+
+(2) Isikul on õigus esitada kohtusse või poolte kokkuleppel käesoleva seaduse §-s 202 nimetatud vahekohtusse hagi turul osalemise õiguse tunnustamiseks ja korraldaja sundimiseks isikule turul osalemise õiguse andmiseks.
+
+##### § 134. Turul osaleja õigused ja kohustused
+
+(1) Turul osaleja on kohustatud:
+
+1\) täitma reglementi;
+
+2\) korraldama korraldajale õigusakti või reglemendi alusel nõutud ulatuses õige, täpse ja täieliku teabe andmise õigusaktis ja reglemendis sätestatud kohustuste täitmiseks;
+
+3\) andma korraldaja poolt nõutud või reglemendis sätestatud ulatuses teavet väljaspool turgu sellel turul kaubeldavate väärtpaberitega oma arvel või kolmanda isiku arvel tehtud tehingutest;
+
+4\) järgima ausa ja õiglase kauplemise põhimõtteid ning turul kehtivaid häid tavasid.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(2) Turul osalejad ei ole kohustatud turul omavaheliste pakkumuste ja tehingute tegemisel rakendama üksteise suhtes käesoleva seaduse § 79<sup>1</sup> lõigetes 2 ja 4, § 85 lõike 1 punktides 1, 5–7 ja 9 ning §-des 85<sup>2</sup>, 85<sup>4</sup>–87<sup>6</sup> ja 89<sup>1</sup> sätestatut, välja arvatud juhul, kui pakkumusi ja tehinguid tehakse kliendi nimel või arvel.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) Korraldaja teavitab inspektsiooni vähemalt üks kord aastas ja inspektsiooni nõudmisel turul osalejatest.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 134<sup>1</sup>. Turul osalemine otse ja kaugliikmena
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+Korraldaja võimaldab teise lepinguriigi investeerimisühingul ja krediidiasutusel osaleda turul otse, kui investeerimisühing või krediidiasutus on Eestis asutanud filiaali, või turu asukohas kohal olemata (edaspidi *kaugliige*), välja arvatud juhul, kui kohalolek turul tehingute tegemiseks on vajalik turu kauplemistingimustest ja süsteemidest tulenevalt. Kaugliikmele ei kohaldata käesoleva seaduse §-s 70 sätestatut.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 134<sup>2</sup>. Eesti turule juurdepääs teises lepinguriigis
+
+(1) Teises lepinguriigis Eesti turule juurdepääsu võimaldamist kavandav korraldaja esitab inspektsioonile lepinguriigi nime, kus juurdepääsu võimaldada kavatsetakse ja olemasolul turul osalejate ja kaugliikmete andmed.
+
+(2) Kui korraldaja kavatseb võimaldada Eesti turule juurdepääsu teises lepinguriigis, teeb inspektsioon otsuse nimetatud teabe vastava lepinguriigi väärtpaberiturujärelevalve asutusele edastamise kohta ning teavitab sellest vastavat lepinguriigi väärtpaberiturujärelevalve asutust ühe kuu jooksul käesoleva paragrahvi lõikes 1 nimetatud teabe saamisest arvates. Otsuse teabe edastamise kohta teeb inspektsioon viivitamata korraldajale teatavaks.
+
+(3) Korraldaja võib alustada oma tegevust teises lepinguriigis vastavalt selle lepinguriigi õigusaktides sätestatule.
+
+(4) Käesoleva paragrahvi lõikes 1 nimetatud lepinguriigi väärtpaberiturujärelevalve asutuse taotluse alusel esitab inspektsioon mõistliku aja jooksul nimetatud järelevalveasutusele Eestis asutatud turul osalejate ja kaugliikmete andmed.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+##### § 134<sup>3</sup>. Lepinguriigi turule juurdepääs Eestis
+
+(1) Lepinguriigis registreeritud korraldaja võib Eestis võimaldada juurdepääsu enda korraldatavale turule pärast oma lepinguriigi väärtpaberiturujärelevalve asutuse teavitamist.
+
+(2) Inspektsioon võib lepinguriigi väärtpaberiturujärelevalve asutusele esitada taotluse Eestis käesoleva paragrahvi lõikes 1 nimetatud lepinguriigi korraldaja korraldatava turu liikmete ja osaliste andmete saamiseks.
+
+(3) Inspektsioonil on õigus teatada lepinguriigi korraldaja poolt Eestis toime pandud õigusrikkumisest selle korraldaja üle järelevalve teostajale.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+##### § 134<sup>4</sup>. Likviidsuse pakkujad
+
+(1) Korraldaja sõlmib kirjaliku kokkuleppe iga turul turutegemise strateegiat rakendava investeerimisühinguga ja kontrollib selle täitmist.
+
+(2) Kui see on asjakohane turu kauplemise laadi ja ulatuse puhul, rakendab korraldaja tegevuskava piisava hulga investeerimisühingutega sellise kokkuleppe sõlmimiseks, mis eeldab investeerimisühingult siduvate ja konkurentsivõimeliste hinnapakkumuste tegemist turul korrapärase ja prognoositava likviidsuse tagamiseks.
+
+(3) Käesoleva paragrahvi lõigetes 1 ja 2 nimetatud kokkuleppes määratakse kindlaks investeerimisühingu kohustused likviidsuse pakkumisel ning selle eest saadavad soodustused kas tagasimaksena või muul viisil ja lõikes 2 nimetatud juhul investeerimisühingu mis tahes muud õigused.
+
+(4) Korraldaja teavitab turutegemise strateegiat rakendava investeerimisühinguga kokkuleppe sõlmimisest inspektsiooni ja esitab nõudmisel kogu lisateabe, mis on inspektsioonile vajalik, et kontrollida, kas korraldaja järgib käesolevas paragrahvis sätestatut.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 135. Turul kaubeldava väärtpaberi emitendi kohustused
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(1) Turul kaubeldava väärtpaberi emitent on kohustatud täitma käesoleva seaduse § 134 lõike 1 punktides 1 ja 2 sätestatut, välja arvatud juhul, kui turul kaubeldakse väärtpaberiga selle emitendi nõusolekuta.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(2) \[Kehtetu - RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(3) \[Kehtetu - RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(4) \[Kehtetu - RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+(5) \[Kehtetu - RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+##### § 135<sup>1</sup>. Turul kaubeldava väärtpaberi emitendi audiitor ja aruannete auditeerimine
+
+(1) \[Kehtetu - RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(2) Turul kaubeldava väärtpaberi emitendi audiitor ning emitent on kohustatud maandama piisavalt huvide konflikti, enesekontrolliriski ning muud riskid audiitori sõltumatusele.
+
+(3) Turul kaubeldava väärtpaberi emitendi audiitoriks võib nimetada selle emitendi auditeerimiseks sõltumatu, piisavate teadmiste ja kogemustega usaldusväärse audiitori.
+
+\[RT I, 30.06.2017, 1 - jõust. 01.07.2017\]
+
+(4) Turul kaubeldava väärtpaberi Eesti emitendi asukohajärgne kohus määrab inspektsiooni avalduse alusel turul kaubeldava väärtpaberi emitendi uue audiitori, kui audiitor inspektsiooni arvamuse kohaselt ei vasta käesoleva paragrahvi lõike 3 nõuetele.
+
+\[RT I 2005, 13, 64 - jõust. 01.04.2005\]
+
+(5) Isikud, kellele kuulub vähemalt viis protsenti turul kaubeldava väärtpaberi emitendi osa- või aktsiakapitalist või sellega esindatud hääleõigustest, võivad kohtult taotleda üldkoosoleku nimetatud audiitorettevõtja asendamist äriseadustiku §-s 329<sup>1</sup> sätestatud korras.
+
+\[RT I, 30.06.2017, 1 - jõust. 01.07.2017\]
+
+##### § 135<sup>2</sup>. Turul kaubeldava hääleõigust andva aktsia emitendi juhtkonna tasustamise põhimõtted
+
+(1) Turul kaubeldava hääleõigust andva aktsia emitendi (edaspidi *aktsiaemitent*) juhatuse liikmete (edaspidi käesolevas paragrahvis ja §-s 135<sup>3</sup>
+ *juhid*) tasustamise ja tööga kaasnevate hüvede, sealhulgas lahkumis- ja pensionihüvitiste ja muude soodustuste määramise alused ja põhimõtted (edaspidi *tasustamise põhimõtted*) peavad olema selged ja läbipaistvad ning lähtuma äriühingu pikaajalistest eesmärkidest, arvestades seejuures aktsiaemitendi majandustulemusi ning investorite ja võlausaldajate õigustatud huve.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+(2) Tasustamise põhimõtetes tuleb määrata ka juhtide aktsiatega, aktsiaoptsioonidega või muude sarnaste õigustega, mis on seotud aktsiaemitendi aktsia omandamisega, tasustamise alused ja ka minimaalne periood, mille jooksul ei või eelnimetatud õigust teostada või kasutada.
+
+\[RT I, 24.03.2011, 1 - jõust. 03.04.2011\]
+
+(3) Aktsiaemitendi nõukogu kinnitab aktsiaemitendi juhtide tasustamise põhimõtted ja teostab nende järgimise üle järelevalvet.
+
+\[RT I, 24.03.2011, 1 - jõust. 03.04.2011\]
+
+(4) Aktsiaemitendi juhtidele majandustulemustelt ja tehingutelt makstavate tasude (edaspidi *tulemustasu*) määramise alused peavad olema objektiivsed ja põhjendatud ning määrama eelnevalt kindlaks ajaperioodi, mille eest tulemustasu makstakse.
+
+\[RT I, 24.03.2011, 1 - jõust. 03.04.2011\]
+
+(5) Aktsiaemitendi juhtidele tulemustasu määramisel ja väljamaksmisel tuleb arvesse võtta järgmist:
+
+1\) põhitöö- ja tulemustasu osakaal peab olema mõistlikus vastavuses juhi ülesannetega;
+
+2\) põhitöötasu peab moodustama kogu töötasust piisavalt suure osa, mis võimaldab vajaduse korral jätta tulemustasu määramata või välja maksmata.
+
+\[RT I, 24.03.2011, 1 - jõust. 03.04.2011\]
+
+(6) Aktsiaemitent peab kehtestama juhtide tasustamise põhimõtete kontrollimise protseduuri.
+
+\[RT I, 24.03.2011, 1 - jõust. 03.04.2011\]
+
+(7) Aktsiaemitendi juhatuse liikme lepingus või töölepingus tuleb ette näha aktsiaemitendi õigus vähendada väljamaksmisele kuuluvaid tulemustasusid, peatada tulemustasude väljamaksmine või nõuda väljamakstud tulemustasude osalist või täielikku tagastamist. Aktsiaemitent võib kohaldada eelnimetatud õigust, kui:
+
+1\) aktsiaemitendi üldised majandustulemused on eelneva perioodiga võrreldes märkimisväärselt halvenenud;
+
+2\) aktsiaemitendi juhid ei täida tulemuskriteeriume või
+
+3\) tulemustasu määramisel on tuginetud andmetele, mis osutusid olulisel määral ebatäpseks või ebaõigeks.
+
+\[RT I, 24.03.2011, 1 - jõust. 03.04.2011\]
+
+(8) Tulemustasust tuleneva nõude aegumistähtaeg on kolm aastat ajast, kui otsustati aktsiaemitendi juhile tulemustasu maksmine.
+
+\[RT I, 24.03.2011, 1 - jõust. 03.04.2011\]
+
+(9) Aktsiaemitent peab oma majandusaasta aruandes avalikustama viimase majandusaasta kohta juhtide tasustamise põhimõtted ja nende rakendamist iseloomustava teabe järgmisel kujul:
+
+1\) tasustamise põhimõtete olulised tunnused, sealhulgas teave töötulemuste mõõtmiseks kasutatavate kriteeriumide ja nende täitmise kohta;
+
+\[RT I, 24.03.2011, 1 - jõust. 03.04.2011\]
+
+2\) põhjendused tulemustasude ja lahkumishüvitiste maksmise ning muude töötulemustel põhinevate rahaliste või oluliste mitterahaliste soodustuste võimaldamise kohta;
+
+\[RT I, 24.03.2011, 1 - jõust. 03.04.2011\]
+
+3\) tasustamise põhimõtete väljatöötamisel huvide konflikti ennetamise või maandamise meetmed;
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019, kohaldatakse alates 2020. aasta 31. detsembrile järgnevast aktsiaemitendi majandusaastast.\]
+
+4\) tasustamise põhimõtete muutmisel üldkoosolekul aktsionäride esitatud ettepanekute läbivaatamise ja arvestamise kord;
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019, kohaldatakse alates 2020. aasta 31. detsembrile järgnevast aktsiaemitendi majandusaastast.\]
+
+5\) tasustamise põhimõtete muutmisel viimaste oluliste muudatuste selgitused;
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019, kohaldatakse alates 2020. aasta 31. detsembrile järgnevast aktsiaemitendi majandusaastast.\]
+
+6\) tasustamise põhimõtete üldkoosolekul hääletusele panemise kuupäev ja hääletustulemus.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019, kohaldatakse alates 2020. aasta 31. detsembrile järgnevast aktsiaemitendi majandusaastast.\]
+
+(10) Käesolevas seaduses käsitatakse töötasuna ka juhatuse liikmetele makstavaid tasusid.
+
+\[RT I, 24.03.2011, 1 - jõust. 03.04.2011\]
+
+(11) Üldkoosolek hääletab tasustamise põhimõtete üle vähemalt üks kord iga nelja aasta jooksul. Tasustamise põhimõtete olulised muudatused tuleb esitada iga kord üldkoosolekule hääletamiseks. Üldkoosoleku otsus tasustamise põhimõtete heakskiitmise kohta on nõukogule soovituslik, kui põhikirjas ei ole sätestatud teisiti. Tasustamise põhimõtted loetakse heakskiidetuks, kui nende poolt on antud üle poole üldkoosolekul esindatud häältest, kui põhikirjaga ei ole ette nähtud suurema häälteenamuse nõuet.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019, kohaldatakse alates 2020. aasta 31. detsembrile järgnevast aktsiaemitendi majandusaastast.\]
+
+(12) Tasustamise põhimõtetest võib teha erandeid, kui see on vajalik aktsiaemitendi pikaajaliste huvide ja jätkusuutlikkuse tagamiseks. Erandite tegemine on lubatud vaid juhul, kui tasustamise põhimõtetes on täpsustatud, milliseid erandeid on lubatud teha.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019, kohaldatakse alates 2020. aasta 31. detsembrile järgnevast aktsiaemitendi majandusaastast.\]
+
+##### § 135<sup>3</sup>. Tasustamisaruanne
+
+(1) Aktsiaemitent on kohustatud avalikustama oma veebilehel tasustamisaruande viimase majandusaasta kohta ning tagama selle avalikult kättesaadavuse vähemalt kümne aasta jooksul. Tasustamisaruanne võib olla avalikult kättesaadav üle kümne aasta, kui see ei sisalda juhtide isikuandmeid.
+
+(2) Tasustamisaruandes antakse terviklik ja selge ülevaade juhtidele tasustamise põhimõtete kohaselt makstud tasu kohta.
+
+(3) Tasustamisaruandes esitatakse iga juhi kohta järgmine teave:
+
+1\) tasu kogusumma, tuues eraldi välja põhitöötasu ja tulemustasu osakaalu;
+
+2\) selgitus tasu kogusumma vastavuse kohta tasustamise põhimõtetele, näiteks kuidas see aitab kaasa aktsiaemitendi pikaajalistele tulemustele;
+
+3\) teave selle kohta, kuidas on kohaldatud tulemuslikkuse kriteeriume;
+
+4\) juhi tasu, äriühingu tulemuslikkuse ja äriühingu töötajate täistööaja keskmise tasu iga-aastane muutus vähemalt viie viimase majandusaasta jooksul, mis on esitatud võrdlemist võimaldaval viisil;
+
+5\) tasu mis tahes ettevõtjalt, kes kuulub samasse kontserni;
+
+6\) antud või pakutud aktsiate ja aktsiaoptsioonide arv ning õiguste kasutamise põhitingimused, sealhulgas täitmishind ja täitmispäev, ning nende mis tahes muudatused;
+
+7\) ülevaade muutuvtasu tagasinõudmise võimaluse kasutamise kohta;
+
+8\) ülevaade tasustamise põhimõtetest tehtud erandite kohta, sealhulgas erakorraliste asjaolude ja tehtud erandite kirjeldus.
+
+(4) Tasustamisaruandes ei kajastata Euroopa Parlamendi ja nõukogu määruse (EL) 2016/679 füüsiliste isikute kaitse kohta isikuandmete töötlemisel ja selliste andmete vaba liikumise ning direktiivi 95/46/EÜ kehtetuks tunnistamise kohta (isikuandmete kaitse üldmäärus) (ELT L 119, 04.05.2016, lk 1–88) artikli 9 lõikes 1 nimetatud isikuandmeid.
+
+(5) Tasustamisaruanne esitatakse hääletamiseks üldkoosolekule majandusaasta aruande lisana. Aktsionäridel on õigus üldkoosolekul nõuda hääletust selle üle, kas juhtide tegelik tasustamine on kooskõlas tasustamise põhimõtetega. Tasustamisaruandes peab selgitama, kuidas on eelneva üldkoosoleku hääletustulemust arvestatud, kui aktsionärid on nõudnud üldkoosolekul hääletust selle üle, kas juhtide tegelik tasustamine on kooskõlas tasustamise põhimõtetega.
+
+(6) Tasustamisaruandele seatud nõuete täitmist kontrollib vandeaudiitor.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019, kohaldatakse alates 2020. aasta 31. detsembrile järgnevast aktsiaemitendi majandusaastast.\]
+
+##### § 135<sup>4</sup>. Seotud isiku olulise tehingu avalikustamine ja heakskiitmine
+
+(1) Aktsiaemitent avalikustab seotud isikuga seotud olulise tehingu ja selle olulised andmed hiljemalt tehingu sõlmimise ajal. Tehingu olulised andmed on vähemalt tehingu sõlmimise kuupäev, tehingu väärtus, seotud isiku nimi ja tema seos aktsiaemitendiga. Lisaks avaldatakse teave, mis on vajalik, et hinnata, kas tehing vastab aktsiaemitendi ja seotud osapoolteks mitte olevate aktsionäride huvidele ning kas tehing on nende seisukohast õiglane ja mõistlik.
+
+(2) Aktsiaemitendi tehing on oluline, kui tehingu rahaline väärtus moodustab aktsiaemitendi viimases auditeeritud bilansis kajastatud konsolideeritud omakapitalist vähemalt 10 protsenti. Aktsiaemitendi üldkoosolek võib kinnitada olulise tehingu muud kriteeriumid, võttes arvesse tehinguga kaasnevat riski, tehingu mõju aktsiaemitendile ja tema aktsionäridele, kes ei ole seotud isikud.
+
+(3) Aktsiaemitent avalikustab seotud isiku ja aktsiaemitendi tütarettevõtja vahelised olulised tehingud. Nimetatud tehinguid ei pea avalikustama, kui need on tehtud turutingimustel aktsiaemitendi igapäevase majandustegevuse käigus või kui nõukogu on veendunud, et tehingud vastavad aktsiaemitendi ja seotud osapoolteks mitte olevate aktsionäride huvidele ning on nende seisukohast õiglased ja mõistlikud.
+
+(4) Kui sama seotud osapoole tehingud eraldiseisvalt ei ole olulised, aga majandusaasta jooksul tehtud mitu tehingut koondatuna muutuvad oluliseks majandusaasta jooksul, kohaldatakse nendele tehingutele käesoleva paragrahvi lõigetes 2 ja 3 nimetatud nõudeid.
+
+(5) Seotud isikuga seotud olulise tehingu kiidab heaks aktsiaemitendi nõukogu. Aktsiaemitendi nõukogu peab enne heakskiitmist veenduma, et tehing vastab aktsiaemitendi ja seotud osapoolteks mitte olevate aktsionäride, sealhulgas nende aktsionäride huvidele, kes ei oma aktsiaemitendis olulist osalust, ning et tehing on nende seisukohast õiglane ja mõistlik. Tehingu heakskiitmise otsustamisest ei võta osa nõukogu liige, kes on olulise tehinguga seotud isik.
+
+(6) Käesoleva paragrahvi lõikeid 2 ja 3 ei kohaldata tehingule, mis tehakse turutingimustel aktsiaemitendi igapäevase majandustegevuse raames. Aktsiaemitendi nõukogu kehtestab selliste tehingute nõuetele vastavuse hindamiseks eraldi korra. Seotud isik tehingu hindamises ei osale.
+
+(7) Aktsiaemitendi üldkoosolek võib otsustada, et käesoleva paragrahvi lõikeid 2 ja 3 ei kohaldata järgmistele tehingutele ning hüvedele:
+
+1\) aktsiaemitendi ja tema tütarettevõtja vaheline tehing, kui tütarettevõtja kuulub täielikult aktsiaemitendile;
+
+2\) selgelt määratletud tehing, mille peab olema heaks kiitnud üldkoosolek;
+
+3\) aktsiaemitendi nõukogu ja juhatuse liikmetele ning tegevjuhtkonnale makstud või makstav tasu või muu saadud või saadav hüve või soodustus;
+
+4\) tehing, mida pakutakse kõikidele aktsionäridele samadel tingimustel ning mille puhul on tagatud kõikide aktsionäride võrdne kohtlemine ja aktsiaemitendi huvide kaitse.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019, kohaldatakse alates 2020. aasta 31. detsembrile järgnevast aktsiaemitendi majandusaastast.\]
+
+#### 1<sup>1</sup>. jagu — Sooline tasakaal aktsiaemitendi juhtorganites
+
+\[RT I, 10.06.2025, 1 - jõust. 20.06.2025\]
+
+##### § 135<sup>5</sup>. Jao kohaldamine
+
+(1) Käesolevat jagu kohaldatakse Eesti äriregistrisse kantud aktsiaseltsi suhtes, kelle hääleõigusega või hääleõiguseta aktsiad on kauplemisele võetud Eesti või teise lepinguriigi reguleeritud turul (edaspidi käesolevas jaos *aktsiaemitent*).
+
+(2) Käesolevat jagu ei kohaldata käesoleva paragrahvi lõikes 1 nimetatud aktsiaemitendi suhtes, kellel on alla 250 töötaja ja kelle aastakäive ei ületa 50 miljonit eurot või kelle varade maht aruandeaasta bilansipäeval ei ületa 43 miljonit eurot.
+
+\[RT I, 10.06.2025, 1 - jõust. 20.06.2025\]
+
+##### § 135<sup>6</sup>. Aktsiaemitendi juhtorganite soolise tasakaalu eesmärgid
+
+(1) Aktsiaemitendi üldkoosolek seab ja aktsiaemitent peab saavutama ühe järgmistest eesmärkidest:
+
+1\) nõukogu liikmetest on alaesindatud soost liikmete osakaal vähemalt 40 protsenti;
+
+2\) juhatuse ja nõukogu liikmetest on alaesindatud soost liikmete osakaal kokku vähemalt 33 protsenti.
+
+(2) Kui aktsiaemitendile ei seata käesoleva paragrahvi lõike 1 punktis 2 nimetatud eesmärki, peab üldkoosolek seadma individuaalse kvantitatiivse eesmärgi juhatuse soolise tasakaalu parandamiseks.
+
+(3) Aktsiaemitendi nõukogu alaesindatud soost liikmete arv peab olema võimalikult lähedal 40 protsendile nõukogu liikmete koguarvust, aga mitte ületama 49 protsenti sellest. Aktsiaemitendi nõukogu ja juhatuse alaesindatud soost liikmete arv kokku peab olema võimalikult lähedal 33 protsendile nõukogu ja juhatuse liikmete koguarvust, aga mitte ületama 49 protsenti sellest. Juhtorganitesse alaesindatud soost liikmete valimisel lähtutakse arvulistest eesmärkidest, mis on sätestatud käesoleva seaduse lisas „Alaesindatud soost liikmete osakaalu arvulised eesmärgid Eestis registreeritud aktsiaemitendi juhtorganites”.
+
+\[RT I, 10.06.2025, 1 - jõust. 20.06.2025\]
+
+##### § 135<sup>7</sup>. Soolise tasakaalu saavutamise vahendid
+
+(1) Kui aktsiaemitent ei saavuta käesoleva seaduse § 135<sup>6</sup> lõike 1 kohaselt seatud eesmärki, kohandab ta juhtorganite liikmete kandidaatide valimise korda järgmiste vahenditega:
+
+1\) kehtestab enne valimist mittediskrimineerival viisil selged neutraalselt sõnastatud ja üheselt mõistetavad kriteeriumid ja kohaldab neid valimise vältel, sealhulgas vaba ametikoha teate koostamisel, eelvaliku tegemisel ning kandidaatide loetelu ja valikukogumi koostamisel;
+
+2\) valib kandidaadid, võttes aluseks iga kandidaadi kvalifikatsiooni võrdleva hinnangu.
+
+(2) Kui üldkoosolek või asjakohasel juhul aktsiaemitendi nõukogu valib juhtorgani liikme kandidaatide vahel, kes on võrdselt kvalifitseeritud nii sobivuse, pädevuse kui ka ametialase suutlikkuse poolest, eelistab üldkoosolek või asjakohasel juhul aktsiaemitendi nõukogu alaesindatud soost kandidaati.
+
+(3) Käesoleva paragrahvi lõikega 2 vastuolus olev otsus on tühine, välja arvatud juhul, kui suurema õigusliku kaaluga põhjus, nagu muu mitmekesisuspoliitika elluviimine, millele tuginetakse objektiivse hindamise käigus ja mis võtab arvesse vastassoost kandidaadi konkreetset olukorda ning mis põhineb mittediskrimineerivatel kriteeriumidel, kallutab tulemuse teisest soost kandidaadi kasuks.
+
+(4) Enne käesoleva paragrahvi lõike 2 kohase otsuse tegemist nõukogu liikmete kohta teavitab aktsiaemitent üldkoosolekut käesoleva seaduse §-dest 135<sup>6</sup> ja 135<sup>7</sup> tulenevatest kohustustest ning §-dest 237<sup>91</sup> ja 237<sup>92</sup> tulenevast vastutusest.
+
+(5) Aktsiaemitent annab isikule, keda kaaluti juhtorgani liikme kandidaadiks, tema kirjaliku taotluse korral 20 tööpäeva jooksul kirjalikult järgmise teabe:
+
+1\) kvalifikatsiooninõuded, mille alusel valik tehti;
+
+2\) nimetatud kvalifikatsiooninõuete kohane kandidaatide objektiivne võrdlev hinnang;
+
+3\) asjakohasel juhul konkreetsed kaalutlused, mille põhjal otsustati erandkorras kandidaadi kasuks, kes ei ole alaesindatud soost.
+
+\[RT I, 10.06.2025, 1 - jõust. 20.06.2025\]
+
+##### § 135<sup>8</sup>. Jagatud tõendamiskohustus
+
+(1) Kohtu poole pöörduv alaesindatud soost kandidaat, keda ei valitud juhtorgani liikmeks, esitab avalduses faktilised asjaolud, mille alusel saab eeldada, et ta on teisest soost kandidaadiga, kes valiti juhtorgani liikmeks, võrdselt kvalifitseeritud ja et aktsiaemitent on rikkunud käesoleva seaduse § 135<sup>7</sup> lõikest 2 tulenevat kohustust.
+
+(2) Aktsiaemitent, kelle vastu on avaldus esitatud, tõendab menetluses, et ta ei ole rikkunud käesoleva seaduse § 135<sup>7</sup> lõikest 2 tulenevat kohustust.
+
+\[RT I, 10.06.2025, 1 - jõust. 20.06.2025\]
+
+##### § 135<sup>9</sup>. Aktsiaemitendi juhtorganite soolise tasakaalu aruandlus
+
+(1) Aktsiaemitent esitab Finantsinspektsioonile ja avaldab ligipääsetavas vormis oma veebilehel kord aastas järgmise teabe:
+
+1\) juhtkonna ja nõukogu sooline koosseis juhtorganite kaupa;
+
+2\) teave selle kohta, milline käesoleva seaduse § 135<sup>6</sup> lõikes 1 nimetatud eesmärk seati, ja ülevaade vahenditest, mida on kasutatud selle saavutamiseks;
+
+3\) asjakohasel juhul ülevaade vahenditest, mida on kasutatud käesoleva seaduse § 135<sup>6</sup> lõike 2 kohaselt seatud eesmärgi saavutamiseks.
+
+(2) Kui aktsiaemitent ei saavuta käesoleva seaduse § 135<sup>6</sup> lõikes 1 ega asjakohasel juhul lõikes 2 seatud eesmärke, lisab ta käesoleva paragrahvi lõikes 1 nimetatud teabele põhjenduse eesmärkide saavutamata jätmise kohta ja kirjeldab põhjalikult vahendeid, mida ta on nimetatud eesmärkide saavutamiseks kasutanud või kavatseb kasutada.
+
+(3) Käesoleva paragrahvi lõikes 1 ja asjakohasel juhul lõikes 2 nimetatud teabe aruandeperiood on aasta. Teave esitatakse Finantsinspektsioonile kuue kuu jooksul pärast aruandeperioodi lõppu. Eelnimetatud lõigetes nimetatud teave lisatakse ka ühingujuhtimise aruandesse kooskõlas Euroopa Parlamendi ja nõukogu direktiiviga 2013/34/EL teatavat liiki ettevõtjate aruandeaasta finantsaruannete, konsolideeritud finantsaruannete ja nendega seotud aruannete kohta ja millega muudetakse Euroopa Parlamendi ja nõukogu direktiivi 2006/43/EÜ ning tunnistatakse kehtetuks nõukogu direktiivid 78/660/EMÜ ja 83/349/EMÜ (ELT L 182, 29.06.2013, lk 19–76). Kui aktsiaemitent esitab käesoleva paragrahvi lõigete 1 ja 2 kohase teabe Finantsinspektsioonile vastavalt käesolevas seaduses korraldatud teabe kohta sätestatud nõuetele, loetakse käesoleva lõike kohane kohustus täidetuks.
+
+(4) Kui käesoleva paragrahvi lõike 1 punktis 1 nimetatud teave muutub, teavitab aktsiaemitent sellest viivitamata Finantsinspektsiooni ja ajakohastab teabe oma veebilehel.
+
+(5) Aktsiaemitendid kantakse Finantsinspektsiooni seaduse § 53 lõike 5 alusel Finantsinspektsiooni veebilehel asuvasse aktsiaemitentide soolise tasakaalu nimekirja ja lisatakse märge, kas aktsiaemitent täidab käesoleva seaduse § 135<sup>6</sup> lõike 1 kohaselt valitud eesmärki või mitte.
+
+\[RT I, 10.06.2025, 1 - jõust. 20.06.2025\]
+
+#### 2. jagu — Tehingud turul
+
+##### § 136. Kauplemise peatamine ja lõpetamine
+
+(1) Korraldajal on õigus peatada või lõpetada väärtpaberitega tehingute tegemine turul:
+
+1\) kui emitent või kauplemise taotleja on rikkunud korraldaja suhtes õigusakti või reglemendi alusel tekkinud kohustust;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+2\) kui kaubeldav väärtpaber ei vasta reglemendi nõuetele;
+
+3\) investorite huvide kaitseks;
+
+4\) turu korra- või õiguspärase toimimise ohustamise vältimiseks või muul reglemendis sätestatud alusel.
+
+(1<sup>1</sup>) Käesoleva paragrahvi lõikes 1 sätestatud juhul peatab või lõpetab korraldaja tehingute tegemise ka väärtpaberiga seotud või sellele viitavate, käesoleva seaduse § 2 lõikes 11 nimetatud tuletislepingutega, kui see on vajalik väärtpaberiga tehingute tegemise peatamise või lõpetamise eesmärgi saavutamiseks.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1<sup>2</sup>) Kui kauplemine peatatakse või lõpetatakse seoses turukuritarvituse kahtluse, ülevõtmispakkumise või Euroopa Parlamendi ja nõukogu määruse (EL) nr 596/2014 artiklis 7 või 17 sätestatu rikkumisega, sealhulgas teise lepinguriigi järelevalveasutuse nõudel, nõuab inspektsioon väärtpaberi ja käesoleva paragrahvi lõikes 1<sup>1</sup> nimetatud tuletislepingutega tehingute tegemise peatamist või lõpetamist ka muus kauplemiskohas ning süsteemse täitja poolt, kelle üle inspektsioon teostab järelevalvet.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) Käesoleva paragrahvi lõigetes 1, 1<sup>1</sup>, 1<sup>2</sup> ja 6 nimetatud juhtudel väärtpaberiga tehingute tegemise peatamine või lõpetamine ei tohi põhjustada olulist kahju investori huvidele ega ohustada turu korrapärast toimimist.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(4) Korraldaja teavitab viivitamata inspektsiooni käesoleva paragrahvi lõigetes 1, 1<sup>1</sup> ja 2 nimetatud peatamisest või lõpetamisest või selle tühistamisest ja avalikustab nende kohta teabe oma veebilehel.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(5) Investorite huvide kaitseks, turu korra- või õiguspärase toimimise ohustamise vältimiseks või muu olulise õiguse kaitseks või ohu vältimiseks on inspektsioonil õigus teha korraldajale ettekirjutus või kiiret reageerimist nõudvatel juhtudel anda korraldajale korraldus:
+
+1\) väärtpaberitega tehingute tegemise peatamiseks turul kuni 10 järjestikuseks päevaks iga kord, kui on rikutud või on alust arvata, et rikutakse käesolevas seaduses kauplemisele või korraldatud teabe edastamisele või avalikustamisele sätestatud nõudeid;
+
+2\) väärtpaberitega tehingute tegemise lõpetamiseks turul;
+
+3\) käesoleva paragrahvi lõikes 1 sätestatud peatamise või lõpetamise otsuse muutmiseks.
+
+(6) Inspektsioonil on õigus nõuda teise lepinguriigi väärtpaberiturujärelevalve asutuselt selles lepinguriigis tegutseval turul väärtpaberi ja käesoleva paragrahvi lõikes 1<sup>1</sup> nimetatud tuletislepingutega tehingute tegemise peatamist või lõpetamist, kui see on vajalik Eesti investorite huvide kaitseks, turu korra- või õiguspärase toimimise ohustamise vältimiseks või muu olulise õiguse kaitseks või ohu vältimiseks, sealhulgas juhul, kui inspektsioon saab lõikes 4 nimetatud teabe või kui kauplemine peatatakse või lõpetatakse seoses turukuritarvituse kahtluse, ülevõtmispakkumise või Euroopa Parlamendi ja nõukogu määruse (EL) nr 596/2014 artiklis 7 või 17 sätestatu rikkumisega ning kui ei esine lõikes 5 nimetatud asjaolusid.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(7) Kui inspektsioon teeb käesoleva paragrahvi lõigetes 1<sup>2</sup>, 5 ja 6 nimetatud juhtudel väärtpaberi ja lõikes 1<sup>1</sup> nimetatud tuletislepingutega tehingute tegemise peatamise või lõpetamise ettekirjutuse või esitab korralduse või jätab selle esitamata või tühistab ettekirjutuse, teavitab ta selles lepinguriikide väärtpaberiturujärelevalve asutusi ja Euroopa Väärtpaberiturujärelevalve Asutust ning avalikustab vastava teabe oma veebilehel.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 136<sup>1</sup>. Ajutised kauplemispiirangud
+
+(1) Korraldajal on õigus väärtpaberiga kauplemine ajutiselt peatada või piirata seda väärtpaberiturul valitsevate äärmuslike olude või väärtpaberi lühiajalise olulise hinnamuutuse korral kas korraldaja korraldataval turul või muul turul ja erakorralisel juhul tühistada, muuta või korrigeerida selle väärtpaberiga tehtud tehinguid.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(2) Korraldaja määrab kauplemise ajutise peatamise või piiramise parameetrid erinevate varaklasside ja alamklasside likviidsust, turu mudelit ning väärtpaberituru osaliste olemust arvesse võttes ja tagab, et sellised tingimused on piisavad, et vältida ohtu väärtpaberituru korra- või õiguspärasele toimimisele.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(3) Kui turg on ühes või mitmes lepinguriigis komisjoni delegeeritud määruse (EL) nr 2017/570, millega täiendatakse Euroopa Parlamendi ja nõukogu direktiivi 2014/65/EL finantsinstrumentide turgude kohta seoses regulatiivsete tehniliste standarditega, mis käsitlevad likviidsuse poolest olulise turu kindlaksmääramist seoses kauplemise ajutisest peatamisest teavitamisega (ELT L 87, 31.03.2017, lk 124–125), artikli 1 tähenduses oluline selle väärtpaberi likviidsusele, mille kauplemise korraldaja peatab, rakendab korraldaja vajalikke süsteeme ja korda inspektsiooni ja iga teise lepinguriigi pädeva järelevalveasutuse teavitamiseks, et teistes kauplemiskohtades oleks võimalik selle väärtpaberiga kauplemine peatada, kuni korraldaja taastab selle väärtpaberiga kauplemise.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(4) Korraldaja esitab kauplemise peatamise parameetrid ja nende olulised muudatused terviklikul ja võrreldaval viisil inspektsioonile. Inspektsioon edastab korraldajalt saadud teabe Euroopa Väärtpaberiturujärelevalve Asutusele.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(5) Korraldaja avalikustab oma veebilehel teabe asjaolude kohta, mille korral tuleb kauplemine peatada või seda piirata, ja põhimõtete kohta, mille alusel määratakse kindlaks selleks kasutatavad peamised tehnilised parameetrid.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(6) Kui korraldaja ei peata ega piira kauplemist vastavalt käesoleva paragrahvi lõikes 1 sätestatule hoolimata sellest, et väärtpaberi või selle väärtpaberiga seotud väärtpaberite oluline hinnamuutus on põhjustanud korratud kauplemistingimused ühel või mitmel turul, on inspektsioonil õigus võtta turgude korra- või õiguspärase toimimise taastamiseks asjakohaseid meetmeid, sealhulgas rakendada käesoleva seaduse § 235 punktides 7<sup>1</sup>, 7<sup>9</sup> ja 7<sup>10</sup> sätestatud õigusi.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+##### § 137.
+
+\[Kehtetu - RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+##### § 137<sup>1</sup>. Hinnasamm
+
+(1) Korraldaja kehtestab aktsiatele, hoidmistunnistustele, kaubeldavatele investeerimisfondidele ning Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artikli 2 lõike 1 punktis 27 nimetatud ja muudele sellesarnastele väärtpaberitele vastavalt komisjoni delegeeritud määrusele (EL) nr 2017/588, millega täiendatakse Euroopa Parlamendi ja nõukogu direktiivi 2014/65/EL seoses aktsiate, hoidmistunnistuste ja börsil kaubeldavate fondide hinnasammude korda käsitlevate regulatiivsete tehniliste standarditega (ELT L 87, 31.03.2017, lk 411–416), hinnasammu, mis väljendab väärtpaberi likviidsust eri turgudel ja väärtpaberi keskmist ostu- ja müügipakkumuste vahemikku.
+
+(1<sup>1</sup>) Hinnasammude kohaldamine ei tohi takistada sobitada turul suuremahulisi korraldusi jooksvate ostu- ja müügipakkumiste hindade keskpunktis.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(2) Korraldaja kohandab iga väärtpaberi hinnasammu, arvestades vajadusega võimaldada mõistlikult stabiilseid hindu, seejuures liigselt piiramata ostu- ja müügipakkumuste vahemiku edasist vähenemist.
+
+(2<sup>1</sup>) Aktsiate suhtes, millel on väljaspool Euroopa Majanduspiirkonda väljastatud rahvusvaheline väärtpaberite identifitseerimisnumber (edaspidi *ISIN-kood*), või aktsiate suhtes, millel on Euroopa Majanduspiirkonna ISIN-kood ja millega kaubeldakse kolmanda riigi kauplemiskohas kohalikus vääringus või Euroopa Majanduspiirkonna välises vääringus, nagu on sätestatud Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artikli 23 lõike 1 punktis a, ning mille likviidsuse seisukohast kõige kohasemaks turuks olev kauplemiskoht asub kolmandas riigis, võib korraldaja kohaldada sama hinnasammu, mida kohaldatakse selles kolmanda riigi kauplemiskohas.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(3) Kaubeldava investeerimisfondina käsitatakse investeerimisfondi, mille vähemalt ühte liiki osaku või aktsiaga kaubeldakse kogu päeva jooksul vähemalt ühes kauplemiskohas ja vähemalt ühe turutegijaga, kes rakendab meetmeid, et fondi osakute või aktsiate hind kauplemiskohas ei erineks märkimisväärselt nende puhasväärtusest, ja kui see on asjakohane, siis nende indikatiivsest puhasväärtusest.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 138. Tehingute registreerimine
+
+(1) Korraldaja registreerib iga päev kronoloogiliselt kõik turul tehtud tehingud.
+
+\[RT I 2002, 102, 600 - jõust. 26.12.2002\]
+
+(2) Korraldaja registreerib vähemalt tehingu tegemise aja, tehingu teinud turul osaleja andmed, tehingu esemeks olnud väärtpaberid, nende arvu, nimiväärtuse või arvestusliku väärtuse ja hinna.
+
+\[RT I 2010, 20, 103 - jõust. 01.07.2010\]
+
+(3) Korraldaja säilitab registrisse kantud andmeid vähemalt viis aastat nende registreerimisest arvates.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(4) \[Kehtetu - RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+##### § 138<sup>1</sup>. Arveldussüsteemi vaba valik
+
+(1) Korraldajal on õigus turu õigus- ja korrapäraseks toimimiseks vabalt valida Eesti või teise lepinguriigi väärtpaberiarveldussüsteem juhul, kui see vastab käesoleva paragrahvi lõikes 2 sätestatud tingimusele.
+
+(2) Turul osalejal on õigus valida arveldussüsteem turul väärtpaberitega tehtud tehingute arveldamiseks, kui:
+
+1\) turu ja soovitava arveldussüsteemi vahel on piisav õiguslik, tehniline ja organisatsiooniline side, mis võimaldab turul tehingute võimalikult kiiret, ohutut ja tõrgeteta tegemist;
+
+2\) inspektsioon on andnud nõusoleku turu arveldussüsteemist erineva süsteemi kasutamiseks.
+
+(3) Inspektsioon annab käesoleva paragrahvi lõike 2 punktis 2 nimetatud nõusoleku, kui talle esitatud tõendite alusel on kõrvaldatud kõik inspektsiooni kahtlused, et arveldussüsteemi kasutamine kahjustab või võib kahjustada turu õigus- ja korrapärast toimimist.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+##### § 139. Turu garantiifond
+
+(1) Kui korraldaja on võtnud kohustuse tagada turul tehtud tehingute täitmine, peab ta moodustama garantiifondi või sõlmima vastava garantii- või kindlustuslepingu.
+
+(2) Garantiifond on krediidiasutustes või Eesti Pangas pangakontol olev või väärtpaberitesse investeeritud rahasumma, mida peamiselt kasutatakse või mis võimaldab seda kasutada väärtpaberitega turul tehtavate tehingute täitmise tagamiseks.
+
+(3) Garantiifondi valitseb korraldaja.
+
+(4) Valdkonna eest vastutav minister kehtestab oma määrusega nõuded garantiifondi moodustamisele, selle suurusele ning kasutamisele.
+
+##### § 140. Pankroti erisused
+
+(1) Turul osaleja pankrotihaldur, väärtpaberite turule kauplemiseks võtmist taotlenud isiku pankrotihaldur ja turul kaubeldava väärtpaberi emitendi pankrotihaldur jätkavad reglemendi täitmist kuni osaleja, taotleja või emitendi lõpetamiseni.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(2) Turul osalejate poolt reglemendi kohaselt käesoleva seaduse §-s 139 nimetatud garantiifondi tasutu ei kuulu tasuja ega garantiifondi valdaja pankrotivara hulka.
+
+##### § 140<sup>1</sup>. Kauplemisele kohaldatav õigus
+
+Eestis registreeritud turul väärtpaberitega tehingute tegemisele kohaldatakse Eesti õigust.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### 3. jagu — Teabe edastamine
+
+##### § 141. Avalikustamisele mittekuuluva teabe hoidmine
+
+(1) Korraldaja, selle organi liige ja töötaja hoiavad tähtajatult saladuses teavet, mille nad said oma ametikohustuste täitmisel korraldaja suhtes või seoses ametiseisundiga või tööga turul või inspektsioonilt käesoleva seaduse § 149 lõikes 2 sätestatud koostöö raames ning mis ei kuulu avalikustamisele vastavalt õigusaktidele, kohtuotsusele või turu reglemendile.
+
+(2) Korraldaja organi liige ja töötaja võivad käesoleva paragrahvi lõikes 1 sätestatud teavet edastada sama korraldaja organile, selle liikmele ja töötajale vastavalt korraldaja põhikirjas ning reglemendis sätestatule, samuti isikutele, keda seadus kohustab hoidma saadud teavet saladuses, ning juhtudel, kui sellise teabe avalikustamise kohustus tuleneb seadusest.
+
+##### § 142. Teabe edastamise kohustus
+
+(1) Korraldajale edastatav teave peab olema õige, selge, täpne ja täielik. Teave edastatakse korraldajale viivitamata, kui käesolevas seaduses, selle alusel kehtestatud õigusaktides või reglemendis ei sätestata teistsugust tähtaega.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(2) Turul kaubeldava väärtpaberi emitent, kes on turul kauplemiseks selle turu korraldajale andnud nõusoleku, on kohustatud korraldama tema suhtes kehtiva reglemendi kehtivuse ajal korraldaja teavitamise selle väärtpaberi emitendi korraldatud teabest.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(3) Kui käesoleva seaduse § 2 lõike 1 punktis 1, 2, 3, 6 või 7 nimetatud väärtpaber on võetud kauplemisele reguleeritud turul, võib selle väärtpaberi emitendi nõusolekuta samaaegselt võtta kauplemisele ka teisel reguleeritud turul, järgides väärtpaberite avaliku pakkumise ja prospekti kinnitamise nõudeid. Teise turu korraldaja teatab viivitamata väärtpaberite emitendile asjaolust, et tema väärtpaberitega kaubeldakse ka teisel turul.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(4) Käesoleva paragrahvi lõikes 3 sätestatud teisel reguleeritud turul kauplemiseks võtmisel ei kohaldata väärtpaberite emitendi suhtes käesolevas paragrahvis ja käesoleva seaduse § 135 lõikes 1 sätestatud kohustusi anda teavet vahetult sellele teisele turule.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(5) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(6) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 143. Korraldaja poolt teabe avalikustamine
+
+Korraldaja avalikustab käesolevas seaduses ja selle alusel kehtestatud õigusaktides ning reglemendis sätestatud ulatuses ja korras turu osalejatelt, emitentidelt ja muudelt isikutelt saadud teabe väärtpaberituru läbipaistvuse tagamise eesmärgil. Korraldaja rakendab meetmeid, et võimaldada turul osalejatele juurdepääs korraldatud teabele.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 144. Korraldaja õigused kauplemisteabe avalikustamisel
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 144<sup>1</sup>. Kauplemiseelse teabe avalikustamine
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 144<sup>2</sup>. Kauplemisjärgse teabe avalikustamine
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 145. Teabe avalikustamise viis
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 146. Ajutine vabastamine teabe edastamise ja avalikustamise kohustusest
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+##### § 147.
+
+\[Kehtetu - RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+##### § 147<sup>1</sup>. Kellade sünkroniseerimine
+
+\[Kehtetu - RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+### 17. peatükk — TURUJÄRELEVALVE
+
+#### § 148. Korraldaja järelevalve teostamise õigused ja kohustused
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(1) Korraldaja kehtestab õiguslikud, tehnilised ja organisatsioonilised meetmed ning rakendab neid, et teostada järelevalvet turule kauplemisele võetud vabalt võõrandatava väärtpaberi emitendi poolt avaldamisele kuuluva teabe avaldamise, selle ajakohasuse, õigsuse, täpsuse ja täielikkuse üle ning väärtpaberi hinna kujunemise, tehingute tegemise ja täitmise, sealhulgas korralduste esitamise ja tühistamise üle turu kauplemissüsteemis, et avastada ning vähendada väärtpaberituru korra- või õiguspärast toimimist ohustavaid asjaolusid, kauplemisega seotud süsteemikatkestusi, turukuritarvitusena käsitatavaid toiminguid ja teisi õigusrikkumisi ning mittevastavust reglemendile.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) \[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(4) Korraldajal on õigus kontrollida turul osaleja tema turul osalemise õigusega seotud dokumente ning saada turul osalejalt järelevalve teostamiseks vajalikku teavet. Korraldajal on sama õigus turul kaubeldava väärtpaberi emitendi suhtes.
+
+(5) Korraldaja kehtestab ja rakendab õiguslikke, tehnilisi ja organisatsioonilisi meetmeid sõltumatu järelevalve teostamiseks, arvestades oma äritegevuse iseloomu, ulatust ja keerukust ning osutatavate teenuste iseloomu ja ulatust. Järelevalve teostaja ei tegele järelevalve sõltumatust mõjutavate või mõjutada võivate tegevustega.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(6) Korraldaja juhatus tagab järelevalve teostajale kõik tema ülesannete täitmiseks vajalikud õigused ja töötingimused.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 149. Koostöö inspektsiooniga
+
+(1) Korraldaja teatab reglemendi olulisest rikkumisest, ohust väärtpaberituru korra- või õiguspärasele toimimisele, väärtpaberiga seotud süsteemikatkestustest ja turukuritarvituse mõistlikust kahtlusest viivitamata inspektsioonile.
+
+(2) Korraldaja ja inspektsioon teevad koostööd turujärelevalve teostamisel. Korraldaja esitab inspektsioonile viivitamata kogu teabe käesoleva paragrahvi lõikes 1 nimetatud asjaolude kohta ja osutab inspektsioonile igakülgset abi järelevalve teostamiseks.
+
+(3) Inspektsioonil on õigus avaldada korraldajale turujärelevalve teostamiseks vajalikku teavet, sealhulgas avalikustamisele mittekuuluvat teavet, mis inspektsioon on saanud käesolevas seaduses sätestatud ülesannete täitmisel.
+
+(4) Korraldaja võimaldab inspektsiooni nõudel inspektsioonile järelevalve teostamiseks vaba juurdepääsu turu kauplemissüsteemile.
+
+(5) Inspektsioon edastab teabe käesoleva paragrahvi lõike 1 alusel saadud asjaolude, sealhulgas inspektsiooni hinnangul mõistliku turukuritarvituse kahtluse kohta Euroopa Väärtpaberiturujärelevalve Asutusele ja teiste lepinguriikide pädevatele järelevalveasutustele.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+### 18. peatükk — VÄÄRTPABERIBÖRS
+
+\[Kehtetu - RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+#### 1. jagu — Tegutsemise erisused
+
+\[Kehtetu - RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+##### § 150. Väärtpaberibörsi mõiste
+
+\[Kehtetu - RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+##### § 151. Börsi liige
+
+\[Kehtetu - RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+##### § 152. Finantsriskide maandamine
+
+\[Kehtetu - RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+#### 2. jagu — Börsi reglement
+
+\[Kehtetu - RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+##### § 153. Börsi reglement
+
+\[Kehtetu - RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+#### 3. jagu — Börsi korraldamine
+
+\[Kehtetu - RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+##### § 154. Noteerimine
+
+\[Kehtetu - RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+##### § 155. Noteerimise tingimused
+
+\[Kehtetu - RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+##### § 156. Noteerimise otsustamine
+
+\[Kehtetu - RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+##### § 157. Noteerimise prospekt
+
+\[Kehtetu - RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+##### § 158. Hüvitamise nõuete kohaldamine
+
+\[Kehtetu - RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+##### § 159. Teabe edastamise ja avalikustamise kohustus
+
+\[Kehtetu - RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+#### 4. jagu — Börsijärelevalve
+
+\[Kehtetu - RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+##### § 160. Börsil osaleja, börsi liikme ja emitendi suhtes lepinguliste õiguskaitsevahendite rakendamine
+
+\[Kehtetu - RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+##### § 161. Õiguskaitsevahendite liigid
+
+\[Kehtetu - RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+##### § 162. Õiguskaitsevahendite rakendamine ja vaidlustamine
+
+\[Kehtetu - RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+##### § 163. Õiguskaitsevahendite rakendamise avalikustamine
+
+\[Kehtetu - RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+### 18<sup>1</sup>. peatükk — MITMEPOOLNE KAUPLEMISSÜSTEEM JA ORGANISEERITUD KAUPLEMISSÜSTEEM
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 163<sup>1</sup>. Mitmepoolse kauplemissüsteemi ja organiseeritud kauplemissüsteemi korraldamine
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1) Käesoleva seaduse § 43 lõike 1 punktis 8 või 9 nimetatud investeerimisteenuse osutamiseks tegevusluba omav investeerimisühing ja § 120 lõikes 1 nimetatud tegevusluba omav reguleeritud turu korraldaja kehtestavad mitmepoolse kauplemissüsteemi või organiseeritud kauplemissüsteemi korra- ja õiguspärase tegevuse tagamiseks reglemendi.
+
+(2) Reglemendis määratakse mitmepoolses kauplemissüsteemis või organiseeritud kauplemissüsteemis osalemise, väärtpaberi kauplemisele võtmise ning korralduste täitmise kriteeriumid ja tingimused selliste väärtpaberite kindlaksmääramiseks, millega saab mitmepoolses kauplemissüsteemis või organiseeritud kauplemissüsteemis kaubelda.
+
+(3) Reglementi kohaldatakse ja muudetakse ühetaoliselt ning samadel alustel iga mitmepoolses kauplemissüsteemis või organiseeritud kauplemissüsteemis osaleja, samuti osalemise taotleja, mitmepoolsesse kauplemissüsteemi või organiseeritud kauplemissüsteemi kauplemisele võetud väärtpaberite emitendi ja kauplemise taotleja suhtes.
+
+(4) Käesoleva paragrahvi lõikes 3 sätestatut ei kohaldata organiseeritud kauplemissüsteemi korraldaja kehtestatud korralduste täitmise reeglitele. Organiseeritud kauplemissüsteemi korraldaja võib korralduste täitmisel lähtuda otsustusõigusest vähemalt ühel järgmistest juhtudest:
+
+1\) korralduse organiseeritud kauplemissüsteemi edastamisel või tagasivõtmisel;
+
+2\) kliendi konkreetse korralduse sobitamata jätmisel teiste organiseeritud kauplemissüsteemi edastatud korraldustega, kui see on kooskõlas kliendi korralduse ja käesoleva seaduse §-des 87<sup>3</sup> ja 87<sup>4</sup> sätestatuga.
+
+(5) Organiseeritud kauplemissüsteemi korraldaja võib otsustada, kas, millal ja kui mitut kahest või enamast korraldusest sobitada ning kas ja millal aidata kaasa läbirääkimistele klientide vahel, et viia kokku kahe või enama kliendi potentsiaalselt ühilduvad omandamis- ja võõrandamishuvid ühes tehingus.
+
+(6) Mitmepoolse kauplemissüsteemi ja organiseeritud kauplemissüsteemi reglemendi suhtes kohaldatakse käesoleva seaduse § 127 lõigetes 1<sup>1</sup>, 1<sup>2</sup>, 3 ja 4 ning §-des 128–130 sätestatut.
+
+(7) Mitmepoolse kauplemissüsteemi ja organiseeritud kauplemissüsteemi korraldajale kohaldatakse käesoleva seaduse § 124<sup>6</sup> lõigetes 1 ja 3, §-des 125<sup>1</sup>–125<sup>3</sup>, § 132 lõigetes 5 ja 6 ning §-des 134<sup>4</sup>, 136<sup>1</sup> ja 137<sup>1</sup> turu korraldaja kohta sätestatut. Mitmepoolse kauplemissüsteemi korraldajale kohaldatakse lisaks § 124<sup>6</sup> lõigetes 5–7 sätestatut.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(8) Organiseeritud kauplemissüsteemi korraldaja rakendab meetmeid, et vältida kliendi korralduste täitmist organiseeritud kauplemissüsteemis korraldaja või korraldajaga samasse konsolideerimisgruppi kuuluva isiku arvel. Organiseeritud kauplemissüsteemi korraldaja võib oma arvel kaubelda üksnes võlakohustusega, mille on emiteerinud Euroopa Liit, liikmesriik, liitriigist liikmesriigi liige, nende valitsusasutus või amet, ühe või mitme liikmesriigi eriotstarbeline rahastamisvahend, vähemalt kahe liikmesriigi asutatud rahvusvaheline organisatsioon või avalik-õiguslik institutsioon, mille eesmärk on koondada rahalisi vahendeid ja osutada finantsabi oma liikmetele, või Euroopa Investeerimispank ja millel puudub likviidne turg. Käesoleva lõike teises lauses sätestatut ei kohaldata oma arvel kauplemisele ostu- ja müügikorralduste sobitamisel käesoleva seaduse § 124<sup>6</sup> lõike 8 tähenduses.
+
+(9) Likviidne turg käesoleva seaduse tähenduses on teatud väärtpaberi või selle liigi turg, millel turu või väärtpaberi liigi turu struktuuri arvesse võttes on pidevalt väärtpaberi või selle liigi omandamis- ja võõrandamishuvi, arvestades järgmisi kriteeriume:
+
+1\) tehingute keskmine sagedus ja maht erinevate turutingimuste juures, võttes arvesse väärtpaberite liiki kuuluvate toodete laadi ja kestust;
+
+2\) turuosaliste arv ja liik, sealhulgas turuosaliste ja kaubeldud instrumentide suhtarv konkreetse toote puhul;
+
+3\) keskmised hinnavahed, kui need on kättesaadavad.
+
+(10) Organiseeritud kauplemissüsteemi korraldaja võib mitteomakapitaliväärtpaberitega seotud ostu- ja müügihuvide sobitamisel käesoleva seaduse § 124<sup>6</sup> lõike 8 tähenduses oma arvel kaubelda üksnes kliendi nõusolekul ja juhul, kui ta on kehtestanud meetmed § 124<sup>6</sup> lõikes 8 sätestatud tingimuste järgimiseks ning rakendab neid. Organiseeritud kauplemissüsteemi korraldaja ei või kaubelda oma arvel ostu- ja müügihuvide sobitamisel selliste väärtpaberitega, mille suhtes kohaldatakse Euroopa Parlamendi ja nõukogu määruse (EL) nr 648/2012 artiklis 5 sätestatut.
+
+(11) Mitmepoolse kauplemissüsteemi või organiseeritud kauplemissüsteemi korraldaja kehtestab selle kauplemiskoha tehingute arveldamise tingimused ja korra ning süsteemis osaleda soovivate isikute kohustused süsteemis tehtud tehingute arveldamisel ning rakendab meetmeid nende tehingute tõhusaks arveldamiseks. Mitmepoolse kauplemissüsteemi või organiseeritud kauplemissüsteemi korraldaja teavitab selle kauplemiskoha osalisi nende vastutusest kauplemiskohas tehingute arveldamisel.
+
+(12) Ühel mitmepoolsel kauplemissüsteemil või organiseeritud kauplemissüsteemil on üks korraldaja.
+
+(13) Mitmepoolsel kauplemissüsteemil ja organiseeritud kauplemissüsteemil peab olema vähemalt kolm olulisel määral aktiivset osalejat, kellel on võimalik hinna kujundamiseks kõigi teiste osalejatega vahetada teavet.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(14) Organiseeritud kauplemissüsteemi korraldajana ja käesoleva seaduse § 88<sup>6</sup> lõike 3 tähenduses süsteemse täitjana ei või tegutseda sama juriidiline isik. Organiseeritud kauplemissüsteemil ei või olla sellist seost süsteemse täitja ega teise organiseeritud kauplemissüsteemiga, mis võimaldaks kokku viia organiseeritud kauplemissüsteemi ja süsteemse täitja või teise organiseeritud kauplemissüsteemi korraldusi või hinnanoteeringuid.
+
+(15) Organiseeritud kauplemissüsteemi korraldaja võib organiseeritud kauplemissüsteemis sõltumatu turutegemise eesmärgil teha koostööd teise investeerimisühinguga. Sõltumatu turutegemisena ei käsitata koostööd investeerimisühinguga, kellel on organiseeritud kauplemissüsteemi korraldajaga märkimisväärne seos.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 163<sup>2</sup>. Kauplemisteabe avalikustamine
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1) Mitmepoolse kauplemissüsteemi või organiseeritud kauplemissüsteemi korraldaja avalikustab kauplemisteabe, välja arvatud juhul, kui kauplemisteave on avalikustatud reguleeritud turu vahendusel, või tagab juurdepääsu kauplemisteabele.
+
+(2) Käesoleva paragrahvi lõike 1 kohaselt avalikustatav või kättesaadavaks tehtav teave peab olema piisav, et võimaldada selle kasutajal kujundada investeerimisotsuseid, arvestades mitmepoolses kauplemissüsteemis või organiseeritud kauplemissüsteemis osaleja olemust ja kaubeldava väärtpaberi liiki.
+
+(3) Kui mitmepoolses kauplemissüsteemis või organiseeritud kauplemissüsteemis kaubeldakse emitendi nõusolekuta reguleeritud turule kauplemisele võetud käesoleva seaduse § 2 lõike 1 punktis 1, 2, 3, 6 või 7 nimetatud väärtpaberiga, kohaldatakse selle väärtpaberi emitendile § 135 lõikes 1 sätestatut.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 163<sup>3</sup>. Kauplemine mitmepoolses kauplemissüsteemis ja organiseeritud kauplemissüsteemis
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1) Mitmepoolses kauplemissüsteemis on õigus osaleda käesoleva seaduse § 132 lõikes 1 sätestatud tingimustele vastaval isikul, kelle suhtes kohaldatakse § 134 lõigetes 1 ja 2 turul osaleja suhtes sätestatut.
+
+(2) Organiseeritud kauplemissüsteemis tehingute tegemisele kohaldatakse käesoleva seaduse § 79<sup>1</sup> lõigetes 2 ja 4, § 85 lõike 1 punktides 1, 5–7 ja 9 ning §-des 85<sup>2</sup>, 85<sup>4</sup>–87<sup>6</sup> ja 89<sup>1</sup> sätestatut.
+
+(3) Mitmepoolsele kauplemissüsteemile ja organiseeritud kauplemissüsteemile kohaldatakse käesoleva seaduse §-des 136 ja 138<sup>1</sup> sätestatut.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 163<sup>4</sup>. Järelevalve mitmepoolses kauplemissüsteemis ja organiseeritud kauplemissüsteemis toimuva üle
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1) Mitmepoolse kauplemissüsteemi ja organiseeritud kauplemissüsteemi korraldajale kohaldatakse käesoleva seaduse §-des 148 ja 149 turu korraldaja kohta sätestatut.
+
+(1<sup>1</sup>) Mitmepoolse kauplemissüsteemi ja organiseeritud kauplemissüsteemi korraldaja kehtestab meetmed ja rakendab neid, et tagada Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artiklis 22b sätestatud andmete kvaliteedinõuete täitmine.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(2) Mitmepoolse kauplemissüsteemi ja organiseeritud kauplemissüsteemi korraldaja esitab inspektsioonile täpse kirjelduse mitmepoolse kauplemissüsteemi või organiseeritud kauplemissüsteemi toimimise kohta, sealhulgas seoste kohta reguleeritud turu, mitmepoolse kauplemissüsteemi, organiseeritud kauplemissüsteemi või kliendi korralduste süsteemse täitjaga, mida korraldaja korraldab või milles korraldajal on osalus, ja mitmepoolses kauplemissüsteemis või organiseeritud kauplemissüsteemis osalejate ja kasutajate kohta.
+
+(3) Inspektsioon teavitab Euroopa Väärtpaberiturujärelevalve Asutust igast mitmepoolse kauplemissüsteemi ja organiseeritud kauplemissüsteemi korraldamiseks antud tegevusloast ning esitab nõudmisel käesoleva paragrahvi lõikes 2 nimetatud teabe.
+
+(4) Organiseeritud kauplemissüsteemi korraldaja või vastava tegevusloa taotleja esitab nõudmisel inspektsioonile täpse selgituse järgmiste asjaolude kohta:
+
+1\) milliste omaduste poolest süsteem ei vasta reguleeritud turu, mitmepoolse kauplemissüsteemi või kliendi korralduste süsteemse täitja tunnustele ega saa toimida ühena eelnimetatutest;
+
+2\) kuidas teostatakse otsustusõigust tehingute täitmisel, eriti korralduse organiseeritud kauplemissüsteemist tagasivõtmisel, ning millal ja kuidas sobitatakse organiseeritud kauplemissüsteemis klientide ostu- ja müügipakkumusi;
+
+3\) millistel tingimustel organiseeritud kauplemissüsteemi korraldaja kaupleb oma arvel ostu- ja müügihuvide sobitamisel.
+
+(5) Inspektsioon jälgib organiseeritud kauplemiskoha korraldaja oma arvel kauplemist ostu- ja müügihuvide sobitamisel, et tagada, et selline tegevus on pidevalt vastavuses käesoleva seaduse § 124<sup>6</sup> lõikes 8 sätestatud tingimustega ega põhjusta korraldaja ja tema klientide vahel huvide konflikti.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 163<sup>5</sup>. Kasvuturg
+
+(1) Mitmepoolse kauplemissüsteemi korraldaja teatab inspektsioonile soovist registreerida mitmepoolne kauplemissüsteem või selle segment eriotstarbelise kauplemiskohana äriühingutele, kelle väärtpaberi keskmine turukapitalisatsioon kolme eelneva kalendriaasta jooksul vastavalt komisjoni delegeeritud määruse (EL) nr 2017/565 artiklis 77 sätestatule on aastalõpu sulgemishinna või noteeringu alusel vähem kui 200 000 000 eurot (edaspidi *kasvuturg*).
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud teavituse saamisel ja kui on täidetud lõikes 3 ning komisjoni delegeeritud määruse (EL) 2017/565 artiklis 78 nimetatud tingimused, mitmepoolse kauplemissüsteemi segmendi puhul lisaks käesoleva paragrahvi lõikes 3<sup>1</sup> nimetatud tingimused, teavitab inspektsioon esimesel võimalusel Euroopa Väärtpaberiturujärelevalve Asutust mitmepoolse kauplemissüsteemi või selle segmendi registreerimisest kasvuturuna.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(3) Lisaks käesolevas seaduses mitmepoolse kauplemissüsteemi kohta sätestatule rakendab kasvuturu korraldaja tõhusaid reegleid, süsteeme ja protseduure, et täita vähemalt järgmised tingimused:
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+1\) kasvuturule kauplemisele võetud väärtpaberite emitentidest vastab vähemalt 50 protsenti käesoleva paragrahvi lõikes 1 turukapitalisatsiooni kohta sätestatud tingimustele mitmepoolse kauplemissüsteemi kasvuturuna registreerimise hetkel ja igal järgneval kalendriaastal;
+
+2\) käesoleva paragrahvi lõikes 1 turukapitalisatsiooni kohta sätestatud tingimusi kohaldatakse emitendi väärtpaberite esmakordsel ja järgneval kasvuturule kauplemisele võtmisel;
+
+3\) väärtpaberi esmakordsel kauplemisele võtmisel avalikustab emitent piisavalt teavet, mis võimaldab investoril teha igakülgselt kaalutud investeerimisotsuse, või kui esmakordse kasvuturule kauplemisele võtmisega kaasneb avalik pakkumine käesoleva seaduse tähenduses, siis prospekti;
+
+4\) emitendi kohta avalikustatakse regulaarselt emitendi raamatupidamisaruandeid;
+
+5\) emitendi kohta avalikustatavat teavet säilitatakse;
+
+6\) emitent ning Euroopa Parlamendi ja nõukogu määruse (EL) nr 596/2014 artikli 3 lõike 1 punktides 25 ja 26 nimetatud isikud vastavad neile Euroopa Parlamendi ja nõukogu määruse (EL) nr 596/2014 alusel kohaldatavatele nõuetele;
+
+7\) kasvuturu korraldaja rakendab Euroopa Parlamendi ja nõukogu määrusega (EL) nr 596/2014 ettenähtud süsteeme ja kontrolli turukuritarvituse ennetamiseks ja ärahoidmiseks kasvuturul.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3<sup>1</sup>) Mitmepoolse kauplemissüsteemi asjaomase segmendi suhtes rakendatavad reeglid, süsteemid ja protseduurid peavad lisaks käesoleva paragrahvi lõikes 3 sätestatud tingimustele tagama vähemalt kõigi järgmiste tingimuste täitmise:
+
+1\) kasvuturuna registreeritud mitmepoolse kauplemissüsteemi segment on selgelt eraldatud mitmepoolse kauplemissüsteemi korraldaja korraldatavatest muudest turusegmentidest ning sellel on muu hulgas erinev nimi, reeglistik, turundusstrateegia ja avalik kuvand, samuti konkreetselt kasvuturu segmendina registreeritud segmendile määratud turu tunnuskood;
+
+2\) tehingud asjaomases kasvuturu segmendis on selgelt eristatavad muust turutegevusest mitmepoolse kauplemissüsteemi teistes segmentides;
+
+3\) inspektsiooni nõudmisel esitab mitmepoolse kauplemissüsteemi korraldaja asjaomases kasvuturu segmendis kauplemisele võetud väärtpaberite täieliku loetelu ja kogu inspektsiooni nõutud teabe kasvuturu segmendi toimimise kohta.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(3<sup>2</sup>) Kasvuturu korraldaja võib kehtestada kasvuturu suhtes lisatingimusi, arvestades käesoleva paragrahvi lõikes 5 sätestatut.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(4) Kasvuturu korraldaja taotlusel või juhul, kui kasvuturg ei vasta käesoleva paragrahvi lõikes 3 ja mitmepoolse kauplemissüsteemi segmendi puhul lisaks lõikes 3<sup>1</sup> sätestatule, tühistab inspektsioon mitmepoolse kauplemissüsteemi või selle segmendi kasvuturuna registreerimise, võttes arvesse komisjoni delegeeritud määruse (EL) 2017/565 artiklis 79 sätestatut, ning teavitab sellest esimesel võimalusel Euroopa Väärtpaberiturujärelevalve Asutust.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(5) Kasvuturule kauplemisele võetud väärtpaberiga võib kaubelda ka muus kauplemiskohas tingimusel, et emitenti on sellest kavatsusest teavitatud ja ta ei ole esitanud vastuväiteid. Kui muu kauplemiskoht on teine kasvuturg või selle segment, ei kohaldata emitendi suhtes seoses selle teise kasvuturuga ühtegi ühingu juhtimiskorraldusega ega teabe esmase, jooksva või ühekordse avalikustamisega seotud kohustust. Kui muu kauplemiskoht ei ole teine kasvuturg, tuleb emitenti teavitada kõigist tema suhtes seoses muu kauplemiskohaga kohaldatavatest nimetatud kohustustest.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+### 18<sup>2</sup>. peatükk — KAUBATULETISINSTRUMENTIDE POSITSIOONIPIIRANGUD
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 163<sup>6</sup>. Peatüki kohaldamine
+
+(1) Käesolevas peatükis sätestatud positsioonipiiranguid ei kohaldata:
+
+1\) Euroopa Parlamendi ja nõukogu määruse (EL) nr 1227/2011 energia hulgimüügituru terviklikkuse ja läbipaistvuse kohta (ELT L 326, 08.12.2011, lk 1–16) artikli 2 punktis 4 nimetatud energia hulgimüügitoodetele, millega kaubeldakse organiseeritud kauplemissüsteemis ja mis täidetakse natuuras;
+
+2\) selle isiku poolt või tema nimel kaubatuletisinstrumentides hoitavate positsioonide suhtes, kes ei ole krediidi- ega finantseerimisasutus ja kelle hoitavad positsioonid vähendavad objektiivselt mõõdetaval viisil tema äritegevusega otseselt seotud riske;
+
+3\) positsioonide suhtes, mis kuuluvad isikule, kes kuulub konsolideerimisgruppi, mille põhitegevus ei ole investeerimisteenuse osutamine või krediidiasutuste seaduse §-s 6 sätestatud finantsteenuste osutamine või kaubatuletisinstrumentide turutegijana tegutsemine, kui need positsioonid vähendavad objektiivselt mõõdetaval moel kõnealuse isiku äritegevusega otseselt seotud riske;
+
+4\) positsioonide suhtes, mis tulenevad objektiivselt mõõdetavatest kaubatuletisinstrumentide, heitkoguse ühikute või nende tuletisinstrumentidega sooritatud tehingutest, mille eesmärk on täita kauplemiskohas likviidsuse tagamise nõudeid, kui sellised nõuded on kehtestatud kooskõlas käesoleva seadusega;
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+5\) käesoleva seaduse § 2 lõikes 3 nimetatud väärtpaberitele.
+
+\[RT I, 29.03.2022, 3 - jõust. 30.03.2022\]
+
+(1<sup>1</sup>) Käesolevat peatükki kohaldatakse üksnes järgmistele kaubatuletisinstrumentidele:
+
+1\) Euroopa Parlamendi ja nõukogu määruse (EL) nr 1308/2013, millega kehtestatakse põllumajandustoodete ühine turukorraldus ning millega tunnistatakse kehtetuks nõukogu määrused (EMÜ) nr 922/72, (EMÜ) nr 234/79, (EÜ) nr 1037/2001 ja (EÜ) nr 1234/2007 (ELT L 347, 20.12.2013, lk 671–854), artiklis 1 ning I lisa I–XX osas ja XXIV osa 1. jaos ning Euroopa Parlamendi ja nõukogu määruse (EL) nr 1379/2013 kalapüügi- ja vesiviljelustoodete turu ühise korralduse kohta, millega muudetakse nõukogu määruseid (EÜ) nr 1184/2006 ja (EÜ) nr 1224/2009 ning tunnistatakse kehtetuks nõukogu määrus (EÜ) nr 104/2000 (ELT L 354, 28.12.2013, lk 1–21), I lisas nimetatud toodetega seotud tuletisleping (edaspidi *põllumajandustoorme tuletisinstrument*);
+
+2\) kaubatuletisinstrument, mille lõpp-positsioonide omanike kõigi netopositsioonide summa vastab nende avatud kogupositsiooni suurusele ja on keskmiselt vähemalt 300 000 partiid aastas (edaspidi*kriitilise tähtsusega või oluline tuletisinstrument*).
+
+\[RT I, 29.03.2022, 3 - jõust. 30.03.2022\]
+
+(2) Käesolevat peatükki kohaldatakse ka käesoleva seaduse § 47 lõikes 1 nimetatud isikutele.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 163<sup>7</sup>. Kaubatuletisinstrumentide positsioonipiirangud
+
+(1) Inspektsioon kehtestab kauplemiskohas kauplemisele võetud igas kaubatuletisinstrumendis hoitava suurima netopositsiooni selge koguselise piirmäära (edaspidi *positsioonipiirang*), mida kohaldatakse kauplemiskohas ja väljaspool kauplemiskohta tehtud majanduslikult samaväärsetele tehingutele järgmistel eesmärkidel:
+
+1\) turukuritarvituste ärahoidmiseks;
+
+2\) korrapäraste hinnastamis- ja arveldustingimuste toetamiseks, sealhulgas et vältida turgu moonutavaid positsioone ja tagada eelkõige kaubatuletisinstrumendi hinna ja selle tuletisinstrumendi aluseks oleva kauba hetkehinna lähenemine tarnekuul, ilma et see mõjutaks hinna kujunemist tuletisinstrumendi aluseks oleva kauba turul.
+
+(2) Muus liikmesriigis registreeritud kauplemiskohas kauplemisele võetud kaubatuletisinstrumentides positsioone hoidvatel Eesti isikutel on kohustus järgida muu lepinguriigi järelevalveasutuse poolt Eestis või muus lepinguriigis kehtestatud positsioonipiiranguid.
+
+(3) Positsioonipiirangu kohaldamisel võetakse arvesse isiku kõik kaubatuletisinstrumendis hoitavad positsioonid ja tema nimel temaga samasse konsolideerimisgruppi kuuluva isiku hoitavad positsioonid.
+
+(4) Positsioonipiirangud peavad olema läbipaistvad ja ühetaolised ning arvestama kauplemiskoha osaliste olemust ja koosseisu kogumis ning nende poolt kauplemisele võetud kaubatuletisinstrumentide kasutamist.
+
+(5) Inspektsioon vaatab positsioonipiirangu üle ja vajaduse korral muudab seda, kui kaubatuletisinstrumendi alusvara tarnitav varu või avatud positsioonid on oluliselt muutunud või on toimunud muu oluline muutus turul, võttes aluseks inspektsiooni kindlaksmääratud tarnitava varu ning avatud positsioonide määratluse.
+
+(6) Inspektsioon avalikustab positsioonipiirangud oma veebilehel ning edastab kehtestatud positsioonipiirangute üksikasjad Euroopa Väärtpaberiturujärelevalve Asutusele.
+
+(7) Positsioonipiiranguid ei kohaldata selle isiku poolt või tema nimel kaubatuletisinstrumentides hoitavate positsioonide suhtes, kes ei ole krediidi- ega finantseerimisasutus ja kelle hoitavad positsioonid vähendavad objektiivselt mõõdetaval viisil isiku äritegevusega otseselt seotud riske.
+
+(8) Käesoleva paragrahvi lõikes 7 nimetatud erandi kohaldamiseks peab isik esitama inspektsioonile taotluse, milles sisalduvad komisjoni delegeeritud määruse (EL) nr 2017/591, millega täiendatakse Euroopa Parlamendi ja nõukogu direktiivi 2014/65/EL seoses regulatiivsete tehniliste standarditega, mis käsitlevad kaubatuletisinstrumentide suhtes positsioonipiirangute kohaldamist (ELT L 87, 31.03.2017, lk 47–491), artikli 8 lõikes 2 nimetatud andmed.
+
+(9) Inspektsioon võtab positsioonipiirangute kehtestamisel, arvutamisel ja kohaldamisel arvesse komisjoni delegeeritud määruses (EL) nr 2017/591 sätestatud metoodikat.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 163<sup>8</sup>. Rangemate positsioonipiirangute kehtestamine
+
+(1) Inspektsioon võib kehtivatest positsioonipiirangutest rangema positsioonipiirangu kehtestada vaid erandjuhul, kui see on objektiivselt põhjendatud ja proportsionaalne, võttes arvesse konkreetse turu likviidsust ning nõuetekohast toimimist.
+
+(2) Rangema positsioonipiirangu võib kehtestada kuni kuueks kuuks selle avalikustamisest arvates ja pikendada seda kuni kuuekuuliste perioodidena, kui rangema positsioonipiirangu põhjuseks olevad asjaolud püsivad. Rangem positsioonipiirang kaotab kuue kuu möödudes automaatselt kehtivuse, välja arvatud selle pikendamise korral.
+
+(3) Inspektsioon avalikustab rangema positsioonipiirangu oma veebilehel.
+
+(4) Inspektsioon teavitab Euroopa Väärtpaberiturujärelevalve Asutust kavatsusest kehtestada rangem positsioonipiirang, põhjendades selle vajalikkust.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 163<sup>9</sup>. Inspektsiooni koostöö positsioonipiirangute kohaldamisel
+
+(1) Inspektsioon kohandab kehtestatud positsioonipiirangut või rangemat positsioonipiirangut vastavalt Euroopa Väärtpaberiturujärelevalve Asutuse arvamusele või jätab otsuse muutmata, avaldades viivitamata oma veebilehel selgituse selle põhjuste kohta.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1<sup>1</sup>) Inspektsioon kehtestab positsioonipiirangud vastavalt Euroopa Parlamendi ja nõukogu direktiivi 2014/65/EL artikli 57 lõike 3 alusel kehtestatud Euroopa Komisjoni tehnilistes standardites ettenähtud arvutusmeetoditele.
+
+\[RT I, 29.03.2022, 3 - jõust. 30.03.2022\]
+
+(2) Inspektsioon kehtestab kaubatuletisinstrumendile ühtse positsioonipiirangu, mida kohaldatakse kõigis jurisdiktsioonides selle instrumendiga tehtavate tehingute suhtes, kui:
+
+1\) põllumajandustoorme tuletisinstrumentidega, millel on sama alusvara ja samad omadused, kaubeldakse olulises mahus rohkem kui ühes jurisdiktsioonis asuvates kauplemiskohtades, millest suurima kauplemismahuga kauplemiskoht on registreeritud Eestis;
+
+2\) kriitilise tähtsusega või oluliste kaubatuletisinstrumentidega, millel on sama alusvara ja samad omadused, kaubeldakse rohkem kui ühes jurisdiktsioonis asuvates kauplemiskohtades, millest suurima kauplemismahuga kauplemiskoht on registreeritud Eestis.
+
+\[RT I, 29.03.2022, 3 - jõust. 30.03.2022\]
+
+(2<sup>1</sup>) Käesoleva paragrahvi lõikes 2 nimetatud ühtse positsioonipiirangu kohaldamisel ja selle läbivaatamisel konsulteerib inspektsioon teiste vastava kaubatuletisinstrumendiga olulises mahus kauplevate kauplemiskohtade finantsjärelevalve asutustega.
+
+\[RT I, 29.03.2022, 3 - jõust. 30.03.2022\]
+
+(3) Kui inspektsioon ei nõustu teise lepinguriigi finantsjärelevalve asutuse kui keskse finantsjärelevalve asutuse kehtestatava positsioonipiiranguga, esitab inspektsioon teise lepinguriigi finantsjärelevalveasutusele ja Euroopa Väärtpaberiturujärelevalve Asutusele kirjalikult põhjendused selle kohta, miks tema hinnangul käesoleva seaduse § 163<sup>7</sup> lõikes 1 sätestatud nõuded ei ole täidetud. Sellisest erimeelsusest tingitud vaidluse lahendamiseks võib inspektsioon pöörduda Euroopa Väärtpaberiturujärelevalve Asutuse poole.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(4) Inspektsioon keskse finantsjärelevalve asutusena rakendab meetmeid koostöö korraldamiseks teise lepinguriigi finantsjärelevalve asutusega, kes teostab järelevalvet põllumajandustoorme tuletisinstrumendiga, millel on sama alusvara ja samad omadused, või kriitilise tähtsusega või olulise kaubatuletisinstrumendiga, millel on sama alusvara ja samad omadused, kaupleva kauplemiskoha ja vastavas tuletisinstrumendis positsioone hoidvate isikute üle, muu hulgas asjakohase teabe vahetamiseks ühtse positsioonipiirangu kontrollimise võimaldamise ja positsioonipiirangu täitmise tagamise eesmärgil.
+
+\[RT I, 29.03.2022, 3 - jõust. 30.03.2022\]
+
+(5) Inspektsioon keskse finantsjärelevalve asutusena sõlmib koostöökokkuleppe teise lepinguriigi finantsjärelevalve asutusega, kes teostab järelevalvet kaubatuletisinstrumendiga, millel on sama alusvara ja samad omadused, olulises mahus kaupleva kauplemiskoha või vastavas tuletisinstrumendis positsioone hoidvate isikute üle.
+
+\[RT I, 29.03.2022, 3 - jõust. 30.03.2022\]
+
+(6) Käesoleva paragrahvi lõikes 5 nimetatud koostöökokkuleppes käsitletakse muu hulgas teabe vahetamist, mis võimaldab ühtset positsioonipiirangut kontrollida ja selle täitmist tagada.
+
+\[RT I, 29.03.2022, 3 - jõust. 30.03.2022\]
+
+#### § 163<sup>10</sup>. Kaubatuletisinstrumentide ja heitkoguse ühikute tuletisinstrumentide positsioonide haldamise kontroll
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(1) Kui kauplemiskohas kaubeldakse kaubatuletisinstrumentidega või heitkoguse ühikute tuletisinstrumentidega, rakendab kauplemiskoha korraldaja positsioonide haldamise kontrolle. Selleks on kauplemiskoha korraldajal õigus:
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+1\) seirata isikute avatud positsioone;
+
+2\) saada juurdepääs asjakohastele dokumentidele kaubatuletisinstrumentides või heitkoguse ühikute tuletisinstrumentides võetud positsiooni või riskipositsiooni suuruse ja eesmärgi või võetud kohustuse kohta, samuti teabele kaudse osaluse, kooskõlastatult positsioonide omandamise kokkulepete ja vara või kohustuste kohta alusvara turul, sealhulgas asjakohasel juhul positsioonide kohta, mida hoitakse liikmete ja turuosaliste vahendusel heitkoguse ühikute tuletisinstrumentides või kaubatuletisinstrumentides, millel on sama alusvara ja samad omadused, teistes kauplemiskohtades ja väljaspool kauplemiskohta tehtud majanduslikult samaväärsetes tehingutes;
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+3\) nõuda isikult positsiooni ajutist või alalist likvideerimist või vähendamist ja sellise nõude täitmata jätmise korral võtta ühepoolselt asjakohaseid meetmeid positsiooni likvideerimiseks või vähendamiseks;
+
+\[RT I, 29.03.2022, 3 - jõust. 30.03.2022\]
+
+4\) nõuda isikult turul likviidsuse ajutist taastamist kokkulepitud hinnaga ja mahus selge kavatsusega kahandada suure või valitseva mõjuga positsiooni mõjusid.
+
+\[RT I, 29.03.2022, 3 - jõust. 30.03.2022\]
+
+(2) Positsioonide haldamise kontroll peab olema läbipaistev ja ühetaoline, täpsustama positsioonipiirangute kohaldamise asjaolusid ning võtma arvesse kauplemiskoha osaliste olemust ja koosseisu kogumis ning nende poolt kauplemisele võetud kaubatuletisinstrumentide kasutamist.
+
+(3) Kauplemiskoha korraldaja teavitab positsioonide haldamise kontrolli üksikasjadest inspektsiooni. Inspektsioon edastab saadud teabe Euroopa Väärtpaberiturujärelevalve Asutusele.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 163<sup>11</sup>. Kauplemiskoha korraldaja aruandluskohustus
+
+(1) Kui kauplemiskohas kaubeldakse kaubatuletisinstrumentide või heitkoguse ühikute tuletisinstrumentidega, on kauplemiskoha korraldaja kohustatud:
+
+1\) avalikustama kauplemiskohtade kohta, kus kaubeldakse optsioonidega, kord nädalas kaks aruannet, millest üks ei hõlma optsioone, kauplemiskohas kauplemisele võetud erinevates kaubatuletisinstrumentides või heitkoguse ühikute tuletisinstrumentides hoitavate koondpositsioonide kohta käesoleva paragrahvi lõikes 2 nimetatud isikute kategooriate kaupa;
+
+2\) avalikustama kauplemiskohtade kohta, kus optsioonidega ei kaubelda, kord nädalas aruande, milles käsitletakse käesoleva paragrahvi lõikes 4 sätestatud andmeid;
+
+3\) esitama vähemalt kord päevas inspektsioonile täieliku aruande kõigi kauplemiskohas tehinguid tegevate isikute, sealhulgas kauplemiskoha osaliste ja nende klientide kaubatuletisinstrumentides või heitkoguse ühikute tuletisinstrumentides hoitavate positsioonide kohta;
+
+4\) esitama käesoleva lõike punktides 1 ja 2 nimetatud aruanded inspektsioonile ja Euroopa Väärtpaberiturujärelevalve Asutusele.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(1<sup>1</sup>) Käesoleva paragrahvi lõikes 1 nimetatud positsioonidest teatamist ei kohaldata käesoleva seaduse § 2 lõikes 3 nimetatud kauba või alusvaraga seotud väärtpaberitele.
+
+\[RT I, 29.03.2022, 3 - jõust. 30.03.2022\]
+
+(2) Kauplemiskoha korraldaja liigitab kaubatuletisinstrumentides või heitkoguse ühikute tuletisinstrumentides positsiooni hoidvad isikud nende põhitegevuse laadi põhjal järgmiselt:
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+1\) investeerimisühing või krediidiasutus;
+
+2\) investeerimisfond või tema fondivalitseja;
+
+3\) muu finantseerimisasutus, sealhulgas kindlustusandja ja kogumispensionide seaduse tähenduses tööandja pensionifondi valitsev fondivalitseja;
+
+4\) heitkoguse ühikute tuletisinstrumentide puhul heiteallika või õhusõiduki käitaja, kellele kohaldatakse atmosfääriõhu kaitse seaduses sätestatud kohustusi;
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+5\) punktides 1–4 nimetamata äriühing.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) Käesoleva paragrahvi lõike 1 punktides 1 ja 2 sätestatud kohustust kohaldatakse üksnes juhul, kui nii isikute arv kui ka nende avatud positsioonid ületavad komisjoni delegeeritud määruse (EL) nr 2017/565 artiklis 83 kehtestatud miinimummäärasid.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(4) Kauplemiskoha korraldaja täpsustab käesoleva paragrahvi lõike 1 punktides 1 ja 2 nimetatud aruandes käesoleva paragrahvi lõikes 2 nimetatud isikute kategooriate kaupa võetud pikkade ja lühikeste positsioonide arvu, selles eelmise aruandega võrreldes toimunud muutused, avatud positsioonide kogumahu määra iga kategooria puhul ning positsiooni omavate isikute arvu igas kategoorias.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(5) Käesoleva paragrahvi lõike 1 punktides 1 ja 2 nimetatud aruandes eristatakse:
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+1\) positsioone, mida käsitatakse objektiivselt mõõdetaval viisil äritegevusega otseselt seotud riske vähendavate positsioonidena;
+
+2\) käesoleva lõike punktis 1 nimetamata positsioone.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(6) Käesoleva paragrahvi lõike 1 punktides 1 ja 2 nimetatud aruande esitamise nõuded on sätestatud komisjoni rakendusmääruses (EL) nr 2017/1093, millega kehtestatakse rakenduslikud tehnilised standardid investeerimisühingute ja turukorraldajate positsioonide aruannete vormingu kohta (ELT L 158, 21.06.2017, lk 16–26), ning komisjoni rakendusmääruses (EL) nr 2017/953, milles sätestatakse rakenduslikud tehnilised standardid seoses selliste positsioone käsitlevate aruannete vormingu ja esitamise tähtajaga, mida kauplemiskohtades tegutsevad investeerimisühingud ja turukorraldajad peavad vastavalt Euroopa Parlamendi ja nõukogu direktiivile 2014/65/EL (finantsinstrumentide turgude kohta) esitama (ELT L 144, 07.06.2017, lk 12–13).
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+#### § 163<sup>12</sup>. Kaupleja aruandluskohustus
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(1) Investeerimisühing, kes kaupleb kauplemiskohas kauplemisele võetud kaubatuletisinstrumentide või heitkoguse ühikute tuletisinstrumentidega väljaspool kauplemiskohta, esitab inspektsioonile vähemalt kord päevas aruande positsioonide kohta, mille ta on võtnud väljaspool kauplemiskohta tehtud majanduslikult samaväärsetes tehingutes, samuti kuni lõppkliendini oma klientide ja nende klientide positsioonide kohta vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artiklile 26, ning kui see on asjakohane, Euroopa Parlamendi ja nõukogu määruse (EL) nr 1227/2011 artiklile 8.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(2) Käesoleva paragrahvi lõikes 1 sätestatut kohaldatakse ka juhul, kui kaubatuletisinstrumentide või heitkoguse ühikute tuletisinstrumentidega kaubeldakse olulises mahus rohkem kui ühes jurisdiktsioonis asuvates kauplemiskohtades, millest suurima kauplemismahuga kauplemiskoht on registreeritud Eestis.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(3) Käesoleva paragrahvi lõikes 1 nimetatud aruandes eristatakse:
+
+1\) positsioone, mida käsitatakse objektiivselt mõõdetaval viisil äritegevusega otseselt seotud riske vähendavate positsioonidena;
+
+2\) käesoleva lõike punktis 1 nimetamata positsioone.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(4) Kauplemiskohas osalejad ja organiseeritud kauplemissüsteemi kliendid teatavad kauplemiskoha korraldajale vähemalt kord päevas üksikasjad oma selles kauplemiskohas kauplemisele võetud kaubatuletisinstrumentides või heitkoguse ühikute tuletisinstrumentides hoitavate positsioonide kohta, samuti kuni lõppkliendini oma klientide ja nende klientide positsioonide kohta.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+### 19. peatükk — ÜLEVÕTMISPAKKUMINE
+
+#### § 164. Rakendamise ulatus
+
+(1) Ülevõtmispakkumisele, mis tehakse hääleõiguse omandamiseks Eestis registreeritud aktsiaseltsis (edaspidi *Eesti sihtemitent*) ning mille kõikide või teatud liiki aktsiatega kaubeldakse Eesti turul, kohaldatakse käesolevas peatükis sätestatut.
+
+(2) Ülevõtmispakkumisele, mis tehakse hääleõiguse omandamiseks Eesti sihtemitendis, mille ühegi aktsiaga ei kaubelda Eesti turul, kohaldatakse üksnes käesolevas seaduses ja selle alusel kehtestatud või muudes õigusaktides sihtemitendi töötajate teavitamise, kontrollitava äriühingu ja hääleõiguse kuuluvuse, käesoleva seaduse §-s 173 nimetatud kohustusliku ülevõtmispakkumise erandi, kaitsemeetmete ning muu äriühinguõiguse kohta sätestatut.
+
+(3) Ülevõtmispakkumisele, mis tehakse hääleõiguse omandamiseks mõnes teises lepinguriigis registreeritud äriühingus (edaspidi *lepinguriigi sihtemitent*), kohaldatakse käesolevas seaduses ja selle alusel kehtestatud õigusaktides ülevõtmispakkumise kohta sätestatut, kui on täidetud üks järgmistest tingimustest:
+
+1\) ülevõtmispakkumine hääleõiguse omandamiseks tehakse üksnes Eesti turul kaubeldavate hääleõigust andvate aktsiate suhtes;
+
+2\) ülevõtmispakkumine hääleõiguse omandamiseks tehakse samaaegselt nii Eesti kui ka mõne teise lepinguriigi turul kaubeldavate hääleõigust andvate aktsiate suhtes, kui aktsiad võeti turule kauplemisele esmakordselt Eestis või need võeti kauplemisele üheaegselt nii Eesti kui ka mõne teise lepinguriigi turul ja sihtemitent on otsustanud valida ülevõtmispakkumise pädevaks järelevalveasutuseks inspektsiooni.
+
+(4) Käesoleva paragrahvi lõikes 3 sätestatud tingimustel kohaldatakse üksnes käesolevas seaduses ja selle alusel kehtestatud õigusaktides ülevõtmispakkumise kooskõlastamise, menetluse, õiglase ostuhinna määratlemise, avalikustamise ja ülevõtmispakkumise kohta koostatud prospekti (edaspidi *ülevõtmispakkumisprospekt*) sisu kohta sätestatut. Muul puhul kohaldatakse lepinguriigi sihtemitendi suhtes tema asukohariigi õigust.
+
+(5) Käesoleva peatüki sätteid ei kohaldata aktsiaseltsina asutatud fondile investeerimisfondide seaduse § 6 tähenduses ning teises lepinguriigis registreeritud investeerimisfondile.
+
+\[RT I, 31.12.2016, 3 - jõust. 10.01.2017\]
+
+(6) Käesolevas peatükis tähendab aktsia käesoleva seaduse § 2 lõike 1 punktides 1 ja 7 nimetatud väärtpaberit, samuti muud üleantavat õigust hääletamiseks aktsionäride üldkoosolekul.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 165. Ülevõtmispakkumine
+
+(1) Ülevõtmispakkumine käesoleva seaduse tähenduses on avalik pakkumine sihtemitendi aktsionäridele (edaspidi *sihtisikud*) nendelt aktsiate omandamiseks raha või turul kaubeldavate väärtpaberite eest.
+
+(2) Sihtemitendi avalik pakkumine oma aktsionäridele sihtemitendi aktsiate omandamiseks ei ole ülevõtmispakkumine.
+
+(3) Ülevõtmispakkumise raames tehtud pakkumusele nõustumuse andmise tähtaeg on 28–42 päeva, millest tulenevalt määrab ülevõtja ülevõtmispakkumise kehtivuse tähtaja (edaspidi *ülevõtmistähtaeg*). Ülevõtmistähtaega arvestatakse ülevõtmispakkumisprospekti avalikustamisest arvates.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 166. Ülevõtmispakkumise tegemise kohustus
+
+(1) Sihtemitendi üle valitseva mõju otse või kooskõlastatult tegutsevate isikutega koos saanud isik on kohustatud 20 päeva jooksul valitseva mõju saamisest arvates tegema ülevõtmispakkumise sihtemitendi kõigi aktsiate suhtes.
+
+(2) Käesoleva paragrahvi lõikes 1 sätestatud kohustust ei kohaldata, kui valitsev mõju saadi käesolevas peatükis sätestatud korras tehtud ülevõtmispakkumisega sihtemitendi kõigi aktsiate suhtes ja kõigile aktsia omajatele, ning finantskriisi ennetamise ja lahendamise seaduses sätestatud kriisilahendusmeetmete või -õiguste rakendamise korral.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 167. Valitsev mõju
+
+(1) Valitsev mõju on olukord, kus sihtemitent on kontrollitav äriühing käesoleva seaduse § 10 lõike 1 tähenduses, kusjuures hääleõiguse arvestamisel lähtutakse käesoleva seaduse § 10 lõikes 3 sätestatust.
+
+(2) Inspektsioonil on õigus igal üksikjuhul, hinnates igakülgselt kõiki asjaolusid, määratleda valitseva mõju saamine, omamine, üleandmine, puudumine ja ulatus.
+
+\[RT I 2005, 59, 464 - jõust. 15.11.2005\]
+
+#### § 168. Kooskõlastatult tegutsevad isikud
+
+(1) Kooskõlastatult tegutsevad isikud käesoleva peatüki tähenduses on seotud isikud ja muud isikud, kes kas üksinda või koos teiste isikutega tegutsevad koos ülevõtmispakkumiseks kohustatud isikuga või ülevõtmispakkumist tegeva isikuga (edaspidi *ülevõtja*) või sihtemitendiga suulise või kirjaliku kokkuleppe alusel eesmärgiga kas saavutada valitsev mõju sihtemitendi üle või seda säilitada või suurendada või nurjata ülevõtmispakkumine.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(2) Seotud isikud käesoleva peatüki tähenduses on kontrollitav äriühing, seda äriühingut kontrolliv isik ja teised selle isiku poolt kontrollitavad äriühingud.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 169. Inspektsiooni ülesanded
+
+(1) Inspektsioon kontrollib ülevõtmispakkumise vastavust õigusaktidele.
+
+(2) Inspektsioon koos vastava turu korraldajaga teostab järelevalvet ülevõtmispakkumiste üle.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(3) Inspektsioonil on õigus nõuda ülevõtjalt ja sihtemitendilt teavet seoses ülevõtmispakkumisega.
+
+(4) Kui ülevõtjale kohaldub ülevõtmispakkumise korral samaaegselt Eesti õigusega kolmanda riigi õigus ja selle kohaselt ei nõuta ülevõtmispakkumise tegemist kõigile sihtisikutele, võib inspektsioon ülevõtja taotluse alusel lubada sihtisikutena mitte arvestada isikuid, kelle elukoht või asukoht on selles riigis.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 170. Ülevõtja ja temaga seotud isikute kohustused
+
+(1) Ülevõtmispakkumise korral peab ülevõtja samaliigiliste aktsiate omanikke kohtlema võrdselt.
+
+(2) Ülevõtja ja sihtemitent peavad andma sihtisikutele ülevõtmispakkumise informeeritud kaalumiseks olulist, õiget, täpset, täielikku ja ühesugust teavet.
+
+(3) Ülevõtja teeb ülevõtmispakkumise selle läbiviimiseks küllaldaste finantsvahendite ja võimaluste olemasolul.
+
+\[RT I 2008, 13, 89 - jõust. 15.03.2008\]
+
+(4) \[Kehtetu - RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 171. Sihtemitendi ja temaga seotud isikute kohustused
+
+(1) Sihtemitendi tegevjuhtkonna, nõukogu ja juhatuse liikmed peavad ülevõtmispakkumise korral lähtuma sihtemitendi huvidest ega või takistada sihtisikutel kaaluda ülevõtmispakkumist.
+
+(2) Sihtemitendi nõukogu koostab ning avalikustab oma arvamuse ülevõtmispakkumise kohta.
+
+(3) Ülevõtmispakkumise avalikustamisest kuni ülevõtmispakkumise tulemuse avalikustamiseni ei või sihtemitendi juhatus või nõukogu (edaspidi *sihtemitendi juhtorgan*) teha toiminguid, mis võivad põhjustada ülevõtmispakkumise nurjumise, välja arvatud juhul, kui sihtemitendi aktsionäride üldkoosolek annab nõusoleku selliste toimingute kaitsemeetmetena (edaspidi *kaitsemeetmed*) kasutamiseks. Kaitsemeetmed on muu hulgas väärtpaberite emiteerimised, mis võivad ülevõtjal kestvalt takistada kontrolli saavutamist sihtemitendis. Kaitsemeetmeid ei või kasutada kauem, kui see on põhjendatud. Sihtemitendi juhtorganil on õigus kutsuda teisi isikuid võistlevate ülevõtmispakkumiste tegemisele, mida ei käsitata kaitsemeetme kasutamisena.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(4) Sihtemitendi aktsionäride üldkoosoleku nõusolek peab olema ka nende juhtorgani otsuste kohta, mis tehti enne ülevõtmispakkumise avalikustamist ja mis väljuvad sihtemitendi igapäevase majandustegevuse raamidest ning mille täitmine võib põhjustada kaitsemeetmete kasutamise.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(5) Käesoleva paragrahvi lõigetes 3 ja 4 sätestatud sihtemitendi aktsionäride üldkoosoleku otsus on vastu võetud, kui selle poolt on antud vähemalt 2/3 üldkoosolekul esindatud häältest, kui põhikirjas ei ole ette nähtud suurema häälteenamuse nõuet.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 171<sup>1</sup>. Piirangute kohaldamise ja eriõiguste kasutamise keeld
+
+(1) Ülevõtmispakkumise tähtaja jooksul ei kohaldata ülevõtja suhtes põhikirjakohaseid, sihtemitendi ja aktsionäride vahelistes või aktsionäride omavahelistes lepingutes sätestatud aktsiate võõrandamise piiranguid.
+
+(2) Sihtemitendi põhikirjas sätestatud hääleõigust käsitlevad piirangud või kokkulepped ei kehti ja eelisaktsia ei anna hääleõigust ülevõtmispakkumise tähtajal toimuval aktsionäride üldkoosolekul, kus tehakse otsus § 171 lõigete 3 ja 4 kohaste kaitsemeetmete kasutamise suhtes.
+
+(3) Kui ülevõtja on pärast ülevõtmispakkumist omandanud vähemalt 75 protsenti sihtemitendi hääleõigust esindavast aktsiakapitalist, ei kehti hääleõigust käsitlevad kokkulepped ega sihtemitendi põhikirjas sätestatud aktsionäride eriõigused nõukogu liikmete valimisel ja tagasikutsumisel ning eelisaktsia ei anna hääleõigust ülevõtja poolt kokku kutsutud esimesel üldkoosolekul, kus on kavas põhikirja muutmine või otsuse tegemine nõukogu koosseisu suhtes. Ülevõtjal on õigus kokku kutsuda üldkoosolek, mille toimumisest peab ette teatama vähemalt kaks nädalat.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 172. Ülevõtja, sihtemitendi ja nendega kooskõlastatult tegutsevate isikute kohustused
+
+Ülevõtja, sihtemitent ja nendega kooskõlastatult tegutsevad isikud on kohustatud ülevõtmistähtajal hoiduma tegudest, mis põhjustavad sihtemitendi aktsiate ebahariliku hinnakõikumise.
+
+#### § 173. Erandid kohustuslikule ülevõtmispakkumisele
+
+Sihtemitendi üle valitseva mõju saanud isiku vastava kirjaliku avalduse alusel on inspektsioonil õigus teha erand kohustusliku ülevõtmispakkumise nõudest järgneva asjaolu esinemisel:
+
+1\) äriühing sai sihtemitendi üle valitseva mõju temaga samasse kontserni kuuluvalt ühingult ning pärast valitseva mõju saamist kuulub äriühing jätkuvalt samasse kontserni;
+
+2\) valitsev mõju saadi sihtemitendi aktsiakapitali vähendamise tulemusena;
+
+3\) valitsev mõju saadi ühinemise või jagunemise läbiviimiseks enne ühinemis- või jagunemislepingu heakskiitmist ühinevate ühingute poolt või jaguneva sihtemitendi aktsionäride üldkoosoleku poolt tingimusel, et sihtemitendi ühinemise või jagunemise tõttu isiku või kooskõlastatult tegutsevate isikute valitsev mõju lõpeb;
+
+4\) aktsiad omandati lühikeseks tähtajaks edasise võõrandamise eesmärgil, kuid sellega kaasnes valitseva mõju omandamine, sealhulgas väärtpaberite omandamisel kauplemisportfelli, aktsiate emiteerimise tagamisel ja aktsiate omandamisel emitendi poolt;
+
+5\) valitsev mõju saadi eelneva kavatsuseta saada valitsev mõju sihtemitendi üle ning valitseva mõju saaja loobub sellest kolmanda isiku kasuks, kes ei ole temaga kooskõlastatult tegutsev isik, 10 tööpäeva jooksul, arvates valitseva mõju saamisest, tingimusel, et nimetatud tähtaja jooksul ei toimu sihtemitendi aktsionäride üldkoosolekut;
+
+6\) aktsionär sai valitseva mõju temale seaduse kohaselt kuulunud ning mitte teistelt isikutelt omandatud aktsiate märkimiseesõiguste teostamise tõttu.
+
+7\) valitsev mõju saadi pärimise, kinkimise või ühisvara jagamise tulemusel ning valitseva mõju saaja loobub sellest kolmanda isiku kasuks, kes ei ole temaga kooskõlastatult tegutsev isik, 10 tööpäeva jooksul, arvates valitseva mõju saamisest, tingimusel, et nimetatud tähtaja jooksul ei toimu sihtemitendi aktsionäride üldkoosolekut;
+
+\[RT I, 06.07.2023, 6 - jõust. 01.01.2024\]
+
+8\) valitsev mõju saadi sihtemitendi ümberkujundamise, saneerimise või tervendamise tulemusel;
+
+\[RT I, 26.06.2017, 1 - jõust. 06.07.2017\]
+
+9\) valitsev mõju saadi pantimise või finantstagatise seadmise tulemusel.
+
+\[RT I, 26.06.2017, 1 - jõust. 06.07.2017\]
+
+#### § 174. Ostuhind ülevõtmispakkumises
+
+(1) Ülevõtmispakkumise esemeks olevate eriliigiliste aktsiate ülevõtmispakkumises kajastatud ostuhindade suhe peab olema vastavuses aktsiatest tulenevate õiguste ja kohustustega.
+
+(2) Kohustusliku ülevõtmispakkumise esemeks oleva aktsia kohustuslikus ülevõtmispakkumises kajastatud ostuhind peab olema õiglane.
+
+(3) Kohustusliku ülevõtmispakkumise raames ülevõtmispakkumise esemeks oleva aktsia eest tasutavaks õiglaseks hinnaks peetakse kõrgeimat hinda, mida ülevõtja või temaga kooskõlastatult tegutsevad isikud on pakkumisele eelnenud kuue kuu jooksul selle aktsia eest maksnud.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(4) Kui ülevõtja või temaga kooskõlastatult tegutsevad isikud omandavad aktsiaid pärast ülevõtmispakkumise avalikustamist ja enne ülevõtmispakkumise tulemuse avalikustamist ostuhinnast kõrgema hinnaga, peetakse õiglaseks hinnaks kõrgeimat hinda, mis nad selle ajavahemiku jooksul aktsia eest on maksnud.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(5) Kui valitseva mõju all oleva sihtemitendi üldkoosoleku või nõukogu otsusel oma aktsiate omandamisele järgneva kuue kuu jooksul teeb sihtemitendi üle valitseva mõju omaja või temaga kooskõlastatult tegutsev isik ülevõtmispakkumise selle sihtemitendi aktsionäridele, siis hüvitab ülevõtja üldkoosoleku või nõukogu otsusel oma aktsiate omandamise käigus sihtemitendile aktsia võõrandanud isikule aktsia eest tasutud hinna ja ülevõtmispakkumises makstava ostuhinna vahe, kui ostuhind ülevõtmispakkumises on kõrgem ja kui komisjoni delegeeritud määruse (EL) 2016/1052, millega täiendatakse Euroopa Parlamendi ja nõukogu määrust (EL) nr 596/2014 seoses regulatiivsete tehniliste standarditega, mis käsitlevad tagasiostuprogrammide ja stabiliseerimismeetmete suhtes kohaldatavaid tingimusi (ELT L 173, 30.06.2016, lk 34–41), nõuetele vastavas aktsiate tagasiostuprogrammis või muus samaväärses dokumendis ei avalikustatud ülevõtmispakkumise tegemise kavatsust.
+
+\[RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+#### § 175. Ülevõtmispakkumise kooskõlastamine
+
+(1) Ülevõtja peab ülevõtmispakkumise kooskõlastama inspektsiooniga.
+
+(2) Inspektsioon ei kooskõlasta õigusaktiga vastuolus olevat ülevõtmispakkumist.
+
+(3) Inspektsioon otsustab ülevõtmispakkumise kooskõlastamise või käesoleva seaduse §-s 173 nimetatud erandi tegemise 15 päeva jooksul ülevõtjalt vastava kirjaliku avalduse saamisest arvates.
+
+(4) Teiste lepinguriikide pädevate järelevalveasutuste poolt kooskõlastatud ülevõtmispakkumise prospekti alusel on õigus teha ülevõtmispakkumine Eestis, kui teises lepinguriigis registreeritud sihtemitendi ülevõtmispakkumise esemeks olev aktsia on võetud Eesti turul kauplemisele.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 176. Ülevõtmispakkumise vaidlustamine
+
+(1) Sihtisik või muu ülevõtmispakkumisega seotud isik ei või nõuda ülevõtmispakkumise tühistamist või selle tingimuste muutmist pärast selle kooskõlastamist inspektsiooni poolt.
+
+(2) Sihtisik või muu ülevõtmispakkumisega seotud isik võib nõuda ülevõtmispakkumisega tekitatud kahju hüvitamist.
+
+(3) Käesoleva paragrahvi lõikes 2 nimetatud nõude aegumistähtaeg on üks aasta, arvates ülevõtmispakkumise kooskõlastamisest inspektsiooni poolt.
+
+#### § 177. Ülevõtmispakkumise avalikustamine
+
+Ülevõtja avalikustab vastava turu korraldaja veebilehel ülevõtmispakkumisprospekti, mis sisaldab täies mahus õiget, täpset ja täielikku teavet ülevõtmispakkumise kohta.
+
+#### § 178. Ülevõtmispakkumise tulemused
+
+Pärast ülevõtmistähtaja möödumist avalikustab ülevõtja ülevõtmispakkumise tulemused vastava turu korraldaja veebilehel.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 179. Ülevõtmistähtaja pikendamine
+
+Ülevõtmispakkumise edasilükkavate tingimuste saabumisel pikendab ülevõtja ülevõtmistähtaega nende sihtisikute suhtes, kes ei olnud ülevõtmispakkumise raames teinud ülevõtjale ettepanekut või oferti aktsiate võõrandamiseks.
+
+#### § 180. Lepingust taganemine
+
+(1) Ülevõtmispakkumise raames aktsia võõrandamiseks ettepaneku või oferdi teinud isikul ja ettepaneku või oferdi aktseptinud sihtisikul on käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud juhtudel ning korras õigus ettepanek või ofert tagasi võtta ja lepingust taganeda.
+
+(2) Ülevõtmispakkumise raames aktsia võõrandamiseks lepingu sõlminud sihtisikul on õigus üles öelda või taganeda sõlmitud ja veel täitmata võõrandamislepingust või nõuda täidetud võõrandamislepingu järgi üleantu ning saadu tagastamist, selle võimatuse korral aga kahju hüvitamist rahas käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud juhtudel ning korras. Ülevõtjal ei ole sellisel juhul õigust esitada sihtisiku vastu nõuet kahju hüvitamiseks.
+
+#### § 181. Võistlev ülevõtmispakkumine
+
+Ülevõtmispakkumise esemeks olevate aktsiate suhtes teise ülevõtja poolt tehtava ülevõtmispakkumise (võistlev pakkumine) korral on sihtisikul õigus valida ülevõtmispakkumiste vahel ning selleks esialgse ülevõtmistähtaja jooksul:
+
+1\) tagasi võtta esialgse ülevõtmispakkumise raames aktsia võõrandamiseks ülevõtjale tehtud ettepanek;
+
+2\) taganeda ülevõtjaga esialgse ülevõtmispakkumise raames sõlmitud aktsia võõrandamislepingust.
+
+#### § 182. Õigusvastase ülevõtmispakkumise tagajärjed
+
+(1) Isiku poolt käesoleva seaduse §-s 166 sätestatud kohustuse rikkumisel, kui isikule ei olnud antud õigust loobuda kohustusliku ülevõtmispakkumise tegemisest vastavalt käesoleva seaduse §-le 173, või § 175 lõikes 1 sätestatud kohustuse rikkumisel, ei saa isik kuni rikkumise lõppemiseni teostada hääleõigusi sihtemitendis ning neid hääli ei arvata sihtemitendi üldkoosoleku kvoorumisse.
+
+(2) Inspektsioonil on õigus teha Eesti väärtpaberite registri pidajale viivitamatuks täitmiseks kohustuslik ettekirjutus kuni 20 päevaks keelata ülevõtja ja temaga kooskõlastatult tegutseva isiku väärtpaberikontol olevate väärtpaberite kasutamine ja käsutamine õigusvastase ülevõtmispakkumise tegemise korral või muu ülevõtmispakkumisega sarnase pakkumise sihtemitendi aktsionäridele kättesaadavaks tegemise korral või ülevõtja ja temaga kooskõlastatult tegutseva isiku poolt muude käesoleva seadusega või selle alusel antud õigusaktidega vastuolus olevate tegude tegemise korral.
+
+\[RT I, 26.06.2017, 1 - jõust. 06.07.2017\]
+
+#### § 182<sup>1</sup>. Aktsiate ülevõtmine pärast ülevõtmispakkumist
+
+(1) Kui ülevõtja on omandanud vähemalt 9/10 sihtemitendi hääleõigust esindavast aktsiakapitalist ülevõtmispakkumise tulemusena, siis võib tema taotlusel sihtemitendi aktsionäride üldkoosolek otsustada ülejäänud sihtisikutele kuuluvate aktsiate ülevõtmise õiglase hüvitise eest.
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud ülejäänud sihtisikutele kuuluvate aktsiate ülevõtmise otsuse võib sihtemitendi üldkoosolek teha kuni kolme kuu jooksul arvates ülevõtmistähtaja lõppemisest. Üldkoosoleku otsus ülejäänud sihtisikutele kuuluvate aktsiate ülevõtmise kohta on vastu võetud, kui selle poolt on antud vähemalt 9/10 aktsiatega esindatud häältest.
+
+(3) Käesoleva paragrahvi lõikes 1 sätestatud juhul võib õiglast hüvitist maksta rahas või turul kaubeldavates likviidsetes väärtpaberites ning sellisel juhul ei või hüvitis olla väiksem ülevõtmispakkumise ostuhinnast.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 182<sup>2</sup>. Ülevõtmispakkumise tähtaja pikenemine sihtisikute suhtes
+
+Nende sihtisikute suhtes, kes ei teinud ülevõtmispakkumise raames ülevõtjale pakkumust aktsiate võõrandamiseks, pikeneb ülevõtmistähtaeg kolme kuuni ülevõtmispakkumise tulemuste avalikustamisest arvates, kui ülevõtja aktsiatega on esindatud vähemalt 9/10 sihtemitendi hääleõigust esindavast aktsiakapitalist ning sihtemitendi üldkoosolek ei ole teinud käesoleva seaduse §-s 182<sup>1</sup> sätestatud ülevõtmise otsust.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 183. Ülevõtmispakkumise reeglid
+
+(1) Valdkonna eest vastutav minister kehtestab oma määrusega, lähtudes käesolevas seaduses toodud põhimõtetest, täpsemad nõuded ülevõtmispakkumisele ja sellega seotud asjaoludele (edaspidi *ülevõtmispakkumisreeglid*).
+
+(2) Ülevõtmispakkumisreeglites sätestatakse:
+
+1\) ülevõtmispakkumise esemeks oleva aktsia õiglase ostuhinna määratlemise ja tasumise kriteeriumid ning menetlus;
+
+2\) ülevõtmispakkumise maksimumtähtaeg ja ülevõtmispakkumise tingimuslikkuse kriteeriumid,
+
+3\) ülevõtmispakkumise muutmise tingimused ja menetlus;
+
+4\) ülevõtmispakkumise inspektsiooniga kooskõlastamise kord;
+
+5\) ülevõtmispakkumise kohta teabe avalikustamise ja edastamise kriteeriumid ja menetlus;
+
+6\) nõuded ülevõtmispakkumise kõiki tingimusi kajastava ülevõtmispakkumisprospekti sisule ja vormile;
+
+7\) ülevõtmispakkumise tulemuste avalikustamise kriteeriumid ja menetlus;
+
+8\) ülevõtmispakkumise esemeks olnud aktsiate jaotamise kriteeriumid ja menetlus ülevõtjale;
+
+9\) ülevõtja kohustused tema poolt ülevõtmispakkumise esemeks olnud aktsia omandamisel sihtisikute suhtes soodsamatel tingimustel, võrreldes ülevõtmispakkumises tooduga;
+
+10\) nõuded sihtemitendi nõukogu arvamuse sisule ning vormile ülevõtmispakkumise ja sellega seonduvate asjaolude kohta;
+
+11\) ülevõtmispakkumise tegemata jätmisele või nurjumisele suunatud sihtemitendi või sihtisiku õigustamatute kaitsevõtete tunnused;
+
+12\) võistlevale ülevõtmispakkumisele rakendatavad põhimõtted ja kehtivad sätted ning võistleva ülevõtmispakkumise mõju esialgsele pakkumisele;
+
+13\) inspektsiooni õiguste ja kohustuste ulatus ülevõtmispakkumise avalikustamisele eelneva ja muu ülevõtmispakkumisega seotud järelevalve teostamisel.
+
+(3) Ülevõtmispakkumisreeglites võib vajadusel ette näha:
+
+1\) kohustusliku ülevõtmispakkumise täpsemad tunnused ja erakorralise asjaolu täpsemad tunnused, mille puhul isikul on inspektsiooni nõusolekul õigus loobuda kohustusliku ülevõtmispakkumise tegemisest;
+
+2\) ülevõtmispakkumise raames tehtud ettepanekute tagasivõtmise ning sõlmitud lepingutest taganemise menetlus;
+
+3\) kohustusliku ülevõtmispakkumise esemeks oleva aktsia õiglase ostuhinna muutmise tunnused, mille alusel on inspektsioonil õigus teha ülevõtjale ettepanek varem avalikustatud ostuhinna muutmiseks.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+### 20. peatükk — KORRALDATUD TEAVE
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### 1. jagu — Üldsätted
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+##### § 184. Peatüki kohaldamine
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(1) Käesolevas peatükis sätestatut kohaldatakse Eesti või muu lepinguriigi turul kauplemisele võetud väärtpaberite emitendiga seotud korraldatud teabe avalikustamisele, kui selle emitendi päritolulepinguriigiks on Eesti.
+
+(2) Käesolevas peatükis sätestatut ei kohaldata rahaturuinstrumentidele ega selliste investeerimisfondide, mis ei ole investeerimisfondide seaduse tähenduses kinnised, osakutele või aktsiatele.
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+##### § 184<sup>1</sup>. Aktsionär
+
+(1) Aktsionär käesoleva peatüki tähenduses on isik, kes hoiab otseselt või kaudselt:
+
+1\) emitendi aktsiaid oma nimel ning arvel;
+
+2\) emitendi aktsiaid oma nimel ning kolmanda isiku arvel;
+
+3\) emitendi aktsiate hoidmistunnistusi.
+
+(2) Hoidmistunnistuse hoidja on selle hoidmistunnistusega esindatud ja selle alusvaraks oleva aktsia hoidja.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+##### § 184<sup>2</sup>. Võlaväärtpaber
+
+Võlaväärtpaber käesoleva peatüki tähenduses on võlakiri või muu väärtpaberina kaubeldav võlakohustus, välja arvatud vahetusväärtpaber ja muu väärtpaber, mis on aktsiaga samaväärne või mis vahetamise või temaga esindatud õiguste teostamise tulemusena annab aktsia või aktsiaga samaväärse väärtpaberi omandamise õiguse.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+##### § 184<sup>3</sup>. Elektroonilised vahendid
+
+Elektroonilised vahendid käesoleva peatüki tähenduses on elektroonilised seadmed andmete töötlemiseks, salvestamiseks ja edastamiseks kaabli, raadioside, optiliste tehnoloogiate või muude elektromagnetiliste tehnoloogiate abil.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+##### § 184<sup>4</sup>. Päritolulepinguriik ja vastuvõtjalepinguriik
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+(1) Päritolulepinguriik käesoleva seaduse tähenduses on:
+
+1\) Eestis registreeritud emitendi puhul Eesti;
+
+2\) muu lepinguriigi emitendi puhul lepinguriik, mis on väärtpaberi emitendi registreeritud asukoht või, kui see on asjakohane, elukoht;
+
+3\) selle välisriigi, mis ei ole lepinguriik (edaspidi *kolmas riik*), emitendi või kauplemise taotleja valikul Eesti või muu lepinguriik, kus kolmanda riigi emitendi väärtpaberid on reguleeritud turul kauplemisele võetud.
+
+(2) Mitteomakapitaliväärtpaberite emitent või kauplemise taotleja võib valida päritolulepinguriigiks Eesti või muu lepinguriigi, kus on nimetatud mitteomakapitaliväärtpaberite emitendi registreeritud asukoht või, kui see on asjakohane, elukoht või kus need mitteomakapitaliväärtpaberid on võetud või võetakse reguleeritud turul kauplemisele, juhul kui mitteomakapitaliväärtpaberite emissiooni kuuluva väärtpaberi nimiväärtus on alla 1000 euro või muus valuutas ligilähedane 1000 eurole või alla selle.
+
+(3) Käesoleva paragrahvi lõikes 2 nimetatud mitteomakapitaliväärtpaberite emitent võib päritolulepinguriigiks valida üksnes ühe lepinguriigi ja see valik jääb kehtima vähemalt kolmeks aastaks, välja arvatud juhul, kui selle emitendi väärtpabereid ei ole enam ühegi lepinguriigi reguleeritud turul kauplemisele võetud või sellele emitendile kohaldatakse kolme aasta jooksul käesoleva paragrahvi lõikes 1 või 4 sätestatut.
+
+(4) Emitent, kelle väärtpabereid ei ole enam valitud päritolulepinguriigi reguleeritud turul kauplemisele võetud, kuid on võetud kauplemisele ühes või mitmes vastuvõtjalepinguriigis, võib valida uue päritolulepinguriigi lepinguriikide hulgast, kus tema väärtpaberid on reguleeritud turul kauplemisele võetud või kus on selle emitendi registreeritud asukoht või, kui see on asjakohane, elukoht.
+
+(5) Vastuvõtjalepinguriik käesoleva seaduse tähenduses on Eesti või muu lepinguriik, kus emitendi väärtpaberid on reguleeritud turul kauplemisele võetud, kui see riik ei ole päritolulepinguriik.
+
+(6) Kui käesoleva paragrahvi kohaselt on päritolulepinguriigiks Eesti, avalikustab emitent või kauplemise taotleja selle kohta teabe käesoleva seaduse §-s 184<sup>6</sup> sätestatu kohaselt ja esitab sama teabe samal ajal selle lepinguriigi pädevale järelevalveasutusele, kus on emitendi registreeritud asukoht või, kui see on asjakohane, elukoht, ning kõigi vastuvõtjalepinguriikide pädevatele järelevalveasutustele.
+
+(7) Kui emitent ei ole avalikustanud päritolulepinguriigi valikut käesoleva paragrahvi lõikes 5 sätestatud korras kolme kuu jooksul emitendi väärtpaberite turul kauplemisele võtmisest arvates, on emitendi päritolulepinguriigiks see lepinguriik, kus emitendi väärtpaberid on turul kauplemisele võetud. Kui selliseid lepinguriike on mitu, on emitendi päritolulepinguriigid kõik need lepinguriigid, kuni emitent valib nende hulgast ühe ja avalikustab selle valiku vastavalt käesoleva paragrahvi lõikes 1 sätestatule.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+##### § 184<sup>5</sup>. Vastuvõtjalepinguriik
+
+\[Kehtetu - RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+##### § 184<sup>6</sup>. Korraldatud teabe avalikustamine
+
+(1) Emitent või kauplemise taotleja on kohustatud avalikustama korraldatud teabe käesolevas peatükis sätestatud tingimustel.
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+(2) Emitent või kauplemise taotleja avalikustab korraldatud teabe kujul, mis võimaldab sellele kiiresti juurde pääseda ühetaolisel moel, ja teeb selle teabe samal ajal kättesaadavaks käesoleva paragrahvi lõikes 5 nimetatud süsteemis. Emitent või kauplemise taotleja ei või investoritelt nõuda mis tahes tasu teabe andmise eest.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(3) Emitent on kohustatud korraldatud teabe avalikustamiseks kasutama meediakanaleid, mille puhul võib eeldada, et need edastavad teavet tegelikult ja tõhusalt avalikkusele üle Euroopa Liidu. Korraldatud teabe levitamine peab toimuma üheaegselt võimalikult laiale avalikkusele.
+
+(4) Käesoleva paragrahvi lõigetes 1–3 sätestatut kohaldatakse ka emitendi suhtes, kelle väärtpaberid ei ole päritolulepinguriigi reguleeritud turul kauplemisele võetud ning kelle vastuvõtjalepinguriik on üksnes Eesti.
+
+(5) Inspektsioon haldab korraldatud teabe tsentraalset salvestamise süsteemi või määrab seda süsteemi haldava isiku.
+
+(5<sup>1</sup>) Käesoleva paragrahvi lõikes 5 nimetatud süsteemile edastatav teave esitatakse Euroopa Parlamendi ja nõukogu määruse (EL) 2023/2859, millega luuakse Euroopa ühtne juurdepääsupunkt, mis tagab keskse juurdepääsu finantsteenuste, kapitaliturgude ja kestlikkusega seotud avalikult kättesaadavale teabele (ELT L, 2023/2859, 20.12.2023), artikli 2 punktis 3 määratletud, andmete väljavõttu võimaldavas vormingus, või kui see on Euroopa Liidu või Eesti õigusaktidega nõutav, masinloetavas vormingus nimetatud määruse artikli 2 punkti 4 määratluse kohaselt. Edastatavale teabele lisatakse järgmised metaandmed:
+
+1\) kõik selle emitendi nimed, kellega edastatav teave on seotud;
+
+2\) emitendi juriidilise isiku tunnus vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) 2023/2859 artikli 7 lõike 4 punktile b;
+
+3\) Euroopa Parlamendi ja nõukogu määruse (EL) 2023/2859 artikli 7 lõike 4 punkti d kohaselt määratletud kategooriale vastav emitendi suurus;
+
+4\) Euroopa Parlamendi ja nõukogu määruse (EL) 2023/2859 artikli 7 lõike 4 punkti e kohaselt määratletud emitendi majandustegevuse tööstussektor või sektorid;
+
+5\) teabe liik vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) 2023/2859 artikli 7 lõike 4 punktile c;
+
+6\) märge selle kohta, kas teave sisaldab isikuandmeid.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026, kohaldatakse alates 2026. aasta 10. juulist.\]
+
+(6) Korraldatud teave esitatakse meediakanalitele muutmata täistekstina.
+
+(7) Käesoleva seaduse §-des 184<sup>10</sup>–184<sup>12</sup> nimetatud aruannete puhul arvatakse käesoleva paragrahvi lõikes 6 sätestatud nõue täidetuks ka juhul, kui korraldatud teabega seotud teade esitatakse meediakanalitele, märkides ära, millisel veebilehel lisaks käesoleva paragrahvi lõikes 5 nimetatud süsteemile on aruanded kättesaadavad.
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+(8) Korraldatud teave esitatakse meediakanalitele viisil, millega tagatakse teate turvalisus ning andmekaitse ja vähendatakse teabe kuritarvituse ohtu ning võimaldatakse piisava selgusega määrata korraldatud teabe allikas. Korraldatud teabe kättesaamise turvalisuse tagamiseks tuleb kõrvaldada selle edastamisel tekkinud mis tahes tõrked või häired võimalikult kiiresti. Emitent ei vastuta süsteemivigade ja võimalike puuduste eest meediakanalites, millele korraldatud teave on edastatud.
+
+(9) Korraldatud teave edastatakse meediakanalitele viisil, mis selgelt näitab, et tegemist on korraldatud teabega, samuti peavad olema märgitud teabe väljastaja või vastav emitent (edaspidi *väljastaja*), korraldatud teabe teema ning kellaaeg ja kuupäev, millal väljastaja teabe edastas. Väljastaja peab inspektsiooni nõudmisel teatama seoses korraldatud teabe edastamise ja avalikustamisega järgmised andmed:
+
+1\) teabe meediakanalile edastanud isiku nimi;
+
+2\) turvalisuse kinnitamise (valideerimise) andmed;
+
+3\) teabe meediakanalile edastamise kellaaeg ja kuupäev;
+
+4\) millise infokanali või -vahendi kaudu teave edastati;
+
+5\) väljastaja poolt korraldatud teabele seatud mis tahes keeluga seotud andmed.
+
+(10) \[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 184<sup>7</sup>. Inspektsiooni teavitamine
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+Korraldatud teabe avalikustamisel peab emitent või kauplemise taotleja esitama sama teabe samaaegselt ka inspektsioonile, välja arvatud juhul, kui teave on avalikustatud vastavalt käesoleva seaduse §-s 186 või Euroopa Parlamendi ja nõukogu määruse (EL) nr 596/2014 artiklis 17 sätestatule. Inspektsioon võib avalikustada talle esitatud teabe oma veebilehel.
+
+\[RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 184<sup>8</sup>. Keel
+
+(1) Kui väärtpaberid on kauplemisele võetud üksnes Eesti kui päritolulepinguriigi turule, avalikustatakse korraldatud teave eesti või inglise keeles.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(2) Kui väärtpaberid on kauplemisele võetud Eesti kui päritolulepinguriigi ja ka ühe või mitme vastuvõtjalepinguriigi turule, avalikustatakse korraldatud teave eesti või inglise keeles ning vastavalt emitendi valikule kas vastuvõtjalepinguriikide poolt aktsepteeritud keeles või inglise keeles.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(3) Kui väärtpaberid on kauplemisele võetud ühe või mitme vastuvõtjalepinguriigi turule, kuid mitte Eesti kui päritolulepinguriigi turule, avalikustatakse korraldatud teave vastavalt emitendi valikule kas vastuvõtjalepinguriikide poolt aktsepteeritud keeles või inglise keeles ning eesti või inglise keeles.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(4) Kui väärtpaberid on kauplemisele võetud Eesti kui vastuvõtjalepinguriigi turule, avalikustatakse korraldatud teave vastavalt emitendi valikule kas eesti või inglise keeles.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(5) Kui väärtpaberid on turule kauplemisele võetud emitendi nõusolekuta, kohaldatakse käesoleva paragrahvi lõigetes 1–4 sätestatud kohustusi emitendi asemel kauplemise taotlejale.
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+(6) Käesoleva seaduse § 185 lõikes 1 sätestatud teave edastatakse emitendile eesti või inglise keeles.
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+(7) Kui vähemalt 100 000-eurose nimiväärtusega või arvestusliku väärtusega väärtpaberid või emiteerimise päeval vähemalt 100 000 eurole vastanud nimiväärtusega võlaväärtpaberid on kauplemisele võetud ühe või mitme lepinguriigi turule, avalikustatakse korraldatud teave emitendi või kauplemise taotleja valikul kas päritolu- ja vastuvõtjalepinguriigi poolt aktsepteeritud keeles või inglise keeles.
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+(8) Käesoleva paragrahvi lõikes 7 sätestatut kohaldatakse ka võlaväärtpaberite suhtes, mis on enne 2010. aasta 31. detsembrit kauplemisele võetud ühe või mitme lepinguriigi turule ja mille nimiväärtus on vähemalt 50 000 eurot või vastanud emiteerimise päeval vähemalt 50 000 eurole, kui need võlaväärtpaberid on nomineeritud teises valuutas ja need on tagasi ostmata.
+
+\[RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+##### § 184<sup>9</sup>. Kolmandates riikides asuvad emitendid
+
+(1) Inspektsioonil on õigus vabastada emitent, kelle registreeritud asukoht on kolmandas riigis, käesoleva seaduse §-des 184<sup>10</sup>–184<sup>12</sup>, 186, 187 ning 187<sup>3</sup>–187<sup>7</sup> sätestatud nõuete täitmisest tingimusel, et selle kolmanda riigi õigusaktid sätestavad emitendile samaväärsed nõuded või et emitent järgib teabe avalikustamisel sellise kolmanda riigi nõudeid, mis on inspektsiooni hinnangul samaväärsed. Teave, mis avaldatakse kolmanda riigi samaväärsete nõuete alusel, tuleb esitada inspektsioonile vastavalt käesoleva seaduse §-s 184<sup>7</sup> sätestatule ning avalikustada vastavalt käesolevas peatükis sätestatule. Inspektsioon teavitab käesoleva lõike esimeses lauses sätestatud vabastuse andmise otsusest Euroopa Väärtpaberiturujärelevalve Asutust.
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+(2) Käesoleva seaduse § 184<sup>10</sup> lõikes 5 sätestatud samaväärsete nõuetena käsitatakse kolmanda riigi nõudeid, mille kohaselt majandusaasta tegevusaruanne peab selle riigi õigusaktide kohaselt sisaldama vähemalt järgmist teavet:
+
+1\) õiglane, tasakaalustatud ning igakülgset analüüsi sisaldav ülevaade emitendi majandustegevuse arengust ja tulemustest ning finantsseisundist koos kirjeldusega sellega seotud peamiste riskide ja võimalike kahtluste kohta, võttes eelkõige arvesse tema majandustegevuse ulatust ja keerukust;
+
+2\) teave mis tahes oluliste sündmuste kohta, mis toimuvad pärast majandusaasta lõppu;
+
+3\) teave emitendi tegevuse võimalike arengusuundade kohta.
+
+(3) Käesoleva paragrahvi lõike 2 punktis 1 osutatud analüüs peab sisaldama konkreetse majandustegevusega seotud peamisi finantsilisi ja vajaduse korral ka muid näitajaid, mis võimaldaksid mõista emitendi arengut, tema tegevuse tulemust ja finantsseisundit.
+
+(4) Käesoleva seaduse § 184<sup>11</sup> lõikes 3 sätestatud samaväärsete nõuetena käsitatakse kolmanda riigi nõudeid, kui lisaks tegevuse vahearuandele on selle riigi õigusaktide kohaselt nõutav esitada lühendatud raamatupidamisaruanne ning tegevuse vahearuanne peab sisaldama vähemalt järgmist teavet:
+
+1\) vastava ajavahemiku tegevuse ülevaade;
+
+2\) emitendi tegevuse võimalikud arengusuunad majandusaasta ülejäänud kuue kuu jooksul;
+
+3\) aktsiaemitendi puhul olulisemad tehingud seotud osapooltega juhul, kui seda informatsiooni ei ole varem avalikustatud.
+
+(5) Käesoleva seaduse § 184<sup>10</sup> lõikes 2 ning § 184<sup>11</sup> lõikes 7 sätestatud samaväärsete nõuetena käsitatakse kolmanda riigi nõudeid, kui emitendi vastav isik vastutab selle riigi õigusaktide kohaselt aasta ja poolaasta finantsteabe eest, eelkõige:
+
+1\) raamatupidamisaruande kohaldatavale aruandluse korrale või raamatupidamise standarditele vastavuse eest;
+
+2\) tegevusaruandes sisalduva juhtkonna ülevaate õigsuse eest.
+
+(6) \[Kehtetu - RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+(7) Käesoleva seaduse § 184<sup>10</sup> lõike 3 esimeses lauses sätestatud samaväärsete nõuetena käsitatakse kolmanda riigi nõudeid, kui selle riigi õigusaktide kohaselt ei nõuta soolo baasil aruannete esitamist emaettevõtja poolt, kuid emitent, kelle registreeritud asukoht on selles välisriigis, peab konsolideeritud aruannetes esitama vähemalt järgmise teabe:
+
+1\) aktsiate emitentide kohta dividendide arvutamine ja dividendide maksmise võime;
+
+2\) võimaluse korral nõuded kõikide emitentide miinimumkapitali ja likviidsuse kohta.
+
+(8) Samaväärsuse nõude täitmiseks peab emitent esitama inspektsiooni nõudmisel täiendavad auditeeritud andmed, mis sisaldavad teavet emitendi kui eraldi ettevõtja soolo baasil aruannete kohta ning mis käsitlevad käesoleva paragrahvi lõikes 7 nimetatud teabe üksikasju. Esitatavad andmed võib koostada kolmanda riigi raamatupidamise standardite kohaselt.
+
+(9) Käesoleva seaduse § 184<sup>10</sup> lõike 3 teises lauses sätestatud samaväärsete nõuetena käsitatakse kolmanda riigi nõudeid, kui emitent, kelle registreeritud asukoht on selles kolmandas riigis, ei ole selle kolmanda riigi õigusaktide kohaselt kohustatud esitama konsolideeritud aruannet, kuid peab oma soolo baasil aruanded koostama Euroopa Liidus kohaldatavate ning Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1606/2002 rahvusvaheliste raamatupidamisstandardite kohaldamise kohta (EÜT L 243, 11.09.2002, lk 1–4) artikli 3 kohaselt tunnustatud rahvusvaheliste raamatupidamise standardite või nendega samaväärsete kolmanda riigi raamatupidamise standardite kohaselt. Kui selline finantsteave ei ole nimetatud standarditega kooskõlas, tuleb finantsteave esitada samaväärsuse nõude täitmiseks korrigeeritud raamatupidamisaruandena ning lisaks peab soolo baasil koostatud aruandeid olema auditeerinud sõltumatu audiitor.
+
+(10) Käesoleva seaduse §-s 186 sätestatud samaväärsete nõuetena käsitatakse kolmanda riigi nõudeid, kui ajavahemik, mille jooksul selles kolmandas riigis registreeritud asukohaga emitenti on selle kolmanda riigi õigusaktide kohaselt kohustatud teavitama olulistest osalustest ja mille jooksul ta peab need olulised osalused avalikustama, ei ole pikem kui seitse kauplemispäeva.
+
+(11) Emitendi teavitamiseks kehtestatud tähtaeg ja edasine emitendipoolne avalikustamise tähtaeg võivad erineda käesoleva seaduse § 185<sup>2</sup> lõikes 1 ning §-s 186 kehtestatud tähtaegadest ning otsuse vastava erineva tähtaja kohta võib emitendi taotluse alusel teha inspektsioon. Teave selliste otsuste kohta tuleb avalikustada inspektsiooni veebilehel.
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+(12) Käesoleva seaduse §-s 187 sätestatud samaväärsete nõuetena käsitatakse kolmanda riigi nõudeid, kui emitent, kelle registreeritud asukoht on selles kolmandas riigis, peab selle kolmanda riigi õigusaktide kohaselt täitma järgmised tingimused:
+
+1\) kui emitendil on lubatud omada kuni 5 protsenti oma aktsiatega esindatud hääleõigustest, peab ta sellise piirmäärani jõudmisel või selle ületamisel nimetatud informatsiooni avalikustama;
+
+2\) kui emitendil on lubatud omada 5–10 protsenti oma aktsiatega esindatud hääleõigustest, peab ta 5 protsendini või vastava maksimummäärani jõudmisel või selle ületamisel nimetatud informatsiooni avalikustama;
+
+3\) kui emitendil on lubatud omada üle 10 protsendi oma aktsiatega esindatud hääleõigustest, peab ta 5-protsendilise või 10-protsendilise piirmäärani jõudmisel või selle ületamisel nimetatud informatsiooni avalikustama. Samaväärsuse nõude kindlaksmääramisel ei pea arvestama teavitamiskohustust suurema kui 10-protsendilise piirmäära ületamisel.
+
+(13) Käesoleva seaduse §-s 187<sup>5</sup> sätestatud samaväärsete nõuetena käsitatakse kolmanda riigi nõudeid, kui emitent, kelle registreeritud asukoht on selles kolmandas riigis, peab selle riigi õigusaktide kohaselt avalikustama hääleõiguste koguarvu ja oma- või aktsiakapitali suuruse 30 kalendripäeva jooksul pärast selle koguarvu või kapitali suuruse muutumist.
+
+(14) Käesoleva seaduse § 187<sup>6</sup> lõike 3 punktis 1 ja § 187<sup>7</sup> lõike 3 punktis 1 sätestatud samaväärsete nõuetena käsitatakse kolmanda riigi nõudeid, kui emitent, kelle registreeritud asukoht on selles kolmandas riigis, peab selle riigi õigusaktide kohaselt esitama teabe vähemalt koosoleku toimumiskoha, -aja ja päevakorra kohta.
+
+(15) Käesoleva seaduse § 187<sup>1</sup> lõigetes 6 ja 7 sõltumatuse kohta sätestatud samaväärsete nõuetena käsitatakse kolmanda riigi nõudeid, kui käesoleva seaduse § 187<sup>1</sup> lõikes 9 nimetatud fondivalitseja või investeerimisühing peab selle riigi õigusaktide kohaselt täitma järgmised tingimused:
+
+1\) fondivalitsejal või investeerimisühingul peab olema võimalik kõigil juhtudel kasutada vabalt ja emaettevõtjast sõltumatult tema poolt valitsetavate varadega esindatud hääleõigusi;
+
+2\) fondivalitseja või investeerimisühing peab huvide konflikti korral jätma arvestamata emaettevõtja või emaettevõtja poolt kontrollitava muu ettevõtja huvid.
+
+(16) Käesoleva paragrahvi lõikes 15 nimetatud samaväärsuse nõude täitmiseks peab emaettevõtja täitma käesoleva seaduse § 187<sup>1</sup> lõike 11 punktis 1 ning lõigetes 12 ja 13 sätestatud teatamisnõudeid. Lisaks peab emaettevõtja esitama õiendi või kinnituse tema vastavuse kohta käesoleva paragrahvi lõikes 15 sätestatud tingimustele iga nimetatud fondivalitseja või investeerimisühingu suhtes.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### 2. jagu — Perioodiline teave
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+##### § 184<sup>10</sup>. Majandusaasta aruande avalikustamine
+
+(1) Emitent on kohustatud nelja kuu jooksul majandusaasta lõppemisest arvates avalikustama oma majandusaasta aruande ning korraldama, et see majandusaasta aruanne on avalikult kättesaadav vähemalt kümne aasta jooksul.
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+(1<sup>1</sup>) Majandusaasta aruanne peab olema koostatud kooskõlas komisjoni delegeeritud määrusega (EL) 2019/815, millega täiendatakse Euroopa Parlamendi ja nõukogu direktiivi 2004/109/EÜ seoses regulatiivsete tehniliste standarditega, millega määratakse kindlaks ühtne elektrooniline aruandlusvorming (ELT L 143, 29.05.2019, lk 1–792).
+
+\[RT I, 13.05.2021, 1 - jõust. 01.06.2021, lõiget 1¹ kohaldatakse aruandeperioodidele, mis algavad 2021. aasta 1. jaanuaril või hiljem\]
+
+(2) Majandusaasta aruanne peab koosnema auditeeritud raamatupidamisaruandest, tegevusaruandest ja juhtkonna deklaratsioonist.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(3) Kui emitent on kohustatud koostama konsolideeritud aruandeid vastavalt Euroopa Parlamendi ja nõukogu direktiivi 2013/34/EL ülevõtmisel kehtestatud õigusaktidele, peab käesoleva paragrahvi lõikes 2 nimetatud auditeeritud raamatupidamisaruanne koosnema konsolideeritud aruannetest, mis on kooskõlas Euroopa Parlamendi ja nõukogu määrusega (EÜ) nr 1606/2002, ning aruannetest emaettevõtja kohta, mis on kooskõlas selle lepinguriigi õigusega, kus on emaettevõtja registreeritud asukoht. Kui emitent ei ole kohustatud koostama konsolideeritud aruandeid, peab nimetatud auditeeritud raamatupidamisaruanne koosnema aruannetest, mis on kooskõlas selle lepinguriigi õigusega, kus on emitendi registreeritud asukoht.
+
+\[RT I, 10.06.2025, 1 - jõust. 20.06.2025\]
+
+(4) Majandusaasta aruande osaks olevale raamatupidamise aastaaruandele tuleb teha audit ja tegevusaruande osaks olevale kestlikkusaruandele kestlikkusaruande audiitorkontroll vastavalt Euroopa Parlamendi ja nõukogu direktiivi 2013/34/EL artikli 34 ning Euroopa Parlamendi ja nõukogu direktiivi 2006/43/EÜ, mis käsitleb raamatupidamise aastaaruannete ja konsolideeritud aruannete kohustuslikku auditit ning millega muudetakse nõukogu direktiive 78/660/EMÜ ja 83/349/EMÜ ning tunnistatakse kehtetuks nõukogu direktiiv 84/253/EMÜ (ELT L 157, 09.06.2006, lk 87–107), ülevõtmisel kehtestatud õigusaktide sätetele. Vandeaudiitori aruandele peavad alla kirjutama auditi läbi viinud isikud. Raamatupidamise aastaaruande auditi kohustus ei ole täidetud, kui vandeaudiitori aruande on avaldanud kolmanda riigi vandeaudiitor audiitortegevuse seaduse § 11 tähenduses, keda ei ole audiitortegevuse seaduse §-s 30<sup>1</sup> sätestatust hoolimata audiitortegevuse registris registreeritud.
+
+\[RT I, 07.01.2025, 1 - jõust. 17.01.2025\]
+
+(5) Tegevusaruanne koostatakse vastavalt raamatupidamise seaduse §-dele 24, 24<sup>1</sup> ja 24<sup>2</sup> ning Euroopa Parlamendi ja nõukogu määruse (EL) 2020/852, millega kehtestatakse kestlike investeeringute hõlbustamise raamistik ja muudetakse määrust (EL) 2019/2088 (ELT L 198, 22.06.2020, lk 13–43), artikli 8 lõikes 4 nimetatud komisjoni delegeeritud õigusaktile. Kui emitent on kohustatud koostama konsolideeritud aruandeid, koostatakse tegevusaruanne vastavalt raamatupidamise seaduse §-dele 31, 31<sup>1</sup> ja 31<sup>2</sup> ning Euroopa Parlamendi ja nõukogu määruse (EL) 2020/852 artikli 8 lõikes 4 nimetatud komisjoni delegeeritud õigusaktile.
+
+\[RT I, 07.01.2025, 1 - jõust. 17.01.2025\]
+
+(6) Juhtkonna deklaratsioonis peavad emitendi tegevuse eest vastutavad isikud, kelle nimed ja ülesanded on selgelt välja toodud, deklareerima ja kinnitama, et nende parima teadmise kohaselt annab vastavalt kehtivatele raamatupidamise standarditele koostatud raamatupidamisaruanne õige ja õiglase ülevaate emitendi ja konsolideerimisse kaasatud ettevõtjate kui terviku varadest, kohustustest, finantsseisundist ja kasumist või kahjumist ning tegevusaruanne annab õige ja õiglase ülevaate emitendi ja konsolideerimisse kaasatud ettevõtjate kui terviku äritegevuse arengust ja tulemustest ning finantsseisundist ning sisaldab peamiste riskide ja kahtluste kirjeldust ning et kestlikkusaruanne on koostatud vastavalt raamatupidamise seaduse § 24 lõikele 3 ja see on kooskõlas Euroopa Parlamendi ja nõukogu määruse (EL) 2020/852 artikli 8 lõikes 4 nimetatud komisjoni delegeeritud õigusaktiga.
+
+\[RT I, 07.01.2025, 1 - jõust. 17.01.2025\]
+
+##### § 184<sup>11</sup>. Poolaastaaruande avalikustamine
+
+(1) Aktsiate või võlaväärtpaberite emitent on kohustatud majandusaasta esimese kuue kuu kohta kolme kuu jooksul nimetatud perioodi lõppemisest arvates avalikustama poolaastaaruande ja korraldama, et see poolaastaaruanne on avalikult kättesaadav vähemalt kümne aasta jooksul.
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+(2) Poolaastaaruanne peab koosnema lühendatud raamatupidamisaruandest, tegevuse vahearuandest ja juhtkonna deklaratsioonist.
+
+(3) Tegevuse vahearuanne peab kajastama vähemalt majandusaasta esimese kuue kuu jooksul toimunud olulisi sündmusi ja nende mõju lühendatud raamatupidamisaruandele ning sisaldama majandusaasta järelejäänud kuue kuu peamiste riskide ja ebaselguste kirjeldust. Aktsiaemitendi tegevuse vahearuanne peab kajastama ka olulise tähtsusega tehinguid seotud osapooltega.
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+(4) Kui emitent on kohustatud koostama konsolideeritud aruandeid, peab käesoleva paragrahvi lõikes 2 nimetatud lühendatud raamatupidamisaruanne olema koostatud kooskõlas rahvusvaheliste raamatupidamise standarditega, mis on vastu võetud Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1606/2002 artikliga 6 ettenähtud menetluse kohaselt ning mida kohaldatakse raamatupidamise vahearuandlusele. Kui emitent ei ole kohustatud koostama konsolideeritud aruandeid, peab lühendatud raamatupidamisaruanne koosnema lühendatud bilansist, lühendatud kasumiaruandest ning neid selgitavatest lisadest. Lühendatud bilansi ja lühendatud kasumiaruande koostamisel peab emitent järgima samu arvestus- ja avalikustatava teabe valiku põhimõtteid kui majandusaasta aruande koostamisel.
+
+(5) Lühendatud bilansis ja lühendatud kasumiaruandes näidatakse emitendi viimase aasta raamatupidamisaruande kõiki kirjeid ja vahesummasid. Lisatakse ka täiendavaid eelarvekirjeid, kui nende väljajätmisel ei annaks poolaasta raamatupidamisaruanne emitendi varadest, kohustustest, finantsseisundist ning kasumist või kahjumist õiget ja õiglast ülevaadet. Peale selle lisatakse järgmised võrdlusandmed:
+
+1\) jooksva majandusaasta esimese kuue kuu bilanss ja vahetult eelnenud majandusaasta võrdlev bilanss;
+
+2\) jooksva majandusaasta esimese kuue kuu kumulatiivne kasumiaruanne võrdlusandmetega eelmise majandusaasta võrreldava ajavahemiku kohta.
+
+(6) Selgitavad lisad peavad sisaldama piisavalt teavet, et tagada lühendatud poolaastaaruande võrreldavus majandusaasta aruandega.
+
+(7) Aktsiaemitent esitab tegevuse vahearuannetes teabe vähemalt järgmiste seotud osapooltega toimunud olulise tähtsusega tehingute ja tehingumuudatuste kohta:
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+1\) jooksva majandusaasta esimese kuue kuu jooksul seotud osapooltega toimunud tehingud, mis on oluliselt mõjutanud ettevõtte finantsseisundit või tegevuse tulemusi nimetatud ajavahemikul;
+
+2\) mis tahes muutused viimases aastaaruandes kirjeldatud tehingutes seotud osapooltega, mis võisid oluliselt mõjutada ettevõtte finantsseisundit või jooksva majandusaasta kuue esimese kuu tegevuse tulemusi.
+
+(8) Kui poolaastaaruanne on auditeeritud, tuleb vandeaudiitori aruanne või audiitorite koostatud ülevaade esitada täies mahus. Kui poolaastaaruanne on auditeerimata või audiitorite poolt üle vaatamata, peab emitent oma aruandes seda deklareerima.
+
+\[RT I 2010, 9, 41 - jõust. 08.03.2010\]
+
+(9) Kui aktsiaemitent ei ole kohustatud koostama konsolideeritud aruannet, peab ta avalikustama vähemalt Euroopa Parlamendi ja nõukogu direktiivi 2013/34/EL artikli 17 lõike 1 punktis r nimetatud tehingud seotud osapooltega.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+(10) Käesoleva paragrahvi lõikes 2 nimetatud juhtkonna deklaratsioonis peavad emitendi tegevuse eest vastutavad isikud, kelle nimed ja funktsioonid on selgelt välja toodud, deklareerima ja kinnitama, et nende parima teadmise kohaselt annab vastavalt kehtivatele raamatupidamise standarditele koostatud lühendatud raamatupidamisaruanne õige ja õiglase ülevaate emitendi või konsolideerimisse kaasatud ettevõtjate kui terviku varadest, kohustustest, finantsseisundist ja kasumist või kahjumist vastavalt lõikes 4 sätestatule ning tegevuse vahearuanne annab õige ja õiglase ülevaate lõikes 3 nõutud teabest.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+##### § 184<sup>12</sup>. Aruanne valitsusasutustele tehtud maksete kohta
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+Emitent, kes tegutseb mäetööstuses või looduslikult tekkinud metsade raietööstuses Euroopa Parlamendi ja nõukogu direktiivi 2013/34/EL artikli 41 tähenduses, koostab igal aastal konsolideeritud aruande valitsusasutustele tehtud maksete kohta vastavalt nimetatud direktiivi 10. peatükile, avalikustab selle aruande hiljemalt kuue kuu möödumisel majandusaasta lõppemisest arvates ja korraldab, et see aruanne on avalikult kättesaadav vähemalt kümne aasta jooksul.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+##### § 184<sup>13</sup>. Perioodilise teabe avalikustamise erandid
+
+(1) Käesoleva seaduse §-des 184<sup>10</sup>–184<sup>11</sup> sätestatut ei kohaldata järgmistele emitentidele:
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+1\) riik, riigi regionaalse või kohaliku omavalitsuse üksus, rahvusvaheline organisatsioon või muu rahvusvaheline avalik-õiguslik institutsioon, mille liikmeks on vähemalt üks lepinguriik, Euroopa Keskpank, Euroopa stabiilsusmehhanism, euroala finantsstabiilsuse säilitamise ja lepinguriikidele finantsabi osutamise eesmärgil asutatud muu mehhanism või lepinguriigi keskpank, olenemata sellest, kas nad emiteerivad aktsiaid või teisi väärtpabereid;
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+2\) emitent, kes emiteerib üksnes võlaväärtpabereid, mis on võetud turule kauplemisele ja mille nimiväärtus on vähemalt 100 000 eurot või vastanud emiteerimise päeval vähemalt 100 000 eurole, kui need on nomineeritud teises valuutas.
+
+\[RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+(2) Käesoleva seaduse §-s 184<sup>11</sup> sätestatut ei kohaldata krediidiasutustele, kelle aktsiad ei ole turul kauplemisele võetud ja kes on kestvalt või korduvalt emiteerinud üksnes võlaväärtpabereid käesoleva seaduse § 184<sup>2</sup> tähenduses, tingimusel, et kõikide selliste võlaväärtpaberite nimiväärtus kokku jääb alla 100 000 000 euro ning et see krediidiasutus ei ole avaldanud käesoleva seaduse või Euroopa Parlamendi ja nõukogu määruse (EL) 2017/1129 kohaselt koostatud prospekti. Kestvalt või korduvalt emiteeritud võlaväärtpaberid käesoleva lõike tähenduses on käesoleva seaduse § 2 lõikes 7 nimetatud väärtpaberid.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+(3) Käesoleva seaduse §-s 184<sup>11</sup> sätestatut ei kohaldata emitentidele, kes on asutatud enne 2003. aasta 31. detsembrit ning kes emiteerivad turule üksnes Eesti Vabariigi või Eesti kohaliku omavalitsuse üksuse poolt antud tingimusteta ja tagasivõtmatu garantiiga võlaväärtpabereid.
+
+(4) \[Kehtetu - RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+(5) Käesoleva paragrahvi lõikes 1 sätestatud erandit ei kohaldata emitendi suhtes, kes emiteerib üksnes võlaväärtpabereid, mis on võetud turule kauplemisele enne 2010. aasta 31. detsembrit ja mille nimiväärtus on vähemalt 50 000 eurot või vastanud emiteerimise päeval vähemalt 50 000 eurole, kui need võlaväärtpaberid on nomineeritud teises valuutas ja need on tagasi ostmata.
+
+\[RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+#### 3. jagu — Igakordne teave
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+##### 1. jaotis — Aktsiaosalustega seotud teave
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+###### § 185. Häälte arvust teavitamise kohustus
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+(1) Kui isikule vastavalt käesoleva seaduse §-des 9 ja 10 sätestatule kuuluvate häälte arv aktsiaemitendis moodustab 5, 10, 15, 20, 25 või 50 protsenti või 1/3 või 2/3 kõigist nimetatud emitendi emiteeritud aktsiatega esindatud häältest (edaspidi *teavitamiskünnis*) või ületab mis tahes teavitamiskünnist kas suurenedes või vähenedes, teatab isik talle kuuluvate häälte arvu aktsiaemitendile ja inspektsioonile.
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud teavitamiskohustust kohaldatakse ka juhul, kui isikule aktsiaemitendis kuuluvate häälte arv saavutab teavitamiskünnise või ületab seda ühel järgmistest viisidest:
+
+1\) käesoleva seaduse § 187<sup>5</sup> kohaselt avalikustatud hääleõiguste jaotust muutva sündmuse tõttu;
+
+2\) kolmandas riigis registreeritud aktsiaemitendi puhul käesoleva lõike punktis 1 nimetatule samaväärse sündmuse tõttu;
+
+3\) käesoleva seaduse § 10 lõike 3 punktis 9 või 9<sup>1</sup> ning käesoleva seaduse §-des 9 ja 10 sätestatud muudel alustel isikule kuuluvate hääleõiguste koosmõjus;
+
+4\) käesoleva seaduse § 10 lõike 3 punktis 9 või 9<sup>1</sup> nimetatud aktsiate omandamisel, sealhulgas juhul, kui isik on eelnevalt teavitanud käesoleva seaduse § 10 lõike 3 punktis 9 või 9<sup>1</sup> nimetatud häälte arvust käesolevas paragrahvis sätestatud korras.
+
+(3) Kui käesoleva seaduse § 10 lõike 3 punktides 9 ja 9<sup>1</sup> nimetatud väärtpaber on seotud mitme alusvaraks oleva aktsiaga, teatatakse teavitamiskünnise saavutamisest või ületamisest eraldi igale alusvaraks oleva aktsia emitendile.
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+###### § 185<sup>1</sup>. Teavitamiskohustuslane
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+(1) Käesoleva seaduse §-s 185 sätestatud teavitamiskohustus on igal aktsionäril ja käesoleva seaduse § 10 lõikes 3 nimetatud muul isikul.
+
+(2) Kui teavitamiskohustus on rohkem kui ühel isikul, võib esitada ühise ühekordse teate. Ühise ühekordse teate esitamine ei vabasta ühtegi isikut tema teavitamiskohustusega seotud vastutusest.
+
+(3) Käesoleva seaduse § 10 lõike 3 punktis 4 sätestatud kokkuleppe osapooled esitavad teate iga kord ühiselt.
+
+(4) Kui käesoleva seaduse § 10 lõike 3 punktis 12 nimetatud aktsionär annab volituse üheks aktsionäride koosolekuks või kui samas punktis nimetatud volitatud isik saab ühe või mitu volitust üheks aktsionäride koosolekuks, võib teate esitada ühekordse teatena kas volituse andmise või saamise hetkel tingimusel, et teates on selgelt märgitud, milliseks kujuneb hääleõigustega seotud olukord, kui volitatu ei saa enam hääleõigusi teostada iseenda äranägemisel.
+
+(5) Isik ei pea teadet esitama juhul, kui teavitamiskohustuse täidab isiku emaettevõtja.
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+###### § 185<sup>2</sup>. Teavitamistähtaeg
+
+(1) Käesoleva seaduse § 185 lõikes 1 sätestatud teavitamiskohustus tuleb täita viivitamata, kuid mitte hiljem kui neljandal kauplemispäeval arvates kauplemispäevast, mis järgneb sellele päevale, kui isik:
+
+1\) sai teada aktsiaosaluse omandamisest või võõrandamisest, teavitamiskünnise ületamisest või hääleõiguse teostamise võimalusest;
+
+2\) pidi asjaolusid arvesse võttes aktsiaosaluse omandamisest või võõrandamisest, teavitamiskünnise ületamisest või hääleõiguse teostamise võimalusest teada saama, hoolimata aktsiaosaluse omandamise või võõrandamise, teavitamiskünnise ületamise või hääleõiguste teostamise võimaluse kehtima hakkamise kuupäevast, või
+
+3\) sai teada käesoleva seaduse § 187<sup>5</sup> kohaselt avalikustatud häälte jaotust muutvast sündmusest.
+
+(2) Käesoleva seaduse tähenduses mõistetakse kauplemispäeva all komisjoni delegeeritud määruse (EL) nr 2017/587, millega täiendatakse Euroopa Parlamendi ja nõukogu määrust (EL) nr 600/2014 finantsinstrumentide turgude kohta seoses regulatiivsete tehniliste standarditega, mis käsitlevad kauplemiskohtade ja investeerimisühingute läbipaistvusnõudeid seoses aktsiatega, hoidmistunnistustega, börsil kaubeldavate fondidega, sertifikaatidega ja muude sarnaste finantsinstrumentidega, samuti tehingute tegemisega seotud kohustusi kauplemiskohas või kliendi korralduste süsteemsete täitjate kaubeldavate teatavate aktsiate puhul (ELT L 87, 31.03.2017, lk 387–410), artiklis 16 sätestatut.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) Käesoleva paragrahvi lõike 1 kohaldamisel, välja arvatud käesoleva seaduse § 187<sup>5</sup> kohaselt avalikustatud häälte jaotust muutva sündmuse korral, loetakse, et aktsionär või käesoleva seaduse § 10 lõikes 3 nimetatud isik sai teada või pidi teada saama aktsiaosaluse omandamisest või võõrandamisest, teavitamiskünnise ületamisest või hääleõiguse teostamise võimalusest hiljemalt kahe kauplemispäeva möödumisel tehingu tegemisest.
+
+(4) Käesoleva seaduse § 185 lõike 1, lõike 2 punktide 1, 3 ja 4 ning käesoleva seaduse §-de 186 ja 187 kohaldamisel lähtutakse Eesti kauplemispäevade kalendrist. Inspektsioon avaldab oma veebilehel Eestis asuvate või tegutsevate turgude kauplemispäevade kalendri.
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+###### § 185<sup>3</sup>. Teavitamiskünnise saavutamise või ületamise teade
+
+(1) Käesoleva seaduse §-s 185 nimetatud teavitamiskohustus loetakse täidetuks, kui on esitatud vähemalt järgmine teave:
+
+1\) hääleõiguste jagunemine vastavalt kujunenud olukorrale;
+
+2\) võimaluse korral teave nende kontrollitavate äriühingute kohta, kelle kaudu selliseid hääleõigustega seotud väärtpabereid faktiliselt hoitakse;
+
+3\) teavitamiskünnise saavutamise või ületamise kuupäev;
+
+4\) andmed aktsionäri kohta, kaasa arvatud juhul, kui aktsionäril ei ole käesoleva seaduse § 10 lõikes 3 sätestatud tingimuste alusel hääleõiguse teostamise õigust, ja isiku kohta, kellel on õigus teostada hääleõigust selle aktsionäri eest.
+
+(2) Käesoleva seaduse § 10 lõike 3 punktides 9 ja 9<sup>1</sup> nimetatud hääleõigusega seotud teave peab lisaks käesoleva paragrahvi lõike 1 punktides 1–3 nimetatule sisaldama järgmist:
+
+1\) eraldi jaotus käesoleva seaduse § 10 lõike 3 punktides 9 ja 9<sup>1</sup> ning käesoleva seaduse §-des 9 ja 10 sätestatud muudel alustel isikule kuuluvate hääleõiguste kaupa;
+
+2\) eraldi jaotus natuuras ja rahas täitmise õigusega väärtpaberite kaupa;
+
+3\) kui väärtpaberist tuleneva õiguse kasutamiseks on määratud kindel ajavahemik, siis aktsiate omandamise või omandamise võimaluse tekkimise aeg;
+
+4\) väärtpaberi lunastus-, kasutamis- või aegumistähtaeg;
+
+5\) andmed väärtpaberi hoidja kohta;
+
+6\) alusvaraks olevaid aktsiaid emiteerinud emitendi nimi.
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+###### § 185<sup>4</sup>. Häälte arv
+
+(1) Käesoleva seaduse § 185 lõikes 1 nimetatud häälte arv leitakse kõikide ühte liiki aktsiate põhjal, millega on hääleõigused esindatud, sealhulgas juhul, kui nende aktsiate hääleõiguste teostamine on peatatud.
+
+(2) Käesoleva seaduse § 10 lõike 3 punktides 9 ja 9<sup>1</sup> nimetatud väärtpaberitega seotud käesoleva seaduse §-s 185 nimetatud teabe esitamisel:
+
+1\) summeeritakse kõik sama emitendi emiteeritud alusvaraks olevate aktsiatega seotud väärtpaberid käesoleva seaduse § 10 lõike 5 tähenduses;
+
+2\) arvutatakse hääleõiguste protsent häälte koguarvust ja aktsia- või osakapitali suurusest, mis on vastavalt käesoleva seaduse §-le 187<sup>5</sup> viimati avaldatud;
+
+3\) arvutatakse käesoleva lõike punktis 2 nimetatud häälte koguarv käesoleva lõike punkti 1 kohaselt summeeritud väärtpaberite alusvaraks olevate aktsiate tingliku koguse põhjal;
+
+4\) arvutatakse häälte koguarv juhul, kui väärtpabereid võib täita üksnes rahas, korrutades käesoleva lõike punktis 3 nimetatud aktsiate tingliku koguse käesoleva seaduse § 10 lõike 3 punktides 9 ja 9<sup>1</sup> nimetatud väärtpaberite deltaga, võttes arvesse vaid sellistes väärtpaberites võetud pikki positsioone ja jättes sellised pikad positsioonid lühikeste positsioonidega tasaarvestamata.
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+###### § 185<sup>5</sup>. Aktsiaosaluse omandamise ja võõrandamise tõendamine
+
+(1) Inspektsiooni või aktsiaemitendi nõudmisel on käesoleva seaduse § 185 alusel häälte arvu teatanud isik kohustatud inspektsioonile või emitendile tõendama talle otseselt või kaudselt kuuluvate häälte arvu, aktsiaosaluse suurust, omandamist, omamist või võõrandamist.
+
+(2) Kui inspektsioonil on tekkinud kahtlus, et isik on rikkunud käesoleva seaduse §-s 185 sätestatud teavitamiskohustust, kuid välisriigis registreeritud isik või asutus põhjendamatult keeldub inspektsioonile teavet andmast sellele välisriigi isikule või asutusele kuuluvate või talle kuuluda võivate häälte kohta aktsiaseltsis, loetakse teavitamiskohustuse rikkumise kahtlus põhjendatuks.
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+###### § 186. Avalikustamiskohustus
+
+Emitent korraldab käesoleva seaduse § 185 alusel saadud teabe avalikustamise viivitamata, kuid mitte hiljem kui kolme kauplemispäeva jooksul selle teate kättesaamisest arvates, välja arvatud juhul, kui nimetatud teabe avaldab inspektsioon vastavalt käesoleva seaduse § 184<sup>6</sup> sätetele kolme kauplemispäeva jooksul selle teate kättesaamisest arvates.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+###### § 187. Muud juhud
+
+Aktsiaemitent, kes ise või kolmanda isiku kaudu, kes tegutseb oma nimel, kuid emitendi arvel, omandab või võõrandab oma aktsiaid, mille tagajärjel tema aktsiate osakaal hääleõigustest on 5 või 10 protsenti, ületab seda või langeb alla selle, on kohustatud avalikustama selle osakaalu viivitamata, kuid mitte hiljem kui nelja kauplemispäeva jooksul nende omandamisest või võõrandamisest arvates. Oma aktsiate osakaal arvutatakse, lähtudes kõigist emitendi poolt emiteeritud aktsiatega esindatud hääleõigustest.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+###### § 187<sup>1</sup>. Erandid
+
+(1) Käesoleva seaduse §-s 185 sätestatud teavitamiskohustust ei kohaldata:
+
+1\) aktsiate suhtes, mis omandatakse üksnes arveldamiseks tavalise lühikese arveldustsükli raames;
+
+2\) aktsiate suhtes, mis kuuluvad aktsiate hoidmise teenust osutavale isikule selle teenuse osutamise pädevuse piires tingimusel, et nimetatud teenusepakkuja võib nende aktsiatega esindatud hääleõigusi teostada üksnes kirjalikult või elektrooniliste vahendite kaudu saadud juhendite alusel;
+
+3\) turutegemise eesmärgil omandatud või võõrandatud viieprotsendilise osaluse suhtes juhul, kui turutegija ei sekku emitendi juhtimisse ega avalda emitendile mõju sellele turutegijale kuuluvate aktsiate ostmiseks või nende aktsiate hinna tagamiseks;
+
+4\) krediidiasutuse või investeerimisühingu kauplemisportfelli kuuluvate aktsiatega esindatud hääleõiguste suhtes tingimusel, et nimetatud hääleõigused ei ületa viit protsenti kõigist emitendi poolt emiteeritud aktsiatega esindatud hääleõigustest ja nimetatud hääleõigusi ei teostata ega kasutata muul viisil emitendi juhtimisse sekkumiseks;
+
+5\) krediidiasutuse või investeerimisühingu poolt Euroopa Komisjoni määruse (EÜ) nr 2273/2003 tähenduses stabiliseerimise eesmärgil omandatud aktsiatega esindatud hääleõiguste suhtes tingimusel, et nimetatud hääleõigusi ei teostata ega kasutata muul viisil emitendi juhtimisse sekkumiseks;
+
+6\) Euroopa Keskpankade Süsteemi liikmetele või nende liikmete poolt antud aktsiate suhtes seoses rahandusasutuste funktsioonide täitmisega, kaasa arvatud aktsiate suhtes, mis on antud nimetatud liikmetele või nende poolt pantimise, tagasiostu või muu sarnase kokkuleppe alusel rahapoliitika eesmärkidel või maksesüsteemi siseselt, tingimusel, et nimetatud kokkulepped on lühiajalised ning et nimetatud aktsiatega esindatud hääleõigusi ei teostata.
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+(2) Tavalise lühikese arveldustsükli maksimaalne pikkus on kolm tehingule järgnevat kauplemispäeva.
+
+(3) Krediidiasutus või investeerimisühing, kes soovib kasutada käesoleva paragrahvi lõike 1 punktis 3 sätestatud vabastust, teatab hiljemalt nelja kauplemispäeva jooksul inspektsioonile, et ta tegutseb või kavatseb tegutseda teatava emitendi suhtes turutegijana. Kui krediidiasutus või investeerimisühing lõpetab oma tegutsemise turutegijana vastava emitendi suhtes, teavitab ta viivitamata sellest inspektsiooni.
+
+(4) Inspektsioon edastab käesoleva paragrahvi lõike 3 alusel saadud teabe viivitamata emitendi päritolulepinguriigi vastavale järelevalveasutusele.
+
+(5) Turutegemise eesmärgil hoitavate väärtpaberite kindlaksmääramise jaoks ei ole turutegija kohustatud hoidma vastavaid väärtpabereid eraldi kontol ning ta võib vastavad väärtpaberid määrata kindlaks mis tahes muul kontrollitaval viisil.
+
+(6) Investeerimisfondide seaduses sätestatud eurofondi fondivalitseja või teise lepinguriigi eurofondi fondivalitseja emaettevõtja ei ole kohustatud summeerima käesoleva seaduse § 185 lõikes 1 nimetatud osalusi nende osalustega, mida fondivalitseja ise valitseb eeldusel, et ta teostab oma hääleõigust emaettevõtjast sõltumatult. Käesoleva lõike esimest lauset ei kohaldata juhul, kui emaettevõtja või emaettevõtja poolt kontrollitav isik on investeerinud selle fondivalitseja valitsetavatesse osalustesse ja fondivalitseja võib nende osalustega esindatud hääleõigusi teostada üksnes emaettevõtja või emaettevõtja kontrollitava ettevõtja otseste või kaudsete juhendite alusel.
+
+(7) Eesti või lepinguriigi investeerimisühingu emaettevõtja ei ole kohustatud summeerima käesoleva seaduse § 185 lõikes 1 nimetatud osalusi nende osalustega, mida see investeerimisühing valitseb iga kliendi suhtes eraldi käesoleva seaduse § 43 lõike 4 tähenduses järgmistel tingimustel:
+
+1\) investeerimisühingul on tegevusluba väärtpaberiportfelli valitsemise teenuse osutamiseks;
+
+2\) investeerimisühing võib nende aktsiatega esindatud hääleõigusi teostada üksnes kirjalikult või elektrooniliste vahendite kaudu antud juhendite alusel või investeerimisühing tagab, rakendades seejuures vajalikke ja asjakohaseid meetmeid, et väärtpaberiportfelli valitsemise teenust osutatakse eraldiseisvalt igasugustest teistest investeerimisfondide valitsemisega seotud samaväärsetest teenustest;
+
+3\) investeerimisühing teostab oma hääleõigust emaettevõtjast sõltumatult.
+
+(8) Käesoleva paragrahvi lõiget 7 ei kohaldata juhul, kui emaettevõtja või emaettevõtja kontrollitav ettevõtja on investeerinud selle investeerimisühingu valitsetavatesse osalustesse ja investeerimisühing võib nende osalustega esindatud hääleõigusi teostada üksnes emaettevõtja või emaettevõtja kontrollitava ettevõtja otseste või kaudsete juhendite alusel.
+
+(9) Käesoleva paragrahvi lõigetes 6 ja 7 sätestatud erandit kohustusest summeerida osalused emaettevõtja osalustega kohaldatakse ka ettevõtjate suhtes, kelle asukoht on kolmandas riigis, kuid kellel peaks olema samaväärne tegevusluba väärtpaberiportfelli valitsemise teenuse osutamiseks või eurofondide valitsemiseks vastavalt Euroopa Ühenduse õigusaktidele, kui nende asukoht või peamine tegevuskoht oleks lepinguriigis, tingimusel, et nad järgivad käesoleva paragrahvi lõigetes 6 ja 7 sätestatud samaväärseid sõltumatuse nõudeid nagu fondivalitsejad või investeerimisühingud.
+
+(10) Käesoleva paragrahvi lõigetes 6 ja 7 sätestatud erandi kohaldamiseks peab fondivalitseja või investeerimisühingu emaettevõtja vastama järgmistele tingimustele:
+
+1\) ta ei sekku otseste või kaudsete juhendite andmise teel ega muul viisil sellele fondivalitsejale või investeerimisühingule kuuluvate hääleõiguste teostamisse;
+
+2\) fondivalitsejal või investeerimisühingul peab olema võimalik teostada vabalt ja emaettevõtjast sõltumatult tema valitsetavate varadega esindatud hääleõigusi.
+
+(11) Kui emaettevõtja soovib käesoleva paragrahvi lõigetes 6 ja 7 sätestatud erandit kasutada, peab ta viivitamata esitama inspektsioonile järgmise teabe:
+
+1\) fondivalitsejate ja investeerimisühingute nimed, märkides võimaluse korral nende üle järelevalvet teostavad järelevalveasutused, viitamata seejuures vastavatele emitentidele;
+
+2\) õiend või kinnitus emaettevõtja vastavuse kohta käesoleva paragrahvi lõikes 10 sätestatud tingimustele iga nimetatud fondivalitseja või investeerimisühingu suhtes.
+
+(12) Emaettevõtja peab jooksvalt uuendama käesoleva paragrahvi lõike 11 punktis 1 nimetatud nimekirja.
+
+(13) Kui emaettevõtja kavatseb kasutada käesoleva paragrahvi lõigetes 6 ja 7 sätestatud erandit ainult käesoleva seaduse § 10 lõike 3 punktides 9 ja 9<sup>1</sup> nimetatud väärtpaberite suhtes, esitab ta inspektsioonile üksnes käesoleva paragrahvi lõike 11 punktis 1 sätestatud teabe.
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+(14) Otsesed juhendid käesoleva paragrahvi lõike 10 punkti 1 tähenduses on emaettevõtja või emaettevõtja kontrollitava ettevõtja poolt fondivalitsejale või investeerimisühingule antavad mis tahes juhendid hääleõiguse igakordse teostamise korral.
+
+(15) Kaudsed juhendid käesoleva paragrahvi lõike 10 punkti 1 tähenduses on emaettevõtja või emaettevõtja kontrollitava ettevõtja poolt antavad üldised või igakordsed mis tahes vormis juhendid, mis emaettevõtja või emaettevõtja kontrollitava ettevõtja teatud ärihuvide teenimise eesmärgil piiravad juhendis kindlaksmääratud ulatuses fondivalitsejal või investeerimisühingul hääleõiguse teostamist.
+
+(16) \[Kehtetu - RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+(17) \[Kehtetu - RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+##### 2. jaotis — Teave väärtpaberiomanikele
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+###### § 187<sup>2</sup>. Kolmandates riikides avalikustatud teave
+
+Emitent peab tagama, et temaga või tema poolt emiteeritud väärtpaberitega seotud kolmandas riigis avalikustatud teave, millel võib olla tähtsus Euroopa Majanduspiirkonna avalikkuse jaoks, avalikustatakse vastavalt käesolevas peatükis sätestatule isegi juhul, kui nimetatud teave ei ole korraldatud teave.
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+###### § 187<sup>3</sup>. Väärtpaberitest tulenevate õiguste muutmine
+
+(1) Aktsiaemitent peab viivitamata avalikustama kõik muudatused erinevate aktsialiikidega esindatud õigustes, sealhulgas muudatused õigustes, mis on esindatud emitendi enda poolt emiteeritud tuletisväärtpaberitega, mis annavad õiguse omandada või võõrandada selle emitendi aktsiaid.
+
+(2) Muu väärtpaberi kui aktsia emitent peab viivitamata avalikustama kõik muudatused selliste väärtpaberite omanike õigustes, sealhulgas muudatused nende väärtpaberite tingimustes, mis võivad kaudselt mõjutada väärtpaberite omanike õigusi.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+###### § 187<sup>4</sup>. Võlakohustuse emiteerimine
+
+\[Kehtetu - RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+###### § 187<sup>5</sup>. Hääleõiguste jaotust muutev sündmus
+
+Emitent on kohustatud viivitamata avalikustama muudatused hääleõiguste koguarvus ja kapitali suuruses.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+###### § 187<sup>6</sup>. Aktsiaemitendile esitatavad erinõuded
+
+(1) Aktsiaemitent peab kõiki aktsionäre võrdsetel asjaoludel võrdselt kohtlema.
+
+(2) Aktsiaemitent peab tagama andmete õigsuse, täpsuse ja täielikkuse ning et kõik võimalused ja kogu teave, mida aktsionärid vajavad oma õiguste teostamiseks, oleksid kättesaadavad Eestis. Aktsionäridele peab olema tagatud võimalus teostada oma õigusi volituse andmise teel niivõrd, kuivõrd peetakse sealjuures kinni emitendi päritoluriigi õigusaktidest.
+
+(3) Aktsiaemitent:
+
+1\) peab andma teavet üldkoosoleku toimumiskoha, -aja ja päevakorra, samuti aktsiate ja hääleõiguste koguarvu kohta ning aktsionäride õiguste kohta üldkoosolekul osalemiseks;
+
+2\) teeb kättesaadavaks igale isikule, kellel on õigus üldkoosolekul hääletada, koos üldkoosoleku teatega või nimetatud isiku nõudel pärast üldkoosoleku kokkukutsumist, hääletamisvolituse vormi kirjalikul kujul või elektrooniliste vahendite abil;
+
+3\) määrab krediidi- või finantseerimisasutuse oma makseagendiks, kelle kaudu saavad aktsionärid teostada oma varalisi õigusi;
+
+4\) avaldab või saadab laiali teateid dividendide jaotuse ja maksmise kohta ning uute aktsiate emiteerimise kohta, sealhulgas teavitab igasugustest kokkulepetest või toimingutest seoses aktsiate jagamise, märkimise, tühistamise või vahetamisega.
+
+(4) Aktsiaemitent võib aktsionäridele edastada teavet elektrooniliste vahendite abil kõikide järgmiste tingimuste täitmise korral:
+
+1\) vastav otsus on vastu võetud aktsionäride üldkoosolekul;
+
+2\) elektrooniliste vahendite kasutamine ei sõltu aktsionäri või käesoleva seaduse § 10 lõikes 3 sätestatud isikute juurdepääsust sellistele vahenditele nende isikute elu- või asukohas;
+
+3\) kasutusele on võetud identifitseerimisvahendid, mis tagavad teabe tegeliku ja tõhusa edastamise aktsionäridele või isikutele, kellel on õigus hääleõigusi teostada või hääleõiguste teostamiseks korraldusi anda;
+
+4\) aktsionäridele või käesoleva seaduse § 10 lõike 3 punktides 3–5, 8 ja 11 sätestatud isikutele on saadetud kirjalik teade anda nõusolek teabe elektrooniliste vahendite abil edastamiseks, kusjuures kirjale mõistliku aja jooksul vastamata jätmist peetakse nõusoleku andmiseks. Nimetatud isikud võivad nõusoleku andmisest sõltumata edaspidi nõuda teabe edastamist kirjalikult;
+
+5\) teabe elektrooniliste vahendite abil edastamise kulude jaotamise määrab emitent, lähtudes käesoleva paragrahvi lõikes 1 sätestatud võrdse kohtlemise nõudest.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+###### § 187<sup>7</sup>. Võlaväärtpaberite emitendile esitatavad erinõuded
+
+(1) Võlaväärtpaberite emitent peab kõiki samu õigusi andvate võlaväärtpaberite omanikke võlaväärtpaberitega esindatud õiguste osas võrdselt kohtlema.
+
+(2) Võlaväärtpaberite emitent peab tagama andmete õigsuse, täpsuse ja täielikkuse ning et kõik võimalused ja kogu teave, mida võlaväärtpaberiomanikud vajavad oma õiguste teostamiseks, oleksid avalikult kättesaadavad Eestis. Võlaväärtpaberiomanikele peab olema tagatud võimalus teostada oma õigusi volituse andmise teel niivõrd, kuivõrd peetakse sealjuures kinni emitendi päritoluriigi õigusaktidest.
+
+(3) Võlaväärtpaberite emitent:
+
+1\) peab avaldama või saatma laiali teate võlaväärtpaberiomanike üldkoosoleku toimumiskoha, -aja ja päevakorra ning intressimaksete kohta, mis tahes asendamise, vahetamise, märkimise või tühistamise õiguse teostamise ja tagasimakse kohta ning nimetatud võlaväärtpaberite omanike vastavate osalemisõiguste kohta;
+
+2\) teeb kättesaadavaks igale isikule, kellel on õigus võlaväärtpaberite omanike üldkoosolekul hääletada, koos üldkoosoleku teatega või nimetatud isiku nõudel pärast üldkoosoleku kokkukutsumist, hääletamisvolituse vormi kirjalikul või kirjalikku taasesitamist võimaldaval kujul või elektrooniliste vahendite abil;
+
+3\) määrab krediidi- või finantseerimisasutuse oma makseagendiks, kelle kaudu saavad võlaväärtpaberite omanikud teostada oma varalisi õigusi.
+
+(4) Kui võlaväärtpaberiomanike üldkoosolekule kutsutakse üksnes vähemalt 100 000-eurose või emiteerimise päeval vähemalt 100 000 eurole vastanud nimiväärtusega võlaväärtpaberite omanikud, võib emitent korraldada koosoleku ükskõik millises lepinguriigis tingimusel, et võlaväärtpaberiomanikele on selles lepinguriigis tagatud kõikide vahendite ja teabe kättesaadavus, mis on vajalik nende õiguste teostamiseks.
+
+\[RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+(4<sup>1</sup>) Käesoleva paragrahvi lõikes 4 sätestatut kohaldatakse ka selliste vähemalt 50 000-eurose või emiteerimise päeval vähemalt 50 000 eurole vastanud nimiväärtusega võlaväärtpaberite omanike suhtes, kelle valduses on võlaväärtpaberid, mis on võetud turule kauplemisele enne 2010. aasta 31. detsembrit. Need võlaväärtpaberid peavad olema tagasi ostmata ja võlaväärtpaberiomanikele peab selles lepinguriigis olema tagatud kõikide vahendite ja teabe kättesaadavus, mis on vajalik nende õiguste teostamiseks.
+
+\[RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+(5) Emitent võib võlaväärtpaberite omanikele edastada teavet elektrooniliste vahendite abil kõikide järgmiste tingimuste täitmise korral:
+
+1\) vastav otsus on vastu võetud võlaväärtpaberiomanike üldkoosolekul;
+
+2\) elektrooniliste vahendite kasutamine ei sõltu võlaväärtpaberiomaniku või tema esindaja juurdepääsust sellistele vahenditele nende isikute elu- või asukohas;
+
+3\) kasutusele on võetud identifitseerimisvahendid, mis tagavad teabe tegeliku ja tõhusa edastamise võlaväärtpaberiomanikele;
+
+4\) võlaväärtpaberiomanikele on saadetud kirjalik teade anda nõusolek teabe elektrooniliste vahendite abil edastamiseks, kusjuures kirjale mõistliku aja jooksul vastamata jätmist peetakse nõusoleku andmiseks. Nimetatud isikud võivad nõusoleku andmisest sõltumata edaspidi nõuda teabe edastamist kirjalikult;
+
+5\) teabe elektroonilisel teel edastamise kulude jaotamise määrab emitent, lähtudes käesoleva paragrahvi lõikes 1 sätestatud võrdse kohtlemise nõudest.
+
+(6) Käesoleva paragrahvi lõiget 5 kohaldatakse ka juhul, kui võlaväärtpaberiomanike üldkoosoleku toimumise kohaks on vastavalt käesoleva paragrahvi lõikele 4 valitud Eesti.
+
+(7) Käesolevas paragrahvis sätestatut ei kohaldata Eesti Vabariigi ja Eesti kohaliku omavalitsuse üksuse poolt emiteeritud väärtpaberitele.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+##### 3. jaotis — Teises lepinguriigis registreeritud aktsiate omanikega seonduv teave
+
+\[RT I, 07.12.2021, 3 - jõust. 17.12.2021\]
+
+###### § 188. Teises lepinguriigis registreeritud aktsiate emitendi aktsionäri ja korporatiivse sündmusega seotud teabe edastamine
+
+Komisjoni rakendusmääruse (EL) 2018/1212, millega kehtestatakse miinimumnõuded Euroopa Parlamendi ja nõukogu direktiivi 2007/36/EÜ aktsionäride isiku tuvastamist, teabe edastamist ja aktsionäride õiguste kasutamise hõlbustamist käsitlevate sätete rakendamiseks (ELT L 223, 04.09.2018, lk 1–18), kohane vahendaja peab edastama:
+
+1\) teises lepinguriigis registreeritud aktsiate emitendi või tema määratud kolmanda isiku taotlusel emitendile või eelnimetatud kolmandale isikule viivitamata komisjoni rakendusmääruses (EL) 2018/1212 nimetatud teabe aktsionäride kohta, kellel on vastavas emitendis aktsiaosalus või osalus aktsiatega esindatud häältest, mis ületab emitendi asukohariigi õiguses kehtestatud määra;
+
+2\) aktsionärile või tema määratud kolmandale isikule komisjoni rakendusmääruses (EL) 2018/1212 nimetatud teabe, mida teises lepinguriigis registreeritud aktsiate emitent või tema määratud kolmas isik esitab vahendajale aktsionäridele edastamiseks;
+
+\[RT I, 01.03.2023, 3 - jõust. 30.04.2023\]
+
+3\) teises lepinguriigis registreeritud aktsiate emitendile või tema määratud kolmandale isikule viivitamata komisjoni rakendusmääruses (EL) 2018/1212 nimetatud teabe ning juhised, mille aktsionär esitab vahendajale seoses korporatiivses sündmuses osalemisega;
+
+4\) käesoleva paragrahvi punktides 1–3 nimetatud teabe viivitamata teisele vahendajale, kelle kaudu aktsiaid vastavale aktsionärile hoitakse, välja arvatud, kui teabe saab edastada otse emitendile, aktsionärile või nende määratud kolmandale isikule.
+
+\[RT I, 07.12.2021, 3 - jõust. 17.12.2021\]
+
+### 21. peatükk — TURUKURITARVITUSE KEELAMINE
+
+\[RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+#### 1. jagu — Üldsätted
+
+\[RT I 2005, 13, 64 - jõust. 01.04.2005\]
+
+##### § 188<sup>1</sup>. Finantsinstrument
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 188<sup>2</sup>. Turukuritarvitus
+
+Turukuritarvitusena käesoleva seaduse tähenduses käsitatakse Euroopa Parlamendi ja nõukogu määruse (EL) nr 596/2014 artiklites 14 ja 15 nimetatud tegevusi.
+
+\[RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 188<sup>3</sup>. Turukuritarvitust reguleerivate sätete kohaldamine
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+#### 2. jagu — Siseteabe väärkasutamine ja siseteabe avalikustamine
+
+\[RT I 2005, 13, 64 - jõust. 01.04.2005\]
+
+##### § 188<sup>4</sup>. Siseteave
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 188<sup>5</sup>. Insaider
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 188<sup>6</sup>. Siseteabe väärkasutamise keeld
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 188<sup>7</sup>. Siseteabe avalikustamine
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 188<sup>8</sup>. Siseteabe avalikustamisega viivitamine
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 188<sup>9</sup>. Siseteabe avalikustamine selle lekkimisel
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 188<sup>10</sup>. Kahju hüvitamine
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 188<sup>11</sup>. Emitendi üldised kohustused seoses siseteabe käitlemisega
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 188<sup>12</sup>. Insaiderite nimekiri
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 188<sup>13</sup>. Tehingutest teavitamine ja avalikustamine
+
+Inspektsioon avalikustab Euroopa Parlamendi ja nõukogu määruse (EL) nr 596/2014 artikli 19 lõikes 1 nimetatud tehingute kohta inspektsioonile esitatud teabe oma veebilehel.
+
+\[RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 188<sup>14</sup>. Sisereeglite kehtestamise kohustus
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+#### 3. jagu — Turumanipulatsioon ja selle sooritamise keeld
+
+\[RT I 2005, 13, 64 - jõust. 01.04.2005\]
+
+##### § 188<sup>15</sup>. Turumanipulatsioon
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 188<sup>16</sup>. Turu tunnustatud tava
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 188<sup>17</sup>. Erisus käitumise hindamisel
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+#### 4. jagu — Investeerimissoovitusele esitatavad nõuded
+
+\[RT I 2005, 13, 64 - jõust. 01.04.2005\]
+
+##### § 188<sup>18</sup>. Investeerimissoovitus
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 188<sup>19</sup>. Koostaja kohta investeerimissoovituses avaldatavad andmed
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 188<sup>20</sup>. Koostaja kohustused
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 188<sup>21</sup>. Erinõuded koostajale
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 188<sup>22</sup>. Huvi ja huvide konflikti avalikustamise üldnõuded
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 188<sup>23</sup>. Huvi ja huvide konflikti avalikustamise erinõuded
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 188<sup>24</sup>. Investeerimisühingu ja krediidiasutuse töötajate huvide ja huvide konfliktide avalikustamise erinõuded
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 188<sup>25</sup>. Teabe avaldamise viis
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 188<sup>26</sup>. Investeerimissoovituse levitamise üldnõuded
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 188<sup>27</sup>. Investeerimissoovituse levitamise erinõuded
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+#### 5. jagu — Andmete esitamise kohustus
+
+\[RT I 2005, 13, 64 - jõust. 01.04.2005\]
+
+##### § 189. Andmete esitamine
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 190. Emitendi poolt andmete esitamine
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 191. Andmete kasutamine
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 192. Investeerimisteenuse osutaja teatamiskohustus
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+##### § 193.
+
+–
+
+##### § 201.
+
+\[Kehtetud - RT I 2005, 13, 64 - jõust. 01.04.2005\]
+
+### 21<sup>1</sup>. peatükk — RIKKUMISEST TEAVITAMINE
+
+\[RT I, 30.05.2024, 1 - jõust. 01.09.2024\]
+
+#### § 201<sup>1</sup>. Rikkumisest teavitamise kord
+
+(1) Väärtpaberituru kutseline osaline, kellele kohaldatakse Euroopa Parlamendi ja nõukogu määruses (EL) nr 596/2014 sätestatut, kehtestab oma töötajatele nimetatud määruses sätestatud kohustuse rikkumisest või võimalikust rikkumisest teavitamise korra.
+
+(2) Investeerimisühing, reguleeritud turu korraldaja, aruandlusteenuse osutaja ja välisriigi investeerimisühingu filiaal kehtestavad rikkumisest teavitamise korra ka käesolevas seaduses sätestatud kohustuste rikkumisest või võimalikust rikkumisest teavitamise kohta. Investeerimisühing võib vastava korra loomise delegeerida sotsiaalpartnerile tingimusel, et see vastab tööalasest Euroopa Liidu õiguse rikkumisest teavitaja kaitse seaduse nõuetele.
+
+(3) Rikkumisest teavitamise kord peab sisaldama vastavalt tööalasest Euroopa Liidu õiguse rikkumisest teavitaja kaitse seaduse §-le 8 teavituskanalit, mis võimaldab asutusesisest õigusrikkumisest teavitamist.
+
+\[RT I, 30.05.2024, 1 - jõust. 01.09.2024\]
+
+#### § 201<sup>2</sup>. Vastutusest vabastamine ja teavitaja kaitse
+
+\[RT I, 30.05.2024, 1 - jõust. 01.09.2024\]
+
+(1) Euroopa Parlamendi ja nõukogu määruses (EL) nr 596/2014 sätestatud juhtudel inspektsioonile teabe esitamisele kohaldatakse Finantsinspektsiooni seaduse § 50<sup>3</sup> lõikes 5 rikkumisest teavitamise kohta sätestatut.
+
+(2) Rikkumisest teavitamisel kohaldatakse teavitaja kaitset tööalasest Euroopa Liidu õiguse rikkumisest teavitaja kaitse seaduse ja selle alusel kehtestatud õigusaktide tähenduses.
+
+\[RT I, 30.05.2024, 1 - jõust. 01.09.2024\]
+
+### 22. peatükk — VAHEKOHUS
+
+#### § 202. Turu vahekohus
+
+(1) Turu vahekohus (edaspidi *vahekohus*) on Eesti turu korraldaja poolt moodustatav vahekohus, mis lahendab turu ja selle korraldajaga seotud lepingu- ja teistest tsiviilõiguslikest suhetest tulenevaid vaidlusi.
+
+\[RT I, 19.03.2019, 8 - jõust. 01.04.2019\]
+
+(2) Turu korraldaja teatab inspektsioonile, kas tema juures tegutseb alaliselt vahekohus. Vahekohtu tegutsemisel esitab turu korraldaja inspektsioonile vahekohtu koosseisu ja tegutsemise seadusele vastavust kinnitava kirjaliku teabe.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(3) Inspektsioon teatab seaduslikult tegutsevast vahekohtust kohtutele või muudele kohtuotsuste täitmist korraldavatele riigiasutustele.
+
+\[RT I, 19.03.2019, 8 - jõust. 01.04.2019\]
+
+#### § 203. Vahekohtu pädevus
+
+Vahekohus lahendab vaidlusi hagiavalduste alusel, kui:
+
+1\) poolte vahel on kirjalik kokkulepe juba tekkinud või tekkida võiva vaidluse üleandmise kohta vahekohtu lahendada;
+
+2\) nõusolek vaidluse lahendamiseks vahekohtus on väljendatud hageja poolt hagi esitamisega, kostja poolt aga tegevusega, mis annab tunnistust tema vabatahtlikust allumisest vahekohtu jurisdiktsioonile.
+
+#### § 204. Vahekohtu nõukogu ja vahekohtunik
+
+(1) Vahekohtu nõukogus on kuni kuus liiget. Vahekohtu nõukogu määratakse kuni kaheks aastaks vastavalt vahekohtu reglemendile.
+
+(2) Vahekohtu nõukogu põhiliseks ülesandeks on arvata isikuid vahekohtu nimekirja ning sellest välja, samuti pidada vahekohtunike nimekirja. Vahekohtu nõukogu muud õigused ja kohustused sätestatakse vahekohtu reglemendis.
+
+(3) Vahekohtu nõukogu liikmel peab olema juriidiline akadeemiline kõrgharidus. Vahekohtunikul peab olema akadeemiline kõrgharidus või sellega võrdsustatud haridus.
+
+(4) Vahekohtunikud on oma kohustuste täitmisel sõltumatud.
+
+#### § 205. Vahekohtu reglement
+
+Vahekohtu nõukogu töökorda, samuti vahekohtu moodustamise ja vaidluste lahendamise korda reguleeritakse vahekohtu reglemendiga, mille kinnitab vastav turu korraldaja.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 206. Vaidlus vahekohtus
+
+(1) Vaidlusi vaatab vahekohtus läbi vastavalt vahekohtu reglemendile poolte valitud või vahekohtu nõukogu määratud üks või mitu vahekohtunikku.
+
+(2) Vaidluste läbivaatamine vahekohtus on tasuta või tasuline vastavalt vahekohtu reglemendile. Vahekohtu tasu määr ning tasumise kord sätestatakse vahekohtu reglemendis.
+
+(3) Vahekohus arvestab vaidluse lahendamisel õigusaktides ja turu reglemendis sätestatut, samuti turul ausa ja õiglase kauplemise suhtes kehtivaid ja muid häid äritavasid.
+
+#### § 207. Hagi tagamine
+
+(1) Vahekohus võib poole avalduse alusel hagi tagada, kui pooled ei ole kokku leppinud teisiti. Hagi tagamiseks võib vahekohus määrata tsiviilkohtumenetluse seadustikus ettenähtud hagi tagamise abinõu, välja arvatud isikuvabadust piirava hagi tagamise abinõu. Vahekohus võib seoses hagi tagamisega nõuda mõlemalt poolelt mõistliku tagatise andmist.
+
+(2) Käesoleva paragrahvi lõike 1 alusel määratud hagi tagamise otsus täidetakse maakohtu määruse alusel. Maakohus teeb määruse poole avalduse alusel hagita menetluses ja lubab hagi tagamise otsuse täitmist üksnes juhul, kui sama hagi tagamise abinõu ei ole juba kohtult taotletud. Maakohus võib hagi tagamise määruse teisiti sõnastada, kui see on vajalik hagi tagamise abinõu rakendamiseks.
+
+(3) Maakohus võib hagi tagamise määruse avalduse alusel tühistada või seda muuta.
+
+(4) Kui selgub, et hagi tagamine vahekohtumenetluses ei olnud õigustatud, peab hagi tagamist taotlenud pool hüvitama vastaspoolele kahju, mis on sellel poolel tekkinud hagi tagamisest või hagi tagamise abinõu rakendamise vältimiseks antud tagatisest.
+
+\[RT I 2005, 39, 308 - jõust. 01.01.2006\]
+
+#### § 208. Koostöö maakohtuga
+
+Vahekohus võib taotleda maakohtult abi tõendamismenetluseks või muudeks kohtutoiminguteks, mis ei ole vahekohtu pädevuses. Kohus lahendab taotluse vastavalt tõendamismenetluse või muude kohtutoimingute kohta kehtivatele menetlussätetele.
+
+\[RT I 2005, 39, 308 - jõust. 01.01.2006\]
+
+#### § 209. Vahekohtu otsuse tühistamine
+
+Huvitatud pool võib nõuda vahekohtu otsuse tühistamist tsiviilkohtumenetluse seadustikus sätestatud alustel ja korras.
+
+\[RT I 2005, 39, 308 - jõust. 01.01.2006\]
+
+#### § 210.
+
+\[Kehtetu - RT I 2005, 39, 308 - jõust. 01.01.2006\]
+
+#### § 211. Vahekohtu lõpetamine
+
+Inspektsioonil on õigus teha turu korraldajale ettekirjutus vahekohtu tegevuse lõpetamiseks, kui vahekohtu tegutsemine seab ohtu turu korrapärase toimimise või kohtuotsuste täitmist korraldavate riigiasutuste tõrgeteta toimimise.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+### 22<sup>1</sup>. peatükk — INVESTORITE KAASAMISE NÕUDED JA TEABE AVALIKUSTAMINE SELLE KOHTA
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 211<sup>1</sup>. Peatüki kohaldamine
+
+(1) Käesolevat peatükki kohaldatakse eurofondi valitsejale, alternatiivfondi valitsejale ja väärtpaberiportfelli valitsemise teenust osutavale investeerimisühingule (edaspidi käesolevas peatükis koos *varahaldur*) määral, nagu ta investeerib aktsiaemitendi aktsiatesse investori nimel.
+
+(2) Käesolevat peatükki kohaldatakse elukindlustusega tegelevale kindlustusandjale ja tööandja pensionifondile (edaspidi käesolevas peatükis koos *institutsionaalne investor*) määral, nagu ta investeerib otse või varahalduri kaudu aktsiaemitendi aktsiatesse.
+
+(3) Käesolevat peatükki kohaldatakse krediidiasutusele, väärtpaberite keskdepositooriumile ja väärtpaberiportfelli valitsemise teenust osutavale investeerimisühingule määral, nagu ta osutab teenuseid Eestis registreeritud aktsiaemitendi aktsionäridele ning aktsiaemitendi väärtpaberid on Eestis reguleeritud turul kaubeldavad.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 211<sup>2</sup>. Kaasamispoliitika avalikustamine
+
+(1) Varahaldur ja institutsionaalne investor avalikustavad oma veebilehel kaasamispoliitika, milles kirjeldatakse, kuidas lõimitakse investeerimisobjektiks olevatesse äriühingutesse (edaspidi käesolevas peatükis *sihtemitent*) investeerimisel aktsionäri õiguste rakendamine varahalduri ning institutsionaalse investori investeerimisstrateegiasse.
+
+(2) Kaasamispoliitikas esitatakse vähemalt järgmine teave:
+
+1\) kirjeldus, kuidas varahaldur ja institutsionaalne investor jälgivad sihtemitenti olulistes küsimustes, sealhulgas sihtemitendi strateegiat, finantsilist ja mittefinantsilist tulemuslikkust ja riske, kapitali struktuuri, sotsiaalset ja keskkonnamõju ning sihtemitendi juhtimist;
+
+2\) sihtemitendiga ja asjaomaste sidusrühmadega suhtlemise põhimõtted;
+
+3\) sihtemitendi hääleõiguse ja muude aktsiatega seotud õiguste kasutamine;
+
+4\) aktsionäridega tehtava koostöö põhimõtted;
+
+5\) sihtemitendiga seotud tegelike ja võimalike huvide konfliktide ennetamise või maandamise viisid.
+
+(3) Varahaldur ja institutsionaalne investor avalikustavad oma veebilehel tasuta kord aastas ülevaate kaasamispoliitika elluviimisest, avalikustades muu hulgas hääletuskäitumise üldise kirjelduse, kõige olulisemate hääletuste selgituse ning ülevaate hääletusnõustaja teenuste kasutamisest.
+
+(4) Kaasamispoliitika elluviimise ülevaates avalikustatakse lisaks, kuidas varahaldur ja institutsionaalne investor on hääletanud selle sihtemitendi üldkoosolekul, mille aktsiaid nad hoiavad. Avalikustama ei pea hääletusi, mis on ebaolulised hääletatava küsimuse või sihtemitendis hoitava osaluse suuruse tõttu.
+
+(5) Kui varahaldur viib kaasamispoliitikat ellu, sealhulgas hääletab üldkoosolekul institutsionaalse investori nimel, avalikustab institutsionaalne investor oma veebilehel viite varahalduri veebilehele, millel on hääletusteave avalikustatud.
+
+(6) Kui varahaldur või institutsionaalne investor ei täida mõnda käesoleva paragrahvi lõigetes 1–4 nimetatud nõuet, avaldab ta selle kohta oma veebilehel põhjenduse.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 211<sup>3</sup>. Investeerimiskokkuleppe avalikustamine
+
+(1) Institutsionaalne investor avalikustab oma veebilehel, kuidas tema omakapitaliväärtpaberitesse investeerimise strateegia vastab institutsionaalse investori kohustuste riskiprofiilile ja kestusele ning kuidas investeerimisstrateegia toetab varade tootluse kasvu keskpikas perspektiivis. Seda teavet tuleb ajakohastada kord aastas.
+
+(2) Kui varahaldur investeerib institutsionaalse investori nimel volituse alusel, osutades portfelli valitsemise teenust või investeerides investeerimisfondi kaudu, siis avalikustab institutsionaalne investor varahalduriga sõlmitud kokkuleppe (edaspidi käesolevas paragrahvis *investeerimiskokkulepe*) kohta oma veebilehel järgmise ajakohastatud teabe:
+
+1\) kuidas investeerimiskokkulepe motiveerib varahaldurit viima oma investeerimisstrateegia ja -otsused kooskõlla institutsionaalse investori kohustuste, sealhulgas pikaajaliste kohustuste profiili ning kestusega;
+
+2\) kuidas investeerimiskokkulepe motiveerib varahaldurit tegema investeerimisotsuseid, mis põhinevad sihtemitendi keskpika perioodi ja pikaajalise finantsilise ja mittefinantsilise tulemuslikkuse hindamisel, ning tegema sihtemitendiga koostööd, et parandada sihtemitendi keskpika ja pikaajalise perioodi tulemuslikkust;
+
+3\) kuidas varahalduri tulemuste hindamise meetod, ajavahemik ja tasu vara haldamise teenuste eest on kooskõlas institutsionaalse investori kohustuste, sealhulgas pikaajaliste kohustuste profiili ja kestusega ning kuidas võetakse arvesse pikaajalist tootlust;
+
+4\) kuidas institutsionaalne investor jälgib varahalduri portfellikäibe kulu ning kuidas ta määrab portfellikäibe või käibevahemiku sihttaseme ja seda jälgib;
+
+5\) investeerimiskokkuleppe kestus.
+
+(3) Kui investeerimiskokkulepe ei kajasta mõnda käesoleva paragrahvi lõikes 2 nimetatud asjaolu, avaldab institutsionaalne investor selle kohta oma veebilehel arusaadava ja põhjendatud selgituse.
+
+(4) Elukindlustusega tegelev kindlustusandja võib käesolevas paragrahvis nimetatud teabe avalikustada kindlustustegevuse seaduse § 123 lõikes 1 nimetatud aruandes.
+
+(5) Institutsionaalne investor peab hoidma käesoleva paragrahvi lõikes 2 nimetatud teabe ajakohasena.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 211<sup>4</sup>. Investeerimisstrateegia elluviimise kohta teabe andmine
+
+(1) Varahaldur avaldab kord aastas institutsionaalsele investorile ülevaate, kuidas temaga sõlmitud kokkulepe vastab varahalduri investeerimisstrateegiale ning kuidas investeerimisstrateegia edendab investeerimisfondi või institutsionaalse investori vara tootlust keskpika ja pikaajalise perioodi jooksul. Varahaldur ei pea institutsionaalsele investorile ülevaadet avaldama, kui selline teave on avalikult kättesaadav.
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud ülevaade kajastab vähemalt järgmist teavet:
+
+1\) ülevaade investeeringutega seotud keskpika ja pikaajalise perioodi peamistest olulistest riskidest, portfelli koosseisust ja käibest;
+
+2\) ülevaade käesoleva seaduse § 211<sup>6</sup> lõikes 1 nimetatud hääletusnõustaja kasutamisest kaasamise eesmärgil;
+
+3\) ülevaade sihtemitendi väärtpaberite laenamise põhimõtetest ning sellest, kuidas väärtpaberite laenamist kajastatakse sihtemitendi üldkoosolekul ja muudes kaasamistoimingutes, kui see on asjakohane;
+
+4\) kas ja kuidas varahaldur teeb investeerimisotsuseid, mis põhinevad sihtemitendi keskpika ja pikaajalise perioodi tulemuslikkuse, sealhulgas mittefinantsilise tulemuslikkuse hindamisel;
+
+5\) kas ja millised huvide konfliktid on kaasamise ajal tekkinud ning kuidas varahaldur on need lahendanud.
+
+(3) Väärtpaberiportfelli valitsemise teenust osutav investeerimisühing võib käesolevas paragrahvis nimetatud teabe avalikustada käesoleva seaduse § 89<sup>1</sup> lõikes 3 nimetatud aruandes.
+
+(4) Fondivalitseja võib käesolevas paragrahvis nimetatud teabe avalikustada fondi aastaaruandes või majandusaasta aruandes.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 211<sup>5</sup>. Aktsionäri ja emitendi teenustasude avalikustamine
+
+(1) Krediidiasutus, väärtpaberite keskdepositoorium ja väärtpaberiportfelli valitsemise teenust osutav investeerimisühing (edaspidi käesolevas paragrahvis koos *vahendaja*) avalikustavad oma veebilehel iga järgmise teenuse osutamise eest võetavad teenustasud, tehes seda iga teenuse kohta eraldi.
+
+1\) aktsiaemitendile või tema määratud kolmandale isikule aktsiaemitendi aktsionäride kohta teabe edastamine;
+
+2\) aktsiaemitendilt või tema määratud kolmandalt isikult teabe esitamine aktsiaemitendi aktsionäridele eesmärgiga tagada aktsionäride võimalus üldkoosolekul osaleda ja hääletada ning oma teisi aktsionäri õigusi kasutada;
+
+3\) aktsionärile või tema määratud kolmandale isikule aktsiaemitendi üldkoosolekul osalemise ja hääletamise võimaluse pakkumine;
+
+4\) aktsionäri sõnaselgel loal ja tema juhistest lähtuvalt vahendajana aktsionäri üldkoosolekul esindamine.
+
+(2) Vahendaja võetavad teenustasud ei tohi olla diskrimineerivad ning need peavad vastama teenuse osutamise tegelikele kuludele. Piiriüleselt ja riigisiseselt võetavate teenustasude erinevused peavad põhinema tegelikel kuludel ning olema põhjendatud.
+
+(3) Käesolevas paragrahvis nimetatud nõuded kehtivad ka kolmanda riigi vahendaja kohta, kui ta osutab teenuseid Eestis registreeritud aktsiaemitendi aktsionäridele ja aktsiaemitendi väärtpaberid on Eestis teenuseid osutaval reguleeritud turul kaubeldavad.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 211<sup>6</sup>. Hääletusnõustaja teabe avalikustamise kohustus
+
+(1) Hääletusnõustaja avalikustab oma veebilehel käitumisjuhendi, mida ta oma tegevuses järgib. Kui hääletusnõustaja käitumisjuhendit ei järgi või järgib osaliselt, siis avaldab ta oma veebilehel käitumisjuhendi järgimata jätmise või osalise järgimise põhjendused. Hääletusnõustaja uuendab vastavat teavet vähemalt kord aastas.
+
+(2) Hääletusnõustaja on juriidiline isik, kes analüüsib kutsetegevuse raames ja tulu saamise eesmärgil emitendi avalikustatavat teavet ning vajaduse korral muud reguleeritud turul kauplemisele võetud väärtpaberite emitendi teavet eesmärgiga aidata investoritel teha teadlikke hääletusotsuseid.
+
+(3) Klientidele parema teenuse osutamiseks avalikustab hääletusnõustaja oma veebilehel kord aastas vähemalt järgmise uuringute, nõustamisteenuse ja hääletussoovitustega seotud teabe:
+
+1\) kasutatavate meetodite ja mudelite kirjeldus;
+
+2\) peamised kasutatavad teabeallikad;
+
+3\) kvaliteetsete uuringute, nõuannete ja hääletussoovituste ning asjaomaste töötajate kvalifikatsiooni tagamiseks kehtestatud menetlused;
+
+4\) kas ja kuidas arvestatakse riigisiseseid õiguslikke, regulatiivseid, äriühingupõhiseid ja turutingimusi;
+
+5\) millised on eri turgudel kasutatava hääletuspoliitika põhiomadused;
+
+6\) kas ja kuidas on hääletusnõustaja suhelnud äriühingu või äriühingu sidusrühmadega, kellele ta uuringut teeb ning nõuandeid või hääletussoovitusi annab;
+
+7\) tegelike ja võimalike huvide konfliktide ennetamise ja maandamise poliitika.
+
+(4) Käesoleva paragrahvi lõikes 3 nimetatud teave peab jääma hääletusnõustaja veebilehel tasuta kättesaadavaks vähemalt kolmeks aastaks pärast avaldamist. Teavet ei ole vaja eraldi avalikustada, kui see on käesoleva paragrahvi lõikes 2 sätestatud avalikustamise osana juba kättesaadav.
+
+(5) Hääletusnõustaja teeb kindlaks ja avaldab viivitamata oma klientidele mis tahes tegelikud või võimalikud huvide konfliktid või ärisuhted, mis võivad teda mõjutada uuringute, nõuannete või hääletussoovituste koostamisel, ning meetmed, mida ta on võtnud tegelike või võimalike huvide konfliktide kõrvaldamiseks, leevendamiseks, ennetamiseks või maandamiseks.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+### 22<sup>2</sup>. peatükk — EMITENDI POOLT MUU TEABE AVALIKUSTAMINE
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+#### § 211<sup>7</sup>. Emitendi rahastatud analüüsi avalikustamine Euroopa ühtse juurdepääsupunkti kaudu
+
+(1) Emitent võib esitada oma käesoleva seaduse § 85<sup>8</sup> lõikes 2 nimetatud emitendi rahastatud analüüsi inspektsioonile, et teha see juurdepääsetavaks Euroopa Parlamendi ja nõukogu määruse (EL) 2023/2859 alusel loodud Euroopa ühtse juurdepääsupunkti kaudu.
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud analüüsi inspektsioonile esitamise korral peab emitent tagama, et:
+
+1\) selle esilehel on selgelt ja nähtavalt märgitud, et see on koostatud kooskõlas käesoleva seaduse § 85<sup>8</sup> lõikes 2 nimetatud tegevusjuhendiga;
+
+2\) sellega on kaasas metaandmed, milles täpsustatakse, et teave vastab nimetatud tegevusjuhendile.
+
+(3) Käesoleva paragrahvi kohaselt avalikustatavat emitendi rahastatud analüüsi ei käsitata korraldatud teabena ega investeerimisanalüüsina ja selle üle ei teostata samal tasemel järelevalvet nagu nimetatud teabe või analüüsi üle.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+## 5. osa — ARVELDUS
+
+\[Kehtetu - RT I, 01.03.2023, 3 - jõust. 11.03.2023\]
+
+### 23. peatükk — VÄÄRTPABERITEHINGUTEST TULENEVATE KOHUSTUSTE ARVELDAMINE
+
+\[Kehtetu - RT I, 01.03.2023, 3 - jõust. 11.03.2023\]
+
+#### § 212. Käesoleva osa kohaldamine
+
+\[Kehtetu - RT I, 01.03.2023, 3 - jõust. 11.03.2023\]
+
+#### § 213. Väärtpaberiarveldussüsteem
+
+\[Kehtetu - RT I, 01.03.2023, 3 - jõust. 11.03.2023\]
+
+#### § 213<sup>1</sup>. Süsteemiühendus
+
+\[Kehtetu - RT I, 01.03.2023, 3 - jõust. 11.03.2023\]
+
+#### § 214. Süsteemi korraldaja
+
+\[Kehtetu - RT I, 01.03.2023, 3 - jõust. 11.03.2023\]
+
+#### § 215. Nõuded süsteemi korraldajale
+
+\[Kehtetu - RT I, 26.06.2017, 1 - jõust. 06.07.2017\]
+
+#### § 216. Süsteemi korraldaja tegevus
+
+\[Kehtetu - RT I, 26.06.2017, 1 - jõust. 06.07.2017\]
+
+#### § 217. Süsteemi korraldaja tegevusluba
+
+\[Kehtetu - RT I, 26.06.2017, 1 - jõust. 06.07.2017\]
+
+#### § 218. Tegevusloa taotlemine
+
+\[Kehtetu - RT I, 26.06.2017, 1 - jõust. 06.07.2017\]
+
+#### § 219. Tegevusloa andmisest keeldumine
+
+\[Kehtetu - RT I, 26.06.2017, 1 - jõust. 06.07.2017\]
+
+#### § 220. Tegevusloa kehtetuks tunnistamine
+
+\[Kehtetu - RT I, 26.06.2017, 1 - jõust. 06.07.2017\]
+
+#### § 221. Süsteemi liige
+
+\[Kehtetu - RT I, 26.06.2017, 1 - jõust. 06.07.2017\]
+
+#### § 222. Süsteemi reeglid
+
+\[Kehtetu - RT I, 26.06.2017, 1 - jõust. 06.07.2017\]
+
+#### § 223. Süsteemi reeglite kooskõlastamine
+
+\[Kehtetu - RT I, 26.06.2017, 1 - jõust. 06.07.2017\]
+
+#### § 224. Ülekandekorralduste lõplikkus
+
+\[Kehtetu - RT I, 01.03.2023, 3 - jõust. 11.03.2023\]
+
+#### § 225. Tasaarvestamine
+
+\[Kehtetu - RT I, 01.03.2023, 3 - jõust. 11.03.2023\]
+
+#### § 226. Süsteemi tagatisvahendid
+
+\[Kehtetu - RT I, 01.03.2023, 3 - jõust. 11.03.2023\]
+
+#### § 227. Tagatisväärtpaber
+
+\[Kehtetu - RT I, 29.06.2011, 1 - jõust. 30.06.2011\]
+
+#### § 228. Süsteemi ja süsteemiühenduse liikme pankroti erisused
+
+\[Kehtetu - RT I, 01.03.2023, 3 - jõust. 11.03.2023\]
+
+#### § 229. Süsteemi ja süsteemiühenduse korraldaja pankroti erisused
+
+\[Kehtetu - RT I, 01.03.2023, 3 - jõust. 11.03.2023\]
+
+## 5<sup>1</sup>. osa — KVALIFITSEERUVAST FINANTSTEHINGUST TULENEVATE ESEME ÜLEANDMISE ÕIGUSTE JA KOHUSTUSTE NING MAKSEÕIGUSTE JA -KOHUSTUSTE LÕPETAMISEL NING NENDE KOHUSTUSTE TÄITMISE KIIRENDAMISEL TOIMUV TASAARVESTUS
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+### 23<sup>1</sup>. peatükk — TASAARVESTUSE KOHALDAMINE KVALIFITSEERUVAST FINANTSTEHINGUST TULENEVATE ÕIGUSTE JA KOHUSTUSTE LÕPETAMISEL NING NENDE KOHUSTUSTE TÄITMISE KIIRENDAMISEL
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+#### § 229<sup>1</sup>. Käesoleva osa kohaldamine
+
+(1) Käesolev osa reguleerib kvalifitseeruvatest finantstehingutest tulenevate eseme üleandmise õiguste ja kohustuste ning makseõiguste ja -kohustuste lõpetamisel ning nende kohustuste täitmise kiirendamisel toimuva tasaarvestuse (edaspidi *lõpetamisel toimuv tasaarvestus*) kohaldamist.
+
+(2) Käesolevat osa ei kohaldata makse- ja arveldussüsteemides osalejate ja kaudsete osalejate makse- ja arveldussüsteemide seaduses nimetatud makse- või arveldussüsteemis osalemisest tulenevate õiguste ja kohustuste suhtes.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+#### § 229<sup>2</sup>. Lõpetamisel toimuv tasaarvestus
+
+(1) Lõpetamisel toimuv tasaarvestus käesoleva seaduse tähenduses on lõpetamist tingiva juhtumi korral poolte vahel tasaarvestuskokkuleppes varem kokkulepitud tingimuste kohaldamine tulenevalt ühe poole tahteavaldusest või tasaarvestuskokkuleppes nimetatud juhul automaatselt, mille käigus:
+
+1\) tasaarvestuskokkuleppega hõlmatud ühest või mitmest kvalifitseeruvast finantstehingust tulenevad mis tahes olemasolevad või tulevikus tekkida võivad eseme üleandmise õigused või kohustused või makseõigused või -kohustused lõpetatakse või nende kohustuste täitmist kiirendatakse;
+
+2\) arvutatakse iga käesoleva lõike punkti 1 alusel lõpetatud õiguse või kohustuse või õiguste või kohustuste rühma või kiirendatud täitmisega kohustuse või kohustuste rühma sulgemis-, turu-, likvideerimis- või asendusväärtus vastavalt tasaarvestuskokkuleppe tingimustele ning konverteeritakse iga selliselt arvutatud väärtus ühte valuutasse;
+
+3\) määratakse kindlaks ühe poole netonõue teise poole vastu, lähtudes käesoleva lõike punkti 2 alusel arvutatud väärtustest.
+
+(2) Täitmise kiirendamise kokkuleppe puhul loetakse lõpetamist tingiva juhtumi korral kohustuse täitmise tähtpäev saabunuks ja kohustus sissenõutavaks muutunuks.
+
+(3) Tehingu lõpetamist tingiv juhtum on kohustuse rikkumine või muu tasaarvestuskokkuleppes nimetatud lõpetamise aluse esinemine.
+
+(4) Lisaks käesoleva paragrahvi lõikes 1 nimetatule on lõpetamisel toimuv tasaarvestus ka täitmist tingiva juhtumi korral finantstagatise kokkuleppe või finantstagatise kokkulepet sisaldava kokkuleppe tingimuste või vastava lepingutingimuse puudumise korral asjakohase õigusnormi kohaldamine, millel on vähemalt üks järgmine tagajärg:
+
+1\) poolte kohustused muutuvad kohe sissenõutavaks ja seda väljendatakse kohustusena tasuda nende hinnangulisele jooksvale väärtusele vastav summa või poolte kohustused lõpetatakse ja asendatakse kohustusega tasuda see summa;
+
+2\) tehakse kindlaks, kui palju kumbki pool seoses sellise kohustusega teisele poolele võlgneb, ja see pool, kelle võlgnetav summa on suurem, kohustub tasuma teisele poolele kohustuste vahele vastava netonõude.
+
+(5) Käesoleva paragrahvi lõikes 4 nimetatud täitmist tingiv juhtum on kohustuse rikkumine või poolte vahel kokkulepitud mis tahes muu sarnane olukord, mille puhul tekib tagatise saajal finantstagatise kokkuleppe kohaselt või õigusakti alusel õigus rahuldada oma nõue finantstagatise arvel või rakendub lõpetamisel toimuv tasaarvestus.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+#### § 229<sup>3</sup>. Kvalifitseeruv finantstehing
+
+(1) Kvalifitseeruv finantstehing käesoleva seaduse tähenduses on järgnevalt loetletud finantskokkulepe või tehing, sealhulgas tingimuslik tehing, mille kohaselt tuleb maksekohustus või eseme üleandmise kohustus täita teatud ajal või teatud ajavahemiku jooksul:
+
+1\) tuletisväärtpaber, mida on võimalik omandada, vahetada või võõrandada kauplemiskohaväliselt või kauplemiskoha vahendusel;
+
+2\) tuletisleping;
+
+3\) hetkeleping komisjoni delegeeritud määruse (EL) 2017/565 artikli 7 lõike 2 või artikli 10 lõike 2 tähenduses;
+
+4\) repotehing Euroopa Parlamendi ja nõukogu määruse (EL) 2015/2365 artikli 3 punkti 9 tähenduses ja muu väärtpaberitega finantseerimise tehing sama artikli punkti 11 tähenduses;
+
+5\) käesoleva lõike punktides 1–4 nimetatud kvalifitseeruva finantstehingu tagamiseks seatud finantstagatise või muu tagatise kokkulepe.
+
+(2) Valdkonna eest vastutav minister võib määrusega kehtestada lisaks käesoleva paragrahvi lõikes 1 sätestatule muud kvalifitseeruvad finantstehingud.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+#### § 229<sup>4</sup>. Tasaarvestuskokkulepe
+
+(1) Tasaarvestuskokkulepet sisaldav tehing käesoleva seaduse tähenduses on kahepoolne kokkulepe, mille üks pool on kvalifitseeruv isik ja milles on kokku lepitud kvalifitseeruvate finantstehingute lõpetamisel toimuv tasaarvestus. Tasaarvestuskokkulepe on ka kokkulepe kahe või enama tasaarvestuskokkuleppe kohase lõpetamisel toimuva tasaarvestuse kohta ja tasaarvestuskokkuleppega seotud või selles sisalduv tagatisleping.
+
+(2) Tasaarvestuskokkulepet, mis hõlmab tehingut, mis ei ole kvalifitseeruv finantstehing, käsitatakse tasaarvestuskokkuleppena üksnes kvalifitseeruva finantstehingu osas.
+
+(3) Tasaarvestuskokkulepet ja kõiki kvalifitseeruvaid finantstehinguid, mille suhtes vastavat tasaarvestuskokkulepet kohaldatakse, käsitatakse ühe pooltevahelise lepinguna.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+#### § 229<sup>5</sup>. Kvalifitseeruv isik
+
+Kvalifitseeruv isik käesoleva seaduse tähenduses on asjaõigusseaduse § 314<sup>1</sup> lõikes 1 või käesoleva seaduse § 6 lõike 2 punktides 3–5 nimetatud isik, asutus või organisatsioon.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+#### § 229<sup>6</sup>. Lõpetamisel toimuv tasaarvestus maksejõuetus-, likvideerimis- ja täitemenetluse korral
+
+(1) Kui pooled on omavahel sõlminud tasaarvestuskokkuleppe või finantstagatise kokkuleppe ning ühe poole suhtes algatatakse või jätkub maksejõuetusmenetlus, likvideerimismenetlus või täitemenetlus, kohaldatakse lõpetamisel toimuvat tasaarvestust vastavalt eelnimetatud kokkuleppe tingimustele. Nimetatud menetlused ei takista ega mõjuta muul viisil lõpetamisel toimuvat tasaarvestust, sealhulgas vastavas tasaarvestuskokkuleppes või finantstagatise kokkuleppes sätestatud lõpetamis- või kiirendamisõigusi. Kui võlausaldaja tasaarvestuskokkuleppega või finantstagatise kokkuleppega hõlmatud nõuded ei ole nimetatud kokkuleppe tingimuste kohaselt muutunud sissenõutavaks varem, loetakse nõuete täitmise tähtpäev saabunuks pankroti väljakuulutamisega vastavalt pankrotiseaduse §-le 42.
+
+(2) Maksejõuetusmenetlus käesoleva seaduse tähenduses on:
+
+1\) pankrotimenetlus pankrotiseaduse tähenduses;
+
+2\) saneerimismenetlus saneerimisseaduse tähenduses;
+
+3\) krediidiasutuse suhtes kehtestatud moratoorium krediidiasutuste seaduse tähenduses;
+
+4\) varajase sekkumise meetme rakendamine või kriisilahendusmenetlus finantskriisi ennetamise ja lahendamise seaduse tähenduses;
+
+5\) kindlustusandja varaga seotud tehingute keelamine või piiramine kindlustustegevuse seaduse § 95 tähenduses;
+
+6\) kindlustusandja erirežiim kindlustustegevuse seaduse tähenduses;
+
+7\) määratud väljamaksega tööandja pensionifondi varaga seotud tehingute või toimingute keelamine või piiramine investeerimisfondide seaduse § 474 lõike 5 tähenduses.
+
+(3) Pankrotimenetluse algatamine käesoleva seaduse tähenduses on kohtu poolt ajutise halduri nimetamine vastavalt pankrotiseaduse §-le 15.
+
+(4) Moratooriumi algatamine käesoleva seaduse tähenduses on krediidiasutuste seaduse § 112 lõikes 3<sup>1</sup> nimetatud moratooriumi kehtestamise otsuse tegemine.
+
+(5) Kriisilahendusmenetlus käesoleva seaduse tähenduses on finantskriisi ennetamise ja lahendamise seaduses sätestatud kriisilahendusmeetme või -õiguse rakendamine.
+
+(6) Kindlustusandja varaga seotud tehingute keelamise või piiramise algatamine käesoleva seaduse tähenduses on inspektsiooni ettekirjutuse tegemine vastavalt kindlustustegevuse seaduse § 95 lõikele 2.
+
+(7) Kindlustusandja erirežiimi algatamine käesoleva seaduse tähenduses on inspektsiooni poolt erirežiimi kehtestamise otsuse tegemine vastavalt kindlustustegevuse seaduse § 149 lõikele 1.
+
+(8) Määratud väljamaksetega tööandja pensionifondi varaga seotud tehingute või toimingute keelamise või piiramise algatamine käesoleva seaduse tähenduses on inspektsiooni ettekirjutuse tegemine vastavalt investeerimisfondide seaduse § 474 lõikele 5.
+
+(9) Käesolevat paragrahvi kohaldatakse kriisiennetus- ja kriisilahendusmeetme kohaldamisel või sellise meetme kohaldamisega vahetult seotud sündmuse korral niivõrd, kui see ei ole vastuolus lõpetamise, peatamise, muutmise või tasaarvestuse õiguse või lõpetamisel toimuva tasaarvestuse õiguse kasutamise piirangu või ülesütlemisõiguse kasutamise piiranguga finantskriisi ennetamise ja lahendamise seaduses või Euroopa Parlamendi ja nõukogu määruses (EL) 2021/23 kesksete vastaspoolte finantsseisundi taastamise ja kriisilahenduse raamistiku kohta ning millega muudetakse määruseid (EL) nr 1095/2010, (EL) nr 648/2012, (EL) nr 600/2014, (EL) nr 806/2014 ja (EL) 2015/2365 ning direktiive 2002/47/EÜ, 2004/25/EÜ, 2007/36/EÜ, 2014/59/EL ja (EL) 2017/1132 (ELT L 22, 22.01.2021, lk 1–102).
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+## 6. osa — JÄRELEVALVE JA VASTUTUS
+
+### 24. peatükk — JÄRELEVALVE
+
+#### § 230. Inspektsiooni õigused ja ülesanded järelevalve teostamisel
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(1) Inspektsioonil on käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatu kohase täitmise üle järelevalve teostamisel kõik käesolevas seaduses ja Finantsinspektsiooni seaduses sätestatud õigused. Inspektsioonil on järelevalve teostamisel eelnimetatud õigused muu hulgas järgmistes Euroopa Liidu õigusaktides ja nende alusel kehtestatud õigusaktides sätestatu kohase täitmise üle:
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+1\) Euroopa Parlamendi ja nõukogu määrus (EL) nr 236/2012 lühikeseks müügi ja krediidiriski vahetustehingute teatavate aspektide kohta (ELT L 86, 24.03.2012, lk 1–24);
+
+2\) Euroopa Parlamendi ja nõukogu määrus (EL) nr 648/2012;
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+3\) Euroopa Parlamendi ja nõukogu määrus (EL) nr 462/2013, millega muudetakse määrust (EÜ) nr 1060/2009 reitinguagentuuride kohta (ELT L 146, 21.05.2013, lk 1–33);
+
+\[RT I, 19.03.2015, 3 - jõust. 29.03.2015\]
+
+3<sup>1</sup>) Euroopa Parlamendi ja nõukogu määrus (EL) 2024/3005, mis käsitleb keskkonna-, sotsiaal- ja juhtimisalaste (ESG) reitingutega seotud tegevuse läbipaistvust ja integriteeti ning millega muudetakse määrusi (EL) 2019/2088 ja (EL) 2023/2859 (ELT L, 2024/3005, 12.12.2024);
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+4\) Euroopa Parlamendi ja nõukogu määrus (EL) nr 1286/2014;
+
+\[RT I, 22.02.2017, 1 - jõust. 01.01.2018\]
+
+5\) Euroopa Parlamendi ja nõukogu määrus (EL) nr 596/2014;
+
+6\) Euroopa Parlamendi ja nõukogu määrus (EL) nr 600/2014 finantsinstrumentide turgude kohta ning millega muudetakse määrust (EL) nr 648/2012 (ELT L 173, 12.06.2014, lk 84–148);
+
+\[RT I, 07.04.2017, 2 - jõust. 03.01.2018\]
+
+7\) Euroopa Parlamendi ja nõukogu määrus (EL) nr 2015/2365, mis käsitleb väärtpaberite kaudu finantseerimise tehingute ja uuesti kasutamise läbipaistvust ning millega muudetakse määrust (EL) nr 648/2012 (ELT L 337, 23.12.2015, lk 1–34);
+
+\[RT I, 26.06.2017, 1 - jõust. 06.07.2017\]
+
+8\) Euroopa Parlamendi ja nõukogu määrus (EL) nr 2016/1011, mis käsitleb indekseid, mida kasutatakse võrdlusalustena finantsinstrumentide ja -lepingute puhul või investeerimisfondide tootluse mõõtmiseks, ning millega muudetakse direktiive 2008/48/EÜ ja 2014/17/EL ning määrust (EL) nr 596/2014 (ELT L 171, 29.06.2016, lk 1–65);
+
+\[RT I, 26.06.2017, 1 - jõust. 06.07.2017\]
+
+9\) Euroopa Parlamendi ja nõukogu määrus (EL) nr 575/2013;
+
+\[RT I, 10.01.2019, 1 - jõust. 20.01.2019\]
+
+10\) Euroopa Parlamendi ja nõukogu määrus (EL) 2017/2402, millega kehtestatakse väärtpaberistamise üldnormid ning luuakse lihtsa, läbipaistva ja standarditud väärtpaberistamise erinormid ning millega muudetakse direktiive 2009/65/EÜ, 2009/138/EÜ ja 2011/61/EL ning määrusi (EÜ) nr 1060/2009 ja (EL) nr 648/2012 (ELT L 347, 28.12.2017, lk 35–80);
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+11\) Euroopa Parlamendi ja nõukogu määrus (EL) 2017/1129;
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+12\) Euroopa Parlamendi ja nõukogu määrus (EL) 2019/2088;
+
+\[RT I, 03.06.2022, 5 - jõust. 21.08.2022\]
+
+13\) Euroopa Parlamendi ja nõukogu määrus (EL) 2020/852;
+
+\[RT I, 07.01.2025, 1 - jõust. 17.01.2025\]
+
+14\) Euroopa Parlamendi ja nõukogu määrus (EL) 2020/1503;
+
+\[RT I, 07.12.2021, 3 - jõust. 17.12.2021\]
+
+15\) Euroopa Parlamendi ja nõukogu määrus (EL) 2019/2033;
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+16\) Euroopa Parlamendi ja nõukogu määrus (EL) 2023/1114;
+
+\[RT I, 21.06.2024, 3 - jõust. 01.07.2024\]
+
+17\) Euroopa Parlamendi ja nõukogu määrus (EL) 2022/2554;
+
+\[RT I, 11.10.2024, 1 - jõust. 17.01.2025\]
+
+18\) Euroopa Parlamendi ja nõukogu määrus (EL) 2023/2631 Euroopa rohevõlakirjade ning teabe vabatahtliku avaldamise kohta seoses keskkonnakestlikuna turustatavate ja kestlikkusega seotud võlakirjadega (ELT L, 2023/2631, 30.11.2023).
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(1<sup>1</sup>) Inspektsioon kohustab investeerimisühingut võtma võimalikult vara vajalikke meetmeid, muu hulgas tagamaks, et klientide vara hoitakse vastavalt käesoleva seaduse §-le 88 nõuetekohaselt lahus, kui:
+
+1\) investeerimisühing ei täida õigusaktides, sealhulgas Euroopa Parlamendi ja nõukogu määruses (EL) 2019/2033, sätestatud nõudeid;
+
+2\) on tõendeid, et investeerimisühing tõenäoliselt rikub käesoleva lõike punktis 1 nimetatud nõudeid järgmise 12 kuu jooksul vastava asjaolu ilmnemisest arvates.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(2) Inspektsioonil on õigus teostada järelevalvet väärtpaberituru kutselise osalisega samasse kontserni kuuluvate äriühingute tegevuse üle niivõrd, kuivõrd see on vajalik väärtpaberituru kutselise osalise kontrollimiseks.
+
+(3) Turukuritarvituse, turul oluliste osaluste omandamisest või võõrandamisest teatamata jätmise või ebaõige teatamise ning õigusvastase ülevõtmispakkumise ärahoidmiseks, avastamiseks ja vähendamiseks on inspektsioon kohustatud seirama finantsinstrumentide suhtes pakkumuste tegemist ja finantsinstrumentidega tehingute tegemist, samuti muude toimingute tegemist seoses võimalike turukuritarvitustega, reguleeritud turul kauplemisele võetud väärtpaberite emitendis otsese või kaudse osaluse omandamise ja võõrandamisega ning valitseva mõjuga. Seiramine võib toimuda varjatult.
+
+(4) Kõikides lepinguriikides informatsiooni tegeliku, tõhusa ja ühetaolise kättesaadavuse huvides jälgib inspektsioon informatsiooni edastamist ja avalikustamist käesoleva seaduse § 184 lõikes 1 nimetatud emitentide poolt, samuti nende emitentide aktsionäride või isikute poolt, kellele loetakse kuuluvaks emitendi väärtpaberitest tulenevad hääleõigused vastavalt käesoleva seaduse § 10 lõikele 3. Inspektsioonil on õigus avalikustada, et nimetatud isikud ei täida oma kohustusi.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(4<sup>1</sup>) Inspektsioon avalikustab oma veebilehel käesoleva seaduse 3., 3<sup>1</sup>. ja 4. osas, Euroopa Parlamendi ja nõukogu määrustes (EL) nr 600/2014, (EL) nr 596/2014, (EL) nr 1286/2014, (EL) 2016/1011, (EL) 2017/1129, (EL) 2017/2402, (EL) 2019/2033 ja (EL) 2023/2631 sätestatud kohustuse rikkumisega seoses tehtud väärteoasja lahendi või haldusakti viivitamata pärast selle teatavaks tegemist. Inspektsioon märgib vähemalt rikkumise liigi ja laadi, rikkumise eest vastutava isiku andmed, milleks on juriidilise isiku puhul ärinimi ja registrikood selle olemasolul, füüsilise isiku puhul ees- ja perekonnanimi ning isikukood või selle puudumisel sünniaeg, ning teabe lahendi või haldusakti vaidlustamise ja tühistamise kohta. Inspektsioon tagab, et kogu käesolevas lõikes nimetatud teave on tema veebilehel avalikult kättesaadav vähemalt viie aasta jooksul, kui seaduses ei ole sätestatud teisiti.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(4<sup>2</sup>) Inspektsioonil on asjaolusid hinnates õigus lükata väärteoasjas tehtud lahendi või haldusakti avalikustamine edasi või jätta rikkuja isik seaduses sätestatud juhul isikuandmete kaitse tagamiseks avalikustamata, kuni on täidetud vähemalt üks järgmistest tingimustest:
+
+\[RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+1\) rikkumise eest vastutava isiku avalikustamine on määratud karistuse või muu meetmega võrreldes ebaproportsionaalne;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+2\) väärteoasjas tehtud lahendi, haldusakti või rikkuja isiku avalikustamine ohustaks tõsiselt finantssüsteemi stabiilsust või pooleliolevat järelevalvemenetlust;
+
+3\) väärteoasjas tehtud lahendi, haldusakti või rikkuja isiku avalikustamine põhjustaks asjassepuutuvatele isikutele ebaproportsionaalset ja käesoleva seaduse 20. peatükis sätestatud kohustuse rikkumisega seoses tehtud väärteoasja lahendi või haldusakti korral ka olulist kahju.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(4<sup>3</sup>) Inspektsioonil on õigus jätta väärteoasjas tehtud lahend või haldusakt avalikustamata, kui tema hinnangul ei ole ühelgi käesoleva paragrahvi lõikes 4<sup>2</sup> nimetatud viisil võimalik vältida finantssüsteemi stabiilsuse ohustamist või saavutada väärteoasjas tehtud lahendi või haldusakti avalikustamise proportsionaalsust väheoluliste meetmete rakendamisel.
+
+\[RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+(4<sup>4</sup>) Korraldatud teabe avalikustamise kohustuse rikkumisega seoses väärteoasjas tehtud lahendi või haldusakti avaldamisel esitab inspektsioon selle ühtlasi Euroopa Väärtpaberiturujärelevalve Asutusele Euroopa ühtse juurdepääsupunkti kaudu kättesaadavaks tegemiseks. Edastatav teave esitatakse Euroopa Parlamendi ja nõukogu määruse (EL) 2023/2859 artikli 2 punktis 3 määratletud, andmete väljavõttu võimaldavas vormingus koos järgmiste metaandmetega:
+
+1\) kõik selle füüsilise isiku või juriidilise isiku nimed, kellega teave on seotud;
+
+2\) olemasolu korral juriidilise isiku tunnus, vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) 2023/2859 artikli 7 lõike 4 punktile b;
+
+3\) teabe liik vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) 2023/2859 artikli 7 lõike 4 punktile c;
+
+4\) märge selle kohta, kas teave sisaldab isikuandmeid.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026, kohaldatakse alates 2026. aasta 10. juulist.\]
+
+(5) Inspektsioon vaatab asjakohasel juhul ja vajalikul määral, võttes arvesse investeerimisühingu suurust, riskiprofiili ja ärimudelit, üle kokkulepped, strateegiad, protsessid ja mehhanismid, mida investeerimisühing kasutab käesoleva seaduse ja Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 järgimiseks, ning hindab usaldusväärse juhtimise ja riskide maandamise seisukohast järgmist:
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+1\) käesoleva seaduse § 82<sup>2</sup> lõikes 3 nimetatud riskid;
+
+2\) investeerimisühingu riskipositsioonide geograafiline paiknemine;
+
+3\) investeerimisühingu ärimudel;
+
+4\) süsteemse riski hinnang, võttes arvesse süsteemse riski kindlakstegemist ja mõõtmist vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 1093/2010, millega asutatakse Euroopa Järelevalveasutus (Euroopa Pangandusjärelevalve), muudetakse otsust nr 716/2009/EÜ ning tunnistatakse kehtetuks komisjoni otsus 2009/78/EÜ (ELT L 331, 15.12.2010, lk 12–47), artiklile 23 või Euroopa Süsteemsete Riskide Nõukogu soovitusi;
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+5\) investeerimisühingu võrgu- ja infosüsteemide turvariskid, et tagada investeerimisühingu protsesside, andmete ja vara konfidentsiaalsus, terviklikkus ja kättesaadavus;
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+6\) investeerimisühingu avatus kauplemisportfellivälisest tegevusest tulenevale intressiriskile;
+
+7\) investeerimisühingu juhtimiskorraldus ja juhtide pädevus.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(5<sup>1</sup>) Inspektsioon määrab kindlaks käesoleva paragrahvi lõikes 5 nimetatud ülevaatamise ja hindamise sageduse ja intensiivsuse, võttes arvesse investeerimisühingu suurust, tegevuse laadi, ulatust ja keerukust, süsteemset olulisust ja proportsionaalsuse põhimõtet. Ülevaatamisel ja hindamisel võtab inspektsioon muu hulgas arvesse, kas investeerimisühingul on sõlmitud kutsekindlustus.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(5<sup>2</sup>) Käesoleva paragrahvi lõike 5 punkti 1 kohaldamisel hindab ja jälgib inspektsioon investeerimisühingu sellist arengut, mis on seotud kesksete vastaspoolte suhtes olevatest riskipositsioonidest tuleneva kontsentratsiooniriski juhtimisega, sealhulgas käesoleva seaduse § 82<sup>2</sup> lõike 6<sup>1</sup> kohaselt välja töötatud kavu ning arengut seoses ärimudeli kooskõlla viimisega Euroopa Parlamendi ja nõukogu määruse (EL) nr 648/2012 artiklis 7a sätestatud nõuetega.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(6) Inspektsioon kontrollib regulaarselt investeerimisühingu, reguleeritud turu korraldaja ja erandi alusel tegutseva aruandlusteenuse osutaja vastavust käesoleva seaduse § 48 lõikes 4 sätestatule. Inspektsioon peab oma ülesandeid ja võimalusi arvestades kavandama võimalusel vähemalt üheks aastaks ette järelevalvelisi protseduure (järelevalvekava) käesoleva lõike esimeses lauses nimetatud isiku, tema teises lepinguriigis asuva tütarettevõtja ja filiaali suhtes, kui see on asjakohane ja proportsionaalne, arvestades isiku tegevuse laadi, ulatust ja keerukust.
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+(7) Inspektsioonil on Euroopa Parlamendi ja nõukogu määruse (EL) 2022/2554 nõuete kohase täitmise üle järelevalve teostamisel lisaks käesoleva paragrahvi lõike 1 teises lauses sätestatule kõik nimetatud määruses sätestatud õigused. Inspektsioon avalikustab nimetatud määruses sätestatud kohustuse rikkumise kohta tehtud otsuse oma veebilehel määruse artiklis 54 sätestatu kohaselt.
+
+\[RT I, 11.10.2024, 1 - jõust. 17.01.2025\]
+
+#### § 230<sup>1</sup>. Järelevalve investeerimisühingu üle
+
+(1) Inspektsiooni järelevalvetegevus hõlmab:
+
+1\) kõiki investeerimisühinguid, mille registrisse kantud asukoht on Eesti (edaspidi *Eesti investeerimisühing*), välja arvatud juhul, kui seoses aruandlusteenuse osutamisega teostab investeerimisühingu üle järelevalvet Euroopa Väärtpaberiturujärelevalve Asutus;
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+2\) Eesti investeerimisühingute välisriikides paiknevaid tütarettevõtjast investeerimisühinguid, filiaale ja esindusi, kui nende üle ei teosta järelevalvet välisriigi väärtpaberiturujärelevalve asutus või kui välisriigi väärtpaberiturujärelevalve asutusega on vastavalt kokku lepitud;
+
+3\) välisriigi investeerimisühingute Eestis paiknevaid tütarettevõtjast investeerimisühinguid, filiaale ja esindusi, kui vastava välisriigi väärtpaberiturujärelevalve asutusega ei ole kokku lepitud teisiti;
+
+4\) investeerimisühinguga samasse konsolideerimisgruppi kuuluvaid äriühinguid.
+
+(2) Inspektsioon teostab konsolideeritud järelevalvet individuaalsel alusel või kontrollib investeerimisühingu konsolideerimisgrupi vastavust Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 artiklis 8 sätestatud kapitalitesti nõuetele (edaspidi *kontrollima vastavust kapitalitestile*), kui:
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+1\) Eesti investeerimisühing on emaettevõtja ja ükski tema tütarettevõtjatest ei ole krediidiasutus;
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+2\) Eesti investeerimisühingu emaettevõtja on Eestis registreeritud investeerimisvaldusettevõtja Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 artikli 4 lõike 1 punkti 57 tähenduses või segafinantsvaldusettevõtja sama määruse artikli 4 lõike 1 punkti 58 tähenduses;
+
+3\) Eestis ja mõnes teises lepinguriigis registreeritud investeerimisühingute emaettevõtja on Eestis registreeritud investeerimisvaldusettevõtja Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 artikli 4 lõike 1 punkti 57 tähenduses või segafinantsvaldusettevõtja sama määruse artikli 4 lõike 1 punkti 58 tähenduses.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(2<sup>1</sup>) Kui Eestis ja mõnes teises lepinguriigis registreeritud kahe või enama investeerimisühingu emaettevõtjaks on mitu investeerimisvaldusettevõtjat või segafinantsvaldusettevõtjat, mille peakontorid asuvad nii Eestis kui ka mõnes teises lepinguriigis, millest igaühes asub konsolideerimisgruppi kuuluv investeerimisühing, teostab inspektsioon konsolideeritud järelevalvet ja kontrollib vastavust kapitalitestile üksnes juhul, kui Eesti investeerimisühing on konsolideerimisgruppi kuuluvatest investeerimisühingutest suurima bilansimahuga.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(2<sup>2</sup>) Kui teises lepinguriigis asutatud investeerimisvaldusettevõtja või segafinantsvaldusettevõtja on ühtlasi Eestis ja vähemalt ühes teises lepinguriigis registreeritud investeerimisühingu emaettevõtjaks ning nimetatud investeerimisühingul puudub tegevusluba lepinguriigis, kus investeerimisvaldusettevõtja või segafinantsvaldusettevõtja on asutatud, teostab inspektsioon konsolideeritud järelevalvet ja kontrollib vastavust kapitalitestile juhul, kui Eesti investeerimisühing on suurima bilansimahuga.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(2<sup>3</sup>) Inspektsioon võib loobuda kokkuleppel teiste lepinguriikide väärtpaberiturujärelevalve asutustega järelevalve teostamisest käesoleva paragrahvi lõike 2 punktis 3 ning lõigetes 2<sup>1</sup> ja 2<sup>2</sup> nimetatud juhtudel, kui see on tulemusliku konsolideeritud järelevalve ja konsolideerimisgrupi kapitalitestiga seotud vastavusnõuete täitmise järelevalve seisukohast asjakohane, võttes arvesse asjaomast investeerimisühingut ja selle tegevuse olulisust Eestis. Sellisel juhul annab inspektsioon vastavad ülesanded üle mõne teise lepinguriigi väärtpaberiturujärelevalve asutusele. Inspektsioon teavitab käesoleva lõike alusel tehtud otsustest Euroopa Komisjoni ja Euroopa Pangandusjärelevalve Asutust.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(2<sup>4</sup>) Enne käesoleva paragrahvi lõikes 2<sup>3</sup> nimetatud järelevalveülesannete üleandmist annab inspektsioon emaettevõtjana tegutsevale investeerimisvaldusettevõtjale või segafinantsvaldusettevõtjale või asjakohasel juhul suurima bilansimahuga investeerimisühingule võimaluse esitada kavandatava järelevalveülesannete üleandmise otsuse kohta oma seisukoht.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(2<sup>5</sup>) Inspektsioon teostab käesoleva paragrahvi lõikes 2 nimetatud konsolideeritud järelevalvet juhul, kui krediidiasutuste seaduse § 13<sup>7</sup> lõikes 3 ei ole sätestatud teisiti.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+(2<sup>6</sup>) Inspektsioon kogub andmeid järelevalve teostamiseks Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 435 lõike 2 punkti c alusel, edastab kogutud andmeid Euroopa Pangandusjärelevalve Asutusele ja kasutab neid selleks, et hinnata mitmekesisuse põhimõtete rakendamist.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+(3) Kui ükski tütarettevõtjast investeerimisühing ei asu lepinguriigis, kus asub tema konsolideerimisgrupi emaettevõtja, teostab konsolideeritud järelevalvet selle lepinguriigi väärtpaberiturujärelevalve asutus, kes andis välja tegevusloa kõige suurema bilansimahuga tütarettevõtjast investeerimisühingule, kui selle lepinguriigi väärtpaberiturujärelevalve asutusega ei ole teisiti kokku lepitud. Suurema bilansimahu arvutamiseks liidetakse kõikide samasse konsolideerimisgruppi kuuluvate ja sama väärtpaberiturujärelevalve asutuse väljastatud tegevusloa alusel tegutsevate investeerimisühingute bilansimahud.
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(4) Kui kahe või enama investeerimisühingu, kelle emaettevõtja peakontor asub kolmandas riigis, konsolideerimisgrupi üle ei teosta konsolideeritud finantsjärelevalvet lepinguriigi väärtpaberiturujärelevalve asutus ning kui inspektsiooni ja teiste asjassepuutuvate lepinguriikide väärtpaberiturujärelevalve asutuste ühisel hinnangul ei ole kolmanda riigi järelevalveasutuse teostatav finantsjärelevalve investeerimisühingu konsolideerimisgrupi üle samaväärne Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 I osas ja muudes asjakohastes õigusaktides kehtestatud nõuetele vastava konsolideeritud järelevalvega, teostab finantsjärelevalvet investeerimisühingu konsolideerimisgrupi üle vastavalt omavahelisele kokkuleppele inspektsioon või mõne teise asjassepuutuva lepinguriigi väärtpaberiturujärelevalve asutus, kes teostab konsolideerimisgrupi üle järelevalvet juhul, kui emaettevõtja oleks asutatud Euroopa Liidus. Inspektsioon teavitab kõigist käesoleva lõike alusel tehtud otsustest teisi asjaomaseid väärtpaberiturujärelevalve asutusi, Euroopa Pangandusjärelevalve Asutust ja Euroopa Komisjoni.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(4<sup>1</sup>) Kui inspektsioon kvalifitseerub käesoleva paragrahvi lõike 4 kohaselt konsolideerimisgrupi väärtpaberiturujärelevalve asutuseks, võib ta nõuda investeerimisvaldusettevõtja või segafinantsvaldusettevõtja asutamist Euroopa Liidus ja kohaldada selle investeerimisvaldusettevõtja või segafinantsvaldusettevõtja suhtes Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 artiklit 7 või 8.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(5) Kui käesoleva paragrahvi lõikes 4 sätestatu ei ole rakendatav, on inspektsioonil kokkuleppel teiste asjassepuutuvate väärtpaberiturujärelevalve asutustega õigus kasutada muid mooduseid, mis tagavad konsolideerimisgruppi kuuluva investeerimisühingu tegevuse üle Euroopa Liidu õigusaktides kehtestatud nõuetele vastava konsolideeritud järelevalvega samaväärse järelevalve.
+
+(6) Käesoleva paragrahvi lõike 5 kohaselt kasutatavast moodusest teavitab inspektsioon teisi asjassepuutuvaid väärtpaberiturujärelevalve asutusi, Euroopa Komisjoni, Euroopa Pangandusjärelevalve Asutust ja Euroopa Väärtpaberiturujärelevalve Asutust.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(7) Inspektsiooni järelevalvetegevus hõlmab lepinguriigi investeerimisühingu filiaali likviidsuse ja aruandluse kontrollimist koostöös investeerimisühingu päritoluriigi väärtpaberiturujärelevalve asutusega.
+
+(8) Kui investeerimisühing kuulub finantskonglomeraati krediidiasutuste seaduse § 110<sup>1</sup> tähenduses, teostatakse täiendavat järelevalvet investeerimisühingu kui finantskonglomeraadi üksuse üle vastavalt krediidiasutuste seaduse 9<sup>1</sup>. peatükis sätestatule.
+
+\[RT I, 12.07.2013, 2 - jõust. 22.07.2013\]
+
+(9) \[Kehtetu - RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+(10) Inspektsioon arvestab järelevalve teostamisel investeerimisühingu tegevuse iseloomu, keerukust, ulatust ja olulisust ning sellele vastavate riskide hajutamise ja maandamise mehhanismide mõju, riskide geograafilist paiknemist ja investeerimisühingu ärimudelit.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+#### § 230<sup>2</sup>. Järelevalve turu korraldaja üle
+
+Inspektsiooni järelevalvetegevus hõlmab:
+
+1\) kõiki turu korraldajaid, kelle registrisse kantud asukoht on Eesti (edaspidi *Eesti turu korraldaja*), välja arvatud juhul, kui seoses aruandlusteenuse osutamisega teostab investeerimisühingu üle järelevalvet Euroopa Väärtpaberiturujärelevalve Asutus;
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+2\) Eesti turu korraldajate välisriikides paiknevaid tütarettevõtjaid korraldaja kaudu, kui välisriigi väärtpaberiturujärelevalve asutusega ei ole kokku lepitud teisiti;
+
+3\) lepinguriikide turu korraldajate piiriülese teenuse osutamist käesolevas seaduses sätestatud ulatuses.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 230<sup>3</sup>. Inspektsiooni õigused teabe saamisel
+
+(1) Inspektsioonil on järelevalve teostamiseks õigus saada tasuta teavet, dokumente ja selgitusi füüsiliselt ja juriidiliselt isikult, samuti valitsusasutustest ja järelevalveorganitest ning riigi ja kohaliku omavalitsuse andmekogudest.
+
+(2) Lisaks käesoleva paragrahvi lõikes 1 sätestatule on inspektsioonil õigus teha käesoleva seaduse § 230 lõikes 3 sätestatud juhul päring elektroonilise side seaduse § 111<sup>1</sup> lõigetes 2 ja 3 sätestatud andmete saamiseks.
+
+\[RT I, 29.06.2012, 2 - jõust. 01.01.2013\]
+
+(2<sup>1</sup>) Investeerimisühing peab tagama käesoleva seaduse § 230 lõike 5 punktis 7 nimetatud juhtimiskorralduse läbivaatamiseks ja juhtide pädevuse hindamiseks inspektsioonile täieliku juurdepääsu juhtorgani ja selle komiteede koosolekute päevakordadele, protokollidele ja lisadokumentidele ning juhtorgani tegevuse sise- ja välishindamise tulemustele.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(2<sup>2</sup>) Inspektsioonil on järelevalve teostamiseks õigus saada teavet igat liiki andmekandjatel, sealhulgas dokumente raamatupidamisarvestuse kohta, investeerimisühingult, investeerimisvaldusettevõtjalt, segafinantsvaldusettevõtjalt, segavaldusettevõtjalt ning investeerimisühinguga samasse konsolideerimisgruppi kuuluvalt muult äriühingult ja kolmandalt isikult, kellele nimetatud ettevõtja on tegevused edasi andnud, ning saada suulisi ja kirjalikke selgitusi nimetatud ettevõtjate esindajatelt ja töötajatelt.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(3) Inspektsioonil on järelevalve teostamiseks õigus otse ja viivitamata saada krediidiasutuselt ning Eesti väärtpaberite registri pidajalt teavet väärtpaberituru kutselise osalise, emitendi, investori ning siseteavet valdava isiku pangakonto ja väärtpaberikonto käibe ja saldo kohta. Inspektsioonil on õigus põhjendatud kahtluse korral, et tegu on õigusrikkumisega, esitada kohtule motiveeritud avaldus kontode kasutamise piiramiseks.
+
+\[RT I, 26.06.2017, 1 - jõust. 06.07.2017\]
+
+(4) Inspektsioonil on õigus esitada päring teabe saamiseks otse Eesti turu korraldaja lepinguriigi kaugliikmele, teavitades sellisest teabenõudest lepinguriigi väärtpaberiturujärelevalve asutust.
+
+(5) Vajaduse korral võib inspektsioon kohustada isikut ilmuma selgituste andmiseks inspektsiooni määratud ajal inspektsiooni ametiruumidesse.
+
+(6) Käesoleva paragrahvi lõike 3 esimeses lauses nimetatud isikutel ei ole õigust edastada teavet käesoleva paragrahvi lõikes 3 sätestatud inspektsiooni järelepärimise kohta oma klientidele või isikutele, keda järelepärimine puudutas.
+
+(7) Lepinguriigi väärtpaberiturujärelevalve asutuse nõudmisel on lepinguriigi turu korraldaja turu kaugliikmeks olev Eestis registreeritud isik kohustatud andma andmeid selle lepinguriigi väärtpaberiturujärelevalve asutusele, kui nimetatud asutus on sellest teavitanud inspektsiooni.
+
+(8) Vajaduse korral võib inspektsioon teha korralduse, milles ta määrab käesoleva paragrahvi lõikes 1, 3 või 5 sätestatud kohustuse täitmiseks tähtaja.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 231. Teabe saamine ja kontode kasutamise peatamine
+
+(1) \[Kehtetu - RT I, 29.06.2012, 2 - jõust. 01.01.2013\]
+
+(2) Käesoleva seaduse § 230<sup>3</sup> lõikes 2 sätestatud päringute tegemiseks peab korralduse andma inspektsiooni juhatuse liige vastavalt Finantsinspektsiooni seaduse § 22<sup>1</sup> lõikele 1.
+
+(3) Inspektsioon ei ole kohustatud käesoleva seaduse § 230<sup>3</sup> lõigetes 1–3 sätestatud teavet esimesena küsima selle esmaselt allikalt.
+
+(4) Loa andmise käesoleva seaduse § 230<sup>3</sup> lõikes 2 sätestatud päringute tegemiseks otsustab kohus halduskohtumenetluse seadustiku haldustoiminguks loa andmise sätete järgi.
+
+\[RT I, 23.02.2012, 3 - jõust. 01.01.2012\]
+
+(5) Pärast käesoleva seaduse § 230<sup>3</sup> lõikes 3 nimetatud avalduse saamist vaatab kohus asja ühe tööpäeva jooksul läbi ja otsustab kontode arestimise.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 231<sup>1</sup>. Selgituse andmisest keeldumise alused
+
+Selgituse andmiseks kohustatud isik võib keelduda inspektsioonile selgituse andmisest kriminaalmenetluse seadustiku §-s 71 või 73 sätestatud alustel.
+
+\[RT I 2005, 13, 64 - jõust. 01.04.2005\]
+
+#### § 231<sup>2</sup>. Menetlusosalise ja tunnistaja kaugülekuulamine
+
+(1) Inspektsioon võib korraldada menetlusosalise ja tunnistaja kaugülekuulamise, kui vahetu ülekuulamine on raskendatud või põhjustab ülemääraseid kulutusi. Kaugülekuulamisel saadud tõendid on samaväärsed teiste tõenditega.
+
+(2) Kaugülekuulamine tähendab käesolevas seaduses ülekuulamist:
+
+1\) tehnilise lahenduse abil, mille puhul inspektsiooni töötajad otseülekandena vahetult näevad ja kuulevad inspektsioonis mitteviibiva menetlusosalise seletuse või tunnistaja ütluse andmist ja saavad talle küsimusi esitada;
+
+2\) telefoni teel, mille puhul inspektsiooni töötajad vahetult kuulevad inspektsioonis mitteviibiva menetlusosalise seletuse või tunnistaja ütluse andmist ja saavad talle küsimusi esitada.
+
+(3) Kaugülekuulamine telefoni teel on lubatud vaid menetlusosalise või tunnistaja nõusolekul.
+
+\[RT I 2005, 13, 64 - jõust. 01.04.2005\]
+
+#### § 231<sup>3</sup>. Menetlusosalise õigused ja kohustused järelevalvemenetluses
+
+(1) Inspektsioon selgitab vajaduse korral menetlusosalisele tema õigusi ja kohustusi järelevalvemenetluses.
+
+(2) Menetlusosalisel on õigus tutvuda inspektsiooni poolt tema kohta kogutud andmetega ning teha neist koopiaid ja väljavõtteid. Inspektsioonil on õigus andmete esitamisest keelduda, kui see kahjustab või võib kahjustada kolmanda isiku õigustatud huve või andmetega tutvumine takistab või võib takistada järelevalve eesmärkide saavutamist või võib ohustada tõe väljaselgitamist kriminaalmenetluses.
+
+(3) Menetlusosalisel on õigus järelevalvemenetluses esitada inspektsiooni kaudu tunnistajale küsimusi. Inspektsioonil on õigus põhjendatult keelduda küsimuste edastamisest tunnistajale.
+
+(4) Kui menetlusosaline jätab haldusmenetluses inspektsiooni kutsel seadusliku takistuseta ilmumata, võib inspektsioon kohaldada järgmisi meetmeid:
+
+1\) kohaldada menetlusosalise suhtes sunniraha;
+
+2\) kohaldada politsei abil sundtoomist.
+
+\[RT I 2005, 13, 64 - jõust. 01.04.2005\]
+
+#### § 231<sup>4</sup>. Välisriigist saadud tõendid
+
+Käesoleva seaduse alusel teostatavas haldusmenetluses on lubatud kasutada välisriigis selle riigi seaduste kohaselt kogutud tõendeid, kui tõendi saamiseks tehtud menetlustoiming ei ole vastuolus käesolevas seaduses ja haldusmenetluse seaduses sätestatud haldusmenetluse põhimõtetega.
+
+\[RT I 2005, 13, 64 - jõust. 01.04.2005\]
+
+#### § 231<sup>5</sup>. Vara kasutamise ja käsutamise piiramine
+
+(1) Inspektsioon võib turukuritarvituse kahtluse korral oma ettekirjutusega kehtestada varale kasutamise või käsutamise keelu või piirangu vara säilimise tagamiseks kuni kümneks tööpäevaks ettekirjutuse jõustumisest arvates.
+
+\[RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+(2) Konto kasutamise piirangu kehtimise ajal ei täida krediidi- ja finantseerimisasutused neile inspektsiooni poolt teatavaks tehtud keelu või piirangu adressaadiks oleva konto valdaja või kolmanda isiku poolt kontol oleva vara kasutamiseks või käsutamiseks tehtud korraldust.
+
+(3) Inspektsioon vabastab vara käesoleva paragrahvi lõikes 1 nimetatud keelust või piirangust pärast samas lõikes nimetatud tähtaja möödumist. Kui turukuritarvituse kahtlus langeb ära enne käesoleva paragrahvi lõikes 1 nimetatud tähtaja möödumist, on inspektsioon kohustatud vara vabastama viivitamata.
+
+\[RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+(4) Vara kasutamist ja käsutamist saab keelata või piirata käesoleva paragrahvi lõikes 1 toodust pikemaks ajaks üksnes juhul, kui asjas on alustatud kriminaalmenetlus. Kui asjas on alustatud kriminaalmenetlus, toimub keelamine, piiramine või vara vabastamine vastavalt kriminaalmenetlust reguleerivas seaduses sätestatud korrale.
+
+\[RT I 2005, 13, 64 - jõust. 01.04.2005\]
+
+#### § 231<sup>6</sup>. Inspektsiooni õigus teavet avalikustada ja hoiatusi anda
+
+\[RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+(1) Inspektsioonil on õigus avalikustada teavet, mille avalikustamise kohustus tuleneb õigusaktist, kui sellist teavet ei ole nõuetekohaselt avalikustatud või kui avalikustatud on vale- või eksitavat teavet.
+
+\[RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+(2) Inspektsioonil on õigus avalikkust hoiatada Euroopa Parlamendi ja nõukogu määruses (EL) nr 596/2014 ning käesoleva seaduse 3., 3<sup>1</sup>. ja 4. osas sätestatud kohustuse rikkumise eest, märkides ära rikkumise eest vastutava isiku ja rikkumise laadi.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 232. Kohapealne kontroll
+
+(1) Inspektsioonil on järelevalve teostamiseks õigus kohapeal kontrollida väärtpaberituru kutselist osalist ja sellist emitenti, kelle poolt emiteeritud väärtpaberitega kaubeldakse reguleeritud turul või kelle väärtpabereid pakutakse avalikult või on avalikult pakutud viimase viie aasta jooksul. Lisaks on inspektsioonil järelevalve teostamiseks õigus korraldada investeerimisühinguga samasse konsolideerimisgruppi kuuluva äriühingu, samuti välisriigi krediidiasutuse Eesti filiaali asukohas kohapealset kontrolli.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(2) Kohapealne kontroll viiakse läbi, kui:
+
+1\) on vaja kontrollida esitatud andmeid;
+
+2\) inspektsioonil on kahtlus, et on rikutud käesolevas seaduses või Finantsinspektsiooni seaduse § 2 lõikes 1 või 2 nimetatud õigusaktides või nende alusel sätestatut;
+
+3\) see on vajalik järelevalveülesannete täitmiseks;
+
+4\) see on lepinguriigi väärtpaberiturujärelevalve asutuse vastava taotluse alusel vajalik.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(3) Inspektsioon teeb kohapealse kontrolli läbiviimiseks korralduse, kuhu märgitakse kontrolli eesmärk, ulatus, perioodi pikkus ning kontrollimise aeg. Korraldus toimetatakse kontrollitavale kätte hiljemalt kolm tööpäeva enne kohapealse kontrolli algust, välja arvatud juhul, kui korraldusest etteteatamine ohustaks kontrolli eesmärgi saavutamist. Kohapealset kontrolli teostab inspektsiooni volitatud töötaja, kui käesolevas seaduses ei ole ette nähtud teisiti.
+
+(4) Kohapealsel kontrollimisel on kontrollijal õigus:
+
+1\) siseneda kõikidesse ruumidesse ja võtta oma valdusse andmeid;
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+2\) kasutada tööks vajalikke tingimusi ja eraldi ruumi;
+
+3\) piiranguteta uurida järelevalve teostamisel vajalikke dokumente ja andmekandjaid ning teha nendest väljavõtteid, koopiaid ja ärakirju ning jälgida tööprotsesse;
+
+4\) saada suulisi ja kirjalikke selgitusi kontrollitava juhtidelt ja töötajatelt. Vajaduse korral või selgituste andja nõudmisel selgitused protokollitakse.
+
+(5) Kontrollitava juhatus on kohustatud määrama kompetentse esindaja, kelle juuresolekul kontrollimine toimub ning kes esitab kontrollijale tema ülesannete täitmiseks vajalikke dokumente ja muud teavet, kaasa arvatud kontrollitava aruannete kohta audiitori poolt tehtud vandeaudiitori aruanded ja audiitori eriotstarbelised raportid, ning annab nende kohta vajalikke selgitusi.
+
+\[RT I 2010, 9, 41 - jõust. 08.03.2010\]
+
+(6) Käesoleva paragrahvi lõike 2 punktis 4 nimetatud juhul võib inspektsioon volitada kohapealset kontrolli läbi viima lepinguriigi väärtpaberiturujärelevalve asutust või tema poolt nimetatud audiitorit või eksperti.
+
+\[RT I 2005, 13, 64 - jõust. 01.04.2005\]
+
+#### § 232<sup>1</sup>. Kohapealse kontrolli akt
+
+(1) Kontrollija on kohustatud koostama kohapealse kontrollimise tulemuste kohta hiljemalt kolme kuu jooksul pärast kohapealse kontrolli lõppemist akti, mille inspektsioon toimetab kontrollitavale viivitamata kätte.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(2) Kontrollitava juhil ja töötajal on õigus ühe kuu jooksul, arvates akti kättetoimetamisest, esitada kirjalikke selgitusi.
+
+(3) Pärast kontrollitava kirjalike selgituste läbivaatamist, kuid mitte hiljem kui viie kuu jooksul pärast kohapealse kontrolli lõppemist, koostab inspektsioon lõpliku akti, mis toimetatakse kontrollitavale kätte.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(4) \[Kehtetu - RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(5) Kui pärast kohapealset kontrolli või kontrollitava kirjalike selgituste saamist selguvad lisahindamist vajavad asjaolud või inspektsioon saab lisateavet, võib inspektsioon käesoleva paragrahvi lõikes 1 nimetatud akti või lõikes 3 nimetatud lõpliku akti koostamise tähtaega pikendada kuni kahe kuu võrra. Kui lõplikus aktis tehakse sellel perioodil olulisi muudatusi, saadab inspektsioon selle kontrollitavale kirjalike selgituste saamiseks uuesti.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(6) Inspektsioon võib lõpliku aktiga määrata kontrollitavale puuduste kõrvaldamise tähtaja või muid kohustusi ja rakendada nende täitmata jätmise või ebakohase täitmise korral sunniraha.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(7) Inspektsioonil on õigus kohapealse kontrolli lõplik akt või selle osa avalikustada, kui see on investorite ja finantsjärelevalve subjekti klientide huvides ning finantssektori stabiilsuse ja läbipaistvuse tagamiseks vajalik.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+#### § 233. Ekspertiis ja erakorraline audiitorkontroll järelevalvemenetluses
+
+(1) Inspektsioon võib eriteadmisi nõudvate tähtsust omavate asjaolude selgitamiseks kaasata järelevalvemenetlusse eksperdi.
+
+(2) Inspektsioonil on õigus nõuda erakorralise audiitorkontrolli läbiviimist, kui:
+
+1\) on põhjendatud kahtlus, et inspektsioonile või avalikkusele esitatud aruanne või teave on eksitav või tegelikkusele mittevastav;
+
+2\) on tehtud tehinguid, mille tulemusel võidakse tekitada või on tekitatud investeerimisühingule, reguleeritud turu korraldajale, väärtpaberiarveldussüsteemi korraldajale, emitendile või temaga samasse konsolideerimisgruppi kuuluvale äriühingule või nende klientidele või investoritele olulist kahju;
+
+3\) järelevalvemenetluses vajab täiendavat selgitamist investeerimisühingu, reguleeritud turu korraldaja, väärtpaberiarveldussüsteemi korraldaja, emitendi, investori või nendega samasse konsolideerimisgruppi kuuluva äriühingu finantsseisundiga seotud muu oluline küsimus.
+
+(3) Inspektsioon kaasab eksperdi või erakorraliseks audiitorkontrolliks audiitori omal algatusel või menetlusosalise taotlusel. Eksperdi või audiitori nimi ja tema kaasamise põhjus tehakse menetlusosalisele teatavaks enne eksperdi või audiitori kaasamist, välja arvatud juhul, kui asja on vaja menetleda kiiresti või kui teavitamine võib takistada ekspertiisi või erakorralise audiitorkontrolli eesmärgi saavutamist.
+
+(4) Kui ekspert või erakorralist audiitorkontrolli teostav audiitor teeb kindlaks järelevalvemenetluses tähtsust omavaid asjaolusid, mille selgitamist ei olnud inspektsioon talle otseselt ülesandeks teinud, esitab ta oma arvamuse või hinnangu ka nende asjaolude kohta.
+
+(5) Eksperdil või erakorralist audiitorkontrolli teostaval audiitoril on õigus kasutada käesoleva seaduse § 232 lõikes 4 sätestatud õigusi üksnes temale antud ülesannete täitmise eesmärgil ning taotleda inspektsioonilt ja menetlusosalistelt täiendavaid andmeid ja dokumente. Ekspert või erakorralist audiitorkontrolli teostav audiitor võib kasutada käesoleva seaduse § 232 lõike 4 punktis 1 sätestatud õigust üksnes kontrollitava loal või tema juuresolekul. Ekspert on kohustatud hoidma saladuses avalikustamisele mittekuuluvat teavet, mis sai talle teatavaks seoses eksperdiülesannete täitmisega.
+
+(6) Ekspertiisi või erakorralise audiitorkontrolli kulud kaetakse inspektsiooni eelarvest. Kui ekspert või audiitor kaasatakse menetlusosalise taotlusel, tasub ekspertiisi või erakorralise audiitorkontrolli kulud menetlusosaline.
+
+\[RT I 2005, 13, 64 - jõust. 01.04.2005\]
+
+#### § 234. Ettekirjutus
+
+(1) Inspektsioonil on õigus teha ettekirjutusi:
+
+1\) kui järelevalve tulemusel on avastatud õigusakti rikkumine;
+
+\[RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+2\) õiguserikkumiste ärahoidmiseks või kui väärtpaberituru kutselise osalise poolt võetud riskid on oluliselt suurenenud või kui esineb muid tema tegevust, investorite või väärtpaberituru kui terviku huve või usaldusväärsust ohustavaid või ohustada võivaid asjaolusid;
+
+3\) kui see on vajalik investorite kaitseks või turu läbipaistvuse tagamiseks, kaasa arvatud juhul, kui väärtpaber, investeerimishoius või muu finantstegevus või -tava ohustab finants-, väärtpaberi-, toorme- või kaubaturgude korrapärast toimimist või usaldusväärsust või finantssüsteemi stabiilsust vähemalt ühes lepinguriigis, samuti kui tuletisinstrumendil on kahjulik mõju hinna kujunemisele alusvara turul;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+4\) kui Eesti Pank on teinud ettepaneku võtta meetmeid makse- ja arveldussüsteemide seaduses sätestatud juhul.
+
+\[RT I, 01.03.2023, 3 - jõust. 11.03.2023\]
+
+(1<sup>1</sup>) \[Kehtetu - RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(2) Inspektsiooni ettekirjutus jõustub ettekirjutuses märgitud ajal, kuid mitte enne selle kättetoimetamist ettekirjutuse adressaadile.
+
+(3) Ettekirjutus väljastatakse viivitamata saajale allkirja vastu.
+
+(4) Ettekirjutuse saaja peab pärast selle saamist viivitamata asuma selle täitmisele.
+
+(5) Ettekirjutuse peale võib esitada kaebuse halduskohtule vastavalt halduskohtumenetluse seadustikus sätestatule.
+
+(6) Kaebuse esitamine ja menetlemine ei peata ettekirjutuse täitmist, kui inspektsiooni poolt ei ole ette nähtud teisiti.
+
+\[RT I 2005, 13, 64 - jõust. 01.04.2005\]
+
+#### § 234<sup>1</sup>. Sunniraha
+
+(1) Inspektsioon võib käesoleva seaduse alusel tehtud ettekirjutuse või muu haldusakti täitmata jätmise või ebakohase täitmise korral rakendada sunniraha asendustäitmise ja sunniraha seaduses sätestatud korras.
+
+(2) Haldusakti täitmata jätmise või ebakohase täitmise korral on sunniraha ülemmäär füüsilise isiku puhul esimesel korral kuni 5000 eurot ja järgmistel kordadel kuni 50 000 eurot ühe ja sama kohustuse täitmisele sundimiseks, kuid olenevalt sellest, kumb summa on suurem, kokku kuni 5 000 000 eurot või kuni kolmekordsele rikkumise tulemusel teenitud kasumile või kuni kolmekordsele rikkumise tulemusel ära hoitud kahjumile vastav summa, kui sellist kasumit või kahjumit on võimalik kindlaks teha.
+
+\[RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+(3) Haldusakti täitmata jätmise või ebakohase täitmise korral on sunniraha ülemmäär juriidilise isiku puhul esimesel korral kuni 32 000 eurot ja järgmistel kordadel kuni 100 000 eurot ühe ja sama kohustuse täitmisele sundimiseks, kuid olenevalt sellest, milline summa on suurem, kokku kuni 15 000 000 eurot või kuni 15 protsenti aastasest kogukäibest vastavalt viimasele kättesaadavale juhtimisorgani kinnitatud raamatupidamise aastaaruandele või kuni kolmekordsele rikkumise tulemusel teenitud kasumile või kuni kolmekordsele rikkumise tulemusel ära hoitud kahjumile vastav summa, kui sellist kasumit või kahjumit on võimalik kindlaks teha. Kui juriidiline isik on emaettevõtja või sellise emaettevõtja tütarettevõtja, kes peab koostama konsolideeritud raamatupidamise aruandeid, siis on käesoleva lõike eelmises lauses nimetatud kogukäive kas aastane kogukäive või asjaomase tululiigi kogukäive viimase kättesaadava konsolideeritud raamatupidamise aastaaruande järgi, mille on heaks kiitnud kõrgeima taseme emaettevõtja juhtimisorgan.
+
+\[RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+(4) Inspektsioon võib rakendada kuni kuueks kuuks vastava otsuse teatavakstegemisest arvates sunniraha:
+
+1\) kuni kolm protsenti eelmise majandusaasta keskmisest päevasest käibest iga päeva eest, mil rikkumine jätkub, kuni kohustus on täidetud või kuni selle täitmist jätkatakse, et sundida finantssektori vastaspoolt või finantssektorivälist vastaspoolt rikkumist lõpetama, kui see vastaspool on Euroopa Parlamendi ja nõukogu määruse (EL) nr 648/2012 artiklist 7a tulenevad kohustused täitmata jätnud;
+
+2\) kuni ühe protsendi ulatuses eelmise majandusaasta keskmisest päevasest käibest iga päeva eest, mil rikkumine jätkub, kuni kohustus on täidetud või kuni selle täitmist jätkatakse, vastaspooltele, kelle suhtes kohaldatakse Euroopa Parlamendi ja nõukogu määruse (EL) nr 648/2012 artikli 9 kohast aruandluskohustust, kui esitatud andmetes on palju korduvaid ja ilmseid vigu.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(5) Inspektsioon võib käesoleva paragrahvi lõikes 4 sätestatud kuuekuulise ajavahemiku möödumisel sama lõike punkti 1 alusel määratud sunniraha rakendamist pikendada.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+#### § 235. Õigused ettekirjutuse tegemisel
+
+Inspektsioonil on õigus ettekirjutusega:
+
+1\) keelata teatud tehingute või toimingute tegemine või piirata nende mahtu;
+
+1<sup>1</sup>) Euroopa Parlamendi ja nõukogu määruse (EL) nr 596/2014 artikli 30 lõike 1 punktis a viidatud rikkumise korral keelata investeerimisühingus, võrdlusaluse halduris või järelevalvealuses sisendandmete esitajas juhtimiskohustusi täitval isikul nimetatud määruse tähenduses või muul füüsilisel isikul, kes rikkumise eest vastutab, ajutiselt oma arvel väärtpaberitehingute tegemine;
+
+\[RT I, 30.12.2025, 1 - jõust. 05.06.2026\]
+
+1<sup>2</sup>) keelata, piirata või ajutiselt peatada väärtpaberi või investeerimishoiuse turustamine või muu finantstegevus või -tava Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artiklites 40–42 sätestatud korras ja tingimustel;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+2\) keelata osaliselt või täielikult kasumist tehtavad väljamaksed, muu hulgas piirata investeerimisühingu väljamakseid või intressimakseid aktsionäridele, osanikele või täiendavatesse esimese taseme omavahenditesse kuuluvate instrumentide omanikele või need keelata, kui piiramine või keelustamine ei too kaasa käesolevas seaduses sätestatud kohustuste täitmata jätmist;
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+2<sup>1</sup>) nõuda investeerimisühingu juhatuse liikmete või aktsiaemitendi juhtide tulemustasude vähendamist, nende maksmise peatamist või tehtud maksete tagastamist vastavalt käesoleva seaduse § 79<sup>1</sup> lõikes 3 sätestatule või kui esineb käesoleva seaduse § 135<sup>2</sup> lõikes 7 sätestatud alus;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+2<sup>2</sup>) nõuda investeerimisühingu juhi või võtmeisiku tagasikutsumist või tema volituste ajutist peatamist;
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+2<sup>3</sup>) nõuda investeerimisühingu vandeaudiitori vahetamist, kui ta ei täida käesoleva seaduse §-s 113 sätestatud teavitamiskohustust;
+
+\[RT I, 02.06.2021, 1 - jõust. 12.06.2021\]
+
+3\) nõuda emitendilt või muult isikult teabe viivitamatut avalikustamist, kui sellise teabe avalikustamise kohustus tuleneb õigusaktist, ja emitendi või muu isiku avalikustatud või levitatud vale- või eksitava teabe kohta parandusteate avalikustamist;
+
+\[RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+3<sup>1</sup>) nõuda käesoleva seaduse § 184 lõikes 1 nimetatud emitendilt, selle emitendi juhtidelt, aktsionäridelt ja isikutelt, kellele kuuluvad emitendi väärtpaberitest tulenevad hääleõigused vastavalt käesoleva seaduse § 10 lõikele 3, korraldatud teabe või muu teabe ja dokumentide avalikustamist inspektsiooni poolt määratud vahendite abil ning inspektsiooni poolt määratud tähtaja jooksul;
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+4\) nõuda väärtpaberituru kutselise osalise tegevuskulude piiramist;
+
+5\) nõuda väärtpaberituru kutselise osalise sise-eeskirjade ja protseduurireeglite muutmist;
+
+5<sup>1</sup>) nõuda investeerimisühingu ja aktsiaemitendi tasustamise põhimõtete muutmist;
+
+\[RT I, 24.03.2011, 1 - jõust. 03.04.2011\]
+
+6\) teha väärtpaberituru kutselise osalise nõukogule ettepanek juhatuse liikme tagasikutsumiseks või nõuda juhatuse liikme volituste ajutist peatamist;
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+7\) teha ettepanek väärtpaberituru kutselise osalise aktsionäride üldkoosolekule nõukogu liikme tagasikutsumiseks või nõuda nõukogu liikme volituste ajutist peatamist;
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+7<sup>1</sup>) nõuda investeerimisühingult või reguleeritud turu korraldajalt kauplemiskohas väärtpaberiga kauplemise peatamist või lõpetamist;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+7<sup>2</sup>) nõuda igaühelt õigusaktiga sätestatud kohustuse või nõude rikkumise või muu ebaseadusliku tegevuse peatamist või lõpetamist ja kohustada rikkumise eest vastutavat isikut hoiduma selle kordamisest;
+
+\[RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+7<sup>3</sup>) teha reguleeritud turul kaubeldava väärtpaberi emitendi üldkoosolekule ettepanek audiitori vahetamiseks;
+
+7<sup>4</sup>) nõuda turu korraldajalt, investeerimisühingult ja emitendilt välisriigi õigusaktide nõuete rikkumise lõpetamist;
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+7<sup>5</sup>) keelata lepinguriigi turu korraldajal ja investeerimisühingul Eestis või Eesti turu korraldajal ja investeerimisühingul lepinguriigis tegutsemine või piiriülese teenuse osutamine;
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+7<sup>6</sup>) nõuda Tagatisfondi seaduses ettenähtud osamakse tasumist;
+
+7<sup>7</sup>) käesoleva seaduse §-s 185 sätestatud häälte arvust teavitamise kohustuse rikkumise korral keelata käesoleva seaduse § 184 lõikes 1 nimetatud emitendi aktsiakapitalis otsest või kaudset osalust omaval isikul hääleõiguse või muude kontrolli võimaldavate õiguste teostamine või piirata seda;
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+7<sup>8</sup>) ajutiselt piirata investeerimisühingul osalise või kliendina kauplemiskohas osaleda;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+7<sup>9</sup>) nõuda kellelt tahes positsiooni või riskipositsiooni suuruse vähendamist;
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+7<sup>10</sup>) piirata kelle tahes õigust kaubatuletisinstrumentidesse investeerida, sealhulgas kaubatuletisinstrumentide positsioonipiirangute kehtestamisega;
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+7<sup>11</sup>) Euroopa Parlamendi ja nõukogu määruse (EL) nr 596/2014 artikli 30 lõike 1 punktis a viidatud rikkumise korral keelata investeerimisühingus juhtimiskohustusi täitval isikul nimetatud määruse tähenduses või muul füüsilisel isikul, kes rikkumise eest vastutab, ajutiselt juhtimiskohustuste täitmine investeerimisühingutes, võrdlusaluste haldurites või järelevalvealustes sisendandmete esitajates;
+
+\[RT I, 30.12.2025, 1 - jõust. 05.06.2026\]
+
+7<sup>12</sup>) Euroopa Parlamendi ja nõukogu määruse (EL) nr 596/2014 artiklis 14 või 15 sätestatud keelu korduva rikkumise korral keelata investeerimisühingus, võrdlusaluste halduris või järelevalvealuses sisendandmete esitajas juhtimiskohustusi täitval isikul nimetatud määruse tähenduses või muul füüsilisel isikul, kes rikkumise eest vastutab, vähemalt kümneks aastaks juhtimiskohustuste täitmine investeerimisühingutes, võrdlusaluste haldurites või järelevalvealustes sisendandmete esitajates;
+
+\[RT I, 30.12.2025, 1 - jõust. 05.06.2026\]
+
+8\) esitada muid nõudmisi väärtpaberituru kutselise osalise tegevust reguleerivate õigusaktide täitmiseks;
+
+\[RT I 2009, 61, 401 - jõust. 26.12.2009\]
+
+9\) nõuda, et investeerimisühingul oleks lisaks Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 artiklis 11 nõutule rohkem omavahendeid, või kohandada nõutavaid omavahendeid ja likviidset vara asjaomase investeerimisühingu äritegevuse olulise muutuse korral;
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+10\) nõuda, et investeerimisühing esitaks ühe aasta jooksul käesoleva seaduse ning Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 kohastele järelevalvenõuetele vastavuse taastamise kava, määraks selle rakendamise tähtaja ning korrigeeriks kava ulatust ja rakendamise tähtaega;
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+11\) nõuda, et investeerimisühing kohaldaks spetsiifilist eraldiste tegemise korda või varade käsitlemist omavahendite nõuetest tulenevalt;
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+12\) nõuda investeerimisühingu tegevuse, toodete ja süsteemidega seotud riskide vähendamist, sealhulgas tegevuse edasiandmise puhul;
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+13\) nõuda, et investeerimisühing kehtestaks käesoleva seaduse §-s 79<sup>3</sup> sätestatud tulemustasule piirangu, mis vastab teatavale protsendile netosissetulekust, kui tulemustasu ei ole kooskõlas tugeva kapitalibaasi säilitamisega;
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+14\) nõuda, et investeerimisühing kasutaks puhaskasumit omavahendite tugevdamiseks;
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+15\) nõuda käesolevas seaduses ning Euroopa Parlamendi ja nõukogu määruses (EL) 2019/2033 sätestatud nõuetega võrreldes täiendavat või sagedasemat aruandlust, sealhulgas kapitali- ja likviidsuspositsioonide kohta;
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+16\) nõuda likviidsuse erinõuete kehtestamist vastavalt käesoleva seaduse §-s 236<sup>13</sup> sätestatud tingimustele;
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+17\) nõuda, et investeerimisühing vähendaks ohte võrgu- ja infosüsteemide turvalisusele, et tagada investeerimisühingute protsesside, andmete ja vara konfidentsiaalsus, terviklikkus ja kättesaadavus;
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+18\) peatada selliste emitendi rahastatud analüüside levitamine investeerimisühingu poolt, mis ei ole koostatud kooskõlas käesoleva seaduse § 85<sup>8</sup> lõikes 2 nimetatud tegevusjuhendiga;
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+19\) nõuda, et investeerimisühingud vähendaksid keskse vastaspoole suhtes olevaid riskipositsioone või korrigeeriksid riskipositsioone oma kliiringukontodel kooskõlas Euroopa Parlamendi ja nõukogu määruse (EL) nr 648/2012 artikliga 7a, kui inspektsioon leiab, et selle keskse vastaspoole suhtes esineb ülemäärane kontsentratsioonirisk.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+#### § 236. Väärtpaberituru kutselise osalise juhtimisorganite kokkukutsumine ja nendes osalemine
+
+(1) Inspektsioonil on õigus teha ettekirjutus:
+
+1\) väärtpaberituru kutselise osalise juhatuse, nõukogu või üldkoosoleku kokkukutsumiseks;
+
+2\) inspektsiooni arvamuse kohaselt vajaliku küsimuse juhatuse, nõukogu või üldkoosoleku päevakorda võtmiseks.
+
+(2) Inspektsioon võib saata koosolekule oma esindaja, kellel on õigus esitada oma seisukohti ja teha ettepanekuid ning nõuda nende protokolli kandmist.
+
+#### § 236<sup>1</sup>. Järelevalve välisriigi investeerimisühingu Eesti äriregistrisse kantud filiaali ja Eestis teenuseid osutava välisriigi investeerimisühingu ning turu korraldaja üle
+
+(1) Inspektsioon võib nõuda välisriigi investeerimisühingult, kelle filiaal on registreeritud Eestis või kes osutab Eestis piiriüleseid teenuseid, lisaandmeid ja -dokumente, mis on vajalikud tema üle järelevalve teostamiseks käesolevas seaduses sätestatud ulatuses, samuti andmeid, mis on vajalikud statistika kogumise eesmärgil, kuid mitte suuremas mahus, kui seda esitavad Eesti investeerimisühingud. Inspektsioonil on õigus ettekirjutusega nõuda käesoleva seaduse § 79<sup>1</sup> lõigetes 2 ja 4, § 85 lõikes 1, §-des 85<sup>2</sup>, 85<sup>4</sup>–87<sup>6</sup> ja 89<sup>1</sup> ning Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artiklites 14–26 sätestatud ja nende täpsustamiseks või nende alusel kehtestatud õigusaktides sätestatud kohustuste täitmist või täitmise takistuste kõrvaldamist seoses välisriigi investeerimisühingu või filiaali poolt Eesti territooriumi piires või Eestis elavatele või asuvatele isikutele osutatud investeerimisteenusega.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1<sup>1</sup>) Inspektsioon võib järelevalve eesmärgil, kui see on Eesti finantssüsteemi stabiilsuse seisukohast asjakohane, teostada kohapealset kontrolli ja uurida Eestis asuvate teises lepinguriigis asutatud investeerimisühingute filiaalide tegevust ning nõuda filiaalilt teavet tema tegevuse kohta, konsulteerides enne viivitamata lepinguriigi väärtpaberiturujärelevalve asutusega. Esimesel võimalusel pärast kontrolli teostamist ja uurimise lõppu edastab inspektsioon vastavale järelevalveasutusele saadud teabe ja tuvastatud asjaolud, mis on asjaomase investeerimisühingu riskihindamise seisukohast olulised.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(1<sup>2</sup>) Teise lepinguriigi väärtpaberiturujärelevalve asutus võib pärast inspektsioonile teatamist iseseisvalt või vahendajate kaudu kohapeal kontrollida käesoleva seaduse § 236<sup>2</sup> lõikes 4 nimetatud teavet vastava lepinguriigi Eesti filiaali kohta. Samuti võib lepinguriigi väärtpaberiturujärelevalve asutus iseseisvalt või vahendajate kaudu kohapeal kontrollida segavaldusettevõtjatelt ja nende tütarettevõtjatelt saadud teavet.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(2) Investeerimisühing, kelle filiaal on registreeritud Eestis või kes osutab Eestis piiriüleseid investeerimisteenuseid ja kelle tegevusloa on välisriigi väärtpaberiturujärelevalve asutus peatanud või kehtetuks tunnistanud, ei või Eestis tegutseda ega teenuseid osutada.
+
+\[RT I 2010, 7, 30 - jõust. 26.02.2010\]
+
+(3) Inspektsioon võib välisriigi investeerimisühingult või lepinguriigi reguleeritud turu korraldajalt, kes on Eestis registreerinud filiaali, või välisriigi investeerimisühingult või lepinguriigi turu korraldajalt, kes osutab Eestis piiriüleseid teenuseid, nõuda nende suhtes rakendatavates seadustes või nende seaduste alusel antud õigusaktides sätestatud nõuete rikkumise lõpetamist.
+
+\[RT I 2010, 7, 30 - jõust. 26.02.2010\]
+
+(4) Kui välisriigi investeerimisühing või tema Eesti äriregistrisse kantud filiaal rikub käesolevas seaduses või muus õigusaktis sätestatud nõuet, võib inspektsioon rakendada käesolevas seaduses sätestatud meetmeid rikkumise lõpetamiseks või tunnistada filiaali asutamise või piiriüleste teenuste osutamise loa kehtetuks.
+
+\[RT I 2010, 7, 30 - jõust. 26.02.2010\]
+
+(5) Kui välisriigi investeerimisühing või lepinguriigi turu korraldaja jätkab tema suhtes rakendatavates õigusaktides sätestatud nõuete rikkumist, teavitab inspektsioon sellest välisriigi väärtpaberiturujärelevalve asutust.
+
+\[RT I 2010, 7, 30 - jõust. 26.02.2010\]
+
+(6) Kui välisriigi väärtpaberiturujärelevalve asutuse poolt kasutusele võetud abinõud ei ole piisavad, võib inspektsioon oma ettekirjutusega rakendada käesolevas seaduses sätestatud meetmeid rikkumise lõpetamiseks või keelata oma ettekirjutusega välisriigi investeerimisühingul või lepinguriigi turu korraldajal Eestis tegutsemise või Eestis elavatele või asuvatele isikutele investeerimisteenuste osutamise, teavitades sellest eelnevalt välisriigi väärtpaberiturujärelevalve asutust. Välisriigi investeerimisühingu suhtes rakendatavatest meetmetest teavitab inspektsioon enne ka Euroopa Pangandusjärelevalve Asutust ja Euroopa Väärtpaberiturujärelevalve Asutust.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(7) Inspektsioon teatab rakendatud meetmetest välisriigi investeerimisühingule. Välisriigi investeerimisühing võib esitada rakendatud meetmete peale kaebuse Tallinna halduskohtule otse või filiaali kaudu.
+
+\[RT I 2010, 7, 30 - jõust. 26.02.2010\]
+
+(8) Erandjuhtudel võib inspektsioon investorite või avaliku huvi kaitse eesmärgil rakendada välisriigi investeerimisühingu ja lepinguriigi turu korraldaja suhtes õigusaktides sätestatud meetmeid ilma nendest eelnevalt välisriigi väärtpaberiturujärelevalve asutust teavitamata.
+
+\[RT I 2010, 7, 30 - jõust. 26.02.2010\]
+
+(9) Inspektsioon teeb käesoleva paragrahvi lõike 6 või 8 alusel rakendatud meetme viivitamata teatavaks Euroopa Komisjonile ja Euroopa Väärtpaberiturujärelevalve Asutusele ning välisriigi väärtpaberiturujärelevalve asutusele.
+
+\[RT I, 29.03.2012, 1 - jõust. 30.03.2012\]
+
+(10) Inspektsioon teeb lepinguriigi väärtpaberiturujärelevalve asutusega koostööd, kui:
+
+1\) selles lepinguriigis korraldatava kauplemiskoha toimingud on Eesti väärtpaberituru toimimise ja investorite kaitse seisukohast olulise tähtsusega;
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+2\) Eestis korraldatava kauplemiskoha toimingud on selle lepinguriigi väärtpaberituru toimimise ja sealse investorite kaitse seisukohast olulise tähtsusega.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(11) Inspektsioon võib Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 artikli 23 lõike 1 punktis c nimetatud tingimuse hindamiseks taotleda kliiriva liikme lepinguriigi järelevalveasutuselt teavet tagatise mudeli ja parameetrite kohta, mida kasutatakse asjaomase investeerimisühingu võimendustagatise nõude arvutamiseks.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+#### § 236<sup>2</sup>. Järelevalve välisriigis filiaali asutanud investeerimisühingu ning piiriüleseid teenuseid osutava investeerimisühingu üle
+
+(1) Kui investeerimisühing, kes on asutanud välisriigis filiaali või kes osutab välisriigis piiriüleseid teenuseid, rikub välisriigis kehtestatud õigusaktide nõudeid, rakendab inspektsioon välisriigi väärtpaberiturujärelevalve asutuse ettepanekul viivitamata meetmeid rikkumise lõpetamiseks. Inspektsioon teeb rakendatud meetmed teatavaks välisriigi väärtpaberiturujärelevalve asutusele.
+
+(1<sup>1</sup>) Inspektsioon teavitab teise lepinguriigi väärtpaberituru järelevalveasutust soovist viia selles riigis asutatud investeerimisühingu filiaalis läbi kohapealne kontroll.
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1<sup>2</sup>) Inspektsioon edastab viivitamata teise lepinguriigi väärtpaberiturujärelevalve asutusele teabe ja tõendid järelevalve teostamise käigus kindlaks tehtud võimalike probleemide ja selliste riskide kohta, mida Eesti investeerimisühing klientide kaitsele või finantssüsteemi stabiilsusele vastavas lepinguriigis tekitab. Inspektsioon võtab teise lepinguriigi väärtpaberiturujärelevalve asutuselt saadud teabe põhjal kõik vajalikud meetmed, et hoida ära või kõrvaldada võimalikud probleemid ja riskid. Lepinguriigi väärtpaberiturujärelevalve asutuse nõudmisel selgitab inspektsioon üksikasjalikult, kuidas on saadud teavet ja tõendeid arvesse võetud.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(1<sup>3</sup>) Kui teise lepinguriigi järelevalveasutus võtab käesolevas paragrahvis nimetatud probleemide või riskide kindlakstegemisel ise meetmeid, millega inspektsioon ei nõustu, võib inspektsioon edastada eriarvamuse Euroopa Pangandusjärelevalve Asutusele, kes lahendab selle Euroopa Parlamendi ja nõukogu määruse (EL) nr 1093/2010 artiklis 19 sätestatud korras.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(2) Investeerimisühingu tegevusloa ja välisriigis filiaali asutamise loa kehtetuks tunnistamise, samuti käesoleva seaduse § 64 lõikes 8 ja § 65 lõikes 7 nimetatud ettekirjutused teeb inspektsioon viivitamata teatavaks selle välisriigi, kus investeerimisühingu filiaal on asutatud või kus investeerimisühing osutab piiriüleseid teenuseid, väärtpaberiturujärelevalve asutusele.
+
+(3) Investeerimisühingu filiaal või investeerimisühing, kes osutab piiriüleseid teenuseid, peab välisriigi väärtpaberiturujärelevalve asutuse nõudmisel esitama teavet, mis on vajalik järelevalve teostamiseks filiaali või investeerimisühingu tegevuse üle selles riigis. Nimetatud teave esitatakse inspektsioonile, kes edastab selle viivitamata välisriigi väärtpaberiturujärelevalve asutusele.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(4) Käesoleva paragrahvi lõikes 3 nimetatud teave võib muu hulgas hõlmata:
+
+1\) teavet investeerimisühingu juhtimise ja omandistruktuuri kohta;
+
+2\) teavet investeerimisühingu omavahendite nõuetele vastavuse kohta;
+
+3\) teavet investeerimisühingu kontsentratsiooniriski nõuetele ja likviidsusnõuetele vastavuse kohta;
+
+4\) teavet investeerimisühingu juhtimis- ja raamatupidamisarvestuse korralduse ja sisekontrollimehhanismide kohta;
+
+5\) muud asjakohast teavet riske tekitavate tegurite kohta.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+#### § 236<sup>3</sup>. Järelevalve turukuritarvituse asjades
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+#### § 236<sup>4</sup>. Järelevalve kolmanda riigi emitendi üle ja emitendi üle, kelle vastuvõtjalepinguriik on Eesti
+
+(1) Kui kolmanda riigi emitent, kelle väärtpabereid Eestis avalikkusele pakutakse või nendega reguleeritud turul kaubeldakse ja kelle päritolulepinguriik on Eesti, rikub käesolevas seaduses või muudes õigusaktides tema suhtes kehtestatud nõudeid, võib inspektsioon rakendada käesolevas seaduses sätestatud meetmeid rikkumise lõpetamiseks või keelata oma ettekirjutusega emitendi väärtpaberite avaliku pakkumise või nendega reguleeritud turul kauplemise.
+
+(2) Kui emitent, kelle väärtpabereid Eestis avalikkusele pakutakse või kelle väärtpaberitega reguleeritud turul kaubeldakse ja kelle vastuvõtjalepinguriik on Eesti, rikub käesolevas seaduses või muudes õigusaktides tema suhtes kehtestatud nõudeid, teavitab inspektsioon sellest emitendi päritolulepinguriigi väärtpaberiturujärelevalve asutust ja Euroopa Väärtpaberiturujärelevalve Asutust. Teavitada tuleb ka juhul, kui avalikkusele pakkumise eest vastutav finantseerimisasutus või muu isik rikub käesolevas seaduses või muudes õigusaktides tema suhtes kehtestatud nõudeid.
+
+\[RT I, 29.03.2012, 1 - jõust. 30.03.2012\]
+
+(2<sup>1</sup>) Kui emitent, kelle väärtpaberitega kaubeldakse Eesti kui vastuvõtjalepinguriigi reguleeritud turul, aktsionär, muu väärtpaberi omanik või isik, kellele loetakse kuuluvaks emitendi väärtpaberitest tulenevad hääleõigused vastavalt käesoleva seaduse § 10 lõikele 3, rikub käesolevas seaduses või muudes õigusaktides tema suhtes kehtestatud nõudeid, teavitab inspektsioon sellest emitendi päritolulepinguriigi väärtpaberiturujärelevalve asutust.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(3) Kui emitendi päritolulepinguriigi väärtpaberiturujärelevalve asutuse poolt kasutusele võetud abinõud ei ole piisavad, võib inspektsioon investorite kaitseks oma ettekirjutusega võtta kasutusele käesolevas seaduses sätestatud meetmed rikkumise lõpetamiseks või keelata oma ettekirjutusega emitendi väärtpaberite avaliku pakkumise või nendega reguleeritud turul kauplemise, teavitades sellest eelnevalt emitendi päritolulepinguriigi väärtpaberiturujärelevalve asutust ja Euroopa Väärtpaberiturujärelevalve Asutust.
+
+\[RT I, 29.03.2012, 1 - jõust. 30.03.2012\]
+
+(4) Inspektsioon teeb oma rakendatud meetmed teatavaks emitendile.
+
+(5) Inspektsioon teeb käesoleva paragrahvi lõike 3 alusel rakendatud meetmed viivitamata teatavaks Euroopa Komisjonile ja Euroopa Väärtpaberiturujärelevalve Asutusele.
+
+\[RT I, 29.03.2012, 1 - jõust. 30.03.2012\]
+
+#### § 236<sup>5</sup>. Järelevalve emitendi üle, kelle päritolulepinguriik on Eesti
+
+Kui emitent, kelle väärtpabereid välisriigis avalikkusele pakutakse või nendega reguleeritud turul kaubeldakse ja kelle päritolulepinguriik on Eesti, rikub välisriigi õigusaktides tema suhtes kehtestatud nõudeid, rakendab inspektsioon välisriigi väärtpaberiturujärelevalve asutuse ettepanekul viivitamata meetmeid rikkumise lõpetamiseks. Inspektsioon teeb rakendatud meetmed teatavaks välisriigi väärtpaberiturujärelevalve asutusele.
+
+\[RT I 2005, 59, 464 - jõust. 15.11.2005\]
+
+#### § 236<sup>6</sup>. Järelevalve Euroopa Parlamendi ja nõukogu määruse (EL) 2016/1011 nõuete täitmise üle
+
+Euroopa Parlamendi ja nõukogu määruses (EL) 2016/1011 sätestatud nõuete täitmise üle järelevalve teostamisel, välja arvatud juhul, kui sama määruse artikli 40 lõike 1 kohaselt on pädev asutus Euroopa Väärtpaberiturujärelevalve Asutus, on inspektsioonil õigus:
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+1\) küsida või nõuda teavet igalt isikult, kes on seotud Euroopa Parlamendi ja nõukogu määruse (EL) 2016/1011 tähenduses võrdlusaluse väljaandmise ning selle jaoks sisendandmete esitamisega, sealhulgas teenuse osutajalt, kellele tööülesanded, teenused või toimingud antakse võrdlusaluse väljaandmisel edasi Euroopa Parlamendi ja nõukogu määruse (EL) 2016/1011 artikli 10 kohaselt, ja tema käsundiandjalt ning vajaduse korral niisugune isik teabe saamiseks kohale kutsuda ja teda küsitleda;
+
+2\) Euroopa Parlamendi ja nõukogu määruse (EL) 2016/1011 tähenduses kauba võrdlusaluse puhul küsida sisendandmete esitajatelt teavet asjaomaste hetketurgude kohta tüüpvormide ja tehinguaruannete alusel, kui need on olemas, ning pääseda vahetult juurde kauplejate süsteemidele;
+
+3\) nõuda ajutiselt tegevuse lõpetamist, kui see on pädeva asutuse arvates vastuolus Euroopa Parlamendi ja nõukogu määrusega (EL) 2016/1011;
+
+4\) kehtestada kutsetegevuse ajutine keeld;
+
+5\) võtta meetmed, et tagada üldsuse nõuetekohane teavitamine võrdlusaluse väljaandmisest, sealhulgas nõudes asjaomaselt haldurilt või võrdlusaluse avaldanud või seda levitanud isikult või mõlemalt õiendi avaldamist varem esitatud võrdlusaluse sisendandmete või arvandmete kohta.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 236<sup>7</sup>. Järelevalve Euroopa Parlamendi ja nõukogu määruse (EL) 2017/2402 nõuete täitmise üle
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) 2017/2402 artikli 32 lõike 1 punktis e või f nimetatud rikkumise korral võib inspektsioon väärtpaberistamise tehingu algatajale ning sponsorile kehtestada ajutise keelu teatada Euroopa Parlamendi ja nõukogu määruse (EL) 2017/2402 artikli 27 lõike 1 alusel, et väärtpaberistamine vastab Euroopa Parlamendi ja nõukogu määruse (EL) 2017/2402 artiklites 19–22 või 23–26 sätestatud nõuetele.
+
+(2) Euroopa Parlamendi ja nõukogu määruse (EL) 2017/2402 artikli 32 lõike 1 punktis h nimetatud rikkumise korral võib inspektsioon ajutiselt peatada Euroopa Parlamendi ja nõukogu määruse (EL) 2017/2402 artiklis 28 osutatud loa kolmandale isikule kontrollida väärtpaberistamise vastavust Euroopa Parlamendi ja nõukogu määruse (EL) 2017/2402 artiklites 19–22 või 23–26 sätestatud nõuetele.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 236<sup>8</sup>. Järelevalve Euroopa Parlamendi ja nõukogu määruse (EL) 2017/1129 nõuete täitmise üle
+
+(1) Euroopa Parlamendi ja nõukogu määruses (EL) 2017/1129 sätestatud nõuete täitmise üle järelevalve teostamisel on inspektsioonil õigus:
+
+1\) kohustada emitenti, pakkujat või reguleeritud turul kauplemisele võtmise taotlejat esitama prospektis lisateavet, kui seda on vaja investori kaitsmiseks;
+
+2\) keelata või peatada reklaam või nõuda emitendilt, pakkujalt, reguleeritud turul kauplemisele võtmise taotlejalt või asjakohaselt finantsvahendajalt, et nad lõpetaksid või peataksid reklaami kuni kümneks järjestikuseks tööpäevaks korraga, kui on mõistlik alus arvata, et Euroopa Parlamendi ja nõukogu määruses (EL) 2017/1129 sätestatud nõudeid on rikutud;
+
+3\) peatada kinnitamiseks esitatud prospekti kontroll või väärtpaberite avalik pakkumine või reguleeritud turul kauplemisele võtmine või seda piirata, kui inspektsioon kasutab õigust rakendada keeldu või piirangut vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artiklile 42, kuni keelu või piirangu lõppemiseni;
+
+4\) keelduda kinnitamast emitendi, pakkuja või reguleeritud turul kauplemisele võtmise taotleja koostatud prospekti kuni viie aasta jooksul sellekohase otsuse langetamisest, kui emitent, pakkuja või reguleeritud turul kauplemisele võtmise taotleja on korduvalt ja raskelt rikkunud Euroopa Parlamendi ja nõukogu määruses (EL) 2017/1129 sätestatud nõudeid;
+
+5\) avalikustada või kohustada emitenti avalikustama kogu oluline teave, mis võib mõjutada hinnangut avalikkusele pakutavatele või reguleeritud turul kauplemisele võetud väärtpaberitele, et tagada investorite kaitse või turu tõrgeteta toimimine.
+
+(2) Kui inspektsioon keeldub prospekti kinnitamast käesoleva paragrahvi lõike 1 punkti 4 alusel, teavitab ta sellest väärtpaberiturujärelevalve asutust.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 236<sup>9</sup>. Järelevalve segavaldusettevõtja, finantsvaldusettevõtja ja segafinantsvaldusettevõtja üle
+
+(1) Kui inspektsiooni järelevalve alla kuuluva investeerimisühingu emaettevõtja on segavaldusettevõtja käesoleva paragrahvi lõike 3 tähenduses, võib inspektsioon:
+
+1\) nõuda, et segavaldusettevõtja avaldaks järelevalve jaoks olulise teabe;
+
+2\) teostada järelevalvet investeerimisühingu ning segavaldusettevõtja ja tema tütarettevõtjate vaheliste tehingute üle ning nõuda, et investeerimisühingul oleksid piisavad riskijuhtimisprotsessid ja sisekontrollimehhanismid, sealhulgas usaldusväärne aruandluse ja raamatupidamise korraldus, et kõnealuseid tehinguid kindlaks teha, mõõta, jälgida ja kontrollida.
+
+(1<sup>1</sup>) Inspektsioon võib iseseisvalt või vahendajate kaudu kohapeal kontrollida segavaldusettevõtjalt ja tema tütarettevõtjatelt saadud teavet.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(2) Kui investeerimisühingu emaettevõtja on finantsvaldusettevõtja või segafinantsvaldusettevõtja Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikli 4 lõike 1 punkti 20 või 21 tähenduses, teostatakse krediidiasutuse konsolideerimisgruppi kuuluva investeerimisühingu üle konsolideeritud järelevalvet vastavalt krediidiasutuste seaduse §-s 97 sätestatule.
+
+(3) Segavaldusettevõtja käesoleva seaduse tähenduses on emaettevõtja, mis ei ole finantsvaldusettevõtja, investeerimisvaldusettevõtja, krediidiasutus, investeerimisühing ega segafinantsvaldusettevõtja Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 tähenduses ja mille tütarettevõtjate hulgas on vähemalt üks investeerimisühing.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+#### § 236<sup>10</sup>. Investeerimisühingu sisemudelite kasutamise loa läbivaatamine
+
+(1) Inspektsioon vaatab regulaarselt ja vähemalt iga kolme aasta tagant läbi investeerimisühingu vastavuse nõuetele, mida tuleb järgida inspektsioonilt sisemudelite kasutamise loa saamiseks vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 artiklile 22. Inspektsioon pöörab tähelepanu eelkõige investeerimisühingu äritegevuse muutustele ja sisemudelite rakendamisele uute toodete suhtes ning vaatab üle ja hindab, kas investeerimisühing kasutab sisemudelite puhul hästi välja töötatud ja ajakohaseid meetodeid ja tavasid.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(2) Oluliste puuduste avastamise korral selles, kuidas investeerimisühingu sisemudelites riski arvesse võetakse, teeb inspektsioon investeerimisühingule ettekirjutuse puuduste kõrvaldamiseks või meetmete võtmiseks puuduste tagajärgede leevendamiseks. Inspektsioon võib nõuda investeerimisühingult täiendavate kapitalinõuete kehtestamist või korrutustegurite suurendamist.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+(3) Kui Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artiklis 366 nimetatud määrade oluline ületamine näitab tururiski sisemudeli ebatäpsust, tühistab inspektsioon selle kasutamiseks antud loa, piirab selle kasutamist või rakendab muid asjakohaseid meetmeid, et tagada sisemudeli nõuetega vastavusse viimine.
+
+(4) Kui sisemudelite kasutamiseks loa saanud investeerimisühing ei vasta enam sisemudelite kohaldamise nõuetele, võib inspektsioon rakendada järgmisi meetmeid:
+
+1\) nõuda, et investeerimisühing tõendaks, et nõuetele mittevastavuse mõju on ebaoluline;
+
+2\) nõuda, et investeerimisühing esitaks kava ja tähtaja nõuetele vastavuse tagamiseks.
+
+(5) Inspektsioon võib nõuda käesoleva paragrahvi lõike 4 punktis 2 nimetatud kava täpsustamist, kui on ebatõenäoline, et selle alusel saavutatakse täielik nõuetele vastavus samas punktis antud tähtaja jooksul.
+
+(6) Kui investeerimisühing ei täida käesoleva paragrahvi lõike 4 punktides 1 ja 2 nimetatud tingimusi, arvestades lõikes 5 sätestatut, rakendab inspektsioon ühte järgmistest meetmetest:
+
+1\) tühistab käesoleva paragrahvi lõike 1 alusel antud loa sisemudelite kasutamiseks;
+
+2\) piirab sisemudelite kasutamist nii, et piirang kehtib ainult nõuetele vastavates valdkondades;
+
+3\) piirab sisemudelite kasutamist nii, et piirang kehtib ainult valdkondades, kus nõuetele vastavus on võimalik sobivaks tähtajaks saavutada.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+#### § 236<sup>11</sup>. Täiendavate omavahendite nõue investeerimisühingule
+
+(1) Inspektsioon võib kehtestada investeerimisühingule käesoleva seaduse § 235 punktis 9 nimetatud täiendavate omavahendite nõude, kui kohase läbivaatamise tulemusel on selgunud, et:
+
+1\) investeerimisühingut ohustavad riskid või riskielemendid või investeerimisühing tekitab teistele riske, mis on olulised ja mis ei ole kaetud või on ebapiisavalt kaetud Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 III või IV osas sätestatud omavahendite nõudega;
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+2\) investeerimisühingu sisemine kapital ja likviidne vara või juhtimiskorraldus ei vasta käesolevas seaduses sätestatud nõuetele ning muud järelevalvemeetmed tõenäoliselt ei paranda korda, protseduure, mehhanisme ja strateegiaid sobivaks ajaks piisavalt;
+
+3\) kauplemisportfelli usaldusväärse hindamise kohandamine ei ole piisav, et võimaldada investeerimisühingul tavapäraste turutingimuste korral müüa või maandada oma positsioone lühikese aja jooksul ilma olulist kahju kandmata;
+
+4\) lubatud sisemudelite kohaldamise nõuetele mittevastavus toob tõenäoliselt kaasa ebapiisava kapitalitaseme;
+
+5\) investeerimisühing ei suuda korduvalt saavutada või säilitada käesoleva seaduse §-s 236<sup>12</sup> sätestatud piisavat täiendavate omavahendite suunises antud taset.
+
+(2) Käesoleva paragrahvi lõike 1 punkti 1 kohaldamisel käsitatakse riske omavahendite nõudega mitte kaetuna või ebapiisavalt kaetuna ainult juhul, kui inspektsiooni poolt pärast käesoleva seaduse § 82<sup>2</sup> lõike 2 kohase hindamise järelevalvealast läbivaatamist piisavaks peetud kapitali summad, liigid ja koosseis on kõrgemal tasemel kui Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 III või IV osas sätestatud investeerimisühingu omavahendite nõue.
+
+(3) Käesoleva paragrahvi lõike 2 kohaldamisel võib piisavaks peetav kapital hõlmata riske, mis on Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 III või IV osas sätestatud omavahendite nõudest sõnaselgelt välja jäetud.
+
+(4) Inspektsioon määrab igal üksikjuhul täiendavate omavahendite nõude taseme, milleks on käesoleva paragrahvi lõigete 2 ja 3 kohaselt piisavaks loetava kapitali ning Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 III või IV osas sätestatud omavahendite nõude vahe.
+
+(5) Täiendavate omavahendite nõude puhul kohaldatakse järgmisi tingimusi:
+
+1\) vähemalt kolm neljandikku täiendavate omavahendite nõudest täidetakse esimese taseme omavahenditega;
+
+2\) vähemalt kolm neljandikku esimese taseme omavahenditest moodustavad esimese taseme põhiomavahendid;
+
+3\) neid omavahendeid ei kasutata Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 artikli 11 lõike 1 punktides a, b ja c sätestatud omavahendite nõuete täitmiseks.
+
+(6) Inspektsioon peab kirjalikult põhjendama oma otsust kohaldada täiendavate omavahendite nõuet, esitades selge ülevaate käesolevas paragrahvis nimetatud tingimuste täielikust hindamisest. Käesoleva paragrahvi lõike 1 punktis 4 sätestatud juhul peab inspektsiooni põhjendus hõlmama selgitust, miks käesoleva seaduse § 236<sup>12</sup> lõike 1 kohast omavahendite taset ei peeta enam piisavaks.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+#### § 236<sup>12</sup>. Täiendavate omavahendite suunis investeerimisühingule
+
+(1) Võttes arvesse proportsionaalsuse põhimõtet ning investeerimisühingu suurust, süsteemset olulisust, tegevuse laadi, ulatust ja keerukust, võib inspektsioon nõuda investeerimisühingult sellist omavahendite taset, mis ületab piisaval määral Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 III osas ning käesolevas seaduses sätestatud nõudeid, tagamaks, et majanduse tsükliline kõikumine ei põhjusta kõnealuste nõuete rikkumist ega ohusta investeerimisühingu võimalust nõuetekohaseks likvideerimiseks ja tegevuse lõpetamiseks.
+
+(2) Inspektsioon vaatab vajaduse korral läbi omavahendite taseme, mille investeerimisühing on kooskõlas käesoleva paragrahvi lõikega 1 kehtestanud, ja teavitab investeerimisühingut läbivaatamise tulemustest.
+
+(3) Kui inspektsioon leiab läbivaatamise tulemusel, et investeerimisühingu omavahendite taset tuleb kohandada, märgib ta teavituses, mis kuupäevaks tuleb vastavad muudatused teha.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+#### § 236<sup>13</sup>. Likviidsuse erinõuded investeerimisühingule
+
+(1) Inspektsioon kehtestab käesoleva seaduse § 235 punkti 16 alusel likviidsuse erinõuded, kui ta on teinud kindlaks, et:
+
+1\) investeerimisühingut ohustab oluline likviidsusrisk, mida Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 V osas sätestatud likviidsusnõue ei kata või ei kata piisavalt;
+
+2\) investeerimisühingu sisemine kapital ja likviidne vara või juhtimiskorraldus ei vasta käesolevas seaduses sätestatud nõuetele ning muud haldusmeetmed tõenäoliselt ei paranda korda, protsesse, mehhanisme või strateegiaid mõistliku aja jooksul piisavalt.
+
+(2) Käesoleva paragrahvi lõike 1 punkti 1 kohaldamisel käsitatakse likviidsusriski likviidsusnõudega mitte kaetuna või ebapiisavalt kaetuna juhul, kui inspektsiooni poolt pärast investeerimisühingu sisemise kapitali ja likviidse vara hindamise järelevalvealast läbivaatamist piisavaks peetud likviidsuse ulatus ja liigid on kõrgemal tasemel kui Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 V osas sätestatud investeerimisühingu likviidsusnõue.
+
+(3) Inspektsioon määrab kindlaks likviidsuse eritaseme nõude, milleks on käesoleva paragrahvi lõike 2 kohaselt piisavaks loetava likviidsuse taseme ning Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 V osas sätestatud likviidsusnõude vahe.
+
+(4) Inspektsioon kohustab investeerimisühingut täitma likviidsuse erinõuet Euroopa Parlamendi ja nõukogu määruse (EL) 2019/2033 artiklis 43 sätestatud likviidse varaga.
+
+(5) Inspektsioon peab kirjalikult põhjendama oma otsust kehtestada likviidsuse erinõue, esitades selge ülevaate käesoleva paragrahvi lõigetes 1–3 nimetatud tingimuste täielikust hindamisest.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+#### § 236<sup>14</sup>. Järelevalve Euroopa Parlamendi ja nõukogu määruse (EL) 2019/1238 nõuete täitmise üle
+
+Inspektsioonil on õigus rakendada Euroopa Parlamendi ja nõukogu määruse (EL) 2019/1238 artiklites 63 ja 67 sätestatud meetmeid. Inspektsioon avalikustab nimetatud artiklite kohaste meetmete alusel tehtud otsuse kohta teate oma veebilehel vastavalt nimetatud määruse artikli 63 lõikele 4 ja artiklile 67.
+
+\[RT I, 17.03.2023, 5 - jõust. 27.03.2023\]
+
+#### § 236<sup>15</sup>. Järelevalve Euroopa Parlamendi ja nõukogu määruse (EL) 2023/2631 nõuete täitmise üle
+
+Euroopa Parlamendi ja nõukogu määruses (EL) 2023/2631 sätestatud nõuete täitmise üle järelevalve teostamisel on inspektsioonil õigus:
+
+1\) nõuda emitendilt Euroopa Parlamendi ja nõukogu määruse (EL) 2023/2631 artiklis 10 nimetatud Euroopa rohevõlakirjade teabelehtede avaldamist või nendesse selle määruse I lisas nimetatud teabe lisamist;
+
+2\) nõuda emitendilt Euroopa Parlamendi ja nõukogu määruse (EL) 2023/2631 artiklites 10–12 nimetatud hinnangute ja hindamisaruannete avaldamist;
+
+3\) nõuda emitendilt iga-aastaste tulu jaotusaruannete avaldamist või iga-aastastesse tulu jaotusaruannetesse Euroopa Parlamendi ja nõukogu määruse (EL) 2023/2631 II lisas nimetatud teabe lisamist;
+
+4\) nõuda emitendilt mõjuaruande avalikustamist või mõjuaruandesse Euroopa Parlamendi ja nõukogu määruse (EL) 2023/2631 III lisas nimetatud teabe lisamist;
+
+5\) nõuda, et emitent teavitaks inspektsiooni Euroopa Parlamendi ja nõukogu määruse (EL) 2023/2631 artikli 15 lõike 1 esimeses lõigus nimetatud dokumentide avaldamisest põhjendamatu viivituseta;
+
+6\) nõuda emitentidelt, kes kasutavad Euroopa Parlamendi ja nõukogu määruse (EL) 2023/2631 artiklis 21 sätestatud ühiseid malle, et nad avalikustaksid oma perioodiliselt avaldatavas emiteerimisjärgses teabes selles artiklis nimetatud elemendid;
+
+7\) nõuda emitendi audiitoritelt ja juhtidelt teabe esitamist;
+
+8\) peatada korraga kuni kümneks järjestikuseks tööpäevaks või keelata Euroopa rohevõlakirjade pakkumine või reguleeritud turul kauplemisele võtmine, kui on alust kahtlustada, et emitent ei ole täitnud mõnda Euroopa Parlamendi ja nõukogu määruse (EL) 2023/2631 II jaotise 2. peatükist või artiklist 18 või 19 tulenevat kohustust;
+
+9\) peatada korraga kuni kümneks järjestikuseks tööpäevaks reklaamimine või nõuda asjaomaselt Euroopa rohevõlakirjade emitendilt või finantsvahendajalt reklaamimise peatamist korraga kuni kümneks järjestikuseks tööpäevaks või keelata reklaamimine või nõuda asjaomaselt Euroopa rohevõlakirjade emitendilt või finantsvahendajalt reklaamimise lõpetamist, kui on alust kahtlustada, et emitent ei ole täitnud mõnda Euroopa Parlamendi ja nõukogu määruse (EL) 2023/2631 II jaotise 2. peatükist või artiklist 18 või 19 tulenevat kohustust;
+
+10\) avalikustada asjaolu, et Euroopa rohevõlakirjade emitent ei täida Euroopa Parlamendi ja nõukogu määruses (EL) 2023/2631 sätestatud nõudeid, ning nõuda emitendilt selle teabe avaldamist oma veebilehel;
+
+11\) keelata emitendil emiteerida Euroopa rohevõlakirju kuni ühe aasta jooksul, juhul kui emitent on korduvalt ja raskelt rikkunud Euroopa Parlamendi ja nõukogu määruse (EL) 2023/2631 II jaotise 2. peatükis või artiklis 18 või 19 sätestatut;
+
+12\) avalikustada kolm kuud pärast käesoleva paragrahvi punktis 10 nimetatud nõudmise esitamist asjaolu, et Euroopa rohevõlakirjade emitent ei vasta nimetuse „Euroopa rohevõlakiri” või „EuGB” kasutamisel enam Euroopa Parlamendi ja nõukogu määruse (EL) 2023/2631 artikli 3 nõuetele, ning nõuda, et emitent avaldaks selle teabe oma veebilehel.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+#### § 237. Nimekiri
+
+(1) Inspektsioon peab nimekirja:
+
+1\) \[kehtetu - RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+2\) inspektsiooni poolt kooskõlastatud ülevõtmispakkumiste kohta;
+
+2<sup>1</sup>) investeerimisühingute ühinemiste kohta;
+
+3\) kehtivat tegevusluba omavate Eestis registreeritud investeerimisühingute kohta;
+
+3<sup>1</sup>) atmosfääriõhu kaitse seaduse § 162 lõikes 1 sätestatud kehtivat luba omavate isikute kohta;
+
+\[RT I, 05.07.2016, 1 - jõust. 01.01.2017\]
+
+4\) Eestis registreeritud investeerimisühingutes olulist osalust omavate isikute kohta;
+
+4<sup>1</sup>) turutegijate kohta;
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+4<sup>2</sup>) investeerimisagentide kohta;
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+5\) kehtivat tegevusluba omavate Eestis registreeritud reguleeritud turu korraldajate kohta;
+
+6\) kehtivat tegevusluba omavate Eestis registreeritud väärtpaberiarveldussüsteemi korraldajate kohta;
+
+6<sup>1</sup>) kehtivat tegevusluba omavate Eestis registreeritud erandi alusel tegutsevate aruandlusteenuse osutajate kohta;
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+7\) käesoleva lõike punktides 3, 5 ja 6 nimetatud juriidiliste isikute nõukogu ja juhatuse liikmete kohta;
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+8\) Eestis registreeritud investeerimisühingute välisriigis asutatud filiaalide kohta;
+
+9\) Eestis registreeritud investeerimisühingute välisriigis avatud esinduste kohta;
+
+10\) välisriigi investeerimisühingu Eestis asutatud filiaalide kohta;
+
+11\) piiriüleste teenuste osutamise luba omavate välisriigi investeerimisühingute kohta;
+
+\[RT I 2010, 7, 30 - jõust. 26.02.2010\]
+
+12\) välisriigi investeerimisühingute Eestis avatud esinduste kohta.
+
+13\) \[kehtetu - RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+14\) \[kehtetu - RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+(1<sup>1</sup>) \[Kehtetu - RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+(1<sup>2</sup>) \[Kehtetu - RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+(1<sup>3</sup>) \[Kehtetu - RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+(1<sup>4</sup>) \[Kehtetu - RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+(1<sup>5</sup>) Inspektsioon avaldab oma veebilehel informatsiooni kinnitatud prospektide kohta vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) 2017/1129 artikli 21 lõikes 5 sätestatule.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+(2) Käesolevas paragrahvis nimetatud andmed avalikustatakse vastavalt Finantsinspektsiooni seaduse § 53 lõikes 4 sätestatule.
+
+(3) \[Kehtetu - RT I 2005, 59, 463 - jõust. 15.11.2005\]
+
+### 25. peatükk — VASTUTUS
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 237<sup>1</sup>. Prospekti nõude rikkumine
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) 2017/1129 artiklites 3, 5 ja 6, artikli 7 lõigetes 1–11 ja 12a, artiklites 8, 9 ja 10, artikli 11 lõigetes 1 ja 3, artikli 14a lõikes 1, artikli 15a lõikes 1, artikli 16 lõigetes 1, 2 ja 3, artiklites 17 ja 18, artikli 19 lõigetes 1, 2 ja 3, artikli 20 lõikes 1, artikli 21 lõigetes 1–4 ja 7–11, artikli 22 lõigetes 2–5, artikli 23 lõigetes 1, 2, 3, 4a ja 5 ning artiklis 27 sätestatud nõuete rikkumise ning käesoleva seaduse § 15 lõikes 6 sätestatud teabe avaldamata jätmise eest –\
+karistatakse rahatrahviga kuni 700 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni kolm protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>2</sup>. Prospekti avalikustamise nõude rikkumine
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 237<sup>3</sup>. Pakkumise väljakuulutamise ja peatamise korra rikkumine
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 237<sup>4</sup>. Investorite teavitamise kohustuse rikkumine
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 237<sup>5</sup>. Reklaami nõuete rikkumine
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 237<sup>6</sup>. Väärtpaberite tagasiostmise kohustuse rikkumine
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 237<sup>7</sup>. Prospektilisa koostamise nõuete rikkumine
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 237<sup>8</sup>. Aruande, teabe, selgituse ja muu dokumendi esitamata jätmine
+
+(1) Käesolevas seaduses ning Euroopa Parlamendi ja nõukogu määrustes (EL) nr 575/2013 ja (EL) 2019/2033 või nende alusel antud õigusaktis nimetatud aruande, dokumendi, selgituse või muu teabe tähtpäevaks avalikustamata või inspektsioonile esitamata jätmise või mitteõigeaegse, puuduliku või ebaõige teabe esitamise või avalikustamise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>9</sup>. Kliendi vara hoidmise ja kaitse nõuete rikkumine
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1) Investeerimisteenuse või kõrvalteenuse osutamisel kliendi vara hoidmise või kaitse või kliendi väärtpaberite kasutamise või käsutamise nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>10</sup>. Investeerimisühingu organisatsiooniliste nõuete rikkumine
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(1) Investeerimisühingu tegevuse laadi, ulatust ja keerukust arvestades ebapiisava või käesolevas seaduses või komisjoni delegeeritud määruses (EL) 2017/565 sätestatud nõuetele mittevastava organisatsioonilise ülesehituse, sisekontrollisüsteemi, tasustamise, riskide tuvastamise, mõõtmise või juhtimise või sise-eeskirjade või aruannete esitamise korra kehtestamise või rakendamise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>11</sup>. Seoses investeerimisteenuse ja kõrvalteenuse osutamisega rahalise ja mitterahalise tasu ja hüve saamise ning andmise nõuete rikkumine
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(1) Seoses investeerimisteenuse või kõrvalteenuse osutamisega rahalise või mitterahalise tasu või hüve saamise või andmise nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>12</sup>. Investeerimisühingu üldiste tegevusnõuete ja kliendi teavitamise nõuete rikkumine
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1) Käesoleva seaduse § 85 lõikes 1 sätestatud nõuete või investeerimisteenuste osutamisel kliendi teavitamise nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>13</sup>. Investeerimisteenuse ja väärtpaberi sobivuse ning asjakohasuse hindamise nõuete rikkumine
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1) Investeerimisteenuse või väärtpaberi sobivuse või asjakohasuse hindamise nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>14</sup>. Kliendi korralduste parima täitmise, selleks vajalike meetmete kehtestamise ja rakendamise ning määratud hinnaga korralduse avalikustamise kohustuse rikkumine
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1) Kliendi korralduse parima täitmise, selleks vajalike meetmete kehtestamise või rakendamise või määratud hinnaga korralduse avalikustamise kohustuse rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>15</sup>. Andmete registreerimise ja säilitamise kohustuse rikkumine
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1) Investeerimisteenuse osutamisel või reguleeritud turu korraldamisel ettenähtud või Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artikli 22 lõikes 1 või 2 või artikli 25 lõikes 1 või 2 nimetatud juhtudel vastavalt andmete, telefonikõnede, elektrooniliste vahendite kaudu toimunud suhtluse või tehingute registreerimise või säilitamise kohustuse rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>16</sup>. Tehingute raporteerimise nõuete rikkumine
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artikli 26 lõigetes 1–7 või artikli 27 lõikes 1 sätestatud kohustuse rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>17</sup>. Reglemendi kehtestamise, kohaldamise ja muutmise nõuete ning reglemendi avalikustamise kohustuse rikkumine
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1) Kauplemiskoha reglemendi kehtestamise, kohaldamise või muutmise nõuete või muudatuste inspektsiooniga kooskõlastamise või reglemendi avalikustamise kohustuse rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>18</sup>. Reglemendi ühetaolise rakendamise nõuete rikkumine
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 237<sup>19</sup>. Kauplemiseelsete ja -järgsete läbipaistvusnõuete ning süsteemse täitja hinnanoteeringute kohta sätestatud nõuete rikkumine
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artikli 3 lõikes 1 või 3, artikli 4 lõikes 3, artiklis 5 või 6, artikli 7 lõikes 1, artikli 8 lõikes 1, artikli 8a lõikes 1 või 2, artiklis 8b, artiklis 10, artikli 11 lõikes 1, 1a, 1b või 3, artikli 11a lõikes 1, artikli 12 lõikes 1, artikli 13 lõikes 1 või 2, artikli 14 lõikes 1, 2 või 3, artikli 15 lõikes 1, 2 või 4, artikli 17 lõikes 1, artikli 20 lõikes 1, 1a või 2 või artikli 21 lõikes 1, 2 või 3 sätestatud nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>20</sup>. Reglemendi avalikustamise nõude rikkumine
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 237<sup>21</sup>. Kauplemiskohas osalejale ja kauplemiskohas kauplemisele võetud väärtpaberi emitendile seaduse või reglemendiga kehtestatud kohustuste rikkumine
+
+\[Kehtetu - RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>22</sup>. Infotöötlussüsteemi kontrollimise, kaitse, teabeedastusviiside ja andmete konfidentsiaalsuse säilitamise nõuete rikkumine
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1) Infotöötlussüsteemi kontrollimise, kaitse, teabeedastusviiside või andmete konfidentsiaalsuse säilitamise nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>23</sup>. Insaideri poolt andmete esitamise kohustuse rikkumine
+
+\[Kehtetu - RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+#### § 237<sup>24</sup>. Emitendi teavitamiskohustuste rikkumine
+
+Käesoleva seaduse §-s 187<sup>5</sup> nõutava teabe esitamata jätmise või ebaõige teabe esitamise eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 10 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni viis protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>25</sup>. Ülevõtmispakkumise nõuete rikkumine
+
+(1) Ülevõtja poolt ülevõtmispakkumise raames samaliigiliste aktsiate omanike ebavõrdse kohtlemise või ülevõtja või sihtemitendi poolt sihtisikutele ülevõtmispakkumise kaalumiseks olulise, õige, täpse, täieliku või ühesuguse teabe andmata jätmise või eksitava, ebaõige või ebatäpse teabe andmise või eri sihtisikutele erisuguse teabe andmise või sihtisikutel ülevõtmispakkumise kaalumise takistamise eest –\
+karistatakse rahatrahviga kuni 300 trahviühikut.
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 400 000 eurot.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+#### § 237<sup>26</sup>. Ülevõtmispakkumise reeglite rikkumine
+
+(1) Ülevõtja, juriidilisest isikust ülevõtja nõukogu liikme, juhatuse liikme või neid asendava organi liikme, sihtemitendi, selle sihtemitendi nõukogu liikme või juhatuse liikme, nimetatutega kooskõlastatult tegutseva isiku või sihtemitendi aktsionäri poolt ülevõtmispakkumise reeglite või sihtemitendi aktsiate ülevõtmispakkumist reguleerivate sätete rikkumise eest –\
+karistatakse rahatrahviga kuni 300 trahviühikut.
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 400 000 eurot.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+#### § 237<sup>27</sup>. Usaldatavusnõuete rikkumine
+
+(1) Käesolevas seaduses sätestatud usaldatavusnõuete või Euroopa Parlamendi ja nõukogu määruses (EL) 2019/2033 sätestatud kontsentratsiooniriski piirmäärade ületamise või likviidse vara hoidmise nõuete korduva või pideva rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>28</sup>. Investeerimisühingus ja korraldajas olulise osaluse omandamise korra rikkumine
+
+(1) Käesoleva seaduse kohaselt inspektsioonile eelnevalt teatamata või käesoleva seaduse § 75 lõikes 2 nimetatud ettekirjutuse vastaselt investeerimisühingus või reguleeritud turu korraldajas osaluse omandamise, selle võõrandamise või investeerimisühingu või reguleeritud turu korraldaja kontrollitavaks äriühinguks muutmise eest, samuti inspektsiooni ettekirjutuse vastaselt investeerimisühingus või reguleeritud turu korraldajas hääleõiguse või muude kontrolli võimaldavate õiguste teostamise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>29</sup>. Ühingu juhtimise nõuete rikkumine
+
+(1) Reguleeritud turul kaubeldava väärtpaberi emitendi osanike koosoleku või aktsionäride üldkoosoleku kokkukutsumise, selle läbiviimise, seal hääletamise ja hääleõiguse piiramise nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 300 trahviühikut.
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 400 000 eurot.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+#### § 237<sup>30</sup>. Juhi ja juhi lähedase tehingutest teavitamise ning nende avalikustamise nõuete rikkumine
+
+\[RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 596/2014 artikli 19 lõigetes 1, 2, 3, 5, 6, 7 ja 11 sätestatud nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 500 000 eurot või kuni kolmekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 0,8 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest või kuni 1 000 000 eurot, kui käibel põhinev rahatrahvi summa on Euroopa Parlamendi ja nõukogu määruse (EL) nr 596/2014 artikli 31 lõike 1 punktides a, b ja d–h nimetatud asjaolusid arvesse võttes ebaproportsionaalselt väike, või kuni kolmekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 30.12.2025, 1 - jõust. 05.06.2026\]
+
+#### § 237<sup>31</sup>. Häälte arvust teavitamise kohustuse rikkumine
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+(1) Käesoleva seaduse §-s 185 sätestatud häälte arvust teavitamise kohustuse rikkumise eest –\
+karistatakse rahatrahviga kuni 2 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 10 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni viis protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>32</sup>. Majandusaasta aruande avaldamata jätmine
+
+Emitendi poolt majandusaasta aruande avaldamata jätmise või mitteõigeaegse avaldamise või ebaõige, puuduliku või eksitava teabe avaldamise eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 10 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni viis protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>33</sup>. Poolaastaaruande avaldamata jätmine
+
+Aktsiate või võlaväärtpaberite emitendi poolt poolaastaaruande avaldamata jätmise või mitteõigeaegse avaldamise või ebaõige, puuduliku või eksitava teabe avaldamise eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 10 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni viis protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>34</sup>. Valitsusasutustele tehtud maksete aruande avalikustamise kohustuse rikkumine
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+Emitendi poolt valitsusasutustele tehtud maksete aruande avalikustamise kohustuse rikkumise või aruande mitteõigeaegse avaldamise või ebaõige, puuduliku või eksitava teabe avalikustamise eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 10 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni viis protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>35</sup>. Võrdse kohtlemise nõuete rikkumine
+
+Emitendi poolt käesoleva seaduse §-s 187<sup>6</sup> või 187<sup>7</sup> sätestatud võrdse kohtlemise nõuete rikkumise eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 400 000 eurot.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>36</sup>. Huvide konfliktist teavitamise kohustuse rikkumine
+
+\[RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+(1) Huvide konfliktist teavitamise kohustuse rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>37</sup>. Huvide konfliktide maandamise nõuete rikkumine
+
+(1) Investeerimisteenuse osutamisel huvide konfliktide haldamise ja maandamise meetmete kehtestamata või rakendamata jätmise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>38</sup>. Investeerimissoovituse koostamise ja levitamise ning huvide konfliktide avalikustamise nõuete rikkumine
+
+\[RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 596/2014 artikli 20 lõikes 1 sätestatud nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 500 000 eurot või kuni kolmekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 0,8 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest või kuni 1 000 000 eurot või kuni kolmekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 30.12.2025, 1 - jõust. 05.06.2026\]
+
+#### § 237<sup>39</sup>. Insaiderite nimekirja pidamise nõuete rikkumine
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 596/2014 artikli 18 lõigetes 1–6 sätestatud nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 500 000 eurot või kuni kolmekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 0,8 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest või kuni 1 000 000 eurot, kui käibel põhinev rahatrahvi summa on Euroopa Parlamendi ja nõukogu määruse (EL) nr 596/2014 artikli 31 lõike 1 punktides a, b ja d–h nimetatud asjaolusid arvesse võttes ebaproportsionaalselt väike, või kuni kolmekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 30.12.2025, 1 - jõust. 05.06.2026\]
+
+#### § 237<sup>40</sup>. Siseteabe avalikustamise nõuete rikkumine
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 596/2014 artikli 17 lõigetes 1, 2, 4, 5 ja 8 sätestatud nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 1 000 000 eurot või kuni kolmekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni kaks protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest või kuni 2 500 000 eurot, kui käibel põhinev rahatrahvi summa on Euroopa Parlamendi ja nõukogu määruse (EL) nr 596/2014 artikli 31 lõike 1 punktides a, b ja d–h nimetatud asjaolusid arvesse võttes ebaproportsionaalselt väike, või kuni kolmekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 30.12.2025, 1 - jõust. 05.06.2026\]
+
+#### § 237<sup>41</sup>. Siseteabe väärkasutamine
+
+\[Kehtetu - RT I, 12.07.2014, 1 - jõust. 01.01.2015\]
+
+#### § 237<sup>42</sup>. Turukuritarvituse ennetamise ja avastamise nõuete rikkumine
+
+\[RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 596/2014 artikli 16 lõigetes 1 ja 2 sätestatud nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 1 000 000 eurot või kuni kolmekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 2 500 000 eurot või kuni kolmekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni kaks protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>43</sup>. Turumanipulatsiooni sooritamine
+
+\[Kehtetu - RT I, 12.07.2014, 1 - jõust. 01.01.2015\]
+
+#### § 237<sup>44</sup>. Järelevalvesaladuse rikkumine ja tegevuse takistamine
+
+Investeerimisühingu, krediidiasutuse, Eesti väärtpaberite registri ja telekommunikatsiooniteenuse osutaja poolt käesoleva seaduse § 230<sup>3</sup> lõikes 2 sätestatud inspektsiooni järelepärimisest oma kliendile või isikule, keda järelepärimine puudutas, teatamise eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 400 000 eurot.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>45</sup>. Kohustusliku kogumispensioni avalduste vastuvõtmisega seotud kohustuste rikkumine
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(1) Investeerimisteenuse osutamisel kogumispensionide seaduse § 14 lõikes 5 või 5<sup>1</sup> või § 16 lõikes 7<sup>1</sup> kehtestatud nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>46</sup>. Lühikeseks müügi määruse nõuete rikkumine
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 236/2012 artiklites 3–8 ja 12–15 sätestatud nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 300 trahviühikut.
+
+\[RT I, 26.04.2013, 2 - jõust. 06.05.2013\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 400 000 eurot.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+#### § 237<sup>47</sup>. Börsiväliste tuletisinstrumentide määruse nõuete rikkumine
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 648/2012 2. jaotises sätestatud nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 300 trahviühikut.
+
+\[RT I, 26.04.2013, 2 - jõust. 06.05.2013\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 400 000 eurot.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+#### § 237<sup>48</sup>. Menetlusosalise ja tunnistaja ilmumata jätmine
+
+Menetlusosalise või tunnistaja haldusmenetluses inspektsiooni kutsel seadusliku takistuseta ilmumata jätmise eest –\
+karistatakse rahatrahviga kuni 300 trahviühikut.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>49</sup>. Menetluse lõpetamise täiendav alus
+
+Inspektsioonile turukuritarvitusest või selle kahtlusest enne turukuritarvituse toimumist või viivitamata pärast seda esimesena kirjalikult teatanud isiku suhtes võib lõpetada käesolevas seaduses sätestatud turukuritarvituse kohta algatatud väärteomenetluse otstarbekuse kaalutlusel.
+
+\[RT I, 26.04.2013, 2 - jõust. 06.05.2013\]
+
+#### § 237<sup>50</sup>. Menetlus
+
+\[Kehtetu - RT I, 12.07.2014, 1 - jõust. 01.01.2015\]
+
+#### § 237<sup>51</sup>. Investeerimispiirangute rikkumine
+
+\[Kehtetu - RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>52</sup>. Menetlus
+
+\[Kehtetu - RT I, 22.02.2017, 1 - jõust. 01.01.2018\]
+
+#### § 237<sup>53</sup>. Euroopa Parlamendi ja nõukogu määruse (EL) nr 1286/2014 nõuete rikkumine
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 1286/2014 artiklis 5–10, 13 või 14 sätestatud nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 700 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni kolm protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>54</sup>. Menetlus
+
+\[Kehtetu - RT I, 26.06.2017, 1 - jõust. 06.07.2017\]
+
+#### § 237<sup>55</sup>. Euroopa Parlamendi ja nõukogu määruse (EL) nr 2015/2365 nõuete rikkumine
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) 2015/2365 artiklis 4 või 15 sätestatud nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kolmekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 15 000 000 eurot või kuni kolmekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>56</sup>. Euroopa Parlamendi ja nõukogu määruse (EL) nr 2016/1011 nõuete rikkumine
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) 2016/1011 artiklis 4–16, 21, 23–29 või 34 sätestatud nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 500 000 eurot või kuni kolmekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 1 000 000 eurot või kuni kolmekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>57</sup>. Menetlus
+
+\[Kehtetu - RT I, 30.12.2017, 3 - jõust. 03.01.2018\]
+
+#### § 237<sup>58</sup>. Kehtivatele tegevusloa andmise tingimustele vastavuse tagamise kohustuse rikkumine
+
+(1) Käesolevas seaduses või muus õigusaktis sätestatud investeerimisühingu, erandi alusel tegutseva aruandlusteenuse osutaja või reguleeritud turu korraldaja tegevusloa andmise tingimustele vastavuse tagamise kohustuse rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>59</sup>. Teenuse piiriülese osutamise, filiaali asutamise ja investeerimisagendi kasutamisega seoses inspektsiooni teavitamise kohustuse rikkumine
+
+(1) Välisriigis investeerimisteenuse või kõrvalteenuse osutamise või investeerimisagendi kasutamise eest ilma inspektsiooni teavitamata, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>60</sup>. Investeerimisühingu, investeerimisvaldusettevõtja, segafinantsvaldusettevõtja, reguleeritud turu korraldaja ja aruandlusteenuse osutaja juhtidele ja töötajatele esitatavate nõuete ning nende tasustamise nõuete rikkumine
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+(1) Investeerimisühingu, reguleeritud turu korraldaja või aruandlusteenuse osutaja juhtide valimisele, pädevusele või tegevusele esitatavate nõuete, samuti töötajatele esitatavate nõuete või juhtide või töötajate tasustamise nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>61</sup>. Tegevuse järjepidevuse ja korrapärasuse tagamise meetmete kehtestamise ja rakendamise ning olulise tööülesande ja tegevuse edasiandmise nõuete rikkumine
+
+(1) Investeerimisteenuste osutamise järjepidevuse ja korrapärasuse tagamiseks õiguslike, tehniliste ja organisatsiooniliste meetmete kehtestamise või rakendamise või olulise tööülesande või tegevuse edasiandmise nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>62</sup>. Väärtpaberi väljatöötamise ja turustamise nõuete rikkumine
+
+(1) Väärtpaberi väljatöötamise või turustamise nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>63</sup>. Algoritmkauplemise ja otsese elektroonilise juurdepääsu võimaldamise nõuete rikkumine
+
+(1) Algoritmkauplemise või kauplemiskohale otsese elektroonilise juurdepääsu võimaldamise kohta kehtestatud nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>64</sup>. Teisele investeerimisühingule korralduse edastamisel esitatud teabe mittenõuetekohasus
+
+(1) Teisele investeerimisühingule kliendi nimel investeerimisteenuse või kõrvalteenuse osutamiseks korralduse edastamisel ebaõige, ebatäpse või ebatäieliku teabe esitamise eest, kui sellega on tekitatud kahju, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>65</sup>. Investeerimisagendi määramise, registreerimise ja kasutamise nõuete rikkumine
+
+(1) Investeerimisagendi määramise, registreerimise või kasutamise nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>66</sup>. Erandi alusel tegutseva aruandlusteenuse osutaja organisatsiooniliste nõuete rikkumine
+
+\[RT I, 14.04.2021, 1 - jõust. 01.01.2022\]
+
+(1) Erandi alusel tegutseva aruandlusteenuse osutaja organisatsiooniliste nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>67</sup>. Kauplemiskoha korraldaja organisatsiooniliste nõuete rikkumine
+
+(1) Kauplemiskoha korraldaja organisatsiooniliste nõuete, süsteemide töökindluse tagamise või likviidsuse pakkujatega seotud nõuete, ajutiste kauplemispiirangute kehtestamise kohustuse või finantsriski maandamise või muude organisatsiooniliste nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>68</sup>. Hinnasammu kehtestamise ja kellade sünkroniseerimise kohustuse rikkumine
+
+(1) Hinnasammu kehtestamise või Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artikli 22c lõikes 1 sätestatud kohustuse rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>69</sup>. Kauplemisele võtmise, kauplemise peatamise ja lõpetamise nõuete rikkumine
+
+(1) Kauplemisele võtmise, kauplemise peatamise või lõpetamise nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>70</sup>. Mitmepoolse kauplemissüsteemi ja organiseeritud kauplemissüsteemi korraldamise lisanõuete rikkumine
+
+(1) Mitmepoolse kauplemissüsteemi või organiseeritud kauplemissüsteemi korraldamise, nendes kauplemise nõuete või kasvuturuna käsitamise tingimustele vastamiseks vajalike õiguslike, tehniliste ja organisatsiooniliste meetmete rakendamise kohustuse rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>71</sup>. Kauplemiskohas järelevalvemeetmete kehtestamise ja järelevalve teostamise kohustuse rikkumine
+
+(1) Kauplemiskohas järelevalve teostamise meetmete kehtestamise, reglemendi järgimise üle järelevalve teostamise või tehingute tegemise või korralduste esitamise jälgimise kohustuse rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>72</sup>. Kaubatuletisinstrumentide positsioonipiirangu järgimise, positsioonide haldamise, koondpositsioonide aruande avalikustamise ja positsioonidest kauplemiskoha korraldaja teavitamise kohustuse rikkumine
+
+(1) Kaubatuletisinstrumentide positsioonipiirangu järgimise, positsioonide haldamise, koondpositsioonide aruande avalikustamise või positsioonidest kauplemiskoha korraldaja teavitamise kohustuse rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>73</sup>. Reguleeritud turule, keskse vastaspoole teenusele ja väärtpaberiarveldusüsteemile ühetaolise juurdepääsu keelamine
+
+(1) Reguleeritud turul osaleda soovivale isikule reguleeritud turule või teise liikmesriigi investeerimisühingule keskse vastaspoole teenusele või väärtpaberiarveldusüsteemile ühetaolise juurdepääsu võimaldamise kohustuse rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>74</sup>. Kauplemiskohas kauplemise kohustuse rikkumine
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artikli 23 lõikes 1 või 2 või artikli 28 lõikes 1 sätestatud nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>75</sup>. Tuletisinstrumendiga seotud tehingu keskse vastaspoole kaudu arveldamise (kliirimise) kohustuse ja kaudse arveldamise (kliirimise) nõuete rikkumine
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artikli 29 lõikes 1 või 2 või artikli 30 lõikes 1 sätestatud kohustuste rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>76</sup>. Kauplemisjärgsete riskivähendusteenuste andmete säilitamise kohustuse rikkumine
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artikli 31 lõikes 3 nimetatud andmete registreerimise ja säilitamise nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>77</sup>. Keskse vastaspoole teenusele, kauplemiskoha kauplemisteabele, kauplemiskohale ja võrdlusalustele ühetaolise juurdepääsu keelamine
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artikli 35 lõigetes 1–3, artikli 36 lõigetes 1–3 või artikli 37 lõikes 1 või 3 sätestatud kohustuste rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>78</sup>. Väärtpaberi turustamise ning finantstegevuse ja -tavaga seoses kehtestatud keelu ja piirangu järgimata jätmine
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artiklites 40–42 sätestatud kohustuse rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>79</sup>. Menetlus
+
+\[Kehtetu - RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 237<sup>80</sup>. Euroopa Parlamendi ja nõukogu määruse (EL) 2017/2402 nõuete rikkumine
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) 2017/2402 artikli 32 lõikes 1 nimetatud rikkumiste eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>81</sup>. Hääletusnõustaja teabe avalikustamise kohustuse rikkumine
+
+(1) Hääletusnõustaja teabe avalikustamise kohustuse rikkumise eest –\
+karistatakse rahatrahviga kuni 1 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 1 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>82</sup>. Tasustamisaruande koostamise ja avaldamise nõuete rikkumine
+
+(1) Tasustamisaruande koostamise ja avalikustamise nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 1 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 1 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>83</sup>. Euroopa Parlamendi ja nõukogu määruse (EL) 2020/852 nõuete rikkumine
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) 2020/852 artiklites 5–7 sätestatud nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>84</sup>. Euroopa Parlamendi ja nõukogu määruse (EL) 2020/1503 nõuete rikkumine
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) 2020/1503 artiklites 3–5, artikli 6 lõigetes 1–6, artikli 7 lõigetes 1–4, artikli 8 lõigetes 1–6, artikli 9 lõigetes 1 ja 2, artiklites 10 ja 11, artikli 12 lõikes 1, artikli 13 lõikes 2, artikli 15 lõigetes 2 ja 3, artikli 16 lõikes 1, artikli 18 lõigetes 1 ja 4, artikli 19 lõigetes 1–6, artikli 20 lõigetes 1 ja 2, artikli 21 lõigetes 1–7, artiklis 22, artikli 23 lõigetes 2–13, artiklites 24–26, artikli 27 lõigetes 1–3 või artikli 30 lõikes 1 sätestatud nõude või kohustuse rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>85</sup>. Menetlus
+
+\[Kehtetu - RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+#### § 237<sup>86</sup>. Väljamaksete keelu nõude rikkumine
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artiklis 28, 52 või 63 sätestatud investeerimisühingu omavahenditesse kuuluvate instrumentide omanikele tehtavate väljamaksete keelu rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 237<sup>87</sup>. Menetlus
+
+\[Kehtetu - RT I, 17.03.2023, 5 - jõust. 27.03.2023\]
+
+#### § 237<sup>88</sup>. Euroopa Parlamendi ja nõukogu määruse (EL) 2019/1238 nõuete rikkumine
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) 2019/1238 artikli 5 lõikes 1 ning artiklites 6, 7, 18–48, 50 ja 52–56 sätestatud nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 700 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+\[RT I, 03.12.2024, 3 - jõust. 13.12.2024\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni kümme protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 03.12.2024, 3 - jõust. 13.12.2024\]
+
+#### § 237<sup>89</sup>. Menetlus
+
+\[Kehtetu - RT I, 11.10.2024, 1 - jõust. 17.01.2025\]
+
+#### § 237<sup>90</sup>. Digitaalse tegevuskerksuse nõuete rikkumine
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) 2022/2554 artiklites 5–14 või 16–18, artikli 19 lõigetes 1 või 3–5, artiklis 24 või 25, artikli 26 lõigetes 1–8, artiklis 27, artikli 28 lõigetes 1–8, artiklis 29, artikli 30 lõigetes 1–4 või artikli 42 lõikes 3 sätestatud nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 11.10.2024, 1 - jõust. 17.01.2025\]
+
+#### § 237<sup>91</sup>. Soolise tasakaalu parandamiseks individuaalse kvantitatiivse eesmärgi seadmise kohustuse rikkumine
+
+Käesoleva seaduse § 135<sup>6</sup> lõike 2 kohase individuaalse kvantitatiivse eesmärgi seadmise kohustuse rikkumise eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 400 000 eurot.
+
+\[RT I, 10.06.2025, 1 - jõust. 20.06.2025\]
+
+#### § 237<sup>92</sup>. Soolise tasakaalu saavutamise vahendiga või soolise tasakaalu aruandlusega seotud kohustuse rikkumine
+
+(1) Käesoleva seaduse § 135<sup>7</sup> lõigetes 1, 4 ja 5 või § 135<sup>9</sup> lõigetes 1–3 sätestatud kohustuse rikkumise eest –\
+karistatakse rahatrahviga kuni 300 trahviühikut.
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 400 000 eurot.
+
+\[RT I, 10.06.2025, 1 - jõust. 20.06.2025\]
+
+#### § 237<sup>93</sup>. Euroopa Parlamendi ja nõukogu määruse (EL) 2023/2631 nõuete rikkumine
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) 2023/2631 II jaotise 2. peatükist või artiklist 18, 19 või 21 tulenevate kohustuste täitmata jätmise eest või artikli 45 lõike 1 kohase nõude rikkumise või koostööst keeldumise eest –\
+karistatakse rahatrahviga kuni 700 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni kolm protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+#### § 237<sup>94</sup>. Kauplemiskoondteabe esitajale andmete edastamise nõuete ja edastatavate andmete kvaliteedinõuete rikkumine
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artikli 22a lõigetes 1 ja 5–8 ning artikli 22b lõikes 1 sätestatud nõuete rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+#### § 237<sup>95</sup>. Korralduste voo eest tasu saamise keelu rikkumine
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) nr 600/2014 artikli 39a lõikes 1 sätestatud keelu rikkumise eest –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni 10 protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+#### § 237<sup>96</sup>. Ühinemisnõuete rikkumine
+
+(1) Käesoleva seaduse § 116 lõikes 2 sätestatud ühinemisest teavitamise kohustuse rikkumise või tehingu loata tegemise eest –\
+karistatakse rahatrahviga kuni 700 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas.
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 5 000 000 eurot või kuni kahekordses väärteo tulemusel teenitud kasule või ära hoitud kahjule vastavas summas või kuni kolm protsenti juriidilise isiku või tema konsolideerimisgrupi konsolideeritud käibest.
+
+\[RT I, 11.07.2026, 7 - jõust. 21.07.2026\]
+
+#### § 238.
+
+–
+
+#### § 262.
+
+\[Kehtetud - RT I 2002, 63, 387 - jõust. 01.09.2002\]
+
+#### § 262<sup>1</sup>. Juriidilise isiku ja konsolideerimisgrupi käive
+
+(1) Käesolevas peatükis nimetatud juriidilise isiku käive on aastane kogukäive vastavalt viimasele kättesaadavale juhtimisorgani kinnitatud raamatupidamise aruandele. Kui juriidiline isik on emaettevõtja või sellise emaettevõtja tütarettevõtja, kes peab koostama konsolideeritud finantsaruandeid, siis on käesoleva lõike esimeses lauses nimetatud kogukäive aastane kogukäive või vastav tululiik viimase kättesaadava konsolideeritud raamatupidamise aruande järgi, mille on heaks kiitnud kõrgeima taseme emaettevõtja juhtimisorgan.
+
+(2) Käesoleva seaduse §-des 237<sup>8</sup>, 237<sup>10</sup>, 237<sup>27</sup> ja 237<sup>86</sup> nimetatud juriidilise isiku käive on aastane netokäive eelmisel majandusaastal, sealhulgas brutotulu, mis koosneb saadaolevatest intressidest ja samalaadsetest tuludest, tuludest aktsiatelt ja muudelt muutuv- või püsituluga väärtpaberitelt ning saadaolevatest komisjoni- või teenustasudest kooskõlas Euroopa Parlamendi ja nõukogu määruse (EL) nr 575/2013 artikliga 316. Kui juriidiline isik on emaettevõtja tütarettevõtja, on käesoleva lõike esimeses lauses nimetatud kogutuluks kogutulu eelmise majandusaasta konsolideeritud aastaaruande järgi.
+
+(3) Käesoleva seaduse §-s 237<sup>80</sup> nimetatud juriidilise isiku käive on aastane netokäive vastavalt viimasele kättesaadavale juhtimisorgani kinnitatud raamatupidamise aruandele. Kui juriidiline isik on emaettevõtja või sellise emaettevõtja tütarettevõtja, kes peab koostama konsolideeritud finantsaruandeid, siis on käesoleva lõike esimeses lauses nimetatud käive aastane netokäive või vastav tululiik viimase kättesaadava konsolideeritud raamatupidamise aruande järgi, mille on heaks kiitnud kõrgeima taseme emaettevõtja juhtimisorgan.
+
+\[RT I, 17.03.2023, 2 - jõust. 01.11.2023\]
+
+#### § 262<sup>2</sup>. Aegumine
+
+\[Kehtetu - RT I, 11.10.2024, 1 - jõust. 21.10.2024\]
+
+#### § 262<sup>3</sup>. Menetlus
+
+(1) Käesolevas peatükis nimetatud väärtegude kohtuväline menetleja on inspektsioon.
+
+(2) Käesolevas peatükis sätestatud väärtegude aegumistähtaeg on kolm aastat.
+
+\[RT I, 11.10.2024, 1 - jõust. 21.10.2024\]
+
+## 7. osa — SEADUSE RAKENDAMINE
+
+### 26. peatükk — RAKENDUSSÄTTED
+
+#### § 263. Seaduse kehtetuks tunnistamine
+
+\[Käesolevast tekstist välja jäetud.\]
+
+#### § 264. Tegevuslubade kehtivus
+
+(1) Käesoleva seaduse jõustumise ajal kehtivat tegevusluba omavate väärtpaberituru kutseliste osaliste tegevusload kehtivad kuni vastavate tegevuslubade kehtivuse tähtaja lõpuni või nende kehtetuks tunnistamiseni käesolevas seaduses sätestatud korras.
+
+(2) Käesoleva seaduse jõustumiseni kehtinud väärtpaberituru seaduses sätestatud väärtpaberivahendaja suhtes kohaldatakse käesolevas seaduses investeerimisühingu kohta sätestatut.
+
+#### § 265. Tegevuse kooskõlla viimine
+
+(1) Käesoleva seaduse jõustumise ajal kehtivat tegevusluba omavad väärtpaberituru kutselised osalised peavad oma tegevuse ja dokumendid viima käesolevas seaduses sätestatuga vastavusse kuue kuu jooksul, arvates käesoleva seaduse jõustumisest, kui käesoleva paragrahvi lõikest 2 ei tulene teisiti.
+
+(2) Käesoleva seaduse jõustumise ajal kehtivat tegevusluba omavate väärtpaberituru kutseliste osaliste aktsiakapital peab hiljemalt 2002. aasta 1. juuniks olema vähemalt 125 000 eurot ning peab hiljemalt 2003. aasta 1. juuniks vastama käesoleva seaduse § 93 lõike 1 punktis 2 ja § 152 lõikes 1 sätestatud nõuetele.
+
+(3) Käesoleva seaduse §-s 91 sätestatud teavitamiskohustust kohaldatakse investeerimisühingutele alates 2004. aasta 1. jaanuarist.
+
+\[RT I 2002, 102, 600 - jõust. 26.12.2002\]
+
+#### § 265<sup>1</sup>. Üleminekusätted usaldatavusnõuete arvutamisel pärast 2007. aasta 24. oktoobril vastuvõetud redaktsiooni jõustumist
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(1) Enne 2008. aasta 31. detsembrit seoses usaldatavusnormatiivide arvutamisega antud inspektsiooni load jäävad kehtima ulatuses, mis ei ole vastuolus käesoleva seadusega ja selle alusel antud õigusaktidega.
+
+\[RT I 2008, 31, 193 - jõust. 09.07.2008\]
+
+(2) Kuni 2008. aasta 31. detsembrini võib investeerimisühing kohaldada riskiga kaalutud varade arvutamisel õigusnorme, mis kehtisid enne 2007. aasta 24. oktoobril vastuvõetud redaktsiooni jõustumist.
+
+\[RT I 2008, 31, 193 - jõust. 09.07.2008\]
+
+(3) Kuni 2010. aasta 31. detsembrini ei kohaldata käesolevas seaduses sätestatud usaldatavusnõudeid investeerimisühingutele, kelle põhitegevuseks on käesoleva seaduse § 2 lõikes 11 nimetatud väärtpaberitega kauplemine või nendega seotud muude investeerimisteenuste osutamine.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+(4) Käesolevas paragrahvis nimetamata osas kohaldatakse investeerimisühingutele kapitalinõuete ja omavahendite arvutamisel krediidiasutuste seaduse §-des 141<sup>1</sup>–141<sup>4</sup> kehtestatud üleminekusätteid.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 265<sup>2</sup>. Tegevuslubade kehtivus pärast 2007. aasta 24. oktoobril vastuvõetud redaktsiooni jõustumist
+
+(1) 2007. aasta 24. oktoobril vastuvõetud redaktsiooni jõustumise ajal kehtivat tegevusluba omav investeerimisühing, krediidiasutus või fondivalitseja peab esitama hiljemalt kuue kuu jooksul 2007. aasta 24. oktoobril vastuvõetud redaktsiooni jõustumisest arvates inspektsioonile teate, milliseid käesoleva seaduse § 43 lõikes 1 ja §-s 44 nimetatud investeerimis- või investeerimiskõrvalteenuseid ta osutab.
+
+(2) Pärast käesoleva paragrahvi lõikes 1 nimetatud teate esitamist võib investeerimisühing, krediidiasutus või fondivalitseja osutada vaid selles teates nimetatud investeerimis- või investeerimiskõrvalteenuseid, välja arvatud juhul, kui talle on antud õigus nimetatud teenuste osutamiseks.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 265<sup>3</sup>. Investeerimisteenuste osutamisega seotud tegevuse kooskõlla viimine 2007. aasta 24. oktoobril vastuvõetud redaktsiooniga
+
+(1) Investeerimisühing, krediidiasutus, reguleeritud turu korraldaja ja fondivalitseja on kohustatud viima oma tegevuse kooskõlla 2007. aasta 24. oktoobril vastuvõetud redaktsiooni (edaspidi käesolevas paragrahvis *käesolev redaktsioon*) nõuetega käesoleva redaktsiooni jõustumise ajaks.
+
+(2) Investeerimisühing, krediidiasutus ja turu korraldaja peavad oma tegevuse, mis on samaväärne mitmepoolse kauplemissüsteemi korraldamisega, viima käesoleva redaktsiooni nõuetega kooskõlla käesoleva redaktsiooni jõustumise ajaks.
+
+(3) Investeerimisühing, krediidiasutus ja fondivalitseja peavad oma tegevuse, mis on samaväärne investeerimisnõustamisega, viima käesoleva redaktsiooni nõuetega kooskõlla käesoleva redaktsiooni jõustumise ajaks.
+
+(4) Kui turu korraldaja tegeles mitmepoolse kauplemissüsteemi korraldamisega samaväärse tegevusega enne käesoleva redaktsiooni jõustumist, annab inspektsioon talle tegevusloa mitmepoolse kauplemissüsteemi korraldamiseks enne 2008. aasta 31. juulit esitatud vastava taotluse alusel ilma täiendava tegevusloa taotlemise korda rakendamata juhul, kui turu korraldaja tegevus on kooskõlas käesoleva redaktsiooni nõuetega.
+
+(5) Kui investeerimisühing, krediidiasutus ja fondivalitseja tegelesid investeerimisnõustamisega samaväärse tegevusega enne käesoleva redaktsiooni jõustumist, annab inspektsioon neile tegevusloa investeerimisnõustamisega tegelemiseks enne 2008. aasta 31. juulit esitatud vastava taotluse alusel ilma täiendava tegevusloa taotlemise korda rakendamata juhul, kui investeerimisühingu, krediidiasutuse ja fondivalitseja tegevus on kooskõlas käesoleva redaktsiooni nõuetega.
+
+(6) Käesoleva seaduse § 134 lõikes 3 sätestatut ei kohaldata nende turul osalejate ja kaugliikmete suhtes, kes olid turu liikmeteks enne käesoleva redaktsiooni jõustumist.
+
+(7) Kui investeerimisühing, krediidiasutus ja fondivalitseja on enne käesoleva redaktsiooni jõustumist kliendid vastavalt hindamismeetoditele, mis tuginevad kliendi asjatundlikkusele, kogemustele ja teadmistele, liigitanud asjatundlikeks klientideks, siis kehtib selline liigitus ka pärast käesoleva redaktsiooni jõustumist. Nimetatud investeerimisühing, krediidiasutus ja fondivalitseja peavad kliente teavitama tavakliendi, asjatundliku kliendi või võrdse vastaspoolena käsitamise eeldustest, samuti võimalustest oma liigitust muuta.
+
+\[RT I 2007, 58, 380 - jõust. 19.11.2007\]
+
+#### § 265<sup>4</sup>. Korraldatud teabega seotud tegevuse kooskõlla viimine 2007. aasta 24. oktoobril vastuvõetud redaktsiooniga
+
+(1) \[Kehtetu - RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+(2) Majandusaastal, mis algas 2006. aastal, ei ole Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1606/2002 artiklis 9 nimetatud emitendid kohustatud järgima käesoleva seaduse § 184<sup>11</sup> lõikes 3 sätestatud kohustust avalikustada raamatupidamisaruandeid kooskõlas Euroopa Parlamendi ja nõukogu määrusega (EÜ) nr 1606/2002.
+
+(3) Emitent, kelle registreeritud asukoht on kolmandas riigis ja kelle päritolulepinguriik vastavalt käesolevale seadusele on Eesti, ei ole kohustatud koostama käesoleva seaduse §-des 184<sup>10</sup> ja 184<sup>11</sup> nimetatud raamatupidamisaruandeid nimetatud paragrahvide kohaselt, kui see emitent koostab oma aruanded Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1606/2002 artiklis 9 nimetatud rahvusvaheliselt tunnustatud standardite kohaselt.
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+(4) Emitent, kelle päritolulepinguriik vastavalt käesolevale seadusele on Eesti, ei ole kümne aasta jooksul alates 2005. aasta 1. jaanuarist kohustatud järgima käesoleva seaduse §-s 184<sup>11</sup> võlaväärtpaberite kohta sätestatut, kui need võlaväärtpaberid on võetud kauplemisele lepinguriigi reguleeritud turul enne 2005. aasta 1. jaanuari ning kui päritolulepinguriik oli otsustanud kohaldada selle emitendi suhtes nimetatud võlaväärtpaberite kauplemisele võtmise hetkel prospektidirektiivi artikli 27 alusel kehtestatud õigusaktides sätestatud erandit.
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+#### § 265<sup>5</sup>. Investeerimisühingu ja aktsiaemitendi tegevuse ja dokumentide kooskõlla viimine käesoleva seaduse 2011. aasta 23. veebruaril vastuvõetud redaktsiooniga
+
+(1) Investeerimisühing ja aktsiaemitent on kohustatud oma tegevuse ja dokumendid viima käesoleva seaduse 2011. aasta 23. veebruaril vastuvõetud redaktsiooni §-s 79<sup>1</sup>, § 85 lõikes 2, § 85<sup>3</sup> lõikes 1 ja §-s 135<sup>2</sup> sätestatud nõuetega kooskõlla hiljemalt 2011. aasta 30. juuniks. Kuni eelnimetatud redaktsiooniga vastavusse viimiseni peavad investeerimisühingu ja aktsiaemitendi tegevus ja dokumendid eelnimetatud nõuete osas vastama kuni nimetatud redaktsiooni jõustumiseni kehtinud õigusaktidele.
+
+(2) Käesoleva seaduse § 109 lõikes 3 ja § 110 lõikes 1 sätestatud majandusaasta aruande ja dokumentide esitamise ning avalikustamise tähtaega ei kohaldata investeerimisühingu 2010. aasta kohta koostatavatele dokumentidele. 2010. aasta kohta koostatavate majandusaasta aruande ja dokumentide esitamisele ning avalikustamisele kohaldatakse enne käesoleva paragrahvi lõikes 1 nimetatud redaktsiooni jõustumist kehtinud tähtaegu.
+
+\[RT I, 24.03.2011, 1 - jõust. 03.04.2011\]
+
+#### § 265<sup>6</sup>. Käesoleva seaduse 2012. aasta 1. juulil jõustunud redaktsiooni rakendamine avaliku pakkumise ja prospektiga seotud tegevuse ja dokumentide puhul
+
+(1) Prospekti puhul, mille registreerimise kohta on esitatud taotlus inspektsioonile ja mida inspektsioon ei ole enne 2012. aasta 1. juulit registreerinud, kohaldatakse enne 2012. aasta 1. juulit kehtinud õigust, kui käesolevas paragrahvis ei ole sätestatud teisiti.
+
+(2) Emitendi, pakkuja ja kauplemise taotleja kohustuste puhul, mis tulenevad enne 2012. aasta 1. juulit kehtinud õigusest, sealhulgas prospekti registreerimisega seotud kohustuste puhul, kohaldatakse alates 2012. aasta 1. juulist kehtivat õigust, mis sätestab selliseid kohustusi. Käesoleva lõike esimeses lauses sätestatut kohaldatakse ka käesoleva seaduse § 35 lõigetes 2 ja 3 sätestatud investori õigusele nõuda väärtpaberite märkimise tühistamist või tagasiostmist.
+
+\[RT I, 28.06.2012, 5 - jõust. 01.07.2012\]
+
+#### § 265<sup>7</sup>. Üleminekusätted § 184<sup>4</sup> rakendamisel
+
+(1) Käesoleva seaduse § 184<sup>4</sup> lõikes 1 sätestatud päritolulepinguriigi valiku avalikustamise kohustust ei kohaldata, kui emitent valib käesoleva seaduse § 13<sup>1</sup> kohaselt päritolulepinguriigiks Eesti ja teavitab sellest valikust inspektsiooni enne 2015. aasta 27. novembrit, välja arvatud, kui see emitent valib pärast 2015. aasta 27. novembrit uue päritolulepinguriigi.
+
+(2) Kui emitendi väärtpaberid on Eestis reguleeritud turul kauplemisele võetud enne 2015. aasta 27. novembrit ja emitent ei ole oma päritolulepinguriigi valikut enne 2015. aasta 27. novembrit avalikustanud, algab käesoleva seaduse § 184<sup>4</sup> lõikes 2 sätestatud kolmekuulise tähtaja kulgemine 2015. aasta 27. novembrist.
+
+\[RT I, 14.11.2015, 1 - jõust. 24.11.2015\]
+
+#### § 265<sup>8</sup>. Üleminekusäte käesoleva seaduse § 15 lõike 6 rakendamisel
+
+\[Kehtetu - RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+#### § 266. Olulise osaluse loa taotlemine
+
+(1) Käesoleva seaduse §-s 73 sätestatud olulise osaluse omandanud isik, kellel ei ole samas paragrahvis sätestatud olulise osaluse luba, peab selle taotlema vastavalt käesolevale seadusele kuue kuu jooksul, arvates käesoleva seaduse jõustumisest.
+
+(2) Kui isik ei täida käesoleva paragrahvi lõikes 1 sätestatud kohustust, peab ta oma käesoleva seaduse §-s 73 nimetatud künnist ületava osaluse võõrandama 2002. aasta 31. maiks. Alates 2002. aasta 1. juunist ei tohi ta kasutada sellest osalusest tulenevat hääleõigust.
+
+#### § 267.
+
+\[Kehtetu - RT I 2010, 22, 108 - jõust. 01.01.2011\]
+
+#### § 268. Ülevõtmiskomisjon
+
+(1) Kuni 2002. aasta 1. septembrini on ülevõtmispakkumiste kooskõlastamise ja erandite tegemise otsustamise ainupädevus inspektsiooni määratud börsikorraldaja juures tegutseval ülevõtmispakkumisi kooskõlastaval komisjonil (edaspidi *ülevõtmiskomisjon*).
+
+(2) Ülevõtmiskomisjonil on õigus nõuda ülevõtjalt ja sihtemitendilt teavet seoses ülevõtmispakkumisega.
+
+(3) Ülevõtmiskomisjoni poolt oma ülesannete täitmisel tekitatud kahju hüvitatakse riigi poolt õigusaktis sätestatud alustel ja korras. Riigil on tekitatud kahju hüvitamise korral tagasinõude õigus.
+
+(4) Ülevõtmiskomisjoni organisatsiooniline ülesehitus, õigused ja kohustused sätestatakse börsikorraldaja reglemendis.
+
+#### § 269. Ülevõtmiskomisjoni koosseis
+
+(1) Ülevõtmiskomisjoni kuulub viis liiget, kellest kolm nimetab börsikorraldaja ja kaks inspektsiooni juhatuse esimees. Ülevõtmiskomisjoni liikmed valivad endi hulgast ülevõtmiskomisjoni esimehe, kes koordineerib ülevõtmiskomisjoni tööd.
+
+(2) Ülevõtmiskomisjoni liige ei võta ülevõtmispakkumise kooskõlastamise ja erandi tegemise otsustamisest osa, kui ta on otseselt või kaudselt huvitatud asja lahendist või esineb põhjendatud kahtlus selle liikme erapooletuses.
+
+(3) Kui ülevõtmiskomisjoni liige ei saa käesoleva paragrahvi lõikes 2 sätestatud asjaolude ilmnemisel või muu erakorralise asjaolu tõttu isiklikult ülevõtmiskomisjoni töös osaleda, määrab selle isiku ülevõtmiskomisjoni liikmeks nimetanud börsikorraldaja või inspektsiooni juhatuse esimees temale asendaja.
+
+(4) Ülevõtmiskomisjoni liikmed on kohustatud seoses tegevusega ülevõtmiskomisjonis hoidma saadud avalikustamisele mittekuuluvat teavet tähtajatult saladuses, välja arvatud juhtudel, kui avalikustamisele mittekuuluva teabe avalikustamise kohustus tuleneb seadusest.
+
+#### § 270. Ülevõtmiskomisjoni otsus
+
+(1) Igal ülevõtmiskomisjoni liikmel on üks hääl. Liikmel ei ole õigust hääletamisest keelduda ega erapooletuks jääda, välja arvatud juhul, kui ta huvide konflikti tõttu ei või osaleda hääletamisel.
+
+(2) Ülevõtmiskomisjoni otsus on vastu võetud, kui selle poolt hääletas vähemalt kolm ülevõtmiskomisjoni liiget.
+
+#### § 271. Järelevalve ülevõtmispakkumiste üle
+
+(1) Kuni 2002. aasta 1. septembrini kontrollib ülevõtmispakkumiste vastavust õigusaktidele koostöös inspektsiooniga ning nõustab ja teenindab ülevõtmiskomisjoni inspektsiooni poolt määratud börsikorraldaja.
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud börsikorraldajal on kooskõlastatult inspektsiooniga õigus kehtestada ülevõtjale teenustasu ülevõtmispakkumise kooskõlastamise menetluse läbiviimiseks ja oma ülevõtmiskomisjoni tegevuse kulude katteks.
+
+#### § 272. Väärtpaberiarveldussüsteemi korraldajale rakendatavad erisused
+
+\[Kehtetu - RT I, 26.06.2017, 1 - jõust. 06.07.2017\]
+
+#### § 272<sup>1</sup>. Investeerimisühingu tegevuse ja dokumentide kooskõlla viimine käesoleva seaduse 2014. aasta 16. aprillil vastuvõetud redaktsiooniga
+
+Käesoleva seaduse 2014. aasta 16. aprillil vastuvõetud redaktsiooni § 94 lõike 1 rakendamisel kohaldatakse investeerimisühingutele krediidiasutuste seaduse § 141<sup>9</sup> lõigetes 1–3, 5 ja 6 sätestatut.
+
+\[RT I, 09.05.2014, 2 - jõust. 19.05.2014\]
+
+#### § 272<sup>2</sup>. Investeerimisühingu tegevuse ja dokumentide kooskõlla viimine käesoleva seaduse 2018. aasta 19. detsembril vastuvõetud redaktsiooniga
+
+Investeerimisühing on kohustatud oma tegevuse ja dokumendid viima käesoleva seaduse 2018. aasta 19. detsembril vastuvõetud redaktsioonis sätestatud nõuetega kooskõlla 2019. aasta 31. maiks.
+
+\[RT I, 10.01.2019, 1 - jõust. 20.01.2019\]
+
+#### § 272<sup>3</sup>. Käesoleva seaduse § 135<sup>2</sup> lõike 9 punktide 3–6 ning lõigete 11 ja 12 ning §-de 135<sup>3</sup> ja 135<sup>4</sup> kohaldamine
+
+Käesoleva seaduse § 135<sup>2</sup> lõike 9 punkte 3–6 ning lõikeid 11 ja 12 ning §-e 135<sup>3</sup> ja 135<sup>4</sup> kohaldatakse alates 2020. aasta 31. detsembrile järgnevast aktsiaemitendi majandusaastast.
+
+\[RT I, 04.12.2019, 1 - jõust. 14.12.2019\]
+
+#### § 272<sup>4</sup>. Käesoleva seaduse § 184<sup>10</sup> lõike 1<sup>1</sup> kohaldamine
+
+Käesoleva seaduse § 184<sup>10</sup> lõiget 1<sup>1</sup> kohaldatakse aruandeperioodidele, mis algavad 2021. aasta 1. jaanuaril või hiljem.
+
+\[RT I, 13.05.2021, 1 - jõust. 01.06.2021\]
+
+#### § 272<sup>5</sup>. Käesoleva seaduse § 87<sup>7</sup> kohaldamine
+
+(1) Käesoleva seaduse §-s 87<sup>7</sup> sätestatud nõudeid ei kohaldata kõlblike kohustuste suhtes, mis on emiteeritud enne 2020. aasta 28. detsembrit.
+
+(2) Kui finantskriisi ennetamise ja lahendamise seaduse § 2 lõike 1 punktides 1–5 nimetatud isikute vara koguväärtus ei ületa 50 miljardit eurot, ei pea käesoleva seaduse § 87<sup>7</sup> punktis 1 sätestatud nõuet kohaldama. Sel juhul peab ühte või mitmesse allutatud kõlblikku kohustusse investeeritav esialgne miinimumsumma olema vähemalt 10 000 eurot. Esialgne miinimumsumma piirmäär loetakse muu hulgas täidetuks, kui vastava kohustuse nominaalne väärtus on 10 000 eurot.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+(3) Valdkonna eest vastutav minister võib määrusega täpsustada, mis tingimustel ja mis ajaks kohustuvad allutatud kõlblike kohustuste müüjad viima oma tegevuse kooskõlla käesoleva seaduse §-s 87<sup>7</sup> sätestatud nõuetega, kui käesoleva paragrahvi lõikes 2 nimetatud finantsasutuse vara koguväärtus on suurem kui 50 miljardit eurot.
+
+\[RT I, 11.11.2025, 1 - jõust. 21.11.2025\]
+
+#### § 272<sup>6</sup>. Käesoleva seaduse § 87<sup>3</sup> lõike 11 kohaldamine
+
+Käesoleva seaduse § 87<sup>3</sup> lõikes 11 nimetatud andmete avalikustamine peatatakse kuni 2023. aasta 28. veebruarini.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+#### § 272<sup>7</sup>. Investeerimisühingu raamatupidamise aastaaruande auditeerimine
+
+Käesoleva seaduse § 111 lõike 1 esimest lauset kohaldatakse nende raamatupidamise aastaaruannete koostamise suhtes, mille majandusaasta lõppeb 2022. aastal või hiljem.
+
+\[RT I, 29.03.2022, 3 - jõust. 08.04.2022\]
+
+#### § 272<sup>8</sup>. Investeerimisteenuse osutaja tegevuse ja dokumentide kooskõlla viimine käesoleva seaduse 2022. aasta 21. augustil jõustunud redaktsiooniga
+
+Investeerimisteenuse osutaja on kohustatud oma tegevuse ja dokumendid viima kooskõlla käesoleva seaduse 2022. aasta 21. augustil jõustunud redaktsiooni §-dest 82<sup>10</sup>, 82<sup>11</sup>, 82<sup>13</sup> ja 82<sup>14</sup> tulenevate nõuetega 2022. aasta 22. novembriks.
+
+\[RT I, 03.06.2022, 5 - jõust. 21.08.2022\]
+
+#### § 272<sup>9</sup>. Aktsiaemitendi soolise tasakaalu eesmärkide saavutamine
+
+Aktsiaemitent viib oma tegevuse käesoleva seaduse §-ga 135<sup>6</sup> kooskõlla hiljemalt 2026. aasta 30. juuniks.
+
+\[RT I, 10.06.2025, 1 - jõust. 20.06.2025\]
+
+#### § 272<sup>10</sup>. Finantsinspektsioonile teabe esitamine
+
+Käesoleva seaduse § 135<sup>9</sup> lõikes 1 nimetatud teave esitatakse Finantsinspektsioonile esimest korda hiljemalt 2026. aasta 30. juunil.
+
+\[RT I, 10.06.2025, 1 - jõust. 20.06.2025\]
+
+#### § 272<sup>11</sup>. Korraldatud teabe avalikustamine Euroopa ühtse juurdepääsupunki kaudu
+
+Käesoleva seaduse § 184<sup>6</sup> lõiget 5<sup>1</sup> ja § 230 lõiget 4<sup>4</sup> kohaldatakse alates 2026. aasta 10. juulist.
+
+\[RT I, 30.12.2025, 1 - jõust. 09.01.2026\]
+
+#### § 272<sup>12</sup>. Reguleeritud väärtpaberituru korraldaja tegevuse ja dokumentide kooskõlla viimine käesoleva seaduse 2026. aasta 17. juunil vastuvõetud redaktsiooni § 127 lõike 2 punktiga 10 ja 18. peatüki kehtetuks tunnistamisega
+
+Reguleeritud väärtpaberituru korraldaja on kohustatud viima oma tegevuse ja dokumendid kooskõlla käesoleva seaduse 2026. aasta 17. juunil vastuvõetud redaktsiooni § 127 lõike 2 punktiga 10 ja 18. peatüki kehtetuks tunnistamisega hiljemalt 2026. aasta 5. detsembriks.
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026\]
+
+### 27. peatükk — MUUDATUSED TEISTES SEADUSTES
+
+#### § 273.
+
+–
+
+#### § 276.
+
+\[Käesolevast tekstist välja jäetud.\]
+
+### 28. peatükk — SEADUSE JÕUSTUMINE
+
+#### § 277. Seaduse jõustumine
+
+(1) Käesolev seadus jõustub 2002. aasta 1. jaanuaril.
+
+(2) Käesoleva seaduse §-d 38, 64, 65, 69 ja § 70 lõiked 2–4 jõustuvad Eesti ühinemisel Euroopa Liiduga.
+
+(3) Käesoleva seaduse § 230 lõike 1 punkt 6 jõustub 2018. aasta 3. jaanuaril.
+
+\[RT I, 07.04.2017, 2 - jõust. 17.04.2017\]
+
+---
+
+<sup>1</sup> Euroopa Parlamendi ja nõukogu direktiiv 98/26/EÜ arvelduse lõplikkuse kohta makse- ja väärtpaberiarveldussüsteemides (EÜT L 166, 11.6.1998, lk 45–50), viimati muudetud direktiiviga 2010/78/EL (ELT L 331, 15.12.2010, lk 120–161);\
+
+ Euroopa Parlamendi ja nõukogu direktiiv 2002/87/EÜ, milles käsitletakse finantskonglomeraati kuuluvate krediidiasutuste, kindlustusseltside ja investeerimisühingute täiendavat järelevalvet ning millega muudetakse nõukogu direktiive 73/239/EMÜ, 79/267/EMÜ, 92/49/EMÜ, 92/96/EMÜ, 93/6/EMÜ ja 93/22/EMÜ ja Euroopa Parlamendi ja nõukogu direktiive 98/78/EÜ ja 2000/12/EÜ (ELT L 35, 11.02.2003, lk 1–27), muudetud direktiividega 2005/1/EÜ (ELT L 79, 24.03.2005, lk 9–17), 2006/48/EÜ (ELT L 177, 30.06.2006, lk 1–200), 2008/25/EÜ (ELT L 81, 20.03.2008, lk 40–41), 2009/138/EÜ (ELT L 335, 17.12.2009, lk 1–155), 2010/78/EL (ELT L 331, 15.12.2010, lk 120–161), 2011/89/EL (ELT L 326, 08.12.2011, lk 113–141) ja 2013/36/EL (ELT L 176, 27.06.2013, lk 338–436);\
+
+ Euroopa Parlamendi ja nõukogu direktiiv 2004/25/EÜ ülevõtmispakkumiste kohta (ELT L 142, 30.4.2004, lk 12–23), viimati muudetud määrusega (EÜ) nr 219/2009 (ELT L 87, 31.3.2009, lk 109–154);\
+
+ Euroopa Parlamendi ja nõukogu direktiiv 2004/109/EÜ läbipaistvuse nõuete ühtlustamise kohta teabele, mis kuulub avaldamisele emitentide kohta, kelle väärtpaberid on lubatud reguleeritud turul kauplemisele, ning millega muudetakse direktiivi 2001/34/EÜ (ELT L 390, 31.12.2004, lk 38–57), muudetud direktiividega 2013/50/EL (ELT L 294, 06.11.2013, lk 13–27), (EL) 2022/2646 (ELT L 322, 16.12.2022, lk 15–80) ja (EL) 2023/2775 (ELT L 2023/2775, 21.12.2023);\
+
+ Euroopa Parlamendi ja nõukogu direktiiv 2013/36/EL, mis käsitleb krediidiasutuste tegevuse alustamise tingimusi ning krediidiasutuste usaldatavusnõuete täitmise järelevalvet, millega muudetakse direktiivi 2002/87/EÜ ning millega tunnistatakse kehtetuks direktiivid 2006/48/EÜ ja 2006/49/EÜ (ELT L 176, 27.06.2013, lk 338–436), muudetud direktiividega 2014/17/EL (ELT L 60, 28.02.2014, lk 34–85), 2014/59/EL (ELT L 173, 12.06.2014, lk 190–348), (EL) 2015/2366 (ELT L 337, 23.12.2015, lk 35–127), (EL) 2018/843 (ELT L 156, 19.06.2018, lk 43–74), (EL) 2019/878 (ELT L 150, 07.06.2019, lk 253–295), (EL) 2019/2034 (ELT L 314, 05.12.2019, lk 64–114), (EL) 2022/2556 (ELT L 333, 27.12.2022, lk 153–163) ja (EL) 2024/1619 (ELT L, 2024/1619, 19.06.2024);\
+
+ komisjoni direktiiv 2007/14/EÜ, milles sätestatakse direktiivi 2004/109/EÜ (läbipaistvuse nõuete ühtlustamise kohta teabele, mis kuulub avaldamisele emitentide kohta, kelle väärtpaberid on lubatud reguleeritud turul kauplemisele) teatavate sätete üksikasjalikud rakenduseeskirjad (ELT L 69, 09.03.2007, lk 27–36), viimati muudetud direktiiviga 2013/50/EL (ELT L 294, 06.11.2013, lk 13–27);\
+
+ Euroopa Parlamendi ja nõukogu direktiiv 2014/65/EL finantsinstrumentide turgude kohta ning millega muudetakse direktiive 2002/92/EÜ ja 2011/61/EL (ELT L 173, 12.06.2014, lk 349–496), muudetud määrustega (EL) nr 909/2014 (ELT L 257, 28.08.2014, lk 1–72) ja (EL) 2019/2115 (ELT L 320, 11.12.2019, lk 1–10) ning direktiividega (EL) 2016/97 (ELT L 26, 02.02.2016, lk 19–59), (EL) 2016/1034 (ELT L 175, 30.06.2016, lk 8–11), (EL) 2019/2034 (ELT L 314, 05.12.2019, lk 64–114) ja (EL) 2022/2556 (ELT L 333, 27.12.2022, lk 153–163);\
+
+ komisjoni delegeeritud direktiiv (EL) nr 2017/593, millega täiendatakse Euroopa Parlamendi ja nõukogu direktiivi 2014/65/EL seoses kliendi finantsinstrumentide ja vahendite kaitsmisega, tootejuhtimise kohustuste ja normidega, mida kohaldatakse teenustasu, vahendustasu või mis tahes muu rahalise või mitterahalise hüve maksmise või saamise suhtes (ELT L 87, 31.03.2017, lk 500–517);\
+
+ Euroopa Parlamendi ja nõukogu direktiiv (EL) 2017/828, millega muudetakse direktiivi 2007/36/EÜ seoses aktsionäride pikaajalise kaasamise soodustamisega (ELT L 132, 20.05.2017, lk 1–25);\
+
+ Euroopa Parlamendi ja nõukogu direktiiv (EL) 2019/879, millega muudetakse direktiivi 2014/59/EL seoses krediidiasutuste ja investeerimisühingute kahjumikatmis- ja rekapitaliseerimisvõimega ning direktiivi 98/26/EÜ (ELT L 150, 07.06.2019, lk 296–344);\
+
+ Euroopa Parlamendi ja nõukogu direktiiv (EL) 2019/2034, mis käsitleb investeerimisühingute usaldatavusnõuete täitmise järelevalvet ning millega muudetakse direktiive 2002/87/EÜ, 2009/65/EÜ, 2011/61/EL, 2013/36/EL, 2014/59/EL ja 2014/65/EL (ELT L 314, 05.12.2019, lk 64–114);\
+
+ Euroopa Parlamendi ja nõukogu direktiiv (EL) 2020/1504, millega muudetakse direktiivi 2014/65/EL finantsinstrumentide turgude kohta (ELT L 347, 20.10.2020, lk 50–51);\
+
+ komisjoni delegeeritud direktiiv (EL) 2021/1269, millega muudetakse delegeeritud direktiivi (EL) 2017/593 seoses jätkusuutlikkustegurite arvestamise lõimimisega tootejuhtimiskohustustesse (ELT L 277, 02.08.2021, lk 137–140);\
+
+ Euroopa Parlamendi ja nõukogu direktiiv 2022/2381, milles käsitletakse soolise tasakaalu parandamist börsil noteeritud äriühingute juhtkonna liikmete seas ja sellega seotud meetmeid (ELT L 315, 07.12.2022, lk 44–59);\
+
+ Euroopa Parlamendi ja nõukogu direktiiv (EL) 2023/2864, millega muudetakse teatavaid direktiive seoses Euroopa ühtse juurdepääsupunkti loomise ja toimimisega (ELT L, 2023/2864, 20.12.2023);\
+
+ Euroopa Parlamendi ja nõukogu direktiiv (EL) 2024/790, millega muudetakse direktiivi 2014/65/EL finantsinstrumentide turgude kohta (ELT L, 2024/790, 08.03.2024);\
+
+ Euroopa Parlamendi ja nõukogu direktiiv (EL) 2024/2811, millega muudetakse direktiivi 2014/65/EL, et muuta liidu avalikud kapitaliturud äriühingute jaoks atraktiivsemaks ning hõlbustada väikeste ja keskmise suurusega ettevõtjate juurdepääsu kapitalile, ning tunnistatakse kehtetuks direktiiv 2001/34/EÜ (ELT L, 2024/2811, 14.11.2024);\
+
+Euroopa Parlamendi ja nõukogu direktiiv (EL) 2024/2994, millega muudetakse direktiive 2009/65/EÜ, 2013/36/EL ja (EL) 2019/2034 seoses kesksete vastaspoolte suhtes olevatest riskipositsioonidest tuleneva kontsentratsiooniriski ja keskselt kliiritavate tuletistehingute vastaspoole riski käsitlemisega (ELT L, 2024/2994, 04.12.2024);\
+
+komisjoni delegeeritud direktiiv (EL) 2026/374, millega muudetakse delegeeritud direktiivi (EL) 2017/593 seoses tingimustega, mille alusel osutavad kolmandad isikud täitmis- ja analüüsiteenuseid investeerimisühingutele, kes osutavad portfellivalitsemise või muid investeerimis- või kõrvalteenuseid (ELT L, 2026/374, 02.06.2026).
+
+\[RT I, 11.07.2026, 2 - jõust. 21.07.2026, osaliselt muudetud \[RT I, 11.07.2026, 7\]\]
+
+## Lisad
+
+- Lisa — [VPTS\_2025\_lisa.pdf](https://www.riigiteataja.ee/aktilisa/1110/7202/6030/VPTS_2025_lisa.pdf)
+
+Lisa

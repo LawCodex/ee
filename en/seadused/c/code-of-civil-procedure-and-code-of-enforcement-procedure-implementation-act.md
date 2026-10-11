@@ -13,7 +13,7 @@ date: 2005-06-15
 last_amended: 2026-02-23
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/523012026005"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "107012026010"
 ---
@@ -21,8 +21,6 @@ translation_of: "107012026010"
 # Code of Civil Procedure and Code of Enforcement Procedure Implementation Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -315,4 +313,6 @@ The Government of the Republic arranges publication of the consolidated text of 
 
 ---
 
-Directive (EU) 2020/1828 of the European Parliament and of the Council on representative actions for the protection of the collective interests of consumers and repealing Directive 2009/22/EC (OJ L 409, 04.12.2024, pp. 1–27).
+<sup>1</sup> Directive (EU) 2020/1828 of the European Parliament and of the Council on representative actions for the protection of the collective interests of consumers and repealing Directive 2009/22/EC (OJ L 409, 04.12.2024, pp. 1–27).
+
+\[RT I, 31.12.2024, 5 - entry into force 01.01.2025\]

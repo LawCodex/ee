@@ -13,7 +13,7 @@ date: 2022-06-01
 last_amended: 2025-01-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/520032025004"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "114032025014"
 ---
@@ -21,8 +21,6 @@ translation_of: "114032025014"
 # Natural Person Insolvency Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — General Provisions
 
@@ -1074,4 +1072,4 @@ This Act enters into force on 1 July 2022.
 
 ---
 
-Directive (EU) 2019/1023 of the European Parliament and of the Council on preventive restructuring frameworks, on discharge of debt and disqualifications, and on measures to increase the efficiency of procedures concerning restructuring, insolvency and discharge of debt, and amending Directive (EU) 2017/1132 (OJ L 172, 26.6.2019, p. 18–55).
+<sup>1</sup> Directive (EU) 2019/1023 of the European Parliament and of the Council on preventive restructuring frameworks, on discharge of debt and disqualifications, and on measures to increase the efficiency of procedures concerning restructuring, insolvency and discharge of debt, and amending Directive (EU) 2017/1132 (OJ L 172, 26.6.2019, p. 18–55).

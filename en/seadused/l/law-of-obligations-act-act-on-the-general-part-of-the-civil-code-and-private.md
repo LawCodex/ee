@@ -13,7 +13,7 @@ date: 2002-06-05
 last_amended: 2025-01-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/514012025001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "131122024050"
 ---
@@ -21,8 +21,6 @@ translation_of: "131122024050"
 # Law of Obligations Act, Act on the General Part of the Civil Code and Private International Law Act Implementation Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -253,4 +251,6 @@ The Government of the Republic and the relevant ministers shall bring regulation
 
 ---
 
-Directive (EU) 2020/1828 of the European Parliament and of the Council on representative actions for the protection of the collective interests of consumers and repealing Directive 2009/22/EC (OJ L 409, 04.12.2020, pp 1–27).
+<sup>1</sup> Directive (EU) 2020/1828 of the European Parliament and of the Council on representative actions for the protection of the collective interests of consumers and repealing Directive 2009/22/EC (OJ L 409, 04.12.2020, pp 1–27).
+
+\[RT I, 31.12.2024, 5 - entry into force 01.01.2025\]

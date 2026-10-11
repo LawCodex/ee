@@ -13,7 +13,7 @@ date: 2019-05-22
 last_amended: 2019-05-27
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/510122019005"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "124052019002"
 ---
@@ -21,8 +21,6 @@ translation_of: "124052019002"
 # Values of Nominal Capacities of Measuring Container Bottles and Maximum Permissible Errors of Nominal Capacities, Requirements for Marking of Measuring Container Bottles and Procedure for Checking Capacity of Measuring Container Bottles
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 The Regulation is established pursuant to subsection 17 (7) of the Metrology Act.
 
@@ -153,4 +151,4 @@ Ando Leppiman, Secretary General
 
 ---
 
-Council Directive 75/107/EEC on the approximation of the laws of the Member States relating to bottles used as measuring containers (OJ L 42, 15.2.1975, p. 14–20)
+<sup>1</sup> Council Directive 75/107/EEC on the approximation of the laws of the Member States relating to bottles used as measuring containers (OJ L 42, 15.2.1975, p. 14–20)

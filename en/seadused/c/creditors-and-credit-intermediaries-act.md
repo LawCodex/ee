@@ -13,7 +13,7 @@ date: 2015-02-18
 last_amended: 2026-06-30
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/506072026002"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "120062026024"
 ---
@@ -21,8 +21,6 @@ translation_of: "120062026024"
 # Creditors and Credit Intermediaries Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — General Provisions
 
@@ -2089,4 +2087,4 @@ The first report in accordance with § 57<sup>1</sup> of this Act is submitted t
 
 ---
 
-Directive 2014/17/EU of the European Parliament and of the Council on credit agreements for consumers relating to residential immovable property and amending Directives 2008/48/EC and 2013/36/EU and Regulation (EU) No 1093/2010 (OJ L 60, 28.2.2014, p. 34-85).
+<sup>1</sup> Directive 2014/17/EU of the European Parliament and of the Council on credit agreements for consumers relating to residential immovable property and amending Directives 2008/48/EC and 2013/36/EU and Regulation (EU) No 1093/2010 (OJ L 60, 28.2.2014, p. 34-85).

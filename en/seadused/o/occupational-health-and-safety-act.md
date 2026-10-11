@@ -14,7 +14,7 @@ date: 1999-06-16
 last_amended: 2026-07-13
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/510072026003"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "103072026046"
 ---
@@ -57,9 +57,7 @@ translation_of: "103072026046"
 
 (2) For the purposes of this Act, occupational safety is a system of work-related organisational measures and technical means to provide such a state of working environment which enables an employee to work without endangering their health.
 
-\[Repealed – RT I, 12.06.2018, 3 - entry into force 01.01.2019\]
-
-(3)
+(3) \[Repealed – RT I, 12.06.2018, 3 - entry into force 01.01.2019\]
 
 ## Chapter 2 — WORKING ENVIRONMENT
 
@@ -453,13 +451,9 @@ translation_of: "103072026046"
 
 \[RT I, 29.12.2020, 2 - entry into force 01.03.2021\]
 
-\[repealed – RT I, 29.12.2020, 2 - entry into force 01.03.2021\]
+4\) \[repealed – RT I, 29.12.2020, 2 - entry into force 01.03.2021\]
 
-4\)
-
-\[repealed – RT I, 29.12.2020, 2 - entry into force 01.03.2021\]
-
-5\)
+5\) \[repealed – RT I, 29.12.2020, 2 - entry into force 01.03.2021\]
 
 5<sup>1</sup>) ensure that only an employee who has received appropriate instruction or training works in a danger area or that work is performed under the supervision of such employee;
 
@@ -469,33 +463,25 @@ translation_of: "103072026046"
 
 \[RT I 2007, 3, 11 - entry into force 01.03.2007\]
 
-\[repealed – RT I, 29.12.2020, 2 - entry into force 01.03.2021\]
-
-6\)
+6\) \[repealed – RT I, 29.12.2020, 2 - entry into force 01.03.2021\]
 
 6<sup>1</sup>) apply measures provided in employment contracts and collective agreements to prevent damage to the health of an employee and neutralise the effect of the working environment hazards listed in §§ 6–9<sup>1</sup> of this Act;
 
 \[RT I, 09.11.2022, 1 - entry into force 19.11.2022\]
 
-\[repealed – RT I, 09.11.2022, 1 - entry into force 01.01.2023\]
-
-6<sup>2</sup>)
+6<sup>2</sup>) \[repealed – RT I, 09.11.2022, 1 - entry into force 01.01.2023\]
 
 7\) organise provision of an occupational health service;
 
 \[RT I, 09.11.2022, 1 - entry into force 01.01.2023\]
 
-\[repealed – RT I, 12.06.2018, 3 - entry into force 01.01.2019\]
-
-7<sup>1</sup>)
+7<sup>1</sup>) \[repealed – RT I, 12.06.2018, 3 - entry into force 01.01.2019\]
 
 8\) ensure access by all employees to first aid and first aid equipment in the workplace;
 
 \[RT I, 12.06.2018, 3 - entry into force 01.01.2019\]
 
-\[repealed – RT I, 12.06.2018, 3 - entry into force 01.01.2019\]
-
-9\)
+9\) \[repealed – RT I, 12.06.2018, 3 - entry into force 01.01.2019\]
 
 10\) transfer, at the request of an employee and on the decision of a doctor, the employee to another position temporarily or permanently or ease their working conditions temporarily pursuant to the procedure provided in Acts governing employment and service relationships;
 
@@ -517,13 +503,9 @@ translation_of: "103072026046"
 
 \[RT I 2007, 3, 11 - entry into force 01.03.2007\]
 
-\[repealed – RT I 2002, 47, 297 - entry into force 01.01.2003\]
+16\) \[repealed – RT I 2002, 47, 297 - entry into force 01.01.2003\]
 
-16\)
-
-\[repealed – RT I, 12.06.2018, 3 - entry into force 01.01.2019\]
-
-17\)
+17\) \[repealed – RT I, 12.06.2018, 3 - entry into force 01.01.2019\]
 
 18\) communicate a precept of the Labour Inspectorate to employees, the working environment specialist, the working environment council, working environment representatives and other representatives of employees;
 
@@ -801,9 +783,7 @@ translation_of: "103072026046"
 
 \[RT I 2007, 3, 11 - entry into force 01.03.2007\]
 
-\[Repealed – RT I 2009, 5, 35 - entry into force 01.07.2009\]
-
-(3)
+(3) \[Repealed – RT I 2009, 5, 35 - entry into force 01.07.2009\]
 
 (4) The occupational health and safety obligations of an employee do not discharge the employer from liability in this field, except in the event that duties are performed by way of teleworking and the employer has performed all the obligations specified in § 13<sup>5</sup> of this Act.
 
@@ -999,9 +979,7 @@ translation_of: "103072026046"
 
 (5) The names and term of authority of the working environment council members must be displayed in a visible place.
 
-\[Repealed – RT I, 12.06.2018, 3 - entry into force 01.01.2019\]
-
-(5<sup>1</sup>)
+(5<sup>1</sup>) \[Repealed – RT I, 12.06.2018, 3 - entry into force 01.01.2019\]
 
 (6) A working environment council:
 
@@ -1027,13 +1005,9 @@ translation_of: "103072026046"
 
 \[RT I 2009, 5, 35 - entry into force 01.07.2009\]
 
-\[Repealed – RT I, 12.06.2018, 3 - entry into force 01.01.2019\]
+(10) \[Repealed – RT I, 12.06.2018, 3 - entry into force 01.01.2019\]
 
-(10)
-
-\[Repealed – RT I, 12.06.2018, 3 - entry into force 01.01.2019\]
-
-(11)
+(11) \[Repealed – RT I, 12.06.2018, 3 - entry into force 01.01.2019\]
 
 ### § 18<sup>1</sup>. Training and refresher training of working environment representative and member of working environment council
 
@@ -1069,9 +1043,7 @@ translation_of: "103072026046"
 
 \[RT I, 09.11.2022, 1 - entry into force 01.01.2023\]
 
-\[Repealed – RT I, 09.11.2022, 1 - entry into force 01.01.2023\]
-
-(2)
+(2) \[Repealed – RT I, 09.11.2022, 1 - entry into force 01.01.2023\]
 
 (3) A person providing an occupational health service must be a competent measurer for the purposes of the Measuring Act if the occupational health service provided includes the measurement of the parameters of working environment hazards for which a requirement for a competent measurer is provided by legislation.
 
@@ -1113,9 +1085,7 @@ translation_of: "103072026046"
 
 2\) ensuring of the confidentiality of information concerning the health and private life of employees;
 
-\[repealed – RT I, 09.11.2022, 1 - entry into force 01.01.2023\]
-
-3\)
+3\) \[repealed – RT I, 09.11.2022, 1 - entry into force 01.01.2023\]
 
 4\) provision of information to employees concerning the risks associated with their professional activities and the working environment.
 
@@ -1125,9 +1095,7 @@ translation_of: "103072026046"
 
 \[RT I, 29.06.2014, 1 - entry into force 01.07.2014\]
 
-\[Repealed – RT I, 09.11.2022, 1 - entry into force 01.01.2023\]
-
-(3)
+(3) \[Repealed – RT I, 09.11.2022, 1 - entry into force 01.01.2023\]
 
 ### § 20. Occupational Health Centre
 
@@ -1153,9 +1121,7 @@ The Health Board:
 
 \[RT I 2004, 54, 389 - entry into force 15.07.2004\]
 
-\[repealed – RT I, 29.06.2014, 1 - entry into force 01.07.2014\]
-
-4\)
+4\) \[repealed – RT I, 29.06.2014, 1 - entry into force 01.07.2014\]
 
 ### § 21. Advisory Committee on Working Environment
 
@@ -1187,9 +1153,7 @@ The Health Board:
 
 (1) An occupational accident is damage to the health of an employee or death of an employee which occurred in the performance of a duty assigned by an employer or in other work performed with the employer’s permission, during a break included in the working time, or during other activity in the interests of the employer. Damage to health or death which occurred in the cases listed but which is not in a causal relation to the work of the employee or the working environment is not deemed to be occupational accident.
 
-\[Repealed – RT I, 09.11.2022, 1 - entry into force 19.11.2022\]
-
-(2)
+(2) \[Repealed – RT I, 09.11.2022, 1 - entry into force 19.11.2022\]
 
 (3) A doctor must promptly report a fatal occupational accident and an occupational accident as a result of which an employee was declared to be temporarily incapacitated for work to the Labour Inspectorate in writing or in a form reproducible in writing.
 
@@ -1269,9 +1233,7 @@ The Health Board:
 
 (8) The Labour Inspectorate has the right to require that an employer conduct further investigation and amend an occupational accident or occupational disease report if the Labour Inspectorate establishes that no investigation has been conducted or the report has not been drawn up in accordance with the requirements.
 
-\[Repealed – RT I, 10.01.2019, 2 - entry into force 20.01.2019\]
-
-(9)
+(9) \[Repealed – RT I, 10.01.2019, 2 - entry into force 20.01.2019\]
 
 (10) The procedure for registration, reporting and investigation of occupational accidents and occupational diseases is established by a regulation of the Government of the Republic.
 
@@ -1422,13 +1384,9 @@ The Health Board:
 
 \[RT I, 09.11.2022, 1 - entry into force 01.01.2023\]
 
-\[Repealed – RT I, 12.12.2018, 3 - entry into force 01.01.2019\]
+(3) \[Repealed – RT I, 12.12.2018, 3 - entry into force 01.01.2019\]
 
-(3)
-
-\[Repealed – RT I, 12.12.2018, 3 - entry into force 01.01.2019\]
-
-(4)
+(4) \[Repealed – RT I, 12.12.2018, 3 - entry into force 01.01.2019\]
 
 (5) The Labour Inspectorate is required, inter alia, to:
 
@@ -1590,9 +1548,7 @@ Compensation for damage resulting from health damage caused by work or from the 
 
 ### § 31<sup>4</sup>. Compensation for damage by Social Insurance Board
 
-\[Repealed – RT I, 17.12.2015, 1 - entry into force 01.07.2016\]
-
-(1)
+(1) \[Repealed – RT I, 17.12.2015, 1 - entry into force 01.07.2016\]
 
 (2) A person who is paid compensation by the Social Insurance Board on the basis of subsection 1 of § 473 of the Civil Code of the Estonian SSR at the time of entry into force of this section continues to receive compensation for proprietary damage caused through health damage or the death of a person arising from an occupational accident or occupational disease pursuant to the procedure applicable so far.
 

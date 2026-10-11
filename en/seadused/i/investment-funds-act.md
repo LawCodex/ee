@@ -14,7 +14,7 @@ date: 2016-12-14
 last_amended: 2026-07-21
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/517072026004"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "111072026070"
 ---
@@ -22,8 +22,6 @@ translation_of: "111072026070"
 # Investment Funds Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Part 1 — GENERAL PART
 
@@ -1292,9 +1290,7 @@ The provisions of this Chapter concerning a fund also apply to a sub-fund of a c
 
 (6) The net asset value of a unit of a pension fund is established on each day of issue and redemption of units but at least every seven days. The net asset value of a unit of a voluntary pension fund is established at the accuracy of at least four decimal places and in the case of a unit of a mandatory pension fund at the accuracy at least of five decimal places.
 
-\[Repealed – RT I, 27.10.2020, 1 - entry into force 06.11.2020\]
-
-(7)
+(7) \[Repealed – RT I, 27.10.2020, 1 - entry into force 06.11.2020\]
 
 (8) Units of a pension fund, except for a pension fund registered as a PEPP, are registered in accordance with the provisions of the Securities Register Maintenance Act.
 
@@ -1346,13 +1342,9 @@ The provisions of this Chapter concerning a fund also apply to a sub-fund of a c
 
 (6) The provisions of subsection 5 of this section do not apply to the fees, charges and expenses which, based on their nature, do not cause a conflict of interest between a unit-holder and the fund manager upon honest, professional provision of the fund management service based on the best interests of the unit-holder.
 
-\[Repealed – RT I, 28.12.2018, 1 - entry into force 01.01.2019\]
+(7) \[Repealed – RT I, 28.12.2018, 1 - entry into force 01.01.2019\]
 
-(7)
-
-\[Repealed – RT I, 28.12.2018, 1 - entry into force 01.01.2019\]
-
-(8)
+(8) \[Repealed – RT I, 28.12.2018, 1 - entry into force 01.01.2019\]
 
 ###### § 65<sup>1</sup>. Reduction of rate of base management fee of mandatory pension fund
 
@@ -2264,9 +2256,7 @@ The provisions of this Chapter concerning a fund also apply to a sub-fund of a c
 
 (4) The assets of a fund may be transferred upon transferring the assets of the fund during the liquidation proceedings of the fund or for other purposes for ensuring the protection of the best interests of the fund, unit-holders or shareholders of the fund on a regulated market at the price as at the time of transfer or at other fair price to the fund manager of this fund or a company which belongs to the same consolidation group or another fund managed by it.
 
-\[Repealed – RT I, 28.12.2018, 1 - entry into force 01.01.2019\]
-
-(5)
+(5) \[Repealed – RT I, 28.12.2018, 1 - entry into force 01.01.2019\]
 
 (6) No assets may be acquired for the account of a fund from persons specified in subsection 3 of this section, except for the cases provided in subsection 4 of this section.
 
@@ -2816,9 +2806,7 @@ Assets of a pension fund may be placed in precious metals, securities which unde
 
 ##### § 128. Investment in items of immovable property
 
-\[Repealed – RT I, 28.12.2018, 1 - entry into force 01.01.2019\]
-
-(1)
+(1) \[Repealed – RT I, 28.12.2018, 1 - entry into force 01.01.2019\]
 
 (2) The acquisition cost of an item of immovable property may not exceed ten per cent of the value of the assets of the pension fund at the time of acquisition. The provisions of the first sentence also apply in the case the assets of the pension fund are invested in items of immovable property through another fund or company.
 
@@ -2886,9 +2874,7 @@ Assets of a pension fund may be placed in precious metals, securities which unde
 
 \[RT I, 28.12.2018, 1 - entry into force 01.01.2019\]
 
-\[Repealed – RT I, 28.12.2018, 1 - entry into force 01.01.2019\]
-
-(5)
+(5) \[Repealed – RT I, 28.12.2018, 1 - entry into force 01.01.2019\]
 
 (6) The minister in charge of the policy sector may specify, by a regulation, the requirements for investment of assets of a conservative pension fund, including the credit ratings of the bonds or deposits of credit institutions in which the assets of the fund may be invested.
 
@@ -2954,9 +2940,7 @@ Assets of a pension fund may be placed in precious metals, securities which unde
 
 \[RT I, 28.12.2018, 1 - entry into force 01.01.2019\]
 
-\[Repealed – RT I, 28.12.2018, 1 - entry into force 01.01.2019\]
-
-(2)
+(2) \[Repealed – RT I, 28.12.2018, 1 - entry into force 01.01.2019\]
 
 ##### § 133. Compensation for loss
 
@@ -6139,9 +6123,7 @@ In addition to the provisions of § 55 of the Bankruptcy Act, a trustee in bankr
 
 \[RT I, 28.12.2018, 1 - entry into force 13.01.2019\]
 
-\[Repealed – RT I, 28.12.2018, 1 - entry into force 13.01.2019\]
-
-(2)
+(2) \[Repealed – RT I, 28.12.2018, 1 - entry into force 13.01.2019\]
 
 (3) In addition to the provisions of subsection 3 of § 298 of this Act, a depositary of a defined-benefit occupational pension fund may be exempted from liability where the securities transferred to a third party are lost and where the depositary can prove compliance with the conditions provided in clauses 1–3 of subsection 4 of § 298 of this Act.
 
@@ -7302,9 +7284,7 @@ Where a fund manager managers and offers a non-public alternative fund which was
 
 (6) The rules and measures specified in this section do not apply to personal transactions which have been conducted:
 
-\[repealed – RT I, 30.12.2017, 3 - entry into force 03.01.2018\]
-
-1\)
+1\) \[repealed – RT I, 30.12.2017, 3 - entry into force 03.01.2018\]
 
 2\) in units or shares of a fund in the case the Financial Supervision Authority or a financial supervision authority of another EEA Member State exercises supervision over the fund and requirements for risk spreading in the investment of their assets equivalent to a fund managed by the fund manager are applied to such fund and the relevant person and any other person for whose account the transaction is conducted are not involved in the management of that fund;
 
@@ -8728,9 +8708,7 @@ The Financial Supervision Authority may refuse to issue an authorization for fou
 
 (2) After the Financial Supervision Authority has received proper information to which a written acknowledgement of the financial supervision authority of the home country of the fund manager in English is appended stating that the fund manager has been issued an activity licence in accordance with the provisions of Directive 2011/61/EU of the European Parliament and the Council, the fund manager may commence the offer of the fund in Estonia.
 
-\[Repealed – RT I, 04.12.2019, 1 - entry into force 14.12.2019\]
-
-(2<sup>1</sup>)
+(2<sup>1</sup>) \[Repealed – RT I, 04.12.2019, 1 - entry into force 14.12.2019\]
 
 (3) A fund manager promptly notifies the Financial Supervision Authority of any changes in the facts stated in the information through the financial supervision authority of the home country and also indicates the place where it is possible to examine the updated documents.
 
@@ -9000,9 +8978,7 @@ A fund manager may manage in a third country a fund, which units or shares are n
 
 (2) After the Financial Supervision Authority has received information to which a written acknowledgement of the financial supervision authority of the home country of the fund manager in English is appended stating that the fund manager has been issued an activity licence in accordance with the provisions of Directive 2011/61/EU of the European Parliament and the Council, the fund manager may commence the offer of the fund in Estonia.
 
-\[Repealed – RT I, 04.12.2019, 1 - entry into force 14.12.2019\]
-
-(2<sup>1</sup>)
+(2<sup>1</sup>) \[Repealed – RT I, 04.12.2019, 1 - entry into force 14.12.2019\]
 
 (3) A fund manager notifies the Financial Supervision Authority promptly in writing of any changes in information where the changes result in termination of the offer of the fund in Estonia.
 
@@ -11103,7 +11079,7 @@ Sections 27, 34, 243 and 244 of this Act enter into force on 1 January 2017.
 
 ---
 
-Commission Directive 2007/16/EC implementing Council Directive 85/611/EEC on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) as regards the clarification of certain definitions (OJ L 79, 20.03.2007, p. 11–19);\
+<sup>1</sup> Commission Directive 2007/16/EC implementing Council Directive 85/611/EEC on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) as regards the clarification of certain definitions (OJ L 79, 20.03.2007, p. 11–19);\
 
  Directive 2009/65/EC of the European Parliament and of the Council on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (OJ L 302, 17.11.2009, pp 32–96), as amended by Directives 2011/61/EU (OJ L 174, 01.07.2011, pp 1–73), 2013/14/EU (OJ L 145, 31.05.2013, pp 1–3) and (EU) 2022/2556 (OJ L 333, 27.12.2022, pp 153–163);\
 
@@ -11116,3 +11092,5 @@ Commission Directive 2007/16/EC implementing Council Directive 85/611/EEC on the
  Directive (EU) 2019/1160 of the European Parliament and of the Council amending Directives 2009/65/EC and 2011/61/EU as regards cross-border distribution of collective investment undertakings (OJ L 188, 12.07.2019, pp 106–115);\
 
  Commission Delegated Directive (EU) 2021/1270 amending Directive 2010/43/EU as regards the sustainability risks and sustainability factors to be taken into account for Undertakings for Collective Investment in Transferable Securities (UCITS) (OJ L 277, 02.08.2021, pp 141–144).
+
+\[RT I, 11.10.2024, 1 - entry into force 17.01.2025, supplemented \[RT I, 03.12.2024, 3\]\]

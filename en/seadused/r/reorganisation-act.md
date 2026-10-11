@@ -13,7 +13,7 @@ date: 2008-12-04
 last_amended: 2025-11-21
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/501122025005"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "111112025013"
 ---
@@ -21,8 +21,6 @@ translation_of: "111112025013"
 # Reorganisation Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -1322,4 +1320,4 @@ If a reorganisation petition is submitted before 1 July 2022, this Act in the wo
 
 ---
 
-Directive (EU) 2019/1023 of the European Parliament and of the Council on preventive restructuring frameworks, on discharge of debt and disqualifications, and on measures to increase the efficiency of procedures concerning restructuring, insolvency and discharge of debt, and amending Directive (EU) 2017/1132 (OJ L 172, 26.6.2019, p. 18–55). \[RT I, 20.06.2022, 1 – entry into force 01.07.2022\]
+<sup>1</sup> Directive (EU) 2019/1023 of the European Parliament and of the Council on preventive restructuring frameworks, on discharge of debt and disqualifications, and on measures to increase the efficiency of procedures concerning restructuring, insolvency and discharge of debt, and amending Directive (EU) 2017/1132 (OJ L 172, 26.6.2019, p. 18–55). \[RT I, 20.06.2022, 1 – entry into force 01.07.2022\]

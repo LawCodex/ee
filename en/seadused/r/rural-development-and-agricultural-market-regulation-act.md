@@ -13,7 +13,7 @@ date: 2008-06-19
 last_amended: 2023-07-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/504102023003"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "126092023001"
 ---
@@ -359,17 +359,11 @@ Where the *de minimis* aid specified in § 17 of this Act is granted by the Mini
 
 (2) The state grants other support via the ARIB, unless otherwise provided by this Act.
 
-\[Repealed – RT I, 19.12.2018, 17 - entry into force 29.12.2018\]
+(3) \[Repealed – RT I, 19.12.2018, 17 - entry into force 29.12.2018\]
 
-(3)
+(4) \[Repealed – RT I, 19.12.2018, 17 - entry into force 29.12.2018\]
 
-\[Repealed – RT I, 19.12.2018, 17 - entry into force 29.12.2018\]
-
-(4)
-
-\[Repealed – RT I, 19.12.2018, 17 - entry into force 29.12.2018\]
-
-(5)
+(5) \[Repealed – RT I, 19.12.2018, 17 - entry into force 29.12.2018\]
 
 ### § 20<sup>2</sup>. Procedure for granting other support via ARIB
 
@@ -442,17 +436,11 @@ Where the *de minimis* aid specified in § 17 of this Act is granted by the Mini
 (4) The regional programme is published on the website of the Ministry of Regional Affairs and Agriculture and the State Shared Service Centre.\
 \[RT I, 15.05.2020, 1 – entry into force 25.05.2020\]
 
-\[Repealed – RT I, 19.12.2018, 17 - entry into force 29.12.2018\]
+(5) \[Repealed – RT I, 19.12.2018, 17 - entry into force 29.12.2018\]
 
-(5)
+(6) \[Repealed – RT I, 19.12.2018, 17 - entry into force 29.12.2018\]
 
-\[Repealed – RT I, 19.12.2018, 17 - entry into force 29.12.2018\]
-
-(6)
-
-\[Repealed – RT I, 19.12.2018, 17 - entry into force 29.12.2018\]
-
-(7)
+(7) \[Repealed – RT I, 19.12.2018, 17 - entry into force 29.12.2018\]
 
 ### § 20<sup>4</sup>. Procedure for granting support for implementation of regional programme
 

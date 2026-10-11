@@ -13,7 +13,7 @@ date: 2014-03-26
 last_amended: 2025-01-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/505012025004"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "129062024012"
 ---
@@ -21,8 +21,6 @@ translation_of: "129062024012"
 # Motor Insurance Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — General Provisions
 
@@ -1385,7 +1383,7 @@ Regarding a person who has been identified to have permanent incapacity for work
 
 ---
 
-Directive 2009/103/EC of the European Parliament and of the Council relating to insurance against civil liability in respect of the use of motor vehicles, and the enforcement of the obligation to insure against such liability (OJ L 263, 7.10.2009, p. 11–31), amended by Directive (EU) 2021/2118 (OJ L 430, 2.12.2021, p. 1–23). \[RT I, 29.06.2024, 2 – entry into force 15.07.2024\]
+<sup>1</sup> Directive 2009/103/EC of the European Parliament and of the Council relating to insurance against civil liability in respect of the use of motor vehicles, and the enforcement of the obligation to insure against such liability (OJ L 263, 7.10.2009, p. 11–31), amended by Directive (EU) 2021/2118 (OJ L 430, 2.12.2021, p. 1–23). \[RT I, 29.06.2024, 2 – entry into force 15.07.2024\]
 
 ## Annexes
 

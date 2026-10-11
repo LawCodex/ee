@@ -14,7 +14,7 @@ date: 2006-06-15
 last_amended: 2019-09-27
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/522102019002"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "124092019007"
 ---
@@ -24,8 +24,6 @@ translation_of: "124092019007"
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
 
 This Regulation is established pursuant to § 26 (3) of the Food Act and Article 1 (4) of Regulation (EC) No 853/2004 of the European Parliament and of the Council, laying down specific rules for the organisation of official controls on products of animal origin intended for human consumption (OJ L 139, 30.04. 2004, p. 55–205).
-
-\[RTL 2010, 23, 408 - entry into force 10.05.2010\]
 
 \[RTL 2010, 23, 408 - entry into force 10.05.2010\]
 

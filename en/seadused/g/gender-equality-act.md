@@ -13,7 +13,7 @@ date: 2004-04-07
 last_amended: 2026-07-13
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/510072026007"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "103072026045"
 ---
@@ -21,8 +21,6 @@ translation_of: "103072026045"
 # Gender Equality Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -349,7 +347,7 @@ This Act enters into force on 1 May 2004.
 
 ---
 
-Council Directive 79/7/EEC on the progressive implementation of the principle of equal treatment for men and women in matters of social security (OJ L 6, 10.01.1979, p. 24–25); Council Directive 92/85/EEC on the introduction of measures to encourage improvements in the safety and health at work of pregnant workers and workers who have recently given birth or are breastfeeding (tenth individual Directive within the meaning of Article 16 (1) of Directive 89/391/EEC) (OJ L 348, 28.11.1992, p. 1–7); 
+<sup>1</sup> Council Directive 79/7/EEC on the progressive implementation of the principle of equal treatment for men and women in matters of social security (OJ L 6, 10.01.1979, p. 24–25); Council Directive 92/85/EEC on the introduction of measures to encourage improvements in the safety and health at work of pregnant workers and workers who have recently given birth or are breastfeeding (tenth individual Directive within the meaning of Article 16 (1) of Directive 89/391/EEC) (OJ L 348, 28.11.1992, p. 1–7); 
 Council Directive 2004/113/EC implementing the principle of equal treatment between men and women in the access to and supply of goods and services (OJ L 373, 21.12.2004, p. 37–43); 
 Directive 2006/54/EC of the European Parliament and of the Council on the implementation of the principle of equal opportunities and equal treatment of men and women in matters of employment and occupation (recast) (OJ L 204, 26.07.2006, p. 23–36);
 Directive 2010/41/EU of the European Parliament and of the Council on the application of the principle of equal treatment between men and women engaged in an activity in a self-employed capacity and repealing Council Directive 86/613/EEC (OJ L 180, 15.07.2010, p. 1–6);

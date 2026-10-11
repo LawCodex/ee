@@ -14,7 +14,7 @@ date: 1995-01-19
 last_amended: 2025-07-06
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/528072025002"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "126062025008"
 ---
@@ -249,9 +249,7 @@ A foreign national who wishes to acquire Estonian citizenship must:
 
 \[RT I, 03.02.2015, 1 - entry into force 01.01.2016\]
 
-\[repealed – RT I, 03.02.2015, 1 - entry into force 01.01.2016\]
-
-2<sup>2</sup>)
+2<sup>2</sup>) \[repealed – RT I, 03.02.2015, 1 - entry into force 01.01.2016\]
 
 2<sup>3</sup>) have a registered place of residence in Estonia;
 
@@ -423,9 +421,7 @@ Legal permanent income is deemed to include:
 
 \[RT I, 16.06.2020, 1 - entry into force 01.08.2020\]
 
-\[Repealed – RT I, 16.06.2020, 1 - entry into force 01.08.2020\]
-
-(2<sup>2</sup>)
+(2<sup>2</sup>) \[Repealed – RT I, 16.06.2020, 1 - entry into force 01.08.2020\]
 
 (3) Persons who pass the examination are issued a respective certificate.
 
@@ -445,9 +441,7 @@ Legal permanent income is deemed to include:
 
 \[RT I, 16.06.2020, 1 - entry into force 01.08.2020\]
 
-\[Repealed – RT I, 16.06.2020, 1 - entry into force 01.08.2020\]
-
-(7<sup>1</sup>)
+(7<sup>1</sup>) \[Repealed – RT I, 16.06.2020, 1 - entry into force 01.08.2020\]
 
 (8) Persons in whose respect the database of examinations and certificates contains a record have the right to access any data concerning themselves in that database, other persons may access such data where this is required in order to perform a duty prescribed by law or an international treaty.
 
@@ -601,13 +595,9 @@ A parent is deemed to be a single parent provided:
 
 \[RT I, 07.02.2020, 7 - entry into force 17.02.2020\]
 
-\[Repealed – RT I, 03.02.2015, 1 - entry into force 01.01.2016\]
+(2) \[Repealed – RT I, 03.02.2015, 1 - entry into force 01.01.2016\]
 
-(2)
-
-\[Repealed – RT I, 03.02.2015, 1 - entry into force 01.01.2016\]
-
-(3)
+(3) \[Repealed – RT I, 03.02.2015, 1 - entry into force 01.01.2016\]
 
 ## Chapter 4 — Conditions for resumption of Estonian citizenship
 
@@ -665,17 +655,13 @@ A parent is deemed to be a single parent provided:
 
 \[RT I, 03.02.2015, 1 - entry into force 01.01.2016\]
 
-\[Repealed – RT I, 03.02.2015, 1 - entry into force 01.01.2016\]
-
-(4<sup>1</sup>)
+(4<sup>1</sup>) \[Repealed – RT I, 03.02.2015, 1 - entry into force 01.01.2016\]
 
 (5) Within six months following the registration of an application for the restoration of Estonian citizenship, the governmental authority authorised by the Government of the Republic transmits that application, together with a substantiated proposal, to the Government of the Republic for taking a decision on the restoration of Estonian citizenship.
 
 \[RT I, 03.02.2015, 1 - entry into force 01.01.2016\]
 
-\[Repealed – RT I, 03.02.2015, 1 - entry into force 01.01.2016\]
-
-(6)
+(6) \[Repealed – RT I, 03.02.2015, 1 - entry into force 01.01.2016\]
 
 ### § 20. Decision on grant or restoration of Estonian citizenship
 
@@ -767,9 +753,7 @@ Release from Estonian citizenship may be refused in the case:
 
 2\) the applicant has outstanding obligations before the Estonian government;
 
-\[repealed – RT I, 10.07.2012, 3 - entry into force 01.04.2013\]
-
-3\)
+3\) \[repealed – RT I, 10.07.2012, 3 - entry into force 01.04.2013\]
 
 ### § 27. Decision on release from Estonian citizenship
 
@@ -779,13 +763,9 @@ The decision on release from Estonian citizenship is taken by the Government of 
 
 (1) A person is deprived of Estonian citizenship by an order of the Government of the Republic in the case they:
 
-\[repealed – RT I, 04.08.2022, 3 - entry into force 14.08.2022\]
+1\) \[repealed – RT I, 04.08.2022, 3 - entry into force 14.08.2022\]
 
-1\)
-
-\[repealed – RT I, 04.08.2022, 3 - entry into force 14.08.2022\]
-
-2\)
+2\) \[repealed – RT I, 04.08.2022, 3 - entry into force 14.08.2022\]
 
 3\) have attempted to change the constitutional order of Estonia by force;
 
@@ -871,17 +851,11 @@ The requirement of holding a long-term residence permit or the right of permanen
 
 \[RT I, 03.02.2015, 1 - entry into force 13.02.2015\]
 
-\[Repealed – RT I 2000, 51, 323 - entry into force 10.07.2000\]
+(2) \[Repealed – RT I 2000, 51, 323 - entry into force 10.07.2000\]
 
-(2)
+(3) \[Repealed – RT I 2000, 51, 323 - entry into force 10.07.2000\]
 
-\[Repealed – RT I 2000, 51, 323 - entry into force 10.07.2000\]
-
-(3)
-
-\[Repealed – RT I 2000, 51, 323 - entry into force 10.07.2000\]
-
-(4)
+(4) \[Repealed – RT I 2000, 51, 323 - entry into force 10.07.2000\]
 
 ### § 35. Special conditions for acquisition of Estonian citizenship
 
@@ -903,13 +877,9 @@ The requirement of holding a long-term residence permit or the right of permanen
 
 \[RT I, 20.06.2014, 1 - entry into force 30.06.2014\]
 
-\[Repealed – RT I, 03.02.2015, 1 - entry into force 01.01.2016\]
+(4) \[Repealed – RT I, 03.02.2015, 1 - entry into force 01.01.2016\]
 
-(4)
-
-\[Repealed – RT I, 03.02.2015, 1 - entry into force 01.01.2016\]
-
-(5)
+(5) \[Repealed – RT I, 03.02.2015, 1 - entry into force 01.01.2016\]
 
 (6) With regard to the persons specified in subsection 2 of this section, an expert committee takes a decision which exempts them from complying with the requirements specified in clauses 3 and 4 of § 6 of this Act.
 
@@ -933,9 +903,7 @@ The requirement of holding a long-term residence permit or the right of permanen
 
 \[RT I, 16.06.2020, 1 - entry into force 01.08.2020\]
 
-\[Repealed – RT I, 16.06.2020, 1 - entry into force 01.08.2020\]
-
-(10<sup>2</sup>)
+(10<sup>2</sup>) \[Repealed – RT I, 16.06.2020, 1 - entry into force 01.08.2020\]
 
 (11) The expert committee specified in subsections 6–9 of this section is formed and the work arrangements thereof are established by a directive of the minister in charge of the policy sector in coordination with the minister in charge of the policy sector.
 

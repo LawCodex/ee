@@ -13,7 +13,7 @@ date: 2011-02-17
 last_amended: 2019-03-15
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/521032019019"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "113032019033"
 ---
@@ -163,9 +163,7 @@ The Government of the Republic or a minister authorised by the Government of the
 
 ## § 16. Proceedings
 
-\[Repealed - RT I, 12.07.2014, 1 - entry into force 01.01.2015\]
-
-(1)
+(1) \[Repealed - RT I, 12.07.2014, 1 - entry into force 01.01.2015\]
 
 (2) Extra-judicial proceedings concerning the misdemeanours provided for in §§ 14 and 15 of this Act shall be conducted by a police authority.
 

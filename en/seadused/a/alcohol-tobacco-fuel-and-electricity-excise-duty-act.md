@@ -14,7 +14,7 @@ date: 2002-12-04
 last_amended: 2026-05-09
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/513052026003"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "129042026013"
 ---
@@ -22,8 +22,6 @@ translation_of: "129042026013"
 # Alcohol, Tobacco, Fuel and Electricity Excise Duty Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Part 1 — GENERAL INFORMATION
 
@@ -237,9 +235,7 @@ For the purposes of this Act, ‘revenue stamp’ means a special marking in con
 
 \[RT I, 30.12.2021, 2 - entry into force 01.01.2022\]
 
-\[Repealed – RT I, 05.11.2013, 2 - entry into force 01.12.2013\]
-
-(2)
+(2) \[Repealed – RT I, 05.11.2013, 2 - entry into force 01.12.2013\]
 
 (3) Alcohol is deemed to be partially denatured in case it is denatured differently from the provisions of subsection 1 of this section and the denaturing agent and its content in alcohol meets the requirements established by a regulation of the minister in charge of the policy sector.
 
@@ -287,9 +283,7 @@ For the purposes of this Act, ‘tobacco’ means a plant from the genus *Nicoti
 
 1\) capable of being smoked as it is and which is not a cigar and cigarillo for the purposes of subsection 2 of this section,
 
-\[Repealed – RT I, 23.12.2019, 1 - entry into force 01.01.2020\]
-
-1<sup>1</sup>)
+1<sup>1</sup>) \[Repealed – RT I, 23.12.2019, 1 - entry into force 01.01.2020\]
 
 2\) inserted into a paper tube by simple non-industrial means or
 
@@ -311,9 +305,7 @@ For the purposes of this Act, ‘tobacco’ means a plant from the genus *Nicoti
 
 \[RT I, 12.03.2015, 7 - entry into force 01.05.2015\]
 
-\[Repealed – RT I, 23.12.2019, 1 - entry into force 01.01.2020\]
-
-4\)
+4\) \[Repealed – RT I, 23.12.2019, 1 - entry into force 01.01.2020\]
 
 (4<sup>1</sup>) Smoking tobacco in which the tobacco particles with a cut width of less than 1.5 millimetres make up more than 25% by weight is deemed to be smoking tobacco for the rolling of cigarettes. Smoking tobacco in which the tobacco particles with a cut width of more than 1.5 millimetres make up more than 25% by weight and which is sold for the rolling of cigarettes, is also deemed to be smoking tobacco for the rolling of cigarettes.
 
@@ -323,9 +315,7 @@ For the purposes of this Act, ‘tobacco’ means a plant from the genus *Nicoti
 
 \[RT I, 30.12.2021, 2 - entry into force 01.01.2022\]
 
-\[Repealed – RT I, 12.03.2015, 7 - entry into force 01.05.2015\]
-
-(5)
+(5) \[Repealed – RT I, 12.03.2015, 7 - entry into force 01.05.2015\]
 
 (6) A products consisting in whole or in part of substances other than tobacco but otherwise conforming to the provisions of subsection 3 or 4 of this section is treated as a cigarette or smoking tobacco respectively.
 
@@ -419,13 +409,9 @@ For the purposes of this Act, ‘tobacco’ means a plant from the genus *Nicoti
 
 \[RT I, 24.12.2016, 1 - entry into force 01.07.2017\]
 
-\[Repealed – RT I 2004, 84, 569 - entry into force 01.01.2005\]
+(12) \[Repealed – RT I 2004, 84, 569 - entry into force 01.01.2005\]
 
-(12)
-
-\[Repealed – RT I 2003, 90, 602 - entry into force 01.05.2004\]
-
-(13)
+(13) \[Repealed – RT I 2003, 90, 602 - entry into force 01.05.2004\]
 
 (14) For the purposes of this Act, biofuel means fuel:
 
@@ -445,9 +431,7 @@ For the purposes of this Act, ‘tobacco’ means a plant from the genus *Nicoti
 
 3\) for which the eight digits of the CN code are 2207 20 00 or 2905 11 00 and which is not of synthetic origin.
 
-\[Repealed – RT I, 08.03.2012, 1 - entry into force 01.04.2012\]
-
-4\)
+4\) \[Repealed – RT I, 08.03.2012, 1 - entry into force 01.04.2012\]
 
 (15) For the purposes of this Act, coal, lignite, coke and oil shale are solid fuels used as heating fuel, for which the first four digits of the CN code are 2701, 2702 or 2704 or for which the eight digits of the CN code are 2714 10 00.
 
@@ -838,13 +822,9 @@ The tax authority for excise duty is the Tax and Customs Board.
 
 (13) A tax liability arises for a person specified in clause 6 of subsection 1 of § 22 of this Act in the cases specified in subsection 3 of this section.
 
-\[Repealed – RT I, 05.11.2013, 2 - entry into force 01.12.2013\]
+(14) \[Repealed – RT I, 05.11.2013, 2 - entry into force 01.12.2013\]
 
-(14)
-
-\[Repealed – RT I, 21.03.2014, 4 - entry into force 01.04.2014\]
-
-(15)
+(15) \[Repealed – RT I, 21.03.2014, 4 - entry into force 01.04.2014\]
 
 (16) A tax liability on excise goods dispatched from another Member State under an excise suspension arrangement arises for a registered consignee on the date of receipt of the excise goods unless the excise goods are exempt from excise duty based on a permit for exemption from excise duty issued to the registered consignee. A tax liability on revenue stamps issued to a registered consignee and a person whose activity licence of a registered consignee has been revoked arises for them in accordance with the provisions of clause 5 of subsection 3 of this section.
 
@@ -878,9 +858,7 @@ The tax authority for excise duty is the Tax and Customs Board.
 
 \[RT I, 05.11.2013, 2 - entry into force 01.12.2013\]
 
-\[Repealed – RT I, 08.03.2012, 1 - entry into force 01.04.2012\]
-
-(20)
+(20) \[Repealed – RT I, 08.03.2012, 1 - entry into force 01.04.2012\]
 
 (20<sup>1</sup>) A tax liability arises for a natural person on the excise goods imported by the person from a third country or sent to the person from a third country by a natural person on the date of importation of the goods. Upon exceeding the maximum limit of the value or quantity provided in §§ 47, 48, 57, 58 or 68 of this Act, a tax liability arises only on excise goods exceeding the maximum limits. In case the quantity of alcohol or tobacco products in a sales packaging exceeds the value or quantity limit in part, excise duty is imposed on all the excise goods in the sales packaging.
 
@@ -946,9 +924,7 @@ The tax authority for excise duty is the Tax and Customs Board.
 
 \[RT I, 16.06.2017, 73 - entry into force 01.01.2018\]
 
-\[Repealed – RT I, 08.03.2012, 1 - entry into force 01.04.2012\]
-
-(6<sup>1</sup>)
+(6<sup>1</sup>) \[Repealed – RT I, 08.03.2012, 1 - entry into force 01.04.2012\]
 
 (7) A person whose excise warehouse activity licence is revoked is required to submit an excise duty return and a report on the movement of excise goods and stock in the warehouse to the Tax and Customs Board and to pay excise duty within the term specified in subsection 3 of § 44 of this Act.
 
@@ -1032,21 +1008,13 @@ The tax authority for excise duty is the Tax and Customs Board.
 
 8\) dispatch of excise goods not subject to excise duty and which are in the possession of a person or body holding an excise duty exemption permit to an excise warehouse in case the excise warehousekeeper to whom the goods are dispatched receives the goods at the consignor’s;
 
-\[Repealed – RT I 2010, 8, 36 - entry into force 01.04.2010\]
+9\) \[Repealed – RT I 2010, 8, 36 - entry into force 01.04.2010\]
 
-9\)
+10\) \[Repealed – RT I 2010, 8, 36 - entry into force 01.04.2010\]
 
-\[Repealed – RT I 2010, 8, 36 - entry into force 01.04.2010\]
+11\) \[Repealed – RT I 2010, 8, 36 - entry into force 01.04.2010\]
 
-10\)
-
-\[Repealed – RT I 2010, 8, 36 - entry into force 01.04.2010\]
-
-11\)
-
-\[Repealed – RT I 2003, 90, 602 - entry into force 01.05.2004\]
-
-(2)
+(2) \[Repealed – RT I 2003, 90, 602 - entry into force 01.05.2004\]
 
 (3) An excise suspension arrangement is not applied upon dispatch of revenue stamped excise goods to a foreign state.
 
@@ -1098,9 +1066,7 @@ The tax authority for excise duty is the Tax and Customs Board.
 
 \[RT I, 05.11.2013, 2 - entry into force 01.12.2013\]
 
-\[Repealed – RT I 2008, 49, 272 - entry into force 01.01.2009\]
-
-8<sup>1</sup>)
+8<sup>1</sup>) \[Repealed – RT I 2008, 49, 272 - entry into force 01.01.2009\]
 
 9\) spirit used upon the provision of health services or care-giving in social welfare institutions and issued by pharmacies based on prescription;
 
@@ -1168,9 +1134,7 @@ The tax authority for excise duty is the Tax and Customs Board.
 
 \[RT I, 07.12.2018, 3 - entry into force 01.01.2019\]
 
-\[Repealed – RT I 2007, 45, 319 - entry into force 01.01.2008\]
-
-25\)
+25\) \[Repealed – RT I 2007, 45, 319 - entry into force 01.01.2008\]
 
 26\) solid fuels used in households as heating fuel;
 
@@ -1180,13 +1144,9 @@ The tax authority for excise duty is the Tax and Customs Board.
 
 \[RT I, 12.07.2014, 2 - entry into force 01.01.2015\]
 
-\[Repealed – RT I, 05.07.2016, 1 - entry into force 01.01.2017\]
+28\) \[Repealed – RT I, 05.07.2016, 1 - entry into force 01.01.2017\]
 
-28\)
-
-\[Repealed – RT I, 08.03.2012, 1 - entry into force 01.04.2012\]
-
-28<sup>1</sup>)
+28<sup>1</sup>) \[Repealed – RT I, 08.03.2012, 1 - entry into force 01.04.2012\]
 
 28<sup>2</sup>) electricity and fuel used to produce electricity and electricity used to maintain the ability to produce electricity;
 
@@ -1244,9 +1204,7 @@ The tax authority for excise duty is the Tax and Customs Board.
 
 \[RT I 2008, 49, 272 - entry into force 01.01.2009\]
 
-\[Repealed – RT I, 08.03.2012, 1 - entry into force 01.04.2012\]
-
-(4)
+(4) \[Repealed – RT I, 08.03.2012, 1 - entry into force 01.04.2012\]
 
 (5) In the case of state aid granted as exemption from excise duty, exemption from excise duty is applied after the granting of the authorisation by the European Commission until the expiry of the authorisation.
 
@@ -1278,9 +1236,7 @@ The tax authority for excise duty is the Tax and Customs Board.
 
 \[RT I, 23.12.2019, 1 - entry into force 01.01.2020\]
 
-\[Repealed – RT I 2010, 8, 36 - entry into force 01.03.2010\]
-
-(1<sup>1</sup>)
+(1<sup>1</sup>) \[Repealed – RT I 2010, 8, 36 - entry into force 01.03.2010\]
 
 (1<sup>2</sup>) In the case of unjustified losses of excise goods or violations relating to excise goods during transportation between Member States, the place of release for consumption is deemed to be the Member State where the loss occurred or the violation was committed or where the loss or violation was discovered, in case it was not possible to establish the place of occurrence of the loss or commission of the violation. In case, before the expiry of a period of three years as of the date on which excise duty became chargeable, the Member State in which the violation occurred or the excise goods were unreasonably lost is identified, the excise goods are taxed in that Member State.
 
@@ -1296,9 +1252,7 @@ The tax authority for excise duty is the Tax and Customs Board.
 
 (2) In case a term for payment of excise duty is extended, excise duty is paid in accordance with the excise duty rate valid on the date specified upon extension of the term. Excise duty on excise goods with revenue stamps affixed to them or to their sales packaging on which excise duty has been paid in accordance with clause 5 of subsection 3, subsection 8 or subsection 17 of § 24 of this Act is paid in the amount calculated by deducting the amount of excise duty calculated on the basis of the excise duty rate previously valid from the amount of excise duty calculated on the basis of the excise duty rate valid on the date on which the tax liability arose.
 
-\[Repealed – RT I, 16.06.2017, 1 - entry into force 01.07.2017\]
-
-(3)
+(3) \[Repealed – RT I, 16.06.2017, 1 - entry into force 01.07.2017\]
 
 (4) Excise duty is paid into the bank account of the Tax and Customs Board.
 
@@ -1316,17 +1270,11 @@ The tax authority for excise duty is the Tax and Customs Board.
 
 \[RT I, 08.03.2012, 1 - entry into force 01.04.2012\]
 
-\[Repealed – RT I 2003, 90, 602 - entry into force 01.05.2004\]
+(5) \[Repealed – RT I 2003, 90, 602 - entry into force 01.05.2004\]
 
-(5)
+(6) \[Repealed – RT I 2003, 90, 602 - entry into force 01.05.2004\]
 
-\[Repealed – RT I 2003, 90, 602 - entry into force 01.05.2004\]
-
-(6)
-
-\[Repealed – RT I 2003, 90, 602 - entry into force 01.05.2004\]
-
-(7)
+(7) \[Repealed – RT I 2003, 90, 602 - entry into force 01.05.2004\]
 
 #### § 28<sup>1</sup>. Notification of tax authority of another Member State
 
@@ -1343,9 +1291,7 @@ The tax authority for excise duty is the Tax and Customs Board.
 (2) 3.5 per cent of the excise duty on alcohol and tobacco which is received in the state budget is transferred to the Cultural Endowment of Estonia. Transfers from the excise duty received in the state budget during a calendar month are made to the Cultural Endowment of Estonia by the 20th day of the month following the month of receipt of the excise duty.\
 \[RT I, 02.01.2025, 1 - entry into force 01.01.2026\]
 
-\[Repealed – RT I 2009, 15, 93 - entry into force 01.04.2009\]
-
-(3)
+(3) \[Repealed – RT I 2009, 15, 93 - entry into force 01.04.2009\]
 
 #### § 30. Loss of excise goods
 
@@ -1371,17 +1317,11 @@ The tax authority for excise duty is the Tax and Customs Board.
 
 \[RT I, 30.12.2021, 2 - entry into force 13.02.2023\]
 
-\[Repealed – RT I 2010, 8, 36 - entry into force 01.04.2010\]
+(6) \[Repealed – RT I 2010, 8, 36 - entry into force 01.04.2010\]
 
-(6)
+(7) \[Repealed – RT I 2010, 8, 36 - entry into force 01.04.2010\]
 
-\[Repealed – RT I 2010, 8, 36 - entry into force 01.04.2010\]
-
-(7)
-
-\[Repealed – RT I 2010, 8, 36 - entry into force 01.04.2010\]
-
-(8)
+(8) \[Repealed – RT I 2010, 8, 36 - entry into force 01.04.2010\]
 
 (9) The maximum limit for loss of excise goods upon storage and transport of excise goods is established by a regulation of the minister in charge of the policy sector.
 
@@ -1467,9 +1407,7 @@ The tax authority for excise duty is the Tax and Customs Board.
 
 \[RT I 2010, 8, 36 - entry into force 01.04.2010\]
 
-\[Repealed – RT I, 08.03.2012, 1 - entry into force 01.04.2012\]
-
-4\)
+4\) \[Repealed – RT I, 08.03.2012, 1 - entry into force 01.04.2012\]
 
 4<sup>1</sup>) in the case of a tax representative, on the basis of the quantity of excise goods transported from another Member State to Estonia within one calendar month;
 
@@ -1487,9 +1425,7 @@ The tax authority for excise duty is the Tax and Customs Board.
 
 \[RT I, 30.12.2021, 2 - entry into force 13.02.2023\]
 
-\[Repealed – RT I, 30.12.2010, 3 - entry into force 01.01.2011\]
-
-(5<sup>1</sup>)
+(5<sup>1</sup>) \[Repealed – RT I, 30.12.2010, 3 - entry into force 01.01.2011\]
 
 (6) In the event of continuous activity, the amount of the tax liability which may arise or has arisen is calculated based on the information of the last six calendar months. In the event of the commencement of activities or in the event of irregular activities or in case a person intends to substantially extend or restrict activities, the amount of the tax liability which may arise or has arisen is calculated based on the business plan and in co-operation with the Tax and Customs Board.
 
@@ -1659,9 +1595,7 @@ An excise warehousekeeper may, with the permission of the tax authority, receive
 
 \[RT I 2008, 49, 272 - entry into force 01.01.2009\]
 
-\[Repealed – RT I 2003, 90, 602 - entry into force 01.05.2004\]
-
-(3)
+(3) \[Repealed – RT I 2003, 90, 602 - entry into force 01.05.2004\]
 
 #### § 35<sup>1</sup>. Special conditions for registered consignee
 
@@ -1713,9 +1647,7 @@ An excise warehousekeeper may, with the permission of the tax authority, receive
 
 9\) to be the only registered consignee receiving, storing and dispatching excise goods at the place of business of the registered consignee for the keeping of which the consignee has an activity licence of a registered consignee;
 
-\[Repealed – RT I 2010, 8, 36 - entry into force 01.03.2010\]
-
-10\)
+10\) \[Repealed – RT I 2010, 8, 36 - entry into force 01.03.2010\]
 
 11\) store excise goods separately from other goods. Excise goods subject to excise duty and excise goods exempt from excise duty are stored separately in the excise warehouse. Packaged excise goods are grouped in the excise warehouse according to the owners of the goods;
 
@@ -1753,9 +1685,7 @@ An excise warehousekeeper may, with the permission of the tax authority, receive
 
 \[RT I 2008, 49, 272 - entry into force 01.01.2009\]
 
-\[Repealed – RT I, 03.04.2018, 2 - entry into force 01.02.2019\]
-
-20\)
+20\) \[Repealed – RT I, 03.04.2018, 2 - entry into force 01.02.2019\]
 
 21\) keep records, in case of each lot of liquid combustible substances dispatched from an excise warehouse, of the fuels included therein by types and quantities and, in case the lot of liquid combustible substances contains heavy fuel oil or shale-derived fuel oil, the records must include their density at 15 ºC, viscosity at 40 ºC and sulphur content.
 
@@ -1803,9 +1733,7 @@ A tax representative is required to:
 
 \[RT I 2010, 8, 36 - entry into force 01.04.2010\]
 
-\[Repealed – RT I 2010, 8, 36 - entry into force 01.03.2010\]
-
-(3)
+(3) \[Repealed – RT I 2010, 8, 36 - entry into force 01.03.2010\]
 
 #### § 39. Documents to be submitted upon application for excise warehouse activity licence and activity licence of registered consignee
 
@@ -1861,17 +1789,11 @@ A tax representative is required to:
 
 \[RT I 2004, 84, 569 - entry into force 01.01.2005\]
 
-\[Repealed – RT I, 16.06.2017, 73 - entry into force 01.01.2018\]
+2\) \[Repealed – RT I, 16.06.2017, 73 - entry into force 01.01.2018\]
 
-2\)
+3\) \[Repealed – RT I, 16.06.2017, 73 - entry into force 01.01.2018\]
 
-\[Repealed – RT I, 16.06.2017, 73 - entry into force 01.01.2018\]
-
-3\)
-
-\[Repealed – RT I, 16.06.2017, 73 - entry into force 01.01.2018\]
-
-4\)
+4\) \[Repealed – RT I, 16.06.2017, 73 - entry into force 01.01.2018\]
 
 5\) in the case of an excise warehouse, the production capacity of excise goods and the maximum possible storage capacity of excise goods in the excise warehouse;
 
@@ -1879,9 +1801,7 @@ A tax representative is required to:
 
 6\) calculation of the amount of the tax liability which may arise or has arisen as specified in subsection 4 of § 31 of this Act;
 
-\[Repealed – RT I 2008, 49, 272 - entry into force 01.01.2009\]
-
-7\)
+7\) \[Repealed – RT I 2008, 49, 272 - entry into force 01.01.2009\]
 
 (2<sup>1</sup>) A registered consignee who occasionally receives excise goods under an excise suspension arrangement, which are dispatched from another Member State, must, upon application for an activity licence of a registered consignee, submit a written application which sets out the place and date of the receipt of the excise goods, a description, the quantity and purpose of use of the excise goods received as well as their areas of activity, contact details and bank requisites and information concerning the consignor of the goods.
 
@@ -1919,9 +1839,7 @@ A tax representative is required to:
 
 \[RT I, 08.03.2012, 1 - entry into force 01.04.2012\]
 
-\[Repealed – RT I 2008, 49, 272 - entry into force 01.01.2009\]
-
-10\)
+10\) \[Repealed – RT I 2008, 49, 272 - entry into force 01.01.2009\]
 
 (1<sup>1</sup>) An activity licence of a registered consignee is issued separately for the receipt of each consignment provided that the following conditions are met:
 
@@ -2433,9 +2351,7 @@ Before the distance seller dispatches excise goods to Estonia, a natural person 
 
 \[RT I, 20.06.2014, 3 - entry into force 01.07.2014\]
 
-\[Repealed – RT I, 13.03.2019, 2 - entry into force 15.03.2019\]
-
-(14<sup>4</sup>)
+(14<sup>4</sup>) \[Repealed – RT I, 13.03.2019, 2 - entry into force 15.03.2019\]
 
 (14<sup>5</sup>) The SADHES is a sub-register of the register of taxable persons established based on subsection 1 of § 17 of the Taxation Act. The procedure for maintaining the SADHES is provided in the statutes of the register of taxable persons.
 
@@ -2775,9 +2691,7 @@ A passenger of at least 18 years of age is permitted to bring alcohol into Eston
 
 \[RT I, 30.12.2021, 2 - entry into force 13.02.2023\]
 
-\[Repealed – RT I, 05.11.2013, 2 - entry into force 01.12.2013\]
-
-(6)
+(6) \[Repealed – RT I, 05.11.2013, 2 - entry into force 01.12.2013\]
 
 (7) The number of the revenue stamp or a combination of letters and numbers are printed on an alcohol revenue stamp in the increasing order.
 
@@ -2801,13 +2715,9 @@ A passenger of at least 18 years of age is permitted to bring alcohol into Eston
 
 \[RT I, 30.12.2021, 2 - entry into force 13.02.2023\]
 
-\[Repealed – RT I, 08.03.2012, 1 - entry into force 01.04.2012\]
+(13) \[Repealed – RT I, 08.03.2012, 1 - entry into force 01.04.2012\]
 
-(13)
-
-\[Repealed – RT I 2008, 49, 272 - entry into force 01.01.2009\]
-
-(14)
+(14) \[Repealed – RT I 2008, 49, 272 - entry into force 01.01.2009\]
 
 (15) The design of alcohol revenue stamps, the procedure for ordering revenue stamps, the procedure for dispatch of revenue stamped alcohol to another excise warehousekeeper and the composition of data of a delivery note for revenue stamps is established by a regulation of the minister in charge of the policy sector.
 
@@ -2871,9 +2781,7 @@ A passenger of at least 18 years of age is permitted to bring alcohol into Eston
 
 \[RT I, 16.06.2017, 73 - entry into force 01.01.2018\]
 
-\[Repealed – RT I, 13.03.2019, 2 - entry into force 15.03.2019\]
-
-(3)
+(3) \[Repealed – RT I, 13.03.2019, 2 - entry into force 15.03.2019\]
 
 (4) The database is a sub-register of the register of taxable persons established based on subsection 1 of § 17 of the Taxation Act. The procedure for maintaining the database is provided in the statutes of the register of taxable persons.
 
@@ -2939,13 +2847,9 @@ A passenger of at least 18 years of age is permitted to bring alcohol into Eston
 
 \[RT I 2008, 49, 272 - entry into force 01.01.2009\]
 
-\[Repealed – RT I 2005, 68, 527 - entry into force 01.01.2006\]
+12\) \[Repealed – RT I 2005, 68, 527 - entry into force 01.01.2006\]
 
-12\)
-
-\[Repealed – RT I 2005, 68, 527 - entry into force 01.01.2006\]
-
-13\)
+13\) \[Repealed – RT I 2005, 68, 527 - entry into force 01.01.2006\]
 
 14\) a person who uses partially denatured alcohol for producing products other than food or for maintenance and cleaning of production equipment.
 
@@ -3117,9 +3021,7 @@ A passenger of at least 18 years of age is permitted to bring alcohol into Eston
 (3) The rate of excise duty on smoking tobacco is 138.00 euros per one kilogram of smoking tobacco.\
 \[RT I, 02.01.2025, 1 - entry into force 01.01.2026\]
 
-\[Repealed – RT I, 30.12.2010, 3 - entry into force 01.01.2011\]
-
-(4)
+(4) \[Repealed – RT I, 30.12.2010, 3 - entry into force 01.01.2011\]
 
 (5) The rate of excise duty on tobacco liquid is 0.25 euros per one millilitre of liquid.\
 \[RT I, 02.01.2025, 1 - entry into force 01.01.2026\]
@@ -3252,9 +3154,7 @@ It is prohibited to transfer cigarettes, cigars and cigarillos or offer cigarett
 
 \[RT I, 16.06.2017, 73 - entry into force 01.01.2018\]
 
-\[Repealed – RT I, 19.05.2020, 1 - entry into force 29.05.2020\]
-
-(1<sup>1</sup>)
+(1<sup>1</sup>) \[Repealed – RT I, 19.05.2020, 1 - entry into force 29.05.2020\]
 
 (2) The design and types of revenue stamps for tobacco products, the procedure for ordering revenue stamps, the procedure for dispatch of revenue stamped tobacco products to another excise warehousekeeper and the composition of data of a delivery note for revenue stamps is established by a regulation of the minister in charge of the policy sector.
 
@@ -3290,13 +3190,9 @@ It is prohibited to transfer cigarettes, cigars and cigarillos or offer cigarett
 
 \[RT I, 30.12.2021, 2 - entry into force 13.02.2023\]
 
-\[Repealed – RT I, 05.11.2013, 2 - entry into force 01.12.2013\]
+(5) \[Repealed – RT I, 05.11.2013, 2 - entry into force 01.12.2013\]
 
-(5)
-
-\[Repealed – RT I 2010, 8, 36 - entry into force 01.03.2010\]
-
-(6)
+(6) \[Repealed – RT I 2010, 8, 36 - entry into force 01.03.2010\]
 
 (7) A revenue stamp code containing a combination of letters and numbers indicating the person ordering revenue stamps and the time of receiving the revenue stamp from the tax authority is printed on the revenue stamp of tobacco products. In case of tobacco products other than cigarettes, the marking of the type of tobacco product and quantity of tobacco products in the sales packaging is printed on the revenue stamp. In case of cigarettes, cigarillos and cigars, their maximum retail price is printed on the revenue stamps.
 
@@ -3342,9 +3238,7 @@ It is prohibited to transfer cigarettes, cigars and cigarillos or offer cigarett
 
 \[RT I 2005, 68, 527 - entry into force 01.07.2006\]
 
-\[Repealed – RT I 2005, 68, 527 - entry into force 01.07.2006\]
-
-6\)
+6\) \[Repealed – RT I 2005, 68, 527 - entry into force 01.07.2006\]
 
 (2) The Tax and Customs Board has the right to refuse to issue revenue stamps in case the security provided by the person who ordered the revenue stamps is not sufficient to ensure payment of the excise duty.
 
@@ -3497,9 +3391,7 @@ Storage of products suitable for use as alternative tobacco products, including 
 
 \[RT I 2010, 22, 108 - entry into force 01.01.2011\]
 
-\[Repealed – RT I, 24.12.2016, 1 - entry into force 01.07.2017\]
-
-(15)
+(15) \[Repealed – RT I, 24.12.2016, 1 - entry into force 01.07.2017\]
 
 (16) The rate of excise duty on fuel for which the eight digits of the CN code are 2710 19 31 or 2710 19 35 is 428 euros per 1,000 litres of fuel.\
 \[RT I, 02.01.2025, 1 - entry into force 01.07.2025; amendment with entry into force date 01.05.2026 omitted \[RT I, 29.04.2026, 1\]\]
@@ -4276,7 +4168,7 @@ This Act enters into force on 1 April 2003.
 
 ---
 
-Council Directive 92/79/EEC on the approximation of taxes on cigarettes (OJ L 316, 31.10.1992, pp 8–9), last amended by Directive 2010/12/EU (OJ L 50, 27.2.2010, pp 1–7);\
+<sup>1</sup> Council Directive 92/79/EEC on the approximation of taxes on cigarettes (OJ L 316, 31.10.1992, pp 8–9), last amended by Directive 2010/12/EU (OJ L 50, 27.2.2010, pp 1–7);\
 
  Council Directive 92/80/EEC on the approximation of taxes on manufactured tobacco other than cigarettes (OJ L 316, 31.10.1992, pp 10–11), last amended by Directive 2010/12/EU (OJ L 50, 27.2.2010, pp 1–7);\
 
@@ -4297,3 +4189,5 @@ Council Directive 92/79/EEC on the approximation of taxes on cigarettes (OJ L 31
  Council Directive (EU) 2020/262 laying down the general arrangements for excise duty (recast) (OJ L 58, 27.02.2020, pp 4-42);\
 
  Council Directive (EU) 2020/1151 amending Directive 92/83/EEC on the harmonization of the structures of excise duties on alcohol and alcoholic beverages (OJ L 256, 05.08.2020, pp 1−10).
+
+\[RT I, 30.12.2021, 2 - entry into force 13.02.2023\]

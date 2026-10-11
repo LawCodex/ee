@@ -13,7 +13,7 @@ date: 2014-11-20
 last_amended: 2014-12-13
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/528012015004"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "125112014015"
 ---
@@ -21,8 +21,6 @@ translation_of: "125112014015"
 # Composition and quality requirements for honey and requirements for the provision of food information
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 This Regulation is enacted on the basis of Sections 12(4) and 38(4) of the Food Act.
 
@@ -152,4 +150,4 @@ Toomas Kevvai, Deputy Secretary-General for Food Safety, Research and Developmen
 
 ---
 
-Council Directive 2001/110/EC relating to honey (OJ L 010, 12.1.2002, p. 47); amended by Directive 2014/63/EU (OJ L 164, 3.6.2014, pp. 1–5).
+<sup>1</sup> Council Directive 2001/110/EC relating to honey (OJ L 010, 12.1.2002, p. 47); amended by Directive 2014/63/EU (OJ L 164, 3.6.2014, pp. 1–5).

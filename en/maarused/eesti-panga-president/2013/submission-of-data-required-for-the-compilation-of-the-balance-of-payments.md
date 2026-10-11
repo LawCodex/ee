@@ -14,7 +14,7 @@ date: 2013-10-22
 last_amended: 2026-03-02
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/516032026005"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "127022026007"
 ---
@@ -24,8 +24,6 @@ translation_of: "127022026007"
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
 
 This decree is established on the basis of subsection 91(3) of the Credit Institutions Act and subsection 30<sup>1</sup> (3<sup>1</sup>) of the Official Statistics Act.
-
-\[RT I, 22.01.2021, 3 - entry into force 25.01.2021\]
 
 \[RT I, 22.01.2021, 3 - entry into force 25.01.2021\]
 

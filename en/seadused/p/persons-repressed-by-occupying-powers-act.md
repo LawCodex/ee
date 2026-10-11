@@ -13,7 +13,7 @@ date: 2003-12-17
 last_amended: 2024-01-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/517012024007"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "111032023056"
 ---
@@ -146,9 +146,7 @@ The Government of the Republic shall:
 
 3\) the right to fish for recreation free of charge under the conditions provided for in the Fishing Act.
 
-\[Repealed – RT I, 25.11.2015, 1 - entry into force 01.01.2016\]
-
-(2)
+(2) \[Repealed – RT I, 25.11.2015, 1 - entry into force 01.01.2016\]
 
 ### § 7<sup>1</sup>. Payment of allowance
 
@@ -234,9 +232,7 @@ The following persons have the right to receive an old-age pension under favoura
 
 \[RT I, 13.12.2014, 1 - entry into force 01.01.2017 (entry into force changed – RT I, 17.12.2015, 1)\]
 
-\[Repealed – RT I, 13.12.2014, 1 - entry into force 01.01.2017\]
-
-(2)
+(2) \[Repealed – RT I, 13.12.2014, 1 - entry into force 01.01.2017\]
 
 (3) The provisions of subsection 1 of this section do not apply to persons who, pursuant to subsection 3 of § 24 of the State Pension Insurance Act, have been granted another pension supplement specified in subsection 1 of § 24 of the State Pension Insurance Act.
 

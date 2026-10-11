@@ -13,7 +13,7 @@ date: 2000-12-13
 last_amended: 2026-07-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/501062026006"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "112052026041"
 ---
@@ -21,8 +21,6 @@ translation_of: "112052026041"
 # Animal Protection Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -1622,7 +1620,7 @@ The court sends a copy of the judgment on the prohibition to keep a farm animal 
 
 ---
 
-Council Directive 98/58/EC concerning the protection of animals kept for farming purposes (OJ L 221, 8.8.1998, p. 23–27), amended by Regulations (EC) No. 806/2003 (OJ L 122, 16.5.2003, p. 1–35) and (EU) 2017/625 (OJ L 95, 7.4.2017, p. 1–142); 
+<sup>1</sup> Council Directive 98/58/EC concerning the protection of animals kept for farming purposes (OJ L 221, 8.8.1998, p. 23–27), amended by Regulations (EC) No. 806/2003 (OJ L 122, 16.5.2003, p. 1–35) and (EU) 2017/625 (OJ L 95, 7.4.2017, p. 1–142); 
 Council Directive 1999/74/EC laying down minimum standards for the protection of laying hens (OJ L 203, 3.8.1999, p. 53–57), amended by Regulations (EC) No 806/2003 (OJ L 122, 16.5.2003, p. 1–35) and (EU) 2017/625 (OJ L 95, 7.4.2017, p. 1–142) and Directive 2013/64/EU (OJ L 353, 28.12.2013, p. 8–12); 
 Council Directive 2007/43/EC laying down minimum rules for the protection of chickens kept for meat production (OJ L 182, 12.7.2007, p. 19–28), amended by Regulation (EU) 2017/625 (OJ L 95, 7.4.2017, p. 1–142); 
 Council Directive 2008/119/EC laying down minimum standards for the protection of calves (OJ L 10, 15.1.2009, p. 7–13), amended by Regulation (EU) 2017/625 (OJ L 95, 7.4.2017, p. 1–142); 

@@ -14,7 +14,7 @@ date: 2013-09-26
 last_amended: 2019-05-02
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/504092019001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "129042019006"
 ---
@@ -24,8 +24,6 @@ translation_of: "129042019006"
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
 
 The Regulation shall be laid down on the basis of subsection 26 (3<sup>1</sup>) and § 29 of the Museums Act.
-
-\[RT I, 29.01.2019, 3 - entry into force 01.02.2019\]
 
 \[RT I, 29.01.2019, 3 - entry into force 01.02.2019\]
 

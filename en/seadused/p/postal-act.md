@@ -13,7 +13,7 @@ date: 2006-04-06
 last_amended: 2026-08-10
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/531072026001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "109072026030"
 ---
@@ -21,8 +21,6 @@ translation_of: "109072026030"
 # Postal Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -1301,7 +1299,7 @@ By 1 July 2031 at the latest, the Ministry of Regional Affairs and Agriculture a
 
 ---
 
-Directive 97/67/EC of the European Parliament and of the Council on common rules for the development of the internal market of Community postal services and the improvement of quality of service (OJ L 015, 21.01.1998, p. 14–25); 
+<sup>1</sup> Directive 97/67/EC of the European Parliament and of the Council on common rules for the development of the internal market of Community postal services and the improvement of quality of service (OJ L 015, 21.01.1998, p. 14–25); 
 Directive 2002/39/EC of the European Parliament and of the Council amending Directive 97/67/EC with regard to the further opening to competition of Community postal services (OJ L 176, 05.07.2002, p. 21–25); 
 Directive 2008/6/EC of the European Parliament and of the Council amending Directive 97/67/EC with regard to the full accomplishment of the internal market of Community postal services (OJ L 52, 27.02.2008, p. 3–20). 
 \[RT I 2008, 53, 297 – entry into force 01.01.2009\]

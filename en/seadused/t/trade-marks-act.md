@@ -13,7 +13,7 @@ date: 2002-05-22
 last_amended: 2024-03-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/527022024003"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "106012023028"
 ---
@@ -21,8 +21,6 @@ translation_of: "106012023028"
 # Trade Marks Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -1452,4 +1450,6 @@ This Act enters into force on 1 May 2004.\
 
 ---
 
-Directive (EU) 2015/2436 of the European Parliament and of the Council to approximate the laws of the Member States relating to trade marks (OJ L 336, 23.12.2015, p. 1–26).
+<sup>1</sup> Directive (EU) 2015/2436 of the European Parliament and of the Council to approximate the laws of the Member States relating to trade marks (OJ L 336, 23.12.2015, p. 1–26).
+
+\[RT I, 19.03.2019, 5 - entry into force 01.04.2019\]

@@ -13,7 +13,7 @@ date: 2006-06-07
 last_amended: 2026-07-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/517062026002"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "112052026020"
 ---
@@ -21,8 +21,6 @@ translation_of: "112052026020"
 # Forest Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -69,9 +67,7 @@ translation_of: "112052026020"
 
 3\) \[Repealed – RT I 2008, 56, 314 – entry into force 01.01.2009\]
 
-\[Repealed – RT I, 29.06.2018, 1 - entry into force 01.07.2018\]
-
-4\)
+4\) \[Repealed – RT I, 29.06.2018, 1 - entry into force 01.07.2018\]
 
 5\) \[Repealed – RT I 2008, 56, 314 – entry into force 01.01.2009\]
 
@@ -1762,7 +1758,7 @@ A body conducting extra-judicial proceedings or a court may, in accordance with 
 
 ---
 
-Council Directive 1999/105/EC on the marketing of forest reproductive material (OJ L 11, 15.1.2000, pp. 17–40)
+<sup>1</sup> Council Directive 1999/105/EC on the marketing of forest reproductive material (OJ L 11, 15.1.2000, pp. 17–40)
 
 ## Annexes
 

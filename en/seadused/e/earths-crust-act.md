@@ -13,7 +13,7 @@ date: 2016-10-27
 last_amended: 2026-07-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/517062026003"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "112052026042"
 ---
@@ -21,8 +21,6 @@ translation_of: "112052026042"
 # Earth’s Crust Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — General Provisions
 
@@ -2429,6 +2427,6 @@ The Ministry of Climate, in co-operation with the Ministry of Economic Affairs a
 
 ---
 
-Directive 2006/21/EC of the European Parliament and of the Council on the management of waste from extractive industries and amending Directive 2004/35/EC (OJ L 102, 11.4.2006, pp 15–34);\
+<sup>1</sup> Directive 2006/21/EC of the European Parliament and of the Council on the management of waste from extractive industries and amending Directive 2004/35/EC (OJ L 102, 11.4.2006, pp 15–34);\
 
 Directive 2009/31/EC of the European Parliament and of the Council on the geological storage of carbon dioxide and amending Council Directive 85/337/EEC, European Parliament and Council Directives 2000/60/EC, 2001/80/EC, 2004/35/EC, 2006/12/EC, 2008/1/EC and Regulation (EC) No 1013/2006 (OJ L 140, 5.6.2009, pp 114–135).

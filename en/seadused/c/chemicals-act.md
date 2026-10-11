@@ -13,7 +13,7 @@ date: 2015-10-29
 last_amended: 2026-07-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/516062026003"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "112052026038"
 ---
@@ -21,8 +21,6 @@ translation_of: "112052026038"
 # Chemicals Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -861,7 +859,7 @@ This Act will enter into force on 1 December 2015.
 
 ---
 
-Directive 2004/9/EC of the European Parliament and of the Council on the inspection and verification of good laboratory practice (OJ L 50, 20.02.2004, pp. 28–43), amended by Regulation (EC) No 219/2009 (OJ L 87, 31.03.2009, pp. 109–154);
+<sup>1</sup> Directive 2004/9/EC of the European Parliament and of the Council on the inspection and verification of good laboratory practice (OJ L 50, 20.02.2004, pp. 28–43), amended by Regulation (EC) No 219/2009 (OJ L 87, 31.03.2009, pp. 109–154);
 Directive 2004/10/EC of the European Parliament and of the Council on the harmonisation of laws, regulations and administrative provisions relating to the application of the principles of good laboratory practice and the verification of their applications for tests on chemical substances (OJ L 50, 20.02.2004, pp. 44 59), amended by Regulation (EC) No 219/2009 (OJ L 87, 31.03.2009, pp. 109–154);
 Directive 2012/18/EU of the European Parliament and of the Council on the control of major-accident hazards involving dangerous substances, amending and subsequently repealing Council Directive 96/82/EC (OJ L 197, 24.07.2012, pp. 1–37);
 Directive 2013/30/EU of the European Parliament and of the Council on safety of offshore oil and gas operations and amending Directive 2004/35/EC (OJ L 178, 28.06.2013, pp. 66–106).

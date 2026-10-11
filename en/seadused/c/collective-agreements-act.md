@@ -13,7 +13,7 @@ date: 1993-04-14
 last_amended: 2026-02-13
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/511022026004"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "103022026014"
 ---
@@ -21,8 +21,6 @@ translation_of: "103022026014"
 # Collective Agreements Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -333,4 +331,4 @@ An extended condition of a collective agreement published in the official public
 
 ---
 
-Directive (EU) 2022/2041 of the European Parliament and of the Council on adequate minimum wages in the European Union (OJ L 275, 25.10.2022, pp 33–47). \[RT I, 03.02.2026, 5 – entry into force 13.02.2026\]
+<sup>1</sup> Directive (EU) 2022/2041 of the European Parliament and of the Council on adequate minimum wages in the European Union (OJ L 275, 25.10.2022, pp 33–47). \[RT I, 03.02.2026, 5 – entry into force 13.02.2026\]

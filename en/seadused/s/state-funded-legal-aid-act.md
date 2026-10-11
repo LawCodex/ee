@@ -13,7 +13,7 @@ date: 2004-06-28
 last_amended: 2026-06-12
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/515062026002"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "103062026035"
 ---
@@ -21,8 +21,6 @@ translation_of: "103062026035"
 # State-funded Legal Aid Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -719,4 +717,4 @@ The Minister in charge of the policy sector may renew a contract to support acce
 
 ---
 
-Directive (EU) 2017/541 of the European Parliament and of the Council of 15 March 2017 on combating terrorism and replacing Council Framework Decision 2002/475/JHA and amending Council Decision 2005/671/JHA (OJ L 88, 31.03.2017, pp 6–21).
+<sup>1</sup> Directive (EU) 2017/541 of the European Parliament and of the Council of 15 March 2017 on combating terrorism and replacing Council Framework Decision 2002/475/JHA and amending Council Decision 2005/671/JHA (OJ L 88, 31.03.2017, pp 6–21).

@@ -14,7 +14,7 @@ date: 2015-02-18
 last_amended: 2025-04-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/525042025003"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "130012025002"
 ---
@@ -197,13 +197,9 @@ The study environment is a physical or digital environment that supports the lea
 
 \[RT I, 30.01.2025, 1 - entry into force 01.04.2025\]
 
-\[Repealed - RT I, 30.01.2025, 1 - entry into force 01.04.2025\]
+8\) \[Repealed - RT I, 30.01.2025, 1 - entry into force 01.04.2025\]
 
-8\)
-
-\[Repealed - RT I, 30.01.2025, 1 - entry into force 01.04.2025\]
-
-(2)
+(2) \[Repealed - RT I, 30.01.2025, 1 - entry into force 01.04.2025\]
 
 ### Subchapter 2 — Requirements for Conduct of Micro-credential Studies
 
@@ -449,17 +445,13 @@ The activity licence is issued if the applicant complies with the following cond
 
 \[RT I, 30.01.2025, 1 - entry into force 01.04.2025\]
 
-\[Repealed - RT I, 30.01.2025, 1 - entry into force 01.04.2025\]
-
-(3)
+(3) \[Repealed - RT I, 30.01.2025, 1 - entry into force 01.04.2025\]
 
 (4) The procedure for the formation and submission of a state-commissioned continuing education request and the procedure for calculation of the cost of a student place in continuing education and the cost of an academic hour or credit shall be established by a regulation of the minister in charge of the policy sector.
 
 \[RT I, 30.01.2025, 1 - entry into force 01.04.2025\]
 
-\[Repealed - RT I, 30.01.2025, 1 - entry into force 01.04.2025\]
-
-(5)
+(5) \[Repealed - RT I, 30.01.2025, 1 - entry into force 01.04.2025\]
 
 (6) Studying in a student place formed on the basis of state-commissioned continuing education is free of charge for a learner unless the extent of cost-sharing has been established for learners upon the submission of the state-commissioned continuing education request.
 

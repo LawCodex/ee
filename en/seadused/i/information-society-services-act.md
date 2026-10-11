@@ -13,7 +13,7 @@ date: 2004-04-14
 last_amended: 2026-08-18
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/527072026007"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "111072026089"
 ---
@@ -21,8 +21,6 @@ translation_of: "111072026089"
 # Information Society Services Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## § 1. Purpose of Act
 
@@ -386,4 +384,4 @@ This Act enters into force on 1 May 2004.
 
 ---
 
-Directive 2000/31/EC of the European Parliament and the Council on certain legal aspects of information society services, in particular electronic commerce, in the Internal market (OJ L 178, 17.7.2000, pp. 1–16); Directive 98/48/EC of the European Parliament and the Council amending Directive 98/34/EC laying down a procedure for the provision of information in the field of technical standards and regulations (OJ L 217, 5.8.1998, pp. 18–26); Directive of the European Parliament and of the Council (EU) 2023/1544 laying down harmonised rules on the designation of designated establishments and the appointment of legal representatives for the purpose of gathering electronic evidence in criminal proceedings (OJ L 191, 28.07.2023, pp 181–190). \[RT I, 09.07.2026, 11 – entry into force 19.07.2026\] ² RT = Riigi Teataja = State Gazette
+<sup>1</sup> Directive 2000/31/EC of the European Parliament and the Council on certain legal aspects of information society services, in particular electronic commerce, in the Internal market (OJ L 178, 17.7.2000, pp. 1–16); Directive 98/48/EC of the European Parliament and the Council amending Directive 98/34/EC laying down a procedure for the provision of information in the field of technical standards and regulations (OJ L 217, 5.8.1998, pp. 18–26); Directive of the European Parliament and of the Council (EU) 2023/1544 laying down harmonised rules on the designation of designated establishments and the appointment of legal representatives for the purpose of gathering electronic evidence in criminal proceedings (OJ L 191, 28.07.2023, pp 181–190). \[RT I, 09.07.2026, 11 – entry into force 19.07.2026\] ² RT = Riigi Teataja = State Gazette

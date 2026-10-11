@@ -13,7 +13,7 @@ date: 2014-11-12
 last_amended: 2014-12-13
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/528012015005"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "114112014005"
 ---
@@ -21,8 +21,6 @@ translation_of: "114112014005"
 # Composition and quality requirements for food supplements and requirements for the provision of food information
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 This Regulation is enacted on the basis of Sections 12(4) and 38(4) of the Food Act.
 
@@ -78,4 +76,4 @@ Ants Noot, Secretary-General
 
 ---
 
-Directive 2002/46/EC of the European Parliament and of the Council on the approximation of the laws of the Member States relating to food supplements (OJ L 183, 12.7.2002, pp. 51–57), amended by Directive 2006/37/EC (OJ L 94, 1.4.2006, pp. 32–33) and by Regulations (EC) No 1137/2008 (OJ L 311, 21.11.2008, pp. 1–54), (EC) No 1170/2009 (OJ L 314, 1.12.2009, pp. 36–42), (EU) No 1161/2011 (OJ L 296, 15.11.2011, pp. 29–30) and (EU) No 119/2014 (OJ L 39, 8.2.2014, pp. 44–45).
+<sup>1</sup> Directive 2002/46/EC of the European Parliament and of the Council on the approximation of the laws of the Member States relating to food supplements (OJ L 183, 12.7.2002, pp. 51–57), amended by Directive 2006/37/EC (OJ L 94, 1.4.2006, pp. 32–33) and by Regulations (EC) No 1137/2008 (OJ L 311, 21.11.2008, pp. 1–54), (EC) No 1170/2009 (OJ L 314, 1.12.2009, pp. 36–42), (EU) No 1161/2011 (OJ L 296, 15.11.2011, pp. 29–30) and (EU) No 119/2014 (OJ L 39, 8.2.2014, pp. 44–45).

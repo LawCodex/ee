@@ -13,7 +13,7 @@ date: 2001-06-13
 last_amended: 2024-07-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/511072024001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "130042024006"
 ---
@@ -291,9 +291,7 @@ A seal stamp bearing the national coat of arms may not be used if its seal is in
 
 \[RT I 2010, 22, 108 - entry into force 01.01.2011\]
 
-\[Repealed - RT I, 12.07.2014, 1 - entry into force 01.01.2015\]
-
-(3)
+(3) \[Repealed - RT I, 12.07.2014, 1 - entry into force 01.01.2015\]
 
 (4) Extra-judicial proceedings concerning the misdemeanours provided in this section are conducted by police authorities.
 

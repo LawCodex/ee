@@ -13,7 +13,7 @@ date: 2004-12-15
 last_amended: 2026-07-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/501062026005"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "110022026015"
 ---
@@ -269,9 +269,7 @@ Upon annulment of a marriage, the surname of a person last borne before the marr
 
 8\) the education of the person.
 
-\[Repealed – RT I, 17.11.2017, 1 - entry into force 01.01.2019\]
-
-9\)
+9\) \[Repealed – RT I, 17.11.2017, 1 - entry into force 01.01.2019\]
 
 (2<sup>1</sup>) An application for assignment of a new given name, surname or personal name to an adult with restricted active legal capacity may not be submitted in the secure online environment of the population register.\
 \[RT I, 18.12.2025, 4 – entry into force 29.12.2025\]
@@ -321,9 +319,7 @@ Upon annulment of a marriage, the surname of a person last borne before the marr
 (9) The procedure and format of applications for assigning a new given name, surname or personal name to a person shall be established by a regulation of the minister in charge of the policy sector.\
 \[RT I 2010, 1, 1 – entry into force 01.07.2010\]
 
-\[Repealed – RT I, 17.11.2017, 1 - entry into force 01.01.2019\]
-
-(10)
+(10) \[Repealed – RT I, 17.11.2017, 1 - entry into force 01.01.2019\]
 
 (11) An applicant shall present a document specified in clauses 1 and 1<sup>2</sup>–8 of subsection 2 of § 2 or § 4 of the Identity Documents Act for identification, except upon submission of a digitally signed application.\
 \[RT I, 04.07.2017, 1 – entry into force 01.01.2018\]

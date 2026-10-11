@@ -13,7 +13,7 @@ date: 2011-02-23
 last_amended: 2025-09-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/511092025011"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "102012025026"
 ---
@@ -21,8 +21,6 @@ translation_of: "102012025026"
 # General Part of the Economic Activities Code Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — General Provisions
 
@@ -1279,4 +1277,4 @@ This Act enters into force on 1 July 2014.\
 
 ---
 
-Directive 2006/123/EC of the European Parliament and of the Council on services in the internal market (OJ L 376, 27.12.2006, pp. 36–68).
+<sup>1</sup> Directive 2006/123/EC of the European Parliament and of the Council on services in the internal market (OJ L 376, 27.12.2006, pp. 36–68).

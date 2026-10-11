@@ -13,7 +13,7 @@ date: 2009-05-14
 last_amended: 2026-07-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/516062026004"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "112052026027"
 ---
@@ -21,8 +21,6 @@ translation_of: "112052026027"
 # Biocidal Products Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -619,4 +617,6 @@ In the event of failure to comply with a precept the maximum non-compliance levy
 
 ---
 
-\[Drafting note omitted.\]
+<sup>1</sup> \[Drafting note omitted.\]
+
+\[RT I, 03.02.2023, 2 - entry into force 01.06.2023\]

@@ -13,7 +13,7 @@ date: 2010-01-27
 last_amended: 2025-01-17
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/504022025002"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "107012025013"
 ---
@@ -21,8 +21,6 @@ translation_of: "107012025013"
 # Auditors Activities Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -3708,5 +3706,5 @@ By 1 July 2019 the Ministry of Finance shall analyse the expediency and purposef
 
 ---
 
-Directive 2006/43/EC of the European Parliament and of the Council on statutory audits of annual accounts and consolidated accounts, amending Council Directives 78/660/EEC and 83/349/EEC and repealing Council Directive 84/253/EEC (OJ L 157, 9.6.2006, pp. 87–107), amended by Directive 2008/30/EC of the European Parliament and of the Council (OJ L 81, 20.03.2008, pp 53–56), amended by Directive 2013/34/EU (OJ L 182, 29.06.2013, pp 19–76) and Directive 2014/56/EU of the European Parliament and of the Council (OJ L 158, 27.05.2014, pp 196–226), (EU) 2022/2464 (OJ L 1322, 16.12.2022, pp 15–80) and (EU) 2023/2775 (OJ L 2023/2775, 21.12.2023).
+<sup>1</sup> Directive 2006/43/EC of the European Parliament and of the Council on statutory audits of annual accounts and consolidated accounts, amending Council Directives 78/660/EEC and 83/349/EEC and repealing Council Directive 84/253/EEC (OJ L 157, 9.6.2006, pp. 87–107), amended by Directive 2008/30/EC of the European Parliament and of the Council (OJ L 81, 20.03.2008, pp 53–56), amended by Directive 2013/34/EU (OJ L 182, 29.06.2013, pp 19–76) and Directive 2014/56/EU of the European Parliament and of the Council (OJ L 158, 27.05.2014, pp 196–226), (EU) 2022/2464 (OJ L 1322, 16.12.2022, pp 15–80) and (EU) 2023/2775 (OJ L 2023/2775, 21.12.2023).
 \[RT I, 07.01.2025, 1 - entry into force 17.01.2025\]

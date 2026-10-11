@@ -13,7 +13,7 @@ date: 2003-06-11
 last_amended: 2016-01-16
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/505022016004"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "106012016017"
 ---
@@ -21,8 +21,6 @@ translation_of: "106012016017"
 # Act on the Return of Cultural Objects Unlawfully Removed from the Territory of a Member State of the European Union
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## § 1. Scope of application of Act
 
@@ -186,5 +184,5 @@ This Act enters into force by a separate Act upon the accession of the Republic 
 
 ---
 
-Directive 2014/60/EU of the European Parliament and of the Council on the return of cultural objects unlawfully removed from the territory of a Member State and amending Regulation (EU) No 1024/2012 (Recast) (text applicable in the EEA) (OJ L 159, 28.05.2014, p. 1–10; OJ L 147, 12.06.2015, p. 24).
+<sup>1</sup> Directive 2014/60/EU of the European Parliament and of the Council on the return of cultural objects unlawfully removed from the territory of a Member State and amending Regulation (EU) No 1024/2012 (Recast) (text applicable in the EEA) (OJ L 159, 28.05.2014, p. 1–10; OJ L 147, 12.06.2015, p. 24).
 \[RT I, 06.01.2016, 4 – entry into force 16.01.2016\]

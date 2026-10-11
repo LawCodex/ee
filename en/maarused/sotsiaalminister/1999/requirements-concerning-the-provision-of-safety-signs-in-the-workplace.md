@@ -14,7 +14,7 @@ date: 1999-11-30
 last_amended: 2015-06-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/518112015005"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "112032015073"
 ---
@@ -22,8 +22,6 @@ translation_of: "112032015073"
 # Requirements concerning the provision of safety signs in the workplace
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 This Regulation is enacted on the basis of Section 4(4) of the Occupational Health and Safety Act (RT I 1999, 60, 616).
 
@@ -463,4 +461,6 @@ quickly — to speed up a movement.
 
 ---
 
-Council Directive 92/58/EEC on the minimum requirements for the provisions of safety and/or health signs at work (OJ L 245, 26.8.1992, p. 23), amended by Directive 2014/27/EU of the European Parliament and of the Council (OJ L 65, 5.3.2014, p. 1).
+<sup>1</sup> Council Directive 92/58/EEC on the minimum requirements for the provisions of safety and/or health signs at work (OJ L 245, 26.8.1992, p. 23), amended by Directive 2014/27/EU of the European Parliament and of the Council (OJ L 65, 5.3.2014, p. 1).
+
+\[RT I, 12.03.2015, 8 - entry into force 01.06.2015\]

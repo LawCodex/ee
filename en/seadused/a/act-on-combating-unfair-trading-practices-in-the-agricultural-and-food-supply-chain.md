@@ -13,7 +13,7 @@ date: 2021-09-14
 last_amended: 2023-07-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/505102023011"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "127092023007"
 ---
@@ -21,8 +21,6 @@ translation_of: "127092023007"
 # Act on Combating Unfair Trading Practices in the Agricultural and Food Supply Chain
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — General Provisions
 
@@ -259,4 +257,4 @@ This Act enters into force on 1 November 2021.
 
 ---
 
-Directive (EU) 2019/633 of the European Parliament and of the Council on unfair trading practices in business-to-business relationships in the agricultural and food supply chain (OJ L 111, 25.04.2019, pp 59–72).
+<sup>1</sup> Directive (EU) 2019/633 of the European Parliament and of the Council on unfair trading practices in business-to-business relationships in the agricultural and food supply chain (OJ L 111, 25.04.2019, pp 59–72).

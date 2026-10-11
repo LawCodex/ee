@@ -14,7 +14,7 @@ date: 2013-04-25
 last_amended: 2026-07-19
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/517072026005"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "111072026022"
 ---
@@ -221,9 +221,7 @@ A right to use a hunting district is the right to organise hunting in the huntin
 
 \[RT I, 17.03.2023, 3 - entry into force 01.04.2023\]
 
-\[Repealed – RT I, 17.03.2023, 3 - entry into force 01.04.2023\]
-
-(9)
+(9) \[Repealed – RT I, 17.03.2023, 3 - entry into force 01.04.2023\]
 
 ### § 15. Application for permit in proof of right to use hunting district
 
@@ -253,9 +251,7 @@ A right to use a hunting district is the right to organise hunting in the huntin
 
 (3) Applications are received within 30 days as of the entry into force of the decision forming a hunting district or after publication of a notice set out in subsection 4 of § 20 of this Act.
 
-\[Repealed – RT I, 17.03.2023, 3 - entry into force 01.04.2023\]
-
-(4)
+(4) \[Repealed – RT I, 17.03.2023, 3 - entry into force 01.04.2023\]
 
 (5) Where an application for a permit in proof of right to use hunting district complies with the requirements, the issuer initiates the proceedings for issue of the permit and notifies the applicant thereof through the environmental decisions information system within seven days as of the receipt of an application in accordance with the requirements.
 
@@ -1180,9 +1176,7 @@ The Environmental Board and a court may, pursuant to the provisions of § 83 of 
 
 ### § 65. Proceedings
 
-\[Repealed – RT I, 12.07.2014, 1 - entry into force 01.01.2015\]
-
-(1)
+(1) \[Repealed – RT I, 12.07.2014, 1 - entry into force 01.01.2015\]
 
 (2) Extrajudicial proceedings of misdemeanours provided in §§ 49–63 of this Act are conducted by the Environmental Board.
 

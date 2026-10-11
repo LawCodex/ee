@@ -13,7 +13,7 @@ date: 2022-04-13
 last_amended: 2025-01-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/518032025010"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "114032025010"
 ---
@@ -21,8 +21,6 @@ translation_of: "114032025010"
 # Commercial Register Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — General Provisions
 
@@ -890,4 +888,4 @@ Religious associations must bring the conditions of the right of representation 
 
 ---
 
-Directive (EU) 2017/1132 of the European Parliament and of the Council relating to certain aspects of company law (OJ L 169, 30.06.2017, pp 46–127), amended by Directive 2019/1151 (OJ L 186, 11.07.2019, pp 80–104).
+<sup>1</sup> Directive (EU) 2017/1132 of the European Parliament and of the Council relating to certain aspects of company law (OJ L 169, 30.06.2017, pp 46–127), amended by Directive 2019/1151 (OJ L 186, 11.07.2019, pp 80–104).

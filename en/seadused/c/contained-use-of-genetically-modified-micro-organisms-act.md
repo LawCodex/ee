@@ -13,7 +13,7 @@ date: 2001-11-21
 last_amended: 2026-07-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/518062026002"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "112052026030"
 ---
@@ -21,8 +21,6 @@ translation_of: "112052026030"
 # Contained Use of Genetically Modified Micro-organisms Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -372,4 +370,6 @@ In the event of the contained use of genetically modified micro-organisms, the u
 
 ---
 
-Council Directive 90/219/EEC on the contained use of genetically modified micro-organisms (OJ L 117, 8.05.1990, pp. 1–14); Council Directive 98/81/EC amending Directive 90/219/EEC on the contained use of genetically modified micro-organisms (OJ L 330, 5.12.1998, pp. 13–31).
+<sup>1</sup> Council Directive 90/219/EEC on the contained use of genetically modified micro-organisms (OJ L 117, 8.05.1990, pp. 1–14); Council Directive 98/81/EC amending Directive 90/219/EEC on the contained use of genetically modified micro-organisms (OJ L 330, 5.12.1998, pp. 13–31).
+
+\[RT I 2008, 48, 266 - entry into force 23.11.2008\]

@@ -13,7 +13,7 @@ date: 2011-02-16
 last_amended: 2026-09-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/517072026001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "109072026021"
 ---
@@ -21,8 +21,6 @@ translation_of: "109072026021"
 # General Part of the Environmental Code Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — General Provisions
 
@@ -1257,4 +1255,4 @@ This Act enters into force at the time and in accordance with to the procedure p
 
 ---
 
-Directive 2003/4/EC of the European Parliament and of the Council on public access to environmental information and repealing Council Directive 90/313/EEC (OJ L 41, 14.02.2003, pp 26–32); Directive 2003/35/EC of the European Parliament and of the Council providing for public participation in respect of the drawing up of certain plans and programmes relating to the environment and amending with regard to public participation and access to justice Council Directives 85/337/EEC and 96/61/EC (OJ L 156, 25.06.2003, pp 17–25); Directive 2011/92/EU of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment (codification) (OJ L 26, 28.01.2012, pp 1–21); Directive (EU) 2015/2193 of the European Parliament and of the Council on the limitation of emissions of certain pollutants into the air from medium combustion plants (OJ L 313, 28.11.2015, pp 1–19). \[RT I, 03.07.2017, 5 - entry into force 13.07.2017\]
+<sup>1</sup> Directive 2003/4/EC of the European Parliament and of the Council on public access to environmental information and repealing Council Directive 90/313/EEC (OJ L 41, 14.02.2003, pp 26–32); Directive 2003/35/EC of the European Parliament and of the Council providing for public participation in respect of the drawing up of certain plans and programmes relating to the environment and amending with regard to public participation and access to justice Council Directives 85/337/EEC and 96/61/EC (OJ L 156, 25.06.2003, pp 17–25); Directive 2011/92/EU of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment (codification) (OJ L 26, 28.01.2012, pp 1–21); Directive (EU) 2015/2193 of the European Parliament and of the Council on the limitation of emissions of certain pollutants into the air from medium combustion plants (OJ L 313, 28.11.2015, pp 1–19). \[RT I, 03.07.2017, 5 - entry into force 13.07.2017\]

@@ -13,7 +13,7 @@ date: 2002-11-20
 last_amended: 2025-07-20
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/510072025005"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "110072025003"
 ---
@@ -21,8 +21,6 @@ translation_of: "110072025003"
 # Accounting Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -1210,7 +1208,7 @@ The authority of the chairman and members of the Accounting Standards Board of t
 
 ---
 
-Directive 2013/34/EU of the European Parliament and of the Council on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.06.2013, p 19), amended by Directives 2014/95/EU (OJ L 330, 15.11.2014, p 1–9), (EU) 2022/2464 (OJ L 322, 16.12.2022, pp 15–80), (EU) 2023/2775 (OJ L 2023/2775, 21.12.2023) and (EU) 2025/794 (OJ L, 2025/794, 16.04.2025); Directive 2014/55/EU of the European Parliament and of the Council on electronic invoicing in public procurement (OJ L 133, 06.05.2014, p. 1–11). \[RT I, 10.07.2025, 2 – entry into force 20.07.2025\]
+<sup>1</sup> Directive 2013/34/EU of the European Parliament and of the Council on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.06.2013, p 19), amended by Directives 2014/95/EU (OJ L 330, 15.11.2014, p 1–9), (EU) 2022/2464 (OJ L 322, 16.12.2022, pp 15–80), (EU) 2023/2775 (OJ L 2023/2775, 21.12.2023) and (EU) 2025/794 (OJ L, 2025/794, 16.04.2025); Directive 2014/55/EU of the European Parliament and of the Council on electronic invoicing in public procurement (OJ L 133, 06.05.2014, p. 1–11). \[RT I, 10.07.2025, 2 – entry into force 20.07.2025\]
 
 ## Annexes
 

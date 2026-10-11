@@ -14,7 +14,7 @@ date: 2012-06-06
 last_amended: 2026-07-19
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/517072026003"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "109072026019"
 ---
@@ -438,9 +438,7 @@ Violation of the requirement by an official to give notification of income deriv
 
 ### § 21. Proceedings
 
-\[Repealed – RT I, 12.07.2014, 1 - entry into force 01.01.2015\]
-
-(1)
+(1) \[Repealed – RT I, 12.07.2014, 1 - entry into force 01.01.2015\]
 
 (2) The Police and Border Guard Board is the out-of-court proceedings authority for the misdemeanours provided in §§ 17–19 of this Act. Where the Estonian Internal Security Service establishes a misdemeanour specified in §§ 17–19 of this Act in the course of offence proceedings, the out-of-court proceedings authority is the Estonian Internal Security Service.\
 \[RT I, 09.07.2026, 2 – entry into force 19.07.2026\]

@@ -13,7 +13,7 @@ date: 2017-06-07
 last_amended: 2026-07-13
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/510072026006"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "103072026041"
 ---
@@ -21,8 +21,6 @@ translation_of: "103072026041"
 # Explosives Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — General Provisions
 
@@ -863,7 +861,7 @@ This Act enters into force on 4 July 2017.
 
 ---
 
-Directive 2014/28/EU of the European Parliament and of the Council on the harmonisation of the laws of the Member States relating to the making available on the market and supervision of explosives for civil uses (OJ L 96, 29.03.2014, pp. 1–44);
+<sup>1</sup> Directive 2014/28/EU of the European Parliament and of the Council on the harmonisation of the laws of the Member States relating to the making available on the market and supervision of explosives for civil uses (OJ L 96, 29.03.2014, pp. 1–44);
 Commission Directive 2008/43/EC setting up, pursuant to Council Directive 93/15/EEC, a system for the identification and traceability of explosives for civil uses (OJ L 94, 05.04.2008, pp. 8–12), as amended by Directive 2012/4/EL (OJ L 50, 23.02.2012, pp. 18–20);
 Directive 2013/29/EU of the European Parliament and of the Council on the harmonisation of the laws of the Member States relating to the making available on the market of pyrotechnic articles (OJ L 178, 28.06.2013, pp. 27–65));
  Commission Implementing Directive 2014/58/EU setting up, pursuant to Directive 2007/23/EC of the European Parliament and of the Council, a system for the traceability of pyrotechnic articles (OJ L 115, 17.04.2014, pp. 28–31).

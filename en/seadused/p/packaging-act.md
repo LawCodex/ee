@@ -13,7 +13,7 @@ date: 2004-04-21
 last_amended: 2026-01-17
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/530012026001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "107012026023"
 ---
@@ -21,8 +21,6 @@ translation_of: "107012026023"
 # Packaging Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -1287,7 +1285,7 @@ This Act enters into force on 1 June 2004.
 
 ---
 
-European Parliament and Council Directive 94/62/EC on packaging and packaging waste (OJ L 365, 31.12.1994, p. 10–23), amended by Directives 2004/12/EC (OJ L 047, 18.2.2004, p. 26–32), 2005/20/EC (OJ L 070, 16.3.2005, p. 17–18), 2013/2/EU (OJ L 037, 8.2.2013, p. 10–12), (EU) 2015/720 (OJ L 115, 6.5.2015, p. 11–15) and (EU) 2018/852 (OJ L 150, 14.6.2018, p. 141–154);
+<sup>1</sup> European Parliament and Council Directive 94/62/EC on packaging and packaging waste (OJ L 365, 31.12.1994, p. 10–23), amended by Directives 2004/12/EC (OJ L 047, 18.2.2004, p. 26–32), 2005/20/EC (OJ L 070, 16.3.2005, p. 17–18), 2013/2/EU (OJ L 037, 8.2.2013, p. 10–12), (EU) 2015/720 (OJ L 115, 6.5.2015, p. 11–15) and (EU) 2018/852 (OJ L 150, 14.6.2018, p. 141–154);
 Directive 2008/98/EC of the European Parliament and of the Council on waste and repealing certain Directives (OJ L 312, 22.11.2008, p. 3–30), amended by Directive (EU) 2018/851 (OJ L 150, 14.6.2018, p. 109–140);
 Directive (EU) 2019/904 of the European Parliament and of the Council on the reduction of the impact of certain plastic products on the environment (OJ L 155, 12.6.2019, p. 1–19).
 \[RT I, 07.03.2023, 1 – entry into force 01.05.2023\]

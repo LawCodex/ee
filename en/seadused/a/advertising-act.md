@@ -13,7 +13,7 @@ date: 2008-03-12
 last_amended: 2026-03-16
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/509032026001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "106032026008"
 ---
@@ -21,8 +21,6 @@ translation_of: "106032026008"
 # Advertising Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -790,5 +788,5 @@ This Act enters into force on 1 November 2008.
 
 ---
 
-Council Directive 84/450/EEC relating to the approximation of the laws, regulations and administrative provisions of the Member States concerning misleading advertising (OJ L 250, 19.9.1984, p. 17–20), as amended by Directive 97/55/EC of European Parliament and of the Council amending Directive 84/450/EEC concerning misleading advertising so as to include comparative advertising (OJ L 290, 23.10.1997, p. 18–23) and Directive 2005/29/EC of the European Parliament and of the Council concerning unfair business-to-consumer commercial practices in the internal market and amending Council Directive 84/450/EEC, Directives 97/7/EC, 98/27/EC and 2002/65/EC of the European Parliament and of the Council and Regulation (EC) No 2006/2004 of the European Parliament and of the Council (Unfair Commercial Practices Directive) (OJ L 149, 11.6.2005, p. 22–39), Directive 2008/48/EC of the European Parliament and of the Council on credit agreements for consumers and repealing Council Directive 87/102/EEC (OJ L 133, 22.5.2008, p. 66–92). 
+<sup>1</sup> Council Directive 84/450/EEC relating to the approximation of the laws, regulations and administrative provisions of the Member States concerning misleading advertising (OJ L 250, 19.9.1984, p. 17–20), as amended by Directive 97/55/EC of European Parliament and of the Council amending Directive 84/450/EEC concerning misleading advertising so as to include comparative advertising (OJ L 290, 23.10.1997, p. 18–23) and Directive 2005/29/EC of the European Parliament and of the Council concerning unfair business-to-consumer commercial practices in the internal market and amending Council Directive 84/450/EEC, Directives 97/7/EC, 98/27/EC and 2002/65/EC of the European Parliament and of the Council and Regulation (EC) No 2006/2004 of the European Parliament and of the Council (Unfair Commercial Practices Directive) (OJ L 149, 11.6.2005, p. 22–39), Directive 2008/48/EC of the European Parliament and of the Council on credit agreements for consumers and repealing Council Directive 87/102/EEC (OJ L 133, 22.5.2008, p. 66–92). 
 \[RT I, 17.03.2015, 2 – entry into force 01.01.2016\]

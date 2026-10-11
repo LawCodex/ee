@@ -13,7 +13,7 @@ date: 2010-04-22
 last_amended: 2026-10-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/502102026001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "103072026026"
 ---
@@ -197,15 +197,11 @@ Links to other legislation and databases containing legal information may be add
 1\) the Ministry of Justice and Digital Affairs – Acts, decrees of the President of the Republic, resolutions of the *Riigikogu*, regulations and orders of the Government of the Republic, and ministers’ regulations;\
 \[RT I, 30.12.2024, 1 – entry into force 01.01.2025, the words "Ministry of Justice" replaced with words "Ministry of Justice and Digital Affairs" on the basis of subsection 12 of § 105.19 of the Government of the Republic Act.\]
 
-\[repealed – RT I, 10.11.2018, 2 - entry into force 01.01.2019\]
-
-2\)
+2\) \[repealed – RT I, 10.11.2018, 2 - entry into force 01.01.2019\]
 
 3\) Eesti Pank – decrees of the Governor of Eesti Pank;
 
-\[repealed – RT I, 06.05.2016, 1 - entry into force 01.01.2017\]
-
-4\)
+4\) \[repealed – RT I, 06.05.2016, 1 - entry into force 01.01.2017\]
 
 5\) a local authority – regulations of the local authority.
 

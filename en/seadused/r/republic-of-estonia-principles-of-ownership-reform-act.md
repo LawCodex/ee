@@ -13,7 +13,7 @@ date: 1991-06-13
 last_amended: 2026-01-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/517122025002"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "118122025007"
 ---
@@ -391,33 +391,19 @@ This Act applies upon return of and compensation for nationalised land and natur
 
 \[RT I, 04.07.2017, 1 - entry into force 01.01.2018\]
 
-\[Repealed – RT I, 04.07.2017, 1 - entry into force 01.01.2018\]
+(2) \[Repealed – RT I, 04.07.2017, 1 - entry into force 01.01.2018\]
 
-(2)
+(3) \[Repealed – RT I, 04.07.2017, 1 - entry into force 01.01.2018\]
 
-\[Repealed – RT I, 04.07.2017, 1 - entry into force 01.01.2018\]
+(4) \[Repealed – RT I, 04.07.2017, 1 - entry into force 01.01.2018\]
 
-(3)
+(5) \[Repealed – RT I, 04.07.2017, 1 - entry into force 01.01.2018\]
 
-\[Repealed – RT I, 04.07.2017, 1 - entry into force 01.01.2018\]
+(6) \[Repealed – RT I, 04.07.2017, 1 - entry into force 01.01.2018\]
 
-(4)
+(6<sup>1</sup>) \[Repealed – RT I 1999, 96, 847 - entry into force 01.01.2000\]
 
-\[Repealed – RT I, 04.07.2017, 1 - entry into force 01.01.2018\]
-
-(5)
-
-\[Repealed – RT I, 04.07.2017, 1 - entry into force 01.01.2018\]
-
-(6)
-
-\[Repealed – RT I 1999, 96, 847 - entry into force 01.01.2000\]
-
-(6<sup>1</sup>)
-
-\[Repealed – RT I, 04.07.2017, 1 - entry into force 01.01.2018\]
-
-(7)
+(7) \[Repealed – RT I, 04.07.2017, 1 - entry into force 01.01.2018\]
 
 ## Part III — Municipalisation
 

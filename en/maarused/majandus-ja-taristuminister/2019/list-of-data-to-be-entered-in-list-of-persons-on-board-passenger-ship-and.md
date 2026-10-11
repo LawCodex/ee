@@ -13,7 +13,7 @@ date: 2019-12-17
 last_amended: 2019-12-22
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/516062020007"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "119122019025"
 ---
@@ -21,8 +21,6 @@ translation_of: "119122019025"
 # List of Data to be Entered in List of Persons on Board Passenger Ship and Principles for Preparing List
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 The Regulation is established on the basis of subsection 31 (7) of the Maritime Safety Act.
 
@@ -62,4 +60,4 @@ Ando Leppiman, Secretary General
 
 ---
 
-Directive (EU) 2017/2109 of the European Parliament and of the Council amending Council Directive 98/41/EC on the registration of persons sailing on board passenger ships operating to or from ports of the Member States of the Community and Directive 2010/65/EU of the European Parliament and of the Council on reporting formalities for ships arriving in and/or departing from ports of the Member States (OJ L 315, 30.11.2017, p. 52–60)
+<sup>1</sup> Directive (EU) 2017/2109 of the European Parliament and of the Council amending Council Directive 98/41/EC on the registration of persons sailing on board passenger ships operating to or from ports of the Member States of the Community and Directive 2010/65/EU of the European Parliament and of the Council on reporting formalities for ships arriving in and/or departing from ports of the Member States (OJ L 315, 30.11.2017, p. 52–60)

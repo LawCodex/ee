@@ -14,7 +14,7 @@ date: 2003-01-29
 last_amended: 2026-07-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/509062026002"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "110022026006"
 ---
@@ -195,17 +195,11 @@ An administrative contract shall specify:
 1<sup>4</sup>) administrative contracts specified in subsection 1 of § 65<sup>3</sup> of the Local Government Organisation Act, if the estimated value of the contract to be concluded is below the international threshold for public procurement;\
 \[RT I, 10.02.2026, 1 – entry into force 01.07.2026\]
 
-\[repealed – RT I, 19.03.2019, 12 - entry into force 01.09.2019\]
+2\) \[repealed – RT I, 19.03.2019, 12 - entry into force 01.09.2019\]
 
-2\)
+2<sup>1</sup>) \[repealed – RT I, 19.03.2019, 12 - entry into force 01.09.2019\]
 
-\[repealed – RT I, 19.03.2019, 12 - entry into force 01.09.2019\]
-
-2<sup>1</sup>)
-
-\[repealed – RT I, 16.06.2020, 1 - entry into force 01.08.2020\]
-
-2<sup>2</sup>)
+2<sup>2</sup>) \[repealed – RT I, 16.06.2020, 1 - entry into force 01.08.2020\]
 
 2<sup>3</sup>) administrative contracts entered into on the basis of subsection 1 of § 43 of the Higher Education Act;
 
@@ -231,21 +225,15 @@ An administrative contract shall specify:
 
 \[RT I, 03.02.2011, 1 - entry into force 13.02.2011\]
 
-\[repealed – RT I, 21.12.2018, 3 - entry into force 01.01.2019\]
+7\) \[repealed – RT I, 21.12.2018, 3 - entry into force 01.01.2019\]
 
-7\)
-
-\[omitted – RT I, 30.12.2015, 5 - entry into force 01.01.2016\]
-
-7<sup>1</sup>)
+7<sup>1</sup>) \[omitted – RT I, 30.12.2015, 5 - entry into force 01.01.2016\]
 
 8\) administrative contracts specified in subsection 9 of § 6 of the Labour Market Measures Act;
 
 \[RT I, 07.03.2023, 5 - entry into force 01.01.2024\]
 
-\[repealed – RT I, 19.03.2019, 7 - entry into force 01.04.2019\]
-
-9\)
+9\) \[repealed – RT I, 19.03.2019, 7 - entry into force 01.04.2019\]
 
 9<sup>1</sup>) administrative contracts specified in subsection 1 of § 87<sup>4</sup> of the Plant Protection Act;
 
@@ -255,9 +243,7 @@ An administrative contract shall specify:
 
 \[RT I, 17.11.2021, 1 - entry into force 01.12.2021\]
 
-\[repealed – RT I, 04.12.2014, 3 - entry into force 01.01.2015\]
-
-11\)
+11\) \[repealed – RT I, 04.12.2014, 3 - entry into force 01.01.2015\]
 
 12\) administrative contracts entered into with an authorised processor of the Health Information System;
 
@@ -271,17 +257,13 @@ An administrative contract shall specify:
 
 \[RT I 2008, 33, 202 - entry into force 01.08.2008\]
 
-\[repealed – RT I 2010, 31, 158 - entry into force 01.10.2010\]
-
-15\)
+15\) \[repealed – RT I 2010, 31, 158 - entry into force 01.10.2010\]
 
 16\) administrative contracts specified in subsection 3 of § 29, subsection 8 of § 36, subsection 6<sup>2</sup> of § 40 and subsection 8 of § 42 of the Hunting Act;
 
 \[RT I, 29.06.2018, 5 - entry into force 01.08.2018\]
 
-\[repealed – RT I 2010, 37, 222 - entry into force 30.06.2010\]
-
-17\)
+17\) \[repealed – RT I 2010, 37, 222 - entry into force 30.06.2010\]
 
 18\) administrative contracts entered into with the authorised processors of registers concerning the state of health;
 

@@ -13,7 +13,7 @@ date: 2015-12-09
 last_amended: 2026-09-27
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/527072026003"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "103072026030"
 ---
@@ -21,8 +21,6 @@ translation_of: "103072026030"
 # Consumer Protection Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — General Provisions
 
@@ -1983,7 +1981,7 @@ This Act enters into force on 1 March 2016.
 
 ---
 
-Directive 2013/11/EU of the European Parliament and of the Council on alternative dispute resolution for consumer disputes and amending Regulation (EC) No 2006/2004 and Directive 2009/22/EC (Directive on consumer ADR) (OJ L 165, 18.6.2013, p. 63–79);
+<sup>1</sup> Directive 2013/11/EU of the European Parliament and of the Council on alternative dispute resolution for consumer disputes and amending Regulation (EC) No 2006/2004 and Directive 2009/22/EC (Directive on consumer ADR) (OJ L 165, 18.6.2013, p. 63–79);
 Directive 2009/22/EC of the European Parliament and of the Council on injunctions for the protection of consumers' interests (Codified version) (OJ L 110, 1.5.2009, p. 30–37);
 Directive 2005/29/EC of the European Parliament and of the Council concerning unfair business-to-consumer commercial practices in the internal market and amending Council Directive 84/450/EEC, Directives 97/7/EC, 98/27/EC and 2002/65/EC of the European Parliament and of the Council and Regulation (EC) No 2006/2004 of the European Parliament and of the Council ('Unfair Commercial Practices Directive') (OJ L 149, 11.6.2005, p. 22–39), amended by Directive 2019/2161 (OJ L 328, 18.12.2019, p. 7–28);
 Directive 98/6/EC of the European Parliament and of the Council on consumer protection in the indication of the prices of products offered to consumers (OJ L 80, 18.3.1998, p. 27–30), amended by Directive 2019/2161 (OJ L 328, 18.12.2019, p. 7–28);

@@ -14,7 +14,7 @@ date: 1998-02-11
 last_amended: 2025-05-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/525042025002"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "117042025031"
 ---
@@ -33,13 +33,9 @@ translation_of: "117042025031"
 
 \[RT I, 04.03.2019, 1 - entry into force 01.07.2020, the date of entry into force changed \[RT I, 28.02.2020, 2\]\]
 
-\[Repealed – RT I, 04.03.2019, 1 - entry into force 01.07.2020\]
+(2) \[Repealed – RT I, 04.03.2019, 1 - entry into force 01.07.2020\]
 
-(2)
-
-\[Repealed – RT I, 04.03.2019, 1 - entry into force 01.07.2020\]
-
-(3)
+(3) \[Repealed – RT I, 04.03.2019, 1 - entry into force 01.07.2020\]
 
 #### § 2. Right to fly national flag
 
@@ -67,9 +63,7 @@ translation_of: "117042025031"
 
 \[RT I, 04.03.2019, 1 - entry into force 01.07.2020, the date of entry into force changed \[RT I, 28.02.2020, 2\]\]
 
-\[Repealed – RT I, 04.03.2019, 1 - entry into force 01.07.2020\]
-
-(3)
+(3) \[Repealed – RT I, 04.03.2019, 1 - entry into force 01.07.2020\]
 
 (4) The right to fly the national flag of Estonia shall not be granted to a ship which under a relevant regulation of the Council of the European Union has been included in the list of ships that have been found to carry out illegal, unreported and unregulated fishing.
 
@@ -361,13 +355,9 @@ The list of the data to be entered in ship's letters and the procedure for the i
 
 \[RT I, 04.03.2019, 1 - entry into force 01.07.2020, the date of entry into force changed \[RT I, 28.02.2020, 2\]\]
 
-\[Repealed – RT I 2002, 61, 375 - entry into force 01.08.2002\]
+5\) \[Repealed – RT I 2002, 61, 375 - entry into force 01.08.2002\]
 
-5\)
-
-\[Repealed – RT I, 04.03.2019, 1 - entry into force 01.07.2020\]
-
-(1<sup>1</sup>)
+(1<sup>1</sup>) \[Repealed – RT I, 04.03.2019, 1 - entry into force 01.07.2020\]
 
 (1<sup>2</sup>) The Transport Administration shall issue a permit to fly the national flag of another state within five working days after submission of a proper application.
 
@@ -467,9 +457,7 @@ The list of the data to be entered in ship's letters and the procedure for the i
 
 (3) A registrar of ships may refuse to enter a ship in a register with a reasoned explanation if the name of the ship does not comply with the requirements of this Act. In the event of refusal, the shipowner shall be granted a term to bring the name of the ship into accordance with the requirements of this Act.
 
-\[Repealed – RT I, 04.03.2019, 1 - entry into force 01.07.2020\]
-
-(4)
+(4) \[Repealed – RT I, 04.03.2019, 1 - entry into force 01.07.2020\]
 
 (5) The name of a ship shall be marked on the ship pursuant to the procedure established by the minister in charge of the policy sector.
 
@@ -907,9 +895,7 @@ If prior to the registration of a ship another person files an objection to the 
 
 \[RT I, 04.03.2019, 1 - entry into force 01.07.2020, the date of entry into force changed \[RT I, 28.02.2020, 2\]\]
 
-\[Repealed – RT I, 04.03.2019, 1 - entry into force 01.07.2020\]
-
-3\)
+3\) \[Repealed – RT I, 04.03.2019, 1 - entry into force 01.07.2020\]
 
 4\) the legal representatives of owners, shared owners or managers that are legal persons.
 
@@ -1073,9 +1059,7 @@ The number of the register part (the official number of the ship) shall be set o
 
 3\) the registration and deletion of the ship, and in the case of deletion also the reason for deletion;
 
-\[Repealed – RT I, 05.12.2014, 3 - entry into force 03.02.2015\]
-
-4\)
+4\) \[Repealed – RT I, 05.12.2014, 3 - entry into force 03.02.2015\]
 
 5\) amendments to the recorded information.
 
@@ -1093,9 +1077,7 @@ The following shall be entered in the second division “Shipowner” of a regis
 
 3\) the ship co-operative and the manager if the ship is owned by a ship co-operative;
 
-\[Repealed – RT I, 05.12.2014, 3 - entry into force 03.02.2015\]
-
-4\)
+4\) \[Repealed – RT I, 05.12.2014, 3 - entry into force 03.02.2015\]
 
 5\) amendments to entries;
 
@@ -1153,9 +1135,7 @@ The following shall be entered in the second division “Owner of Ship under Con
 
 3\) the ship co-operative and the manager if the ship under construction is owned by a ship co-operative;
 
-\[Repealed – RT I, 05.12.2014, 3 - entry into force 03.02.2015\]
-
-4\)
+4\) \[Repealed – RT I, 05.12.2014, 3 - entry into force 03.02.2015\]
 
 5\) amendments to entries;
 
@@ -1361,9 +1341,7 @@ The right to register a ship in the first or second register of bareboat charter
 
 \[RT I, 04.03.2019, 1 - entry into force 01.07.2020, the date of entry into force changed \[RT I, 28.02.2020, 2\]\]
 
-\[Repealed – RT I 2002, 61, 375 - entry into force 01.08.2002\]
-
-13\)
+13\) \[Repealed – RT I 2002, 61, 375 - entry into force 01.08.2002\]
 
 14\) the name, personal identification code or date of birth in the absence of a personal identification code of the owner or shared owners, charterer and responsible person of the ship; in the case of a legal person, its registry code or registration number;
 
@@ -1395,9 +1373,7 @@ The right to register a ship in the first or second register of bareboat charter
 
 \[RT I, 04.03.2019, 1 - entry into force 01.07.2020, the date of entry into force changed \[RT I, 28.02.2020, 2\]\]
 
-\[Repealed – RT I, 04.03.2019, 1 - entry into force 01.07.2020\]
-
-(3)
+(3) \[Repealed – RT I, 04.03.2019, 1 - entry into force 01.07.2020\]
 
 #### § 92<sup>1</sup>. Additional technical survey of ship before deciding on entry of ship in register
 
@@ -1485,9 +1461,7 @@ Based on the gross tonnage of ships, the registry fee is as follows:
 
 \[RT I, 04.03.2019, 1 - entry into force 01.07.2020, the date of entry into force changed \[RT I, 28.02.2020, 2\]\]
 
-\[Repealed – RT I, 04.08.2022, 1 - entry into force 14.08.2022\]
-
-(3)
+(3) \[Repealed – RT I, 04.08.2022, 1 - entry into force 14.08.2022\]
 
 #### § 93<sup>1</sup>. Registration of bareboat chartered ship and provisional certificate of nationality of bareboat chartered ship
 
@@ -1525,9 +1499,7 @@ Based on the gross tonnage of ships, the registry fee is as follows:
 
 \[RT I, 04.03.2019, 1 - entry into force 01.07.2020, the date of entry into force changed \[RT I, 28.02.2020, 2\]\]
 
-\[Repealed – RT I, 04.03.2019, 1 - entry into force 01.07.2020\]
-
-(1)
+(1) \[Repealed – RT I, 04.03.2019, 1 - entry into force 01.07.2020\]
 
 (2) A ship is deleted from the register of bareboat chartered ships on the basis of an application of the charterer of the ship.
 
@@ -1640,9 +1612,7 @@ is punishable by a fine of up to 100 fine units.
 
 ## § 97<sup>4</sup>. Proceedings
 
-\[Repealed – RT I, 12.07.2014, 1 - entry into force 01.01.2015\]
-
-(1)
+(1) \[Repealed – RT I, 12.07.2014, 1 - entry into force 01.01.2015\]
 
 (2) The Transport Administration is the extra-judicial body which conducts proceedings in matters of misdemeanours provided for in §§ 97<sup>1</sup>–97<sup>3</sup> of this Act.
 

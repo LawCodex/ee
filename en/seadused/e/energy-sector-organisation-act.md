@@ -14,7 +14,7 @@ date: 2016-06-16
 last_amended: 2026-07-13
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/515072026010"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "103072026021"
 ---
@@ -22,8 +22,6 @@ translation_of: "103072026021"
 # Energy Sector Organisation Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -41,9 +39,7 @@ translation_of: "103072026021"
 
 \[RT I, 18.05.2022, 1 - entry into force 28.05.2022\]
 
-\[Repealed – RT I, 18.05.2022, 1 - entry into force 28.05.2022\]
-
-(2)
+(2) \[Repealed – RT I, 18.05.2022, 1 - entry into force 28.05.2022\]
 
 (3) The provisions of the Administrative Procedure Act apply to administrative proceedings provided by this Act without prejudice to the rules specific to this Act.
 
@@ -500,9 +496,7 @@ In the course of elaborating the long-term renovation strategy, the energy savin
 
 \[RT I, 05.07.2016, 3 - entry into force 01.01.2017\]
 
-\[Repealed – RT I, 09.10.2020, 2 - entry into force 19.10.2020\]
-
-(2)
+(2) \[Repealed – RT I, 09.10.2020, 2 - entry into force 19.10.2020\]
 
 (3) Together with or on the invoice to a final customer, the energy distributor provides the following information:
 
@@ -767,9 +761,7 @@ For the purposes of this Act, a major energy utility means the following energy 
 
 \[RT I, 09.10.2020, 2 - entry into force 01.01.2021\]
 
-\[Repealed – RT I, 09.10.2020, 2 - entry into force 01.01.2021\]
-
-2\)
+2\) \[Repealed – RT I, 09.10.2020, 2 - entry into force 01.01.2021\]
 
 3\) policy measures to be implemented by the implementing public authorities and their envisaged energy savings;
 
@@ -787,13 +779,9 @@ For the purposes of this Act, a major energy utility means the following energy 
 
 (2) The energy savings required to fulfil the energy savings obligation are determined as end-use energy savings.
 
-\[Repealed – RT I, 09.10.2020, 2 - entry into force 01.01.2021\]
+(3) \[Repealed – RT I, 09.10.2020, 2 - entry into force 01.01.2021\]
 
-(3)
-
-\[Repealed – RT I, 09.10.2020, 2 - entry into force 01.01.2021\]
-
-(4)
+(4) \[Repealed – RT I, 09.10.2020, 2 - entry into force 01.01.2021\]
 
 (5) In the energy savings obligation apportionment plan, provision may be made for:
 
@@ -975,9 +963,7 @@ Where necessary, the energy savings coordinator takes the following measures to 
 
 5\) supporting the public sector in the procurement of energy services by drawing up model contracts for energy performance contracting which include at least the items listed in Annex XIII to Directive 2012/27/EU of the European Parliament and of the Council;
 
-\[Repealed – RT I, 09.10.2020, 2 - entry into force 01.01.2021\]
-
-6\)
+6\) \[Repealed – RT I, 09.10.2020, 2 - entry into force 01.01.2021\]
 
 7\) supporting the proper functioning of the energy services market by upholding the principle that market participants’ access to the energy services market must be based on transparent and non-discriminatory criteria.
 
@@ -1969,7 +1955,9 @@ The application mentioned in subsection 2 of § 32<sup>23</sup> of this Act must
 
 ---
 
-Directive 2010/31/EU of the European Parliament and of the Council on the energy performance of buildings (OJ L 285, 31.10.2009, pp. 13–35), amended by Directive (EU) 2018/844 (OJ L 156, 19.06.2018, pp. 75–91) and Regulation (EU) 2018/1999 (OJ L 328, 21.12.2018, pp. 1–77);\
+<sup>1</sup> Directive 2010/31/EU of the European Parliament and of the Council on the energy performance of buildings (OJ L 285, 31.10.2009, pp. 13–35), amended by Directive (EU) 2018/844 (OJ L 156, 19.06.2018, pp. 75–91) and Regulation (EU) 2018/1999 (OJ L 328, 21.12.2018, pp. 1–77);\
 Directive 2012/27/EU of the European Parliament and of the Council on energy efficiency amending Directives 2009/125/EC and 2010/30/EU and repealing Directives 2004/8/EC and 2006/32/EC (OJ L 315, 14.11.2012, pp. 1–56), amended by Directives 2013/12/EU (OJ L 141, 28.05.2013, pp. 28–29), (EU) 2018/844 (OJ L 156, 19.06.2018, pp. 75–91), (EU) 2018/2002 (OJ L 328, 21.12.2018, pp. 210–230) and (EU) 2019/944 (OJ L 158, 14.06.2018, pp. 125–199) and Regulations (EU) 2018/1999 (OJ L 328, 21.12.2018, pp. 1–77) and (EU) 2019/826 (OJ L 137, 23.05.2019, pp. 3–9);\
 Directive (EU) 2018/2001 of the European Parliament and of the Council on the promotion of the use of energy from renewable sources (OJ L 328, 21.12.2018, pp. 82–209);\
 Directive (EU) 2023/2413 of the European Parliament and of the Council amending Directive (EU) 2018/2001, Regulation (EU) 2018/1999 and Directive 98/70/EC as regards the promotion of energy from renewable sources, and repealing Council Directive (EU) 2015/652 (OJ L 2023/2413, 31.10.2023).
+
+\[RT I, 18.03.2026, 1 - entry into force 28.03.2026\]

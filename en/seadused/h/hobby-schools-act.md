@@ -13,7 +13,7 @@ date: 2006-12-21
 last_amended: 2025-09-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/511092025007"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "109012025004"
 ---
@@ -334,17 +334,11 @@ The procedure for the possession, use and disposal of the assets of a hobby scho
 
 (3) The hobby school budget revenue comprises of allocations from the state budget or the rural municipality or city budget, revenue from the provision of fee-charging services related to the main activity of the hobby school, revenue from foundations, donations and income received from extracurricular activities provided for in the statutes of the hobby school and other funds. The expenses of a hobby school shall be covered based on the budget approved by the manager of the school.
 
-\[Repealed - RT I, 03.05.2017, 2 - entry into force 01.07.2017\]
+(4) \[Repealed - RT I, 03.05.2017, 2 - entry into force 01.07.2017\]
 
-(4)
+(5) \[Repealed - RT I, 03.05.2017, 2 - entry into force 01.07.2017\]
 
-\[Repealed - RT I, 03.05.2017, 2 - entry into force 01.07.2017\]
-
-(5)
-
-\[Repealed - RT I, 03.05.2017, 2 - entry into force 01.07.2017\]
-
-(6)
+(6) \[Repealed - RT I, 03.05.2017, 2 - entry into force 01.07.2017\]
 
 (7) Allocations from the state budget intended for a specific purpose shall be prescribed to rural municipality and city budgets as necessary in order to support projects related to hobby schools. The minister in charge of the policy sector shall establish the conditions and procedure for application for and allocation of project support.
 
@@ -399,21 +393,13 @@ A person conducting administrative supervision has the right to:\
 
 4\) obtain information on implementation of legislation from the hobby school;
 
-\[repealed - RT I, 04.07.2017, 1 - entry into force 01.09.2017\]
+5\) \[repealed - RT I, 04.07.2017, 1 - entry into force 01.09.2017\]
 
-5\)
+6\) \[repealed - RT I, 04.07.2017, 1 - entry into force 01.09.2017\]
 
-\[repealed - RT I, 04.07.2017, 1 - entry into force 01.09.2017\]
+7\) \[repealed - RT I, 04.07.2017, 1 - entry into force 01.09.2017\]
 
-6\)
-
-\[repealed - RT I, 04.07.2017, 1 - entry into force 01.09.2017\]
-
-7\)
-
-\[repealed - RT I, 04.07.2017, 1 - entry into force 01.09.2017\]
-
-8\)
+8\) \[repealed - RT I, 04.07.2017, 1 - entry into force 01.09.2017\]
 
 ### § 26. Results of administrative supervision
 
@@ -443,9 +429,7 @@ A person conducting administrative supervision has the right to:\
 
 8\) the possibilities, terms and procedure for contestation of the precept.
 
-\[Repealed - RT I, 04.07.2017, 1 - entry into force 01.09.2017\]
-
-(4)
+(4) \[Repealed - RT I, 04.07.2017, 1 - entry into force 01.09.2017\]
 
 (5) A hobby school and the manager of the school shall be notified of a certificate within sixty calendar days after the beginning of the exercise of supervision.
 

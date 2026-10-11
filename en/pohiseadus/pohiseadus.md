@@ -14,7 +14,7 @@ date: 1992-06-28
 last_amended: 2026-03-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/523042025002"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "111042025003"
 ---
@@ -596,9 +596,7 @@ The President of the Republic shall:
 
 13\) on the proposal of the Supreme Court, appoint judges;
 
-\[repealed – RT I, 27.04.2011, 1 - entry into force 22.07.2011\]
-
-14\)
+14\) \[repealed – RT I, 27.04.2011, 1 - entry into force 22.07.2011\]
 
 15\) confer state decorations, and military and diplomatic ranks;
 
@@ -1270,8 +1268,8 @@ Amendment of the Constitution regarding the same issue cannot be initiated withi
 
 ---
 
-Riigikogu = the parliament of Estonia.
+<sup>1</sup> Riigikogu = the parliament of Estonia.
 
-Eesti Pank = the Bank of Estonia.
+<sup>2</sup> Eesti Pank = the Bank of Estonia.
 
-Riigi Teataja = State Gazette.
+<sup>3</sup> Riigi Teataja = State Gazette.

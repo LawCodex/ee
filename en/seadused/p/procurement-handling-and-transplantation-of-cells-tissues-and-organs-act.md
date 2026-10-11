@@ -13,7 +13,7 @@ date: 2015-01-29
 last_amended: 2024-01-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/508012024006"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "106072023075"
 ---
@@ -21,8 +21,6 @@ translation_of: "106072023075"
 # Procurement, Handling and Transplantation of Cells, Tissues and Organs Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -853,4 +851,4 @@ This Act enters into force on 1 March 2015.
 
 ---
 
-Directive 2004/23/EC of the European Parliament and of the Council on setting standards of quality and safety for the donation, procurement, testing, processing, preservation, storage and distribution of human tissues and cells (OJ L 102, 7.04.2004, p. 48–58); Commission Directive 2006/17/EC implementing Directive 2004/23/EC of the European Parliament and of the Council as regards certain technical requirements for the donation, procurement and testing of human tissues and cells (OJ L 38, 9.02.2006, p. 40–52) amended with Commission Directive 2012/39/EU amending Directive 2006/17/EC as regards certain technical requirements for the testing of human cells and tissues (OJ L 327, 27.11.2012, p 24–25); Commission Directive 2006/86/EC implementing Directive 2004/23/EC of the European Parliament and of the Council as regards traceability requirements, notification of serious adverse reactions and events and certain technical requirements for the coding, processing, preservation, storage and distribution of human tissues and cells (OJ L 294, 25.10.2006, p. 32–50) amended with Commission Directive (EU) 2015/565 amending Directive 2006/86/EC as regards certain technical requirements for the coding of human tissues and cells (OJ L 93, 09.04.2015, p 43–55); Directive 2010/53/EU of the European Parliament and of the Council on standards of quality and safety of human organs intended for transplantation (OJ L 207, 06.08.2010, p. 14–29); Commission implementing directive 2012/25/EU laying down information procedures for the exchange, between Member States, of human organs intended for transplantation (OJ L 275, 10.10.2012, p. 27–32); Commission Directive (EU) 2015/566 implementing Directive 2004/23/EC as regards the procedures for verifying the equivalent standards of quality and safety of imported tissues and cells (OJ L 93, 09.04.2015, p 56–68). \[RT I, 09.03.2017, 1 – entry into force 19.03.2017\]
+<sup>1</sup> Directive 2004/23/EC of the European Parliament and of the Council on setting standards of quality and safety for the donation, procurement, testing, processing, preservation, storage and distribution of human tissues and cells (OJ L 102, 7.04.2004, p. 48–58); Commission Directive 2006/17/EC implementing Directive 2004/23/EC of the European Parliament and of the Council as regards certain technical requirements for the donation, procurement and testing of human tissues and cells (OJ L 38, 9.02.2006, p. 40–52) amended with Commission Directive 2012/39/EU amending Directive 2006/17/EC as regards certain technical requirements for the testing of human cells and tissues (OJ L 327, 27.11.2012, p 24–25); Commission Directive 2006/86/EC implementing Directive 2004/23/EC of the European Parliament and of the Council as regards traceability requirements, notification of serious adverse reactions and events and certain technical requirements for the coding, processing, preservation, storage and distribution of human tissues and cells (OJ L 294, 25.10.2006, p. 32–50) amended with Commission Directive (EU) 2015/565 amending Directive 2006/86/EC as regards certain technical requirements for the coding of human tissues and cells (OJ L 93, 09.04.2015, p 43–55); Directive 2010/53/EU of the European Parliament and of the Council on standards of quality and safety of human organs intended for transplantation (OJ L 207, 06.08.2010, p. 14–29); Commission implementing directive 2012/25/EU laying down information procedures for the exchange, between Member States, of human organs intended for transplantation (OJ L 275, 10.10.2012, p. 27–32); Commission Directive (EU) 2015/566 implementing Directive 2004/23/EC as regards the procedures for verifying the equivalent standards of quality and safety of imported tissues and cells (OJ L 93, 09.04.2015, p 56–68). \[RT I, 09.03.2017, 1 – entry into force 19.03.2017\]

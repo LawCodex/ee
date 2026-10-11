@@ -13,7 +13,7 @@ date: 2000-12-13
 last_amended: 2026-05-22
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/525052026001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "121052026019"
 ---
@@ -641,4 +641,4 @@ The Tax and Customs Board has the right to receive from the Estonian Health Insu
 
 ---
 
-Directive 2010/41/EU of the European Parliament and of the Council on the application of the principle of equal treatment between men and women engaged in an activity in a self-employed capacity and repealing Council Directive 86/613/EEC (OJ L 180, 15.07.2010, pp 1–6).
+<sup>1</sup> Directive 2010/41/EU of the European Parliament and of the Council on the application of the principle of equal treatment between men and women engaged in an activity in a self-employed capacity and repealing Council Directive 86/613/EEC (OJ L 180, 15.07.2010, pp 1–6).

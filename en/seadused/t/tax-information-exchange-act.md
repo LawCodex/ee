@@ -13,7 +13,7 @@ date: 2014-12-18
 last_amended: 2026-04-25
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/528042026001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "115042026002"
 ---
@@ -21,8 +21,6 @@ translation_of: "115042026002"
 # Tax Information Exchange Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — General Provisions
 
@@ -1154,6 +1152,6 @@ This Act enters into force on 1 January 2015.
 
 ---
 
-Council Directive 2011/16/EU on administrative cooperation in the field of taxation and repealing Directive 77/799/EEC (OJ L 64, 11.3.2011, pp 1–12), as amended by Directives 2014/107/EU (OJ L 359, 16.12.2014, pp 1–29), (EU) 2015/2376 (OJ L 332, 18.12.2015, pp 1–10), (EU) 2016/881 (OJ L 146, 03.06.2016, pp 8–21), (EU) 2016/2258 (OJ L 342, 16.12.2016, pp 1–3), (EU) 2018/822 (OJ L 139, 05.06.2018, pp 1–13), (EU) 2020/876 (OJ L 204, 26.06.2020, pp 46–48), (EU) 2021/514 (OJ L 104, 25.03.2021, pp 1–26) and (EU) 2023/2226 (OJ L, 2023/2226, 24.10.2023);
+<sup>1</sup> Council Directive 2011/16/EU on administrative cooperation in the field of taxation and repealing Directive 77/799/EEC (OJ L 64, 11.3.2011, pp 1–12), as amended by Directives 2014/107/EU (OJ L 359, 16.12.2014, pp 1–29), (EU) 2015/2376 (OJ L 332, 18.12.2015, pp 1–10), (EU) 2016/881 (OJ L 146, 03.06.2016, pp 8–21), (EU) 2016/2258 (OJ L 342, 16.12.2016, pp 1–3), (EU) 2018/822 (OJ L 139, 05.06.2018, pp 1–13), (EU) 2020/876 (OJ L 204, 26.06.2020, pp 46–48), (EU) 2021/514 (OJ L 104, 25.03.2021, pp 1–26) and (EU) 2023/2226 (OJ L, 2023/2226, 24.10.2023);
 Directive (EU) 2021/2101 of the European Parliament and of the Council amending Directive 2013/34/EU as regards disclosure of income tax information by certain undertakings and branches (OJ L 429, 01.12.2021, pp 1–14).
 \[RT I, 15.04.2026, 1 – entry into force 25.04.2026\]

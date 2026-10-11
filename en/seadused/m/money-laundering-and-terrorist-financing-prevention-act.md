@@ -13,7 +13,7 @@ date: 2017-10-26
 last_amended: 2026-07-21
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/520072026005"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "111072026093"
 ---
@@ -21,8 +21,6 @@ translation_of: "111072026093"
 # Money Laundering and Terrorist Financing Prevention Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — General Provisions
 
@@ -2780,6 +2778,6 @@ Subsection 4 of § 72<sup>3</sup> of this Act is not applied where the authorisa
 
 ---
 
-Directive (EU) 2015/849 of the European Parliament and of the Council on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 05.06.2015, pp. 73–117), amended by Directives (EU) 2018/843 (OJ L 156, 19.06.2018, pp. 43–74) and (EU) 2019/2177 (OJ L 334, 27.12.2019, pp. 155–163); 
+<sup>1</sup> Directive (EU) 2015/849 of the European Parliament and of the Council on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 05.06.2015, pp. 73–117), amended by Directives (EU) 2018/843 (OJ L 156, 19.06.2018, pp. 43–74) and (EU) 2019/2177 (OJ L 334, 27.12.2019, pp. 155–163); 
 Directive 2011/16/EU of the Council on administrative cooperation in the field of taxation and repealing Directive 77/799/EEC (OJ L 64, 11.03.2011, pp. 1–12), amended by Directives 2014/107/EU (OJ L 359, 16.12.2014, pp. 1–29), (EU) 2015/2376 (OJ L 332, 18.12.2015, pp. 1–10), (EU) 2016/881 (OJ L 146, 03.06.2016, pp. 8–21), (EU) 2016/2258 (OJ L 342, 16.12.2016, pp. 1–3), (EU) 2018/822 (OJ L 139, 05.06.2018, pp. 1–13), (EU) 2020/876 (OJ L 204, 26.06.2020, pp. 46–48) and (EU) 2021/514 (OJ L 104, 25.03.2021, pp. 1–26);
 Directive (EU) 2019/1153 of the European Parliament and of the Council laying down rules for facilitating the use of financial and other information for the prevention, detection, investigation or prosecution of certain criminal offences, and repealing Council Decision 2000/642/JHA (OJ L 186, 11.07.2019, pp. 122–137) \[RT I, 12.03.2022, 2 – entry into force 15.03.2022\]

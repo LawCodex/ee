@@ -13,7 +13,7 @@ date: 2005-04-20
 last_amended: 2026-06-30
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/514072026002"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "120062026021"
 ---
@@ -21,8 +21,6 @@ translation_of: "120062026021"
 # Code of Civil Procedure
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Part 1 — GENERAL PROVISIONS
 
@@ -10347,7 +10345,7 @@ This Code enters into force at the time prescribed by the Act to Implement the C
 
 ---
 
-Directive 2011/7/EU of the European Parliament and of the Council on combating late payment in commercial transactions (OJ L 48, 23.02.2011, pp. 1–10); 
+<sup>1</sup> Directive 2011/7/EU of the European Parliament and of the Council on combating late payment in commercial transactions (OJ L 48, 23.02.2011, pp. 1–10); 
 Directive 2014/104/EU of the European Parliament and of the Council on certain rules governing actions for damages under national law for infringements of the competition law provisions of the member states and of the European Union (OJ L 349, 5.12.2014, pp. 1–19); 
 Directive (EU) 2016/943 of the European Parliament and of the Council on the protection of undisclosed know-how and business information (trade secrets) against their unlawful acquisition, use and disclosure (OJ L 157, 15.6.2016, pp. 1–18); 
 Directive 2004/48/EC of the European Parliament and of the Council on the enforcement of intellectual property rights (OJ L 157,30.04.2004, pp.45–86);

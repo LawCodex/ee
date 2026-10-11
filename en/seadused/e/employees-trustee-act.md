@@ -13,7 +13,7 @@ date: 2006-12-13
 last_amended: 2025-01-17
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/522012025005"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "107012025003"
 ---
@@ -21,8 +21,6 @@ translation_of: "107012025003"
 # Employees’ Trustee Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -316,6 +314,6 @@ This Act enters into force on 1 February 2007.
 
 ---
 
-Directive 2002/14/EC of the European Parliament and of the Council establishing a general framework for informing and consulting employees in the European Community (OJ L 80, 23.03.2002, pp 29–34);
+<sup>1</sup> Directive 2002/14/EC of the European Parliament and of the Council establishing a general framework for informing and consulting employees in the European Community (OJ L 80, 23.03.2002, pp 29–34);
 Directive 2013/34/EU of the European Parliament and of the Council on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.06.2013, pp 19–76), amended by Directives 2014/95/EU (OJ L 330, 15.11.2014, pp 1–9), (EU) 2022/2464 (OJ L 322, 16.12.2022, pp 15–80) and (EU) 2023/2775 (OJ L 2023/2775, 21.12.2023).
 \[RT I, 07.01.2025, 1 – entry into force 17.01.2025\]

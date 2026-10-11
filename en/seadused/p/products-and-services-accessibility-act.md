@@ -12,7 +12,7 @@ date: 2022-05-30
 last_amended: 2022-06-28
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/524082022008"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "115062022001"
 ---
@@ -20,8 +20,6 @@ translation_of: "115062022001"
 # Products and Services Accessibility Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — General Provisions
 
@@ -375,4 +373,4 @@ Hanno Pevkur, Vice-President of the Riigikogu
 
 ---
 
-Directive (EU) 2019/882 of the European Parliament and of the Council on the accessibility requirements for products and services (OJ L 151, 07.06.2019, pp 70–115).
+<sup>1</sup> Directive (EU) 2019/882 of the European Parliament and of the Council on the accessibility requirements for products and services (OJ L 151, 07.06.2019, pp 70–115).

@@ -13,7 +13,7 @@ date: 2004-04-21
 last_amended: 2026-09-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/520082026001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "109072026047"
 ---
@@ -21,8 +21,6 @@ translation_of: "109072026047"
 # Nature Conservation Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -2477,7 +2475,7 @@ If a rural municipality or city government is the extra-judicial body which has 
 
 ---
 
-Council Directive 92/43/EEC on the conservation of natural habitats and of wild fauna and flora (OJ L 206, 22.07.1992, pp. 7–50); Directive 2009/147/EC of the European Parliament and of the Council on the conservation of wild birds (OJ L 20, 26.10.2010, pp. 7–25); Council Directive 90/313/EEC on the freedom of access to information on the environment (OJ L 158, 23.06.1990, pp. 56–58). \[RT I, 18.04.2013, 1 – entry into force 01.05.2013\]
+<sup>1</sup> Council Directive 92/43/EEC on the conservation of natural habitats and of wild fauna and flora (OJ L 206, 22.07.1992, pp. 7–50); Directive 2009/147/EC of the European Parliament and of the Council on the conservation of wild birds (OJ L 20, 26.10.2010, pp. 7–25); Council Directive 90/313/EEC on the freedom of access to information on the environment (OJ L 158, 23.06.1990, pp. 56–58). \[RT I, 18.04.2013, 1 – entry into force 01.05.2013\]
 
 ## Annexes
 

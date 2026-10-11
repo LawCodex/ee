@@ -13,7 +13,7 @@ date: 2002-02-12
 last_amended: 2026-06-27
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/530062026001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "117062026002"
 ---
@@ -351,9 +351,7 @@ translation_of: "117062026002"
 
 (3) \[Repealed – RT I, 17.06.2026, 1 – entry into force 27.06.2026\]
 
-\[RT I, 21.06.2014, 8 - entry into force 01.01.2015 Repealed −\]
-
-(4)
+(4) \[RT I, 21.06.2014, 8 - entry into force 01.01.2015 Repealed −\]
 
 ### § 18. Restrictions relating to public files and registry files
 

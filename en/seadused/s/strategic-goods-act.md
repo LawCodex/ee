@@ -14,7 +14,7 @@ date: 2011-12-07
 last_amended: 2025-10-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/530092025007"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "107052025008"
 ---
@@ -22,8 +22,6 @@ translation_of: "107052025008"
 # Strategic Goods Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — General Provisions
 
@@ -65,9 +63,7 @@ translation_of: "107052025008"
 
 (3) The procedure for the handling and handing over weapons of Armed Forces provided for in clause 4 of subsection 2 of this section and for the export and import of battle equipment shall be established by a regulation of the minister in charge of the policy sector.
 
-\[Repealed – RT I, 29.06.2018, 3 - entry into force 01.07.2018\]
-
-(4)
+(4) \[Repealed – RT I, 29.06.2018, 3 - entry into force 01.07.2018\]
 
 (5) The Administrative Procedure Act shall apply to administrative proceedings prescribed in the legislation of the European Union and this Act, taking account of the specifications therein.
 
@@ -81,9 +77,7 @@ translation_of: "107052025008"
 
 (2) “Military goods” means a weapon, a substance, a material, a device, equipment, a system and the parts thereof, the special equipment and components, software and technology related thereto which is designed or modified for military use, which is used for military purpose or is listed in the list of military goods.
 
-\[Repealed – RT I, 29.06.2018, 3 - entry into force 01.07.2018\]
-
-(3)
+(3) \[Repealed – RT I, 29.06.2018, 3 - entry into force 01.07.2018\]
 
 (4) The provisions concerning military goods shall apply to weapons of mass destruction and missiles for delivery of such weapons if delivery at their country of destination is absolutely necessary for the demolition thereof.
 
@@ -1692,9 +1686,7 @@ is punishable by a fine of up to 640 euros.
 
 ### § 95. Procedure
 
-\[Repealed – RT I, 12.07.2014, 1 - entry into force 01.01.2015\]
-
-(1)
+(1) \[Repealed – RT I, 12.07.2014, 1 - entry into force 01.01.2015\]
 
 (2) The bodies conducting extra-judicial proceedings concerning the misdemeanours provided for in this Chapter are, within their competence, the Security Police and the Tax and Customs Board.
 
@@ -1730,7 +1722,7 @@ An application submitted before the entry into force of this Act shall be proces
 
 ---
 
-EU Council Joint Action 2000/401/CFSP (OJ L 159, 30.06. 2000);\
+<sup>1</sup> EU Council Joint Action 2000/401/CFSP (OJ L 159, 30.06. 2000);\
 
  EU Council Common Position 2003/468/CFSP (OJ L 156, 25.06.2003);\
 

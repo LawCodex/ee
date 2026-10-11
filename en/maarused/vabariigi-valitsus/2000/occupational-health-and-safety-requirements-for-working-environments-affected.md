@@ -14,7 +14,7 @@ date: 2000-05-05
 last_amended: 2024-04-05
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/513062024001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "102042024015"
 ---
@@ -22,8 +22,6 @@ translation_of: "102042024015"
 # Occupational health and safety requirements for working environments affected by biological agents
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 This Regulation is enacted on the basis of Sections 8(3) and 13<sup>1</sup>(9) of the Occupational Health and Safety Act \[*töötervishoiu ja tööohutuse seadus*\].\
 \[RT I, 05.12.2018, 1 – entry into force 1 January 2019\]
@@ -397,7 +395,7 @@ Employers must avoid using a harmful biological agent if it is possible to repla
 
 ---
 
-Directive 2000/54/EC of the European Parliament and of the Council on the protection of workers from risks related to exposure to biological agents at work (seventh individual directive within the meaning of Article 16(1) of Directive 89/391/EEC) (OJ L 262, 17.10.2000, p. 21), amended by Commission Directive (EU) 2019/1833 (OJ L 279, 31.10.2019, p. 54) and Commission Directive (EU) 2020/739 (OJ L 175, 4.6.2020, p. 11);\
+<sup>1</sup> Directive 2000/54/EC of the European Parliament and of the Council on the protection of workers from risks related to exposure to biological agents at work (seventh individual directive within the meaning of Article 16(1) of Directive 89/391/EEC) (OJ L 262, 17.10.2000, p. 21), amended by Commission Directive (EU) 2019/1833 (OJ L 279, 31.10.2019, p. 54) and Commission Directive (EU) 2020/739 (OJ L 175, 4.6.2020, p. 11);\
 
 Council Directive 2010/32/EU implementing the Framework Agreement on prevention from sharp injuries in the hospital and healthcare sector concluded by HOSPEEM and EPSU (OJ L 134, 1.6.2010, p. 66).\
 

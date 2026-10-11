@@ -13,7 +13,7 @@ date: 1992-05-14
 last_amended: 2024-01-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/524012024001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "122022023003"
 ---
@@ -23,8 +23,6 @@ translation_of: "122022023003"
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
 
 The provisions of the State Pension Insurance Act apply to old-age pensions under favourable conditions, taking account of the specifications provided for in this Act.
-
-\[RT I, 22.06.2016, 1 - entry into force 01.01.2018\]
 
 \[RT I, 22.06.2016, 1 - entry into force 01.01.2018\]
 

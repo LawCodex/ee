@@ -13,7 +13,7 @@ date: 2009-02-25
 last_amended: 2025-01-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/523122024005"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "104122024021"
 ---
@@ -84,9 +84,7 @@ Unless otherwise provided in this Act, the provisions of the State Assets Act do
 (1) The transfer of land pursuant to this Act is organised by the Land and Spatial Planning Board.\
 \[RT I, 04.12.2024, 1 - entry into force 01.01.2025\]
 
-\[Repealed - RT I, 04.07.2017, 1 - entry into force 01.01.2018\]
-
-(2)
+(2) \[Repealed - RT I, 04.07.2017, 1 - entry into force 01.01.2018\]
 
 ## § 7. Submission of application for acquisition of land
 

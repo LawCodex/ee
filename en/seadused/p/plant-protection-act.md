@@ -13,7 +13,7 @@ date: 2004-04-21
 last_amended: 2023-07-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/506102023003"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "127092023012"
 ---
@@ -21,8 +21,6 @@ translation_of: "127092023012"
 # Plant Protection Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -1626,7 +1624,7 @@ Agencies engaged in the organisation of inspection of plant protection equipment
 
 ---
 
-Council Directive 2000/29/EC on protective measures against the introduction into the Community of organisms harmful to plants or plant products and against their spread within the Community (OJ L 169, 10.07.2000, pp 1–112), amended by Directives 2001/33/EC (OJ L 127, 09.05.2001, pp 42–44), 2002/28/EC (OJ L 77, 20.03.2002, pp 23–25), 2002/36/EC (OJ L 116, 03.05.2002, pp 16–26), 2002/89/EC (OJ L 355, 30.12.2002, pp 45–60), 2003/22/EC (OJ L 78, 25.03.2003, pp 10–11), 2003/47/EC (OJ L 138, 05.06.2003, pp 47–48), 2003/116/EC (OJ L 321, 06.12.2003, pp 36–40), 2004/31/EC (OJ L 85, 23.03.2004, pp 18–23), 2004/70/EC (OJ L 127, 29.04.2004, pp 97–103), 2004/102/EC (OJ L 309, 06.10.2004, pp 9–25), 2005/15/EC (OJ L 56, 02.03.2005, pp 12–13), 2005/16/EC (OJ L 57, 03.03.2005, pp 19–22), 2005/77/EC (OJ L 296, 12.11.2005, p 17), 2006/14/EC (ELT L 34, 07.02.2006, pp 24–25), 2006/35/EC (OJ L 88, 25.03.2006, pp 9–12), 2007/41/EC (OJ L 169, 29.06.2007, pp 51–52), 2008/64/EC (OJ L 168, 28.06.2008, pp 31–35), 2008/109/EC (OJ L 319, 29.11.2008, pp 68–70), 2009/7/EC (OJ L 40, 11.02.2009, pp 12–18), 2009/118/EC (OJ L 239, 10.09.2009, pp 51–54), 2009/143/EC (ELT L 318, 04.12.2009, pp 23–24), 2010/1/EU (OJ L 7, 12.01.2010, pp 17–20), 2014/19/EU (OJ L 38, 07.02.2014, pp 30–31), 2014/78/EU (OJ L 183, 24.06.2014, pp 23–48), 2014/83/EU (OJ L 186, 26.06.2014, pp 64–71), (EU) 2017/1279 (OJ L 184, 15.07.2017, pp 33–62), (EU) 2017/1920 (OJ L 271, 20.10.2017, pp 34–37), (EU) 2019/523 (OJ L 86, 28.03.2019, pp 41–65) and Regulations (EC) No 806/2003 (OJ L 122, 16.05.2003, pp 1–35), (EC) No 882/2004 (OJ L 165, 30.04.2004, pp 1–141), (EU) No 652/2014 (OJ L 189, 27.06.2014, pp 1–32) and (EU) 2016/2031 (OJ L 317, 23.11.2016, pp 4–104);
+<sup>1</sup> Council Directive 2000/29/EC on protective measures against the introduction into the Community of organisms harmful to plants or plant products and against their spread within the Community (OJ L 169, 10.07.2000, pp 1–112), amended by Directives 2001/33/EC (OJ L 127, 09.05.2001, pp 42–44), 2002/28/EC (OJ L 77, 20.03.2002, pp 23–25), 2002/36/EC (OJ L 116, 03.05.2002, pp 16–26), 2002/89/EC (OJ L 355, 30.12.2002, pp 45–60), 2003/22/EC (OJ L 78, 25.03.2003, pp 10–11), 2003/47/EC (OJ L 138, 05.06.2003, pp 47–48), 2003/116/EC (OJ L 321, 06.12.2003, pp 36–40), 2004/31/EC (OJ L 85, 23.03.2004, pp 18–23), 2004/70/EC (OJ L 127, 29.04.2004, pp 97–103), 2004/102/EC (OJ L 309, 06.10.2004, pp 9–25), 2005/15/EC (OJ L 56, 02.03.2005, pp 12–13), 2005/16/EC (OJ L 57, 03.03.2005, pp 19–22), 2005/77/EC (OJ L 296, 12.11.2005, p 17), 2006/14/EC (ELT L 34, 07.02.2006, pp 24–25), 2006/35/EC (OJ L 88, 25.03.2006, pp 9–12), 2007/41/EC (OJ L 169, 29.06.2007, pp 51–52), 2008/64/EC (OJ L 168, 28.06.2008, pp 31–35), 2008/109/EC (OJ L 319, 29.11.2008, pp 68–70), 2009/7/EC (OJ L 40, 11.02.2009, pp 12–18), 2009/118/EC (OJ L 239, 10.09.2009, pp 51–54), 2009/143/EC (ELT L 318, 04.12.2009, pp 23–24), 2010/1/EU (OJ L 7, 12.01.2010, pp 17–20), 2014/19/EU (OJ L 38, 07.02.2014, pp 30–31), 2014/78/EU (OJ L 183, 24.06.2014, pp 23–48), 2014/83/EU (OJ L 186, 26.06.2014, pp 64–71), (EU) 2017/1279 (OJ L 184, 15.07.2017, pp 33–62), (EU) 2017/1920 (OJ L 271, 20.10.2017, pp 34–37), (EU) 2019/523 (OJ L 86, 28.03.2019, pp 41–65) and Regulations (EC) No 806/2003 (OJ L 122, 16.05.2003, pp 1–35), (EC) No 882/2004 (OJ L 165, 30.04.2004, pp 1–141), (EU) No 652/2014 (OJ L 189, 27.06.2014, pp 1–32) and (EU) 2016/2031 (OJ L 317, 23.11.2016, pp 4–104);
 Commission Directive 2004/103/EC on identity and plant health checks of plants, plant products or other objects, listed in Part B of Annex V to Council Directive 2000/29/EC, which may be carried out at a place other than the point of entry into the Community or at a place close by and specifying the conditions related to these checks (OJ L 313, 12.10.2004, pp 16–20);
 Commission Directive 2004/105/EC determining the models of official phytosanitary certificates or phytosanitary certificates for re-export accompanying plants, plant products or other objects from third countries and listed in Council Directive 2000/29/EC (OJ L 319, 20.10.2004, pp 9–14);
 Commission Directive 2008/61/EC stablishing the conditions under which certain pests, plants, plant products and other objects listed in Annexes I to V to Council Directive 2000/29/EEC may be introduced into or moved within the Community or certain protected zones thereof, for trial or scientific purposes and for work on varietal selections (OJ L 158, 18.06.2008, pp 41–55);
@@ -1638,3 +1636,5 @@ Commission Directive 92/90/EEC establishing obligations to which producers and i
 Commission Directive 92/70/EEC laying down detailed rules for surveys to be carried out for purposes of the recognition of protected zones in the Community (OJ L 250, 29.08.1992, p 37–39);
 Commission Directive 94/3/EC establishing a procedure for the notification of interception of a consignment or a pest from third countries and presenting an imminent phytosanitary danger (OJ L 32, 05.02.1994, pp 37–39);
 Directive 2009/128/EC of the European Parliament and of the Council establishing a framework for Community action to achieve the sustainable use of pesticides (OJ L 309, 24.11.2009, pp 71–86), amended by Commission Directive (EU) 2019/782 (OJ L 127, 16.05.2019, pp 4–10).
+
+\[RT I, 30.06.2020, 7 - entry into force 01.07.2020\]

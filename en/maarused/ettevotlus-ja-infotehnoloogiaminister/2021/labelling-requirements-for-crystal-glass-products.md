@@ -13,7 +13,7 @@ date: 2021-05-04
 last_amended: 2021-05-09
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/503112022001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "106052021005"
 ---
@@ -21,8 +21,6 @@ translation_of: "106052021005"
 # Labelling Requirements for Crystal Glass Products
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 The regulation is established on the basis of subsection 7<sup>1</sup> of § 5 of the Consumer Protection Act.
 
@@ -56,7 +54,7 @@ Ando Leppiman, Secretary General
 
 ---
 
-Council Directive 69/493/EEC on the approximation of the laws of the Member States relating to crystal glass (OJ L 326, 29.12.1969, p. 36–39), as amended by the Act of Accession of Denmark, Ireland and the United Kingdom of Great Britain and Northern Ireland (L 73 14 27.3.1972), the Act of Accession of Greece (L 291 17 19.11.1979), the Act of Accession of Spain and Portugal (L 302 23 15.11.1985), the Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded (L 236 33, 23.9.2003), Council Directive 2006/96/EC (OJ L 363, 20.12.2006, p. 81–106).
+<sup>1</sup> Council Directive 69/493/EEC on the approximation of the laws of the Member States relating to crystal glass (OJ L 326, 29.12.1969, p. 36–39), as amended by the Act of Accession of Denmark, Ireland and the United Kingdom of Great Britain and Northern Ireland (L 73 14 27.3.1972), the Act of Accession of Greece (L 291 17 19.11.1979), the Act of Accession of Spain and Portugal (L 302 23 15.11.1985), the Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded (L 236 33, 23.9.2003), Council Directive 2006/96/EC (OJ L 363, 20.12.2006, p. 81–106).
 
 ## Annexes
 

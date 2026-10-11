@@ -14,7 +14,7 @@ date: 2015-05-19
 last_amended: 2021-02-08
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/503122025001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "105022021003"
 ---
@@ -24,8 +24,6 @@ translation_of: "105022021003"
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
 
 This regulation is established on the basis of subsections 8<sup>2</sup> (5), 18 (3), 20<sup>3</sup> (4) and 20<sup>13</sup> (6) of the Tax Information Exchange Act.
-
-\[RT I, 21.01.2020, 10 - entry into force 24.01.2020, implemented from 01.01.2020\]
 
 \[RT I, 21.01.2020, 10 - entry into force 24.01.2020, implemented from 01.01.2020\]
 

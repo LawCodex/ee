@@ -13,7 +13,7 @@ date: 2004-04-14
 last_amended: 2026-07-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/518062026003"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "112052026031"
 ---
@@ -21,8 +21,6 @@ translation_of: "112052026031"
 # Release into Environment of Genetically Modified Organisms Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -873,6 +871,6 @@ This Act will enter into force on 1 May 2004.
 
 ---
 
-Directive 2001/18/EC of the European Parliament and of the Council on the deliberate release into the environment of genetically modified organisms and repealing Council Directive 90/220/EEC (OJ L 106, 17.4.2001, pp. 1-39), amended by Directives 2008/27/EC (OJ L 81, 20.3.2008, pp. 45-47), (EU) 2015/412 (OJ L 68, 13.3.2015, pp. 1-8) and (EU) 2018/350 (OJ L 67, 09.3.2018, pp. 30-45) and by Regulations (EC) No 1829/2003 (OJ L 268, 18.10.2003, pp. 1–23), (EC) No 1830/2003 (OJ L 268, 18.10.2003, pp. 24-28), (EU) 2019/1243 (OJ L 198, 25.7.2019, pp. 241-344) and (EU) 2019/1381 (OJ L 231, 6.9.2019, pp. 1-28); 
+<sup>1</sup> Directive 2001/18/EC of the European Parliament and of the Council on the deliberate release into the environment of genetically modified organisms and repealing Council Directive 90/220/EEC (OJ L 106, 17.4.2001, pp. 1-39), amended by Directives 2008/27/EC (OJ L 81, 20.3.2008, pp. 45-47), (EU) 2015/412 (OJ L 68, 13.3.2015, pp. 1-8) and (EU) 2018/350 (OJ L 67, 09.3.2018, pp. 30-45) and by Regulations (EC) No 1829/2003 (OJ L 268, 18.10.2003, pp. 1–23), (EC) No 1830/2003 (OJ L 268, 18.10.2003, pp. 24-28), (EU) 2019/1243 (OJ L 198, 25.7.2019, pp. 241-344) and (EU) 2019/1381 (OJ L 231, 6.9.2019, pp. 1-28); 
 Regulation (EU) 2019/1381 of the European Parliament and of the Council on the transparency and sustainability of the EU risk assessment in the food chain and amending Regulations (EC) No 178/2002, (EC) No 1829/2003, (EC) No 1831/2003, (EC) No 2065/2003, (EC) No 1935/2004, (EC) No 1331/2008, (EC) No 1107/2009 and (EU) 2015/2283 and Directive 2001/18/EC (OJ L 231, 6.9.2019, pp. 1-28). 
 \[RT I, 07.02.2023, 2 – entry into force 17.02.2023\]

@@ -13,7 +13,7 @@ date: 2002-12-18
 last_amended: 2024-10-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/501102024005"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "124052024003"
 ---
@@ -21,8 +21,6 @@ translation_of: "124052024003"
 # European Parliament Election Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -1428,4 +1426,4 @@ Electronic voting is not implemented before 2005.
 
 ---
 
-Council Directive 93/109/EC of 6 December 1993 laying down detailed arrangements for the exercise of the right to vote and stand as a candidate in elections to the European Parliament for citizens of the Union residing in a Member State of which they are not nationals (OJ L 329, 30.12.1993, p. 34–38), amended by Directive 2013/1/EC (OJ L 26, 26.01.2013, p. 27–29). \[RT I, 10.01.2014, 1 – entry into force 20.01.2014\]
+<sup>1</sup> Council Directive 93/109/EC of 6 December 1993 laying down detailed arrangements for the exercise of the right to vote and stand as a candidate in elections to the European Parliament for citizens of the Union residing in a Member State of which they are not nationals (OJ L 329, 30.12.1993, p. 34–38), amended by Directive 2013/1/EC (OJ L 26, 26.01.2013, p. 27–29). \[RT I, 10.01.2014, 1 – entry into force 20.01.2014\]

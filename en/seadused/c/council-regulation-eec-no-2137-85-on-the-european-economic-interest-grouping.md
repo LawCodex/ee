@@ -13,7 +13,7 @@ date: 2000-05-31
 last_amended: 2024-03-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/527022024002"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "105052022009"
 ---
@@ -140,4 +140,4 @@ This Act shall be brought into force by a separate Act upon the accession of Est
 
 ---
 
-RT = Riigi Teataja = State Gazette, ² Ametlikud Teadaanded = Official Notices
+<sup>1</sup> RT = Riigi Teataja = State Gazette, ² Ametlikud Teadaanded = Official Notices

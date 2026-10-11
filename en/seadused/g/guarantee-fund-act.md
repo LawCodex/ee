@@ -13,7 +13,7 @@ date: 2002-02-20
 last_amended: 2026-07-21
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/520072026010"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "111072026095"
 ---
@@ -2189,4 +2189,4 @@ As of 1 January 2016, the Fund is required to transfer the contributions collect
 
 ---
 
-Directive 2014/49/EU of the European Parliament and of the Council on deposit guarantee schemes (OJ L 173, 12.6.2014, p. 149–178). \[RT I, 31.12.2015, 38 – entry into force 10.01.2016\]
+<sup>1</sup> Directive 2014/49/EU of the European Parliament and of the Council on deposit guarantee schemes (OJ L 173, 12.6.2014, p. 149–178). \[RT I, 31.12.2015, 38 – entry into force 10.01.2016\]

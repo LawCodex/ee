@@ -14,7 +14,7 @@ date: 2014-12-12
 last_amended: 2025-06-16
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/516102025002"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "113062025028"
 ---

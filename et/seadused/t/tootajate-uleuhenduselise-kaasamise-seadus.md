@@ -1,0 +1,1197 @@
+---
+title: "Töötajate üleühenduselise kaasamise seadus"
+identifier: "123122022030"
+rt_reference: "RT I, 23.12.2022, 30"
+rt_original: "RT I 2005, 6, 21"
+abbreviation: "TÜÜKS"
+group_id: "158449"
+type: act
+issuer: "Riigikogu"
+text_type: "terviktekst"
+jurisdiction: ee
+language: et
+date: 2005-01-12
+last_amended: 2023-02-01
+status: in_force
+source: "https://www.riigiteataja.ee/akt/123122022030"
+retrieved: 2026-10-12
+---
+
+# Töötajate üleühenduselise kaasamise seadus
+
+## 1. peatükk — ÜLDSÄTTED
+
+### § 1. Seaduse reguleerimisala
+
+Käesolev seadus sätestab õiguslikud alused:
+
+1\) Euroopa töönõukogu asutamiseks või informeerimis- ja konsulteerimismenetluse sisseseadmiseks üleühenduselise ettevõtja või üleühenduselise ettevõtjate grupi tasandil;
+
+2\) töötajate kaasamiseks Euroopa äriühingu (*Societas Europaea*, edaspidi *SE*) ja Euroopa ühistu (*Societas Cooperativa Europaea*, edaspidi *SCE*) tegevusse;
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+3\) töötajate informeerimiseks, nendega konsulteerimiseks ja nende äriühingu juhtimises osalemiseks äriühingu piirülese ümberkujundamise, jagunemise ja ühinemise korral.
+
+\[RT I, 23.12.2022, 2 - jõust. 01.02.2023\]
+
+### § 2. Seaduse eesmärk
+
+Käesoleva seaduse eesmärk on edendada töötajate kaasamist, milleks on:
+
+1\) töötajate informeerimine ja konsulteerimine üleühenduselise ettevõtja või üleühenduselise ettevõtjate grupi tegevusest või
+
+2\) töötajate informeerimine, konsulteerimine ja osalemine SE ning SCE tegevuses;
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+3\) töötajate informeerimine, nendega konsulteerimine ja nende äriühingu juhtimises osalemine äriühingu piiriülese ümberkujundamise, jagunemise ja ühinemise korral.
+
+\[RT I, 23.12.2022, 2 - jõust. 01.02.2023\]
+
+### § 3. Põhimõisted
+
+(1) Käesolevas seaduses kasutatakse järgmisi põhimõisteid:
+
+1\) informeerimine tähendab töötajate esindajatele asjakohasel tasandil teabe edastamist viisil, mis võimaldab töötajatel saada õigeaegselt selget ja piisavalt põhjalikku ülevaadet ettevõtja struktuurist, majanduslikust ja tööhõive olukorrast ning nende võimalikust arengust ja muudest töötajate huve puudutavatest asjaoludest, samuti saada aru olukorra ja muude asjaolude mõjudest töötajatele ning vajaduse korral valmistuda konsulteerimiseks;
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+2\) konsulteerimine tähendab töötajate esindajate ja ettevõtja vahelist seisukohtade vahetamist ning dialoogi pidamist asjakohasel tasandil ja viisil, mis võimaldab töötajate esindajatel esitada mõistliku aja jooksul arvamusi konsulteerimise teemaks olevate kavandatavate meetmete kohta, mida ettevõtja võib otsustamisprotsessis arvesse võtta, ning saada ettevõtjalt põhjendatud vastuseid esitatud arvamustele;
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+3\) liikmesriik käesoleva seaduse tähenduses on Euroopa Majanduspiirkonna lepinguga liitunud riik.
+
+## 2. peatükk — TÖÖTAJATE KAASAMINE ÜLEÜHENDUSELISE ETTEVÕTJA VÕI ÜLEÜHENDUSELISE ETTEVÕTJATE GRUPI TASANDIL
+
+### 1. jagu — Üldsätted
+
+#### § 4. Käesoleva peatüki kohaldamine
+
+(1) Käesolevat peatükki kohaldatakse järgmistel juhtudel:
+
+1\) üleühenduselise ettevõtja või üleühenduselise ettevõtjate grupi kontrolliva ettevõtja keskjuhatus asub Eestis,
+
+2\) üleühenduselise ettevõtja või üleühenduselise ettevõtjate grupi kontrolliva ettevõtja keskjuhatus ei asu liikmesriigis, kuid vajaduse korral selleks määratud liikmesriikide keskjuhatuse esindaja asub Eestis, või
+
+3\) üleühenduselise ettevõtja või üleühenduselise ettevõtjate grupi kontrolliva ettevõtja keskjuhatus ei asu liikmesriigis ja keskjuhatuse esindajat liikmesriikides määratud ei ole, kuid mille liikmesriikide võrdluses suurima töötajate arvuga ettevõte või suurima töötajate arvuga kontrollitav ettevõtja asub Eestis.
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+(2) \[Kehtetu - RT I, 01.03.2017, 2 - jõust. 10.10.2017\]
+
+(3) Olenemata käesoleva paragrahvi lõikes 1 sätestatust, kohaldatakse töötajate arvu kindlaksmääramisel Eestis käesoleva seaduse §-s 9 sätestatut ning läbirääkimiste erikomisjoni ja Euroopa töönõukogu Eesti töötajaid esindavate liikmete valimisel käesoleva seaduse §-des 17 ja 25 sätestatut.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+#### § 4<sup>1</sup>. Informeerimise ja konsulteerimise sisseseadmine
+
+Töötajate kaasamise edendamiseks üleühenduselise ettevõtja või üleühenduselise ettevõtjate grupi tasandil asutatakse Euroopa töönõukogu või seatakse sisse muu informeerimis- ja konsulteerimismenetlus. Informeerimis- ja konsulteerimismenetlus tuleb kehtestada ning rakendada viisil, mis tagab informeerimis- ja konsulteerimismenetluse ning üleühenduselise ettevõtja või üleühenduselise ettevõtjate grupi otsustusprotsessi tõhususe.
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+#### § 5. Ettevõtja
+
+Käesolevas seaduses ettevõtja kohta sätestatut kohaldatakse ka muudele juriidilistele isikutele, välja arvatud riik ja kohaliku omavalitsuse üksus.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+#### § 6. Ettevõte
+
+\[Kehtetu - RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+#### § 7. Üleühenduseline ettevõtja
+
+Üleühenduseline ettevõtja on ettevõtja, kellel on liikmesriikides kokku vähemalt 1000 töötajat, kellest vähemalt kahes liikmesriigis on kummaski vähemalt 150 töötajat.
+
+#### § 8. Üleühenduseline ettevõtjate grupp
+
+Üleühenduseline ettevõtjate grupp on ettevõtjate grupp, millel on:
+
+1\) liikmesriikides kokku vähemalt 1000 töötajat;
+
+2\) vähemalt kaks gruppi kuuluvat ettevõtjat eri liikmesriikides;
+
+3\) vähemalt üks gruppi kuuluv vähemalt 150 töötajaga ettevõtja ühes liikmesriigis ja vähemalt üks gruppi kuuluv vähemalt 150 töötajaga ettevõtja teises liikmesriigis.
+
+#### § 9. Töötajate arvu kindlaksmääramine Eestis
+
+Eestis asuva üleühenduselisse ettevõtjate gruppi kuuluva ettevõtja ja üleühenduselise ettevõtja ettevõtete töötajate arvu kindlaksmääramisel võetakse aluseks nende töötajate keskmine arv, kes on ettevõtjaga töösuhtes olnud viimase kahe aasta jooksul, arvates läbirääkimiste alustamisest Euroopa töönõukogu asutamiseks või muu informeerimis- ja konsulteerimismenetluse sisseseadmiseks.
+
+#### § 10. Kontrolliv ettevõtja
+
+(1) Kontrolliv ettevõtja käesoleva seaduse tähenduses on ettevõtjate gruppi kuuluv ettevõtja, kes omab ühe või enama ettevõtjate gruppi kuuluva ettevõtja (kontrollitav ettevõtja) üle valitsevat mõju omandi või rahalise osaluse omamise kaudu, lepingu või põhikirja alusel või muul viisil, millega otseselt või kaudselt võib teist ettevõtjat mõjutada.
+
+(2) Kui pole tõendatud vastupidist, eeldatakse ühe ettevõtja valitsevat mõju teise ettevõtja üle, kui ettevõtja otseselt või kaudselt:
+
+1\) omab enamikku selle ettevõtja märgitud kapitalist,
+
+2\) kontrollib selle ettevõtja emiteeritud kapitaliga seotud häälteenamust või
+
+3\) saab nimetada või tagasi kutsuda enamiku selle ettevõtja juhtorgani liikmetest.
+
+(3) Valitseva mõju teostamiseks ei loeta ülesannete täitmist likvideerimismenetluses, maksevõla sissenõudmisel või muudel sellesarnastel juhtudel.
+
+(4) Kui mitu ettevõtjate gruppi kuuluvat ettevõtjat vastavad üheaegselt ühele või enamale käesoleva paragrahvi lõikes 2 nimetatud tingimusele, loetakse kontrollivaks ettevõtjaks ettevõtja, kes vastab lõike 2 punktis 3 sätestatud tingimusele. Kui ükski ettevõtjate gruppi kuuluv ettevõtja ei vasta lõike 2 punktis 3 nimetatud tingimusele, loetakse kontrollivaks ettevõtjaks ettevõtja, kes vastab lõike 2 punktis 2 nimetatud tingimusele, kui ei suudeta tõendada, et teine ettevõtja omab valitsevat mõju.
+
+(5) Olenemata käesoleva paragrahvi lõigetes 1 ja 2 sätestatust, ei loeta ettevõtjat kontrollivaks teise ettevõtja suhtes, kus ettevõtjal on osalus, kui esimesena nimetatud ettevõtja on nõukogu määruse (EÜ) nr 139/2004 kontrolli kehtestamise kohta ettevõtjate koondumiste üle (ELT L 24, 29.01.2004, lk 1–22) artikli 3 lõike 5 punktis a või c sätestatud äriühing.
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+(6) Kontrolliva ettevõtja kindlaksmääramisel kohaldatakse selle liikmesriigi õigust, mille kohaselt see ettevõtja tegutseb. Kui ettevõtja ei tegutse liikmesriigi õiguse kohaselt, kohaldatakse kontrolliva ettevõtja kindlaksmääramisel selle liikmesriigi õigust, kus asub selle ettevõtja esindaja või viimase puudumisel ettevõtjate gruppi kuuluva suurima töötajate arvuga ettevõtja juhtorgan.
+
+(7) Kontrolliv ettevõtja ja tema kontrollitavad ettevõtjad moodustavad ettevõtjate grupi.
+
+#### § 11. Keskjuhatus ja juhtkond
+
+(1) Keskjuhatus on üleühenduselise ettevõtja juhtorgan või üleühenduselise ettevõtjate grupi kontrolliva ettevõtja juhtorgan.
+
+(2) Juhtkond on üleühenduselise ettevõtjate grupi kontrollitava ettevõtja juhtorgan või üleühenduselise ettevõtja ettevõtte juhtimise eest vastutav isik või vastutavad isikud vastavalt ettevõtja otsusele, põhikirjale või ühingulepingule.
+
+#### § 12. Keskjuhatuse kohustus
+
+(1) Keskjuhatus on kohustatud tagama vajalikud tingimused ja meetmed üleühenduselise ettevõtja või ettevõtjate grupi Euroopa töönõukogu asutamiseks või muu informeerimis- ja konsulteerimismenetluse sisseseadmiseks.
+
+(2) Kui üleühenduselisse ettevõtjate gruppi kuulub üks või rohkem üleühenduselist ettevõtjat või üleühenduselist ettevõtjate gruppi, asutatakse Euroopa töönõukogu ainult grupi tasandil, välja arvatud, kui informeerimise ja konsulteerimise kokkuleppega ei ole määratud teisiti.
+
+(3) Kui keskjuhatus ei asu liikmesriigis, määrab keskjuhatus vajaduse korral oma esindaja Eestis, kes täidab käesoleva paragrahvi lõikes 1 nimetatud kohustusi. Sellise esindaja puudumisel täidab kohustusi selle liikmesriigi üleühenduselise ettevõtja ettevõtte või üleühenduselise ettevõtjate grupi sellise kontrollitava ettevõtja juhtkond, kus töötab liikmesriikide võrdluses kõige rohkem töötajaid.
+
+(4) Käesoleva paragrahvi lõikes 3 nimetatud esindaja või esindajad või nende puudumisel juhtkond täidavad käesolevast seadusest tulenevaid keskjuhatuse ülesandeid.
+
+#### § 13. Euroopa töönõukogu
+
+Euroopa töönõukogu on töötajaid esindav organ, mis on moodustatud vastavalt käesoleva seaduse §-s 21 nimetatud kokkuleppele või vastavalt käesoleva peatüki 2. jao 3. jaotise sätetele eesmärgiga informeerida ja konsulteerida üleühenduselise ettevõtja ja üleühenduselise ettevõtjate grupi töötajaid.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+#### § 13<sup>1</sup>. Euroopa töönõukogu pädevus või muu informeerimis- ja konsulteerimismenetluse ulatus
+
+(1) Euroopa töönõukogu pädevus informeerimisel ja konsulteerimisel või muu informeerimis- ja konsulteerimismenetlus piirdub riigiüleste küsimustega.
+
+(2) Riigiülesed küsimused puudutavad üleühenduselist ettevõtjat või ettevõtjate gruppi tervikuna või vähemalt kahte eri liikmesriikides asuvat ettevõtet või ettevõtjate gruppi kuuluvat ettevõtjat.
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+#### § 14. Keskjuhatuse ja Euroopa töönõukogu koostöö
+
+Keskjuhatus ja Euroopa töönõukogu teevad koostööd vastastikuse usalduse alusel, lähtudes nii töötajate kui ettevõtjate huvidest. Sama põhimõtet kohaldatakse ka keskjuhatuse ja töötajate esindajate koostööle informeerimis- ja konsulteerimismenetluse raames.
+
+### 2. jagu — Euroopa töönõukogu asutamine ning töötajate informeerimise ja konsulteerimise menetluse sisseseadmine
+
+#### 1. jaotis — Läbirääkimised töötajate informeerimise ja konsulteerimise üle
+
+##### § 15. Läbirääkimiste alustamine
+
+(1) Keskjuhatus alustab läbirääkimisi Euroopa töönõukogu asutamiseks või muu informeerimis- ja konsulteerimismenetluse sisseseadmiseks omal algatusel või vähemalt kahe liikmesriigi vähemalt 100 töötaja või nende esindaja kirjalikul taotlusel. Mitme samaaegse taotluse korral liidetakse esitatud taotlustel märgitud töötajad või töötajate allkirjad.
+
+(2) Töötajatel või nende esindajatel on õigus läbirääkimiste alustamise taotlemise otsustamiseks saada keskjuhatuselt teavet eelkõige töötajate arvu ja nende jaotuse kohta liikmesriikides ettevõtjate ja ettevõtete vahel, samuti saada teavet ettevõtja või ettevõtjate grupi struktuuri kohta.
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+(3) Lisaks käesoleva paragrahvi lõikes 2 sätestatule on töötajatel või nende esindajatel, samuti ettevõtjate gruppi kuuluvatel ettevõtjatel õigus saada ettevõtetelt, ettevõtjatelt ja ettevõtjate gruppi kuuluvatelt ettevõtjatelt teavet, mis on vajalik üleühenduselise ettevõtja või üleühenduselisse ettevõtjate gruppi kuulumise kontrollimiseks ja keskjuhatuse ülesannete täitja väljaselgitamiseks. Teave hõlmab eelkõige käesoleva paragrahvi lõikes 2 sätestatud teavet.
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+(4) Kui taotlus esitatakse Eestis asuvale üleühenduselise ettevõtjate grupi kontrollitava ettevõtja või üleühenduselise ettevõtja ettevõtte juhtkonnale, edastab viimane selle viivitamata keskjuhatusele ja teavitab taotluse edastamisest taotluse esitanud töötajaid või nende esindajaid.
+
+##### § 16. Läbirääkimiste erikomisjoni koosseis
+
+(1) Läbirääkimiste erikomisjon on organ, mis moodustatakse eesmärgiga pidada keskjuhatusega läbirääkimisi Euroopa töönõukogu asutamiseks või muu informeerimis- ja konsulteerimismenetluse sisseseadmiseks.
+
+(2) \[Kehtetu - RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+(3) Läbirääkimiste erikomisjonis on vähemalt üks töötajate esindaja igast liikmesriigist, kus asub üleühenduseline ettevõtja, tema ettevõte või üleühenduselise ettevõtjate grupi kontrolliv ettevõtja või kontrollitav ettevõtja.
+
+(4) Lisaks käesoleva paragrahvi lõikes 3 sätestatule jaotatakse töötajate esindajate kohad läbirääkimiste erikomisjonis proportsionaalselt üleühenduselise ettevõtja või üleühenduseliste ettevõtjate grupi töötajate arvuga igas liikmesriigis, eraldades igale liikmesriigile täiendavalt ühe koha sellise töötajate arvu kohta, mis moodustab kõikide liikmesriikide töötajate koguarvust 10%.
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+(5) Läbirääkimiste erikomisjon ja keskjuhatus võivad kokku leppida, et komisjonis on õigus osaleda ka teiste riikide töötajate esindajatel, määrates nende arvu ning komisjoni töös osalemise staatuse.
+
+##### § 17. Läbirääkimiste erikomisjoni Eesti töötajaid esindavate liikmete valimine
+
+(1) Eestis asuva käesoleva seaduse § 16 lõikes 3 nimetatud ettevõtja või ettevõtte töötajaid esindava läbirääkimiste erikomisjoni liikme või liikmed valib töötajate üldkoosolek. Läbirääkimiste erikomisjoni liikme või liikmete valimise korra kinnitab töötajate üldkoosolek. Valimise kord peab tagama kõikidele töötajatele võimaluse osaleda valimistel.
+
+(2) Kui Eestis asub mitu käesoleva seaduse § 16 lõikes 3 nimetatud ettevõtjat või ettevõtet, valib läbirääkimiste erikomisjoni liikme või liikmed töötajate esindajatest moodustatud ühisesindus. Ühisesindusse kuulub igast asjaomasest ettevõtjast või ettevõttest kolm töötajate esindajat, kes on valitud töötajate endi hulgast vastavalt käesoleva paragrahvi lõikes 1 sätestatud läbirääkimiste erikomisjoni liikme või liikmete valimise korrale.
+
+(3) Ühisesinduse kutsub kokku suurima töötajate arvuga ettevõtja või ettevõtte vanuselt vanim töötajate esindaja. Ühisesinduse liikme häälte arv määratakse proportsionaalselt tema poolt esindatava ettevõtja või ettevõtte töötajate arvuga. Ühe ettevõtja või ettevõtte töötajate esindajatel on igaühel sama häälte arv.
+
+##### § 18. Läbirääkimiste erikomisjoni liikmetest teavitamine
+
+(1) Läbirääkimiste erikomisjon annab keskjuhatusele ja asjaomastele Euroopa töötajate ning tööandjate ühingutele viivitamata teada läbirääkimiste alustamisest ja oma liikmetest, näidates nende nimed ja kontaktandmed, samuti ettevõtja või ettevõtte, kelle töötajaid liige esindab. Asjaomaste Euroopa töötajate ja tööandjate ühingute nimekirja avaldab Euroopa Komisjon.
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+(2) Keskjuhatus edastab saadud teabe üleühenduselise ettevõtja ettevõtete või ettevõtjate gruppi kuuluvate ettevõtjate juhtkondadele.
+
+##### § 19. Kokkuleppe sõlmimine läbirääkimiste erikomisjoni ja keskjuhatuse vahel
+
+(1) Läbirääkimiste erikomisjon peab keskjuhatusega koostöö ja vastastikuse usalduse alusel läbirääkimisi eesmärgiga jõuda kirjalikule kokkuleppele, millega määratakse kindlaks Euroopa töönõukogu asutamine või muu informeerimis- ja konsulteerimismenetlus.
+
+(2) Keskjuhatus varustab läbirääkimiste erikomisjoni õigeaegselt teabe ja dokumentidega, mida komisjon vajab oma ülesannete täitmiseks.
+
+(3) Käesoleva paragrahvi lõikes 1 nimetatud kokkuleppe sõlmimiseks korraldab keskjuhatus viivitamata pärast läbirääkimiste erikomisjoni koosseisu selgumist nimetatud komisjoniga asutamiskoosoleku, millest teavitatakse ka juhtkondi.
+
+(4) Läbirääkimiste erikomisjon võib vähemalt kahekolmandikulise häälteenamusega otsustada, et läbirääkimisi ei alustata või lõpetatakse juba alustatud läbirääkimised. Otsus peatab käesoleva paragrahvi lõikes 1 sätestatud kokkuleppe sõlmimise menetluse. Sellisel juhul ei kohaldata käesoleva jao 3. jaotises sätestatut. Läbirääkimiste mittealustamise või lõpetamise otsus vormistatakse kirjalikult koos hääletustulemustega. Otsusele kirjutab alla läbirääkimiste erikomisjoni volitatud liige. Otsuse ärakiri saadetakse keskjuhatusele.
+
+(5) Käesoleva paragrahvi lõikes 4 nimetatud otsuse vastuvõtmise järel ei või uut taotlust läbirääkimiste alustamiseks esitada varem kui kahe aasta möödumisel, välja arvatud, kui pooled ei kehtesta lühemat perioodi.
+
+##### § 20. Läbirääkimiste erikomisjoni töökorraldus ja kulud
+
+(1) Läbirääkimiste erikomisjon ja keskjuhatus võivad kokkuleppel kehtestada läbirääkimiste reglemendi. Kui reglementi ei kehtestata, võivad läbirääkimiste erikomisjon ja keskjuhatus asutamiskoosoleku alguses kindlaks määrata, kuidas korraldatakse edaspidised läbirääkimised.
+
+(2) Läbirääkimiste erikomisjon võtab otsused vastu lihthäälteenamusega, välja arvatud käesoleva seaduse § 19 lõikes 4 nimetatud juhul.
+
+(3) Läbirääkimiste erikomisjon võib valida oma liikmete hulgast esimehe.
+
+(4) Läbirääkimiste erikomisjon võib ülesannete tulemuslikumaks täitmiseks läbirääkimistele omal valikul kaasata abistavaid eksperte, kes osalevad läbirääkimistel nõuandjatena. Ekspertideks võivad muu hulgas olla ühenduse tasandi ametiühingute esindajad.
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+(5) Läbirääkimiste erikomisjonil on õigus enne ja pärast kohtumist keskjuhatusega korraldada oma liikmete koosolek, kus keskjuhatuse esindajad ei osale, ning kutsuda sinna omal valikul osalejaid ja kasutada selleks vajalikke kommunikatsioonivahendeid.
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+(6) Keskjuhatus hüvitab läbirääkimiste erikomisjoni moodustamise ja tööga, sealhulgas keskjuhatusega peetavate läbirääkimistega, kaasnevad mõistlikud kulud, mis võimaldavad läbirääkimiste erikomisjonil oma ülesandeid asjakohaselt ja takistamatult täita. Läbirääkimiste erikomisjoni algatusel eksperdi kaasamise korral hüvitab keskjuhatus vähemalt ühe eksperdi kutsumisega kaasnevad kulud.
+
+#### 2. jaotis — Riikidevaheline informeerimise ja konsulteerimise kokkulepe
+
+##### § 21. Euroopa töönõukogu kokkulepe
+
+(1) Läbirääkimiste erikomisjoni ja keskjuhatuse kokkulepe Euroopa töönõukogu asutamise kohta peab olema kirjalik ning selles peavad sisalduma vähemalt järgmised tingimused:
+
+1\) kokkuleppega hõlmatud üleühenduselisse ettevõtjate gruppi kuuluvad ettevõtjad või üleühenduselise ettevõtja ettevõtted;
+
+2\) Euroopa töönõukogu koosseis, liikmete arv, ametiaeg ja kohtade jaotus, mis arvestab võimaluse korral töötajate proportsionaalset esindatust nende tegevusvaldkonna, kategooriate ja soo alusel;
+
+3\) Euroopa töönõukogu ülesanded, selle informeerimis- ja konsulteerimiskord;
+
+4\) Euroopa töönõukogu informeerimis- ja konsulteerimiskorra kooskõlastamine Eesti töötajate esindusorganitega, arvestades nende pädevust ja tegevusvaldkondi, samuti, et informeerimine ja konsulteerimine peab toimuma asjakohasel tasandil ning hõlmama riigiüleseid küsimusi;
+
+5\) Euroopa töönõukogu koosolekute pidamise koht, sagedus ja kestus;
+
+6\) vajaduse korral Euroopa töönõukogu juhtkomisjoni koosseis, liikmete nimetamise kord, ülesanded ja töökord;
+
+7\) Euroopa töönõukogule eraldatud rahalised ja materiaalsed vahendid;
+
+8\) kokkuleppe jõustumise kuupäev, kokkuleppe kestus, kokkuleppe muutmise ja lõppemise kord ning uute läbirääkimiste alustamise kord ja tingimused, sealhulgas juhul, kui toimuvad struktuurimuudatused.
+
+(2) Käesoleva paragrahvi lõike 1 punktis 4 nimetatud kooskõlastamine ei tohi kitsendada riigisiseseid sätteid töötajate informeerimise ja nendega konsulteerimise kohta.
+
+(3) Käesoleva paragrahvi lõike 1 punktis 4 nimetatud kooskõlastamise puudumisel informeeritakse Euroopa töönõukogu ja Eesti töötajate esindusorganeid ning konsulteeritakse nendega, kui kavandatakse otsuseid, millega muudetakse oluliselt töökorraldust või lepingulisi suhteid.
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+##### § 22. Informeerimis- ja konsulteerimismenetluse kokkulepe
+
+Läbirääkimiste erikomisjoni ja keskjuhatuse kokkulepe kehtestada Euroopa töönõukogu asutamise asemel muu informeerimis- ja konsulteerimismenetlus peab olema kirjalikus vormis ja selles peavad sisalduma vähemalt järgmised tingimused:
+
+1\) millisel viisil on töötajate esindajatel õigus saada keskjuhatuselt teavet töötajate huve oluliselt mõjutavate riikidevahelise iseloomuga küsimuste kohta ning pidada nende küsimuste üle konsultatsioone;
+
+2\) millisel viisil toimuvad töötajate esindajate kohtumised keskjuhatusega, et pidada keskjuhatuse edastatud teabe põhjal ühiseid konsultatsioone.
+
+##### § 22<sup>1</sup>. Uute läbirääkimiste alustamise kohustus
+
+(1) Kui üleühenduselise ettevõtja või üleühenduselise ettevõtjate grupi struktuuri oluliselt muudetakse ja kui kokkuleppes puuduvad sätted uute läbirääkimiste alustamise kohta või kui kahe või enama kokkuleppe sätted on vastuolulised, alustab keskjuhatus läbirääkimisi vastavalt käesoleva seaduse § 15 lõikele 1.
+
+(2) Lisaks käesoleva seaduse § 16 lõike 4 kohaselt määratud liikmetele kuulub läbirääkimiste erikomisjoni kolm liiget tegutsevast Euroopa töönõukogust või igast tegutsevast Euroopa töönõukogust.
+
+(3) Läbirääkimiste ajal jätkab tegutsev Euroopa töönõukogu oma tegevust kooskõlas Euroopa töönõukogu ja keskjuhatuse vahel sõlmitavate kokkulepetega.
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+##### § 22<sup>2</sup>. Kohalike töötajate esindajate informeerimine
+
+Arvestades käesoleva seaduse §-s 38 sätestatut, informeerib Euroopa töönõukogu või vajaduse korral informeerivad juhtkomisjoni liikmed üleühenduseliste ettevõtjate ettevõtete või ettevõtjate gruppi kuuluvate ettevõtjate töötajate esindajaid, nende puudumisel töötajaid, informeerimise ja konsulteerimise sisust ja tulemustest.
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+#### 3. jaotis — Seadusjärgne Euroopa töönõukogu ning informeerimine ja konsulteerimine
+
+##### 1. alljaotis — Euroopa töönõukogu
+
+###### § 23. Seadusjärgse Euroopa töönõukogu asutamine
+
+Euroopa töönõukogu asutatakse käesoleva jaotise kohaselt, kui:
+
+1\) keskjuhatus ja läbirääkimiste erikomisjon teevad vastava otsuse;
+
+2\) keskjuhatus keeldub läbirääkimiste alustamisest kuue kuu jooksul käesoleva seaduse § 15 lõikes 1 nimetatud taotluse esitamisest arvates või
+
+3\) kolme aasta möödumisel taotluse esitamisest ei ole käesoleva seaduse §-s 21 või 22 nimetatud kokkulepet sõlmitud ja läbirääkimiste erikomisjon ei ole vastu võtnud § 19 lõikes 4 nimetatud otsust.
+
+###### § 24. Euroopa töönõukogu koosseis
+
+(1) Euroopa töönõukogu koosseisu kuuluvad üleühenduselise ettevõtja või ettevõtjate grupi töötajad, kes valitakse või nimetatakse igas liikmesriigis vastavalt selleks ettenähtud korrale.
+
+(2) \[Kehtetu - RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+(3) Euroopa töönõukogus on vähemalt üks esindaja igast liikmesriigist, kus asub üleühenduseline ettevõtja, tema ettevõte või üleühenduselise ettevõtjate grupi kontrolliv ettevõtja või kontrollitav ettevõtja.
+
+(4) Lisaks käesoleva paragrahvi lõikes 3 sätestatule jaotatakse töötajate esindajate kohad Euroopa töönõukogus proportsionaalselt üleühenduselise ettevõtja või üleühenduseliste ettevõtjate grupi töötajate arvuga igas liikmesriigis, eraldades igale liikmesriigile täiendavalt ühe koha sellise töötajate arvu kohta, mis moodustab kõikide liikmesriikide töötajate koguarvust 10%.
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+###### § 25. Euroopa töönõukogu Eesti töötajaid esindavate liikmete valimine
+
+Euroopa töönõukogu Eesti töötajaid esindavate liikmete valimisel kohaldatakse käesoleva seaduse §-s 17 sätestatut.
+
+###### § 26. Euroopa töönõukogu liikmete volituste aeg ja uute liikmete nimetamine
+
+(1) Euroopa töönõukogu liikmete volituste aeg on neli aastat, välja arvatud, kui volitused lõppevad ennetähtaegselt liikme enda algatusel või mõnel muul põhjusel (võimetus oma kohustusi täita, kohustuste täitmisest keeldumine, pikaajaline haigus, käesolevast seadusest tulenevate nõuete rikkumine vms).
+
+(2) Iga kahe aasta tagant Euroopa töönõukogu asutamisest arvates kontrollib keskjuhatus, kas töötajate arv liikmesriikides on oluliselt muutunud ja kas on vajalik teha muudatusi Euroopa töönõukogu koosseisus, et see vastaks käesoleva seaduse §-s 24 sätestatud Euroopa töönõukogu koosseisule. Keskjuhatus informeerib Euroopa töönõukogu saadud tulemustest.
+
+(3) Kui Euroopa töönõukogu koosseisu on vaja muuta, kutsub Euroopa töönõukogu pädevaid organeid valima või nimetama uusi liikmeid nendest liikmesriikidest, kus eelneva perioodiga võrreldes on vajalik töötajate esindajate arvu muutmine. Uute liikmete nimetamine lõpetab eelmiste liikmete volitused.
+
+###### § 27. Kokkuleppe sõlmimiseks läbirääkimiste alustamine
+
+(1) Neli aastat pärast Euroopa töönõukogu asutamist selgitab Euroopa töönõukogu, kas alustada keskjuhatusega läbirääkimisi käesoleva seaduse § 19 lõikes 1 nimetatud kokkuleppe sõlmimiseks või jätkata käesoleva jaotise sätete kohaldamist.
+
+(2) Kui Euroopa töönõukogu otsustab alustada läbirääkimisi kokkuleppe sõlmimiseks, on tal samad õigused ja kohustused nagu läbirääkimiste erikomisjonil.
+
+###### § 28. Euroopa töönõukogu koosseisust teavitamine
+
+(1) Euroopa töönõukogu või läbirääkimiste erikomisjon annab keskjuhatusele viivitamata teada töönõukogu liikmetest, näidates nende nimed ja kontaktandmed, samuti ettevõtja või ettevõtte, mida liige esindab.
+
+(2) Keskjuhatus edastab saadud teabe üleühenduselise ettevõtja ettevõtete või ettevõtjate gruppi kuuluvate ettevõtjate juhtkondadele.
+
+###### § 29. Euroopa töönõukogu asutamiskoosolek
+
+Keskjuhatus korraldab kohe pärast Euroopa töönõukogu koosseisu selgumist asutamiskoosoleku, kus Euroopa töönõukogu võtab vastu oma töökorra ning valib liikmete hulgast esimehe ja vajaduse korral tema asendaja.
+
+###### § 30. Juhtkomisjon
+
+(1) Euroopa töönõukogu valib oma liikmete hulgast kuni viieliikmelise juhtkomisjoni, kes juhib Euroopa töönõukogu igapäevast tegevust. Juhtkomisjoni tegevuseks peavad olema loodud vajalikud tingimused.
+
+(2) Juhtkomisjoni kuuluvad Euroopa töönõukogu esimees, samuti kuni neli valitud liiget, kes esindavad ettevõtjaid või ettevõtteid eri liikmesriikidest.
+
+(3) Juhtkomisjon võtab vastu töökorra.
+
+(4) Kui juhtkomisjoni ei moodustata, juhib Euroopa töönõukogu igapäevast tegevust Euroopa töönõukogu esimees või töönõukogu määratud muu liige.
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+###### § 31. Euroopa töönõukogu koosolekud
+
+(1) Euroopa töönõukogul on õigus keskjuhatuselt saadud informatsioonile tuginedes pidada koosolekuid.
+
+(2) Euroopa töönõukogu võib kaasata abistavaid eksperte.
+
+(3) Euroopa töönõukogu võtab otsused vastu lihthäälteenamusega.
+
+(4) Enne keskjuhatusega kohtumist on Euroopa töönõukogu liikmetel, mille koosseisu on vastavalt käesoleva seaduse § 35 lõikele 3 vajaduse korral laiendatud, õigus omavahel kohtuda keskjuhatuse ja juhtkonna esindajate juuresolekuta.
+
+(5) Euroopa töönõukogu koosolekud on kinnised.
+
+(6) Juhtkomisjoni olemasolu korral laienevad käesolevas paragrahvis nimetatud õigused ka juhtkomisjonile.
+
+###### § 32. Euroopa töönõukogu tegevuse kulude hüvitamine
+
+Keskjuhatus hüvitab Euroopa töönõukogu ja juhtkomisjoni tegevusega seotud mõistlikud kulud, mis võimaldavad töönõukogul ja juhtkomisjonil oma ülesandeid asjakohaselt ja takistamatult täita. Keskjuhatus hüvitab eelkõige järgmised kulud:
+
+1\) koosolekute korraldamisega seotud kulud;
+
+2\) tõlketeenuste osutamisega seotud kulud;
+
+3\) liikmete sõidu- ja majutuskulud;
+
+4\) vähemalt ühe eksperdi kutsumisega kaasnevad kulud.
+
+##### 2. alljaotis — Informeerimine ja konsulteerimine
+
+###### § 33. Euroopa töönõukogu pädevus informeerimisel ja konsulteerimisel
+
+(1) Euroopa töönõukogul on õigus informeerida ja konsulteerida, arvestades käesoleva seaduse §-s 13<sup>1</sup> sätestatut.
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+(2) Kui keskjuhatus ei asu liikmesriigis, piirdub Euroopa töönõukogu pädevus küsimustega, mis puudutavad kõiki liikmesriikides asuvaid ettevõtteid või ettevõtjate gruppi kuuluvaid ettevõtjaid või vähemalt kahte eri liikmesriikides asuvat üleühenduselist ettevõtet või ettevõtjate gruppi kuuluvat ettevõtjat.
+
+###### § 34. Iga-aastane informeerimine ja konsulteerimine
+
+(1) Euroopa töönõukogul on õigus kohtuda keskjuhatusega vähemalt üks kord aastas, et saada keskjuhatuselt teavet ja konsulteerida keskjuhatusega viimase esitatud aruande põhjal üleühenduselise ettevõtja või ettevõtjate grupi arengu ja tulevikuväljavaadete kohta.
+
+(2) Koosolekul käsitletakse tegevuse arengu ja tulevikuväljavaadete raames eelkõige järgmisi küsimusi:
+
+1\) ettevõtja struktuur, majanduslik ja finantsolukord;
+
+2\) äri-, tootmis- ja müügitegevuse võimalikud arengud;
+
+3\) tööhõive olukord ja selle võimalikud arengud;
+
+4\) investeeringud;
+
+5\) olulised muudatused töökorralduses;
+
+6\) uute tööviiside või tootmisprotsesside sisseviimine;
+
+7\) tootmise üleviimine;
+
+8\) ettevõtjate või nende osade ühinemised, sulgemised või tootmise vähendamised;
+
+9\) kollektiivsed koondamised.
+
+###### § 35. Informeerimine ja konsulteerimine erakorraliste asjaolude ilmnemisel
+
+(1) Juhtkomisjonil on õigus saada õigeaegselt informatsiooni töötajate huve olulisel määral mõjutavate asjaolude või otsuste kohta, eelkõige ettevõtjate või ettevõtete ümberpaigutamise ja sulgemise või kollektiivsete koondamiste kohta.
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+(2) Juhtkomisjonil on õigus taotleda kohtumist keskjuhatuse või juhtkonnaga või üleühenduselise ettevõtja või ettevõtjate grupi juhtimistasandi iseseisvat otsustamisõigust omava muu isiku või isikutega ning saada informatsiooni ja konsultatsiooni.
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+(3) Euroopa töönõukogu liikmed, kelle on valinud üleühenduseliste ettevõtjate või ettevõtete töötajad, keda kõnealused asjaolud või otsused otseselt mõjutavad, võivad koos juhtkomisjoniga koosolekutest osa võtta.
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+(4) Kohtumine informeerimise ja konsulteerimise eesmärgil toimub keskjuhatuse või juhtkonna või üleühenduselise ettevõtja või ettevõtjate grupi muu asjakohase isiku või isikute koostatud kirjaliku aruande alusel kohe pärast aruande valmimist. Juhtkomisjonil on õigus esitada koosoleku lõpus või mõistliku aja jooksul koosoleku lõppemisest arvates arvamus aruande kohta.
+
+(5) Juhtkomisjoni puudumisel teostab käesolevas paragrahvis sätestatud õigusi Euroopa töönõukogu.
+
+###### § 36. Kohalike töötajate esindajate informeerimine
+
+Kohalike töötajate esindajaid informeeritakse käesoleva alljaotise sätete kohase informeerimise ja konsulteerimise sisust ja tulemustest vastavalt käesoleva seaduse §-s 22<sup>2</sup> sätestatule.
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+###### § 36<sup>1</sup>. Euroopa töönõukogu informeerimise ja töönõukoguga konsulteerimise kooskõlastamine Eesti töötajate esindusorganitega
+
+Euroopa töönõukogu informeerimise ja töönõukoguga konsulteerimise kord kooskõlastatakse Eesti töötajate esindusorganitega, arvestades käesoleva seaduse § 21 lõike 1 punktis 4 ning lõigetes 2 ja 3 sätestatut.
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+### 3. jagu — Erisätted
+
+#### § 37. Riikidevahelise informeerimise ja konsulteerimise takistamise keeld
+
+(1) Keelatud on piirata Euroopa töönõukogu ja läbirääkimiste erikomisjoni õigusi, sealhulgas takistada ja mõjutada nende moodustamist ning tegevust, samuti informeerimis- ja konsulteerimismenetluse sisseseadmist ja teostamist.
+
+(2) Keelatud on mõjutada ja takistada Euroopa töönõukogu liikmete, läbirääkimiste erikomisjoni liikmete ning informeerimis- ja konsulteerimismenetluses osalevate töötajate esindajate tegevust nende õiguste piiramise või eeliste lubamise kaudu.
+
+#### § 38. Konfidentsiaalne teave
+
+(1) Euroopa töönõukogu liikmetel on keelatud avaldada kolmandatele isikutele või muul viisil käesoleva seaduse vastaselt kasutada neile Euroopa töönõukogu liikme ülesannete täitmisel selgelt konfidentsiaalsena edastatud teavet. Konfidentsiaalse teabe hoidmise kohustus laieneb liikmetele ka pärast nende volituste lõppemist.
+
+(2) Käesoleva paragrahvi lõikes 1 sätestatud kohustusega on samuti seotud:
+
+1\) läbirääkimiste erikomisjoni liikmed;
+
+2\) töötajate esindajad, kes käesoleva seaduse §-s 22 sätestatud kokkuleppe kohaselt osalevad informeerimis- ja konsulteerimismenetluses;
+
+3\) eksperdid ja tõlgid.
+
+(3) Kui käesoleva paragrahvi lõigete 1 ning 2 punktides 1 ja 2 nimetatud isikud (töötajate esindajad) ei nõustu edastatud teabe konfidentsiaalsusega, on keskjuhatus kohustatud töötajate esindaja nõudmisel põhjendama teabe konfidentsiaalsust.
+
+(4) Käesoleva paragrahvi lõikes 1 nimetatud kohustus ei laiene Euroopa töönõukogu liikme suhtlemisele teiste vastava töönõukogu liikmetega ning ettevõtjate ja ettevõtete töötajate esindajatega, kui nendele tuleb vastavalt käesoleva seaduse §-s 21 sätestatud kokkuleppe või § 36 kohaselt teatavaks teha informeerimis- ja konsulteerimismenetluse sisu ja tulemused, samuti suhtlemisele tõlkide ja ekspertidega, kes abistavad Euroopa töönõukogu tema töös.
+
+(5) Sarnaselt käesoleva paragrahvi lõikes 4 sätestatud erandiga ei laiene lõikes 1 sätestatud kohustus:
+
+1\) läbirääkimiste erikomisjoni liikme suhtlemisele ekspertide ja tõlkidega;
+
+2\) töötajate esindajale, kes käesoleva seaduse §-s 22 sätestatud kokkuleppe kohaselt suhtleb informeerimis- ja konsulteerimismenetluses tõlkide ja ekspertidega ning Eestis asuvate ettevõtjate ja ettevõtete töötajate esindajatega, kui neile tuleb §-s 22 sätestatud kokkuleppe kohaselt teatavaks teha informeerimis- ja konsulteerimismenetluse sisu ja tulemused.
+
+(6) Keskjuhatus võib keelduda teabe andmisest, kui objektiivsete kriteeriumide põhjal otsustades sellise iseloomuga teabe avalikustamine oluliselt kahjustab või võib kahjustada ettevõtja tegevust. See õigus ei laiene teabele töötajate arvu kohta. Teabe andmisest keeldumise korral on keskjuhatus kohustatud esitama objektiivsetele kriteeriumidele tugineva põhjenduse, miks teabe avaldamine oluliselt kahjustab või võib kahjustada ettevõtja tegevust.
+
+#### § 39. Konfidentsiaalse teabega seotud vaidluse lahendamine kohtus
+
+Käesoleva seaduse § 38 lõikes 3 nimetatud töötajate esindajal on õigus pöörduda edastatud teabe konfidentsiaalsusest ja teabe andmisest keeldumisest tuleneva vaidluse lahendamiseks kohtusse.
+
+#### § 39<sup>1</sup>. Kaubanduslikuks meresõiduks kasutatavate laevade laevapere liikmete osalemine rahvusvahelises informeerimises ja konsulteerimises
+
+(1) Läbirääkimiste erikomisjoni või Euroopa töönõukogu liikmel või asendusliikmel, kes on kaubanduslikuks meresõiduks kasutatava laeva laevapere liige, on õigus osaleda läbirääkimiste erikomisjoni või Euroopa töönõukogu koosolekul või mis tahes muul informeerimis- ja konsulteerimismenetluse kokkuleppe alusel toimuval koosolekul, kui kõnealune liige või asendusliige ei asu koosoleku toimumise ajal merel või sellise riigi sadamas, mis ei ole laevandusettevõtja alalise asukoha riik.
+
+(2) Võimaluse korral kavandatakse koosolekute toimumine viisil, mis hõlbustab sellise liikme või asendusliikme osalemist, kes on kaubanduslikuks meresõiduks kasutatava laeva laevapere liige.
+
+(3) Kui läbirääkimiste erikomisjoni või Euroopa töönõukogu liikmel või asendusliikmel, kes on kaubanduslikuks meresõiduks kasutatava laeva laevapere liige, ei ole võimalik koosolekul kohal viibida, kaalutakse võimaluse korral info- ja kommunikatsioonitehnoloogia vahendite kasutamist.
+
+\[RT I, 01.03.2017, 2 - jõust. 10.10.2017\]
+
+#### § 40. Riikidevahelises informeerimises ja konsulteerimises osalevate töötajate esindajate tagatised
+
+(1) Eestis töötavate läbirääkimiste erikomisjoni liikmete, Euroopa töönõukogu liikmete ning käesoleva seaduse § 22 kohaselt informeerimis- ja konsulteerimismenetluses osalevate töötajate esindajate, kes on üleühenduselise ettevõtja või ettevõtjate grupi töötajad, tagatiste suhtes kohaldatakse töölepingu seaduses töötajate esindajatele ettenähtud tagatiste kohta sätestatut.
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud töötajate esindajatele võimaldatakse töötajate esindamiseks vaba aega ulatuses, mis on vajalik käesolevast seadusest tulenevate ülesannete täitmiseks. Vaba aja eest säilitatakse töötajate esindajatele keskmine palk.
+
+(3) Euroopa töönõukogu liikmetele peavad olema tagatud vahendid, mis on vajalikud nende käesolevast seadusest tulenevate ülesannete täitmiseks, sealhulgas üleühenduselise ettevõtja või üleühenduselise ettevõtjate grupi töötajate huvide kollektiivseks esindamiseks.
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+#### § 40<sup>1</sup>. Läbirääkimiste erikomisjoni ja Euroopa töönõukogu liikme õigus koolitusele
+
+Läbirääkimiste erikomisjoni ja Euroopa töönõukogu liikmele tuleb tagada koolitus seesuguse sisuga ja ulatuses, mis on vajalik tema ülesannete täitmiseks rahvusvahelisel tasandil. Koolituses osalemise aja eest säilitatakse keskmine töötasu.
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+## 3. peatükk — TÖÖTAJATE KAASAMINE EUROOPA ÄRIÜHINGU JA EUROOPA ÜHISTU TASANDIL
+
+\[RT I, 23.12.2022, 2 - jõust. 01.02.2023\]
+
+### 1. jagu — Üldsätted
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+#### § 41. Käesoleva peatüki kohaldamine
+
+(1) Käesolevat peatükki kohaldatakse juhul, kui asutamisel oleva SE ja SCE registrijärgseks asukohaks saab Eesti.
+
+(2) Olenemata käesoleva paragrahvi lõikes 1 sätestatust, kohaldatakse SE või SCE läbirääkimiste erikomisjoni ja töötajate esinduskogu Eesti töötajaid esindavate liikmete valimisel käesoleva seaduse §-des 54 ja 66 sätestatut.
+
+(3) Kui SE või SCE on üleühenduseline ettevõtja või üleühenduselise ettevõtjate grupi kontrolliv ettevõtja käesoleva seaduse §-de 7 ja 10 tähenduses, kohaldatakse SE ja SCE ning nende kontrollitavate ettevõtjate suhtes käesolevat peatükki. Kui SE või SCE läbirääkimiste erikomisjon otsustab vastavalt §-le 60 mitte alustada läbirääkimisi või lõpetada juba alustatud läbirääkimised, kohaldatakse käesoleva seaduse 2. peatükki.
+
+(4) Käesoleva peatüki kohaldamine ei piira töötajatele muu seadusega ettenähtud õigust informeerimisele ja konsulteerimisele.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+#### § 41<sup>1</sup>. Käesoleva peatüki kohaldamise erisused Euroopa ühistu suhtes
+
+(1) Käesoleva peatüki teist jagu kohaldatakse:
+
+1\) vähemalt kahe juriidilise isiku poolt asutatud või ümberkujundamise teel loodava SCE suhtes;
+
+2\) üksnes füüsiliste isikute või ühe juriidilise isiku ja füüsiliste isikute asutatud SCE suhtes, millel on kokku vähemalt 50 töötajat vähemalt kahes liikmesriigis.
+
+(2) Üksnes füüsiliste isikute või ühe juriidilise isiku ja füüsiliste isikute asutatud SCE-s, millel on kokku vähem kui 50 töötajat või millel on 50 või rohkem töötajat üksnes ühes liikmesriigis, korraldatakse töötajate kaasamine järgmiselt:
+
+1\) SCE suhtes kohaldatakse tema registrijärgse asukoha liikmesriigi ning SCE kontrollitavate ettevõtjate ja ettevõtete suhtes nende registrijärgse asukoha liikmesriigi õigusnorme, mida selles liikmesriigis kohaldatakse sama liiki juriidiliste isikute ja nende kontrollitavate ettevõtjate ja ettevõtete suhtes;
+
+2\) kui töötajate osalemist rakendava SCE registrijärgne asukoht viiakse ühest liikmesriigist teise, säilitatakse töötajate osalemisõigus vähemalt samal tasemel.
+
+(3) Kui pärast käesoleva paragrahvi lõikes 2 nimetatud SCE registreerimist vähemalt kolmandik SCE ja tema vähemalt kahes liikmesriigis asuvate kontrollitavate ettevõtjate ja ettevõtete töötajaid seda nõuab, kohaldatakse SCE suhtes käesoleva peatüki teist jagu, käsitades osaleva juriidilise isikuna SCE-d ning asjaomase kontrollitava ettevõtja või ettevõttena SCE kontrollitavat ettevõtjat või ettevõtet.
+
+(4) Kui pärast käesoleva paragrahvi lõikes 2 nimetatud SCE registreerimist jõuab selle töötajate koguarv vähemalt kahes liikmesriigis 50-ni või ületab selle, kohaldatakse SCE suhtes käesoleva peatüki teist jagu, käsitades osaleva juriidilise isikuna SCE-d ning asjaomase kontrollitava ettevõtja või ettevõttena SCE kontrollitavat ettevõtjat või ettevõtet.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+#### § 41<sup>2</sup>. Töötajate ühingu juhtimises osalemine äriühingute piiriülese ühinemise korral
+
+\[Kehtetu - RT I, 23.12.2022, 2 - jõust. 01.02.2023\]
+
+#### § 42. Euroopa äriühing ja Euroopa ühistu
+
+(1) Euroopa äriühing (SE) on äriühing, mis on asutatud vastavalt nõukogu määrusele (EÜ) nr 2157/2001 Euroopa äriühingu (SE) põhikirja kohta (EÜT L 294, 10.11.2001, lk 1–21).
+
+(2) Euroopa ühistu (SCE) on ühistu, mis on asutatud vastavalt nõukogu määrusele (EÜ) nr 1435/2003 Euroopa ühistu (SCE) põhikirja kohta (ELT L 207, 18.08.2003, lk 1–24).
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+#### § 43. Euroopa äriühingu asutamises osalevad äriühingud ja Euroopa ühistu asutamises osalevad juriidilised isikud
+
+(1) SE asutamises osalevad äriühingud käesoleva seaduse tähenduses on äriühingud, mis otseselt osalevad SE asutamises (edaspidi *SE asutamises osalevad juriidilised isikud*).
+
+(2) SCE asutamises osalevad juriidilised isikud käesoleva seaduse tähenduses on Euroopa Ühenduse asutamislepingu artikli 48 lõikes 2 nimetatud äriühingud, sealhulgas tulundusühistud, ning muud juriidilised isikud, mis on moodustatud liikmesriigi õiguse kohaselt ja mille suhtes seda õigust kohaldatakse ning mis otseselt osalevad SCE asutamisel.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+#### § 44. Asjaomane kontrollitav ettevõtja ja ettevõte
+
+Asjaomane kontrollitav ettevõtja või ettevõte käesoleva peatüki tähenduses on SE või SCE asutamises osaleva juriidilise isiku kontrollitav ettevõtja või ettevõte, millest saab SE või SCE asutamise tulemusena SE või SCE kontrollitav ettevõtja või ettevõte.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+#### § 45. Töötajate esindajate informeerimise ulatus
+
+SE ja SCE pädevad organid informeerivad töötajate esinduskogu või töötajate esindajaid küsimustes, mis puudutavad SE-d või SCE-d ja selle liikmesriikides asuvaid kontrollitavaid ettevõtjaid või ettevõtteid või mis ületavad ühes liikmesriigis tegutseva ettevõtte organi pädevust. Informeerimine toimub sellisel ajal, viisil ja sellise sisuga, mis lubab töötajate esindajatel otsuste võimalikku mõju põhjalikult uurida ja vajaduse korral valmistuda konsultatsioonideks SE või SCE pädeva organiga.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+#### § 46. Töötajate osalemine
+
+Töötajate osalemine käesoleva peatüki tähenduses on töötajate esinduskogu või töötajate poolt SE või SCE tegevuse mõjutamine järgmiste õiguste teostamise kaudu:
+
+1\) õigus valida või nimetada osa SE või SCE nõukogu, haldusnõukogu või juhatuse liikmetest või
+
+2\) õigus kõigi või osa SE või SCE nõukogu, haldusnõukogu või juhatuse liikmete nimetamise suhtes soovitusi anda või vastuseisu väljendada.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+#### § 47. Euroopa äriühingu ja Euroopa ühistu läbirääkimiste erikomisjon
+
+SE või SCE läbirääkimiste erikomisjon (edaspidi *läbirääkimiste erikomisjon*) on organ, mis on moodustatud eesmärgiga pidada SE või SCE asutamises osalevate juriidiliste isikute pädevate organitega läbirääkimisi töötajate kaasamise menetluse sisseseadmiseks SE-s või SCE-s.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+#### § 48. Töötajate esinduskogu
+
+Töötajate esinduskogu on töötajaid esindav organ, mis on moodustatud vastavalt käesoleva seaduse §-s 62 nimetatud kokkuleppele või vastavalt käesoleva peatüki 2. jao 3. jaotise sätetele eesmärgiga SE või SCE ja tema liikmesriikides asuvate kontrollitavate ettevõtjate ja ettevõtete töötajaid informeerida ja nendega konsulteerida ning vajaduse korral rakendada töötajate osalemise õigust SE-s või SCE-s.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+#### § 49. Töötajate esinduskogu ja Euroopa äriühingu või Euroopa ühistu pädeva organi koostöö
+
+(1) Töötajate esinduskogu ja SE või SCE pädev organ teevad koostööd vastastikuse usalduse alusel, arvestades vastastikuseid huve ja kohustusi.
+
+(2) Käesoleva paragrahvi lõikes 1 sätestatud põhimõtet kohaldatakse SE või SCE nõukogu, haldusnõukogu või juhatuse ja töötajate esindajate vahelisele koostööle seoses töötajate informeerimise ja konsulteerimise menetlusega.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+### 2. jagu — Töötajate esinduskogu asutamine ning töötajate kaasamise menetlus
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+#### 1. jaotis — Läbirääkimised töötajate kaasamise üle
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+##### § 50. Meetmed läbirääkimiste alustamiseks
+
+(1) Kui SE ja SCE asutamises osalevate juriidiliste isikute (edaspidi *osalevad juriidilised isikud*) juhatused või haldusnõukogud koostavad SE või SCE moodustamise kava, peavad nad kohe pärast ühinemislepingu või valdusäriühingu asutamiseks asutamislepingu sõlmimist või kontrollitava ettevõtja asutamise kava või äriühingu SE-ks või juriidilise isiku SCE-ks ümberkujundamise kava heakskiitmist võtma tarvitusele vajalikud meetmed, sealhulgas andma teavet osalevate juriidiliste isikute ning nende kontrollitavate ettevõtjate ja ettevõtete nimede ja nende töötajate arvu kohta, et alustada osalevate juriidiliste isikute töötajate esindajatega läbirääkimisi töötajate kaasamise korralduse üle SE-s või SCE-s.
+
+(2) Teave töötajate arvu kohta esitatakse liikmesriikide kaupa, näidates andmed kõikide asjaomaste ettevõtjate ja ettevõtete kohta eraldi.
+
+(3) Kui töötajatel on osalevates juriidilistes isikutes osalemise õigus, antakse lisaks käesoleva paragrahvi lõikes 1 sätestatud andmetele teavet ka töötajate osalemise vormi ja ulatuse kohta, näidates töötajate esindajate suhtarvu osalevate juriidiliste isikute töötajate koguarvust.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+##### § 51. Läbirääkimiste erikomisjoni moodustamine ja koosseis
+
+(1) Käesoleva seaduse §-s 50 nimetatud läbirääkimiste pidamiseks moodustatakse osalevate juriidiliste isikute ning asjaomaste kontrollitavate ettevõtjate või ettevõtete töötajate esindajatest läbirääkimiste erikomisjon.
+
+(2) Läbirääkimiste erikomisjoni liikmed valitakse või nimetatakse proportsionaalselt töötajate arvuga iga liikmesriigi kohta, kus asuvad osalevad juriidilised isikud ning asjaomased kontrollitavad ettevõtjad või ettevõtted, eraldades igale liikmesriigile ühe koha selle liikmesriigi töötajate arvu kohta, mis moodustab kuni 10% kõikide liikmesriikide osalevate juriidiliste isikute ning asjaomaste kontrollitavate ettevõtjate või ettevõtete töötajate arvust. Liikmed valitakse igas liikmesriigis vastavalt selles liikmesriigis ettenähtud valimise või nimetamise korrale.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+##### § 52. Läbirääkimiste erikomisjoni moodustamine Euroopa äriühingu või Euroopa ühistu asutamisel ühinemise teel
+
+(1) Kui läbirääkimiste erikomisjoni liikmed on käesoleva seaduse § 51 lõike 2 kohaselt valitud või nimetatud ning SE või SCE asutatakse ühinemise teel, valitakse või nimetatakse vastava liikmesriigi õiguse kohaselt täiendavad liikmed, kui ühinemise tulemusena iseseisva juriidilise isikuna tegevust lõpetav osalev juriidiline isik ei ole oma liikme kaudu esindatud.
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud täiendavate liikmete arv vastab läbirääkimiste erikomisjonis esindust mitteomavate osalevate juriidiliste isikute arvule. Täiendavate liikmete koguarv ei tohi ületada 20% käesoleva seaduse § 51 lõike 2 kohaselt määratud liikmete arvust.
+
+(3) Kui käesoleva seaduse § 51 lõike 2 kohaselt läbirääkimiste erikomisjonis liikme kaudu mitteesindatud osalevate juriidiliste isikute arv on alla 20% läbirääkimiste erikomisjoni liikmete arvust, esitab iga mitteesindatud osalev juriidiline isik ühe täiendava liikme.
+
+(4) Kui käesoleva seaduse § 51 lõike 2 kohaselt läbirääkimiste erikomisjonis liikme kaudu mitteesindatud osalevate juriidiliste isikute arv on üle 20% läbirääkimiste erikomisjoni liikmete arvust, jagatakse täiendavad kohad esindamata osalevate juriidiliste isikute vahel. Jaotus tehakse vastavalt osalevate juriidiliste isikute töötajate arvule. Täiendavate kohtade jaotust alustatakse suurimast osalevast juriidilisest isikust ja jätkatakse kahanevas järjestuses vastavalt töötajate arvule.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+##### § 53. Läbirääkimiste erikomisjoni koosseisu muutmine
+
+Kui läbirääkimisteks ettenähtud perioodil muutub oluliselt osalevate juriidiliste isikute töötajate arv või toimuvad muudatused osalevate juriidiliste isikute struktuuris ja need muudatused mõjutavad liikmesriikidele eraldatud kohtade jaotust, jaotatakse kohad ümber.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+##### § 54. Läbirääkimiste erikomisjoni Eesti töötajaid esindavate liikmete valimine
+
+(1) Eestis asuva osaleva juriidilise isiku ja asjaomase kontrollitava ettevõtja või ettevõtte töötajaid esindava läbirääkimiste erikomisjoni liige või liikmed valitakse käesoleva seaduse §-s 17 sätestatud korras, arvestades käesolevast paragrahvist tulenevaid erisusi.
+
+(2) Ühisesindus võtab läbirääkimiste erikomisjoni Eesti esindaja või esindajate valimisel arvesse järgmisi tingimusi:
+
+1\) iga osalev juriidiline isik on võimaluse korral läbirääkimiste erikomisjonis esindatud vähemalt ühe liikme kaudu;
+
+2\) kui läbirääkimiste erikomisjoni Eesti liikmete arv on väiksem kui SE või SCE asutamisel Eestis asuvate osalevate juriidiliste isikute arv, võetakse esmalt arvesse suurima töötajate arvuga osalev juriidiline isik.
+
+(3) Kui Eestil on õigus valida läbirääkimiste erikomisjoni täiendavaid liikmeid, valitakse need liikmed käesolevas paragrahvis sätestatud korras.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+##### § 55. Eesti töötajate esindatus läbirääkimiste erikomisjonis
+
+Kui esindatavate töötajate arv on läbirääkimiste erikomisjonis hääletamisel määrava tähtsusega, esindavad Eestist valitud liikmed töötajaid arvul, mis saadakse kõikide Eestis asuvate osalevate juriidiliste isikute, asjaomaste kontrollitavate ettevõtjate või ettevõtete töötajate koguarvu jagamisel läbirääkimiste erikomisjoni Eesti esindajate arvuga.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+##### § 56. Kokkuleppe sõlmimine ja läbirääkimiste erikomisjoni informeerimine
+
+(1) Läbirääkimiste erikomisjon ja osalevate juriidiliste isikute pädevad organid määravad kirjaliku kokkuleppega kindlaks töötajate kaasamise korra SE-s või SCE-s. Selleks informeerivad osalevate juriidiliste isikute pädevad organid läbirääkimiste erikomisjoni SE või SCE asutamise kavast ja selle tegelikust asutamisprotsessist kuni SE või SCE registrisse kandmiseni.
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud kokkulepe on selle jõustumise järel siduv SE-le või SCE-le, selle liikmesriikides asuvatele kontrollitavatele ettevõtjatele ja ettevõtetele ning nende töötajatele.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+##### § 57. Otsuste tegemine läbirääkimiste erikomisjonis
+
+(1) Läbirääkimiste erikomisjon võtab otsuseid vastu oma liikmete absoluutse häälteenamusega tingimusel, et see esindab ka töötajate absoluutset enamust. Igal läbirääkimiste erikomisjoni liikmel on üks hääl.
+
+(2) Kui läbirääkimiste tulemused viivad töötajate osalemise õiguse vähendamiseni, on sellise kokkuleppe heakskiitmiseks vajalik häälteenamus, mis moodustab vähemalt 2/3 läbirääkimiste erikomisjoni liikmete häältest, mis esindavad vähemalt 2/3 töötajatest, kaasa arvatud nende liikmete hääled, kes esindavad vähemalt kahe liikmesriigi töötajaid, kui:
+
+1\) SE või SCE asutatakse ühinemise teel ja kui osalemine hõlmab vähemalt 25% osalevate juriidiliste isikute töötajate koguarvust;
+
+2\) SE asutatakse valdusäriühingu või kontrollitava ettevõtja loomise teel ja kui osalemine hõlmab vähemalt 50% osalevate juriidiliste isikute töötajate koguarvust või
+
+3\) SCE asutatakse mis tahes muul moel kui ühinemise teel, kui osalemine hõlmab vähemalt 50% osalevate juriidiliste isikute töötajate koguarvust.
+
+(3) Töötajate osalemise õiguse vähendamisega on tegemist siis, kui SE või SCE nõukogu, haldusnõukogu või juhatuse liikmete suhtarv on väiksem kui osalevate juriidiliste isikute suurim suhtarv.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+##### § 58. Ekspertide kaasamine läbirääkimistesse
+
+(1) Läbirääkimiste eesmärgil võib läbirääkimiste erikomisjon kaasata enda valitud eksperte, et need läbirääkimiste erikomisjoni tema töös abistaksid. Ekspertidena võib muu hulgas kaasata Euroopa Ühenduse asjakohase tasandi ametiühingute esindajaid.
+
+(2) Eksperdid võivad läbirääkimiste erikomisjoni liikmete taotlusel osaleda läbirääkimistel nõuandva pädevusega, kui see on vajalik Euroopa Ühenduse tasandil ühtsuse ja järjepidevuse edendamise seisukohalt.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+##### § 59. Läbirääkimiste kestus
+
+(1) Läbirääkimised kestavad kuni kuus kuud läbirääkimiste erikomisjoni moodustamisest arvates.
+
+(2) Läbirääkimiste erikomisjon teatab läbirääkimiste alustamisest asjaomastele ametiühingutele ja muudele kolmandatele isikutele.
+
+(3) Pooled võivad kokkuleppel otsustada läbirääkimisi pikendada kuni ühe aastani läbirääkimiste erikomisjoni moodustamisest arvates.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+##### § 60. Läbirääkimiste erikomisjoni otsus läbirääkimiste alustamata jätmise või lõpetamise kohta
+
+(1) Läbirääkimiste erikomisjon võib käesoleva paragrahvi lõikes 2 sätestatud häälteenamusega otsustada, et läbirääkimisi ei alustata või lõpetatakse juba alustatud läbirääkimised ning rakendatakse töötajate informeerimise ja konsulteerimise reegleid, mis kehtivad selles liikmesriigis, kus SE-l või SCE-l on töötajaid. Otsus peatab käesoleva seaduse §-s 62 sätestatud kokkuleppe sõlmimise menetluse. Sellisel juhul ei kohaldata käesoleva jao 3. jaotises sätestatut.
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud otsuse tegemiseks on vaja 2/3 läbirääkimiste erikomisjoni nende liikmete häältest, kes esindavad vähemalt 2/3 töötajatest, kaasa arvatud nende liikmete hääled, kes esindavad vähemalt kahe liikmesriigi töötajaid.
+
+(3) Kui SE või SCE asutatakse ümberkujundamise teel, ei kohaldata käesolevat paragrahvi juhul, kui ümberkujundatavas juriidilises isikus on töötajatel osalemise õigus.
+
+(4) Läbirääkimiste erikomisjon kutsutakse uuesti kokku kõige varem kaks aastat pärast käesoleva paragrahvi lõikes 1 nimetatud otsuse tegemist, kui vähemalt 10% SE või SCE, tema kontrollitavate ettevõtjate või ettevõtete töötajatest või nende esindajad seda kirjalikult taotlevad, välja arvatud juhul, kui pooled lepivad kokku varasemas läbirääkimiste taasalustamises. Kui läbirääkimiste erikomisjon otsustab taasalustada läbirääkimisi, kuid läbirääkimiste tulemusena kokkuleppele ei jõuta, siis käesoleva jao 3. jaotises sätestatut ei kohaldata.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+##### § 61. Läbirääkimiste erikomisjoni kulud
+
+Osalevad juriidilised isikud hüvitavad läbirääkimiste erikomisjoni moodustamise ja tööga, sealhulgas nendega peetavate läbirääkimistega kaasnevad kulud käesoleva seaduse § 20 lõike 6 kohaselt.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+#### 2. jaotis — Töötajate kaasamise kokkulepe
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+##### § 62. Töötajate kaasamise kokkulepe
+
+(1) Osalevate juriidiliste isikute pädevad organid ja läbirääkimiste erikomisjon peavad koostöö ja vastastikuse usalduse alusel läbirääkimisi eesmärgiga jõuda kokkuleppele SE või SCE töötajate kaasamise menetluse suhtes.
+
+(2) Arvestades käesoleva paragrahvi lõikes 4 sätestatud erisust, määratakse lõikes 1 nimetatud osalevate juriidiliste isikute pädevate organite ja läbirääkimiste erikomisjoni vahelise kirjaliku kokkuleppega kindlaks:
+
+1\) kokkuleppe kohaldamisala;
+
+2\) esinduskogu koosseis, liikmete arv ning kohtade jaotus ja see, kes on SE või SCE pädeva organi arutelupartner SE või SCE, tema kontrollitavate ettevõtjate ja ettevõtete töötajate informeerimise ja konsulteerimise korra küsimustes;
+
+3\) esinduskogu ülesanded ning informeerimis- ja konsulteerimismenetlus;
+
+4\) esinduskogu koosolekute sagedus;
+
+5\) esinduskogule eraldatud rahalised ja materiaalsed vahendid;
+
+6\) kui pooled läbirääkimiste käigus otsustavad esinduskogu moodustamise asemel sisse seada informeerimis- ja konsulteerimismenetluse, siis selle rakendamise kord;
+
+7\) kui pooled läbirääkimiste käigus otsustavad sisse seada töötajate osalemise korra, siis selle korra sisu, kaasa arvatud vajaduse korral SE või SCE nõukogu, haldusnõukogu või juhatuse liikmete arv, keda töötajatel on õigus valida, nimetada, soovitada või tagasi lükata, ja nende liikmete valimise, nimetamise, soovitamise või tagasilükkamise kord ning liikmete õigused;
+
+8\) kokkuleppe jõustumise kuupäev ja kokkuleppe kestus, samuti asjaolud, mille esinemise korral kokkulepe uuesti läbi räägitakse, ja kokkuleppe uuendamise kord.
+
+(3) Käesoleva paragrahvi lõike 2 punkti 8 kohaldamisel SCE suhtes võib uusi läbirääkimisi alustada juhul, kui SCE või tema kontrollitava ettevõtja või ettevõtte struktuur pärast SCE asutamist muutub.
+
+(4) Kui SE või SCE on loodud ümberkujundamise teel, tagab kokkulepe, et töötajate kaasamine säilitatakse vähemalt samal tasemel kui selles juriidilises isikus, mis kujundatakse ümber SE-ks või SCE-ks, arvestades muu hulgas käesoleva seaduse § 41 lõikes 4 sätestatut.
+
+(5) Kokkuleppele kirjutavad alla osalevate juriidiliste isikute esindajad ning kokkuleppe poolt hääletanud läbirääkimiste erikomisjoni liikmed. Kokkuleppele lisatakse koosoleku protokoll, kus näidatakse läbirääkimiste erikomisjoni hääletustulemused.
+
+(6) Käesoleva paragrahvi lõikega 2 vastuolus sõlmitud kokkulepe on tühine. Sellisel juhul kohaldatakse käesoleva jao 3. jaotises sätestatut.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+#### 3. jaotis — Seadusjärgne töötajate esinduskogu ja töötajate kaasamine
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+##### 1. alljaotis — Üldsätted
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+###### § 63. Seadusjärgse töötajate esinduskogu asutamine
+
+Töötajate esinduskogu asutatakse käesoleva jaotise kohaselt alates SE või SCE Eestis registreerimise kuupäevast, kui:
+
+1\) pooled selles kokku lepivad või
+
+2\) käesoleva seaduse §-s 59 sätestatud tähtajaks ei ole kokkulepet sõlmitud ja iga osaleva juriidilise isiku pädev organ otsustab jätkata SE või SCE registreerimist ning läbirääkimiste erikomisjon ei ole vastu võtnud § 60 lõikes 1 nimetatud otsust.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+###### § 64. Töötajate osalemist reguleerivate sätete kohaldamine
+
+(1) Käesoleva jaotise töötajate osalemist reguleerivaid sätteid kohaldatakse, kui SE asutatakse ümberkujundamise ja ühinemise teel ning valdusäriühingu ja kontrollitava ettevõtja asutamise teel või kui SCE asutatakse mis tahes moel.
+
+(2) Töötajate osalemist reguleerivaid sätteid kohaldatakse SE või SCE asutamisel ümberkujundamise teel, kui liikmesriigis kehtivaid töötajate nõukogus, haldusnõukogus või juhatuses osalemise reegleid kohaldati SE-ks või SCE-ks ümberkujundatud juriidilise isiku suhtes.
+
+(3) Töötajate osalemist reguleerivaid sätteid kohaldatakse SE või SCE asutamisel ühinemise teel, kui:
+
+1\) enne SE või SCE registreerimist kohaldati ühes või mitmes osalevas juriidilises isikus üht või mitut osalemise vormi, mis hõlmab vähemalt 25% kõigi osalevate juriidiliste isikute töötajate koguarvust või
+
+2\) enne SE või SCE registreerimist kohaldati ühes või mitmes osalevas juriidilises isikus üht või mitut osalemise vormi, mis hõlmab vähem kui 25% kõigi osalevate juriidiliste isikute töötajate koguarvust, ja kui läbirääkimiste erikomisjon nii otsustab.
+
+(4) Töötajate osalemist reguleerivaid sätteid kohaldatakse SE asutamisel valdusäriühingu või kontrollitava ettevõtja asutamise teel, kui:
+
+1\) enne SE registreerimist kohaldati ühes või mitmes osalevas juriidilises isikus üht või mitut osalemise vormi, mis hõlmab vähemalt 50% kõigi osalevate juriidiliste isikute töötajate koguarvust või
+
+2\) enne SE registreerimist kohaldati ühes või mitmes osalevas juriidilises isikus üht või mitut osalemise vormi, mis hõlmab vähem kui 50% kõigi osalevate juriidiliste isikute töötajate koguarvust, ja kui läbirääkimiste erikomisjon nii otsustab.
+
+(5) Töötajate osalemist reguleerivaid sätteid kohaldatakse SCE asutamisel muul moel kui ümberkujundamise või ühinemise teel, kui:
+
+1\) enne SCE registreerimist kohaldati ühes või mitmes osalevas juriidilises isikus üht või mitut osalemise vormi, mis hõlmab vähemalt 50% kõigi osalevate juriidiliste isikute töötajate koguarvust või
+
+2\) enne SCE registreerimist kohaldati ühes või mitmes osalevas juriidilises isikus üht või mitut osalemise vormi, mis hõlmab vähem kui 50% kõigi osalevate juriidiliste isikute töötajate koguarvust, ja kui läbirääkimiste erikomisjon nii otsustab.
+
+(6) Läbirääkimiste erikomisjon informeerib osalevate juriidiliste isikute pädevaid organeid käesoleva paragrahvi lõike 3 punkti 2, lõike 4 punkti 2 ja lõike 5 punkti 2 kohaselt tehtud otsusest.
+
+(7) Kui ühegi osaleva juriidilise isiku suhtes ei kohaldatud enne SE või SCE registreerimist töötajate osalemise sätteid, ei ole SE või SCE kohustatud kehtestama töötajate osalemist reguleerivaid sätteid.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+##### 2. alljaotis — Töötajate esinduskogu
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+###### § 65. Töötajate esinduskogu koosseis
+
+(1) Töötajate esinduskogu koosseisu kuuluvad SE või SCE, tema kontrollitavate ettevõtjate ja ettevõtete töötajad, kes valitakse või nimetatakse igas vastavas liikmesriigis selleks ettenähtud korras.
+
+(2) Töötajate esinduskogu liikmed valitakse või nimetatakse vastavalt iga liikmesriigi osalevate juriidiliste isikute ja asjaomaste kontrollitavate ettevõtjate ja ettevõtete töötajate arvule, eraldades igale liikmesriigile ühe koha selle riigi töötajate arvu kohta, mis moodustab kuni 10% kõikides liikmesriikides asuvate osalevate juriidiliste isikute ja asjaomaste kontrollitavate ettevõtjate ja ettevõtete töötajate koguarvust.
+
+(3) SE või SCE pädevale organile tehakse teatavaks töötajate esinduskogu koosseis.
+
+(4) Kui osalevate juriidiliste isikute töötajate arv oluliselt muutub või toimuvad muud muudatused osalevate juriidiliste isikute struktuuris ja need muudatused mõjutavad esinduskogu kohtade jaotust ja liikmete arvu, viiakse esinduskogu liikmekohtade jaotus ja arv vastavusse toimunud muudatustega.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+###### § 66. Töötajate esinduskogu Eesti töötajaid esindavate liikmete valimine
+
+Töötajate esinduskogu Eesti töötajaid esindavate liikmete valimisel kohaldatakse käesoleva seaduse §-s 54 sätestatut.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+###### § 67. Juhtkomisjon ja töökord
+
+(1) Esinduskogu võib moodustada kuni kolmeliikmelise juhtkomisjoni.
+
+(2) Esinduskogu võtab vastu oma töökorra.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+###### § 68. Kokkuleppe sõlmimiseks läbirääkimiste alustamine
+
+(1) Neli aastat pärast töötajate esinduskogu moodustamist selgitab esinduskogu, kas alustada läbirääkimisi käesoleva seaduse § 62 lõikes 1 nimetatud kokkuleppe sõlmimiseks või jätkata käesoleva jaotise sätete kohaldamist.
+
+(2) Kui võetakse vastu otsus pidada läbirääkimisi kokkuleppe sõlmimiseks, on esinduskogul samad õigused ja kohustused nagu läbirääkimiste erikomisjonil vastavalt käesoleva seaduse §-des 55–62 sätestatule. Kui läbirääkimiste lõpupäevaks ei ole kokkulepet sõlmitud, jätkatakse käesoleva jaotise kohaselt esialgse korra kohaldamist.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+###### § 69. Töötajate esinduskogu tegevuse kulude hüvitamine
+
+SE või SCE hüvitab töötajate esinduskogu ja juhtkomisjoni tegevusega seotud kulud vastavalt käesoleva seaduse §-s 32 sätestatule.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+###### § 69<sup>1</sup>. Töötajate esinduskogu liikme õigus töövabale ajale koolitusel osalemiseks
+
+Töötajate esinduskogu liikmel on õigus koolitusel osalemiseks saada töövaba aega koos palga säilitamisega, kui koolitus on vajalik esinduskogu liikme ülesannete täitmiseks. Koolituseks võimaldatakse vähemalt 14 kalendripäeva aastas keskmise palga säilitamisega.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+##### 3. alljaotis — Töötajate kaasamine
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+###### § 70. Töötajate esinduskogu pädevus informeerimisel ja konsulteerimisel
+
+Töötajate esinduskogu pädevus informeerimisel ja konsulteerimisel on piiratud küsimustega, mis puudutavad SE-d või SCE-d ennast ja tema mõnda teise liikmesriigi territooriumil asuvat kontrollitavat ettevõtjat või ettevõtet, või küsimustega, mille puhul ühe liikmesriigi otsuseid tegevad organid ei ole pädevad otsustama.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+###### § 71. Töötajate esinduskogu korraline informeerimine ja konsulteerimine
+
+(1) Töötajate esinduskogul on õigus informeerimisele ja konsulteerimisele pädeva organi koostatud regulaarselt esitatavate aruannete alusel, mis käsitlevad SE või SCE tegevust ja edasist arengut, ning sellel eesmärgil kohtuda SE või SCE pädeva organiga vähemalt üks kord aastas. Sellest teavitatakse ka kohalikke juhtimise eest vastutavaid isikuid.
+
+(2) SE või SCE pädev organ esitab esinduskogule haldusnõukogu, juhatuse ja nõukogu koosoleku päevakorra ning ärakirjad kõikidest dokumentidest, mis on esitatud aktsionäride või SCE liikmete üldkoosolekule.
+
+(3) Koosolekul käsitletakse eelkõige ettevõtjate ja ettevõtete struktuuri, majanduslikku ja finantsolukorda, äri-, tootmis- ja müügitegevuse võimalikku arengut, tööhõive olukorda ja selle võimalikku arengut, investeeringuid, olulisi töökorralduslikke muudatusi, uute tööviiside ja tootmisprotsesside sisseseadmist, tootmise üleviimist, ettevõtjate ühinemist, jagunemist, ümberkujundamist ja tegevuse lõpetamist, samuti ettevõtete või nende oluliste osade üleminekut ning töölepingute kollektiivset lõpetamist.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+###### § 72. Informeerimine ja konsulteerimine erakorraliste asjaolude ilmnemisel
+
+(1) Töötajate esinduskogul on õigus saada teavet töötajate huve olulisel määral mõjutavate asjaolude kohta, eelkõige ettevõtete sulgemise, ümberpaigutamise ja ülemineku ning töölepingute kollektiivse lõpetamise kohta.
+
+(2) Töötajate esinduskogul on õigus taotleda kohtumist SE või SCE pädeva organiga ning SE või SCE iga juhtimistasandi iseseisvat otsustusõigust omavate juhtimise eest vastutavate isikutega, et saada teavet töötajate huve oluliselt puudutavate meetmete kohta ning pidada nendes küsimustes konsultatsioone. Kiireloomulistes asjades on juhtkomisjonil õigus taotleda kohtumist töötajate esinduskogu otsuse alusel.
+
+(3) Kui pädev organ otsustab mitte tegutseda vastavalt esinduskogu arvamusele, on esinduskogul õigus taotleda uut kohtumist SE või SCE pädeva organiga. Uuel kohtumisel üritavad pooled jõuda kokkuleppele.
+
+(4) Juhtkomisjoniga kohtumisest on õigus osa võtta ka nendel esinduskogu liikmetel, kes esindavad töötajaid, keda rakendatavad meetmed otseselt mõjutavad.
+
+(5) Käesolevas paragrahvis sätestatu ei mõjuta pädeva organi õigusi.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+###### § 73. Informeerimis- ja konsulteerimiskoosolekute korraldus
+
+(1) Enne kohtumist SE või SCE pädeva organiga on töötajate sellise esinduskogu või juhtkomisjoni liikmetel, mille koosseisu vastavalt käesoleva seaduse § 72 lõikele 4 on vajaduse korral laiendatud, õigus omavahel kohtuda pädeva organi esindajate juuresolekuta.
+
+(2) Esinduskogu või juhtkomisjon võib kasutada enda valitud ekspertide abi.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+###### § 74. Töötajate esindajate informeerimine koosolekute tulemustest
+
+Töötajate esinduskogu liikmed informeerivad SE või SCE, tema kontrollitavate ettevõtjate ja ettevõtete töötajate esindajaid informeerimis- ja konsulteerimismenetluse sisust ja tulemustest.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+###### § 75. Töötajate osalemine Euroopa äriühingus ja Euroopa ühistus
+
+(1) Kui SE või SCE on asutatud ümberkujundamise teel ja enne SE või SCE registreerimist kohaldati liikmesriigi õigusaktide sätteid töötajate osalemisele nõukogus, haldusnõukogus või juhatuses, jätkatakse SE või SCE suhtes töötajate osalemise kõikide sätete kohaldamist. Käesoleva paragrahvi lõikeid 2–6 kohaldatakse töötajate osalemisele, arvestades SE või SCE asutamisest tulenevaid erisusi.
+
+(2) Kui SE või SCE on asutatud muul viisil kui ümberkujundamise teel, on SE või SCE, tema kontrollitavate ettevõtjate ja ettevõtete töötajatel või töötajate esinduskogul õigus valida, nimetada, soovitada või tagasi lükata osa SE või SCE nõukogu, haldusnõukogu või juhatuse liikmetest, arvestades, et liikmete arv vastab osalevate juriidiliste isikute suurimale suhtarvule enne SE või SCE registreerimist.
+
+(3) Kui osalevates juriidilistes isikutes esineb mitu töötajate osalemise vormi, otsustab läbirääkimiste erikomisjon, milline neist vormidest kehtestada SE-s või SCE-s. Läbirääkimiste erikomisjon informeerib osalevate juriidiliste isikute pädevaid organeid käesoleva lõike kohaselt tehtud otsusest.
+
+(4) Töötajate esinduskogu otsustab proportsionaalselt SE või SCE töötajate arvuga igas liikmesriigis nõukogu, haldusnõukogu või juhatuse kohtade jaotuse eri liikmesriikide töötajaid esindavate liikmete vahel või millisel viisil SE või SCE töötajad võivad nende organite liikmete nimetamisel soovitusi anda või vastuseisu väljendada.
+
+(5) Kui kohtade jaotuse tagajärjel ei ole liikmesriigi töötajatel nõukogus, haldusnõukogus või juhatuses esindajat, määrab töötajate esinduskogu ühe käesoleva paragrahvi lõike 4 kohaselt jagatud kohtadest sellele liikmesriigile, eelistades SE või SCE registrijärgse asukoha liikmesriiki. Kui SE või SCE registrijärgse asukoha liikmesriigi esindajale on koht juba eraldatud, määratakse koht liikmesriigile, kus on kõige rohkem töötajaid.
+
+(6) Töötajate esinduskogu või töötajate valitud, nimetatud või soovitatud SE või SCE nõukogu, haldusnõukogu või juhatuse liige on täisliige, kellel on samad õigused ja kohustused nagu aktsionäre või SCE liikmeid esindavatel liikmetel, kaasa arvatud õigus hääletada.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+###### § 76. Euroopa äriühingu või Euroopa ühistu nõukogu, haldusnõukogu või juhatuse Eesti töötajaid esindava liikme valimine
+
+Kui Eestile on eraldatud SE või SCE nõukogus, haldusnõukogus või juhatuses üks või mitu kohta, valitakse töötajaid esindav liige või liikmed käesoleva seaduse §-s 54 sätestatud korras, arvestades SE või SCE nõukogu, haldusnõukogu või juhatuse liikme või liikmete valimise erisusi.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+### 3. jagu — Erisätted
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+#### § 77. Töötajate kaasamise takistamise keeld
+
+(1) Keelatud on töötajate esinduskogu ja läbirääkimiste erikomisjoni õigusi piirata, sealhulgas takistada ja mõjutada nende moodustamist ning tegevust, samuti informeerimis-, konsulteerimis- ja osalemismenetluse sisseseadmist ning teostamist.
+
+(2) Keelatud on mõjutada ja takistada töötajate esinduskogu liikmete, läbirääkimiste erikomisjoni liikmete ning informeerimis-, konsulteerimis- ja osalemismenetluses osalevate töötajate esindajate tegevust nende õiguste piiramise või eeliste lubamise kaudu.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+#### § 78. Konfidentsiaalne teave
+
+(1) Läbirääkimiste erikomisjoni liikmetel, töötajate esinduskogu liikmetel, kaasatud ekspertidel ja tõlkidel ning käesoleva seaduse § 62 lõike 2 punkti 6 kohaselt informeerimis- ja konsulteerimismenetluses osalevatel töötajate esindajatel on keelatud avaldada kolmandatele isikutele või muul viisil käesoleva seaduse vastaselt kasutada neile nende ülesannete täitmisel selgelt konfidentsiaalsena edastatud teavet. Konfidentsiaalse teabe hoidmise kohustus jätkub ka pärast nimetatud isikute volituste lõppemist.
+
+(2) Kui käesoleva paragrahvi lõikes 1 nimetatud isikud, välja arvatud eksperdid ja tõlgid, ei nõustu edastatud teabe konfidentsiaalsusega, on SE või SCE või osaleva juriidilise isiku nõukogu, haldusnõukogu või juhatus kohustatud töötajate esindaja nõudmisel põhjendama teabe konfidentsiaalsust.
+
+(3) Käesoleva paragrahvi lõikes 1 nimetatud kohustus ei laiene töötajate esinduskogu liikme suhtlemisele teiste vastava esinduskogu liikmetega ning SE või SCE, tema kontrollitavate ettevõtjate ja ettevõtete töötajate esindajatega, kui nendele tuleb käesoleva seaduse §-s 62 sätestatud kokkuleppe või § 74 kohaselt teatavaks teha informeerimis- ja konsulteerimismenetluse sisu ja tulemused, samuti suhtlemisele tõlkide ja ekspertidega, kes abistavad esinduskogu tema töös.
+
+(4) Sarnaselt käesoleva paragrahvi lõikes 3 sätestatud erandiga ei laiene lõikes 1 sätestatud kohustus:
+
+1\) läbirääkimiste erikomisjoni liikme suhtlemisele ekspertide ja tõlkidega;
+
+2\) töötajate esindajale, kes käesoleva seaduse § 62 lõike 2 punktis 6 nimetatud kokkuleppe kohaselt suhtleb informeerimis- ja konsulteerimismenetluses tõlkide ja ekspertidega ning Eestis asuva SE või SCE, tema kontrollitavate ettevõtjate ja ettevõtete töötajate esindajatega, kui neile tuleb § 62 lõike 2 punktis 6 sätestatud kokkuleppe kohaselt teatavaks teha informeerimis- ja konsulteerimismenetluse sisu ja tulemused.
+
+(5) SE või SCE või osaleva juriidilise isiku nõukogu, haldusnõukogu või juhatus võib keelduda teabe andmisest, kui objektiivsete kriteeriumide põhjal otsustades sellise iseloomuga teabe avalikustamine oluliselt kahjustab või võib kahjustada osaleva juriidilise isiku või SE või SCE või tema kontrollitavate ettevõtjate ja ettevõtete tegevust. See õigus ei laiene teabele töötajate arvu kohta. Teabe andmisest keeldumise korral on SE või SCE või osaleva juriidilise isiku nõukogu, haldusnõukogu või juhatus kohustatud esitama objektiivsetele kriteeriumidele tugineva põhjenduse, miks teabe avaldamine oluliselt kahjustab või võib kahjustada ettevõtja või ettevõtte tegevust.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+#### § 79. Konfidentsiaalse teabega seotud vaidluse lahendamine kohtus
+
+Käesoleva seaduse § 78 lõikes 2 nimetatud töötajate esindajal on õigus pöörduda edastatud teabe konfidentsiaalsusest ja teabe andmisest keeldumisest tuleneva vaidluse lahendamiseks kohtusse.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+#### § 80. Kaasamises osalevate töötajate esindajate tagatised
+
+Eestis töötavate läbirääkimiste erikomisjoni liikmete, töötajate esinduskogu liikmete, informeerimis- ja konsulteerimisülesannete täitmisega seotud töötajate esindajate ning SE või SCE nõukogusse, haldusnõukogusse või juhatusse kuuluvate töötajate esindajate, kes on SE või SCE, tema kontrollitava ettevõtja või ettevõtte või osaleva juriidilise isiku töötajad, tagatiste suhtes kohaldatakse käesoleva seaduse §-s 40 sätestatut.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+#### § 81. Euroopa äriühingu ja Euroopa ühistu väärkasutus
+
+(1) Kui pärast SE või SCE registreerimist tehakse olulisi muudatusi SE-s või SCE-s tema kontrollitava ettevõtjaga või ettevõttega seoses ning võib järeldada, et SE või SCE asutamisel oli eesmärk töötajad kaasamise õigusest ilma jätta või nende õiguste kasutamist piirata, peetakse uued läbirääkimised.
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud läbirääkimisi alustatakse töötajate esinduskogu või SE või SCE uute kontrollitavate ettevõtjate või ettevõtete töötajate esindajate kirjalikul taotlusel. Läbirääkimiste pidamiseks kohaldatakse SE või SCE asutamisel ettenähtud töötajate kaasamise läbirääkimiste korraldust, arvestades, et:
+
+1\) osalevaid juriidilisi isikuid käsitatakse pärast SE või SCE registreerimist vastavalt SE-na või SCE-na ning tema kontrollitavate ettevõtjate ja ettevõtetena;
+
+2\) läbirääkimiste erikomisjoni käsitatakse pärast SE või SCE registreerimist töötajate esinduskoguna;
+
+3\) käesoleva seaduse § 64 lõigetes 3–5 sätestatud SE või SCE registreerimisele eelnevat perioodi käsitatakse läbirääkimiste ebaõnnestumisele eelnenud perioodina.
+
+(3) Käesoleva paragrahvi lõikes 1 sätestatud oluliste muudatuste all mõeldakse muudatusi SE või SCE ning tema kontrollitavate ettevõtjate ja ettevõtete struktuuris, töötajate arvus või registrijärgses asukohas, kui need oleksid käesoleva seaduse § 64 kohaselt põhjustanud käesoleva peatüki 2. jao 3. jaotise teistsuguse kohaldamise ning kui §-s 64 nimetatud asjaolud oleksid esinenud enne SE või SCE asutamist ja sellel ajal peetud läbirääkimised oleksid ebaõnnestunud.
+
+(4) Kui ei suudeta tõendada vastupidist, eeldatakse, et käesoleva paragrahvi lõikes 1 nimetatud olulised muudatused näitavad kavatsust asutada SE või SCE viisil, mis jätab töötajad ilma kaasamise õigusest või piirab seda õigust juhul, kui olulised muudatused esinevad SE või SCE registreerimisele järgneva aasta jooksul.
+
+(5) Kui SE või SCE asutati eesmärgiga jätta töötajad ilma kaasamise õigusest või seda õigust piirata, ei ole käesoleva paragrahvi lõikes 1 sätestatud läbirääkimiste pidamine piiratud SE või SCE asutamisele järgnevate muudatustega.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+#### § 82. Euroopa äriühingu ja Euroopa ühistu väärkasutusega seotud vaidluse lahendamine kohtus
+
+(1) Töötajate esinduskogu liikmel ja SE või SCE uute kontrollitavate ettevõtjate või ettevõtete töötajate esindajal on õigus pöörduda SE või SCE väärkasutusest tuleneva vaidluse lahendamiseks kohtusse läbirääkimiste õiguse tunnustamise nõudega.
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud nõue aegub ühe aasta jooksul, arvates päevast, millal töötajate esinduskogu liige või SE või SCE uute kontrollitavate ettevõtjate või ettevõtete töötajate esindaja sai teada või pidi teada saama oluliste muudatuste esinemisest SE-s või SCE-s.
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+## 3<sup>1</sup>. peatükk — TÖÖTAJATE KAASAMINE ÄRIÜHINGUTE PIIRIÜLESE ÜHINEMISE, JAGUNEMISE JA ÜMBERKUJUNDAMISE KORRAL
+
+\[RT I, 23.12.2022, 2 - jõust. 01.02.2023\]
+
+### § 82<sup>1</sup>. Töötajate informeerimine ja nendega konsulteerimine piiriülese ühinemise, jagunemise ja ümberkujundamise korral
+
+(1) Äriühingute piiriülesel ühinemisel, jagunemisel ja ümberkujundamisel tuleb tagada töötajate õigus informeerimisele ja nendega konsulteerimisele vastavalt töötajate usaldusisiku seaduses ja käesolevas seaduses sätestatule.
+
+(2) Piiriüleses ühinemises, jagunemises või ümberkujundamises osalev Eesti äriregistrisse kantud osaühing või aktsiaselts informeerib töötajaid ja konsulteerib nendega enne piiriülese ühinemise või jagunemise lepingu projekti või ümberkujundamisotsuse projekti või ühinemis-, jagunemis- või ümberkujundamisaruande heakskiitmist, olenevalt mis on varajasem. Töötajate poolt konsulteerimise käigus esitatud arvamustele ja ettepanekutele tuleb anda põhjendatud vastus enne piiriülese ühinemise või jagunemise lepingu projekti või ümberkujundamisotsuse projekti heakskiitmist osanike koosolekul või aktsionäride üldkoosolekul.
+
+(3) Käesoleva paragrahvi lõigetes 1 ja 2 sätestatu ei piira töötajatele soodsamate sätete kohaldamist.
+
+\[RT I, 23.12.2022, 2 - jõust. 01.02.2023\]
+
+### § 82<sup>2</sup>. Töötajate ühingu juhtimises osalemine äriühingute piiriülese ühinemise korral
+
+(1) Kui Eesti äriregistrisse kantud osaühing või aktsiaselts osaleb piiriüleses ühinemises äriseadustiku § 433<sup>1</sup> lõike 1 tähenduses ühendava äriühinguna, osalevad töötajad ühinemise tulemusena tekkiva äriühingu juhtimises käesoleva seaduse §-s 46 sätestatud õiguste teostamise kaudu. Töötajate äriühingu juhtimises osalemise õiguse kindlaksmääramisel kohaldatakse Euroopa äriühingu (SE) põhikirja kohta nõukogu määruse (EÜ) nr 2157/2001 artikli 12 lõigetes 2–4 sätestatut, samuti käesoleva seaduse § 41 lõigetes 1 ja 3, §-des 50–59 ja 61, § 62 lõikes 1, lõike 2 punktides 1, 7 ja 8 ning lõigetes 3, 5 ja 6, §-s 63, § 64 lõikes 1, lõike 3 punktis 1 ning lõigetes 6 ja 7, § 75 lõikes 2 ning §-des 76–80 ja 83–88 sätestatut.
+
+(2) Käesoleva paragrahvi lõiget 1 kohaldatakse juhul, kui piiriüleses ühinemises osaleb ühendava ühinguna Eesti äriregistrisse kantud osaühing või aktsiaselts ja vähemalt ühe piiriüleses ühinemises osaleva äriühingu keskmine töötajate arv kuue kuu jooksul enne piirülese ühinemise lepingu projekti avaldamist on võrdne nelja viiendikuga ühineva äriühingu registrijärgse asukoha lepinguriigi õiguses sätestatud kohaldatavast künnisest, millest alates tekib töötajatele käesoleva seaduse §-le 46 vastav osalusõigus.
+
+(3) Käesoleva seaduse § 64 lõike 3 punktis 1 sätestatud protsendimäära asemel rakendatakse 33 ⅓-list protsendimäära.
+
+(4) Käesoleva paragrahvi lõikes 2 nimetatud piiriülese ühinemise juhul, kui ühes ühinevatest äriühingutest rakendatakse käesoleva seaduse §-le 46 vastavat töötajate osaluse süsteemi, võivad ühingute juhatused otsustada, et ühinemise registrisse kandmisest alates kohaldatakse töötajate ühingu juhtimises osalemise korda vastavalt ühendava äriühingu registrijärgse asukoha lepinguriigi õigusele.
+
+(5) Käesoleva paragrahvi lõikes 2 nimetatud piiriülese ühinemise juhul võib käesoleva seaduse §-s 51 nimetatud läbirääkimiste erikomisjon selliste liikmete kahekolmandikulise häälteenamusega, kes esindavad kahte kolmandikku ühinevate ühingute töötajatest, sealhulgas nende liikmete hääled, kes esindavad töötajaid vähemalt kahes eri lepinguriigis, otsustada mitte alustada läbirääkimisi § 50 tähenduses või alustatud läbirääkimised lõpetada ning kohaldada töötajate äriühingu juhtimises osalemisel ühendava äriühingu registrijärgse asukoha lepinguriigi õigust.
+
+(6) Kui piiriülese ühinemise tulemusel Eesti äriregistrisse kantud osaühing või aktsiaselts rakendab käesoleva seaduse §-st 46 tulenevat töötajate osalemise süsteemi, peab nimetatud äriühing nelja aasta jooksul ühinemise registrisse kandmisest arvates tagama samaväärse töötajate osalemise süsteemi rakendumise nii riigisisese kui ka piiriülese ühinemise, jagunemise ja ümberkujundamise korral.
+
+(7) Äriühing teatab oma töötajatele või nende esindajatele, kas ta otsustab kohaldada käesoleva seaduse § 75 lõikes 2 sätestatut või alustab läbirääkimisi § 51 lõike 1 alusel moodustatud läbirääkimiste erikomisjonis. Viimasel juhul teavitab äriühing oma töötajaid või nende esindajaid läbirääkimiste tulemusest esimesel võimalusel.
+
+\[RT I, 23.12.2022, 2 - jõust. 01.02.2023\]
+
+### § 82<sup>3</sup>. Töötajate ühingu juhtimises osalemine äriühingu piiriülese jagunemise korral
+
+(1) Kui Eesti äriregistrisse kantud osaühing või aktsiaselts osaleb piiriüleses jagunemises äriseadustiku § 477<sup>1</sup> lõike 1 tähenduses omandava äriühinguna, osalevad töötajad jagunemise tulemusena tekkiva äriühingu juhtimises käesoleva seaduse §-s 46 sätestatud õiguste teostamise kaudu. Töötajate äriühingu juhtimises osalemise õiguse kindlaksmääramisel kohaldatakse Euroopa äriühingu (SE) põhikirja kohta nõukogu määruse (EÜ) nr 2157/2001 artikli 12 lõigetes 2 ja 4 sätestatut, samuti käesoleva seaduse § 41 lõigetes 1 ja 3, §-des 50–51 ja 53–56, § 57 lõikes 1, §-des 58, 59 ja 61, § 62 lõikes 1, lõike 2 punktides 1, 7 ja 8 ning lõigetes 4–6, §-s 63 (välja arvatud punktis 2 nimetatud läbirääkimiste erikomisjoni otsuse puudumise nõue) ning §-des 75–88 sätestatut.
+
+(2) Käesoleva paragrahvi lõiget 1 kohaldatakse juhul, kui piiriüleses jagunemises osaleb omandava ühinguna Eesti äriregistrisse kantud osaühing või aktsiaselts ja jaguneva äriühingu keskmine töötajate arv kuue kuu jooksul enne piirülese jagunemise lepingu avaldamist on võrdne nelja viiendikuga jaguneva äriühingu registrijärgse asukoha lepinguriigi õiguses sätestatud kohaldatavast künnisest, millest alates tekib töötajatele käesoleva seaduse §-le 46 vastav osalusõigus.
+
+(3) Käesoleva paragrahvi lõikes 2 nimetatud piiriülese jagunemise juhul võib käesoleva seaduse §-s 51 nimetatud läbirääkimiste erikomisjon selliste liikmete kahekolmandikulise häälteenamusega, kes esindavad vähemalt kahte kolmandikku töötajatest, otsustada mitte alustada läbirääkimisi § 50 tähenduses või alustatud läbirääkimised lõpetada ning kohaldada töötajate äriühingu juhtimises osalemisel iga omandava äriühingu registrijärgse asukoha lepinguriigi õigust.
+
+(4) Käesoleva paragrahvi lõikes 2 nimetatud piiriülese jagunemise juhul kohaldatakse enne äriühingu jagunemist kohaldatud töötajate osalust reguleerivat jaguneva äriühingu registrijärgse asukoha lepinguriigi õigust kuni uute kokkulepitavate töötaja osaluse reeglite kohaldamise kuupäevani või kokkulepitavate reeglite puudumise korral seni, kuni rakendatakse töötajate osaluse reegleid vastavalt käesoleva seaduse § 75 lõikele 1.
+
+(5) Kui piiriüleses jagunemises omandava äriühinguna osalev Eesti äriregistrisse kantud osaühing või aktsiaselts rakendab käesoleva seaduse §-st 46 tulenevat töötajate osalemise süsteemi, peavad nimetatud äriühingud nelja aasta jooksul piiriülese jagunemise registrisse kandmisest arvates tagama samaväärse töötajate osalemise süsteemi rakendumise nii riigisisese kui ka piiriülese ühinemise, jagunemise ja ümberkujundamise korral.
+
+(6) Äriühing teatab oma töötajatele või nende esindajatele töötajate osalust käsitlevate läbirääkimiste tulemusest esimesel võimalusel.
+
+\[RT I, 23.12.2022, 2 - jõust. 01.02.2023\]
+
+### § 82<sup>4</sup>. Töötajate ühingu juhtimises osalemine äriühingu piiriülese ümberkujundamise korral
+
+(1) Kui Eesti äriregistrisse kantud või kantav osaühing või aktsiaselts osaleb piiriüleses ümberkujundamises äriseadustiku § 491<sup>1</sup> lõike 1 tähenduses ümberkujundatud ühinguna, osalevad töötajad ümberkujundamise tulemusena tekkiva äriühingu juhtimises käesoleva seaduse §-s 46 sätestatud õiguste teostamise kaudu. Töötajate äriühingu juhtimises osalemise õiguse kindlaksmääramisel kohaldatakse nõukogu määrusega (EÜ) nr 2157/2001 Euroopa äriühingu (SE) põhikirja kohta, artikli 12 lõigetes 2 ja 4 sätestatut, samuti käesoleva seaduse § 41 lõigetes 1 ja 3, §-des 50–51 ja 53–56, § 57 lõikes 1, §-des 58, 59 ja 61, § 62 lõikes 1, lõike 2 punktides 1, 7 ja 8 ning lõigetes 4–6, §-s 63 (välja arvatud punktis 2 nimetatud läbirääkimiste erikomisjoni otsuse puudumise nõue) ning §-des 75–88 sätestatut.
+
+(2) Käesoleva paragrahvi lõiget 1 kohaldatakse juhul, kui piiriülese ümberkujundamise tulemusena kantakse Eesti äriregistrisse osaühing või aktsiaselts ja ümberkujundatava äriühingu keskmine töötajate arv kuue kuu jooksul enne piirülese ümberkujundamise otsuse projekti avaldamist on võrdne nelja viiendikuga ümberkujundatava äriühingu registrijärgse asukoha lepinguriigi õiguses sätestatud kohaldatavast künnisest, millest alates tekib töötajatele käesoleva seaduse §-le 46 vastav osalusõigus.
+
+(3) Käesoleva paragrahvi lõikes 2 nimetatud piiriülese ümberkujundamise juhul võib käesoleva seaduse §-s 51 nimetatud läbirääkimiste erikomisjon selliste liikmete kahekolmandikulise häälteenamusega, kes esindavad vähemalt kahte kolmandikku ümberkujundatud äriühingu töötajatest, otsustada mitte alustada läbirääkimisi § 50 tähenduses või alustatud läbirääkimised lõpetada ning kohaldada töötajate äriühingu juhtimises osalemisel ümberkujundatud äriühingu registrijärgse asukoha lepinguriigi õigust.
+
+(4) Käesoleva paragrahvi lõikes 2 nimetatud piiriülese ümberkujundamise juhul kohaldatakse enne äriühingu ümberkujundamist kohaldatud töötajate osalust reguleerivat ümberkujundatava äriühingu registrijärgse asukoha lepinguriigi õigust kuni uute kokkulepitavate töötaja osaluse reeglite kohaldamise kuupäevani või kokkulepitavate reeglite puudumise korral seni, kuni alustatakse töötajate osaluse reeglite rakendamist vastavalt käesoleva seaduse § 75 lõikele 1.
+
+(5) Kui piiriülese ümberkujundamise tulemusena Eesti äriregistrisse kantud osaühing või aktsiaselts rakendab käesoleva seaduse §-st 46 tulenevat töötajate osalemise süsteemi, peab ta nelja aasta jooksul piiriülese ümberkujundamise jõustumisest arvates tagama samaväärse töötajate osalemise süsteemi rakendumise nii riigisisese kui ka piiriülese ühinemise, jagunemise ja ümberkujundamise korral.
+
+(6) Äriühing teatab oma töötajatele või nende esindajatele töötajate osalust käsitlevate läbirääkimiste tulemusest esimesel võimalusel.
+
+\[RT I, 23.12.2022, 2 - jõust. 01.02.2023\]
+
+## 4. peatükk — RIIKLIK JÄRELEVALVE
+
+\[RT I 2007, 22, 112 - jõust. 23.03.2007\]
+
+### § 83. Riikliku järelevalve teostamine
+
+(1) Olenemata üleühenduselise ettevõtja või üleühenduselise ettevõtjate grupi kontrolliva ettevõtja keskjuhatuse asukohast või SE või SCE registrijärgsest asukohast, teostab riiklikku järelevalvet käesoleva seaduse nõuete täitmise üle Tööinspektsioon.
+
+\[RT I, 28.04.2017, 1 - jõust. 08.05.2017\]
+
+(2) \[Kehtetu - RT I, 28.04.2017, 1 - jõust. 08.05.2017\]
+
+(3) Tööinspektsioon võib käesolevas seaduses sätestatud riikliku järelevalve teostamiseks kohaldada korrakaitseseaduse §-des 30–32 ja 49–51 sätestatud riikliku järelevalve erimeetmeid korrakaitseseaduses sätestatud alusel ja korras.
+
+\[RT I, 28.04.2017, 1 - jõust. 08.05.2017\]
+
+### § 84. Ettekirjutuse vaidemenetlus
+
+\[Kehtetu - RT I, 28.04.2017, 1 - jõust. 08.05.2017\]
+
+## 5. peatükk — VASTUTUS
+
+### § 85. Riikidevahelise informeerimise ja konsulteerimise ning töötajate kaasamise takistamise keelu rikkumine
+
+(1) Riikidevahelise informeerimise, konsulteerimise või töötajate kaasamise takistamise eest –\
+karistatakse rahatrahviga kuni 300 trahviühikut.
+
+\[RT I, 29.12.2020, 2 - jõust. 08.01.2021\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 32 000 eurot.
+
+\[RT I, 29.12.2020, 2 - jõust. 08.01.2021\]
+
+### § 85<sup>1</sup>. Konfidentsiaalse teabe hoidmise kohustuse rikkumine
+
+Konfidentsiaalse teabe hoidmise kohustuse rikkumise eest läbirääkimiste erikomisjoni liikme, Euroopa töönõukogu ja töötajate esinduskogu liikme, informeerimisse ja konsulteerimisse kaasatud eksperdi ja tõlgi ning seaduse § 22 ja § 62 lõike 2 punkti 6 kohaselt informeerimis- ja konsulteerimismenetluses osalevate töötajate esindajate poolt –\
+karistatakse rahatrahviga kuni 300 trahviühikut.
+
+\[RT I, 29.12.2020, 2 - jõust. 08.01.2021\]
+
+### § 86. Töötajate arvu ja nende jaotuse kohta teabe esitamise kohustuse rikkumine
+
+(1) Töötajate arvu või nende jaotuse kohta liikmesriikides teabe esitamata jätmise või ebapiisava teavitamise või valeandmete esitamise eest –\
+karistatakse rahatrahviga kuni 300 trahviühikut.
+
+\[RT I, 29.12.2020, 2 - jõust. 08.01.2021\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 32 000 eurot.
+
+\[RT I, 29.12.2020, 2 - jõust. 08.01.2021\]
+
+### § 87. Iga-aastase ning erakorralise informeerimise ja konsulteerimise kohustuse rikkumine
+
+(1) Iga-aastase või erakorralistel asjaoludel toimuva informeerimise või konsulteerimise kohustuse täitmata jätmise, ebapiisava teavitamise või valeandmete esitamise eest –\
+karistatakse rahatrahviga kuni 300 trahviühikut.
+
+\[RT I, 29.12.2020, 2 - jõust. 08.01.2021\]
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –\
+karistatakse rahatrahviga kuni 32 000 eurot.
+
+\[RT I, 29.12.2020, 2 - jõust. 08.01.2021\]
+
+### § 88. Menetlus
+
+(1) \[Kehtetu - RT I, 12.07.2014, 1 - jõust. 01.01.2015\]
+
+(2) Käesoleva seaduse §-des 85–87 sätestatud väärtegude kohtuväline menetleja on Tööinspektsioon.
+
+## 6. peatükk — SEADUSE RAKENDAMINE
+
+### § 89. Kehtivad kokkulepped
+
+(1) Käesoleva seaduse 2. peatükki ei kohaldata üleühenduselisele ettevõtjale või ettevõtjate grupile, kus käesoleva seaduse jõustumise ajal kehtib kokkulepe, mis hõlmab üleühenduselise ettevõtja või ettevõtjate grupi töötajate informeerimist ja konsulteerimist.
+
+(1<sup>1</sup>) Käesoleva seaduse 2. peatükki, välja arvatud käesoleva seaduse § 22<sup>1</sup>, ei kohaldata üleühenduselisele ettevõtjale või ettevõtjate grupile, kus:
+
+1\) nõukogu direktiivi 94/45/EÜ Euroopa töönõukogu asutamise või töötajate teavitamis- ja nõustamiskorra sisseseadmise kohta liikmesriigiülestes ettevõtetes või kontsernides (EÜT L 254, 30.09.1994, lk 64–72) artikli 13 lõike 1 või nõukogu direktiivi 97/74/EÜ, millega laiendatakse Suurbritannia ja Põhja-Iiri Ühendkuningriigi suhtes direktiivi 94/45/EÜ Euroopa töönõukogu asutamise või töötajate teavitamis- ja nõustamiskorra sisseseadmise kohta liikmesriigiülestes ettevõtetes või kontsernides (EÜT L 10, 16.01.1998, lk 22–23) artikli 3 lõike 1 alusel on sõlmitud kokkulepe, mis hõlmab üleühenduselise ettevõtja või ettevõtjate grupi töötajate informeerimist ja konsulteerimist, või
+
+2\) nõukogu direktiivi 94/45/EÜ Euroopa töönõukogu asutamise või töötajate teavitamis- ja nõustamiskorra sisseseadmise kohta liikmesriigiülestes ettevõtetes või kontsernides (EÜT L 254, 30.09.1994, lk 64–72) artikli 6 alusel sõlmitud kokkulepe on alla kirjutatud või läbi vaadatud ajavahemikul 5. juunist 2009 kuni 4. juunini 2011.
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+(1<sup>2</sup>) Käesoleva paragrahvi lõike 1<sup>1</sup> punktis 2 nimetatud ettevõtjate suhtes kohaldatakse sätteid, mis kehtisid kokkuleppe allakirjutamise või läbivaatamise ajal.
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+(2) Käesoleva paragrahvi lõigetes 1 ja 1<sup>1</sup> nimetatud kokkuleppe lõppemisel võivad pooled kokkulepet pikendada. Kui pooled kokkulepet ei pikenda, kohaldatakse käesolevat seadust.
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+---
+
+<sup>1</sup> Euroopa Parlamendi ja nõukogu direktiiv 2009/38/EÜ Euroopa töönõukogu asutamise või töötajate teavitamise ja nendega konsulteerimise korra sisseseadmise kohta liikmesriigiülestes ettevõtetes või kontsernides (ELT L 122, 16.05.2009, lk 28–44);\
+Euroopa Parlamendi ja nõukogu direktiiv 2005/56/EÜ piiratud vastutusega äriühingute piiriülese ühinemise kohta (ELT L 310, 25.11.2005, lk 1–9);\
+nõukogu direktiiv 2003/72/EÜ, millega täiendatakse Euroopa ühistu põhikirja töötajate kaasamise osas (ELT L 207, 18.08.2003, lk 25–36);\
+nõukogu direktiiv 2001/86/EÜ, millega täiendatakse Euroopa äriühingu põhikirja töötajate kaasamise suhtes (EÜT L 294, 10.11.2001, lk 22–32).\
+Viiteid direktiiviga 2009/38/EÜ kehtetuks tunnistatud direktiividele käsitatakse viidetena direktiivile 2009/38/EÜ.
+
+\[RT I, 04.07.2011, 1 - jõust. 14.07.2011\]
+
+Euroopa Parlamendi ja nõukogu direktiiv (EL) 2015/1794, millega muudetakse Euroopa Parlamendi ja nõukogu direktiive 2008/94/EÜ, 2009/38/EÜ ja 2002/14/EÜ ning nõukogu direktiive 98/59/EÜ ja 2001/23/EÜ seoses meremeestega (ELT L 263, 08.10.2015, lk 1–5).
+
+\[RT I, 01.03.2017, 2 - jõust. 10.10.2017\]

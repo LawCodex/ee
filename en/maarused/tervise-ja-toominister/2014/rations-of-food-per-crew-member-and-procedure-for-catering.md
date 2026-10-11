@@ -14,7 +14,7 @@ date: 2014-07-23
 last_amended: 2020-03-09
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/512082020004"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "106032020018"
 ---
@@ -22,8 +22,6 @@ translation_of: "106032020018"
 # Rations of Food per Crew Member and Procedure for Catering
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 This Regulation is established under § 28 (2) of the Seafarers Employment Act.
 
@@ -123,7 +121,7 @@ Water that meets the requirements for potable water established under the Water 
 
 ---
 
-Council Directive (EU) 2017/159 implementing the Agreement concerning the implementation of the Work in Fishing Convention, 2007 of the International Labour Organisation, concluded on 21 May 2012 between the General Confederation of Agricultural Cooperatives in the European Union (Cogeca), the European Transport Workers’ Federation (ETF) and the Association of National Organisations of Fishing Enterprises in the European Union (Europêche) (OJ L 25, 31.01.2017, pp. 12–35). 
+<sup>1</sup> Council Directive (EU) 2017/159 implementing the Agreement concerning the implementation of the Work in Fishing Convention, 2007 of the International Labour Organisation, concluded on 21 May 2012 between the General Confederation of Agricultural Cooperatives in the European Union (Cogeca), the European Transport Workers’ Federation (ETF) and the Association of National Organisations of Fishing Enterprises in the European Union (Europêche) (OJ L 25, 31.01.2017, pp. 12–35). 
 \[RT I, 06.03.2020, 12 – entry into force 09.03.2020\]
 
 ## Annexes

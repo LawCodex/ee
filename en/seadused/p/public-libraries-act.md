@@ -13,7 +13,7 @@ date: 1998-11-12
 last_amended: 2019-03-15
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/504042019006"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "113032019127"
 ---
@@ -166,9 +166,7 @@ Assets in the possession of a public library shall be possessed, used and dispos
 
 \[RT I, 04.07.2017, 1 - entry into force 01.01.2018\]
 
-\[Repealed - RT I, 04.07.2017, 1 - entry into force 01.01.2018\]
-
-(3)
+(3) \[Repealed - RT I, 04.07.2017, 1 - entry into force 01.01.2018\]
 
 (4) A public library shall submit reports prescribed by legislation on its activities. A rural municipality or city government shall submit a report on the use of the amounts allocated from the state budget to the Ministry of Culture each year by 20 January at the latest.
 

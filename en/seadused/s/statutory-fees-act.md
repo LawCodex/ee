@@ -14,7 +14,7 @@ date: 2014-12-10
 last_amended: 2026-08-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/520072026013"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "111072026166"
 ---
@@ -22,8 +22,6 @@ translation_of: "111072026166"
 # Statutory Fees Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Part 1 — GENERAL PART
 
@@ -49,9 +47,7 @@ A statutory fee is established for consideration of a petition, appeal or applic
 
 (2) Based on the purpose of an act, the benefits received as a result of the act, and material public interest, above all, based on social or economic policy considerations, the statutory fee rate may be established on different bases than the cost principle.
 
-\[Repealed – RT I, 30.12.2023, 1 - entry into force 01.01.2024\]
-
-(3)
+(3) \[Repealed – RT I, 30.12.2023, 1 - entry into force 01.01.2024\]
 
 #### § 5. Payers of statutory fee
 
@@ -178,9 +174,7 @@ An application for the refund of a statutory fee is not considered where:
 
 (3) Upon refund of a statutory fee paid in court proceedings, the necessary costs incurred in the proceedings are deducted from the amount subject to refund.
 
-\[Repealed – RT I, 04.12.2019, 2 - entry into force 01.04.2020\]
-
-(4)
+(4) \[Repealed – RT I, 04.12.2019, 2 - entry into force 01.04.2020\]
 
 (5) Upon dismissal of an application for an activity licence for organising games of chance or totos, 93 per cent of the statutory fee paid at the rate provided in clauses 1 and 3 of § 260 of this Act is refunded.
 
@@ -303,9 +297,7 @@ An agency of a local authority or an agency administered thereby is exempt from 
 
 12\) consideration of a court claim or appeal for compensation for damage caused by bodily injury, other health disorder or the death of a provider.
 
-\[repealed – RT I, 28.11.2017, 1 - entry into force 01.01.2018\]
-
-13\)
+13\) \[repealed – RT I, 28.11.2017, 1 - entry into force 01.01.2018\]
 
 13<sup>1</sup>) issue of an electronic document, and initial issue of a printout of an electronic document to a party to a proceeding for conducting the proceeding;
 
@@ -515,9 +507,7 @@ An agency of a local authority or an agency administered thereby is exempt from 
 
 \[RT I, 30.12.2023, 1 - entry into force 01.07.2024\]
 
-\[Repealed – RT I, 30.12.2023, 1 - entry into force 01.07.2024\]
-
-(2)
+(2) \[Repealed – RT I, 30.12.2023, 1 - entry into force 01.07.2024\]
 
 #### § 29. Exemption from payment of statutory fees for acts of register of greenhouse gas emission credits trading
 
@@ -683,17 +673,11 @@ The Police and Border Guard Board and consular officers have the right to exempt
 
 \[RT I, 29.06.2024, 3 - entry into force 01.01.2025\]
 
-\[repealed – RT I, 29.06.2024, 3 - entry into force 01.01.2025\]
+2\) \[repealed – RT I, 29.06.2024, 3 - entry into force 01.01.2025\]
 
-2\)
+3\) \[repealed – RT I, 29.06.2024, 3 - entry into force 01.01.2025\]
 
-\[repealed – RT I, 29.06.2024, 3 - entry into force 01.01.2025\]
-
-3\)
-
-\[repealed – RT I, 29.06.2024, 3 - entry into force 01.01.2025\]
-
-4\)
+4\) \[repealed – RT I, 29.06.2024, 3 - entry into force 01.01.2025\]
 
 5\) family members, registered partners, minor children and adult children of citizens of Estonia, who due to health condition or disability are not able to cope independently, if they travel to an Estonian citizen or with an Estonian citizen;
 
@@ -807,9 +791,7 @@ Advocates of foreign states are exempt from the payment of statutory fees for co
 
 (1) State museums or performing arts institutions, municipal museums or performing arts institutions, museums of public legal persons and the national opera, and museums or performing arts institutions operating as a foundation founded by the state or with the participation of the state are exempt from payment of the statutory fees provided in § 144 of this Act.
 
-\[Repealed – RT I, 15.12.2015, 1 - entry into force 01.01.2016\]
-
-(2)
+(2) \[Repealed – RT I, 15.12.2015, 1 - entry into force 01.01.2016\]
 
 #### § 51. Exemption from payment of statutory fees of person filing application for change of timetable
 
@@ -871,9 +853,7 @@ The acts specified in §§ 289–292 of this Act carried out by the Health Board
 
 3\) 500 euros in case of general secondary education;
 
-\[repealed – RT I, 23.03.2015, 5 - entry into force 01.07.2015\]
-
-4\)
+4\) \[repealed – RT I, 23.03.2015, 5 - entry into force 01.07.2015\]
 
 (2) A statutory fee of 500 euros per study programme group is paid for consideration of an application for right to organise studies at the level of higher education.
 
@@ -1081,9 +1061,7 @@ A statutory fee of 100 euros is paid for submission of a curriculum of micro-cre
 
 (1) A statutory fee of 0.30 euros for each issued page starting from the 21st page is paid for issue of a duplicate copy of a judgment or court order, a procedural document of pre-action proceedings or extrajudicial proceedings or other document in judicial proceedings, and for issue of a printout of an electronic document.
 
-\[Repealed – RT I, 15.12.2015, 1 - entry into force 01.01.2016\]
-
-(2)
+(2) \[Repealed – RT I, 15.12.2015, 1 - entry into force 01.01.2016\]
 
 #### Subchapter 2 — Acts of Registration Department and Land Registry Department of Tartu District Court
 
@@ -1593,9 +1571,7 @@ A statutory fee is paid as follows for acceptance of a European patent applicati
 
 ##### § 102. Making of registration
 
-\[Repealed – RT I, 19.03.2019, 5 - entry into force 01.04.2019\]
-
-(1)
+(1) \[Repealed – RT I, 19.03.2019, 5 - entry into force 01.04.2019\]
 
 (2) A statutory fee of 96 euros is paid for registration of an invention in the register of patents.
 
@@ -3158,9 +3134,7 @@ A statutory fee of 30 euros is paid for consideration of an application for issu
 
 \[RT I, 30.12.2023, 1 - entry into force 01.07.2024\]
 
-\[Repealed – RT I, 30.12.2023, 1 - entry into force 01.07.2024\]
-
-(2)
+(2) \[Repealed – RT I, 30.12.2023, 1 - entry into force 01.07.2024\]
 
 ###### Subdivision 3 — Acts Performed on Basis of Ports Act
 
@@ -3304,9 +3278,7 @@ A statutory fee of 40 euros is paid for consideration of an application for the 
 
 \[RT I, 30.12.2023, 1 - entry into force 01.07.2024\]
 
-\[Repealed – RT I, 30.12.2023, 1 - entry into force 01.07.2024\]
-
-(8)
+(8) \[Repealed – RT I, 30.12.2023, 1 - entry into force 01.07.2024\]
 
 (9) A statutory fee of 15 euros is paid for issue of a duplicate of a registration plate specified in subsections 1–3 of this section.
 
@@ -3392,13 +3364,9 @@ A statutory fee of 40 euros is paid for consideration of an application for the 
 
 \[RT I, 30.12.2023, 1 - entry into force 01.07.2024\]
 
-\[Repealed – RT I, 30.12.2023, 1 - entry into force 01.07.2024\]
+(3) \[Repealed – RT I, 30.12.2023, 1 - entry into force 01.07.2024\]
 
-(3)
-
-\[Repealed – RT I, 30.12.2023, 1 - entry into force 01.07.2024\]
-
-(4)
+(4) \[Repealed – RT I, 30.12.2023, 1 - entry into force 01.07.2024\]
 
 ###### § 142<sup>78</sup>. Issue of certificates of driving instructor and certificates of personal driving supervisor and activity licences to provide training to drivers of motor vehicles
 
@@ -4052,17 +4020,11 @@ A statutory fee for consideration of an application for an export licence for cu
 
 \[RT I, 21.06.2017, 1 - entry into force 04.07.2017\]
 
-\[Repealed – RT I, 21.06.2017, 1 - entry into force 04.07.2017\]
+(2) \[Repealed – RT I, 21.06.2017, 1 - entry into force 04.07.2017\]
 
-(2)
+(3) \[Repealed – RT I, 21.06.2017, 1 - entry into force 04.07.2017\]
 
-\[Repealed – RT I, 21.06.2017, 1 - entry into force 04.07.2017\]
-
-(3)
-
-\[Repealed – RT I, 21.06.2017, 1 - entry into force 04.07.2017\]
-
-(4)
+(4) \[Repealed – RT I, 21.06.2017, 1 - entry into force 04.07.2017\]
 
 (5) A statutory fee of 250 euros is paid for consideration of an application for an authorisation for risky blasting.
 
@@ -5302,9 +5264,7 @@ A statutory fee of 64 euros is paid for resolving an application for an activity
 
 \[RT I, 29.06.2024, 3 - entry into force 01.01.2025\]
 
-\[Repealed – RT I, 09.03.2018, 1 - entry into force 01.07.2018\]
-
-(3)
+(3) \[Repealed – RT I, 09.03.2018, 1 - entry into force 01.07.2018\]
 
 ###### § 265. Issue of special permits for import of weapons, essential components of firearms and ammunition into Estonia and export from Estonia
 
@@ -5326,9 +5286,7 @@ A statutory fee of 64 euros is paid for resolving an application for an activity
 
 \[RT I, 12.02.2020, 1 - entry into force 01.03.2020\]
 
-\[Repealed – RT I, 29.06.2024, 3 - entry into force 01.01.2025\]
-
-(1)
+(1) \[Repealed – RT I, 29.06.2024, 3 - entry into force 01.01.2025\]
 
 (2) A statutory fee of 120 euros per firearm is paid for issue of a prior authorisation or an authorisation for temporary or permanent conveyance of weapons and ammunition within the European Union.
 
@@ -5402,13 +5360,9 @@ A statutory fee of 130 euros is paid for administration of an examination for a 
 
 \[RT I, 12.03.2022, 2 - entry into force 15.03.2022\]
 
-\[Repealed – RT I, 21.06.2024, 3 - entry into force 30.12.2024\]
+3\) \[Repealed – RT I, 21.06.2024, 3 - entry into force 30.12.2024\]
 
-3\)
-
-\[Repealed – RT I, 21.06.2024, 3 - entry into force 30.12.2024\]
-
-(2)
+(2) \[Repealed – RT I, 21.06.2024, 3 - entry into force 30.12.2024\]
 
 ##### Division 5 — Acts Performed on Basis of State Secrets and Classified Information of Foreign States Act
 
@@ -5478,9 +5432,7 @@ A statutory fee is paid for consideration of an application for a Facility Secur
 
 \[RT I, 29.06.2024, 3 - entry into force 01.01.2025\]
 
-\[Repealed – RT I, 20.06.2022, 5 - entry into force 02.07.2022\]
-
-(4)
+(4) \[Repealed – RT I, 20.06.2022, 5 - entry into force 02.07.2022\]
 
 (5) \[Repealed - RT I, 26.06.2025, 1 - entry into force 06.07.2025\]
 
@@ -5496,9 +5448,7 @@ A statutory fee is paid for consideration of an application for a Facility Secur
 
 \[RT I, 29.06.2024, 3 - entry into force 01.01.2025\]
 
-\[Repealed – RT I, 20.06.2022, 5 - entry into force 30.06.2022\]
-
-(9)
+(9) \[Repealed – RT I, 20.06.2022, 5 - entry into force 30.06.2022\]
 
 (10) A statutory fee of 25 euros is paid for consideration of an application for issue of a travel document to a person under 18 years of age, a person with a moderate, severe or profound disability, a person who has received a residence permit on the basis of the Act on Granting International Protection to Foreign Nationals or a person who has attained the general pensionable age of Estonia. A statutory fee of 20 euros is paid where said act is requested via the self-service portal of the Police and Border Guard Board.
 
@@ -5593,9 +5543,7 @@ A statutory fee of 270 euros is paid for consideration of an application for an 
 
 \[RT I, 29.06.2024, 3 - entry into force 01.01.2025\]
 
-\[Repealed – RT I, 29.06.2024, 3 - entry into force 01.01.2025\]
-
-(4)
+(4) \[Repealed – RT I, 29.06.2024, 3 - entry into force 01.01.2025\]
 
 (5) A statutory fee of 115 euros, and 145 euros in foreign missions, is paid for consideration of an application for a temporary residence permit for settling with a spouse or registered partner who is an Estonian citizen or a close relative who is an Estonian citizen.
 
@@ -5648,9 +5596,7 @@ A statutory fee of 140 euros is paid for consideration of an application for reg
 
 \[RT I, 29.06.2024, 3 - entry into force 01.01.2025\]
 
-\[Repealed – RT I, 29.06.2024, 3 - entry into force 01.01.2025\]
-
-(2)
+(2) \[Repealed – RT I, 29.06.2024, 3 - entry into force 01.01.2025\]
 
 (3) A statutory fee of 120 euros is paid for consideration of an application for a long-stay visa.
 
@@ -5666,13 +5612,9 @@ A statutory fee of 140 euros is paid for consideration of an application for reg
 
 (5) In the cases prescribed by an international agreement entered into by the European Community, a statutory fee is paid at the rate provided by the international agreement.
 
-\[Repealed – RT I, 29.06.2024, 3 - entry into force 01.01.2025\]
+(6) \[Repealed – RT I, 29.06.2024, 3 - entry into force 01.01.2025\]
 
-(6)
-
-\[Repealed – RT I, 29.06.2024, 3 - entry into force 01.01.2025\]
-
-(7)
+(7) \[Repealed – RT I, 29.06.2024, 3 - entry into force 01.01.2025\]
 
 (8) A statutory fee of 60 euros is paid for consideration of an application for a long-stay visa for a child from age 6 to 11.
 
@@ -5683,9 +5625,7 @@ A statutory fee of 140 euros is paid for consideration of an application for reg
 
 (10) \[Repealed – RT I, 08.07.2025, 2 - entry into force 18.07.2025\]
 
-\[Repealed – RT I, 29.06.2024, 3 - entry into force 01.01.2025\]
-
-(11)
+(11) \[Repealed – RT I, 29.06.2024, 3 - entry into force 01.01.2025\]
 
 ###### § 276<sup>1</sup>. Consideration of challenges against decision on travel authorisation
 
@@ -5749,9 +5689,7 @@ A statutory fee is paid for consideration of an application for issue of an acti
 
 \[RT I, 20.12.2024, 1 - entry into force 01.01.2025\]
 
-\[repealed – RT I, 20.12.2024, 1 - entry into force 01.01.2025\]
-
-6\)
+6\) \[repealed – RT I, 20.12.2024, 1 - entry into force 01.01.2025\]
 
 7\) 300 euros for an activity licence for brokering of medicinal products.
 
@@ -6642,9 +6580,7 @@ A statutory fee of 90 euros is paid for making a divorce entry.
 
 \[RT I, 29.06.2024, 3 - entry into force 01.01.2025\]
 
-\[Repealed – RT I, 12.03.2022, 1 - entry into force 01.01.2023\]
-
-(1<sup>1</sup>)
+(1<sup>1</sup>) \[Repealed – RT I, 12.03.2022, 1 - entry into force 01.01.2023\]
 
 (1<sup>2</sup>) A statutory fee of 5 euros is paid where a certificate specified in subsection 1 of this section is issued in a secure online environment without direct intervention by an official.
 
@@ -6654,9 +6590,7 @@ A statutory fee of 90 euros is paid for making a divorce entry.
 
 \[RT I, 29.06.2024, 3 - entry into force 01.01.2025\]
 
-\[Repealed – RT I, 12.03.2022, 1 - entry into force 01.01.2023\]
-
-(2<sup>1</sup>)
+(2<sup>1</sup>) \[Repealed – RT I, 12.03.2022, 1 - entry into force 01.01.2023\]
 
 (3) A statutory fee of 20 euros is paid for issue of a certificate on the basis of Council Regulation (EU) 2019/1111 on jurisdiction, the recognition and enforcement of decisions in matrimonial matters and the matters of parental responsibility, and on international child abduction (recast) (OJ L 178, 2.7.2019, p. 1–115).
 
@@ -6950,7 +6884,9 @@ Section 51<sup>3</sup> of this Act is implemented retroactively as of 24 Februar
 
 ---
 
-Directive (EU) 2020/1828 of the European Parliament and of the Council on representative actions for the protection of the collective interests of consumers and repealing Directive 2009/22/EC (OJ L 409, 04.12.2020, pp 1–27).
+<sup>1</sup> Directive (EU) 2020/1828 of the European Parliament and of the Council on representative actions for the protection of the collective interests of consumers and repealing Directive 2009/22/EC (OJ L 409, 04.12.2020, pp 1–27).
+
+\[RT I, 31.12.2024, 5 - entry into force 01.01.2025\]
 
 ## Annexes
 

@@ -13,7 +13,7 @@ date: 2009-10-29
 last_amended: 2022-02-07
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/508022022001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "128012022003"
 ---
@@ -21,8 +21,6 @@ translation_of: "128012022003"
 # State Export Guarantees Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -295,5 +293,5 @@ This Act enters into force on the day following publication in the *Riigi Teataj
 
 ---
 
-Council Directive 98/29/EC on harmonisation of the main provisions concerning export credit insurance for transactions with medium and long-term cover (OJ L 148, 19.05.1998, p. 22–32); 
+<sup>1</sup> Council Directive 98/29/EC on harmonisation of the main provisions concerning export credit insurance for transactions with medium and long-term cover (OJ L 148, 19.05.1998, p. 22–32); 
 Council Directive 84/568/EEC concerning the reciprocal obligations of export credit insurance organizations of the Member States acting on behalf of the State or with its support, or of public departments acting in place of such organizations, in the case of joint guarantees for a contract involving one or more subcontracts in one or more Member States of the European Communities (OJ L 314, 4.12.1984, p. 24–27).

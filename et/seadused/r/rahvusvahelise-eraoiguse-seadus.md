@@ -1,0 +1,652 @@
+---
+title: "Rahvusvahelise eraõiguse seadus"
+identifier: "107052025016"
+rt_reference: "RT I, 07.05.2025, 16"
+rt_original: "RT I 2002, 35, 217"
+abbreviation: "REÕS"
+group_id: "155037"
+type: act
+issuer: "Riigikogu"
+text_type: "terviktekst"
+jurisdiction: ee
+language: et
+date: 2002-03-27
+last_amended: 2025-01-01
+status: in_force
+source: "https://www.riigiteataja.ee/akt/107052025016"
+retrieved: 2026-10-12
+---
+
+# Rahvusvahelise eraõiguse seadus
+
+## 1. osa — ÜLDSÄTTED
+
+## § 1. Seaduse kohaldamisala
+
+(1) Käesolevat seadust kohaldatakse juhtudel, mil õigussuhtel on kokkupuude rohkem kui ühe riigi õigusega.
+
+(2) Käesolevas seaduses sätestatut kohaldatakse üksnes ulatuses, milles ei ole sätestatud teisiti välislepingus või järgmistes Euroopa Liidu määrustes:
+
+1\) Euroopa Parlamendi ja nõukogu määrus (EÜ) nr 864/2007 lepinguväliste võlasuhete suhtes kohaldatava õiguse kohta („Rooma II”) (ELT L 199, 31.07.2007, lk 40–49);
+
+2\) Euroopa Parlamendi ja nõukogu määrus (EÜ) nr 593/2008 lepinguliste võlasuhete suhtes kohaldatava õiguse kohta („Rooma I”) (ELT L 177, 04.07.2008, lk 6–16);
+
+3\) nõukogu määrus (EÜ) nr 4/2009 kohtualluvuse, kohaldatava õiguse, kohtuotsuste tunnustamise ja täitmise ning koostöö kohta ülalpidamiskohustuste küsimustes (ELT L 007, 10.01.2009, lk 1–79);
+
+4\) Euroopa Parlamendi ja nõukogu määrus (EL) nr 650/2012, mis käsitleb kohtualluvust, kohaldatavat õigust ning otsuste tunnustamist ja täitmist, ametlike dokumentide vastuvõtmist ja täitmist pärimisasjades ning Euroopa pärimistunnistuse loomist (ELT L 201, 27.07.2012, lk 107–134);
+
+\[RT I, 10.03.2016, 2 - jõust. 20.03.2016\]
+
+5\) nõukogu määrus (EL) nr 1259/2010 tõhustatud koostöö rakendamise kohta abielulahutuse ja lahuselu suhtes kohaldatava õiguse valdkonnas (ELT L 343, 29.12.2010, lk 10–16).
+
+\[RT I, 10.03.2016, 2 - jõust. 01.07.2016\]
+
+## § 2. Välisriigi õiguse kohaldamine
+
+(1) Kui seaduse, välislepingu, käesoleva seaduse § 1 lõikes 2 nimetatud Euroopa Liidu määruse või tehingu kohaselt kuulub kohaldamisele välisriigi õigus, kohaldab kohus seda sellest sõltumata, kas selle kohaldamist taotletakse või mitte.
+
+(2) Kui seaduse, välislepingu või käesoleva seaduse § 1 lõikes 2 nimetatud Euroopa Liidu määruse kohaselt võib isik valida kohaldatava õiguse, võib isik sellist õigust kasutada kuni eelmenetluse lõppemiseni või kirjalikus menetluses taotluste esitamise tähtaja möödumiseni.
+
+(3) Välisriigi õiguse kohaldamisel lähtutakse kohaldatava õiguse tõlgendusest ja kohaldamise praktikast selles riigis.
+
+\[RT I, 10.03.2016, 2 - jõust. 20.03.2016\]
+
+## § 3. Mitme õiguskorraga riik
+
+Kui käesoleva seaduse säte viitab mitme õiguskorraga riigi õigusele, kohaldatakse selle riigi õigusega ettenähtud õiguskorda. Kui selle riigi õiguses vastavad sätted puuduvad, kohaldatakse õiguskorda, millega õigussuhte asjaolud on kõige tugevamalt seotud.
+
+## § 4. Välisriigi õiguse väljaselgitamine
+
+(1) Kohaldatava välisriigi õiguse sisu tehakse kindlaks asja menetleva kohtu poolt. Menetleval kohtul on õigus nõuda selleks poolte kaasabi.
+
+(2) Pooltel on õigus esitada kohtule dokumente välisriigi õiguse sisu kindlakstegemiseks. Kohus ei ole kohustatud poolte esitatud dokumentidest juhinduma.
+
+(3) Kohtul on õigus pöörduda abi saamiseks Eesti Vabariigi Justiits- ja Digiministeeriumi või Välisministeeriumi poole, samuti kasutada eksperte.
+
+\[RT I, 30.12.2024, 1 - jõust. 01.01.2025, Vabariigi Valitsuse seaduse § 105.19 lõike 12 alusel asendatud sõna „Justiitsministeeriumi” sõnadega „Justiits- ja Digiministeeriumi”\]
+
+(4) Kui välisriigi õiguse sisu ei ole kõigile pingutustele vaatamata võimalik mõistliku aja jooksul kindlaks teha, kohaldatakse Eesti õigust.
+
+## § 5. Haldusorgani ja notari õigused välisriigi õiguse kohaldamisel
+
+\[RT I, 10.03.2016, 2 - jõust. 20.03.2016\]
+
+Käesolevas seaduses kohtu kohta sätestatut kohaldatakse ka haldusorganitele ja notaritele.
+
+\[RT I, 10.03.2016, 2 - jõust. 20.03.2016\]
+
+## § 6. Tagasisaade ja edasiviide
+
+(1) Kui käesolev seadus näeb ette välisriigi õiguse kohaldamise (edasiviide), kohaldatakse selle riigi rahvusvahelise eraõiguse norme. Kui need näevad ette Eesti õiguse kohaldamise (tagasisaade), kohaldatakse Eesti materiaalõiguse norme.
+
+(2) Kui välisriigi õigus näeb ette kolmanda riigi õiguse kohaldamise, siis seda edasiviidet ei arvestata.
+
+(3) Kui käesoleva seaduse § 23<sup>1</sup>, §-d 55–60 registreeritud kooselu käsitlevas osas või 6. osa 1. peatüki 1. jao sätted näevad ette välisriigi õiguse kohaldamise, kohaldatakse selle riigi materiaalõiguse norme.
+
+\[RT I, 06.07.2023, 6 - jõust. 01.01.2024\]
+
+## § 7. Avalik kord
+
+Välisriigi õigust ei kohaldata, kui selle kohaldamine viiks tulemuseni, mis on ilmselgelt vastuolus Eesti õiguse oluliste põhimõtetega (avaliku korraga). Sellisel juhul kohaldatakse Eesti õigust.
+
+## § 8. Tehingu vorm
+
+Tehing on vormiliselt kehtiv, kui see vastab tehingule kohaldatava õiguse või tehingu tegemise riigi õiguse vorminõuetele.
+
+## § 9. Esindamine
+
+(1) Eeldustele, mille korral esindaja tehtud tehing tekitab esindatavale õigusi ja kohustusi kolmanda isiku suhtes, kohaldatakse selle riigi õigust, kus esindaja tegutses.
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud õigust kohaldatakse ka esindusõiguseta esindaja ja kolmanda isiku vahelisele suhtele.
+
+(3) Kinnisasjaõiguse käsutamiseks antud volitus peab vastama kinnisasja asukohariigi õiguse vorminõuetele.
+
+## 2. osa — FÜÜSILINE ISIK
+
+## § 10. Füüsilise isiku elukoht
+
+Füüsilise isiku elukoha kindlaksmääramisel kohaldatakse Eesti õigust.
+
+## § 11. Füüsilise isiku kodakondsus
+
+(1) Füüsilise isiku kodakondsus määratakse selle riigi õiguse järgi, mille kodakondsuse üle otsustatakse.
+
+(2) Kui füüsilisel isikul on mitme riigi kodakondsus, kohaldatakse selle riigi kodakondsust, millega isik on kõige tugevamalt seotud, kui käesolevas seaduses ei ole sätestatud teisiti.
+
+(3) Kui käesolevat seadust tuleb kohaldada kodakondsuseta isikutele või isikutele, kelle kodakondsust ei ole võimalik kindlaks teha, või pagulastele, arvestatakse kodakondsuse asemel isiku elukohta.
+
+## § 12. Füüsilise isiku õigus- ja teovõime
+
+(1) Füüsilise isiku õigus- ja teovõimele kohaldatakse tema elukohariigi õigust.
+
+(2) Elukoha vahetamine ei kitsenda kord omandatud teovõimet.
+
+(3) Isik, kes tegi tehingu, kuigi ta oli oma elukohariigi õiguse järgi teovõimetu või piiratud teovõimega, ei või oma teovõime puudusele tugineda, kui ta oleks olnud teovõimeline selle riigi õiguse järgi, kus ta tehingu tegi. See ei kehti juhul, kui teine pool tema teovõime puudusest teadis või teadma pidi.
+
+(4) Käesoleva paragrahvi lõikes 3 sätestatut ei kohaldata perekonna- ja pärimisõiguslikele tehingutele, samuti teises riigis asuvate kinnisasjade kohta käivatele tehingutele.
+
+## § 13. Surnuks tunnistamine
+
+(1) Surnuks tunnistamise eeldustele ja tagajärgedele kohaldatakse teadmata kadunu viimase teadaoleva elukohariigi õigust.
+
+(2) Kui käesoleva paragrahvi lõikes 1 nimetatud õiguseks on välisriigi õigus, võib teadmata kadunu surnuks tunnistada ka Eesti õiguse järgi, kui huvitatud isikul on selleks õigustatud huvi.
+
+## 3. osa — JURIIDILINE ISIK
+
+## § 14. Juriidilisele isikule kohaldatav õigus
+
+(1) Juriidilisele isikule kohaldatakse selle riigi õigust, mille kohaselt ta on asutatud.
+
+(2) Kui juriidilist isikut juhitakse tegelikult Eestis või tema põhitegevus toimub Eestis, kohaldatakse juriidilisele isikule Eesti õigust.
+
+## § 15. Kohaldatava õiguse ulatus
+
+Juriidilisele isikule kohaldatava õiguse alusel määratakse eelkõige:
+
+1\) juriidilise isiku õiguslik olemus;
+
+2\) juriidilise isiku teke ja lõppemine;
+
+3\) juriidilise isiku õigusvõime;
+
+4\) juriidilise isiku nimi või ärinimi;
+
+5\) juriidilise isiku organid;
+
+6\) juriidilise isiku sisesuhted;
+
+7\) vastutus juriidilise isiku kohustuste eest;
+
+8\) juriidilise isiku seadusjärgne esindus;
+
+9\) juriidilises isikus osaluse või sellega sarnase õiguse õiguslik olemus ning osaluse või õiguse tekkimise ja teostamise põhimõtted.
+
+\[RT I, 26.06.2017, 1 - jõust. 06.07.2017\]
+
+## § 16. Esindusõiguse piirang
+
+Juriidiline isik ei või tugineda oma organi esindusõiguse või juriidilise isiku enda õigusvõime piirangule, mis on tehingu teise poole elukoha või tegevuskoha õigusele tundmatu. See ei kehti juhul, kui teine pool sellisest piirangust teadis.
+
+## § 17. Muud isikute ühendused ja varakogumid
+
+(1) Käesolevas osas sätestatut kohaldatakse ka muudele organiseeritud isikute ühendustele ja varakogumitele.
+
+(2) Lepingulistele ühendustele, millel ei ole organisatsioonilist struktuuri, kohaldatakse käesolevas seaduses lepingute kohta sätestatut.
+
+## 4. osa — ESEMED
+
+## § 18. Asjaõigusele kohaldatav õigus
+
+(1) Asjaõiguse tekkimine ja lõppemine määratakse selle riigi õiguse järgi, kus asi asus asjaõiguse tekkimise või lõppemise ajal.
+
+(2) Asjaõigust ei saa teostada vastuolus asja asukohariigi õiguse oluliste põhimõtetega.
+
+(3) Kui vallasasi satub Eestisse ja asjaõiguse tekkimine või lõppemine ei ole välisriigis lõpule viidud, loetakse välisriigis toimunud sündmused Eestis toimunuks.
+
+(4) Kinnisasjalt lähtuvatest kahjulikest mõjutustest tulenevatele nõuetele kohaldatakse käesoleva seaduse § 50.
+
+## § 19. Asja asukohariigi õiguse kohaldamine õigusjärgluse korral
+
+Kui asjaõiguse tekkimine või lõppemine toimub üldõigusjärgluse teel, eelkõige perekonna- või pärimisõiguse alusel, kohaldatakse sellele õigust, mida kohaldatakse õigusjärglusele tervikuna, välja arvatud juhul kui ja niivõrd kuivõrd asja asukohariigi õiguse kohaselt tuleb ka üldõigusjärgluse korral kohaldada asja asukohariigi õigust.
+
+## § 20. Teel olev asi
+
+(1) Teel olevale asjale tehingu alusel asjaõiguse tekkimisele ja lõppemisele kohaldatakse asja sihtkohariigi õigust.
+
+(2) Pooled võivad kokku leppida ka asja lähtekohariigi või tehingule kohaldatava õiguse kohaldamises.
+
+(3) Kokkulepe kohaldatava õiguse kohta ei mõjuta kolmandate isikute õigusi asjale.
+
+## § 21. Kaubadokument
+
+(1) Kaubadokumendile kohaldatakse kaubadokumendis endas sätestatud õigust. Kui dokumendis ei ole kohaldatavat õigust määratud, kohaldatakse kaubadokumendile selle riigi õigust, kus asub dokumendi väljaandja tegevuskoht. Teel oleva asja kohta välja antud kaubadokumendile kohaldatakse asja sihtkohariigi õigust.
+
+(2) Kaubadokumendile kohaldatav õigus määrab, kas kaubadokumendi üleandmisel on asja omandamise jaoks samasugune tähendus kui asja enda üleandmisel. Kui kaubadokumendi üleandmisel on asja omandamise jaoks samasugune tähendus kui asja enda üleandmisel, kohaldatakse ka asjale kaubadokumendile kohaldatavat õigust.
+
+(3) Kui üks isik tugineb asjaõiguse kehtivusele kaubadokumendile kohaldatava õiguse alusel ning teine isik õiguse alusel, mida tuleks kohaldada, kui kaubadokumenti ei oleks välja antud, kohaldatakse õigust, mida tuleks kohaldada, kui kaubadokumenti ei oleks välja antud.
+
+## § 22. Transpordivahendid
+
+(1) Õhu-, vee- ja raudteesõidukile kohaldatakse selle päritoluriigi õigust. Päritoluriik on:
+
+1\) õhusõidukite puhul riikkondsuse riik;
+
+2\) veesõidukite puhul registreerimise koha riik, selle puudumisel kodusadama riik;
+
+3\) raudteesõidukite puhul riik, mis on andnud raudteesõiduki kasutamise loa.
+
+(2) Seadusest tulenevale pandi- või kinnipidamisõigusele, mis tagab transpordivahendiga tekitatud kahju hüvitamise või transpordivahendile tehtud kulutuste hüvitamise nõuet, kohaldatakse tagatavale nõudele kohaldatavat õigust. Erinevate riikide õiguste alusel tekkinud pandiõiguste korral on varem tekkinud pandiõigus eelistatud hiljem tekkinud pandiõiguse suhtes.
+
+## § 23. Intellektuaalne vara
+
+Intellektuaalsele varale, selle tekkimisele, sisule, lõppemisele ja kaitsele kohaldatakse selle riigi õigust, mille territooriumi jaoks sellele kaitset taotletakse.
+
+## § 23<sup>1</sup>. Registreeritud väärtpaber
+
+(1) Aktsiale, võlakohustusele ja muule õigusele, mida väljendatakse registrikande kaudu (registreeritud väärtpaber), kohaldatakse selle riigi õigust, kus vastavat registrit peetakse.
+
+(2) Kui üks isik (vahendaja) hoiab registreeritud väärtpaberit teise isiku jaoks ja arvel muus kui käesoleva paragrahvi lõikes 1 nimetatud registris või kontol (edaspidi *vahendatud väärtpaber*), kohaldatakse selles registris või kontol väljendatud õigusele selle riigi õigust, kus vahendatud väärtpaberi kohta registrit või kontot peetakse.
+
+\[RT I, 26.06.2017, 1 - jõust. 06.07.2017\]
+
+(3) Väärtpaberile kohaldatava õiguse alusel määratakse eelkõige:
+
+1\) väärtpaberi omajale kuuluva õiguse õiguslik olemus;
+
+2\) väärtpaberi omajale kuuluvate õiguste sisu, tekkimine ja lõppemine väärtpaberi suhtes;
+
+3\) väärtpaberi käsutamise tagajärjed väärtpaberist tulenevatele õigustele;
+
+4\) väärtpaberist tulenevate õiguste teostamise tingimused;
+
+5\) väärtpaberi kasutamine tagatisena, sealhulgas müügiõiguse tekkimine ja teostamine;
+
+6\) väärtpaberit koormavate õiguste järjekoht;
+
+7\) vahendaja õigused ja kohustused vahendatud väärtpaberi suhtes.
+
+\[RT I, 26.06.2017, 1 - jõust. 06.07.2017\]
+
+(4) Vahetusvõlakirja või muu sellise õiguse olemusele, mis on seotud osalusega juriidilises isikus, ning õiguse tekkimise ja teostamise põhimõtetele kohaldatakse käesoleva seaduse §-s 14 sätestatut.
+
+\[RT I, 26.06.2017, 1 - jõust. 06.07.2017\]
+
+## 5. osa — PÄRIMISÕIGUS
+
+## § 24. Pärimisele kohaldatav õigus
+
+Pärimisele kohaldatakse pärandaja viimase elukohariigi õigust.
+
+## § 25. Õiguse valik
+
+Isik võib testamendi või pärimislepinguga määrata, et tema pärandile kohaldatakse tema kodakondsuse riigi õigust. Selline määrang muutub kehtetuks, kui isik on surma hetkeks vastava riigi kodakondsuse kaotanud.
+
+## § 26. Kohaldatava õiguse ulatus
+
+Pärimisele kohaldatav õigus määrab ära eelkõige:
+
+1\) viimse tahteavalduse liigid ja toime;
+
+2\) pärimisvõime ja pärimiskõlbmatuse;
+
+3\) pärandi ulatuse;
+
+4\) pärijate ringi ja nendevahelised suhted;
+
+5\) vastutuse pärandaja võlgade eest.
+
+## § 27. Testamendi vormile kohaldatav õigus
+
+(1) Testamendi vormile kohaldatakse Haagi 1961. aasta testamendi vormile kohaldatava õiguse konventsiooni (RT II 1998, 16/17, 28).
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud konventsiooni kohaldatakse ka pärimislepingu vormile.
+
+## § 28. Testamendi tegemise võime
+
+(1) Isik võib testamenti koostada, muuta või tühistada, kui tal on selline võime selle riigi õiguse järgi, kus oli tema elukoht testamendi koostamise, muutmise või tühistamise ajal. Kui isikul selle riigi õiguse järgi testamendi tegemise võimet ei olnud, võib ta testamenti koostada, muuta või tühistada, kui seda lubab selle riigi õigus, mille kodanik ta oli testamendi koostamise, muutmise või tühistamise ajal.
+
+(2) Elukoha või kodakondsuse vahetamine ei kitsenda kord omandatud testamendi tegemise võimet.
+
+(3) Käesolevas paragrahvis sätestatut kohaldatakse vastavalt isiku võimele sõlmida, muuta või lõpetada pärimisleping.
+
+## § 29. Pärimislepingud ja vastastikused testamendid
+
+(1) Pärimislepingule kohaldatakse selle riigi õigust, kus oli pärandaja elukoht lepingu sõlmimise hetkel, või käesoleva seaduse §-s 25 nimetatud juhul isiku kodakondsuse riigi õigust. Kohaldatav õigus määrab ära pärimislepingu lubatavuse, kehtivuse, sisu, siduvuse ja pärimisõiguslikud tagajärjed.
+
+(2) Vastastikune testament peab selle tegemise ajal vastama mõlema testaatori elukohariigi õigusele või nende poolt ühiselt valitud ühe abikaasa elukohariigi õigusele.
+
+## 6. osa — VÕLAÕIGUS
+
+### 1. peatükk — VÕLAÕIGUSE ÜLDSÄTTED JA LEPINGUD
+
+#### 1. jagu — Üldsätted ja lepingud
+
+##### § 30. Kohaldamisala
+
+Käesoleva jao sätteid ei kohaldata juriidiliste isikute asutamislepingutele, samuti juriidilise isiku organite ja osanike või liikmete isiklikule seadusest tulenevale vastutusele juriidilise isiku kohustuste eest.
+
+##### § 31. Eesti õiguse üldist kehtivust omavad sätted
+
+Käesolevas peatükis sätestatu ei mõjuta nende Eesti õiguse sätete kohaldamist, mida tuleb kohaldada, sõltumata lepingule kohaldatavast õigusest.
+
+##### § 32. Kohaldatava õiguse valik
+
+(1) Lepingule kohaldatakse selle riigi õigust, mille kohaldamises pooled on kokku leppinud.
+
+(2) Pooled võivad valida kohaldatava õiguse kogu lepingule või selle osale, kui leping on selliselt jagatav.
+
+(3) Asjaolu, et pooled on lepingule kohaldatavaks õiguseks valinud välisriigi õiguse koos välisriigi kohtualluvuse valikuga või ilma selleta olukorras, kus kõik lepingusse puutuvad asjaolud on õiguse valiku ajal seotud ühe riigiga, ei mõjuta selle riigi nende õigusnormide kohaldamist, millest ei või tehinguga kõrvale kalduda (imperatiivsed sätted).
+
+(4) Kohaldatava õiguse muutmine pärast lepingu sõlmimist ei mõjuta lepingu vormilist kehtivust käesoleva seaduse § 37 kohaselt ega mõjuta kolmandate isikute õigusi.
+
+(5) Õiguse valiku kokkuleppe sisulise ja vormilise kehtivuse suhtes kohaldatakse käesoleva seaduse §-des 36 ja 37 sätestatut.
+
+##### § 33. Õiguse valiku puudumisel kohaldatav õigus
+
+(1) Kui lepingule kohaldatavat õigust ei ole käesoleva seaduse § 32 kohaselt valitud, kohaldatakse lepingule selle riigi õigust, millega leping on kõige tugevamalt seotud. Kui leping on osadeks jagatav ning lepingu mõni osa on iseseisvalt tugevamalt seotud mõne teise riigiga, võib sellele osale kohaldada selle teise riigi õigust.
+
+(2) Eeldatakse, et leping on kõige tugevamalt seotud riigiga, kus on lepingu sõlmimise ajal selle lepingupoole elukoht või juhtorgani asukoht, kes peab täitma lepingule iseloomuliku kohustuse. Kui leping on sõlmitud selle poole majandus- või kutsetegevuse raames, kes peab täitma lepingule iseloomuliku kohustuse, eeldatakse, et leping on kõige tugevamalt seotud riigiga, kus asub selle poole peamine tegevuskoht. Kui lepingu kohaselt tuleb iseloomulik kohustus täita mõnes teises tegevuskohas, siis eeldatakse, et leping on kõige tugevamalt seotud riigiga, kus see teine tegevuskoht asub.
+
+(3) Käesoleva paragrahvi lõiget 2 ei kohaldata, kui lepingule iseloomulikku kohustust ei ole võimalik kindlaks määrata.
+
+(4) Kui lepingu esemeks on kinnisasjaõigus või õigus kasutada kinnisasja, eeldatakse, et leping on kõige tugevamalt seotud kinnisasja asukohariigiga.
+
+(5) Veolepingu puhul eeldatakse, et leping on kõige tugevamalt seotud riigiga, kus asub lepingu sõlmimise ajal vedaja peamine tegevuskoht, kui selles riigis asub ka reisi lähte- või sihtkoht või kaubaveolepingute puhul saatja peamine tegevuskoht, peale- või mahalaadimiskoht. Kaubaveolepingute kohta sätestatut kohaldatakse kõikidele lepingutele, mille põhieesmärk on kaupade vedu.
+
+(6) Käesoleva paragrahvi lõikeid 2–5 ei kohaldata, kui asjaoludest nende kogumis selgub, et leping on tugevamalt seotud mõne teise riigiga.
+
+##### § 34. Tarbijalepingud
+
+(1) Tarbijalepingute puhul ei tohi õiguse valik viia selleni, et tarbijalt võetakse talle tema elukohariigi imperatiivsete sätetega tagatud kaitse:
+
+1\) kui lepingu sõlmimisele eelnes tarbija elukohariigis spetsiaalselt temale suunatud pakkumine või reklaam ja kui tarbija on selles riigis teinud lepingu sõlmimiseks vajalikud toimingud;
+
+2\) kui tarbija lepingupartner või tema esindaja on tarbijalt tema elukohariigis vastu võtnud tellimuse;
+
+3\) kui leping puudutab kaupade müüki ja tarbija on sõitnud oma elukohariigist teise riiki ja seal oma tellimuse esitanud, kui see reis oli korraldatud müüja poolt eesmärgiga kallutada tarbijat lepingut sõlmima.
+
+(2) Kui kohaldatavat õigust ei ole käesoleva seaduse § 32 kohaselt valitud, kohaldatakse käesoleva paragrahvi lõikes 1 toodud asjaoludel sõlmitud tarbijalepingutele tarbija elukohariigi õigust.
+
+(3) Käesoleva paragrahvi lõikeid 1 ja 2 ei kohaldata veolepingutele ja teenuste osutamise lepingutele, kui tarbijale osutatakse teenuseid ainult väljaspool tarbija elukohariiki. Käesoleva paragrahvi lõikeid 1 ja 2 kohaldatakse pakettreisilepingutele.
+
+(4) Käesoleva paragrahvi lõikes 1 nimetatud asjaoludel sõlmitud tarbijalepingu vormile kohaldatakse tarbija elukohariigi õigust.
+
+##### § 35. Töölepingud
+
+(1) Töölepingu puhul ei tohi õiguse valik viia selleni, et töötajalt võetakse kaitse, mis talle on tagatud selle riigi õiguse imperatiivsete sätetega, mis kuuluksid kohaldamisele õiguse valiku puudumisel vastavalt käesoleva paragrahvi lõikele 2.
+
+(2) Õiguse valiku puudumisel kohaldatakse töölepingule selle riigi õigust, kus:
+
+1\) töötaja lepingut täites harilikult oma tööd teeb, isegi kui ta ajutiselt töötab mõnes teises riigis;
+
+2\) asub tegevuskoht, mille kaudu töötaja on tööle võetud, kui töötaja ei tööta harilikult ühes ja samas riigis.
+
+(3) Käesoleva paragrahvi lõikes 2 sätestatut ei kohaldata, kui asjaoludest nende kogumis selgub, et tööleping on tugevamalt seotud mõne teise riigiga. Sellisel juhul kohaldatakse selle teise riigi õigust.
+
+##### § 36. Lepingu sisuline kehtivus
+
+(1) Lepingu või selle sätte kehtivus määratakse riigi õiguse alusel, mis kuuluks kohaldamisele, kui leping või selle säte oleks kehtiv.
+
+(2) Kui asjaolusid arvestades ei oleks õiglane kohaldada ühe poole tegevuse tagajärgedele käesoleva paragrahvi lõikes 1 nimetatud õigust, võib see pool oma elukohariigi õigusele tuginedes väita, et ta ei ole lepingut sõlminud.
+
+##### § 37. Lepingu vormiline kehtivus
+
+(1) Kui leping sõlmitakse isikute vahel, kes asuvad eri riikides, on leping vormiliselt kehtiv, kui see vastab neist riikidest ühe riigi õiguse vorminõuetele või lepingule kohaldatava õiguse vorminõuetele.
+
+(2) Kui leping sõlmitakse esindaja kaudu, on käesoleva paragrahvi lõike 1 kohaldamisel määravaks riik, kus esindaja viibib.
+
+(3) Leping, mille esemeks on kinnisasjaõigus või kinnisasja kasutamise õigus, on vormiliselt kehtiv, kui see vastab kinnisasja asukohariigi õiguse vorminõuetele.
+
+##### § 38. Nõude loovutamine
+
+(1) Nõude loovutamise korral kohaldatakse uue ja vana võlausaldaja vahelisele suhtele selle riigi õigust, millele allub uue ja vana võlausaldaja vaheline leping.
+
+(2) Loovutatavale nõudele kohaldatav õigus määrab nõude loovutatavuse, uue võlausaldaja ja võlgniku vahelise suhte, eeldused, mille alusel uus võlausaldaja võib võlgnikult nõuda kohustuse täitmist, samuti selle, millal loetakse võlgnik kohustuse täitnuks.
+
+(3) Käesolevat paragrahvi kohaldatakse ka nõuete pantimisele.
+
+##### § 39. Nõude üleminek seaduse alusel
+
+(1) Kui kolmas isik peab rahuldama võlausaldaja nõude, määrab kolmanda isiku kohustusele kohaldatav õigus, kas tal on õigus kasutada võlgniku suhtes õigusi, mis võlausaldajal olid võlgniku suhtes nendevahelisele suhtele kohaldatava õiguse kohaselt.
+
+(2) Käesoleva paragrahvi lõiget 1 kohaldatakse ka siis, kui mitu isikut peab rahuldama sama nõude ja üks neist on selle rahuldanud.
+
+#### 2. jagu — Kindlustuslepingud
+
+##### § 40. Kohaldamisala
+
+Käesoleva jao sätteid kohaldatakse kindlustuslepingutele, mille puhul kindlustatakse Eesti või Euroopa Liidu liikmesriikide territooriumidel asuvaid kindlustusriske. Käesoleva jao sätteid ei kohaldata edasikindlustuslepingutele.
+
+##### § 41. Kindlustusriski asukoht
+
+(1) Mitte-elukindlustuslepingute korral on kindlustusriski asukohariigiks:
+
+1\) kinnisasjadega, eelkõige ehitiste ja rajatistega seotud riskide kindlustamisel ning sama lepinguga hõlmatud sisustusega seotud riskide kindlustamisel nende asjade asukohariik;
+
+2\) Eesti või Euroopa Liidu liikmesriigi registrisse kantavate sõidukitega seotud riskide kindlustamisel riik, kus sõiduk tuleb registreerida;
+
+3\) reisi- ja puhkuseriskide kindlustamisel kuni neljaks kuuks sõlmitud kindlustuslepinguga riik, kus kindlustusvõtja on teinud lepingu sõlmimiseks vajalikud toimingud.
+
+(2) Elukindlustuslepingute ja käesoleva paragrahvi lõikes 1 nimetamata mitte-elukindlustuslepingute korral on kindlustusriski asukohariigiks:
+
+1\) riik, kus on füüsilisest isikust kindlustusvõtja elukoht;
+
+2\) riik, kus asub kindlustusvõtja lepinguga seotud tegevuskoht, kui kindlustusvõtja ei ole füüsiline isik.
+
+##### § 42. Kohaldatava õiguse vaba valik
+
+Lepingule kohaldatakse poolte valitud õigust, kui:
+
+1\) kindlustatav kindlustusrisk ja kindlustusvõtja elukoht või juhtorgani asukoht asuvad samas Euroopa Liidu liikmesriigis, mis lubab vaba õiguse valikut;
+
+2\) kindlustusleping sõlmitakse kindlustusseltsiga, mis ei tegele kindlustustegevusega käesoleva seaduse §-s 40 nimetatud riigis ise ega vahendajate kaudu;
+
+3\) mitte-elukindlustuse puhul on tegemist lepingute ja lepinguväliste kohustuste seaduse (RT I 2001, 81, 487) § 427 lõigetes 2–4 nimetatud kindlustuslepinguga;
+
+4\) mitte-elukindlustuse puhul kindlustatakse kindlustusvõtja majandus- või kutsetegevusega seotud kindlustusriske, mis asuvad mitmes käesoleva seaduse §-s 40 nimetatud riigis ning üks nendest kindlustusriskidest asub mõnes vaba õiguse valikut lubavas Euroopa Liidu liikmesriigis.
+
+##### § 43. Kohaldatava õiguse valiku piirangud mitte-elukindlustuse puhul
+
+(1) Kui mitte-elukindlustusleping ei vasta käesoleva seaduse §-s 42 toodud tingimustele, võivad pooled siiski valida lepingule kohaldatavaks õiguseks:
+
+1\) käesoleva seaduse §-s 40 nimetatud riigi õiguse, kus kindlustusrisk asub;
+
+2\) selle riigi õiguse, kus asub kindlustusvõtja elukoht või juhtorgan.
+
+(2) Kui käesoleva paragrahvi lõikes 1 nimetatud riigid lubavad ka muu õiguse valikut, võivad pooled seda kasutada.
+
+(3) Kui kindlustusleping hõlmab kindlustusjuhtumeid, mis võivad toimuda nii kindlustusriski asukohariigis kui ka mõnes teises käesoleva seaduse §-s 40 nimetatud riigis, võivad pooled valida selle teise riigi õiguse.
+
+##### § 44. Kohaldatava õiguse valiku piirangud elukindlustuse puhul
+
+(1) Kui elukindlustusleping ei vasta käesoleva seaduse § 42 punktis 1 toodud tingimustele, võivad pooled siiski valida kohaldatavaks õiguseks selle riigi õiguse, mida lubab kindlustusriski asukohariigi õigus.
+
+(2) Kui füüsilisest isikust kindlustusvõtja elukoht ei asu käesoleva seaduse §-s 40 nimetatud riigis, mille kodanik see isik on, võivad pooled valida kohaldatavaks õiguseks tema kodakondsuse riigi õiguse.
+
+##### § 45. Õiguse valiku puudumisel kohaldatav õigus
+
+(1) Kui pooled ei ole kindlustuslepingule kohaldatava õiguse suhtes kokku leppinud ja kindlustusvõtja elukoht või juhtorgan ning kindlustusrisk asuvad sama riigi territooriumil, kohaldatakse selle riigi õigust.
+
+(2) Kui pooled ei ole kindlustuslepingule kohaldatava õiguse suhtes kokku leppinud ja asjaolud ei vasta käesoleva paragrahvi lõikes 1 sätestatud tingimustele, kohaldatakse lepingule käesoleva seaduse §-de 42 ja 43 kohaselt valitavatest õigustest selle riigi õigust, millega leping on tugevamalt seotud. Eeldatakse, et leping omab tugevamat seost käesoleva seaduse §-s 40 nimetatud riigiga, kus on kindlustusriski asukoht. Iseseisvale lepingu osale, millel on tugevam seos mõne teise riigiga, mille õiguse valimine on käesoleva seaduse §-de 42 ja 43 kohaselt lubatud, võib kohaldada selle riigi õigust.
+
+(3) Elukindlustuslepingule kohaldatakse selle riigi õigust, kus on kindlustusriski asukoht lepingu sõlmimise hetkel. Kui kindlustusrisk asub mitmes erinevas riigis, kohaldatakse vastavalt käesoleva paragrahvi lõike 2 kolmandat lauset.
+
+##### § 46. Kohustuslik kindlustus
+
+(1) Kohustusliku kindlustuse lepingule kohaldatakse selle riigi õigust, mis näeb ette kindlustuslepingu sõlmimise kohustuse.
+
+(2) Kui kindlustusleping katab mitmes käesoleva seaduse §-s 40 nimetatud riigis asuvaid kindlustusriske ja kui vähemalt üks neist riikidest näeb ette kohustusliku kindlustuse, siis loetakse, et leping koosneb mitmest lepingust, millest igaüks on seotud ainult ühe riigiga.
+
+(3) Kindlustusleping täidab kohustusliku kindlustuse nõude, kui see vastab kohustusliku kindlustuse kehtestanud riigis kohustusliku kindlustuse suhtes kehtivatele sätetele.
+
+(4) Kui kohustuslikku kindlustust kehtestava riigi õiguse kohaselt peab kindlustusandja kindlustuskaitse lõppemisest teatama pädevale asutusele, saab kindlustusandja kolmanda isiku suhtes kindlustuskaitse puudumisele tugineda ainult selle riigi õiguse kohaselt.
+
+##### § 47. Üldiste sätete kohaldamine
+
+Muus osas kohaldatakse kindlustuslepingutele üldisi lepingule kohaldatava õiguse kohta käivaid sätteid.
+
+### 2. peatükk — LEPINGUVÄLISED KOHUSTUSED
+
+#### § 48. Kohaldamisala
+
+\[Kehtetu - RT I, 10.03.2016, 2 - jõust. 20.03.2016\]
+
+#### § 48<sup>1</sup>. Alusetu rikastumine
+
+\[RT I 2009, 59, 385 - jõust. 01.01.2010\]
+
+(1) Kohustuse täitmisest tulenevale alusetu rikastumise nõudele kohaldatakse selle riigi õigust, mida kohaldatakse tegelikule või eeldatavale õigussuhtele, mille alusel kohustus täideti.
+
+(2) Teise isiku õiguse rikkumisest tulenevale alusetu rikastumise nõudele kohaldatakse selle riigi õigust, kus rikkumine toimus.
+
+(3) Muudel juhtudel kohaldatakse alusetust rikastumisest tulenevale nõudele selle riigi õigust, kus alusetu rikastumine aset leidis.
+
+#### § 49. Käsundita asjaajamine
+
+(1) Käsundita asjaajamisest tulenevale nõudele kohaldatakse selle riigi õigust, kus käsundita asjaajaja teo tegi.
+
+(2) Teise isiku kohustuse täitmisest tulenevatele nõuetele kohaldatakse sellele kohustusele kohaldatavat õigust.
+
+#### § 50. Kahju õigusvastane tekitamine
+
+(1) Kahju õigusvastasest tekitamisest tulenevale nõudele kohaldatakse selle riigi õigust, kus kahju tekkimise aluseks olev tegu tehti või sündmus toimus.
+
+(2) Kui tagajärg ei saabu selles riigis, kus kahju tekkimise aluseks olev tegu tehti või sündmus toimus, kohaldatakse kannatanu nõudel selle riigi õigust, kus saabus selle teo või sündmuse tagajärg.
+
+#### § 51. Vahetu nõudeõigus kindlustusandja vastu
+
+Kannatanu võib oma nõude esitada vahetult kahju hüvitamiseks kohustatud isiku kindlustusandja vastu, kui seda näeb ette kahju hüvitamisele või kindlustuslepingule kohaldatav õigus.
+
+#### § 52. Piirangud välisriigi õiguse kohaldamisel
+
+Kui kahju õigusvastasest tekitamisest tulenevale nõudele kohaldatakse välisriigi õigust, ei saa Eestis välja mõista oluliselt suuremaid hüvitisi, kui seda näeks sellise kahju korral ette Eesti õigus.
+
+#### § 53. Tugevam seos
+
+(1) Kui lepinguväline kohustus on tugevamalt seotud mõne teise riigi õigusega kui sellega, mis kuuluks kohaldamisele käesoleva peatüki sätete kohaselt, kohaldatakse teise riigi õigust.
+
+(2) Tugevam seos võib tuleneda eelkõige:
+
+1\) pooltevahelisest õigussuhtest või faktilisest seosest;
+
+2\) käesoleva seaduse § 48<sup>1</sup> lõigetes 2 ja 3, §-s 49 ning §-s 50 nimetatud juhtudel asjaolust, et pooltel on õiguslikku tähendust omava sündmuse toimumise või teo tegemise ajal elukoht samas riigis. Juriidilise isiku puhul arvestatakse tema elukoha asemel tema juhatuse või seda asendava organi asukohta või selle teo või sündmusega seotud tegevuskohta.
+
+\[RT I, 10.03.2016, 2 - jõust. 20.03.2016\]
+
+#### § 54. Kohaldatava õiguse valik
+
+Pärast lepinguvälise kohustuse tekkimise aluseks olevat sündmuse toimumist või teo tegemist võivad pooled kokku leppida Eesti õiguse kohaldamises. Õiguse valik ei mõjuta kolmandate isikute õigusi.
+
+## 7. osa — PEREKONNAÕIGUS
+
+### 1. peatükk — ABIELU JA REGISTREERITUD KOOSELU
+
+\[RT I, 06.07.2023, 6 - jõust. 01.01.2024\]
+
+#### § 55. Abielu sõlmimise korrale ja välisriigis sõlmitud abielule ning registreeritud kooselule kohaldatav õigus
+
+\[RT I, 06.07.2023, 6 - jõust. 01.01.2024\]
+
+(1) Abielu sõlmimisel Eestis kohaldatakse abielu sõlmimise korrale Eesti õigust.
+
+(2) Välismaal sõlmitud abielu loetakse Eestis kehtivaks, kui see toimus abielu sõlmimise riigi õiguse abielu sõlmimise korra kohaselt ja vastas sisuliste eelduste poolest mõlema abikaasa elukohariigi õigusele.
+
+(3) Välismaal registreeritud kooselu loetakse Eestis kehtivaks, kui registreerimine toimus kooselu registreerimise riigi kooselu registreerimise korra kohaselt ja vastas sisuliste eelduste poolest kooselu registreerimise asukohariigi õigusele.
+
+\[RT I, 06.07.2023, 6 - jõust. 01.01.2024\]
+
+#### § 56. Abielu sõlmimise ja kooselu registreerimise eeldustele kohaldatav õigus
+
+\[RT I, 06.07.2023, 6 - jõust. 01.01.2024\]
+
+(1) Abielu sõlmimise eeldustele ja sõlmimise takistustele ning sellest tulenevatele tagajärgedele kohaldatakse abielluja elukohariigi õigust.
+
+(2) Kui Eesti kodanikul puudub mõni tema elukohariigi õigusest tulenev abielu sõlmimise eeldus, kohaldatakse Eesti õigust, kui selle järgi oleks abielu sõlmimise eeldused olemas.
+
+(3) Abielluja varasem abielu ei ole abielu sõlmimise takistuseks, kui see on lõppenud Eestis tehtud või tunnustatud otsuse alusel, isegi kui see otsus ei vasta abielluja elukohariigi õigusele.
+
+(4) Kooselu registreerimise eeldustele ja sõlmimise takistustele ning sellest tulenevatele tagajärgedele kohaldatakse kooselu registreerimise asukohariigi õigust.
+
+\[RT I, 06.07.2023, 6 - jõust. 01.01.2024\]
+
+#### § 57. Abielu ja registreeritud kooselu üldised õiguslikud tagajärjed
+
+\[RT I, 06.07.2023, 6 - jõust. 01.01.2024\]
+
+(1) Abielu üldised õiguslikud tagajärjed määratakse selle riigi õigusega, kus on abikaasade ühine elukoht.
+
+(2) Kui abikaasadel on elukoht eri riikides, kuid neil on ühine kodakondsus, määratakse abielu üldised õiguslikud tagajärjed selle riigi õigusega, mille kodanikud nad on.
+
+(3) Kui abikaasade elukohad on eri riikides ja neil on erinev kodakondsus, määratakse abielu üldised õiguslikud tagajärjed selle riigi õiguse alusel, kus oli nende viimane ühine elukoht, kui ühe abikaasa elukoht on selles riigis.
+
+(4) Kui käesoleva paragrahvi lõigete 1–3 kohaselt ei ole võimalik abielu üldistele õiguslikele tagajärgedele kohaldatavat õigust kindlaks määrata, kohaldatakse selle riigi õigust, millega abikaasad on muul viisil kõige tugevamalt seotud.
+
+(5) Registreeritud kooselu üldised õiguslikud tagajärjed, välja arvatud registreeritud elukaaslase suhtlusõigus ja õigus lapsendada kooseluseaduse §-s 15 sätestatud tingimustel, määratakse kooselu registreerimise asukohariigi õigusega.
+
+\[RT I, 06.07.2023, 6 - jõust. 01.01.2024\]
+
+(6) Kui registreeritud kooselu kohta on kantud andmed registrisse mitmes riigis, kohaldatakse registreeritud kooselu üldistele õiguslikele tagajärgedele selle riigi õigust, kes viimati andmed registrisse kandis. Eelmises lauses nimetatud riigi õigust kohaldatakse edasiulatuvalt alates andmete registrisse kandmise ajast.
+
+\[RT I, 06.07.2023, 6 - jõust. 01.01.2024\]
+
+#### § 58. Abikaasade ja registreeritud elukaaslaste varalistele õigustele kohaldatav õigus
+
+\[RT I, 06.07.2023, 6 - jõust. 01.01.2024\]
+
+(1) Abikaasade varalistele õigustele kohaldatakse abikaasade poolt valitud õigust. Abikaasad võivad varalistele õigustele kohaldatavaks õiguseks valida ühe abikaasa elukohariigi õiguse või ühe abikaasa kodakondsuse riigi õiguse, sõltumata käesoleva seaduse § 11 lõikes 2 sätestatust.
+
+(2) Kohaldatava õiguse valik peab olema notariaalselt tõestatud. Kui kohaldatavat õigust ei valita Eestis, piisab õiguse valiku vormiliseks kehtivuseks valitud õiguse abieluvaralepingu vorminõuete järgimisest.
+
+(3) Kui abikaasad ei ole kohaldatavat õigust valinud, kohaldatakse abikaasade varalistele õigustele abielu üldistele õiguslikele tagajärgedele kohaldatavat õigust (käesoleva seaduse § 57) abielu sõlmimise ajal.
+
+(4) Registreeritud elukaaslaste varalistele õigustele kohaldatakse registreeritud elukaaslaste valitud õigust. Registreeritud elukaaslased võivad valida käesoleva paragrahvi lõikes 2 sätestatud vormis varalistele õigustele kohaldatavaks õiguseks, tingimusel, et kõnealuse õigusega tunnustatakse registreeritud kooselust tulenevaid varalisi tagajärgi, ühe registreeritud elukaaslase elukohariigi õiguse, ühe registreeritud elukaaslase kodakondsuse riigi õiguse, sõltumata käesoleva seaduse § 11 lõikes 2 sätestatust, või kooselu registreerimise asukohariigi õiguse.
+
+\[RT I, 06.07.2023, 6 - jõust. 01.01.2024\]
+
+(5) Kui registreeritud elukaaslased ei ole kohaldatavat õigust valinud, kohaldatakse registreeritud elukaaslaste varalistele õigustele registreeritud kooselu üldistele õiguslikele tagajärgedele kohaldatavat õigust käesoleva seaduse § 57 kohaselt.
+
+\[RT I, 06.07.2023, 6 - jõust. 01.01.2024\]
+
+#### § 59. Kolmandate isikute kaitse
+
+(1) Kui vähemalt ühe abikaasa elukoht on Eestis või kui vähemalt üks abikaasa tegeleb Eestis majandus- või kutsetegevusega, saavad abikaasad kolmandate isikute suhtes Eesti õigusest erinevatele varalistele õigustele tugineda üksnes juhul, kui kolmas isik sellest õigussuhte tekkimise ajal teadis või pidi teadma.
+
+(2) Käesoleva paragrahvi lõikes 1 abielu kohta sätestatut kohaldatakse ka registreeritud kooselule.
+
+\[RT I, 06.07.2023, 6 - jõust. 01.01.2024\]
+
+#### § 60. Abielu lahutamisele, registreeritud kooselu lõpetamisele ning abielu või registreeritud kooselu kehtetusele kohaldatav õigus
+
+\[RT I, 06.07.2023, 6 - jõust. 01.01.2024\]
+
+(1) Abielu lahutamisele kohaldatakse käesoleva seaduse §-s 57 nimetatud õigust lahutusmenetluse alustamise ajal.
+
+(2) Kui abielu lahutamine ei ole käesoleva seaduse §-s 57 nimetatud õiguse järgi lubatud või on lubatud ainult väga rangetel tingimustel, kohaldatakse selle asemel Eesti õigust, kui ühel abikaasal on elukoht Eestis või Eesti kodakondsus või kui tal oli abielu sõlmimise ajal elukoht Eestis või Eesti kodakondsus.
+
+(3) Abielu kehtetusele kohaldatakse käesoleva seaduse §-s 56 nimetatud õigust.
+
+(4) Käesoleva paragrahvi lõigetes 1–3 abielu kohta sätestatut kohaldatakse ka registreeritud kooselule.
+
+\[RT I, 06.07.2023, 6 - jõust. 01.01.2024\]
+
+#### § 61. Ülalpidamiskohustustele kohaldatav õigus
+
+Perekonnasuhetest tulenevatele ülalpidamiskohustustele kohaldatakse ülalpidamiskohustuste suhtes kohaldatavat õigust käsitlevat 2007. aasta 23. novembri Haagi protokolli (OJ L 331, 16.12.2009, lk 17–23).
+
+\[RT I, 10.11.2022, 1 - jõust. 20.11.2022\]
+
+### 2. peatükk — LAPSE JA VANEMA VAHELISED SUHTED
+
+#### § 62. Põlvnemine
+
+(1) Põlvnemise tuvastamisele ja vaidlustamisele kohaldatakse lapse sünniaegse elukohariigi õigust.
+
+(2) Vanema suhtes võib põlvnemist tuvastada ja vaidlustada ka vanema elukohariigi õiguse järgi. Vanem võib lapse omaks võtta oma elukohariigi õiguse järgi.
+
+(3) Laps võib põlvnemise vaidlustada ka oma vaidlustamise aegse elukohariigi õiguse järgi.
+
+#### § 63. Lapsendamine
+
+(1) Lapsendamisele kohaldatakse lapsendaja elukohariigi õigust. Lapsendamisel abikaasade poolt kohaldatakse lapsendamisele abielu üldistele õiguslikele tagajärgedele kohaldatavat õigust lapsendamise ajal.
+
+(2) Kui lapse elukohariigi õiguse järgi on lapsendamiseks vajalik lapse või mõne muu temaga perekonnaõiguslikus suhtes oleva isiku nõusolek, kohaldatakse selle suhtes lapse elukohariigi õigust.
+
+(3) Eestis elukohta omava lapse lapsendamiseks peavad lisaks käesoleva paragrahvi lõigetes 1 ja 2 sätestatud nõuetele olema täidetud ka kõik muud Eesti õigusest tulenevad lapsendamise tingimused.
+
+#### § 64. Välisriigis toimunud lapsendamised
+
+Kui lapsendamisele kohaldatakse välisriigi õigust või lapsendamine on toimunud välisriigi kohtuotsuse alusel, on sellel Eestis samasugune tähendus nagu õiguse kohaselt, mille alusel lapsendamine toimus.
+
+#### § 65. Lapse ja vanema vahelised suhted
+
+Vanema ja lapse vahelistele perekonnaõiguslikele suhetele kohaldatakse lapse elukohariigi õigust.
+
+#### § 66. Eestkoste ja hooldus
+
+Eestkoste ja hoolduse suhtes kohaldatakse selle riigi õigust, kus eestkoste ja hooldus seatakse.
+
+## 8. osa — SEADUSE RAKENDAMINE
+
+## § 67. Seaduse jõustumine
+
+Käesolev seadus jõustub selle rakendamise seaduses sätestatud ajast.

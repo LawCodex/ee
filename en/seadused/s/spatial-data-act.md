@@ -13,7 +13,7 @@ date: 2011-02-17
 last_amended: 2026-08-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/531072026002"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "111072026106"
 ---
@@ -21,8 +21,6 @@ translation_of: "111072026106"
 # Spatial Data Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — General Provisions
 
@@ -33,9 +31,7 @@ translation_of: "111072026106"
 
 (2) The provisions of the Administrative Procedure Act apply to the administrative proceedings prescribed in this Act, taking account of the specifications provided for in this Act.
 
-\[Repealed – RT I, 13.03.2019, 2 - entry into force 15.03.2019\]
-
-(3)
+(3) \[Repealed – RT I, 13.03.2019, 2 - entry into force 15.03.2019\]
 
 ### § 2. Application of Act
 
@@ -923,4 +919,4 @@ Holders of information shall provide metadata describing the spatial data sets m
 
 ---
 
-Directive 2007/2/EC of the European Parliament and of the Council establishing an Infrastructure for Spatial Information in the European Community (INSPIRE) (OJ L 108, 25.04.2007, p. 1–14).
+<sup>1</sup> Directive 2007/2/EC of the European Parliament and of the Council establishing an Infrastructure for Spatial Information in the European Community (INSPIRE) (OJ L 108, 25.04.2007, p. 1–14).

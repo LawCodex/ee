@@ -13,7 +13,7 @@ date: 2003-01-22
 last_amended: 2011-01-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/506112013001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "13315866"
 ---

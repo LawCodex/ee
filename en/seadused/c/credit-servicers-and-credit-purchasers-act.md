@@ -13,7 +13,7 @@ date: 2024-06-12
 last_amended: 2026-06-30
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/530082026003"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "120062026014"
 ---
@@ -21,8 +21,6 @@ translation_of: "120062026014"
 # Credit Servicers and Credit Purchasers Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — General Provisions
 
@@ -1591,4 +1589,4 @@ Lauri Hussar, President of the Riigikogu
 
 ---
 
-Directive (EU) 2021/2167 of the European Parliament and of the Council on credit servicers and credit purchasers and amending Directives 2008/48/EC and 2014/17/EU (OJ L 438, 08.12.2021, p. 1-37).
+<sup>1</sup> Directive (EU) 2021/2167 of the European Parliament and of the Council on credit servicers and credit purchasers and amending Directives 2008/48/EC and 2014/17/EU (OJ L 438, 08.12.2021, p. 1-37).

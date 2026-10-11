@@ -1,0 +1,55 @@
+---
+title: "Euroopa Parlamendi ja nõukogu määruse (EL) 2019/788 „Euroopa kodanikualgatuse kohta” rakendamise seadus"
+identifier: "121122019021"
+rt_reference: "RT I, 21.12.2019, 21"
+abbreviation: "EKodAS"
+group_id: "1048448"
+type: act
+issuer: "Riigikogu"
+text_type: "algtekst-terviktekst"
+jurisdiction: ee
+language: et
+date: 2019-12-16
+last_amended: 2020-01-01
+status: in_force
+source: "https://www.riigiteataja.ee/akt/121122019021"
+retrieved: 2026-10-12
+---
+
+# Euroopa Parlamendi ja nõukogu määruse (EL) 2019/788 „Euroopa kodanikualgatuse kohta” rakendamise seadus
+
+## § 1. Kodanikualgatuse toetamise vanuse alammäär
+
+Igal vähemalt 16-aastasel Eesti kodanikul on õigus kodanikualgatust toetusavalduse allkirjastamisega toetada.
+
+## § 2. Korraldajate rühmadele pakutav abi
+
+(1) Euroopa Parlamendi ja nõukogu määruse (EL) 2019/788 Euroopa kodanikualgatuse kohta (ELT L 130, 17.05.2019) (edaspidi *Euroopa kodanikualgatuse määrus*) artikli 4 lõikes 6 nimetatud kontaktpunkt, kes kooskõlas kohaldatava Euroopa Liidu ja riigisisese õigusega pakub Euroopa kodanikualgatuse määruse artiklis 5 nimetatud korraldajate rühmadele tasuta teavet ja abi, on Siseministeerium.
+
+(2) Siseministeerium võib sõlmida kontaktpunkti ülesannete täitmiseks halduskoostöö seaduses sätestatud tingimustel ja korras halduslepingu eraõigusliku juriidilise isikuga.
+
+## § 3. Toetusavalduse kontrollimine ja tõendamine
+
+(1) Euroopa kodanikualgatuse määruse artikli 12 lõikes 5 nimetatud toetusavalduste kontrollimist ja tõendamist korraldav asutus on Siseministeerium.
+
+(2) Toetusavaldusi kontrollitakse Euroopa kodanikualgatuse määruse III lisas esitatavate andmete alusel, lähtudes rahvastikuregistri andmetest. Toetusavaldusi võib kontrollida pisteliselt.
+
+(3) Toetusavalduste kontrollimise ja tõendamise üksikasjalikuma korra kehtestab valdkonna eest vastutav minister määrusega.
+
+## § 4. Veebipõhise toetusavalduste kogumise üksiksüsteemi vastavuse tõendamine
+
+(1) Kuni 2022. aasta 31. detsembrini täidab Euroopa kodanikualgatuse määruse artikli 11 lõikes 3 nimetatud veebipõhise toetusavalduste kogumise üksiksüsteemi sama määruse artikli 11 lõikele 4 vastavust tõendava pädeva asutuse ülesandeid Andmekaitse Inspektsioon.
+
+(2) Andmekaitse Inspektsioon teeb veebipõhisele toetusavalduste kogumise üksiksüsteemile esitatavate turvanõuete kontrollimisel koostööd Riigi Infosüsteemi Ametiga.
+
+## § 5. Seaduse kehtetuks tunnistamine
+
+Euroopa Parlamendi ja nõukogu määruse (EL) nr 211/2011 „Kodanikualgatuse kohta” rakendamise seadus tunnistatakse kehtetuks.
+
+## § 6. Seaduse jõustumine
+
+Käesolev seadus jõustub 2020. aasta 1. jaanuaril.
+
+---
+
+Henn Põlluaas, Riigikogu esimees

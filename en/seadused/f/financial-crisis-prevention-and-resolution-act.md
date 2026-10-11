@@ -13,7 +13,7 @@ date: 2015-02-18
 last_amended: 2026-07-21
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/520072026009"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "111072026139"
 ---
@@ -21,8 +21,6 @@ translation_of: "111072026139"
 # Financial Crisis Prevention and Resolution Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — General provisions
 
@@ -3699,5 +3697,5 @@ A credit institution must publish a report on the own funds provided in subsecti
 
 ---
 
-Directive 2014/59/EU of the European Parliament and of the Council establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council (OJ L 173, 12.6.2014, p. 190–348), amended by Directives (EU) 2017/1132 (OJ L 169, 30.6.2017, p. 46–127), (EU) 2017/2399 (OJ L 345, 27.12.2017, p. 96–101), (EU) 2019/879 (OJ L 150, 7.6.2019, p. 296–344), (EU) 2019/2034 (OJ L 314, 5.12.2019, p. 64–114), (EU) 2019/2162 (OJ L 328, 18.12.2019, p. 29–57), (EU) 2022/2556 (OJ L 333, 27.12.2022, p. 153–163) and (EU) 2024/1174 (OJ L, 2024/1174, 22.4.2024) and Regulations (EU) 2021/23 (OJ L 22, 22.1.2021, p. 1–102) and (EU) 2022/2036 (OJ L 275, 25.10.2022, p. 1–10).
+<sup>1</sup> Directive 2014/59/EU of the European Parliament and of the Council establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council (OJ L 173, 12.6.2014, p. 190–348), amended by Directives (EU) 2017/1132 (OJ L 169, 30.6.2017, p. 46–127), (EU) 2017/2399 (OJ L 345, 27.12.2017, p. 96–101), (EU) 2019/879 (OJ L 150, 7.6.2019, p. 296–344), (EU) 2019/2034 (OJ L 314, 5.12.2019, p. 64–114), (EU) 2019/2162 (OJ L 328, 18.12.2019, p. 29–57), (EU) 2022/2556 (OJ L 333, 27.12.2022, p. 153–163) and (EU) 2024/1174 (OJ L, 2024/1174, 22.4.2024) and Regulations (EU) 2021/23 (OJ L 22, 22.1.2021, p. 1–102) and (EU) 2022/2036 (OJ L 275, 25.10.2022, p. 1–10).
 \[RT I, 11.07.2026, 7 – entry into force 21.07.2026\]

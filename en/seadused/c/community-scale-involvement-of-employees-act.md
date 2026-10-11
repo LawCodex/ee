@@ -13,7 +13,7 @@ date: 2005-01-12
 last_amended: 2023-02-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/531012023002"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "123122022030"
 ---
@@ -21,8 +21,6 @@ translation_of: "123122022030"
 # Community-scale Involvement of Employees Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -1095,7 +1093,7 @@ is punishable by a fine of up to 32,000 euros.\
 
 ---
 
-Directive 2009/38/EC of the European Parliament and of the Council on the establishment of a European Works Council or a procedure in Community-scale undertakings and Community-scale groups of undertakings for the purposes of informing and consulting employees (OJ L 122, 16.05.2009, pp 28–44);
+<sup>1</sup> Directive 2009/38/EC of the European Parliament and of the Council on the establishment of a European Works Council or a procedure in Community-scale undertakings and Community-scale groups of undertakings for the purposes of informing and consulting employees (OJ L 122, 16.05.2009, pp 28–44);
 Directive 2005/56/EC of the European Parliament and of the Council on cross-border mergers of limited liability companies (OJ L 310, 25.11.2005, pp 1–9);
 Council Directive 2003/72/EC supplementing the Statute for a European Cooperative Society with regard to the involvement of employees (OJ L 207, 18.08.2003, pp 25–36);
 Council Directive 2001/86/EC supplementing the Statute for a European company with regard to the involvement of employees (OJ L 294, 10.11.2001, pp 22–32).

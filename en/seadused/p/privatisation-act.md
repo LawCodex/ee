@@ -13,7 +13,7 @@ date: 1993-06-17
 last_amended: 2026-01-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/517122025003"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "118122025008"
 ---
@@ -84,9 +84,7 @@ translation_of: "118122025008"
 
 3\) the sale of the claims specified in subsection 2 of this section shall be completed on the basis of this Act or the State Assets Act.
 
-\[Repealed - RT I, 04.07.2017, 1 - entry into force 01.01.2018\]
-
-(4)
+(4) \[Repealed - RT I, 04.07.2017, 1 - entry into force 01.01.2018\]
 
 (5) \[Repealed - RT I, 18.12.2025, 1 - entry into force 01.01.2026\]
 

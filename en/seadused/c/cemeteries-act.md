@@ -12,7 +12,7 @@ date: 2011-02-23
 last_amended: 2024-01-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/523012024004"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "106072023039"
 ---
@@ -166,9 +166,7 @@ Deceased persons are stored in a room designed for that purpose in a hospital, m
 
 (8) The costs of interment or cremation of a deceased person must be borne by the close kin of the deceased person. Where the local authority has arranged the interment or cremation of a deceased person, it is entitled to recover the costs of such interment or cremation from the heir who has accepted the estate of the deceased person.
 
-\[Repealed - RT I, 28.12.2017, 8 - entry into force 01.01.2018\]
-
-(9)
+(9) \[Repealed - RT I, 28.12.2017, 8 - entry into force 01.01.2018\]
 
 (10) In the case of coffin interment, the depth of the grave must be 1.5–2 metres from the ground surface. In the case of urn interment, the burial depth must be at least 1 metre. If previously interred human remains are revealed when digging the grave, these must be placed in a small pit dug in the bottom of the same grave, whereas a coffin which remains intact is to be left undisturbed.
 

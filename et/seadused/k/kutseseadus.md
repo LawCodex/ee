@@ -1,0 +1,728 @@
+---
+title: "Kutseseadus"
+identifier: "113032019010"
+rt_reference: "RT I, 13.03.2019, 10"
+rt_original: "RT I 2008, 24, 156"
+abbreviation: "KutS"
+group_id: "322074"
+type: act
+issuer: "Riigikogu"
+text_type: "terviktekst"
+jurisdiction: ee
+language: et
+date: 2008-05-22
+last_amended: 2019-03-15
+status: in_force
+source: "https://www.riigiteataja.ee/akt/113032019010"
+retrieved: 2026-10-12
+---
+
+# Kutseseadus
+
+## 1. peatükk — ÜLDSÄTTED
+
+### § 1. Seaduse reguleerimisala
+
+(1) Käesolevas seaduses sätestatakse kutsesüsteemi loomise ja toimimise ning haldusjärelevalve alused.
+
+\[RT I, 13.03.2014, 4 - jõust. 01.07.2014\]
+
+(2) Käesolevat seadust ei kohaldata kutsealadel, mille kutsenõuete väljatöötamise ning kutse andmise alused on reguleeritud teiste seadustega.
+
+(3) Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi.
+
+### § 2. Seaduse eesmärk
+
+(1) Käesoleva seaduse eesmärk on tervikliku kutsesüsteemi loomine ning selle toimimise tagamine Eesti majanduse konkurentsivõime kasvuks, tööjõuvajaduse seireks ja prognoosiks ning inimeste kompetentsuse arendamiseks, hindamiseks, tunnustamiseks ja võrdlemiseks.
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+(2) Kutsesüsteem on osa õpitulemuste tunnustamise kvalifikatsioonisüsteemist. Kutsesüsteem seob haridussüsteemi tööturuga.
+
+### § 3. Mõisted
+
+Käesolevas seaduses kasutatakse mõisteid järgmises tähenduses:
+
+1\) kompetentsus – edukaks kutsetegevuseks vajalik teadmiste, oskuste, kogemuste ja hoiakute kogum;
+
+2\) kutse – kvalifikatsioon, mis saadakse kutseeksami sooritamisel ja mille tase on määratud asjakohases kutsestandardis;
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+3\) kutseala – samalaadset kompetentsust eeldav tegevusvaldkond;
+
+3<sup>1</sup>) kutseeksam – kutse andmise protsess, mille käigus kutset andev organ hindab isikul kutsealale vajalike kompetentsuste olemasolu;
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+4\) kutsetegevuse valdkond – tegevusvaldkond, mis hõlmab mitut lähedast kutseala;
+
+5\) kvalifikatsioon – hindamise ametliku tulemusena tunnustatud kompetentsus.
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+### § 3<sup>1</sup>. Osakutse
+
+(1) Osakutse on osa kutsest, mis omab iseseisvat väljundit tööturul ja mis on määratud asjakohases kutsestandardis.
+
+(2) Osakutse andmist korraldab käesoleva seaduse §-s 10 nimetatud kutset andev organ, kes lähtub osakutse andmisel käesolevast seadusest ja selle alusel kehtestatud kutse andmise tingimustest ja korrast.
+
+\[RT I, 02.07.2013, 1 - jõust. 01.09.2013\]
+
+### § 4. Kutsetase ja kvalifikatsiooniraamistik
+
+(1) Kutsetase on kutsele määratud kvalifikatsiooniraamistiku tase.
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+(2) Kutsetasemed on võrreldavad haridustasemetega ning kutsesüsteem ja haridussüsteem on ühtses ning rahvusvaheliselt võrreldavas kvalifikatsiooniraamistikus.
+
+(3) Kvalifikatsiooniraamistik liigitab kutse- ja haridustasemed omandatud teadmistele, oskustele ning iseseisvusele ja vastutusele seatud kriteeriumide alusel.
+
+(4) Kvalifikatsiooniraamistik jaguneb kaheksaks tasemeks, kusjuures 1. tase on madalaim ja 8. tase kõrgeim. Tasemete kirjeldused on esitatud käesoleva seaduse lisas 1 «Kvalifikatsiooniraamistik».
+
+(5) \[Kehtetu - RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+(6) \[Kehtetu - RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+### § 5. Kutsestandard
+
+(1) Kutsestandard on dokument, milles kirjeldatakse kutsetegevust ning esitatakse kompetentsusnõuded.
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+(2) Kutsestandardi kinnitab kutsenõukogu.
+
+(3) Kutsestandardite koostamise, muutmise ja vormistamise korra kehtestab valdkonna eest vastutav minister määrusega.
+
+(4) Kutsestandardite paigutumise kvalifikatsiooniraamistikku otsustab kutsenõukogude esimeeste kogu, lähtudes kvalifikatsiooniraamistiku tasemekirjeldustest.
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+## 2. peatükk — KUTSESÜSTEEMI OSALISED
+
+### § 6. Kutseasutus
+
+(1) Ühtse ja korrastatud kutsesüsteemi arendamist korraldav asutus (edaspidi *kutseasutus*) on Haridus- ja Teadusministeerium.
+
+(2) Valdkonna eest vastutav minister võib kutseasutuse ülesannete täitmiseks sõlmida eraõigusliku juriidilise isikuga halduslepingu halduskoostöö seaduses sätestatud korras.
+
+### § 7. Kutseasutuse ülesanded
+
+(1) Kutseasutuse tegevuse eesmärgist lähtuvalt on tema ülesanded:
+
+1\) kutsesüsteemi arendamine ja rakendamine;
+
+2\) kutsenõukogude tegevuse ning kutsenõukogude vahelise koostöö korraldamine ja koordineerimine;
+
+2<sup>1</sup>) koordinatsioonikogu tegevuse korraldamine;
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+2<sup>2</sup>) koordinatsioonikogu kinnitatud nimetuste ja moodustamise põhimõtete alusel valdkondlike eksperdikogude moodustamine ning nende tegevuse korraldamine;
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+3\) kutsesüsteemiga seotud dokumendivormide ja näidiste väljatöötamine ning kinnitamine;
+
+4\) haldusjärelevalve kutsenõukogude ja kutset andvate organite kutse andmise tegevuse üle;
+
+\[RT I, 28.12.2018, 3 - jõust. 01.01.2019\]
+
+5\) kutse andmisega seotud dokumentide arhiveerimise korra väljatöötamine ja kinnitamine;
+
+6\) vastutava töötleja tellimusel volitatud töötlejana riikliku kutseregistri pidamine;
+
+7\) nõustamise ja koolituse korraldamine kutsesüsteemi kohta;
+
+8\) Eesti kutsesüsteemi tutvustamine riigi sees ja rahvusvaheliselt, luues eeldused kutsete vastastikuseks võrdlemiseks;
+
+9\) kutsestandardite väljatöötamise ja uuendamise korraldamine kutsenõukogude otsuste alusel;
+
+10\) kutsestandardite koostamise ja kutse andmise ühtse metoodika arendamine ning kinnitamine;
+
+11\) kutsetunnistuste lisade väljatöötamine;
+
+12\) kutsetunnistuste väljaandmise tehniline korraldamine;
+
+13\) Europassi Keskuse töö korraldamine;
+
+14\) muude käesolevas seaduses ning halduslepingus sätestatud ülesannete täitmine.
+
+(2) Kutseasutuse juures tegutseb kutsenõukogude vahelist koostööd koordineeriv kutsenõukogude esimeeste kogu, kelle ülesanded ja töökorra määrab kutseasutus.
+
+### § 7<sup>1</sup>. Koordinatsioonikogu
+
+(1) Valdkonna eest vastutav minister moodustab käskkirjaga tööjõu oskuste arendamise ja konkurentsivõime edendamise ning elukestva õppe korraldamisega seotud institutsioonide esindajatest koordinatsioonikogu ning kinnitab selle töökorra käskkirjaga.
+
+(2) Koordinatsioonikogusse kuuluvad käesoleva paragrahvi lõikes 1 nimetatud tegevuste eest vastutavate institutsioonide, sealhulgas Haridus- ja Teadusministeeriumi, Majandus- ja Kommunikatsiooniministeeriumi, Rahandusministeeriumi, Sotsiaalministeeriumi, Eesti Töötukassa, Eesti Kaubandus-Tööstuskoja, Eesti Tööandjate Keskliidu, Eesti Ametiühingute Keskliidu ning Teenistujate Ametiliitude Organisatsiooni esindajad.
+
+(3) Koordinatsioonikogu ülesanded on:
+
+1\) ühiskonna tööjõu nõudluse ja pakkumise ning inimeste oskustega seotud info ja valdkondliku eksperditeadmise koondamine;
+
+2\) kutsetegevuse valdkonnas tööjõuvajaduse uuringute ja analüüside tellimise kavandamine riigi strateegilistest prioriteetidest lähtudes ning Eesti reaalseid võimalusi ja vajadusi arvestades;
+
+3\) tööturu vajadustega seotud strateegilise teavitustöö kavandamine;
+
+4\) kutsetegevuse ja õppevaldkondade olulisuse kindlaks määramine lähtuvalt tööturu ja ühiskonna tasakaalustatud arengu vajadustest ning ettepanekute tegemine tööjõu järelkasvu tagamise meetmete kavandamisel;
+
+5\) eri ametkondadele ettepanekute tegemine õppe- ja koolituskohtade loomiseks tasemeõppes ja täienduskoolituses;
+
+6\) Vabariigi Valitsuse nõustamine inimeste kvalifikatsiooniga seotud otsuste tegemisel avaliku sektori eelarvest tehtavate hariduskulutuste otstarbekamaks ja efektiivsemaks kasutamiseks.
+
+(4) Koordinatsioonikogu kinnitab oma ülesannete täitmiseks vajalike valdkondlike eksperdikogude nimetused ja nende moodustamise põhimõtted.
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+### § 8. Kutsenõukogu
+
+(1) Kutsenõukogu on kutseasutuse juures tegutsev, võrdsetel alustel sama kutsetegevuse valdkonna töötajate, tööandjate, kutse- ja erialaühenduste ning riigi esindajatest koosnev haldusorgan.
+
+(2) Kutsenõukogud moodustab ning nende tegevuse lõpetab valdkonna eest vastutav minister käskkirjaga.
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+(3) Kutsenõukogude institutsionaalse koosseisu kinnitab valdkonna eest vastutav minister käskkirjaga.
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+(4) Kutsenõukogude isikkoosseisu kinnitab kutseasutus.
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+(5) Kutseasutus tugineb kutsenõukogu isikkoosseisu kinnitamisel selle kutsetegevuse valdkonnaga vahetult seotud ja valdkonnas tegutsevate ning registreeritud töötajate, tööandjate, kutse- või erialaühenduste, juriidiliste isikute ning asutuste ettepanekutele.
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+(6) Kutsetegevuse valdkondade loetelu, kutsenõukogude nimetused, moodustamise ja lõpetamise korra, töökorralduse ning käesoleva paragrahvi lõikes 5 nimetatud institutsioonide esindajate nimetamise korra ja nende volituste kestuse kehtestab Vabariigi Valitsus määrusega.
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+(7) Kutsenõukogu esimehele ja aseesimehele võib ametiülesannete täitmise eest maksta tasu, mille määra ja maksmise korra kehtestab kutseasutus.
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+### § 9. Kutsenõukogu tegevuse eesmärk ja ülesanded
+
+(1) Kutsenõukogu tegevuse eesmärk on oma kutsetegevuse valdkonnas kutsesüsteemi arendamine ja rakendamine.
+
+(2) Kutsenõukogu ülesanded on:
+
+1\) ettepanekute tegemine kutsestandardite väljatöötamiseks ja uuendamiseks;
+
+2\) kutsestandardite kinnitamine;
+
+3\) kutset andva organi õiguse andmine ja osalemine kutset andva organi kutse andmise tegevuse üle teostatavas haldusjärelevalves;
+
+\[RT I, 13.03.2014, 4 - jõust. 01.07.2014\]
+
+4\) kutse andmise korra kinnitamine;
+
+5\) kutse andmise ja kutse taastõendamise tasu suuruste kinnitamine;
+
+6\) \[kehtetu - RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+7\) muude seaduses sätestatud ülesannete täitmine.
+
+(3) Käesoleva paragrahvi lõikes 2 loetletud ülesannete täitmiseks võib kutsenõukogu rakendada kutseasutuse töötajaid, kaasata asjatundjaid või moodustada töörühmi.
+
+### § 10. Kutset andev organ
+
+(1) Kutset andva organina (edaspidi *kutse andja*) võib tegutseda kutseasutuse korraldatud avalikul konkursil (edaspidi *konkurss*) kutsenõukogu otsusega võitjaks kuulutatud ja kutseregistris sellekohast registreeringut omav juriidiline isik või tema asutus või riigi- või valitsusasutus. Registreerimisel määratakse kutsestandarditest tulenevad kutsenimetused ja tasemed, mille suhtes on kutse andjal õigus kutseid anda.
+
+(2) Kutsenõukogu annab õppeasutusele kutse andja õiguse ning registreerib ta kutseregistris ilma käesoleva paragrahvi lõikes 1 nimetatud konkursita õppeasutuse avalduse alusel, kui õppekava vastab kutsestandardile ning on riiklikult tunnustatud. Käesoleva seaduse tähenduses loetakse õppekava vastavaks kutsestandardile, kui õppekava õpiväljundites sisalduvad kutsestandardis esitatud kompetentsusnõuded. Käesoleva seaduse tähenduses loetakse riiklikult tunnustatuks kõik kõrgharidustaseme õppekavad ja need kutseõppe õppekavad, mis kuuluvad õppekavarühma, milles kutseõppe läbiviimise õigus on antud tähtajatult.
+
+\[RT I, 28.12.2018, 3 - jõust. 01.01.2019\]
+
+(2<sup>1</sup>) Käesoleva paragrahvi lõikes 2 nimetatud kutse andja õiguse andmise avaldusele lisatavate dokumentide loetelu kehtestatakse käesoleva seaduse § 11 lõike 2 alusel kehtestatud valdkonna eest vastutava ministri määrusega.
+
+\[RT I, 02.07.2013, 1 - jõust. 01.09.2013\]
+
+(3) Kutse andmise õigus antakse kuni viieks aastaks. Käesoleva paragrahvi lõikes 2 nimetatud kutse andmise õigus antakse kõrgharidustaseme ja kutseõppe õppekavade kohta tähtajatult.
+
+\[RT I, 28.12.2018, 3 - jõust. 01.01.2019\]
+
+(4) Käesoleva paragrahvi lõikes 1 nimetatud konkursi teistkordsel luhtumisel nimetab vajaduse korral kutse andja valdkonna eest vastutav minister käskkirjaga.
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+(5) Kutse andja lähtub kutse andmisel käesolevast seadusest, kutsestandarditest ja kutsenõukogu kinnitatud kutse andmise korrast.
+
+### § 11. Kutse andja valimine
+
+(1) Konkursil osaleja peab vastama järgmistele tingimustele:
+
+1\) kutse andja tegevuse hulka kuulub asjakohase kutsetegevuse arendamine;
+
+2\) kutse andjal peavad olema vahendid ja võimalused kutse andmise korraldamiseks;
+
+3\) kutse andjal peab kutse andmiseks olema palgatud piisav arv vajaliku hariduse, väljaõppe ja kogemustega töötajaid ning moodustatud kutsekomisjon;
+
+4\) kutse andja peab olema võimeline tegutsema sõltumatult, asjatundlikult, erapooletult ja kedagi diskrimineerimata.
+
+(2) Konkursi korraldamise korra ja käesoleva paragrahvi lõikes 1 nimetatud tingimustele vastavust tõendavate dokumentide loetelu kehtestab valdkonna eest vastutav minister määrusega.
+
+(3) Konkursil võitjaks kuulutatud kutse andja registreerib kutseasutus kutseregistris.
+
+(4) Kutseasutus ei rahulda konkursil osalemise taotlust, kui:
+
+1\) konkursil osaleja ei vasta õigusaktides sätestatud nõuetele;
+
+2\) konkursil osaleja ei ole esitanud nõutud dokumente;
+
+3\) konkursil osaleja on esitanud ebaõigeid või mittetäielikke andmeid;
+
+4\) konkursil osalejal on ajatamata riiklike maksude võlgnevusi.
+
+(5) Isikul, kes leiab, et tema õigusi on konkursi korraldamisel rikutud või vabadusi piiratud, on õigus konkursi korraldamist vaidlustada halduskohtus halduskohtumenetluse seadustikus sätestatud tingimustel ja korras või esitades kutseasutuse kaudu vaide valdkonna eest vastutavale ministrile haldusmenetluse seadusega sätestatud korras.
+
+### § 12. Kutse andja ülesanded
+
+(1) Kutse andja:
+
+1\) töötab koostöös kutsekomisjoniga välja kutse andmise korra eelnõu ja esitab selle kutsenõukogule kutse andmise õiguse taotlemisel;
+
+2\) korraldab kompetentsuse hindamise juhendite, eksamimaterjalide ning teiste kutse andmiseks vajalike dokumentide väljatöötamise;
+
+2<sup>1</sup>) hindab kutsekomisjoni kaudu konkursita valitava kutse andja õigust taotleva õppeasutuse õppekava vastavust kutsestandardile ning kooskõlastab õppeasutuse lõpueksami, lõputöö või kutseeksami hindamiskomisjoni koosseisu, et tagada tööturu osapoolte kaasatus;
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+2<sup>2</sup>) töötab välja ja arendab kutseõppe tasemeõppega seotud kutseeksami hindamisjuhendeid, eksamimaterjale ning teisi vajalikke dokumente ning korraldab kutseeksamit käesoleva seaduse §-s 17<sup>2</sup> sätestatud tingimustel;
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+3\) kalkuleerib ja esitab kutsenõukogule kinnitamiseks kutse andmise ja kutse taastõendamisega seotud tasu suuruse, kooskõlastades selle eelnevalt kutsekomisjoniga;
+
+4\) korraldab kutse andmise väljakuulutamist;
+
+5\) tagab kutse andmisega seotud teabe avalikustamise;
+
+6\) võtab vastu kutset taotleva isiku avalduse ja dokumendid (edaspidi *dokumendid*) ja lähtuvalt kutse andmise korras sätestatud kutsetunnistuse taotlemise eeltingimustest hindab taotleja sobivust taotletavale kutsetasemele ning esitab nõuetekohased dokumendid otsustamiseks kutsekomisjonile;
+
+7\) väljastab kutsetunnistuse või kutsetunnistuse duplikaadi;
+
+8\) tagab kutse andmise käigus saadud avaldamisele mittekuuluva teabe kaitstuse;
+
+9\) vastutab kutse andmise korraldamise protseduuride täitmise eest;
+
+10\) esitab kutsenõukogule vähemalt kord aastas kutse andmise korraldamise aruande ning kutse andmisega seotud rahaliste vahendite kasutamise aruande;
+
+11\) edastab kutseasutusele kutseregistrisse kandmisele kuuluvad andmed.
+
+(2) Kutse andja määrab käesoleva paragrahvi lõikes 1 loetletud ülesannete täitmiseks vastutava isiku.
+
+(3) Ilma konkursita valitud kutse andja täidab käesoleva paragrahvi lõike 1 punktides 5 ja 7–11 nimetatud ülesandeid.
+
+\[RT I, 28.12.2018, 3 - jõust. 01.01.2019\]
+
+### § 13. Kutse andja õiguse kehtetuks tunnistamine
+
+(1) Kutsenõukogu võib tunnistada konkursil valitud kutse andja õiguse kehtetuks, kui:
+
+1\) isik ei vasta käesoleva seaduse § 11 lõikes 1 sätestatud kutse andja tingimustele;
+
+2\) isik on esitanud sellesisulise kirjaliku taotluse;
+
+3\) isik ei võimalda teostada haldusjärelevalvet oma tegevuse üle kutse andmisel;
+
+\[RT I, 13.03.2014, 4 - jõust. 01.07.2014\]
+
+4\) isik ei ole ettenähtud tähtajaks ja korras täitnud kutsenõukogu tehtud ettekirjutust;
+
+5\) isik on oma tegevuses olulisel määral või korduvalt rikkunud temale esitatud nõudeid või jätnud täitmata temale pandud ülesandeid;
+
+6\) isik on esitanud konkursil osalemiseks valeandmeid;
+
+7\) isiku tegevus lõpetatakse või on välja kuulutatud tema pankrot;
+
+8\) isik ei ole korraldanud kutse andmist ühe aasta jooksul alates registreerimisest;
+
+9\) kutse andja tegevus on olnud peatunud vähemalt kuus kuud järjest.
+
+\[RT I, 02.07.2013, 1 - jõust. 01.09.2013\]
+
+(2) Kutsenõukogu võib tunnistada ilma konkursita valitud kutse andja õiguse kehtetuks, kui:
+
+1\) kutse andja ei vasta käesoleva seaduse § 10 lõikes 2 sätestatud tingimustele;
+
+2\) esineb vähemalt üks käesoleva paragrahvi lõike 1 punktides 2–5 ning 7 ja 9 nimetatud asjaoludest.
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+### § 14. Kutseregister
+
+(1) Kutseregister on andmekogu, mille eesmärk on koguda, säilitada, süstematiseerida, analüüsida ning anda usaldusväärset teavet kutsenõukogude, kutsealade, kutsestandardite, kutse andjate ning kutsete ja kutsetunnistuste kohta statistika ja uuringute tegemiseks ning strateegiliseks juhtimiseks.
+
+(2) Kutseregistri asutab ning selle põhimääruse, sealhulgas andmete koosseisu ja säilitamise tähtaja, kehtestab Vabariigi Valitsus määrusega.
+
+(3) Kutseregistri vastutav töötleja on Haridus- ja Teadusministeerium ning volitatud töötleja määratakse andmekogu põhimääruses.
+
+(4) Kutseregistri volitatud töötleja ülesandeid võib halduslepingu alusel täita eraõiguslik juriidiline isik vastutava töötleja poolt ettenähtud ulatuses.
+
+(5) Kutseregistrisse kogutakse andmeid kutsenõukogude, kutsealade, kutsestandardite, kutse andjate, kutsetunnistuste ja konkursita valitud kutse andja antud kutsete kohta.
+
+(6) Kutseregistri põhimääruses võib täpsustada käesoleva paragrahvi lõikes 5 nimetatud andmete koosseisu ja andmekogusse kandmise korda.
+
+(7) Kutseregistrisse kantud andmetel on informatiivne ja statistiline tähendus.
+
+\[RT I, 13.03.2019, 2 - jõust. 15.03.2019\]
+
+## 3. peatükk — KUTSE ANDMINE
+
+### § 15. Kutse andmine
+
+(1) Kutse andmine on kutset taotleva isiku (edaspidi *taotleja*) kompetentsuse kutsestandardis nimetatud nõuetele vastavuse hindamine, mille tulemusena kantakse taotlejale antud kutse kutseregistrisse. Paberkandjal kutsetunnistus väljastatakse kutse saanud isikule tema taotlusel.
+
+\[RT I, 28.12.2018, 3 - jõust. 01.01.2019\]
+
+(2) Kutsetunnistuse omamine ei ole töötamise eeltingimus, välja arvatud juhul, kui õigusaktiga on teataval ametikohal töötamiseks sätestatud kutsetunnistuse olemasolu nõue.
+
+(3) Kompetentsuse hindamise viisid ja vormid määratakse kutse andmise korras.
+
+(4) Kutse andmine ei tohi olla diskrimineeriv, sealhulgas ei või nõuda taotleja kuulumist või mittekuulumist mis tahes ühendusse või koolituste läbimist konkreetsetes õppeasutustes.
+
+(5) Õppe lõpetamisel loetakse kutse antuks isikule väljastataval akadeemilisel õiendil tehtava märkega, kui:
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+1\) isik on läbinud õppe Euroopa Parlamendi ja nõukogu direktiivis 2005/36/EÜ kutsekvalifikatsioonide tunnustamise kohta (ELT L 255, 30.9.2005, lk 22–142) nimetatud reguleeritud kutsealal ja
+
+2\) õppekava vastab kutsestandardile ning on riiklikult tunnustatud.
+
+(6) Õppe lõpetamisel loetakse kutse isikule antuks registreeringuga kutseregistris ning kutse andja õigust omava õppeasutuse väljastataval akadeemilisel õiendil või hinnetelehel tehtava märkega, kutseõppe lõpetamisel lõputunnistusel tehtava märkega ja kutse saanud isikule tema taotlusel kutsetunnistuse väljastamisega.
+
+\[RT I, 28.12.2018, 3 - jõust. 01.01.2019\]
+
+### § 16. Kutse andmise kord
+
+(1) Kutse andmise kord reguleerib kutse andmise korraldust, selle töötab välja kutse andja konkursil osalev organ koos kutsekomisjoniga ning kinnitab kutsenõukogu.
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+(2) Kutse andmise korras peavad sisalduma vähemalt järgmised andmed:
+
+1\) kutse andja nimetus;
+
+2\) kutsekomisjoni koosseis ning nõuded kutsekomisjoni liikmetele;
+
+3\) antavate kutsenimetuste ja -tasemete loetelu ning viide asjakohastele kutsestandarditele;
+
+4\) kutse taotlemise eeltingimused;
+
+5\) kutset taotleva isiku esitatavad dokumendid;
+
+6\) kutse andmise miinimumsagedus;
+
+7\) kindlaks määratud viisid, kuidas teavitatakse avalikkust kutse andmisega seotud tähtaegadest ja tingimustest;
+
+8\) kutse taotleja kutsealase kompetentsuse hindamise viis ja vormid;
+
+9\) kutse andmise korraldamise ja otsustamise kord;
+
+10\) kutsetunnistuse kehtivusaeg;
+
+11\) kutse taastõendamise tingimused ja kord;
+
+12\) nõuded hindamiskomisjoni liikmetele.
+
+(3) Kutse andmise korra muudatused esitatakse kutsenõukogule kinnitamiseks hiljemalt kümme tööpäeva enne kutsenõukogu koosolekut ning jõustatakse sellele koosolekule järgneval kutse andmise väljakuulutamisel.
+
+### § 17. Kutse andmisega seotud kulud ja nende katmine
+
+(1) Kutse andmise ja kutsetunnistuse väljaandmisega seotud kuludeks loetakse:
+
+1\) kutse andmise ettevalmistamisega seotud kulud;
+
+2\) kutsekomisjoni ja hindamiskomisjoni tööga seotud kulud;
+
+3\) kutse andmise korraldamisega seotud kulud;
+
+4\) kutsetunnistuse ja selle duplikaadi kutseregistris registreerimise ja väljaandmisega seotud kulud.
+
+\[RT I, 28.12.2018, 3 - jõust. 01.01.2019\]
+
+(2) Kutse andmisega seotud kulud kaetakse:
+
+1\) kutset taotleva isiku poolt või
+
+2\) töötajale täienduskoolituseks ettenähtud vahenditest või
+
+\[RT I, 23.03.2015, 5 - jõust. 01.07.2015\]
+
+3\) \[kehtetu - RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+4\) Eesti Töötukassa poolt tööturuteenuste ja -toetuste sihtkapitalist või
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+5\) riigieelarve eraldistest.
+
+(3) Kui kutsetunnistuse tekst ei ole loetav või selles leidub vigu või kutsetunnistus on hävinud, kaotatud, rikutud või varastatud tunnistuse väljaandja või kutseregistri volitatud töötleja süül, katab duplikaadi väljaandmise kulud väljaandja.
+
+(4) Kutse andja esitab kutsenõukogule kinnitamiseks kutse andmise ja kutse taastõendamise kulude kalkulatsiooni.
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+(5) Käesoleva paragrahvi lõikes 2 sätestatud isikutelt saadud rahaliste vahendite kasutamise kohta esitab kutsetunnistuse väljaandja kutsenõukogule kord aastas aruande.
+
+### § 17<sup>1</sup>. Kutse andmise tasu
+
+(1) Kutsenõukogu kinnitab kutse andmise ja kutse taastõendamise tasu suuruse käesoleva seaduse § 17 lõikes 4 nimetatud kutse andja kulude kalkulatsioonile tuginedes.
+
+(2) Kutsenõukogu arvestab kutse andmise ja kutse taastõendamise tasu kinnitamisel kutsealade erisustega, kutseeksamite kulude analüüsi, ülesehituse ja keerukusega, sealhulgas kutseeksami väljatöötamise, arendamise ja läbiviimise kuludega.
+
+(3) Kutseõppe tasemeõppe lõpetamisel kutse andmise tasu suuruse kinnitamisel ei või kutsenõukogu ületada käesoleva seaduse § 17<sup>2</sup> lõike 5 alusel kehtestatud ülemmäärasid.
+
+(4) Kutsenõukogu ei või samal kutsealal sama ülesehituse ja keerukusega läbi viidava kutse andmise korral kinnitada erinevaid kutse andmise tasu suuruseid.
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+### § 17<sup>2</sup>. Kutseõppe tasemeõppe õpilastele kutse andmisega seotud kulude katmine
+
+(1) Kutseõppe tasemeõppe tegevustoetusest moodustatud koolituskohal õppiva õpilase õppe lõpetamiseks sooritatava kutseeksami kulud kaetakse riigieelarvest.
+
+\[RT I, 28.12.2018, 3 - jõust. 01.01.2019\]
+
+(2) Kutseõppe tasemeõppe lõpetamiseks sooritatava kutseeksami kulud jagunevad järgmiselt:
+
+1\) kutseeksami väljatöötamise ja arendamisega ning kutsekomisjoni tööga seotud kulud;
+
+2\) kutseeksami läbiviimisega seotud kulud.
+
+(3) Kui kutseõppeasutus või kutseõpet andev rakenduskõrgkool tegutseb asjaomasel õppekaval konkursita valitud kutse andjana, kaetakse käesoleva paragrahvi lõike 2 punktis 1 nimetatud kutseeksami kulud konkursiga valitud kutse andja kaudu kutsekomisjonile ning käesoleva paragrahvi lõike 2 punktis 2 nimetatud kutseeksami kulud kutseeksami läbi viinud õppeasutusele.
+
+(4) Kui kutseõppeasutusel või rakenduskõrgkoolil ei ole asjaomasel õppekaval konkursita valitud kutse andja õigust, kaetakse tegevustoetusest moodustatud kutseõppe tasemeõppe koolituskohal õppijale kutseeksami kulud üks kord, kui ta on kutseeksamil osalenud kas õppeaja jooksul või aasta jooksul pärast lõpetamist. Kutseeksami kulud hüvitatakse kutseeksami läbi viinud kutse andjale.
+
+\[RT I, 28.12.2018, 3 - jõust. 01.01.2019\]
+
+(5) Valdkonna eest vastutav minister kehtestab määrusega kutseõppe tasemeõppe õpilaste kutseeksami kulude ülemmäärad, arvestades kutsealade erisustega ning lähtudes kutseeksamite kulude analüüsist, ülesehitusest ja keerukusest, sealhulgas kutseeksami väljatöötamise, arendamise ja läbiviimise kuludest.
+
+(6) Kutseõppe tasemeõppe õpilaste kutseeksami ülemmäärade kehtestamisel võib eristada kutseeksami väljatöötamise ja arendamisega seotud kulusid ning kutseeksami läbiviimisega seotud kulusid.
+
+(7) Käesolevat paragrahvi ei kohaldata sisekaitselise või riigikaitselise rakenduskõrgkooli kutseõppe tasemeõppe õpilastele kutse andmise kulude katmisel.
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+### § 18. Kutsekomisjon
+
+(1) Kutse andja moodustab kutse andmise erapooletuse tagamiseks kutsekomisjoni, kuhu kuuluvad selle valdkonna kutse andmisest huvitatud osapooled: spetsialistid, tööandjad, töötajad, koolitajad, kutse- ja erialaliitude esindajad, vajaduse korral klientide ja tarbijate esindajad, samuti teised huvitatud osapooled.
+
+(1<sup>1</sup>) Kutsekomisjoni tööd korraldab konkursiga valitud kutse andja, selle puudumisel kutseasutus.
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+(2) Kutsekomisjon:
+
+1\) töötab välja kutse andmise korra koostöös kutse andja õiguste taotlejaga;
+
+2\) kinnitab vajaduse korral kompetentsuse hindamise koha nõuded;
+
+3\) vaatab läbi kutset taotleva isiku dokumendid ning otsustab kutset taotleva isiku kompetentsuse hindamise vormi ja viisi;
+
+4\) nimetab vajaduse korral hindamiskomisjoni(d), kes hindab (hindavad) kutset taotleva isiku kompetentsuse vastavust kutsestandardi nõuetele;
+
+5\) kinnitab hindamise korraldamise juhendi ja eksamimaterjalid;
+
+6\) otsustab kutset taotlevale isikule kutse andmise või andmata jätmise;
+
+7\) lahendab hindamiskomisjoni tegevuse kohta esitatud kaebusi;
+
+7<sup>1</sup>) annab kutsenõukogu taotlusel hinnangu õppeasutuse õppekava vastavuse kohta kutsestandardile;
+
+\[RT I, 02.07.2013, 1 - jõust. 01.09.2013\]
+
+8\) täidab muid seaduses sätestatud ülesandeid.
+
+(3) Kutsekomisjoni liige ei tohi osaleda kutset taotlevale isikule kutse andmise otsustamisel, kui ta on:
+
+1\) osalenud hindamiskomisjoni töös või
+
+2\) vahetult seotud kutset taotlevale isikule kutse andmiseks ettevalmistava koolituse või väljaõppe korraldamisega või
+
+3\) kutset taotleva isiku tööandja või muul viisil isiklikult huvitatud kutse andmisest või kui muud asjaolud tekitavad kahtlust tema erapooletuses.
+
+### § 19. Hindamiskomisjon
+
+(1) Hindamiskomisjon on kutsekomisjoni moodustatud komisjon kutse taotleja kompetentsuse hindamiseks.
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+(2) Kutset taotleva isiku kompetentsuse hindamiseks võib kutsekomisjon moodustada ühe või mitu hindamiskomisjoni.
+
+(3) Hindamiskomisjon koosneb vähemalt kolmest liikmest. Kui hindamine toimub eksami vormis automaatse testimissüsteemi kasutamisel, mille puhul inimene eksami hindamisse ei sekku, vaid ainult fikseerib tulemusi, siis võib hindamiskomisjonis olla üks liige.
+
+(4) Hindamiskomisjoni liikmed peavad olema sõltumatud ning vajalike erialaste teadmiste ja kogemustega.
+
+(5) Hindamiskomisjoni liikmetest ei tohi üle ühe kolmandiku olla selleks hindamiseks või kutseeksamiks ettevalmistavaid koolitajaid või vahetult väljaõppe korraldamisega seotud isikuid ja üle ühe kolmandiku ei tohi olla kutset taotleva isiku tööandjaga samast asutusest, välja arvatud käesoleva paragrahvi lõikes 3 nimetatud automaatse testimissüsteemi korral.
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+(6) Hindamiskomisjon:
+
+1\) hindab ja võtab vastu kutseeksami;
+
+2\) koostab hindamise korraldamise ja tulemuste kohta protokolli ning esitab selle kutsekomisjonile.
+
+### § 20. Kutse andmise dokumenteerimine ja dokumentide säilitamine
+
+(1) Kutse andmisega seotud tegevus dokumenteeritakse kutseasutuse koostatud dokumendivormide järgi ja kutseasutuse määratud ulatuses ning dokumente säilitatakse kutseasutuse kinnitatud arhiveerimiskorras sätestatud aja jooksul, kui õigusaktides ei ole tähtaegu sätestatud.
+
+(2) Kutse andmisega seotud dokumendid on avalike ülesannete täitmise käigus loodud või saadud dokumendid, millele laienevad arhiiviseaduses ja selle alusel kehtestatud nõuded.
+
+\[RT I, 21.03.2011, 1 - jõust. 01.01.2012\]
+
+### § 21. Kutsetunnistus
+
+(1) Kutsetunnistus on elektrooniline kanne kutseregistris ja selle alusel väljastatud dokument, mis tõendab isiku kompetentsuse vastavust kutsestandardis kehtestatud nõuetele, osakutse puhul kutsestandardi ühe või mitme osa nõuetele. Kutsetunnistuse õigsuse eest vastutab kutsetunnistuse väljastanud kutse andja.
+
+\[RT I, 28.12.2018, 3 - jõust. 01.01.2019\]
+
+(2) Kutset omaval isikul on õigus kasutada kutsetunnistuse kehtivuse ajal kutsetunnistusel märgitud kutsenimetust või selle lühendit ning esitleda end kompetentsena vastavalt antud kutsetasemele.
+
+(3) Kutsetunnistuse statuudi ja vormi kehtestab valdkonna eest vastutav minister määrusega.
+
+(4) Kutsetunnistus kantakse kutseregistri põhimäärusega sätestatud korras kutseregistrisse. Paberkandjal kutsetunnistus on kehtiv ainult sellekohase kande olemasolu korral kutseregistris.
+
+\[RT I, 28.12.2018, 3 - jõust. 01.01.2019\]
+
+(5) Kutsetunnistuse duplikaadi annab välja kutsetunnistuse väljastanud kutse andja või selle puudumisel käesoleva seaduse § 6 lõikes 1 nimetatud kutseasutus.
+
+### § 22. Kutsetunnistuse kehtetuks tunnistamine
+
+(1) Kutse andjal on kutsekomisjoni ettepanekul õigus tunnistada väljastatud kutsetunnistus kehtetuks, kui:
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+1\) kutsetunnistus on saadud pettuse teel;
+
+2\) kutsetunnistus on välja antud võltsitud või valeandmeid sisaldava dokumendi alusel;
+
+3\) kutset omava isiku tegevus ei vasta kutsestandardiga sätestatud normidele.
+
+(2) Väljastatud kutsetunnistuse kehtetuks tunnistamisel kustutatakse see kutsetunnistus kutseregistrist ning kutsetunnistuse kehtetuks tunnistanud organ teatab otsusest asjaomasele isikule tähtkirjaga ja avaldab sellekohase kuulutuse Ametlikes Teadaannetes.
+
+(3) \[Kehtetu - RT I, 28.12.2018, 3 - jõust. 01.01.2019\]
+
+(4) Kutsetunnistuse kehtetuks tunnistamise otsust on võimalik vaidlustada halduskohtus halduskohtumenetluse seadustikus sätestatud tingimustel ja korras või esitades vaide asjakohasele kutse andjale haldusmenetluse seadusega sätestatud korras.
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+### § 22<sup>1</sup>. Kutse andmine õppe lõpetamise korral
+
+(1) Konkursita valitud kutse andjana tegutseva õppeasutuse kutse andmisele ei kohaldata käesoleva seaduse §-des 16, 17, 18 ja 19 sätestatut, kõrghariduse õppekavade lõpetajate puhul ka §-des 21 ja 22 sätestatut.
+
+\[RT I, 28.12.2018, 3 - jõust. 01.01.2019\]
+
+(2) Konkursita valitud kutse andjana tegutsev õppeasutus ei moodusta kutsekomisjoni. Kutse andmisel õppe lõpetamisel täidab kutsekomisjoni ülesandeid konkursiga valitud kutse andja või selle puudumisel, kutseasutuse poolt moodustatud kutsekomisjon. Õppeasutuste esindusorganisatsioonid nimetavad sellesse kutsekomisjoni oma esindaja.
+
+(3) Kutse andmiseks õppe lõpetamisel kutseasutuse poolt moodustatud kutsekomisjoni koosseisu kinnitab kutsenõukogu. Kutseasutuse poolt moodustatud kutsekomisjoni volitused lõpevad, kui samal kutsealal valitakse konkursi korras kutse andja.
+
+(4) Kutse andmisel õppe lõpetamisel kooskõlastab kutsekomisjon õppeasutuse esitatud hindamiskomisjoni liikmete nimekirja ja võib nimekirja ise nimetada tööandjate esindajaid.
+
+(5) Kutsekomisjon kinnitab kutseõppe tasemeõppe lõpetamisel sooritatava kutseeksami protseduurid, hindamise korraldamise juhendi ja eksamimaterjalid.
+
+(6) Kutseõppe tasemeõppe lõpetamisel sooritatava kutseeksami läbiviimiseks moodustab õppeasutus hindamiskomisjoni käesoleva seaduse § 19 lõigetes 3–5 sätestatud põhimõtete alusel, valides hindamiskomisjoni liikmed kutsekomisjoniga kooskõlastatud nimekirjast.
+
+(7) Kutse andmise õppe lõpetamise korral otsustab õppeasutus.
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+## 4. peatükk — HALDUSJÄRELEVALVE
+
+\[RT I, 13.03.2014, 4 - jõust. 01.07.2014\]
+
+### § 23. Haldusjärelevalve teostaja
+
+\[RT I, 13.03.2014, 4 - jõust. 01.07.2014\]
+
+Kutse andja ning kutsenõukogude tegevuse üle käesolevas seaduses ja selle alusel kehtestatud õigusaktides sätestatud nõuete täitmisel teostab haldusjärelevalvet Haridus- ja Teadusministeerium või halduslepingu alusel volitatud sihtasutus (edaspidi *järelevalveorgan*). Kui kutseasutuse ülesannete täitmiseks on sõlmitud haldusleping, teostab haldusjärelevalvet kutseasutuse üle Haridus- ja Teadusministeerium.
+
+\[RT I, 28.12.2018, 3 - jõust. 01.01.2019\]
+
+### § 24. Haldusjärelevalve eesmärk ja sisu
+
+\[RT I, 13.03.2014, 4 - jõust. 01.07.2014\]
+
+(1) Haldusjärelevalve eesmärk on kontrollida kutsesüsteemi toimimise ja arendamise seaduslikkust.
+
+\[RT I, 13.03.2014, 4 - jõust. 01.07.2014\]
+
+(2) Järelevalveorganil on õigus:
+
+1\) kontrollida kohapeal õigusaktidest tulenevate nõuete täitmist;
+
+2\) saada haldusjärelevalve teostamiseks vajaminevat informatsiooni;
+
+\[RT I, 13.03.2014, 4 - jõust. 01.07.2014\]
+
+3\) tutvuda dokumentide originaalidega ning saada neist väljavõtteid ja ärakirju;
+
+4\) teha järelevalvatavale ettepanekuid kutsesüsteemi arendamiseks;
+
+5\) teha ettekirjutusi või otsuseid.
+
+(3) Järelevalveorgani otsust ja ettekirjutust on võimalik vaidlustada halduskohtus halduskohtumenetluse seadustikus sätestatud tingimustel ja korras või esitades vaide valdkonna eest vastutavale ministrile haldusmenetluse seaduses sätestatud korras.
+
+### § 25. Järelevalveorgani ettekirjutus
+
+(1) Õigusrikkumise avastamise korral võib järelevalveorgan teha kutseasutusele, kutsenõukogule või kutse andjale ettekirjutuse, milles esitab nõude lõpetada õigusrikkumine.
+
+\[RT I, 28.12.2018, 3 - jõust. 01.01.2019\]
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud ettekirjutuse täitmata jätmise korral võib järelevalveorgan rakendada sunniraha asendustäitmise ja sunniraha seaduses ettenähtud korras. Sunniraha ülemmäär on 320 eurot.
+
+\[RT I 2010, 22, 108 - jõust. 01.01.2011\]
+
+(3) Käesoleva paragrahvi lõikes 1 nimetatud ettekirjutuse täitmata jätmise korral võib järelevalveorgan teha Vabariigi Valitsusele ettepaneku lõpetada kutsenõukogu tegevus.
+
+## 5. peatükk — RAKENDUSSÄTTED
+
+### § 26. Üleminekusätted
+
+(1) Kutsenõukogude ja kutsekomisjonide ning hindamiskomisjonide koosseisud viiakse käesoleva seaduse nõuetega vastavusse ühe aasta jooksul alates käesoleva seaduse jõustumisest.
+
+(2) Käesoleva seaduse jõustumisel tähtajatut tegevusluba omavad kutse andjad kantakse kutseregistrisse tähtajaga kuni 2014. aasta 1. jaanuar.
+
+\[RT I, 10.12.2010, 2 - jõust. 20.12.2010\]
+
+(3) Enne seaduse jõustumist kehtinud kutsesüsteemi (käesoleva seaduse lisa 2 «Kutsekvalifikatsioonitasemete kirjeldused 2001. aastal vastuvõetud kutseseaduse alusel») alusel kehtestatud kutsestandardid kehtivad kuni kutsestandardi kehtivusaja lõppemiseni või kutsestandardi vastavusse viimiseni käesoleva seaduse § 4 alusel kehtestatud lisaga 1 «Kvalifikatsiooniraamistik». Kutsenõukogul on õigus pikendada enne seaduse jõustumist kehtinud kutsesüsteemi alusel kehtestatud kutsestandardi kehtivusaega kuni 2014. aasta 1. jaanuarini, kui kutsestandardi kehtivusaeg lõpeb enne, kui kutsestandard jõutakse viia vastavusse käesoleva seaduse § 4 alusel kehtestatud lisaga 1 „Kvalifikatsiooniraamistik”.
+
+\[RT I, 10.12.2010, 2 - jõust. 20.12.2010\]
+
+(4) Enne seaduse jõustumist kehtinud kutsesüsteemi (käesoleva seaduse lisa 2 «Kutsekvalifikatsioonitasemete kirjeldused 2001. aastal vastuvõetud kutseseaduse alusel») alusel väljastatud kutsetunnistused kehtivad kuni kutsetunnistuse kehtivusaja lõppemiseni või kutsetunnistuse vastavusse viimiseni käesoleva seaduse § 4 alusel kehtestatud lisaga 1 «Kvalifikatsiooniraamistik».
+
+(5) Enne käesoleva seaduse jõustumist kutseseaduse alusel peetud kutseregistris sisaldunud andmed viiakse kuue kuu jooksul üle käesoleva seaduse § 14 alusel peetavasse kutseregistrisse.
+
+(6) Enne 2015. aasta 1. märtsi moodustatud kutsenõukogud tegutsevad kuni uute kutsenõukogude moodustamiseni, kuid mitte kauem kui 2015. aasta 31. detsembrini.
+
+\[RT I, 30.01.2015, 1 - jõust. 01.03.2015\]
+
+(7) Kõik kutseõppe õppekavad, mis kuuluvad õppekavarühma, millel on 2019. aasta 1. jaanuariks õppe läbiviimise õigus pikendatud kuueks aastaks, loetakse kutseseaduse tähenduses riiklikult tunnustatuks.
+
+\[RT I, 28.12.2018, 3 - jõust. 01.01.2019\]
+
+### § 27.
+
+–
+
+### § 31.
+
+\[Käesolevast tekstist välja jäetud.\]
+
+### § 32. Seaduse jõustumine
+
+(1) Käesolev seadus jõustub 2008. aasta 1. septembril.
+
+(2) Käesoleva seaduse § 10 lõige 2 ja § 15 lõige 6 jõustuvad 2011. aasta 1. jaanuaril.
+
+## Lisad
+
+- Lisa — [Lisa\_1.pdf](https://www.riigiteataja.ee/aktilisa/1130/3201/9010/Lisa_1.pdf)
+
+Lisa 1
+
+- Lisa — [Lisa\_2.pdf](https://www.riigiteataja.ee/aktilisa/1130/3201/9010/Lisa_2.pdf)
+
+Lisa 2

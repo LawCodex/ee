@@ -12,7 +12,7 @@ date: 2018-11-21
 last_amended: 2018-12-17
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/520122018013"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "107122018002"
 ---
@@ -20,8 +20,6 @@ translation_of: "107122018002"
 # Restriction of Unfair Competition and Protection of Business Secrets Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — General Provisions
 
@@ -207,4 +205,4 @@ Eiki Nestor, President of the Riigikogu
 
 ---
 
-Directive (EU) 2016/943 of the European Parliament and of the Council on the protection of undisclosed know-how and business information (trade secrets) against their unlawful acquisition, use and disclosure (OJ L 157, 15.06.2016, pp. 1–18).
+<sup>1</sup> Directive (EU) 2016/943 of the European Parliament and of the Council on the protection of undisclosed know-how and business information (trade secrets) against their unlawful acquisition, use and disclosure (OJ L 157, 15.06.2016, pp. 1–18).

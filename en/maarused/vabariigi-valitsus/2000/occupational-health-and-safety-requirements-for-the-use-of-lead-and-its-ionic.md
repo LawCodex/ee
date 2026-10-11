@@ -14,7 +14,7 @@ date: 2000-06-20
 last_amended: 2024-04-05
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/513062024004"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "102042024018"
 ---
@@ -22,8 +22,6 @@ translation_of: "102042024018"
 # Occupational health and safety requirements for the use of lead and its ionic compounds
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 This Regulation is enacted on the basis of Sections 3(4), 4(5), 7(3) and 13<sup>1</sup>(9) of the Occupational Health and Safety Act \[ *töötervishoiu ja tööohutuse seadus* \].\
 \[RT I, 02.04.2024, 13 – entry into force 5 April 2024\]
@@ -225,5 +223,5 @@ This Regulation shall enter into force on 1 July 2000.
 
 ---
 
-Directive 2004/37/EC of the European Parliament and of the Council on the protection of workers from the risks related to exposure to carcinogens, mutagens or reprotoxic substances at work (Sixth individual Directive within the meaning of Article 16(1) of Council Directive 89/391/EEC) (OJ L 158, 30.4.2004, p. 35), as amended by Directive 2014/27/EU (OJ L 65, 5.3.2014, p. 1), Directive (EU) 2017/2398 (OJ L 345, 27.12.2017, p. 87), Directive (EU) 2019/130 (OJ L 30, 31.1.2019, p. 112), Directive (EU) 2019/983 (OJ L 164, 20.6.2019, p. 23), Regulation (EU) 2019/1243 (OJ L 198, 25.7.2019, p. 241) and Directive (EU) 2022/431 (OJ L 88, 16.3.2022, p. 1).\
+<sup>1</sup> Directive 2004/37/EC of the European Parliament and of the Council on the protection of workers from the risks related to exposure to carcinogens, mutagens or reprotoxic substances at work (Sixth individual Directive within the meaning of Article 16(1) of Council Directive 89/391/EEC) (OJ L 158, 30.4.2004, p. 35), as amended by Directive 2014/27/EU (OJ L 65, 5.3.2014, p. 1), Directive (EU) 2017/2398 (OJ L 345, 27.12.2017, p. 87), Directive (EU) 2019/130 (OJ L 30, 31.1.2019, p. 112), Directive (EU) 2019/983 (OJ L 164, 20.6.2019, p. 23), Regulation (EU) 2019/1243 (OJ L 198, 25.7.2019, p. 241) and Directive (EU) 2022/431 (OJ L 88, 16.3.2022, p. 1).\
 \[RT I, 02.04.2024, 13 – entry into force 5 April 2024\]

@@ -13,7 +13,7 @@ date: 2014-11-28
 last_amended: 2014-12-13
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/528012015006"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "103122014009"
 ---
@@ -21,8 +21,6 @@ translation_of: "103122014009"
 # Requirements for indications identifying the lot to which a foodstuff belongs
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 This Regulation is enacted on the basis of Section 38(6) of the Food Act.
 
@@ -74,4 +72,4 @@ Toomas Kevvai, Deputy Secretary-General for Food Safety, Research and Developmen
 
 ---
 
-Directive 2011/91/EU of the European Parliament and of the Council on indications or marks identifying the lot to which a foodstuff belongs (OJ L 334, 16.12.2011, pp. 1–5).
+<sup>1</sup> Directive 2011/91/EU of the European Parliament and of the Council on indications or marks identifying the lot to which a foodstuff belongs (OJ L 334, 16.12.2011, pp. 1–5).

@@ -13,7 +13,7 @@ date: 2018-05-09
 last_amended: 2025-09-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/512092025008"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "102012025028"
 ---
@@ -21,8 +21,6 @@ translation_of: "102012025028"
 # Metrology Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -598,7 +596,7 @@ The Metrology Act (RT I, 2004, 18, 132) is repealed.
 
 ---
 
-Council Directive 75/107/EEC on the approximation of the laws of the Member States relating to measuring container bottles (OJ L 42, 15.2.1975, p. 14–20);\
+<sup>1</sup> Council Directive 75/107/EEC on the approximation of the laws of the Member States relating to measuring container bottles (OJ L 42, 15.2.1975, p. 14–20);\
 Council Directive 76/211/EEC on the approximation of the laws of the Member States relating to the making-up by weight or by volume of certain prepackaged products (OJ L 46, 21.02.1976, p. 1–11), last amended by Directive 2007/45/EC (OJ L 247, 21.9.2007, p. 17–20);\
 Council Directive 80/181/EEC on the approximation of the laws of the Member States relating to units of measurement and on the repeal of Directive 71/354/EEC (OJ L 39, 15.02.1980, p. 40–50), last amended by Directive 2009/3/EC (OJ L 114, 7.5.2009, p. 10–13);\
 Directive 2007/45/EC of the European Parliament and of the Council laying down rules on nominal quantities for prepacked products, repealing Council Directives 75/106/EEC and 80/232/EEC, and amending Council Directive 76/211/EEC (OJ L 247, 21.9.2007, p. 17–20);\

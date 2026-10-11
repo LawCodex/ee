@@ -13,7 +13,7 @@ date: 2005-02-09
 last_amended: 2026-04-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/508052026005"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "117032026013"
 ---
@@ -21,8 +21,6 @@ translation_of: "117032026013"
 # Blood Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -350,4 +348,4 @@ Blood establishments and hospital blood banks shall bring the handling of blood 
 
 ---
 
-Directive 2002/98/EC of the European Parliament and of the Council setting standards of quality and safety for the collection, testing, processing, storage and distribution of human blood and blood components and amending Directive 2001/83/EC (OJ L 033, 08.02.2003, pp. 30–40); Commission Directive 2003/94/EC laying down the principles and guidelines of good manufacturing practice in respect of medicinal products for human use and investigational medicinal products for human use (OJ L 262, 14.10.2003, pp. 22–26); Commission Directive 2004/33/EC implementing Directive 2002/98/EC of the European Parliament and of the Council as regards certain technical requirements for blood and blood components (OJ L 091, 30.03.2004, pp. 25–39).
+<sup>1</sup> Directive 2002/98/EC of the European Parliament and of the Council setting standards of quality and safety for the collection, testing, processing, storage and distribution of human blood and blood components and amending Directive 2001/83/EC (OJ L 033, 08.02.2003, pp. 30–40); Commission Directive 2003/94/EC laying down the principles and guidelines of good manufacturing practice in respect of medicinal products for human use and investigational medicinal products for human use (OJ L 262, 14.10.2003, pp. 22–26); Commission Directive 2004/33/EC implementing Directive 2002/98/EC of the European Parliament and of the Council as regards certain technical requirements for blood and blood components (OJ L 091, 30.03.2004, pp. 25–39).

@@ -13,7 +13,7 @@ date: 2014-06-11
 last_amended: 2026-02-07
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/509022026001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "128012026006"
 ---
@@ -21,8 +21,6 @@ translation_of: "128012026006"
 # Seafarers Employment Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — General Provisions
 
@@ -1091,4 +1089,4 @@ This Act enters into force on 1 July 2014.
 
 ---
 
-Council Directive 92/29/EEC on the minimum safety and health requirements for improved medical treatment on board vessels (OJ L 113, 30.04.1992, pp. 19–36); Council Directive 1999/63/EC concerning the Agreement on the organisation of working time of seafarers concluded by the European Community Operators’ Association (ECSA) and the Federation of Transport Workers’ Unions in the European Union (FST) (OJ L 167, 02.07.1999, pp. 33–37), as amended by Directive 2009/13/EC (OJ L 124, 20.05.2009, pp. 30–50) and Directive (EU) 2018/131 (OJ L 22, 26.01.2018, pp. 28-33); Council Directive 2014/112/EU implementing the European Agreement concerning certain aspects of the organisation of working time in inland waterway transport, concluded by the European Barge Union (EBU), the European Skippers Organisation (ESO) and the European Transport Workers’ Federation (ETF) (OJ L 367, 23.12.2014, pp. 86–95); Directive (EU) 2015/1794 of the European Parliament and of the Council amending Directives 2008/94/EC, 2009/38/EC and 2002/14/EC of the European Parliament and of the Council, and Council Directives 98/59/EC and 2001/23/EC, as regards seafarers (OJ L 263, 08.10.2015, pp. 1–5); Council Directive (EU) 2017/159 implementing the Agreement concerning the implementation of the Work in Fishing Convention, 2007 of the International Labour Organisation, concluded on 21 May 2012 between the General Confederation of Agricultural Cooperatives in the European Union (Cogeca), the European Transport Workers’ Federation (ETF) and the Association of National Organisations of Fishing Enterprises in the European Union (Europ&#378;che) (OJ L 25, 31.01.2017, pp. 12–35). \[RT I, 03.01.2020, 1 – entry into force 13.01.2020\]
+<sup>1</sup> Council Directive 92/29/EEC on the minimum safety and health requirements for improved medical treatment on board vessels (OJ L 113, 30.04.1992, pp. 19–36); Council Directive 1999/63/EC concerning the Agreement on the organisation of working time of seafarers concluded by the European Community Operators’ Association (ECSA) and the Federation of Transport Workers’ Unions in the European Union (FST) (OJ L 167, 02.07.1999, pp. 33–37), as amended by Directive 2009/13/EC (OJ L 124, 20.05.2009, pp. 30–50) and Directive (EU) 2018/131 (OJ L 22, 26.01.2018, pp. 28-33); Council Directive 2014/112/EU implementing the European Agreement concerning certain aspects of the organisation of working time in inland waterway transport, concluded by the European Barge Union (EBU), the European Skippers Organisation (ESO) and the European Transport Workers’ Federation (ETF) (OJ L 367, 23.12.2014, pp. 86–95); Directive (EU) 2015/1794 of the European Parliament and of the Council amending Directives 2008/94/EC, 2009/38/EC and 2002/14/EC of the European Parliament and of the Council, and Council Directives 98/59/EC and 2001/23/EC, as regards seafarers (OJ L 263, 08.10.2015, pp. 1–5); Council Directive (EU) 2017/159 implementing the Agreement concerning the implementation of the Work in Fishing Convention, 2007 of the International Labour Organisation, concluded on 21 May 2012 between the General Confederation of Agricultural Cooperatives in the European Union (Cogeca), the European Transport Workers’ Federation (ETF) and the Association of National Organisations of Fishing Enterprises in the European Union (Europ&#378;che) (OJ L 25, 31.01.2017, pp. 12–35). \[RT I, 03.01.2020, 1 – entry into force 13.01.2020\]

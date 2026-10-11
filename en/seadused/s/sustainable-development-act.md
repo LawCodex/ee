@@ -13,7 +13,7 @@ date: 1995-02-22
 last_amended: 2017-01-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/520122016001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "110112016016"
 ---
@@ -84,9 +84,7 @@ The purpose of the sustainable use of the natural environment and natural resour
 
 (2) In planning economic activity, the reserves of non-renewable natural resources located within protected areas are excluded from the usable reserve.
 
-\[Repealed - RT I, 10.11.2016, 1 - entry into force 01.01.2017\]
-
-(3)
+(3) \[Repealed - RT I, 10.11.2016, 1 - entry into force 01.01.2017\]
 
 ## § 7. Associated natural resources
 

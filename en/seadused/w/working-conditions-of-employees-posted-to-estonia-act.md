@@ -13,7 +13,7 @@ date: 2004-03-17
 last_amended: 2026-07-13
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/514072026001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "103072026044"
 ---
@@ -21,8 +21,6 @@ translation_of: "103072026044"
 # Working Conditions of Employees Posted to Estonia Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## § 1. Objective of Act
 
@@ -461,4 +459,4 @@ This Act enters into force on 1 May 2004.
 
 ---
 
-Directive 96/71/EC of the European Parliament and of the Council concerning the posting of workers in the framework of the provision of services (OJ L 018, 21.01.1997, pp 1–6), as amended by Directive (EU) 2018/957 (OJ L 173, 09.07.2018, pp 16–24); Directive 2014/67/EU of the European Parliament and of the Council on the enforcement of Directive 96/71/EC concerning the posting of workers in the framework of the provision of services and amending Regulation (EU) No 1024/2012 on administrative co-operation through the Internal Market Information (OJ L 159, 28.05.2014, pp 11–31); Directive (EU) 2020/1057 of the European Parliament and of the Council laying down specific rules with respect to Directive 96/71/EC and Directive 2014/67/EU for posting drivers in the road transport sector and amending Directive 2006/22/EC as regards enforcement requirements and Regulation (EU) No 1024/2012 (ELT L 249, 31.07.2020, pp 49–65); Directive (EU) 2019/1152 of the European Parliament and of the Council on transparent and predictable working conditions in the European Union (OJ L 186, 11.07.2019, pp 105–121). \[RT I, 30.04.2022, 1 – entry into force 01.08.2022\]
+<sup>1</sup> Directive 96/71/EC of the European Parliament and of the Council concerning the posting of workers in the framework of the provision of services (OJ L 018, 21.01.1997, pp 1–6), as amended by Directive (EU) 2018/957 (OJ L 173, 09.07.2018, pp 16–24); Directive 2014/67/EU of the European Parliament and of the Council on the enforcement of Directive 96/71/EC concerning the posting of workers in the framework of the provision of services and amending Regulation (EU) No 1024/2012 on administrative co-operation through the Internal Market Information (OJ L 159, 28.05.2014, pp 11–31); Directive (EU) 2020/1057 of the European Parliament and of the Council laying down specific rules with respect to Directive 96/71/EC and Directive 2014/67/EU for posting drivers in the road transport sector and amending Directive 2006/22/EC as regards enforcement requirements and Regulation (EU) No 1024/2012 (ELT L 249, 31.07.2020, pp 49–65); Directive (EU) 2019/1152 of the European Parliament and of the Council on transparent and predictable working conditions in the European Union (OJ L 186, 11.07.2019, pp 105–121). \[RT I, 30.04.2022, 1 – entry into force 01.08.2022\]

@@ -13,7 +13,7 @@ date: 2019-01-24
 last_amended: 2019-02-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/510122019004"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "129012019016"
 ---
@@ -21,8 +21,6 @@ translation_of: "129012019016"
 # Mandatory Pre-determined Nominal Quantities of Prepackages, Requirements for Marking of Prepackages, Tolerable Error of Actual Contents of Prepackages from Nominal Quantities and Procedure for Checking Actual Contents of Prepackages
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 The Regulation is established pursuant to subsection 16 (8) of the Metrology Act.
 
@@ -231,7 +229,7 @@ Ando Leppiman, Secretary General
 
 ---
 
-Directive 2007/45/EC Of the European Parliament and of the Council of 5 September 2007 laying down rules on nominal quantities for prepacked products, repealing Council Directives 75/106/EEC and 80/232/EEC, and amending Council Directive 76/211/EEC (OJ L 247, 21.9.2007, p. 17–20) 
+<sup>1</sup> Directive 2007/45/EC Of the European Parliament and of the Council of 5 September 2007 laying down rules on nominal quantities for prepacked products, repealing Council Directives 75/106/EEC and 80/232/EEC, and amending Council Directive 76/211/EEC (OJ L 247, 21.9.2007, p. 17–20) 
 Council Directive 76/211/EEC of 20 January 1976 on the approximation of the laws of the Member States relating to the making-up by weight or by volume of certain prepackaged products (OJ L 46, 21.2.1976, p. 1–11)
 
 ## Annexes

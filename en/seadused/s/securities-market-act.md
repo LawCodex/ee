@@ -13,7 +13,7 @@ date: 2001-10-17
 last_amended: 2026-07-21
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/508092026001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "111072026030"
 ---
@@ -21,8 +21,6 @@ translation_of: "111072026030"
 # Securities Market Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Part 1 — GENERAL INFORMATION
 
@@ -8995,7 +8993,7 @@ The operator of a regulated securities market is obliged to bring its activities
 
 ---
 
-Directive 98/26/EC of the European Parliament and of the Council on settlement finality in payment and securities settlement systems (OJ L 166, 11.6.June 1998, pp 45–50), as last amended by Directive 2010/78/EU (OJ L 331, 15.12.2010, pp 120–161);\
+<sup>1</sup> Directive 98/26/EC of the European Parliament and of the Council on settlement finality in payment and securities settlement systems (OJ L 166, 11.6.June 1998, pp 45–50), as last amended by Directive 2010/78/EU (OJ L 331, 15.12.2010, pp 120–161);\
 
 Directive 2002/87/EC of the European Parliament and of the Council on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerate and amending Council Directives 73/239/EEC, 79/267/EEC, 92/49/EEC, 92/96/EEC, 93/6/EEC and 93/22/EEC, and Directives 98/78/EC and 2000/12/EC of the European Parliament and of the Council (OJ L 35, 11.02.2003, pp 1–27), as amended by Directives 2005/1/EC (OJ L 79, 24.03.2005, pp 9–17), 2006/48/EC (OJ L 177, 30.06.2006, pp 1–200), 2008/25/EC (OJ L 81, 20.03.2008, pp 40–41), 2009/138/EC (OJ L 335, 17.12.2009, pp 1–155), 2010/78/EU (OJ L 331, 15.12.2010, pp 120–161), 2011/89/EU (OJ L 326, 08.12.2011, pp 113–141) and 2013/36/EU (OJ L 176, 27.06.2013, pp 338–436);\
 

@@ -13,7 +13,7 @@ date: 2004-06-28
 last_amended: 2018-01-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/517102017002"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "104072017101"
 ---
@@ -60,25 +60,17 @@ The purpose of this Act is to promote the merger of local governments and struct
 
 ### § 6. Grants allocated from state budget
 
-\[Repealed - RT I, 21.06.2016, 1 - entry into force 01.01.2018\]
+(1) \[Repealed - RT I, 21.06.2016, 1 - entry into force 01.01.2018\]
 
-(1)
-
-\[Repealed - RT I, 21.06.2016, 1 - entry into force 01.01.2018\]
-
-(2)
+(2) \[Repealed - RT I, 21.06.2016, 1 - entry into force 01.01.2018\]
 
 (3) When granting the investment support from the state budget or structural funds, the merger of local governments shall be taken into consideration, if possible, as one additional and preferred circumstance for a grant, unless this contradicts the objectives of a measure.
 
 \[RT I, 13.03.2014, 2 - entry into force 23.03.2014\]
 
-\[Repealed - RT I, 21.06.2016, 1 - entry into force 01.01.2018\]
+(4) \[Repealed - RT I, 21.06.2016, 1 - entry into force 01.01.2018\]
 
-(4)
-
-\[Repealed - RT I, 21.06.2016, 1 - entry into force 01.01.2018\]
-
-(5)
+(5) \[Repealed - RT I, 21.06.2016, 1 - entry into force 01.01.2018\]
 
 (6) If the size of the grant per local authority formed as the result of a merger allocated from the state budget in the year following the year of the merger is smaller than the merged local authorities would have individually received in total in the year following the year of the merger under the valid terms and conditions of the allocation of grants, the decrease in the grant caused by the merger shall be compensated. The compensation calculated as a lump sum in the year following the year of the merger shall be added to the amount of the grant within eight years following the year of the merger.
 

@@ -325,7 +325,10 @@ class Converter:
                 self.numbered(c, cn)
             elif cn == "muutmismarge":
                 m = self.amend_mark(c)
-                if m:
+                if m and first and nr:
+                    self.add(self.prefix_safe(f"{nr} {m}"))
+                    first = False
+                elif m:
                     self.add(m)
                 for vp in c.iter("{*}veaparandus"):
                     self.add(self.correction(vp))
@@ -348,10 +351,13 @@ class Converter:
     def normnote(self, e):
         t = kid(e, "normtehnmarkusTekst")
         if t is None:
-            t = e
+            return  # bare footnote marker
         s = clean_ws(inline(t))
+        nr = text_of(kid(e, "normtehnmarkusNr")).strip()
         if s:
-            self.add(f"<sub>{s}</sub>" if False else f"*{s}*")
+            self.add(f"<sup>{nr}</sup> {s}" if nr else s)
+        for m in self.marks(e):
+            self.add(m)
 
     def node(self, e, depth):
         n = ln(e)
@@ -394,10 +400,20 @@ class Converter:
             for x in extra:
                 self.add(x)
         elif n == "preambul":
-            for c in e:
-                self.node(c, depth)
-            for m in self.marks(e):
-                self.add(m)
+            if any(ln(c) in ("tavatekst", "viide") for c in e):
+                # mixed inline content: one paragraph (sisutekst also renders marks)
+                text, extra = self.sisutekst(e)
+                if text:
+                    self.add(esc_line_start(text))
+                for x in extra:
+                    self.add(x)
+                for c in e:
+                    if ln(c) not in ("tavatekst", "viide", "muutmismarge", "veaparandus",
+                                     "HTMLKonteiner", "tabel", "fail", None):
+                        self.node(c, depth)
+            else:
+                for c in e:
+                    self.node(c, depth)
         elif n == "tavatekst":
             s = clean_ws(inline(e))
             if s:
@@ -469,9 +485,12 @@ class Converter:
         if name is not None:
             for nm in name.iter("{*}normtehnmarkus"):
                 t = kid(nm, "normtehnmarkusTekst")
-                s = clean_ws(inline(t if t is not None else nm))
+                if t is None:
+                    continue
+                s = clean_ws(inline(t))
+                nr = text_of(kid(nm, "normtehnmarkusNr")).strip()
                 if s:
-                    title_notes.append(f"*{s}*")
+                    title_notes.append(f"<sup>{nr}</sup> {s}" if nr else s)
             for vp in name.iter("{*}veaparandus"):
                 c = self.correction(vp)
                 if c:
@@ -489,9 +508,13 @@ class Converter:
                     self.annex(lv)
             elif n == "normtehnmarkus":
                 t = kid(c, "normtehnmarkusTekst")
-                s = clean_ws(inline(t if t is not None else c))
+                if t is None:
+                    continue
+                s = clean_ws(inline(t))
+                nr = text_of(kid(c, "normtehnmarkusNr")).strip()
                 if s:
-                    trailing_notes.append(s)
+                    trailing_notes.append(f"<sup>{nr}</sup> {s}" if nr else s)
+                    trailing_notes += self.marks(c)
             elif n == "allkiri":
                 s = self.signatures(c)
                 if s:

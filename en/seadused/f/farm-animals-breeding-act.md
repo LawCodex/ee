@@ -14,7 +14,7 @@ date: 2018-12-12
 last_amended: 2025-04-04
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/504042025001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "125032025002"
 ---
@@ -22,8 +22,6 @@ translation_of: "125032025002"
 # Farm Animals Breeding Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — General Provisions
 
@@ -255,4 +253,6 @@ This Act enters into force on 1 January 2019.
 
 ---
 
-Council Directive 90/428/CEE on trade in equidae intended for competitions and laying down the conditions for participation therein (OJ L 224, 18.8.1990, p. 60–61), amended by Directive 2008/73/EC (OJ L 219, 14.8.2008, p. 40‒54).
+<sup>1</sup> Council Directive 90/428/CEE on trade in equidae intended for competitions and laying down the conditions for participation therein (OJ L 224, 18.8.1990, p. 60–61), amended by Directive 2008/73/EC (OJ L 219, 14.8.2008, p. 40‒54).
+
+\[RT I, 25.03.2025, 1 - entry into force 04.04.2025\]

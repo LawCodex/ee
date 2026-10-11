@@ -14,7 +14,7 @@ date: 1998-03-11
 last_amended: 2025-05-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/525042025001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "117042025030"
 ---
@@ -181,13 +181,9 @@ An entry concerning a maritime mortgage shall include the following information:
 
 2\) the monetary amount of the maritime mortgage;
 
-\[Repealed – RT I 2005, 39, 308 - entry into force 01.01.2006\]
+3\) \[Repealed – RT I 2005, 39, 308 - entry into force 01.01.2006\]
 
-3\)
-
-\[Repealed – RT I 2005, 39, 308 - entry into force 01.01.2006\]
-
-4\)
+4\) \[Repealed – RT I 2005, 39, 308 - entry into force 01.01.2006\]
 
 5\) the category of maritime mortgage if the mortgage is a combined mortgage.
 
@@ -447,9 +443,7 @@ If an owner has a permanent objection due to which a mortgagee cannot satisfy a 
 
 (1) The owner of an encumbered ship may demand the extinguishment of a maritime mortgage by a calling proceeding of a court, if the location of the mortgagee is not known and the owner has the right to satisfaction of the claim and the owner deposits the entire amount of the mortgage.
 
-\[Repealed – RT I 2005, 39, 308 - entry into force 01.01.2006\]
-
-(2)
+(2) \[Repealed – RT I 2005, 39, 308 - entry into force 01.01.2006\]
 
 (3) Upon entry into force of a court ruling concerning extinguishment of a maritime mortgage, the claims of the mortgagee are deemed to be satisfied to the extent of the amount of the mortgage and the maritime mortgage is deleted.
 

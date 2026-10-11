@@ -14,7 +14,7 @@ date: 2018-12-18
 last_amended: 2021-11-19
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/525102022004"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "116112021010"
 ---
@@ -22,8 +22,6 @@ translation_of: "116112021010"
 # Mandatory Areas of Application of Metrologically Controlled Measuring Instruments with Exceptions, List of Measuring Instruments Subject to Metrological Control, Requirements for Accuracy, Verification Validity Periods of Measuring Instruments, and Specified Requirements for Metrological Control and Statistical Verification
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 The Regulation is established pursuant to subsection 4 of § 6 of the Metrology Act.
 
@@ -165,7 +163,7 @@ The Regulation enters into force on 1 January 2019.
 
 ---
 
-Directive 2009/34/EC of the European Parliament and of the Council relating to common provisions for both measuring instruments and methods of metrological control (OJ L 106, 28.4.2009, pp 7–24);\
+<sup>1</sup> Directive 2009/34/EC of the European Parliament and of the Council relating to common provisions for both measuring instruments and methods of metrological control (OJ L 106, 28.4.2009, pp 7–24);\
 
 Directive 2011/17/EU of the European Parliament and of the Council repealing Council Directives 71/317/EEC, 71/347/EEC, 71/349/EEC, 74/148/EEC, 75/33/EEC, 76/765/EEC, 76/766/EEC and 86/217/EEC regarding metrology (OJ L 71, 18.3.2011, pp 1–3);\
 

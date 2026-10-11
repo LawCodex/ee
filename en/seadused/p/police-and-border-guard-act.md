@@ -14,7 +14,7 @@ date: 2009-05-06
 last_amended: 2026-10-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/528072026002"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "109072026071"
 ---
@@ -22,8 +22,6 @@ translation_of: "109072026071"
 # Police and Border Guard Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -648,9 +646,7 @@ In case of a criminal offence committed against or by a police officer of a fore
 
 (1) For performing surveillance activities, for ensuring the performance thereof or for collecting information the police may use an undercover agent.
 
-\[Repealed – RT I, 05.05.2017, 1 - entry into force 01.07.2017\]
-
-(2)
+(2) \[Repealed – RT I, 05.05.2017, 1 - entry into force 01.07.2017\]
 
 (3) A written authorisation for the use of an undercover agent is given by the Director General of the Police and Border Guard Board or an official authorised thereby.
 
@@ -1023,9 +1019,7 @@ Data collected about a person for a background check are retained for five years
 
 (1) The controller of the border control database is the Police and Border Guard Board.
 
-\[Repealed – RT I, 02.12.2014, 1 - entry into force 12.12.2014\]
-
-(2)
+(2) \[Repealed – RT I, 02.12.2014, 1 - entry into force 12.12.2014\]
 
 #### § 16. Categories of data of border control database
 
@@ -1043,9 +1037,7 @@ Data collected about a person for a background check are retained for five years
 
 4\) border crossing of an aircraft;
 
-\[omitted – RT I, 31.12.2015, 9 - entry into force 01.01.2016\]
-
-5\)
+5\) \[omitted – RT I, 31.12.2015, 9 - entry into force 01.01.2016\]
 
 6\) border crossing of a railway vehicle.
 
@@ -1053,9 +1045,7 @@ Data collected about a person for a background check are retained for five years
 
 (2) The more detailed composition of the data to be entered in the border control database is provided in the statutes on the maintenance of the database.
 
-\[Repealed – RT I 2009, 62, 405 - entry into force 01.01.2010\]
-
-(3)
+(3) \[Repealed – RT I 2009, 62, 405 - entry into force 01.01.2010\]
 
 (4) The data specified in subsection 1 of this section may be transferred to a foreign country for the fulfilment of an obligation arising from the European Union law in the cases and pursuant to the procedure provided by an international convention, an international agreement or a co-operation agreement of state authorities.
 
@@ -1090,9 +1080,7 @@ Data are entered in the border control database:
 
 2\) an exhaustive list of the data to be entered in the database;
 
-\[repealed – RT I, 11.03.2023, 4 - entry into force 21.03.2023\]
-
-3\)
+3\) \[repealed – RT I, 11.03.2023, 4 - entry into force 21.03.2023\]
 
 4\) a list of source documents necessary for entering data in the database;
 
@@ -1195,9 +1183,7 @@ The data in the border control database are retained for no longer than ten year
 
 \[RT I, 08.06.2022, 3 - entry into force 07.03.2023 – date that the European Commission has designated in a decision adopted under Article 66(2) of Regulation (EU) 2018/1861 of the European Parliament and of the Council as the date on which the Schengen Information System operations start pursuant to said Regulation\]
 
-\[Repealed – RT I 2009, 62, 405 - entry into force 01.01.2010\]
-
-(2)
+(2) \[Repealed – RT I 2009, 62, 405 - entry into force 01.01.2010\]
 
 #### § 23. Presentation of data to be entered in register
 
@@ -1486,9 +1472,7 @@ The data in the border control database are retained for no longer than ten year
 
 \[RT I, 03.02.2023, 1 - entry into force 01.09.2023\]
 
-\[Repealed – RT I, 03.02.2023, 1 - entry into force 01.09.2023\]
-
-(5)
+(5) \[Repealed – RT I, 03.02.2023, 1 - entry into force 01.09.2023\]
 
 (6) Data in the ABIS database is subject to restriction on access and has been classified as information for internal use.
 
@@ -1640,9 +1624,7 @@ As the single point of contact specified in subsection 1 of § 508<sup>86</sup> 
 
 \[RT I, 06.07.2017, 2 - entry into force 01.10.2017\]
 
-\[Repealed – RT I, 19.03.2015, 2 - entry into force 29.03.2015\]
-
-(3)
+(3) \[Repealed – RT I, 19.03.2015, 2 - entry into force 29.03.2015\]
 
 #### § 36. Service rank
 
@@ -1770,9 +1752,7 @@ An Estonian citizen who has at least secondary education and full active legal c
 
 (2) The requirements for professional qualification of a police officer, and the conditions and procedure for the verification thereof are established by a regulation of the minister in charge of the policy sector.
 
-\[Repealed – RT I, 26.03.2013, 2 - entry into force 01.04.2013\]
-
-(3)
+(3) \[Repealed – RT I, 26.03.2013, 2 - entry into force 01.04.2013\]
 
 #### § 40. Persons not to be employed in police service
 
@@ -1957,9 +1937,7 @@ A person applying for employment in the police service or acceptance to studies 
 
 \[RT I, 19.03.2015, 2 - entry into force 29.03.2015\]
 
-\[Repealed – RT I, 27.05.2022, 2 - entry into force 01.07.2022\]
-
-(3)
+(3) \[Repealed – RT I, 27.05.2022, 2 - entry into force 01.07.2022\]
 
 (4) The police officer taking the oath of office reads out the oath of office and signs the text of the oath of office.
 
@@ -2357,9 +2335,7 @@ Change in a service rank is promotion or demotion in the service rank.
 
 #### § 61. Police officer guarantees of police officer working and studying in institution of professional higher education for public defence
 
-\[Repealed – RT I, 19.03.2015, 2 - entry into force 29.03.2015\]
-
-(1)
+(1) \[Repealed – RT I, 19.03.2015, 2 - entry into force 29.03.2015\]
 
 (2) A police officer who is in the service in an institution of professional higher education for public defence for a specified period of time resumes, upon the expiry of the period of time, their police service in the position in which they served prior to the appointment to the position of a police officer in the institution of professional higher education for public defence, or they are transferred to a position, one service rank of which corresponds to their service rank of a police officer.
 
@@ -2429,9 +2405,7 @@ Change in a service rank is promotion or demotion in the service rank.
 
 (3) Subsection 2 of this section is not applied if the host authority is the Ministry of the Interior.
 
-\[Repealed – RT I, 06.07.2017, 2 - entry into force 01.10.2017\]
-
-(4)
+(4) \[Repealed – RT I, 06.07.2017, 2 - entry into force 01.10.2017\]
 
 #### § 67. Specifications of organisation of police officer's holiday
 
@@ -2455,9 +2429,7 @@ Change in a service rank is promotion or demotion in the service rank.
 
 \[RT I, 06.07.2017, 2 - entry into force 01.10.2017\]
 
-\[Repealed – RT I, 27.05.2022, 2 - entry into force 01.07.2022\]
-
-(4)
+(4) \[Repealed – RT I, 27.05.2022, 2 - entry into force 01.07.2022\]
 
 #### § 67<sup>2</sup>. Organisation of service and employment of police officer in host authority
 
@@ -2495,17 +2467,13 @@ The regulatory framework applicable with regard to an official or employee of a 
 
 \[RT I, 06.07.2017, 2 - entry into force 01.10.2017\]
 
-\[Repealed – RT I, 06.07.2017, 2 - entry into force 01.10.2017\]
-
-(5)
+(5) \[Repealed – RT I, 06.07.2017, 2 - entry into force 01.10.2017\]
 
 (5<sup>1</sup>) The minister in charge of the policy sector has the right to change the service rank of a police officer serving or being employed in the Ministry of the Interior.
 
 \[RT I, 06.07.2017, 2 - entry into force 01.10.2017\]
 
-\[Repealed – RT I, 06.07.2017, 2 - entry into force 01.10.2017\]
-
-(6)
+(6) \[Repealed – RT I, 06.07.2017, 2 - entry into force 01.10.2017\]
 
 (7) Considering the nature of the functions of a police officer serving or employed in the Ministry of the Interior, the minister in charge of the policy sector may establish, by an administrative act, the highest service rank to which a police officer appointed to the relevant position or employment may be promoted in service rank.
 
@@ -2814,17 +2782,11 @@ The restriction on night work specified in the Civil Service Act is not applied 
 
 \[RT I, 06.07.2017, 2 - entry into force 01.10.2017\]
 
-\[Repealed – RT I, 26.03.2013, 2 - entry into force 01.04.2013\]
+(3<sup>1</sup>) \[Repealed – RT I, 26.03.2013, 2 - entry into force 01.04.2013\]
 
-(3<sup>1</sup>)
+(4) \[Repealed – RT I, 06.07.2012, 1 - entry into force 01.04.2013\]
 
-\[Repealed – RT I, 06.07.2012, 1 - entry into force 01.04.2013\]
-
-(4)
-
-\[Repealed – RT I, 06.07.2012, 1 - entry into force 01.04.2013\]
-
-(5)
+(5) \[Repealed – RT I, 06.07.2012, 1 - entry into force 01.04.2013\]
 
 (6) The conditions and procedure for grant of additional holiday provided in subsection 3 of this section are established by the Director General of the Police and Border Guard Board or a person authorised thereby, the Director General of the Estonian Internal Security Service or a person authorised thereby or the Rector of the Estonian Academy of Security Sciences or a person authorised thereby.
 
@@ -3336,9 +3298,7 @@ The oath of a police officer is not taken by persons who, prior to appointment t
 
 1\) upon the entry into force of a judgment of conviction if it imposed on the person a punishment for an intentionally committed criminal offence.
 
-\[repealed – RT I, 27.05.2022, 2 - entry into force 01.07.2022\]
-
-2\)
+2\) \[repealed – RT I, 27.05.2022, 2 - entry into force 01.07.2022\]
 
 (8) A person who has been convicted of an offence provided in Chapter 15 or Subchapter 2 of Chapter 17 of the Penal Code for which the Penal Code prescribes imprisonment of at least up to five years forfeits the right to a superannuated pension provided in this section.
 
@@ -3410,9 +3370,7 @@ The oath of a police officer is not taken by persons who, prior to appointment t
 
 (9) A superannuated pension of a police officer is not increased under § 113 of the Civil Service Act.
 
-\[Repealed – RT I, 19.03.2019, 6 - entry into force 01.01.2020\]
-
-(10)
+(10) \[Repealed – RT I, 19.03.2019, 6 - entry into force 01.01.2020\]
 
 (11) Within ten working days, a person who receives a pension is required to notify the Social Insurance Board of all circumstances which bring about the recalculation or non-payment of their pension.
 
@@ -3815,9 +3773,7 @@ The period of service for a rank of a border guard official appointed to a posit
 
 \[RT I 2009, 62, 405 - entry into force 01.01.2010\]
 
-\[Repealed – RT I, 19.03.2019, 6 - entry into force 01.05.2019\]
-
-(10)
+(10) \[Repealed – RT I, 19.03.2019, 6 - entry into force 01.05.2019\]
 
 #### § 118. Calculation of period of service for service rank
 
@@ -3843,9 +3799,7 @@ Upon the bringing of the positions of police officers into conformity with servi
 
 \[RT I 2009, 62, 405 - entry into force 01.01.2010\]
 
-\[Repealed – RT I 2009, 62, 405 - entry into force 01.01.2010\]
-
-(4)
+(4) \[Repealed – RT I 2009, 62, 405 - entry into force 01.01.2010\]
 
 (5) Up to the entry into force of subsection 1 of § 5 of this Act on 1 January 2012, the data specified in subsection 5 of § 42 of this Act are collected by the police authority of the person's place of residence.
 
@@ -4051,5 +4005,7 @@ A Deputy Director General of the Police and Border Guard Board and a Deputy Dire
 
 ---
 
-Directive (EU) 2016/681 of the European Parliament and of the Council on the use of passenger name record (PNR) data for the prevention, detection, investigation and prosecution of terrorist offences and serious crime (OJ L 119, 04.06.2016, pp. 132–149);\
+<sup>1</sup> Directive (EU) 2016/681 of the European Parliament and of the Council on the use of passenger name record (PNR) data for the prevention, detection, investigation and prosecution of terrorist offences and serious crime (OJ L 119, 04.06.2016, pp. 132–149);\
 Directive (EU) 2023/977 of the European Parliament and of the Council on the exchange of information between the law enforcement authorities of Member States and repealing Council Framework Decision 2006/960/JHA (OJ L 134, 22.5.2023, pp 1–24).
+
+\[RT I, 27.05.2026, 4 - entry into force 06.06.2026\]

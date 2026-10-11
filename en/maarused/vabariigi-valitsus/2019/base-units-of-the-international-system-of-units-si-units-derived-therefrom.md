@@ -14,7 +14,7 @@ date: 2019-02-07
 last_amended: 2019-12-06
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/502072021001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "103122019009"
 ---
@@ -22,8 +22,6 @@ translation_of: "103122019009"
 # Base Units of the International System of Units (SI), Units Derived therefrom, their Multiples and Submultiples and Internationally Established Additional Units and their Manner of Use
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 The Regulation is established pursuant to subsection 3 (4) of the Metrology Act.
 
@@ -93,8 +91,10 @@ The units of measurement not established by this Regulation may be used for prod
 
 ---
 
-Council Directive 80/181/EEC on the approximation of the laws of the Member States relating to units of measurement and on the repeal of Directive 71/354/EEC (OJ L 39, 15.2.1980, p. 40–50), amended by Directives 85/1/EEC (OJ L 2, 3.1.1985, p. 11–12), 89/617/EEC (OJ L 357, 7.12.1989, p. 28–30), 1999/103/EU (OJ L 34, 9.2.2000, p. 17–19), 2009/3/EC (OJ L 114, 7.5.2009, p. 10–13), (EU) 2019/1258 (OJ L 196, 24.7.2019, p. 6–9);
+<sup>1</sup> Council Directive 80/181/EEC on the approximation of the laws of the Member States relating to units of measurement and on the repeal of Directive 71/354/EEC (OJ L 39, 15.2.1980, p. 40–50), amended by Directives 85/1/EEC (OJ L 2, 3.1.1985, p. 11–12), 89/617/EEC (OJ L 357, 7.12.1989, p. 28–30), 1999/103/EU (OJ L 34, 9.2.2000, p. 17–19), 2009/3/EC (OJ L 114, 7.5.2009, p. 10–13), (EU) 2019/1258 (OJ L 196, 24.7.2019, p. 6–9);
 Directive 2000/84/EC of the European Parliament and of the Council on summer-time arrangements (OJ L 31, 2.2.2001, p. 21–22).
+
+\[RT I, 03.12.2019, 5 - entry into force 06.12.2019\]
 
 ## Annexes
 

@@ -13,7 +13,7 @@ date: 2003-01-22
 last_amended: 2025-11-21
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/501122025004"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "111112025012"
 ---
@@ -21,8 +21,6 @@ translation_of: "111112025012"
 # Bankruptcy Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 

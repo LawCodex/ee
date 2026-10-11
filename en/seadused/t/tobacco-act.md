@@ -13,7 +13,7 @@ date: 2005-05-04
 last_amended: 2026-05-07
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/518052026002"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "112052026048"
 ---
@@ -21,8 +21,6 @@ translation_of: "112052026048"
 # Tobacco Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -1395,4 +1393,4 @@ Subsection 4 of § 22, §§ 25 and 26, clause 6 of § 29 and subsection 1 of § 
 
 ---
 
-Directive 2014/40/EU of the European Parliament and of the Council on the approximation of the laws, regulations and administrative provisions of the Member States concerning the manufacture, presentation and sale of tobacco and related products and repealing Directive 2001/37/EC (OJ L 127, 29.04.2014, pp 1–38), amended by Commission Delegated Directives 2014/109/EU (OJ L 360, 17.12.2014, pp 22–27) and (EU) 2022/2100 (OJ L 283, 03.11.2022, pp 4–6); Directive (EU) 2019/904 of the European Parliament and of the Council on the reduction of the impact of certain plastic products on the environment (OJ L 155, 12.06.2019, pp 1–19). \[RT I, 07.05.2025, 14 – entry into force 31.01.2026\]
+<sup>1</sup> Directive 2014/40/EU of the European Parliament and of the Council on the approximation of the laws, regulations and administrative provisions of the Member States concerning the manufacture, presentation and sale of tobacco and related products and repealing Directive 2001/37/EC (OJ L 127, 29.04.2014, pp 1–38), amended by Commission Delegated Directives 2014/109/EU (OJ L 360, 17.12.2014, pp 22–27) and (EU) 2022/2100 (OJ L 283, 03.11.2022, pp 4–6); Directive (EU) 2019/904 of the European Parliament and of the Council on the reduction of the impact of certain plastic products on the environment (OJ L 155, 12.06.2019, pp 1–19). \[RT I, 07.05.2025, 14 – entry into force 31.01.2026\]

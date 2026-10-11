@@ -14,7 +14,7 @@ date: 2016-02-09
 last_amended: 2022-05-28
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/503112022002"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "126042022004"
 ---
@@ -22,8 +22,6 @@ translation_of: "126042022004"
 # Requirements for Indicating Prices of Goods and Services and Announcing Price Reductions of Goods
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 The regulation is established on the basis of subsection 8 of § 7 and subsection 2 of § 8 of the Consumer Protection Act.
 
@@ -152,4 +150,6 @@ The regulation enters into force on 1 March 2016.
 
 ---
 
-Directive 98/6/EC of the European Parliament and of the Council on consumer protection in the indication of the prices of products offered to consumers (OJ L 80, 18.3.1998, p. 32–35), as amended by Directive (EU) 2019/2161 (OJ L 328, 18.12.2019, p. 7–28).
+<sup>1</sup> Directive 98/6/EC of the European Parliament and of the Council on consumer protection in the indication of the prices of products offered to consumers (OJ L 80, 18.3.1998, p. 32–35), as amended by Directive (EU) 2019/2161 (OJ L 328, 18.12.2019, p. 7–28).
+
+\[RT I, 26.04.2022, 2 - entry into force 28.05.2022\]

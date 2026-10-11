@@ -13,7 +13,7 @@ date: 2000-06-14
 last_amended: 2026-07-21
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/530082026001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "111072026101"
 ---
@@ -21,8 +21,6 @@ translation_of: "111072026101"
 # Securities Register Maintenance Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -1780,4 +1778,4 @@ The information of the applications concerning a pension account entered in the 
 
 ---
 
-Directive 2007/36/EC of the European Parliament and of the Council on the exercise of certain rights of shareholders in listed companies (OJ L 184, 14.07.2007, p. 17–24). \[RT I 2009, 51, 349 – entry into force 15.11.2009\]
+<sup>1</sup> Directive 2007/36/EC of the European Parliament and of the Council on the exercise of certain rights of shareholders in listed companies (OJ L 184, 14.07.2007, p. 17–24). \[RT I 2009, 51, 349 – entry into force 15.11.2009\]

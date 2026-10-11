@@ -13,7 +13,7 @@ date: 2008-06-19
 last_amended: 2026-06-12
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/509062026006"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "103062026034"
 ---
@@ -21,8 +21,6 @@ translation_of: "103062026034"
 # Recognition of Foreign Professional Qualifications Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -612,4 +610,6 @@ If the competent authority of a Member State of the European Union, member state
 
 ---
 
-Directive 2005/36/EC of the European Parliament and of the Council on the recognition of professional qualifications (OJ L 255, 30.09.2005, pp. 22–142), amended by Council Directive 2006/100/EC, adapting certain Directives in the field of freedom of movement of persons, by reason of the accession of Bulgaria and Romania (OJ L 363, 20.12.2006, pp. 141–237), Council Directive 2013/25/EU, adapting certain directives in the field of right of establishment and freedom to provide services, by reason of the accession of the Republic of Croatia (OJ L 158, 10.06.2013, pp. 368–375), and Directive 2013/55/EU of the European Parliament and of the Council, amending Directive 2005/36/EC on the recognition of professional qualifications and Regulation (EU) No 1024/2012 on administrative cooperation through the Internal Market Information System (‘the IMI Regulation’) (OJ L 354, 28.12.2013, pp. 132–170).
+<sup>1</sup> Directive 2005/36/EC of the European Parliament and of the Council on the recognition of professional qualifications (OJ L 255, 30.09.2005, pp. 22–142), amended by Council Directive 2006/100/EC, adapting certain Directives in the field of freedom of movement of persons, by reason of the accession of Bulgaria and Romania (OJ L 363, 20.12.2006, pp. 141–237), Council Directive 2013/25/EU, adapting certain directives in the field of right of establishment and freedom to provide services, by reason of the accession of the Republic of Croatia (OJ L 158, 10.06.2013, pp. 368–375), and Directive 2013/55/EU of the European Parliament and of the Council, amending Directive 2005/36/EC on the recognition of professional qualifications and Regulation (EU) No 1024/2012 on administrative cooperation through the Internal Market Information System (‘the IMI Regulation’) (OJ L 354, 28.12.2013, pp. 132–170).
+
+\[RT I, 30.12.2015, 1 - entry into force 18.01.2016\]

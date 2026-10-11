@@ -13,7 +13,7 @@ date: 2004-01-28
 last_amended: 2026-07-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/517062026007"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "112052026033"
 ---
@@ -21,8 +21,6 @@ translation_of: "112052026033"
 # Waste Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — General Provisions
 
@@ -4313,20 +4311,32 @@ This Act enters into force on 1 May 2004, except for § 138 of this Act which en
 
 ---
 
-Directive 2006/21/EC of the European Parliament and of the Council on the management of waste from extractive industries and amending Directive 2004/35/EC (OJ L 102, 11.4.2006, p. 15–34);\
+<sup>1</sup> Directive 2006/21/EC of the European Parliament and of the Council on the management of waste from extractive industries and amending Directive 2004/35/EC (OJ L 102, 11.4.2006, p. 15–34);\
 Council Directive 90/313/EEC on the freedom of access to information on the environment (OJ L 158, 23.6.1990, p. 56–58);\
 Council Directive 1999/31/EC on the landfill of waste (OJ L 182, 16.7.1999, p. 1–19), amended by Directive (EU) 2018/850 of the European Parliament and of the Council (OJ L 150, 14.6.2018, p. 100–108);
 
+\[RT I, 05.05.2021, 1 - entry into force 15.05.2021\]
+
 Directive 2008/98/EC of the European Parliament and of the Council on waste and repealing certain Directives (OJ L 312, 22.11.2008, p. 3–30), amended by Directive (EU) 2018/851 of the European Parliament and of the Council (OJ L 150, 14.6.2018, p. 109–140);
+
+\[RT I, 05.05.2021, 1 - entry into force 15.05.2021\]
 
 Directive 2009/31/EC of the European Parliament and of the Council on the geological storage of carbon dioxide and amending Council Directive 85/337/EEC, Directives 2000/60/EC, 2001/80/EC, 2004/35/EC, 2006/12/EC, 2008/1/EC and Regulation (EC) No 1013/2006 (OJ L 140, 5.6.2009, p. 114–135);
 
 Directive 2011/65/EU of the European Parliament and of the Council on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88–110), amended by Delegated Directive (EU) 2015/863 (OJ L 137, 4.6.2015, p. 10–12) and Directive (EU) 2017/2102 (OJ L 305, 21.11.2017, p. 8–11);
 
+\[RT I, 02.07.2019, 1 - entry into force 12.07.2019\]
+
 Directive 2012/19/EU of the European Parliament and of the Council on waste electrical and electronic equipment (WEEE) (OJ L 197, 24.7.2012, p. 38–71), as amended by Directive (EU) 2024/884 (OJ L, 2024/884, 19.3.2024);
 
+\[RT I, 03.12.2025, 1 - entry into force 13.12.2025\]
+
 Directive (EU) 2019/904 of the European Parliament and of the Council on the reduction of the impact of certain plastic products on the environment (OJ L 155, 12.6.2019, p. 1–19);
+
+\[RT I, 07.03.2023, 1 - entry into force 01.05.2023\]
 
 Directive 2000/53/EC of the European Parliament and of the Council on end-of life vehicles (OJ L 269, 21.10.2000, p. 34–43);\
 Directive (EU) 2015/1535 of the European Parliament and of the Council laying down a procedure for the provision of information in the field of technical regulations and of rules on Information Society services (OJ L 241, 17.9.2015, p. 1–15);\
 Directive 2011/83/EU of the European Parliament and of the Council on consumer rights, amending Council Directive 93/13/EEC and Directive 1999/44/EC of the European Parliament and of the Council and repealing Council Directive 85/577/EEC and Directive 97/7/EC of the European Parliament and of the Council (OJ L 304, 22.11.2011, p. 64–88).
+
+\[RT I, 31.12.2024, 2 - entry into force 10.01.2025\]

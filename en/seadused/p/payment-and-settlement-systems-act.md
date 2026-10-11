@@ -13,7 +13,7 @@ date: 2023-02-08
 last_amended: 2025-07-18
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/524042026001"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "108072025035"
 ---
@@ -21,8 +21,6 @@ translation_of: "108072025035"
 # Payment and Settlement Systems Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — General Provisions
 
@@ -455,4 +453,4 @@ Jüri Ratas, President of the Riigikogu
 
 ---
 
-Directive 98/26/EC of the European Parliament and of the Council on settlement finality in payment and securities settlement systems (OJ L 166, 11.6.1998, p. 45–50), as amended by Directives 2009/44/EC (OJ L 146, 10.6.2009, p. 37–43) and 2010/78/EU (OJ L 331, 15.12.2010, p. 120–161), Regulations (EU) No 648/2012 (OJ L 201, 27.7.2012, p. 1–59) and (EU) No 909/2014 (OJ L 257, 28.8.2014, p. 1–72) and Directive (EU) 2019/879 (OJ L 150, 7.6.2019, p. 296–344).
+<sup>1</sup> Directive 98/26/EC of the European Parliament and of the Council on settlement finality in payment and securities settlement systems (OJ L 166, 11.6.1998, p. 45–50), as amended by Directives 2009/44/EC (OJ L 146, 10.6.2009, p. 37–43) and 2010/78/EU (OJ L 331, 15.12.2010, p. 120–161), Regulations (EU) No 648/2012 (OJ L 201, 27.7.2012, p. 1–59) and (EU) No 909/2014 (OJ L 257, 28.8.2014, p. 1–72) and Directive (EU) 2019/879 (OJ L 150, 7.6.2019, p. 296–344).

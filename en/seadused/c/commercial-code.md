@@ -13,7 +13,7 @@ date: 1995-02-15
 last_amended: 2024-03-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/527022024004"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "106072023131"
 ---
@@ -21,8 +21,6 @@ translation_of: "106072023131"
 # Commercial Code
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Part I — GENERAL PART
 
@@ -7447,7 +7445,7 @@ The amendments to § 388 of this Code which enter into force on 31 December 2021
 
 ---
 
-Directive 2003/58/EC of the European Parliament and of the Council amending Council Directive 68/151/EEC, as regards disclosure requirements in respect of certain types of companies (OJ L 221, 04.09.2003, pp 13–16). 
+<sup>1</sup> Directive 2003/58/EC of the European Parliament and of the Council amending Council Directive 68/151/EEC, as regards disclosure requirements in respect of certain types of companies (OJ L 221, 04.09.2003, pp 13–16). 
 \[RT I, 23.11.2021, 1 – entry into force 31.12.2021\] 
 Directive of the European Parliament and of the Council 2006/68/EC amending Council Directive 77/91/EEC as regards the formation of public limited liability companies and the maintenance and alteration of their capital (OJ L 264, 25.09.2006, pp 32–36); 
 \[RT I 2008, 16, 116 – entry into force 15.04.2008\] 

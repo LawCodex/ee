@@ -14,7 +14,7 @@ date: 1997-04-16
 last_amended: 2025-10-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/503102025005"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "112072025013"
 ---
@@ -214,9 +214,7 @@ Foreign researchers who have achieved outstanding results in their field and who
 
 8\) form opinions on issues relating to the social and economic development of Estonia and communicate these to the Riigikogu and the Government of the Republic;
 
-\[Repealed - RT I, 14.02.2025, 1 - entry into force 24.02.2025\]
-
-9\)
+9\) \[Repealed - RT I, 14.02.2025, 1 - entry into force 24.02.2025\]
 
 91\) establish the bases and procedure for the payment of remuneration to Members of the Academy;
 
@@ -264,9 +262,7 @@ Foreign researchers who have achieved outstanding results in their field and who
 
 \[RT I, 14.02.2025, 1 - entry into force 24.02.2025\]
 
-\[Repealed - RT I 2007, 22, 111 - entry into force 01.04.2007\]
-
-5<sup>1</sup>)
+5<sup>1</sup>) \[Repealed - RT I 2007, 22, 111 - entry into force 01.04.2007\]
 
 6\) decide on the use of the property of the Academy within the limits provided by law;
 
@@ -378,19 +374,13 @@ Such research and development institutions, cultural establishments, academic so
 
 ### § 19. Property of Academy
 
-\[Repealed - RT I 2002, 53, 336 - entry into force 01.07.2002\]
+(1) \[Repealed - RT I 2002, 53, 336 - entry into force 01.07.2002\]
 
-(1)
-
-\[Repealed - RT I 2002, 53, 336 - entry into force 01.07.2002\]
-
-(2)
+(2) \[Repealed - RT I 2002, 53, 336 - entry into force 01.07.2002\]
 
 (3) The Academy has the right to own property which was in the ownership of the Academy before 16 June 1940.
 
-\[Repealed - RT I 2002, 53, 336 - entry into force 01.07.2002\]
-
-(4)
+(4) \[Repealed - RT I 2002, 53, 336 - entry into force 01.07.2002\]
 
 (5) The Academy has the right to transfer immovable property in the ownership of the Academy and to take loans with the permission of the Government of the Republic.
 

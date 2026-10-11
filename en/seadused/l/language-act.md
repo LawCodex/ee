@@ -14,7 +14,7 @@ date: 2011-02-23
 last_amended: 2026-07-19
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/511082026005"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "109072026014"
 ---
@@ -334,9 +334,7 @@ The letter combinations used on state registration plates may contain only Latin
 
 \[RT I, 16.06.2020, 1 - entry into force 01.08.2020\]
 
-\[RT I, 16.06.2020, 1 - entry into force 01.08.2020 Repealed −\]
-
-(5)
+(5) \[RT I, 16.06.2020, 1 - entry into force 01.08.2020 Repealed −\]
 
 ### § 24<sup>1</sup>. Access to information related to examination paper
 
@@ -388,9 +386,7 @@ The letter combinations used on state registration plates may contain only Latin
 
 \[RT I, 02.07.2012, 7 - entry into force 01.08.2012\]
 
-\[RT I, 16.06.2020, 1 - entry into force 01.08.2020 Repealed −\]
-
-(1<sup>2</sup>)
+(1<sup>2</sup>) \[RT I, 16.06.2020, 1 - entry into force 01.08.2020 Repealed −\]
 
 (2) The Government of the Republic shall found a database (hereinafter the *database of tests*) in order to keep record of the Estonian language proficiency examinations and of the certificates of proficiency in the Estonian language that have been issued.
 
@@ -404,13 +400,9 @@ The letter combinations used on state registration plates may contain only Latin
 
 \[RT I, 16.06.2020, 1 - entry into force 01.08.2020\]
 
-\[RT I, 16.06.2020, 1 - entry into force 01.08.2020 Repealed −\]
+(4<sup>1</sup>) \[RT I, 16.06.2020, 1 - entry into force 01.08.2020 Repealed −\]
 
-(4<sup>1</sup>)
-
-\[RT I, 13.03.2019, 2 - entry into force 15.03.2019 Repealed −\]
-
-(5)
+(5) \[RT I, 13.03.2019, 2 - entry into force 15.03.2019 Repealed −\]
 
 (6) The following data are collected in the database of tests:
 
@@ -543,9 +535,7 @@ The curriculum of the Estonian language in-service training for preparation for 
 (2) It is within the competence of the Board to verify the use of the Estonian language and foreign languages, as well as to verify compliance with the requirements for the Estonian language proficiency and use in the areas provided in this Act and legislation established on the basis thereof. It is within the competence of the Board to verify that the activities of the in-service training institution conducting the Estonian language in-service training aimed at preparation for a proficiency examination comply with the requirements of this Act and the legislation established on the basis thereof. It is also within the competence of the Board to verify the compliance with language requirements established in other Acts.\
 \[RT I, 09.07.2026, 1 - entry into force 19.07.2026\]
 
-\[RT I, 23.03.2015, 5 - entry into force 01.07.2015 Repealed −\]
-
-(3)
+(3) \[RT I, 23.03.2015, 5 - entry into force 01.07.2015 Repealed −\]
 
 (4) The Board may apply a special measure of state supervision provided for in §§ 30 and 50 of the Law Enforcement Act for exercise of state supervision provided for in this Act on the basis of and in the procedure provided for in the Law Enforcement Act.
 
@@ -611,13 +601,9 @@ is punishable by a fine of up to 300 fine units.\
 is punishable by a fine of up to 15,000 euros.\
 \[RT I, 09.07.2026, 1 - entry into force 19.07.2026\]
 
-\[RT I, 12.07.2014, 1 - entry into force 01.01.2015 Repealed −\]
+(3) \[RT I, 12.07.2014, 1 - entry into force 01.01.2015 Repealed −\]
 
-(3)
-
-\[RT I, 12.07.2014, 1 - entry into force 01.01.2015 Repealed −\]
-
-(4)
+(4) \[RT I, 12.07.2014, 1 - entry into force 01.01.2015 Repealed −\]
 
 ### § 35. Violation of requirements for use of Estonian language
 
@@ -669,9 +655,7 @@ is punishable by a fine of up to 10,000 euros.\
 
 ### § 38. Proceedings
 
-\[RT I, 12.07.2014, 1 - entry into force 01.01.2015 Repealed −\]
-
-(1)
+(1) \[RT I, 12.07.2014, 1 - entry into force 01.01.2015 Repealed −\]
 
 (2) The Language Board is the extra-judicial body that conducts proceedings in matters of misdemeanours provided for in §§ 33–37 of this Act.
 

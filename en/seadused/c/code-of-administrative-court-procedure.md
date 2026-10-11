@@ -13,7 +13,7 @@ date: 2011-01-27
 last_amended: 2026-06-12
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/529062026002"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "103062026067"
 ---
@@ -21,8 +21,6 @@ translation_of: "103062026067"
 # Code of Administrative Court Procedure
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## PART I — FUNDAMENTAL PROVISIONS
 
@@ -3718,4 +3716,4 @@ Cases in which a complaint or motion for interim protection has been filed with 
 
 ---
 
-Directive (EU) 2019/1 of the European Parliament and of the Council to empower the competition authorities of the Member States to be more effective enforcers and to ensure the proper functioning of the internal market (OJ L 11, 14.01.2019, pp. 3–33). \[RT I, 05.07.2025, 1 - entry into force 06.07.2025\]
+<sup>1</sup> Directive (EU) 2019/1 of the European Parliament and of the Council to empower the competition authorities of the Member States to be more effective enforcers and to ensure the proper functioning of the internal market (OJ L 11, 14.01.2019, pp. 3–33). \[RT I, 05.07.2025, 1 - entry into force 06.07.2025\]

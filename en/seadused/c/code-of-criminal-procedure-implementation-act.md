@@ -14,7 +14,7 @@ date: 2004-05-19
 last_amended: 2026-06-06
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/526062026002"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "127052026012"
 ---
@@ -105,13 +105,9 @@ Until 1 January 2005, a preliminary investigation judge may, on an application o
 
 ### § 24. Provisions delegating authority
 
-\[Repealed – RT I 2008, 28, 180 - entry into force 15.07.2008\]
+(1) \[Repealed – RT I 2008, 28, 180 - entry into force 15.07.2008\]
 
-(1)
-
-\[Repealed – RT I 2008, 28, 180 - entry into force 15.07.2008\]
-
-(2)
+(2) \[Repealed – RT I 2008, 28, 180 - entry into force 15.07.2008\]
 
 (3) Within two months following the entry into force of this Act, the Government of the Republic arranges publication, in the Riigi Teataja, of the Code of Criminal Procedure, the Covert Operations Act and the Prosecutor's Office Act.
 

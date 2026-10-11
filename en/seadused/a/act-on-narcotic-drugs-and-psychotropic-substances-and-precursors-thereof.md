@@ -13,7 +13,7 @@ date: 1997-06-11
 last_amended: 2026-04-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/508052026003"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "117032026007"
 ---
@@ -21,8 +21,6 @@ translation_of: "117032026007"
 # Act on Narcotic Drugs and Psychotropic Substances and Precursors thereof
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -446,4 +444,4 @@ Where the research ethics committee has not made a decision on the application f
 
 ---
 
-Directive (EU) 2017/2103 of the European Parliament and of the Council amending Council Framework Decision 2004/757/JHA in order to include new psychoactive substances in the definition of ‘drug’ and repealing Council Decision 2005/387/JHA (OJ L 305, 21.11.2017, pp. 12–18). \[RT I, 14.11.2018, 3 – entry into force 23.11.2018\]
+<sup>1</sup> Directive (EU) 2017/2103 of the European Parliament and of the Council amending Council Framework Decision 2004/757/JHA in order to include new psychoactive substances in the definition of ‘drug’ and repealing Council Decision 2005/387/JHA (OJ L 305, 21.11.2017, pp. 12–18). \[RT I, 14.11.2018, 3 – entry into force 23.11.2018\]

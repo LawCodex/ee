@@ -13,7 +13,7 @@ date: 2019-02-13
 last_amended: 2026-03-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/520022026002"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "113022026012"
 ---
@@ -21,8 +21,6 @@ translation_of: "113022026012"
 # Covered Bonds Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — General Provisions
 
@@ -1330,5 +1328,5 @@ This Act enters into force on 1 March 2019.
 
 ---
 
-Directive (EU) 2019/2162 of the European Parliament and of the Council on the issue of covered bonds and covered bond public supervision and amending Directives 2009/65/EC and 2014/59/EU (OJ L 328, 18.12.2019, p. 29–57).\
+<sup>1</sup> Directive (EU) 2019/2162 of the European Parliament and of the Council on the issue of covered bonds and covered bond public supervision and amending Directives 2009/65/EC and 2014/59/EU (OJ L 328, 18.12.2019, p. 29–57).\
 \[RT I, 30.11.2021, 1 – entry into force 10.12.2021\]

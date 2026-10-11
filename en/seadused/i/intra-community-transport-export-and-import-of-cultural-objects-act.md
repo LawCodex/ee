@@ -13,7 +13,7 @@ date: 2007-12-20
 last_amended: 2019-03-15
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/514032019003"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "113032019009"
 ---
@@ -202,9 +202,7 @@ A person has the right to appeal against the decision of refusal to issue an exp
 
 (1) The National Heritage Board shall maintain records of the issued export licences, the recipients of export licences and the cultural objects transported or exported out of Estonia on the basis of export licences.
 
-\[Repealed - RT I, 13.03.2019, 2 - entry into force 15.03.2019\]
-
-(2)
+(2) \[Repealed - RT I, 13.03.2019, 2 - entry into force 15.03.2019\]
 
 ### § 14. Notification obligation and permitting examination of cultural objects
 

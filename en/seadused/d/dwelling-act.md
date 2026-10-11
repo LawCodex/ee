@@ -13,7 +13,7 @@ date: 1992-04-23
 last_amended: 2026-07-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/518062026004"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "110022026005"
 ---
@@ -36,9 +36,7 @@ translation_of: "110022026005"
 
 (1) The following belong to the powers of the Government in regulating housing relationships:
 
-\[repealed - RT I, 23.03.2015, 3 - entry into force 01.07.2015\]
-
-1\)
+1\) \[repealed - RT I, 23.03.2015, 3 - entry into force 01.07.2015\]
 
 2\) determination of socially justified standards for dwellings and specifications for application thereof;
 

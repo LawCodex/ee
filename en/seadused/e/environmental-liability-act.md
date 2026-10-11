@@ -12,7 +12,7 @@ date: 2007-11-14
 last_amended: 2023-07-01
 status: in_force
 source: "https://www.riigiteataja.ee/en/akt/502102023003"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 translation: unofficial
 translation_of: "121092023002"
 ---
@@ -20,8 +20,6 @@ translation_of: "121092023002"
 # Environmental Liability Act
 
 > Unofficial English translation published by Riigi Teataja. Only the Estonian text is legally binding.
-
-*1*
 
 ## Chapter 1 — GENERAL PROVISIONS
 
@@ -623,5 +621,5 @@ The part of the clause 2 of subsection 2 of § 1 of this Act, which contains a r
 
 ---
 
-Directive 2000/35/EC of the European Parliament and of the Council on environmental liability with regard to the prevention and remedying of environmental damage (OJ L 143, 30.04.2004, pp. 56–75); Directive 2009/31/EC on the geological storage of carbon dioxide and amending Council Directive 85/337/EEC, European Parliament and Council Directives 2000/60/EC, 2001/80/EC, 2004/35/EC, 2006/12/EC, 2008/1/EC and Regulation (EC) No 1013/2006 (OJ L 140, 05.06.2009, pp. 114–135). 
+<sup>1</sup> Directive 2000/35/EC of the European Parliament and of the Council on environmental liability with regard to the prevention and remedying of environmental damage (OJ L 143, 30.04.2004, pp. 56–75); Directive 2009/31/EC on the geological storage of carbon dioxide and amending Council Directive 85/337/EEC, European Parliament and Council Directives 2000/60/EC, 2001/80/EC, 2004/35/EC, 2006/12/EC, 2008/1/EC and Regulation (EC) No 1013/2006 (OJ L 140, 05.06.2009, pp. 114–135). 
 \[RT I, 21.12.2011, 1 – entry into force 31.12.2011\]
