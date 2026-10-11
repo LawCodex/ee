@@ -1,0 +1,648 @@
+---
+title: "Ettevõtte arenguprogrammi toetus"
+identifier: "108052025009"
+rt_reference: "RT I, 08.05.2025, 9"
+rt_original: "RT I, 06.02.2024, 14"
+group_id: "1058346"
+type: regulation
+issuer: "Majandus- ja infotehnoloogiaminister"
+number: "5"
+text_type: "terviktekst"
+jurisdiction: ee
+language: et
+date: 2024-01-31
+last_amended: 2025-05-11
+status: in_force
+source: "https://www.riigiteataja.ee/akt/108052025009"
+retrieved: 2026-10-12
+---
+
+# Ettevõtte arenguprogrammi toetus
+
+Määrus kehtestatakse perioodi 2021–2027 Euroopa Liidu ühtekuuluvus- ja siseturvalisuspoliitika fondide rakendamise seaduse § 10 lõike 2 alusel.
+
+## 1. peatükk — Üldsätted
+
+### § 1. Reguleerimisala
+
+(1) Määrusega reguleeritakse perioodi 2021–2027 Euroopa Liidu ühtekuuluvus- ja siseturvalisuspoliitika fondide rakendamise seaduse (edaspidi *ÜSS2021\_2027*) § 1 lõike 1 punktis 1 nimetatud rakenduskava (edaspidi *rakenduskava*) poliitikaeesmärgi 1 „Nutikam Eesti” erieesmärgi (a)(i) „Teadus- ja innovatsioonivõime ning kõrgetasemeliste tehnoloogiate kasutuselevõtu arendamine ja suurendamine” meetme 21.1.1.1 „Ettevõtete TAI-mahukuse ja teadmussiirde võimekuse suurendamine” (edaspidi *meede*) sekkumise 21.1.1.13 „Ettevõtte arenguprogramm (sh Ettevõtte arenguprogramm, Ettevõtja tootearendusprogramm, Arenduskeskuste toetus)” alategevuse „Ettevõtte arenguprogramm” elluviimiseks toetuse andmise ja kasutamise tingimusi ja korda.
+
+(2) Toetatavates projektides arvestatakse Euroopa Parlamendi ja nõukogu määruse (EL) nr 2021/1060, millega kehtestatakse ühissätted Euroopa Regionaalarengu Fondi, Euroopa Sotsiaalfond+, Ühtekuuluvusfondi, Õiglase Ülemineku Fondi ja Euroopa Merendus-, Kalandus- ja Vesiviljelusfondi kohta ning nende ja Varjupaiga-, Rände- ja Integratsioonifondi, Sisejulgeolekufondi ning piirihalduse ja viisapoliitika rahastu suhtes kohaldatavad finantsreeglid (ELT L 231, 30.06.2021, lk 159–706), artiklis 9 nimetatud horisontaalseid põhimõtteid.
+
+(3) Määrust ei kohaldata justiitsministri 28. detsembri 2005. a määruse nr 59 „Kohtule dokumentide esitamise kord” lisas 16 „Eesti majanduse tegevusalade klassifikaator (EMTAK)” (edaspidi *EMTAK*) avaldatud järgmiste tegevusalade projektidele:
+
+1\) põllumajandus, metsamajandus ja kalapüük (EMTAK, jagu A) ning kala, koorikloomade ja molluskite töötlemine ja säilitamine (EMTAK, jagu C, grupp 102);
+
+2\) hulgi- ja jaekaubandus (EMTAK, jagu G);
+
+3\) kinnisvaraalane tegevus (EMTAK, jagu M);
+
+4\) tubakatoodete tootmine (EMTAK, jagu C, grupp 120);
+
+5\) hasartmängude ja kihlvedude korraldamine (EMTAK, jagu S, grupp 920);
+
+6\) juriidilised toimingud ja arvepidamine (EMTAK, jagu N, osa 69), peakontorite tegevus ning juhtimisalane nõustamine (EMTAK, jagu N, osa 70), reklaamindus, turu-uuringud ja suhtekorraldus (EMTAK, jagu N, osa 73);
+
+7\) rentimine ja kasutusrent (EMTAK, jagu O, osa 77) ning tööjõurent ja muud tööjõuteenused (EMTAK, jagu O, grupp 782);
+
+8\) kivi- ja pruunsöe kaevandamine (EMTAK, jagu B, osa 05), toornafta ja maagaasi tootmine (EMTAK, jagu B, osa 06), nafta ja maagaasi tootmist abistavad tegevusalad (EMTAK, jagu B, grupp 091) ning koksi ja puhastatud naftatoodete tootmine (EMTAK, jagu C, osa 19).
+
+\[RT I, 08.05.2025, 8 - jõust. 11.05.2025\]
+
+(4) Toetuse taotlemise ja selle kasutamisega seotud teavet, maksetaotlusi, kuludokumente ja aruandeid esitatakse ning taotlus- ja aruandevormid ja juhised tehakse kättesaadavaks ÜSS2021\_2027 § 21 lõikes 3 sätestatud e-toetuse keskkonnas.
+
+(5) Toetuse taotlemisele, taotleja ja taotluse kohta esitatud nõuetele, taotluse menetlemisele, rahuldamisele ja rahuldamata jätmisele, taotluse rahuldamise otsuse muutmisele ja kehtetuks tunnistamisele, kulude abikõlblikkusele, toetuse maksmisele ja tagasinõudmisele, toetusest teavitamisele ja aruandlusele, toetuse saaja kohustuste osas ja kõiges muus määruses toodule kohaldatakse Vabariigi Valitsuse 12. mai 2022. a määrust nr 55 „Perioodi 2021–2027 Euroopa Liidu ühtekuuluvus- ja siseturvalisuspoliitika fondide rakenduskavade vahendite andmise ja kasutamise üldised tingimused” (edaspidi *ühendmäärus*) käesolevas määruses sätestatud erisustega.
+
+### § 2. Toetuse andmise seos strateegiliste arengudokumentidega
+
+(1) Määrus on suunatud teadus- ja arendustegevuse, innovatsiooni ning ettevõtluse arengukavas 2021–2035 nimetatud eesmärkide täitmisele ning toetab riigieelarve seaduse § 20 lõike 4 kohaselt kinnitatud riigi eelarvestrateegia tulemusvaldkonna „Teadus- ja arendustegevus ning ettevõtlus” teadmussiirde programmi tegevuse „Ettevõtete innovatsiooni-, digi- ja rohepöörde soodustamine” eesmärkide saavutamist.
+
+(2) Toetatavad tegevused aitavad kaasa Riigikogu heaks kiidetud Eesti pikaajalise arengustrateegia „Eesti 2035” (edaspidi *„Eesti 2035”*) aluspõhimõtete hoidmisesse ning sihi „Eesti majandus on tugev, uuendusmeelne ja vastutustundlik” ja selle alamsihi „Eesti majandus on uuendusmeelne ja teadmistepõhine” eesmärkide saavutamisse.
+
+### § 3. Riigiabi
+
+(1) Määruse alusel antakse riigiabi konkurentsiseaduse § 30 lõike 1 tähenduses või vähese tähtsusega abi konkurentsiseaduse § 33 lõike 1 tähenduses. Toetuse andmisel vähese tähtsusega abina kohaldatakse Euroopa Komisjoni määruses (EL) nr 2023/2831, milles käsitletakse Euroopa Liidu toimimise lepingu artiklite 107 ja 108 kohaldamist vähese tähtsusega abi suhtes (ELT L, 2023/2831, lk 1–12), (edaspidi *VTA määrus*) ja konkurentsiseaduse §-s 33 sätestatut. Toetuse andmisel Euroopa Komisjoni määruses (EL) nr 651/2014 ELi aluslepingu artiklite 107 ja 108 kohaldamise kohta, millega teatavat liiki abi tunnistatakse siseturuga kokkusobivaks (ELT L 187, 26.06.2014, lk 1–78) (edaspidi *üldine grupierandi määrus*), sätestatud abina kohaldatakse üldise grupierandi määruses ja konkurentsiseaduse §-s 34<sup>2</sup> sätestatut.
+
+(2) Toetust antakse järgmiselt:
+
+1\) paragrahvi 9 lõike 2 punktis 1 nimetatud tegevusteks antav toetus on koolitusabi üldise grupierandi määruse artikli 31 tähenduses või vähese tähtsusega abi;
+
+2\) paragrahvi 9 lõike 2 punktis 2 nimetatud tegevuseks antav toetus on protsessi- ja organisatsiooniinnovatsiooniks antav abi üldise grupierandi määruse artikli 29 tähenduses või vähese tähtsusega abi;
+
+3\) paragrahvi 9 lõike 2 punktis 5 nimetatud tegevusteks antav toetus on vähese tähtsusega abi;
+
+4\) paragrahvi 9 lõike 4 punktides 1 ja 2 nimetatud tegevusteks antav toetus on teadus- ja arendustegevuse (edaspidi *TA tegevus*) projektidele antav abi üldise grupierandi määruse artikli 25 tähenduses või vähese tähtsusega abi;
+
+5\) paragrahvi 9 lõike 4 punktis 3 nimetatud tegevusteks antav toetus on väikese ja keskmise suurusega ettevõtjatele antav innovatsiooniabi üldise grupierandi määruse artikli 28 tähenduses või vähese tähtsusega abi;
+
+6\) paragrahvi 9 lõike 5 punktides 1, 2 ja 4 nimetatud tegevusteks antav toetus on vähese tähtsusega abi;
+
+7\) paragrahvi 9 lõike 5 punktis 3 nimetatud tegevuseks antav toetus on väikese ja keskmise suurusega ettevõtjale (edaspidi *VKE*) messidel osalemiseks antav abi üldise grupierandi määruse artikli 19 tähenduses või vähese tähtsusega abi.
+
+(3) Paragrahvi 9 lõike 2 punktis 2 ja lõike 5 punktis 3 nimetatud tegevusteks saavad suurettevõtjad toetust kooskõlas VTA määrusega.
+
+(4) Toetust ei anta:
+
+1\) ettevõtjale, kellele Euroopa Komisjoni eelneva otsuse alusel, millega abi on tunnistatud ebaseaduslikuks ja siseturuga kokkusobimatuks, esitatud korraldus abi tagasimaksmiseks on täitmata;
+
+2\) VTA määruse alusel abi taotlemisel VTA määruse artikli 1 lõikes 1 sätestatud juhtudel;
+
+3\) üldise grupierandi määruse alusel abi taotlemisel üldise grupierandi määruse artikli 2 punkti 18 tähenduses raskustes olevale ettevõtjale;
+
+4\) üldise grupierandi määruse alusel abi taotlemisel üldise grupierandi määruse artikli 1 lõigetes 2–6 ja artiklis 13 sätestatud juhtudel.
+
+(5) Ühele ettevõtjale eraldatava vähese tähtsusega abi koos varem antud vähese tähtsusega abiga ei tohi kolme järjestikuse majandusaasta jooksul ületada VTA määruse artikli 3 lõikes 2 sätestatud summat.
+
+(6) Vähese tähtsusega abi puhul võetakse toetuse andmisel arvesse VTA määruse artiklis 5 sätestatud eesmärkideks antava vähese tähtsusega abi kumuleerimisreegleid. Vähese tähtsusega abi suuruse arvestamisel loetakse üheks ettevõtjaks sellised ettevõtjad, kes on VTA määruse artikli 2 lõike 2 kohaselt omavahel seotud.
+
+### § 4. Terminid
+
+Määruses kasutatakse termineid järgmises tähenduses:
+
+1\) arendustöötaja on ettevõtjas töölepingu või võlaõigusliku lepingu alusel tegutsev füüsiline isik, kelle tööks on uute toote-, teenuse-, protsesside- ning müügi- ja turundustegevuse arendamisega seotud aluspõhimõtete, strateegiate ja nendega seotud tegevuskavade ning üksiktegevuste väljatöötamine ja ettevõtja äripraktikas rakendamine;
+
+2\) arenguplaan on ettevõtja koostatud arendustegevuste etappideks jaotatud kava, mis sisaldab infot kõikide ettevõtja arengut mõjutavate tegevuste, eesmärkide ja nende elluviimiseks vajaminevate vahendite, sellega seotud ettevõtja omavahendite, pangalaenude, määruse alusel taotletava toetuse ja teiste avaliku sektori vahendite kohta;
+
+3\) ettevõtte arenguprogramm (edaspidi *arenguprogramm*) on ettevõtjat tema planeerimis- ja juhtimisotsuste tegemisel toetav ja ettevõtja eripärasid arvestav strateegiline mudel, mis põhineb arenguplaani ettevalmistamisel ja elluviimisel;
+
+4\) arenguprogrammi algus on arenguplaani tegevuste elluviimise algus;
+
+5\) arenguprogrammi lõppemine on arenguplaani tegevuste elluviimise lõpetamine;
+
+6\) keskmise suurusega ettevõtja on ettevõtja, kes vastab üldise grupierandi määruse I lisa artikli 2 lõikes 1 sätestatule;
+
+7\) mikroettevõtja on ettevõtja, kes vastab üldise grupierandi määruse I lisa artikli lõikes 3 sätestatule;
+
+8\) nutika spetsialiseerumise fookusvaldkonnad on digilahendused igas eluvaldkonnas, tervisetehnoloogiad ja -teenused, kohalike ressursside väärindamine, nutikad ja kestlikud energialahendused;
+
+9\) suurettevõtja on ettevõtja, kes ei vasta üldise grupierandi määruse I lisa artiklis 2 sätestatule;
+
+10\) väikeettevõtja on ettevõtja, kes vastab üldise grupierandi määruse I lisa artikli 2 lõikes 2 sätestatule.
+
+### § 5. Arenguprogramm ja arenguplaan
+
+(1) Arenguprogramm koosneb neljast järjestikusest etapist:
+
+1\) ettevõtja ambitsiooni ja võimekuse väljaselgitamine;
+
+2\) arenguplaani ettevalmistamine ja väljatöötamine;
+
+3\) arenguplaani elluviimine;
+
+4\) arenguplaani tulemusel saavutatud majandustulemuste hindamine.
+
+(2) Ettevõtja esitab rakendusüksusele heakskiitmiseks arenguplaani, mis vastab lõikes 3 toodud tingimustele ja mille elluviidav etapp on kirjeldatud vastavalt lõikele 4.
+
+(3) Arenguplaan sisaldab järgmist teavet:
+
+1\) arenguplaani mõõdetav strateegiline eesmärk;
+
+2\) arenguplaani elluviimise kestus;
+
+3\) arenguplaani elluviidavate tegevuste lühikirjeldus koos põhjendusega, kuidas valitud tegevus aitab strateegilist eesmärki saavutada;
+
+4\) seos arenguplaani tegevuste vahel, tuues esile tegevuste ajalise järjestuse, tegevuse elluviimise faasi, mil alustatakse järgmist tegevust, ja elluviidud tegevuse mõju järgmise tegevuse sisule;
+
+5\) arenguplaani planeeritav eelarve tegevuste lõikes.
+
+(4) Arenguplaani elluviidav etapp sisaldab tegevuste kohta järgmist teavet:
+
+1\) oodatav tulemus;
+
+2\) eelarve ja rahastamisallikas;
+
+3\) elluviimise alguse ja lõpu kuupäev;
+
+4\) elluviimise eest vastutaja;
+
+5\) seos teiste arenguplaani tegevustega.
+
+(5) Arenguplaani heakskiitmisele eelnevad rakendusüksuse koostatud ettevõtja hetkeolukorra kaardistus, teised ettevõtja vajadusi arvestavad ja arenguplaani koostamist ettevalmistavad ning toetavad tegevused.
+
+(6) Rakendusüksus kiidab arenguplaani heaks, kui selle elluviimisel saavutatakse § 6 lõigetes 3 või 4 nimetatud tulemused.
+
+(7) Arenguplaani muutmisel esitab ettevõtja rakendusüksusele heakskiitmiseks lõike 3 punktides 2‒5 esitatud tingimustele vastava arenguplaani. Arenguplaani muutmisel ei tohi muutuda lõike 3 punktis 1 nimetatud eesmärk.
+
+### § 6. Toetuse andmise eesmärk ja tulemus
+
+(1) Arenguprogrammi ja toetuse andmise eesmärgid on:
+
+1\) ettevõtja pikaajalisel strateegilisel planeerimisel põhinev rahvusvahelise konkurentsivõime kasv, mis panustab vähemalt ühte nutika spetsialiseerumise fookusvaldkonna eesmärki;
+
+2\) ettevõtja üleminek senisest kõrgemat lisandväärtust loovatele tegevustele ja sellega kaasnev majandustulemuste paranemine.
+
+(2) Arenguprogrammi ja toetuse andmise alaeesmärgid on:
+
+1\) ettevõtja senisest kõrgemat lisandväärtust loova ning keskkonna- ja kliimaeesmärke arvestava ärimudeli rakendamine;
+
+2\) ettevõtja uue ja senisest kõrgema lisandväärtusega toote, teenuse või tehnoloogia väljaarendamine ja turule viimine;
+
+3\) ettevõtja senisest kõrgema lisandväärtusega toote või teenusega seotud protsesside, personaliarendus-, müügi- ja turundus-, tootmis- ning teenindusprotsesside digitaliseerimine.
+
+(3) Toetuse andmise ja arenguplaani elluviimise tulemusena kasvab ettevõtjal, kelle arenguprogrammi algusele eelneva majandusaasta müügitulu on mitte suurem kui 10 000 000 eurot, alates arenguprogrammi algusest kuni kaks majandusaastat pärast arenguprogrammi lõppemist:
+
+1\) müügitulu aastas keskmiselt kuue protsendi võrra rohkem, kui vastava sektori keskmine müügitulu;
+
+2\) lisandväärtus töötaja kohta aastas keskmiselt kolme protsendi võrra rohkem, kui vastava sektori keskmine lisandväärtus töötaja kohta.
+
+(4) Toetuse andmise ja arenguplaani elluviimise tulemusena kasvab ettevõtjal, kelle arenguprogrammi algusele eelneva majandusaasta müügitulu on suurem kui 10 000 000 eurot, alates arenguprogrammi algusest kuni kaks majandusaastat pärast arenguplaani lõppemist:
+
+1\) müügitulu aastas keskmiselt kolme protsendi võrra rohkem, kui vastava sektori keskmine müügitulu;
+
+2\) lisandväärtus töötaja kohta aastas keskmiselt kolme protsendi võrra rohkem, kui vastava sektori keskmine lisandväärtus töötaja kohta.
+
+(5) Lõigetes 3 ja 4 nimetatud perioodi mõõtmisel on baasaastaks arenguprogrammi algusele eelnenud majandusaasta müügitulu või lisandväärtus töötaja kohta ning lõppaastaks arenguprogrammi lõppemisele järgneva kahe majandusaasta keskmine müügitulu või lisandväärtus töötaja kohta.
+
+(6) Lõigetes 3 ja 4 nimetatud vastava sektorina käsitatakse EMTAK-s esitatud tegevusalasid jao tasandil.
+
+\[RT I, 08.05.2025, 8 - jõust. 11.05.2025\]
+
+### § 7. Toetuse andmise panustamine näitajatesse
+
+(1) Toetuse andmine panustab rakenduskava väljundnäitajate „Toetatavad ettevõtjad” ja „Toetustega toetatavad ettevõtjad” saavutamisse. Väljundnäitajas „Toetatavad ettevõtjad” peetakse arvestust mikro-, väikese ja keskmise suurusega ning suurettevõtjate kaupa.
+
+(2) Toetuse andmine panustab rakenduskava tulemusnäitajate saavutamisse:
+
+1\) erasektori investeeringud, mis täiendavad avaliku sektori toetust;
+
+2\) ettevõttesisese innovatsiooniga tegelevad VKEd;
+
+3\) VKEd, kellel on suurem lisandväärtus töötaja kohta.
+
+(3) „Eesti 2035” aluspõhimõtete hoidmist ja sihtide saavutamist, tasakaalustatud regionaalset arengut, soolist võrdõiguslikkust, võrdseid võimalusi, ligipääsetavust ning keskkonna- ja kliimaeesmärke toetaval moel hinnatakse toetuse andmise üle otsustamisel järgmiste näitajatega, millele vastavuse tagamisel lähtub taotleja rakendusüksuse veebilehel avaldatud selgitavast juhisest:
+
+1\) tööjõu tootlikkus osakaaluna Euroopa Liidu keskmisest;
+
+2\) väljaspool Harjumaad loodud sisemajanduse koguprodukt elaniku kohta Euroopa Liidu 27 keskmisest;
+
+3\) TA tegevuse kulud erasektoris;
+
+4\) ressursitootlikkus;
+
+5\) kasvuhoonegaaside netoheide CO<sub>2</sub> ekvivalenttonnides;
+
+6\) soolise võrdõiguslikkuse indeks;
+
+7\) hoolivuse ja koostöömeelsuse mõõdik;
+
+8\) ligipääsetavuse näitaja.
+
+### § 8. Rakendusasutus ja rakendusüksus
+
+(1) Rakendusasutus on Majandus- ja Kommunikatsiooniministeerium.
+
+(2) Rakendusüksus on Ettevõtluse ja Innovatsiooni Sihtasutus.
+
+## 2. peatükk — Toetatavad tegevused, kulude abikõlblikkus ja toetuse määr
+
+### § 9. Toetatavad tegevused
+
+(1) Toetust antakse projektile, mille tegevus panustab §-s 6 sätestatud eesmärkide ja tulemuste ning §-s 7 sätestatud näitajate saavutamisse.
+
+(2) Toetust antakse arenguplaani elluviimisega seotud järgmistele tegevustele:
+
+1\) ettevõtja kõrge lisandväärtusega uue või täiustatud toote või teenuse arendamiseks, tootmisesse viimiseks või teenuse pakkumisega alustamiseks ja turule toomiseks vajamineva personali arendustegevuse elluviimine;
+
+2\) ettevõtja organisatsiooni- ja protsessiarendustegevuse elluviimine;
+
+3\) ettevõtja toote või teenuse arendustegevuse elluviimine;
+
+4\) ettevõtja kõrge lisandväärtusega uue või täiustatud toote või teenuse müügi- ja turundustegevuse arendamine ja elluviimine;
+
+5\) ettevõtja kõrge lisandväärtusega uue või täiustatud toote valmistamiseks, uue või kõrge lisandväärtusega teenuse pakkumiseks vajalike masinate ja seadmete ning immateriaalse vara ostmine.
+
+(3) Lõike 2 punktis 2 nimetatud tegevuse elluviimine koosneb järgmistest toetatavatest tegevustest:
+
+1\) ettevõtja töökorralduse arendamine, personali, materjalide, laovarude ja seadmete töö planeerimine ning ressursiplaneerimise ja -juhtimisega seotud tarkvaralahenduste ostmine, arendamine ja juurutamine;
+
+2\) protsessiarendamise nõustamise teenuse ostmine;
+
+3\) arenguplaani elluviimisega ja arenguplaani tulemuste rakendamisega seotud uue arendustöötaja või töölepingu alusel töötava uue juhi palkamine ja rakendamine.
+
+(4) Lõike 2 punktis 3 nimetatud tegevuse elluviimine koosneb järgmistest toetatavatest tegevustest:
+
+1\) tehnilise teostatavuse ja majandusliku otstarbekusega seotud eeluuringu ja sellega seotud turu-uuringu tegemine;
+
+2\) rakendusuuringu ja tootearenduse tegemine;
+
+3\) toote, teenuse või protsessi arendamisega seotud nõuandeteenuse ja tugiteenuse, sellega seotud vastavuskatsetuste, sertifitseerimistegevuse ning patentide ja muude immateriaalsete varade omandamise, valideerimise ja kaitsmise ostmine ja elluviimine.
+
+(5) Lõike 2 punktis 4 nimetatud tegevuse elluviimine koosneb järgmistest toetatavatest tegevustest:
+
+1\) müügi- ja turundusstrateegia koos vastava tegevuskavaga ostmine;
+
+2\) müügi- ja turundustegevuse arendusega seotud nõustamisteenuse, sellega seotud sihtturu nõustamisteenuse ostmine;
+
+3\) kõrge lisandväärtusega toote või teenuse välismessil või -näitusel tutvustamine;
+
+4\) kõrge lisandväärtusega toote või teenuse tutvustamiseks tootenäidiste ja turundusmaterjali valmistamine.
+
+(6) Lõike 3 punktis 3 nimetatud uus arendustöötaja ja töölepingu alusel töötav uus juht ei tohi olla taotleja juures töötanud ega võlaõigusliku lepingu alusel tegutsenud ühe aasta jooksul enne arenguprogrammi algust.
+
+### § 10. Mittetoetatavad tegevused
+
+(1) Toetust ei anta Euroopa Parlamendi ja nõukogu määruse (EL) 2021/1058, mis käsitleb Euroopa Regionaalarengu Fondi ja Ühtekuuluvusfondi (ELT L, 30.06.2021, lk 60–93) artikli 7 lõikes 1 loetletud tegevustele.
+
+(2) Toetust ei anta tegevustele, millega tekitatakse olulist kahju Euroopa Parlamendi ja nõukogu määruse (EL) 2020/852, millega kehtestatakse kestlike investeeringute hõlbustamise raamistik ja muudetakse määrust (EL) 2019/2088 (ELT L 198, 22.06.2020, lk 13–43) artikli 17 tähenduses ühelegi artiklis 9 sätestatud keskkonnaeesmärgile.
+
+### § 11. Kulude abikõlblikkus
+
+(1) Abikõlbliku kulu eest tasutakse mitte hiljem kui 31. detsembril 2029.
+
+(2) Abikõlblikud on järgmised § 9 lõike 2 punktis 1 nimetatud tegevuse kulud:
+
+1\) koolitajate personalikulu vastavalt ühendmääruse § 16 lõike 1 punktidele 1 ja 4;
+
+2\) koolitatava personali otseselt koolitusprojektiga seotud lähetuse transpordikulud ühendmääruse § 16 lõike 1 punkti 5 kohaselt;
+
+3\) materjalide, tarvikute, töövahendite kulud ulatuses, mil neid kasutatakse üksnes projektiga seotud tegevuste elluviimiseks;
+
+4\) ostetud koolituse kulu.
+
+\[RT I, 08.05.2025, 8 - jõust. 11.05.2025\]
+
+(3) Abikõlblikud on § 9 lõike 2 punktis 5 nimetatud tegevuste elluviimiseks masinate ja seadmete ning nende kasutamiseks vajamineva immateriaalse vara, sellega seotud litsentside ostmise kulud või kapitalirendi tüüpi liisingulepingu alusel abikõlblikkuse perioodi jooksul tasumisele kuuluvad liisingumaksed.
+
+(4) Abikõlblikud on § 9 lõikes 3 nimetatud tegevuste elluviimiseks vajalikud järgmised kulud:
+
+1\) protsessiarendamise nõustamise teenuse ostmise kulud;
+
+2\) töökorralduse parendamiseks vajaliku immateriaalse vara ostmise, sellise vara arendamise ja juurutamisega seotud ostetud teenuse kulud;
+
+3\) uue arendustöötaja ja töölepingu alusel töötava uue juhi personalikulud vastavalt ühendmääruse § 16 lõike 1 punktidele 1, 4 ja 5;
+
+\[RT I, 08.05.2025, 8 - jõust. 11.05.2025\]
+
+4\) protsessiarendustegevusega seotud töötajate personalikulu vastavalt ühendmääruse § 16 lõike 1 punktidele 1, 4 ja 5.
+
+\[RT I, 08.05.2025, 8 - jõust. 11.05.2025\]
+
+(5) Abikõlblikud on § 9 lõikes 4 nimetatud tegevuste elluviimiseks vajalikud järgmised kulud:
+
+1\) toote või teenuse arendamisega seotud töötajate personalikulu vastavalt ühendmääruse § 16 lõike 1 punktidele 1, 4 ja 5;
+
+\[RT I, 08.05.2025, 8 - jõust. 11.05.2025\]
+
+2\) turutingimustel ja välisallikatest ostetud või litsentsitud lepinguliste teadusuuringute, teadmiste ja patentide kulud ning üksnes projekti jaoks kasutatud nõustamisteenuste ja muude sarnaste teenuste kulud;
+
+3\) toote, teenuse või protsessi arendamisega otseselt seotud materjali ja tarvikute kulud;
+
+4\) toote, teenuse või protsessi arendamisega seotud nõuandeteenuste ja tugiteenuste, vastavuskatsetuste ja sertifitseerimistegevuse ostmine ja nende elluviimisega seotud kulud;
+
+5\) patendi ja muu immateriaalse vara valideerimise ja kaitsmise kulud;
+
+6\) vahendite ja seadmete rentimise ja omandamise kulud sel määral ja sellise ajavahemiku jooksul, mil neid kasutatakse projekti jaoks.
+
+(6) Abikõlblikud on § 9 lõikes 5 nimetatud tegevuste elluviimiseks vajalikud järgmised kulud:
+
+1\) müügi- ja turundusstrateegia ning asjakohase tegevuskava koostamise ostmise kulud;
+
+2\) müügi- ja turundustegevuse arendamise nõustamisteenuse ostmise kulud;
+
+3\) välismessil ja -näitusel osalemisega seotud väljapanekukoha üürimise ning väljapaneku ülesseadmise ja haldamise kulud;
+
+4\) kõrge lisandväärtusega uue ja või täiustatud toote või teenuse tutvustamiseks vajaminevate tootenäidiste ja turundusmaterjalide valmistamisega seotud ühekordse materjali ja teenuste ostmise kulu.
+
+(7) Kui lõike 5 punktis 6 nimetatud vahendeid ja seadmeid ei kasutata projektis kogu nende kasutusea vältel, on seadmete kasutamise kulu arvestuse aluseks toetuse saaja raamatupidamise sise-eeskirjas sätestatud amortisatsiooniarvestus või rendileandjaga kokkulepitud rendisumma, mis vastab projekti kestusele ja mis arvutatakse Eesti finantsaruandluse standardi kohaselt.
+
+(8) Juhul kui kogu projektile eraldatav toetus on vähese tähtsusega abi, on abikõlblik kaudne kulu seitse protsenti projekti abikõlblikest kuludest.
+
+(9) Abikõlbmatud on ühendmääruse § 16 lõike 1 punktides 3, 6 ja 7 sätestatud kulud.
+
+### § 12. Projekti abikõlblikkuse periood
+
+(1) Projekti abikõlblikkuse periood on taotluse rahuldamise otsuses sätestatud ajavahemik, millal projekti tegevused algavad ja lõppevad ning projekti teostamiseks vajalikud kulud tekivad.
+
+(2) Projekti abikõlblikkuse periood algab taotluse rakendusüksusele esitamise kuupäevast või taotluses märgitud ja taotluse rahuldamise otsuses sätestatud hilisemast kuupäevast ning lõppeb taotluse rahuldamise otsuses sätestatud kuupäeval, kuid mitte hiljem kui 31. augustil 2029.
+
+(3) Taotleja ei tohi alustada projekti tegevusi ega võtta kohustusi nimetatud tegevuste elluviimiseks enne taotluse esitamist rakendusüksusele.
+
+(4) Projekti abikõlblikkuse periood on maksimaalselt 18 kuud.
+
+(5) Toetuse saaja võib taotleda projekti abikõlblikkuse perioodi pikendamist mõjuval põhjusel ja tingimusel, et saavutatav tulemus seondub jätkuvalt meetme eesmärkide ja projektiga ning projekti tegevused viiakse ellu hiljemalt 2029. aasta 31. augustil. Projekti pikendamisel võib abikõlblikkuse periood ületada lõikes 4 sätestatud abikõlblikkuse perioodi kestust.
+
+(6) Projekt loetakse lõppenuks, kui rakendusüksus on lõpparuande kinnitanud ja toetuse saajale viimase väljamakse teinud.
+
+### § 13. Toetuse maksimaalne summa ja osakaal
+
+(1) Toetuse maksimaalne summa ühe ettevõtja kohta on 500 000 eurot.
+
+(2) Paragrahvi 9 lõike 2 punktis 5 nimetatud tegevuse toetuse maksimaalne summa ühe ettevõtja kohta on 200 000 eurot.
+
+(3) Toetuse maksimaalne osakaal projekti abikõlblike kulude kogumaksumusest on:
+
+1\) väikeettevõtjast toetuse saajal 45 protsenti;
+
+2\) keskmise suurusega ettevõtjast toetuse saajal 35 protsenti;
+
+3\) suurettevõtjast toetuse saajal 25 protsenti.
+
+## 3. peatükk — Nõuded taotlejale ja taotlusele
+
+### § 14. Nõuded taotlejale
+
+Toetuse taotleja on Eesti äriregistrisse kantud kaheksa või enama töötajaga äriühing, kel on majandustegevus enne arenguprogrammi algust kestnud vähemalt kaks aastat ja kes vastab vähemalt ühele järgmistest tingimustest:
+
+\[RT I, 08.05.2025, 8 - jõust. 11.05.2025\]
+
+1\) on teeninud arenguplaani elluviimisele eelnenud majandusaastal vähemalt 50 000 eurot ekspordi müügitulu;
+
+2\) müügitulu on arenguplaani elluviimisele eelnenud kahe majandusaasta kohta kasvanud keskmiselt vähemalt viis protsenti aastas.
+
+### § 15. Nõuded taotlusele
+
+(1) Taotlus peab vastama järgmistele nõuetele ning sisaldama järgmiseid dokumente, andmeid ja kinnitusi:
+
+1\) taotleja ärinimi, äriregistri kood, telefoninumber, e-posti-, kodulehe- ja postiaadress;
+
+2\) teave, kas taotleja on mikro-, väikeettevõtja, keskmise suurusega ettevõtja või suurettevõtja;
+
+3\) projekti nimi, taotletava toetuse summa, projekti eesmärgid ja oodatavad tulemused;
+
+4\) projekti eelarve;
+
+5\) projekti algus- ja lõppkuupäev;
+
+6\) projekti elluviimise koht kohaliku omavalitsuse üksuse täpsusega;
+
+7\) vastavalt § 5 lõigetes 3 ja 4 sätestatule vastav arenguplaan, mis on rakendusüksuse poolt heakskiidetud;
+
+8\) taotluses kirjeldatud projekt peab arenguplaani elluviimise tulemusel panustama vähemalt ühte nutika spetsialiseerumise fookusvaldkonna eesmärki;
+
+9\) taotluses sisalduv projekt on toetuse abil arenguplaani elluviidava etapi tegevuste kogum;
+
+10\) projekti tegevuste kirjeldus peab olema kooskõlas toetuse abil elluviidava arenguplaani etapiga ja sisaldama tegevuskava, eesmärke ja mõõdetavaid tulemusi;
+
+11\) tegevused, millega panustatakse „Eesti 2035” näitajatesse ja millega aidatakse kaasa riigi pikaajalises arengustrateegias kinnitatud strateegiliste sihtide ja aluspõhimõtete saavutamisele, juhul kui projektil on tuvastatud nendega puutumus;
+
+12\) taotleja kinnitus enda vastavuse kohta §-s 14 sätestatud nõuetele;
+
+13\) taotlemisele eelnenud majandusaasta aruanne, kui see ei ole kättesaadav äriregistris;
+
+14\) kasumiaruanne ja bilanss jooksva aasta viimase kvartali seisuga;
+
+15\) teave, kui taotleja on projektile või projekti tegevusele taotlenud toetust samal ajal mitmest meetmest või muudest kohaliku omavalitsuse üksuse, riigieelarvelistest, Euroopa Liidu või muu välisabi vahenditest;
+
+16\) volikiri, kui taotleja esindusõiguslik isik tegutseb volituse alusel;
+
+17\) kinnitus esitatud andmete õigsuse kohta;
+
+18\) kinnitus, et projekti elluviimisel ei rikuta Euroopa Liidu põhiõiguste hartas esitatud põhiõiguseid;
+
+19\) kinnitus projekti vastavuse kohta põhimõttele „ei kahjusta oluliselt” ja taotleja kinnitus, et on nimetatud põhimõtte rakendumisest teadlik.
+
+(2) Lõike 1 punktis 19 nimetatud kinnituse andmisel projekti vastavuse kohta põhimõttele „ei kahjusta oluliselt” lähtub taotleja rakendusüksuse veebilehel avaldatud teabelehest, mis põhineb Euroopa Komisjoni teatisel 2021/C 58/01 „Tehnilised suunised põhimõtte „ei kahjusta oluliselt” kohaldamise kohta taaste- ja vastupidavusrahastu puhul” (ELT C 58, 18.2.2021, lk 1–30).
+
+## 4. peatükk — Toetuse taotlemine
+
+### § 16. Toetuse taotlemine
+
+(1) Toetust taotletakse jooksvalt.
+
+(2) Toetust saab taotleda arenguplaani ühe etapi tegevuste kaupa. Toetust võib taotleda arenguplaani erinevate etappide elluviimiseks.
+
+(3) Arenguplaani iga järgmise etapi projektile toetuse taotlemise eelduseks on rakendusüksuse heakskiit arenguplaani eelmise etapi projekti tegevuste elluviimise ja § 5 lõikes 4 esitatud tingimustele vastava arenguplaani järgmise etapi tegevustele.
+
+(4) Arenguplaani muutmisel on järgmise etapi projektile toetuse taotlemise eelduseks § 5 lõikes 7 sätestatud tingimustel muudetud arenguplaani heakskiitmine rakendusüksuse poolt.
+
+(5) Taotluste vastuvõtmise alustamisest, lõpetamisest ja peatamisest ning taotluste rahastamise eelarvest annab rakendusüksus teada oma veebilehel.
+
+(6) Hetkest, mil menetluses olevate taotluste, mille kohta ei ole tehtud rahuldamise või rahuldamata jätmise otsust, taotletav toetuse summa võrdsustub taotluste rahastamise eelarve vaba jäägiga, peatab rakendusüksus taotluste vastuvõtmise ja menetleb esitatud taotlusi nende esitamise järjekorras.
+
+## 5. peatükk — Taotluse menetlemine
+
+### § 17. Taotluse menetlemine
+
+(1) Taotluse menetlemise tähtaeg on 30 tööpäeva alates taotluse esitamisest.
+
+(2) Taotluse menetlemise aega võib ühendmääruse § 6 lõikes 2 nimetatud juhtudel pikendada kuni kümne tööpäeva võrra. Rakendusüksus teavitab taotlejat taotluse menetlemise tähtaja pikendamisest.
+
+(3) Rakendusüksus teeb taotluse rahuldamata jätmise otsuse taotlust sisuliselt hindamata, kui taotleja ei ole lõikes 2 nimetatud tähtaja jooksul puudusi kõrvaldanud.
+
+### § 18. Taotleja ja taotluse nõuetele vastavus
+
+Rakendusüksus teeb taotluse rahuldamata jätmise otsuse taotlust sisuliselt hindamata, kui taotleja või taotlus ei vasta määruses sätestatud nõudele.
+
+### § 19. Valikukomisjoni moodustamine ja ekspertide kaasamine hindamisprotsessi
+
+(1) Taotluste hindamiseks moodustab rakendusüksus valikukomisjoni, mille koosseis kooskõlastatakse eelnevalt rakendusasutusega ning komisjoni liikmete nimed avaldatakse hiljemalt taotluste vastuvõtmise alustamise päeval rakendusüksuse veebilehel.
+
+(2) Rakendusüksus võib kaasata hindamisprotsessi eksperte.
+
+(3) Valikukomisjoni liikmed ja eksperdid peavad:
+
+1\) vastama ÜSS2021\_2027 § 11 lõikes 2 sätestatud nõuetele;
+
+2\) deklareerima oma erapooletust ja sõltumatust hinnatavatest projektidest, taotlejatest ning isikliku seotuse esinemise korral ennast hindamisest taandama;
+
+3\) tagama valikukomisjoni liikmeks oleku ajal ja pärast liikmeks oleku aja lõppemist tähtajatult talle valikukomisjoni töö käigus teatavaks saanud informatsiooni konfidentsiaalsuse.
+
+### § 20. Taotluse valikukriteeriumid ja -metoodika ning hindamise kord
+
+(1) Nõuetele vastavaid taotlusi hindab valikukomisjon järgmiste valikukriteeriumide alusel, mille osakaal koondhindest on järgmine:
+
+1\) projekti kooskõla valdkondlike arengukavadega, mõju rakenduskava erieesmärgi, meetme ja arenguplaani eesmärkide saavutamisele, mille raames hinnatakse arenguplaani alusel ettevõtja tegevustes ja ärimudelis tehtavate muudatuste ulatust ja keerukust arenguplaani eeldatavat mõju ettevõtja tulevastele majandustulemustele, arenguplaani panust nutika spetsialiseerumise fookusvaldkondade eesmärkide täitmisesesse, kas ja kuidas on projekt suunatud rakenduskava meetme eesmärkide ja näitajate täitmisele ‒ osakaal koondhindest 35 protsenti;
+
+2\) projekti põhjendatus, mille raames hinnatakse projekti kooskõla arenguplaani etapiga ja panust selle elluviimisesse, projektis elluviidavate üksiktegevuste põhjendatust ja kooskõla, projekti tegevuste ja eesmärkide kindlaks määratust ja selgust ‒ osakaal koondhindest 20 protsenti;
+
+3\) projekti kuluefektiivsus, mille raames hinnatakse, kas ettenähtud tegevused ja lahendused on piisavalt kuluefektiivsed planeeritud väljundite ja tulemuste saavutamiseks ning kas planeeritud eelarve on realistlik ‒ osakaal koondhindest 15 protsenti;
+
+4\) taotleja suutlikkus projekt ellu viia, mille raames hinnatakse, kas taotleja on jätkusuutlik ja kas tal on vajalikud teadmised, oskused, kogemus ning õiguslikud, organisatsioonilised ja tehnika- ning tehnoloogiaalased eeldused projekt kavandatud viisil ellu viia, samuti hinnatakse taotleja võimekust kaasata projekti elluviimisesse erainvestorite investeeringuid ‒ osakaal koondhindest 20 protsenti;
+
+5\) arenguplaani panus ettevõtja kestlikkuse eesmärkide elluviimisesse ja projekti panus § 7 lõikes 3 esitatud näitajate saavutamisse ‒ osakaal koondhindest kümme protsenti.
+
+(2) Taotlust hinnatakse skaalal 0–4. Taotluse hindamisel antud koondhinne moodustub valikukriteeriumide hinnete kaalutud keskmisest.
+
+(3) Taotlusi hinnatakse rakendusüksuse koostatud valikumetoodika järgi. Valikumetoodika koostamisel lähtub rakendusüksus lõikes 1 nimetatud valikukriteeriumitest.
+
+(4) Valikumetoodika avalikustatakse enne taotluste vastuvõtmise alustamist rakendusüksuse ja korraldusasutuse veebilehtedel.
+
+### § 21. Taotluse rahuldamise tingimused ja kord
+
+(1) Taotlus rahuldatakse, kui taotleja ja taotlus vastavad määruses sätestatud nõuetele ning taotlus:
+
+1\) on § 20 lõikes 1 sätestatud valikukriteeriumide eest saanud koondhindeks vähemalt 2,50;
+
+2\) ei ole § 20 lõikes 1 sätestatud üheski valikukriteeriumis saanud madalamat hinnet kui 2,00.
+
+(2) Taotluse rahuldamise otsuses märgitakse:
+
+1\) projekti elluviimise tingimused;
+
+2\) aruannete esitamise tähtajad ja kord;
+
+3\) toetuse saaja õigused ja kohustused.
+
+### § 22. Taotluse rahuldamata jätmise tingimused ja kord
+
+(1) Taotluse võib jätta rahuldamata juhul, kui taotluses esitatud ja taotluse menetlemisel kogutud teavet kogumis hinnates ilmneb, et projekti eesmärgid on saavutatavad toetuseta.
+
+(2) Taotluse rahuldamata jätmise otsuses märgitakse:
+
+1\) otsuse tegija;
+
+2\) otsuse tegemise kuupäev ja otsuse number;
+
+3\) taotluse esitaja;
+
+4\) projekti nimetus ja number;
+
+5\) otsuse tegemise õiguslikud ja faktilised alused;
+
+6\) taotluse rahuldamata jätmise põhjendus;
+
+7\) otsuse vaidlustamise alus ja tähtaeg.
+
+### § 23. Taotluse osaline või kõrvaltingimusega rahuldamine
+
+(1) Taotluse võib osaliselt rahuldada tingimusel, et taotleja on nõus rakendusüksuse ettepanekuga vähendada taotletud toetuse summat või muuta projektis kavandatud tegevusi. Kui taotleja ei ole nõus rakendusüksuse ettepanekuga, teeb rakendusüksus taotluse rahuldamata jätmise otsuse.
+
+(2) Taotluse rahuldamisel kõrvaltingimusega ei teki toetuse saajal tingimusliku rahuldamise otsuse põhjal õigust toetuse maksetele. Õigus toetusega seotud maksetele tekib toetuse saajal pärast seda, kui rakendusüksus on tingimuse täitmise tuvastanud.
+
+## 6. peatükk — Taotluse rahuldamise otsuse muutmine
+
+### § 24. Taotluse rahuldamise otsuse muutmine
+
+(1) Rakendusüksusel on õigus keelduda taotluse rahuldamise otsuse muutmisest, kui soovitav muudatus seab kahtluse alla projekti oodatavate tulemuste saavutamise või projekti tegevuste lõpetamise projekti abikõlblikkuse perioodil.
+
+(2) Taotluse rahuldamise otsuse muutmise otsustab rakendusüksus 30 tööpäeva jooksul pärast avalduse saamist.
+
+(3) Taotluse rahuldamise otsust võib muuta tagasiulatuvalt, kui see aitab kaasa projekti tulemuste saavutamisele ning muudatus on põhjendatud ja kooskõlas riigiabi tingimustega.
+
+## 7. peatükk — Aruannete esitamine
+
+### § 25. Aruannete esitamine
+
+(1) Toetuse saaja esitab rakendusüksusele projekti elluviimise kohta vahearuande ja lõpparuande.
+
+(2) Aruanded esitatakse taotluse rahuldamise otsuses märgitud tähtaegadel rakendusüksuse avaldatud vormidel. Juhul kui vahearuande ja lõpparuande esitamise vahe on lühem kui kuus kuud või projekti kestus on lühem kui kuus kuud, esitatakse vaid projekti lõpparuanne.
+
+(3) Vahearuanne sisaldab elluviidud tegevuste kirjeldust koos saavutatud tulemustega.
+
+(4) Projekti lõpparuandes kajastatakse vähemalt järgmine teave:
+
+1\) kogu projekti peamiste tegevuste kirjeldus;
+
+2\) teave projekti väljundite ja tulemuste saavutamise kohta;
+
+3\) kirjeldus ja hinnang „Eesti 2035” aluspõhimõtetesse ja sihtidesse panustamise kohta.
+
+(5) Rakendusüksus võib vahe- ja lõpparuandele hinnangu andmiseks kaasata hindamiskomisjoni või eksperte.
+
+(6) Rakendusüksus kinnitab aruanded 30 tööpäeva jooksul nende esitamisest arvates. Rakendusüksusel on õigus nõuda aruande täiendamist määratud tähtaja jooksul.
+
+(7) Määruse mõju hindamiseks võib koguda infot ja teavet projektide järelaruannete kaudu. Järelaruande vormi ja küsimused koostab ning edastab toetuse saajale rakendusüksus. Rakendusüksusel on õigus nõuda toetuse saajalt järelaruande esitamist kuni viie aasta jooksul pärast projekti abikõlblikkuse perioodi lõppu.
+
+## 8. peatükk — Toetuse maksmise tingimused
+
+### § 26. Toetuse maksmise tingimused
+
+(1) Toetust makstakse toetuse saajale ühendmääruse § 27 lõike 1 kohaselt või otse tarnijale või töövõtjale taotluse rahuldamise otsuses ühendmääruse § 27 lõike 2 kohaselt sätestatud tingimustel.
+
+(2) Abikõlblike kulude ja omafinantseeringu tõendamisel arvestatakse ainult raamatupidamise algdokumentide (edaspidi *kuludokument*) alusel ja pangaülekande teel tasutud kulusid, välja arvatud § 11 lõike 5 punktis 6 nimetatud vahendite ja seadmete kasutuskulud, mille suurus arvutatakse amortisatsiooniarvestuse kaudu.
+
+(3) \[Kehtetu - RT I, 08.05.2025, 8 - jõust. 11.05.2025\]
+
+(4) Makse saamise aluseks nõutud dokumendid ja tõendid esitatakse mitte tihedamini kui kord kvartalis.
+
+(5) Kuludokumendi abikõlblike kulude summa peab käibemaksuta olema vähemalt 100 eurot.
+
+## 9. peatükk — Toetuse saaja ja rakendusüksuse õigused ning kohustused
+
+### § 27. Toetuse saaja õigused ja kohustused
+
+(1) Toetuse saajal on õigus saada rakendusüksuselt informatsiooni ja selgitusi, mis on seotud määruses sätestatud nõuete ja toetuse saaja kohustustega.
+
+(2) Paragrahvi 9 lõike 2 punktis 5 sätestatud tegevuste mikroettevõtjast ja VKEst toetuse saaja tagab, et materiaalse vara asendamise korral säilib ettevõtjas majandustegevus kolme aasta jooksul projekti lõppmakse tegemisest arvates, ning suurettevõtjast toetuse saaja tagab, et materiaalse vara asendamisel säilib ettevõtjas majandustegevus viie aasta jooksul projekti lõppmakse tegemisest arvates.
+
+(3) Toetuse saaja on kohustatud saavutama § 6 lõikes 3 või 4 sätestatud tulemused.
+
+\[RT I, 08.05.2025, 8 - jõust. 11.05.2025\]
+
+### § 28. Rakendusüksuse õigused ja kohustused
+
+(1) Rakendusüksusel on õigus:
+
+1\) teostada kuludokumentide auditit ja järelevalvetoiminguid;
+
+2\) kontrollida toetuse ja omafinantseeringu kasutamist;
+
+3\) nõuda taotluses sisaldunud projekti kestuse, tegevuste, eesmärkide ja kulude kohta täiendavate andmete ja dokumentide esitamist;
+
+4\) peatada toetuse väljamaksed toetuse saajale kuni tagasinõutava summa lõpliku tagasimaksmiseni;
+
+5\) peatada või lõpetada toetuse väljamaksmine ja nõuda toetuse osalist või täielikku tagastamist, kui toetuse saaja rikub määruses sätestatud tingimusi või kaldub muul viisil kõrvale taotluses või taotluse rahuldamise otsuses sätestatust;
+
+6\) keelduda toetuse maksmisest, kui toetuse saaja majanduslik olukord on sedavõrd halvenenud, et toetuse kasutamine või projekti elluviimine on ohustatud.
+
+(2) Rakendusüksus kohustub:
+
+1\) tegema taotlus- ja aruandevormid ning juhendid taotlejale ja toetuse saajale kättesaadavaks;
+
+2\) mitte avaldama taotluse menetlemise käigus saadud teavet ega dokumente;
+
+3\) säilitama riigiabi ja vähese tähtsusega abi andmisega seotud andmeid koos teabe ja vajalike lisadokumentidega kümme aastat taotluse rahuldamise otsusest arvates;
+
+4\) edastama §-des 21–23 ja § 29 lõikes 1 nimetatud otsus taotlejale kolme tööpäeva jooksul otsuse allkirjastamisest arvates taotleja äriregistrisse kantud e-posti aadressil.
+
+## 10. peatükk — Finantskorrektsioonid ja vaided
+
+### § 29. Finantskorrektsioonide tegemine ja toetuse tagastamine
+
+(1) Finantskorrektsiooni otsus tehakse ja toetus tagastatakse vastavalt ÜSS2021\_2027 §-des 28–30 ja ühendmääruse §-des 34–38 sätestatule.
+
+(2) Ebaseadusliku, väärkasutatud või ühisturuga kokkusobimatu riigiabi, samuti vähese tähtsusega abi andmise korral võib toetuse tagasinõudmise otsuse teha kümne aasta jooksul pärast toetuse saajale toetuse eraldamist ning tagasinõudmisel järgitakse konkurentsiseaduse §-s 42 sätestatut.
+
+### § 30. Vaide esitamine
+
+Rakendusüksuse toimingu või otsuse peale esitatakse enne halduskohtusse kaebuse esitamist vaie rakendusüksusele vastavalt ÜSS2021\_2027 §-le 31. Vaide lahendab haldusmenetluse seaduses sätestatud korras rakendusüksus.
+
+## 11. peatükk — Rakendussätted
+
+\[RT I, 08.05.2025, 8 - jõust. 11.05.2025\]
+
+### § 31. Määruse rakendamine
+
+Projektile, mille elluviimiseks esitati taotlus enne käesoleva määruse 2025. aasta mais vastu võetud muudatuste jõustumist, kohaldatakse taotluse esitamise ajal kehtinud § 11 lõike 4 punkti 3 ja lõike 5 punkti 1 redaktsiooni.
+
+\[RT I, 08.05.2025, 8 - jõust. 11.05.2025\]

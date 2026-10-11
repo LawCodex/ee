@@ -1,0 +1,588 @@
+---
+title: "Perioodi 2023–2027 maaparandussüsteemi ajakohastamise, keskkonnakaitserajatise ehitamise ja eratee arendamise investeeringutoetus"
+identifier: "121072026021"
+rt_reference: "RT I, 21.07.2026, 21"
+rt_original: "RT I, 05.07.2024, 15"
+group_id: "1059234"
+type: regulation
+issuer: "Regionaalminister"
+number: "45"
+text_type: "terviktekst"
+jurisdiction: ee
+language: et
+date: 2024-07-04
+last_amended: 2026-07-24
+status: in_force
+source: "https://www.riigiteataja.ee/akt/121072026021"
+retrieved: 2026-10-12
+---
+
+# Perioodi 2023–2027 maaparandussüsteemi ajakohastamise, keskkonnakaitserajatise ehitamise ja eratee arendamise investeeringutoetus
+
+Määrus kehtestatakse Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse § 7 lõike 2, § 12 lõike 3 ja § 24 lõike 1 alusel.
+
+## 1. peatükk — Üldsätted
+
+### § 1. Määruse reguleerimisala
+
+Määrusega kehtestatakse „Euroopa Liidu ühise põllumajanduspoliitika Eesti strateegiakava aastateks 2023–2027” (edaspidi *strateegiakava*) sekkumise 1.9.1 „Investeeringud põllumajandusega seotud taristu (kuivendus- ja veerežiimi kahepoolsed reguleerimissüsteemid) kaasajastamisse erasektori poolt”, sekkumise KK3 „Maaparanduslikud keskkonnakaitserajatised” ja sekkumise 1.9.3 „Investeeringud põllumajandusega seotud taristu (erateed) kaasajastamisse” raames antava maaparandussüsteemi rekonstrueerimise ja keskkonnakaitserajatise ehitamise ning eratee ehitamise, rekonstrueerimise ja uuendamise investeeringutoetuse (edaspidi *toetus*) andmise ja kasutamise tingimused ning kord.
+
+### § 2. Toetuse andmise eesmärk
+
+(1) Toetuse andmise eesmärgid on järgmised:
+
+1\) ajakohastada kuivendussüsteeme ja veerežiimi kahepoolseid reguleerimissüsteeme, et kliimamuutuste tingimustes aidata kaasa põllumajandussektori vastupanuvõime ja toiduga kindlustatuse tagamisele, vähendada põllumajandussaagi kadu ning leevendada maaparandussüsteemi toimimisega kaasnevat negatiivset mõju;
+
+2\) tagada juurdepääs põllumajanduslikule tootmishoonele, põllumajandusmaale, erametsamaale ja maaparandussüsteemile.
+
+(2) Põllumajanduslikuks tootmishooneks loetakse selle määruse tähenduses loomakasvatushoone, söödahoidla, viljakuivati, veski, põllutöömasinate remonditöökoda ja muu hoone, mis on otseselt vajalik põllumajandustoodete tootmiseks, säilitamiseks või esmamüügieelseks ettevalmistuseks.
+
+### § 3. Riigiabi
+
+(1) Ettevõtjale või ettevõtjast liikmele metsamaal paikneva reguleeriva võrgu ja selle toimimiseks ja leevendamiseks vajalike muude rajatiste rekonstrueerimiseks ja ehitamiseks, erametsamaale juurdepääsutee ehitamiseks ja rekonstrueerimiseks ning maaparandussüsteemi teenindava tee ehitamiseks, rekonstrueerimiseks ja uuendamiseks antav toetus on riigiabi komisjoni määruse (EL) 2022/2472, millega tunnistatakse teatavat liiki abi põllumajandus- ja metsandussektoris ja maapiirkondades Euroopa Liidu toimimise lepingu artiklite 107 ja 108 kohaldamisel siseturuga kokkusobivaks (ELT L 327, 21.12.2022, lk 1–81), artikli 49 tähenduses.
+
+(2) Lõikes 1 sätestatud tegevusega seotud § 4 lõikes 3 sätestatud tegevusteks antav toetus on vähese tähtsusega abi komisjoni määruse (EL) 2023/2831, milles käsitletakse Euroopa Liidu toimimise lepingu artiklite 107 ja 108 kohaldamist vähese tähtsusega abi suhtes (ELT L, 2023/2831, 15.12.2023), tähenduses ning sellele kohaldatakse nimetatud määruses ja konkurentsiseaduse §-s 33 sätestatut.
+
+## 2. peatükk — Toetuse saamiseks esitatavad nõuded ning toetuse vorm, määr ja suurus
+
+### § 4. Toetatavad tegevused
+
+(1) Toetust antakse järgmiste tegevuste elluviimiseks, millega panustatakse §-s 2 sätestatud eesmärkide saavutamisse:
+
+1\) kuivendussüsteemi või veerežiimi kahepoolsesse reguleerimissüsteemi kuuluva hoone või rajatise rekonstrueerimine maaparandusseaduses sätestatud tingimustel ja korras;
+
+2\) keskkonnakaitseks vajaliku rajatise (edaspidi *keskkonnakaitserajatis*) ehitamine ehitusseadustikus või maaparandusseaduses sätestatud tingimustel ja korras;
+
+3\) põllumajanduslikule tootmishoonele, põllumajandusmaale või erametsamaale juurdepääsutee või maaparandussüsteemi teenindava tee (edaspidi koos *eratee*) ning eratee koosseisu kuuluva rajatise ehitamine, rekonstrueerimine ja uuendamine ehitusseadustikus või maaparandusseaduses sätestatud tingimustel ja korras.
+
+(2) Lõike 1 punktis 2 nimetatud keskkonnakaitserajatis on:
+
+1\) maaparandusseaduses sätestatud keskkonnakaitseks vajalik rajatis, sealhulgas settebassein, puhastuslodu, eesvoolu koelmupadjand, eesvoolu soodi avamiskraav, eesvoolu põhjapais ja eesvoolu nõlva kivipuiste;
+
+2\) muu keskkonnakaitseks vajalik rajatis, sealhulgas kaheastmeline voolusäng, leevendusveekogu ja veetaseme reguleerimise rajatis.
+
+(3) Koos lõikes 1 sätestatud tegevusega võib toetust anda järgmiste ehitamise, rekonstrueerimise ja uuendamisega otseselt seotud ettevalmistavate tegevuste (edaspidi koos *ettevalmistav töö*) kohta:
+
+1\) projekteerimistöö ja projekteerimiseks vajaliku maaparanduse uurimistöö, ehitusgeoloogilise ja -geodeetilise töö ning ehitusprojekti ekspertiisi või muu asjakohase dokumendi tellimine;
+
+2\) keskkonnamõju hindamisega seotud tegevuse elluviimine, sealhulgas keskkonnamõju hindamise litsentsi omavalt isikult või isikult, kellel on turvasmuldadel süsiniku jalajälje või kasvuhoonegaaside heite hindamise kogemus, turvasmuldadel kuivendussüsteemi või veerežiimi kahepoolse reguleerimissüsteemi rekonstrueerimiseks § 5 lõike 2 kohase eksperdiarvamuse tellimine;
+
+3\) lõike 1 punktides 1 ja 2 sätestatud tegevuste puhul isikult, kellel on kõrgharidus hüdrobioloogia või ihtüoloogia erialal ja keskkonnamõjude hindamise kogemus, sealhulgas osalemine vastavates projektides (edaspidi *vee-elustiku ekspert*), eksperdiarvamuse tellimine.
+
+(4) Koos lõikes 1 sätestatud tegevusega võib toetust anda järgmiste ehitamise, rekonstrueerimise ja uuendamisega otseselt seotud tegevuste kohta:
+
+1\) ehitamisele ja rekonstrueerimisele maaparandusseaduse või ehitusseadustiku alusel omanikujärelevalve tegemine (edaspidi *omanikujärelevalve*);
+
+2\) kuivendussüsteemi, veerežiimi kahepoolse reguleerimissüsteemi või keskkonnakaitserajatise toimimiseks vajaliku seadme ostmine ja paigaldamine;
+
+3\) kuivendussüsteemi või veerežiimi kahepoolsesse reguleerimissüsteemi kuuluva pumpla toimimiseks vajaliku võimsusega elektriliini projekteerimine ja ehitamine pumplast lähima liitumispunktini ning elektrivõrguga liitumine.
+
+(5) Toetust ei anta:
+
+1\) maaparandusseaduse § 49 lõike 9 alusel kehtestatud riigi poolt korras hoitavate ühiseesvoolude loetelus nimetatud ühiseesvoolul asuva keskkonnakaitserajatise ehitamiseks;
+
+2\) üksnes metsamaal paikneva maaparandussüsteemi, seda teenindava eesvoolu või eesvoolu osa rekonstrueerimiseks;
+
+3\) samas asukohas asuva sama maaparandussüsteemi osa, sealhulgas keskkonnarajatise, ja eratee ehitamiseks, rekonstrueerimiseks või uuendamiseks, kui selleks on saadud toetust „Eesti maaelu arengukava 2014–2020” meetme 4 „Investeeringud materiaalsesse varasse” tegevuse liigi „Põllu- ja metsamajanduse taristu arendamine ja hoid” vahenditest või strateegiakava vahenditest, samuti muudest riigieelarvelistest, Euroopa Liidu või välisvahenditest või muud tagastamatut riigiabi, välja arvatud eesvoolu puhul;
+
+4\) toetatava tegevuse elluviimiseks riigimetsas;
+
+5\) toetatava tegevuse elluviimiseks maal, mis on Harju, Rapla ja Pärnu maakonnas tehtud maakonnaplaneeringu kohaselt määratud Rail Balticu raudtee trassi koridori asukohaks, välja arvatud juhul, kui Tarbijakaitse ja Tehnilise Järelevalve Amet on Rail Balticu põhiprojektist lähtudes andnud kõik vajaminevad ehitusload, millest nähtub, et sellele maale Rail Balticu projektiga seotud ehitisi ei ehitata;
+
+6\) kuivendussüsteemi rekonstrueerimiseks, kui rekonstrueeritava kuivendussüsteemi maa-alal paiknevad taastuvenergia tootmisseadmed.
+
+\[RT I, 07.12.2024, 1 - jõust. 10.12.2024\]
+
+(6) Maa, millel toetatavat tegevust ellu viiakse, välja arvatud metsamaa, peab olema taotleja või tema liikme valduses asjaõiguslikul või võlaõiguslikul alusel vähemalt viis aastat arvates Põllumajanduse Registrite ja Informatsiooni Ameti (edaspidi *PRIA*) poolt viimase toetusosa maksmisest.
+
+(7) Metsamaa, millel toetatavat tegevust ellu viiakse, peab olema taotleja või tema liikme omandis.
+
+(8) Taotleja ei tohi kavandatava tegevusega (edaspidi ka *projekt*) alustada, sealhulgas võtta sellega seotud siduvaid kohustusi, ja toetatava tegevuse elluviimist tõendavad dokumendid ei tohi olla väljastatud varem kui taotluse esitamise päevale järgneval päeval, välja arvatud § 4 lõikes 3 sätestatud tegevuste puhul, millega ei tohi alustada varem kui 1. jaanuaril 2023.
+
+### § 5. Nõuded toetatavale tegevusele
+
+(1) Toetust antakse kuivendussüsteemi või veerežiimi kahepoolse reguleerimissüsteemi rekonstrueerimiseks, kui on täidetud kõik järgmised tingimused:
+
+1\) rekonstrueeritava maaparandussüsteemi osa maa-ala ei paikne hoiualal ega kaitsealal;
+
+2\) rekonstrueeritava maaparandussüsteemi osa maa-ala ei paikne turvasmuldadel;
+
+3\) rekonstrueeritava maaparandussüsteemi osa maa-ala asub vähemalt 400 meetri kaugusel Natura 2000 võrgustiku alast;
+
+4\) rekonstrueeritava maaparandussüsteemi osa teenindav eesvool toimib nõuetekohaselt;
+
+5\) ehitusprojekti koostanud projekteerija on läbinud keskkonnasäästliku maaparandussüsteemi projekteerimise koolituse.
+
+(2) Toetust võib anda turvasmuldadel paikneva kuivendussüsteemi või veerežiimi kahepoolse reguleerimissüsteemi rekonstrueerimiseks, kui turbakihi tüsedus on kindlaks määratud ja see kajastub ehitusprojektis ning kui:
+
+1\) rekonstrueerimistöid viiakse ellu põllumajandusmaal veetaseme tõstmise eesmärgil ja seda maa-ala kasutakse pärast toetatava tegevuse elluviimist rohumaana vähemalt viis aastat arvates PRIA poolt viimase toetusosa maksmisest või
+
+2\) kavandatav tegevus on vajalik mineraalmullas paikneva reguleeriva võrgu osa toimimiseks ja ehitusprojektist selgub muude lahenduste ebaotstarbekus ning keskkonnamõju hindamise litsentsi omava või turvasmuldadel süsiniku jalajälje või kasvuhoonegaaside heite hindamise kogemusega isiku eksperdiarvamuse kohaselt ei kaasne tegevusega turvasmuldades kasvuhoonegaaside heite suurenemine.
+
+(3) Kui rekonstrueeritava kuivendussüsteemi või veerežiimi kahepoolse reguleerimissüsteemi eesvool ei toimi nõuetekohaselt, võib kuivendussüsteemi või veerežiimi kahepoolse reguleerimissüsteemi rekonstrueerimiseks toetust anda, kui on täidetud kõik järgmised tingimused:
+
+1\) eesvool ei toimi ja vajab rekonstrueerimist seetõttu, et eesvoolu valgala on suurenenud, valgala hüdroloogilised karakteristikud on oluliselt muutunud või uuendustöödega ei olnud võimalik eesvoolu vastavusse viia ning need põhjused kajastuvad ehitusprojektis;
+
+2\) koos kuivendussüsteemi või veerežiimi kahepoolse reguleerimissüsteemi rekonstrueerimisega rekonstrueeritakse ka eesvool;
+
+3\) keskkonnaministri 15. juuni 2004. a määruse nr 73 „Lõhe, jõeforelli, meriforelli ja harjuse kudemis- ja elupaikade nimistu” §-s 2 sätestatud veekogul paikneva eesvoolu puhul või juhul, kui eesvool kattub pinnaveekogumiga, on keskkonnamõju hindamise litsentsi omav isik koostanud keskkonnamõjude eelhinnangu, millest nähtub, et tegevusega ei kaasne olulist keskkonnamõju ja keskkonnamõjude hindamist ei ole vaja algatada, ning rekonstrueerimistööde kavandamisse ja elluviimisse on kaasatud vee-elustiku ekspert.
+
+(4) Keskkonnakaitserajatise ehitamiseks antakse toetust, kui on täidetud kõik järgmised tingimused:
+
+1\) keskkonnakaitserajatise koostanud projekteerija on läbinud keskkonnasäästliku maaparandussüsteemi projekteerimise koolituse;
+
+2\) muu keskkonnakaitseks vajaliku rajatise ehitusprojekti koostamisse on kaasatud vee-elustiku ekspert;
+
+\[RT I, 07.12.2024, 1 - jõust. 10.12.2024\]
+
+3\) ehitusseadustiku alusel koostatud muu keskkonnakaitserajatise ehitusprojekt on maaparandusseaduse § 50 kohaselt kooskõlastatud Maa- ja Ruumiametiga.
+
+\[RT I, 28.12.2024, 13 - jõust. 01.01.2025\]
+
+(5) Eratee ehitamiseks, rekonstrueerimiseks ja uuendamiseks antakse toetust, kui on täidetud kõik järgmised tingimused:
+
+1\) juurdepääsutee ja teenindav tee on eratee, mis ei ole määratud ehitusseadustiku § 94 alusel avalikuks kasutamiseks;
+
+2\) juurdepääsutee ehitamiseks ja rekonstrueerimiseks on koostatud projekt maaeluministri 6. mai 2019. a määruses nr 45 „Maaparandussüsteemi projekteerimisnormid” (edaspidi *maaparandussüsteemi projekteerimisnormid*) sätestatud nõuete kohaselt;
+
+3\) \[kehtetu - RT I, 29.11.2025, 1 - jõust. 04.12.2025\]
+
+4\) juurdepääsutee on juurdepääsuks põllumajandusmaale või põllumajanduslikule tootmishoonele, mis on taotleja omandis või mida taotleja kasutab muul asjaõiguslikul või võlaõiguslikul alusel, või taotleja või tema liikme omandis olevale erametsamaale;
+
+5\) teenindava tee uuendamise korral on maaparanduse projekteerimise või ekspertiisi alal tegutsev ettevõtja andnud hinnangu selle kohta, et teenindav tee vajab uuendamist.
+
+\[RT I, 29.11.2025, 1 - jõust. 04.12.2025\]
+
+### § 6. Toetuse vorm, suurus ja määr
+
+(1) Toetust antakse Euroopa Parlamendi ja nõukogu määruse (EL) 2021/2115, millega kehtestatakse liikmesriikide koostatavate Euroopa Põllumajanduse Tagatisfondist (EAGF) ja Euroopa Maaelu Arengu Põllumajandusfondist (EAFRD) rahastatavate ühise põllumajanduspoliitika strateegiakavade (ÜPP strateegiakavad) toetamise reeglid ning tunnistatakse kehtetuks määrused (EL) nr 1305/2013 ja (EL) nr 1307/2013 (ELT L 435, 06.12.2021, lk 1–186), artikli 83 lõike 1 punkti a kohaselt tegelikult tekkinud abikõlblike kulude hüvitamisena.
+
+(2) Toetust antakse § 4 lõikes 1 sätestatud tegevuse puhul:
+
+1\) kuni 75 protsenti kuivendussüsteemi rekonstrueerimise abikõlblikest kuludest;
+
+\[RT I, 29.11.2025, 1 - jõust. 04.12.2025\]
+
+2\) kuni 100 protsenti keskkonnakaitserajatise ehitamise või veerežiimi kahepoolse reguleerimissüsteemi rekonstrueerimise abikõlblikest kuludest;
+
+\[RT I, 29.11.2025, 1 - jõust. 04.12.2025\]
+
+3\) kuni 75 protsenti eratee ehitamise, rekonstrueerimise või uuendamise abikõlblikest kuludest, kui juurdepääsutee on juurdepääsuks põllumajandusmaale või põllumajanduslikule tootmishoonele või kui teenindav tee teenindab valdavalt põllumajandusmaal paiknevat maaparandussüsteemi ja see eratee paikneb mitme omaniku kinnisasjadel;
+
+\[RT I, 29.11.2025, 1 - jõust. 04.12.2025\]
+
+4\) kuni 65 protsenti eratee ehitamise, rekonstrueerimise või uuendamise abikõlblikest kuludest, kui juurdepääsutee on juurdepääsuks põllumajandusmaale või põllumajanduslikule tootmishoonele või kui teenindav tee teenindab valdavalt põllumajandusmaal paiknevat maaparandussüsteemi ja see eratee paikneb ühel kinnisasjal või sama omaniku mitmel kinnisasjal;
+
+\[RT I, 29.11.2025, 1 - jõust. 04.12.2025\]
+
+5\) kuni 65 protsenti eratee ehitamise, rekonstrueerimise või uuendamise abikõlblikest kuludest, kui juurdepääsutee on juurdepääsuks erametsamaale või kui teenindav tee teenindab valdavalt metsamaal paiknevat maaparandussüsteemi ja taotleja ei taga metsamaale tasuta juurdepääsu ning see eratee ei täida metsa mitmekülgse kasutamise eesmärki;
+
+\[RT I, 29.11.2025, 1 - jõust. 04.12.2025\]
+
+6\) kuni 100 protsenti eratee ehitamise, rekonstrueerimise või uuendamise abikõlblikest kuludest, kui juurdepääsutee on juurdepääsuks erametsamaale või kui teenindav tee teenindab valdavalt metsamaal paiknevat maaparandussüsteemi ja taotleja tagab tasuta juurdepääsu metsamaale ja sellel asuvale juurdepääsuteele ning see eratee täidab metsa mitmekülgse kasutamise eesmärki.
+
+\[RT I, 29.11.2025, 1 - jõust. 04.12.2025\]
+
+(2<sup>1</sup>) Kui kuivendussüsteem rekonstrueeritakse veerežiimi kahepoolseks reguleerimissüsteemiks osaliselt, antakse toetust kuni 100 protsenti veerežiimi kahepoolse reguleerimissüsteemi rekonstrueerimise abikõlblikest kuludest üksnes selles osas, kus kuivendussüsteem veerežiimi kahepoolseks reguleerimissüsteemiks muudeti, ning tingimusel, et veerežiimi kahepoolse reguleerimissüsteemi maa-ala pindala kajastub ehitusprojektis ja kasutusloal.
+
+\[RT I, 29.11.2025, 1 - jõust. 04.12.2025\]
+
+(3) Kui koos kuivendussüsteemi või veerežiimi kahepoolse reguleerimissüsteemi rekonstrueerimisega tuleb rekonstrueerida ka selle süsteemi eesvool, antakse eesvoolu rekonstrueerimiseks toetust sama toetusmäära ulatuses.
+
+(4) Toetuse maksimaalne suurus ühe taotleja kohta on 520 000 eurot strateegiakava perioodil kõikide maaparanduslike sekkumiste kohta kokku.
+
+(5) Eratee ehitamiseks, rekonstrueerimiseks ja uuendamiseks antava toetuse maksimaalne suurus ühe taotleja kohta on 60 000 eurot strateegiakava perioodil.
+
+(6) Ühte kontserni kuuluvad ettevõtjad või konkurentsiseaduse § 2 lõike 4 tähenduses valitseva mõju kaudu üksteisega seotud ettevõtjad ei saa kokku taotleda toetust rohkem kui lõigetes 4 ja 5 sätestatud suuruses strateegiakava perioodil.
+
+(7) Vähese tähtsusega abi suuruse arvestamisel loetakse üheks ettevõtjaks sellised ettevõtjad, kes on omavahel seotud komisjoni määruse (EL) 2023/2831 artikli 2 lõike 2 kohaselt.
+
+(8) Vähese tähtsusega abi puhul ei tohi ühele ettevõtjale toetuse andmisele vahetult eelnenud kolme aasta pikkuse perioodi jooksul antud vähese tähtsusega abi koos taotletava toetusega ületada vähese tähtsusega abi ülemmäära 300 000 eurot.
+
+(9) Vähese tähtsusega abi andmisel võetakse arvesse komisjoni määruse (EL) 2023/2831 artiklis 5 sätestatud erinevateks eesmärkideks antava vähese tähtsusega abi kumuleerimisreegleid.
+
+(10) Kui toetust taotletakse tegevuste kohta, mille kohta on lõikes 2 sätestatud erinevad toetuse määrad, on toetuse määraks ettevalmistava töö tegemise puhul väiksema toetuse määraga tegevusele kohalduv toetuse määr.
+
+### § 7. Abikõlblikud kulud
+
+(1) Abikõlblikud on projekti elluviimiseks vajalikud kulud, sealhulgas Euroopa Maaelu Arengu Põllumajandusfondi (EAFRD) toetuse abil elluviidava tegevuse komisjoni rakendusmääruses (EL) 2022/129, millega kehtestatakse Euroopa Parlamendi ja nõukogu määruse (EL) 2021/2115 kohaseid õliseemnete, puuvilla ja veinivalmistamise kõrvalsaadustega seotud sekkumisviise ning liidu toetuse ja ÜPP strateegiakavadega seotud teavitamis-, avalikustamis- ja nähtavusnõudeid käsitlevad normid (ELT L 20, 31.01.2022, lk 197–205), sätestatud nõuete kohaseks tähistamiseks kasutatava sümboli ja teavitustegevuse kulud, mis on tehtud sihtotstarbeliselt, mõistlikult ja majanduslikult soodsaimal viisil ning kooskõlas Euroopa Parlamendi ja nõukogu määruse (EL) 2021/2115 artikliga 73 ning mis on vajalikud toetuse eesmärgi saavutamiseks.
+
+(2) Omanikujärelevalve tegemise abikõlblik kulu on kuni viis protsenti § 4 lõikes 1 nimetatud ehitamise või rekonstrueerimise abikõlblikust maksumusest.
+
+(3) Abikõlblikud ei ole järgmised kulud:
+
+1\) Euroopa Parlamendi ja nõukogu määruse (EL) 2021/2115 artikli 73 lõikes 3 sätestatud kulu;
+
+2\) tasu taotleja enda või tema töötaja või liikme tehtud töö eest;
+
+3\) käibemaks, kui see on käibemaksuseaduse alusel tagasi saadav;
+
+4\) liisingumakse;
+
+5\) tavapärane tegevus- ja üldkulu;
+
+6\) sularahamakse, lepingu sõlmimisega või kindlustamisega seotud kulu, intress, tagatismakse ja finantsteenustega seotud muu kulu;
+
+7\) riigilõiv, keskkonnatasu, trahv, finantskaristus ning vaide- ja kohtumenetluse korral menetluskulu;
+
+\[RT I, 07.12.2024, 1 - jõust. 10.12.2024\]
+
+8\) teostatavusuuringu kulu, välja arvatud ehitise projekteerimiseks vajalikuks ehitusgeoloogiliseks ja -geodeetiliseks tööks tehtud kulu;
+
+9\) kasutatud seadme või masina ostmise kulu;
+
+10\) toetatava tegevuse elluviimise seisukohast põhjendamatu kulu, sealhulgas puittaimestiku raieks, müügiks ja väljaveoks tehtud kulu.
+
+### § 8. Kulude mõistlikkuse tõendamine
+
+(1) Kui projekti eeldatav käibemaksuta maksumus on 100 000 eurot või sellest suurem, koostab taotleja prognoosi ja korraldab enne toetatava tegevuse elluviimisega alustamist ostumenetluse §-s 17 sätestatud viisil. Prognoosis esitatakse andmed projekti kogumaksumuse ja abikõlblike kulude kohta, mis peavad olema põhjendatud ja üksikasjalikult kirjeldatud, tuginema tegelikele asjaoludele ning olema vajaduse korral tõendatavad.
+
+\[RT I, 29.11.2025, 1 - jõust. 04.12.2025\]
+
+(2) Kui projekti eeldatav käibemaksuta maksumus on alla 100 000 euro, kuid projekti raames tellitava töö või teenuse või soetatava vara käibemaksuta maksumus ületab 20 000 eurot, selgitab taotleja kulude mõistlikkuse välja enne taotluse esitamist selles paragrahvis sätestatud viisil, arvestades § 4 lõikes 8 sätestatud nõuet. Paragrahvi 4 lõikes 3 sätestatud ettevalmistava töö puhul selgitab taotleja kulude mõistlikkuse välja enne taotluse esitamist selles paragrahvis sätestatud viisil.
+
+\[RT I, 29.11.2025, 1 - jõust. 04.12.2025\]
+
+(3) Kui projekti raames tellitava töö või teenuse või soetatava vara käibemaksuta maksumus ületab 20 000 eurot, küsib taotleja üksteisest sõltumatute pakkujate käest vähemalt kolm võrreldavat pakkumust.
+
+\[RT I, 29.11.2025, 1 - jõust. 04.12.2025\]
+
+(4) Taotleja võib küsida alla kolme pakkumuse, kui kolme pakkumust küsida ei ole objektiivselt võimalik, eelkõige kui turul puudub asjaomase töö, teenuse või vara pakkujate paljusus.
+
+(5) Pakkumus peab sisaldama taotleja nime, pakkuja nime ja kontaktandmeid, pakkumuse väljastamise kuupäeva ning töö, teenuse või vara üksikasjalikku kirjeldust ning käibemaksuta ja käibemaksuga maksumust ning vajaduse korral tehniliste tingimuste loetelu, mis osutab tehnilisele spetsifikatsioonile.
+
+(6) Hinnapakkumuse küsimisel hoidub taotleja huvide konfliktist. Huvide konfliktina käsitatakse olukorda, kus taotlejal või tema nimel tegutseval isikul, sealhulgas töötajal, juhatuse liikmel või muul pädeval esindajal, kes on kaasatud ostumenetluse ettevalmistamisse või korraldamisse või kes võib muul moel mõjutada selle ostumenetluse tulemust, on finantsalaseid, majanduslikke või muid isiklikke huvisid, mida võib käsitada tema erapooletust ja sõltumatust kahjustavatena.
+
+\[RT I, 29.11.2025, 1 - jõust. 04.12.2025\]
+
+(7) Taotleja ei või lõikes 2 sätestatud nõude eiramiseks jaotada osadeks projekti raames tellitavat tööd või teenust või soetatavat vara, mis on funktsionaalselt koos toimiv või vajalik sama eesmärgi saavutamiseks. Taotleja võib jaotada projekti raames tellitava töö või teenuse või soetatava vara osadeks, kui see on objektiivsetel põhjustel õigustatud.
+
+### § 9. Taotleja
+
+Toetust antakse järgmistele isikutele, kelle valduses või kelle liikme valduses on maa, millel toetatavaid tegevusi ellu viiakse:
+
+1\) füüsilisele isikule – keskkonnakaitserajatise ehitamiseks;
+
+2\) äriseadustiku tähenduses ettevõtjale, kelle põhitegevusala oli äriregistri andmetel taotluse esitamisele vahetult eelnenud majandusaastal justiitsministri 28. detsembri 2005. a määruse nr 59 „Kohtule dokumentide esitamise kord” lisa 16 „Eesti majanduse tegevusalade klassifikaator (EMTAK)” kohaselt taime- ja loomakasvatus, jahindus ja neid teenindavad tegevusalad (EMTAK-i jao A alajagu 01) või metsamajandus ja metsavarumine (EMTAK-i jao A alajagu 02);
+
+3\) äriseadustiku tähenduses ettevõtjale, kelle omandis on metsamaad (edaspidi *erametsaomanikust ettevõtja*) – erametsamaale juurdepääsutee ja valdavalt metsamaal paiknevat maaparandussüsteemi teenindava tee ehitamiseks, rekonstrueerimiseks ja uuendamiseks ning keskkonnakaitserajatise ehitamiseks;
+
+\[RT I, 07.12.2024, 1 - jõust. 10.12.2024\]
+
+4\) metsaseaduse § 10 lõike 5 tähenduses metsaühistule, kui toetatav tegevus vastab tema põhikirjalisele eesmärgile (edaspidi *metsaühistu*) – erametsamaale juurdepääsutee ja valdavalt metsamaal paiknevat maaparandussüsteemi teenindava tee ehitamiseks, rekonstrueerimiseks ja uuendamiseks ning keskkonnakaitserajatise ehitamiseks;
+
+\[RT I, 07.12.2024, 1 - jõust. 10.12.2024\]
+
+5\) maaparandusühistule oma tegevuspiirkonnas, kui toetatav tegevus vastab tema põhikirjalisele eesmärgile (edaspidi *maaparandusühistu*);
+
+6\) mittetulundusühingule, kui toetatav tegevus aitab kaasa tema põhikirjalise eesmärgi saavutamisele – § 4 lõike 1 punktis 2 või 3 sätestatud tegevuse elluviimiseks.
+
+\[RT I, 07.12.2024, 1 - jõust. 10.12.2024\]
+
+### § 10. Nõuded taotlejale
+
+(1) Taotleja riikliku maksu võlg, sealhulgas maksuhalduri haldusaktiga kindlaks määratud intress, on väiksem kui 100 eurot või tema riikliku maksu võla tasumine on ajatatud.
+
+(2) Taotleja suhtes ei toimu likvideerimismenetlust ega ole nimetatud pankrotiseaduse kohaselt ajutist pankrotihaldurit või kohtuotsusega välja kuulutatud pankrotti või algatatud sundlõpetamist ja tal ei ole kehtivat registrist kustutamise hoiatust.
+
+(3) Taotleja on riigieelarvelistest, Euroopa Liidu või välisvahenditest saadud ja tagasimaksmisele kuulunud summa tähtajal tagasi maksnud või toetuse tagasimaksmise ajatamise korral tasunud tagasimaksed ettenähtud summas, sealhulgas täitnud komisjoni määruse (EL) 2022/2472 artikli 1 lõike 4 punktis a nimetatud Euroopa Komisjoni otsuse ebaseaduslikuks ja siseturuga kokkusobimatuks tunnistatud riigiabi tagasimaksmise kohta.
+
+(4) Taotlejal ei ole kehtivat karistust karistusseadustiku §-s 49<sup>1</sup>, 209, 209<sup>1</sup>, 210, 296, 298, 372, 373 või 384 sätestatud süüteo toimepanemise eest.
+
+(5) Toetatava rajatise või hoone ehitamise ja rekonstrueerimise korral peab taotlejal olema tegevuse elluviimiseks ehitusluba või esitatud ehitusteatis, kui see on nõutav ehitusseadustiku või maaparandusseaduse kohaselt.
+
+(6) Tähtajaliselt asutatud mittetulundusühingu, metsaühistu ja maaparandusühistu tähtaeg on vähemalt viis aastat arvates PRIA poolt viimase toetusosa maksmisest.
+
+(7) Maaparandusühistu viib toetatava tegevuse ellu kooskõlas oma tegevuskavas määratud tegevuste ja nende mahtudega.
+
+(8) Taotleja ei ole raskustes olev ettevõtja komisjoni määruse (EL) 2022/2472 artikli 2 punkti 59 tähenduses, kui toetatav tegevus viiakse ellu erametsamaal.
+
+## 3. peatükk — Toetuse taotlemine
+
+### § 11. Taotluse esitamine ja taotluse esitamise tähtaeg
+
+(1) Toetuse saamiseks esitab taotleja selleks ettenähtud tähtajal PRIA-le elektrooniliselt PRIA e-teenuse keskkonna kaudu taotluse.
+
+(2) PRIA teatab taotluse esitamise tähtaja ametlikus väljaandes Ametlikud Teadaanded ja oma veebilehel.
+
+(3) Taotleja esitab iga maaparandussüsteemi kohta eraldi taotluse, kuhu koondatakse kõik selle taotleja poolt sellel maaparandussüsteemil § 4 lõike 1 punktides 1 ja 2 kavandatavad tegevused. Eratee ehitamiseks, rekonstrueerimiseks ja uuendamiseks esitab taotleja eraldi taotluse.
+
+### § 12. Nõuded taotlusele
+
+(1) Taotleja esitab taotluses järgmised andmed:
+
+1\) taotleja nimi ja registri- või isikukood ning taotleja esindaja nimi ja kontaktandmed;
+
+2\) taotluse selgelt sõnastatud sisu;
+
+3\) projekti nimetus ja eesmärk ning vastavalt projekti eripärale koguselised näitajad, nagu arv, pindala või pikkus;
+
+4\) projekti elluviimise asukoht;
+
+5\) projekti abikõlblike kulude suurus;
+
+6\) taotletava toetuse suurus ja koguinvesteeringu suurus;
+
+7\) teave pakkumuse valikukriteeriumite kohta;
+
+8\) projekti maksumuse prognoos, kui projekti eeldatav käibemaksuta maksumus on 100 000 eurot või sellest suurem.
+
+\[RT I, 29.11.2025, 1 - jõust. 04.12.2025\]
+
+(2) Koos taotlusega esitab taotleja järgmised andmed ja dokumendid:
+
+1\) kulude mõistlikkust tõendavad §-s 8 nimetatud dokumendid;
+
+2\) maa valdamise õigust tõendav dokument, kui projekt kavandatakse ellu viia maal, mis ei ole taotleja omandis;
+
+3\) ehitusprojekt;
+
+4\) Maa- ja Ruumiametiga kooskõlastatud ehitusprojekt, kui toetust taotletakse muu keskkonnakaitseks vajaliku rajatise ehitamiseks;
+
+\[RT I, 28.12.2024, 13 - jõust. 01.01.2025\]
+
+5\) keskkonnamõjude eelhinnang, kui toetust taotletakse lõhejõel või pinnaveekogumil eesvoolu rekonstrueerimiseks või muul juhul, kui seda nõuab õigusakt;
+
+6\) vee-elustiku eksperdi kõrgharidust tõendav dokument ja töökogemust kinnitav dokument või nimekiri senistest töödest, millest nähtub tema keskkonnamõjude hindamise kogemus;
+
+7\) arve-saateleht või arve, mille on väljastanud isik, kellelt taotleja tellis § 4 lõikes 3 nimetatud töö või teenuse, kui taotleja taotleb toetust ka nende kulude hüvitamiseks;
+
+8\) maaparandusühistu tegevuskava, kui toetust taotleb maaparandusühistu;
+
+9\) tõend, millest nähtub, et projekteerija on läbinud keskkonnasäästliku maaparandussüsteemi projekteerimise koolituse;
+
+10\) kaasomaniku kirjalik nõusolek kavandatava tegevuse elluviimiseks, kui rajatis, mille kohta toetust taotletakse, asub kaasomandis oleval maal;
+
+11\) kaasomaniku kirjalik nõusolek, kui soetatav seade paigaldatakse kaasomandis olevasse ehitisse või kui ehitisealune maa on kaasomandis;
+
+12\) mitte varem kui taotluse esitamisele vahetult eelnenud kalendriaastal vastu võetud mittetulundusühingu, maaparandusühistu või metsaühistu üldkoosoleku otsus, millest nähtub tema liikmete otsus taotleda toetust, ja üldkoosolekust osavõtnute nimekiri koos igaühe allkirjaga;
+
+13\) mittetulundusühingu, maaparandusühistu ja metsaühistu liikmete nimekiri koos nende isiku- või registrikoodidega mitte varasema kui punktis 12 nimetatud üldkoosoleku toimumise seisuga;
+
+14\) dokument, mis tõendab, et põllumajandusmaa on antud taotlejale või mittetulundusühingu või maaparandusühistu puhul tema liikmele õiguslikul alusel kasutamiseks vähemalt viieks aastaks arvates PRIA poolt viimase toetusosa maksmisest;
+
+15\) Maa- ja Ruumiametiga kooskõlastatud ehitusprojekt, kui toetust taotletakse juurdepääsutee ehitamiseks või rekonstrueerimiseks;
+
+\[RT I, 28.12.2024, 13 - jõust. 01.01.2025\]
+
+16\) teave juurdepääsutee erametsamaa kasutamise eesmärgi kohta;
+
+17\) metsamajandamiskava või sellega samaväärne dokument, millest nähtub, et kavandatav tegevus on kooskõlas Euroopa metsade kestliku majandamise juhendiga, kui toetust taotleb suurettevõtja §-s 3 sätestatud tegevuste kohta;
+
+18\) töökogemust kinnitav dokument või nimekiri senistest töödest, millest nähtub isiku turvasmuldadel süsiniku jalajälje või kasvuhoonegaaside heite hindamise kogemus, kui toetust taotletakse § 5 lõike 2 punktis 2 nimetatud tegevuse kohta.
+
+## 4. peatükk — Taotluse menetlemine
+
+### § 13. Taotleja ja taotluse nõuetekohasuse kontrollimine
+
+Taotluses esitatud andmete õigsust ning taotleja, taotluse ja toetatava tegevuse toetuse saamise nõuetele vastavust kontrollivad PRIA ja Maa- ja Ruumiamet.
+
+\[RT I, 28.12.2024, 13 - jõust. 01.01.2025\]
+
+### § 14. Taotluse hindamine
+
+(1) PRIA hindab taotlusi järgmiselt:
+
+1\) paragrahvi 4 lõike 1 punktides 1 ja 2 sätestatud tegevuste elluviimiseks esitatud taotlusi hinnatakse lisas 1 „Maaparandussüsteemi ja keskkonnakaitserajatise hindamise kriteeriumid” sätestatud hindamiskriteeriumite alusel;
+
+2\) paragrahvi 4 lõike 1 punktis 3 sätestatud tegevuse elluviimiseks esitatud taotlusi hinnatakse lisas 2 „Eratee hindamise kriteeriumid” sätestatud hindamiskriteeriumite alusel.
+
+(2) PRIA moodustab hindamistulemuste alusel eraldi taotluste paremusjärjestused lõike 1 punktides 1 ja 2 nimetatud tegevuste kaupa, milles loetakse paremaks suurema hindepunktide summa saanud taotlused. Võrdse hindepunktide summaga taotluste puhul eelistatakse taotlust, milles taotletava toetuse summa on väiksem. Kui ka taotletavad toetuse summad on võrdsed, eelistatakse taotlejat, kes esitas taotluse ajaliselt varem.
+
+\[RT I, 29.11.2025, 1 - jõust. 04.12.2025\]
+
+### § 15. Taotluse rahuldamine ja rahuldamata jätmine
+
+(1) Kui kõigi nõuetekohaste taotluste rahastamise summa ei ületa § 14 lõike 1 punktis 1 või 2 sätestatud tegevuseks ettenähtud vahendeid, rahuldab PRIA kõik nõuetekohased taotlused, mis vastavad hindamiskriteeriumite miinimumnõudele, selleks tegevuseks ettenähtud vahendite piires Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse § 28 lõike 1 punkti 3 alusel.
+
+(2) Kui kõigi nõuetekohaste taotluste rahastamise summa ületab § 14 lõike 1 punktis 1 või 2 sätestatud tegevuseks ettenähtud vahendeid, rahuldab PRIA selleks tegevuseks ettenähtud vahendite piires hindamistulemuste alusel koostatud taotluste paremusjärjestusse seatud parimad taotlused, mis vastavad hindamiskriteeriumite miinimumnõudele, Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse § 28 lõike 1 punkti 2 alusel.
+
+(3) Taotlus vastab hindamiskriteeriumite miinimumnõudele, kui § 4 lõike 1 punktides 1 ja 2 sätestatud tegevuste puhul on hindamisel saadud vähemalt neli hindepunkti ja § 4 lõike 1 punktis 3 sätestatud tegevuse puhul on hindamisel saadud vähemalt kaks hindepunkti.
+
+(4) Kui taotluse täies ulatuses rahuldamine ei ole põhjendatud taotluses sisalduvate mitteabikõlblike kulude tõttu, võib PRIA teha taotluse osalise rahuldamise otsuse, vähendades toetuse summat Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse § 28 lõikes 5 sätestatud tingimustel mitteabikõlblike kulude võrra.
+
+(5) Kui hindamistulemuste alusel väljavalitud ja paremusjärjestusse seatud nõuetekohast taotlust ei ole võimalik täies ulatuses rahuldada, sest taotletava toetuse suurus ületab toetuseks ettenähtud vahendite jäägi, võib PRIA teha taotluse osalise rahuldamise otsuse tingimusel, et taotluses kavandatud projekt viiakse ellu ja saavutatakse toetuse andmise eesmärgid. Kui taotleja ei ole taotluse osalise rahuldamisega nõus, tehakse taotluse rahuldamata jätmise otsus.
+
+(6) Kui taotleja ja taotluse nõuetekohasuse kontrollimise käigus tehakse kindlaks, et taotleja, taotlus või toetatav tegevus ei vasta toetuse saamise nõuetele, teeb PRIA taotluse rahuldamata jätmise otsuse Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse § 28 lõike 3 alusel.
+
+(7) PRIA teeb taotluse osalise või täieliku rahuldamise otsuse või taotluse rahuldamata jätmise otsuse 80 tööpäeva jooksul arvates taotluse esitamise tähtpäevast.
+
+## 5. peatükk — Nõuded toetuse saajale ja toetuse maksmine
+
+### § 16. Toetatava tegevuse elluviimise ja kestuse nõuded
+
+(1) Toetuse saaja viib projekti ellu, sealhulgas esitab kõik tegevuse elluviimist tõendavad dokumendid, ja võtab toetuse abil ehitatud, rekonstrueeritud, uuendatud või soetatud vara sihipäraselt kasutusse kahe aasta jooksul arvates PRIA poolt taotluse rahuldamise otsuse tegemisest, kuid hiljemalt 30. juunil 2029.
+
+(2) Taotleja teatab vähemalt kolm tööpäeva enne uuendustöö või ehitus- või rekonstrueerimistöö tegemise algust Maa- ja Ruumiametile PRIA e-teenuse keskkonna kaudu töö tegemise aja ja koha.
+
+\[RT I, 28.12.2024, 13 - jõust. 01.01.2025\]
+
+(3) Toetuse saaja tagab, et toetuse abil ehitatud, rekonstrueeritud või uuendatud hoone või rajatis toimib nõuetekohaselt vähemalt viis aastat arvates PRIA poolt viimase toetusosa maksmisest (edaspidi *sihipärase kasutamise periood*).
+
+(4) Lisaks lõikes 3 sätestatud kohustusele tagab toetuse saaja kuni sihipärase kasutamise perioodi lõpuni, et:
+
+1\) säilib rekonstrueeritud kuivendussüsteemi reguleeriva võrgu ja veerežiimi kahepoolse reguleerimissüsteemi maa-ala sihtotstarve;
+
+2\) säilib selle põllumajandusmaa ja erametsamaa sihtotstarve, millele juurdepääsuks eratee ehitati või rekonstrueeriti;
+
+3\) rekonstrueeritud kuivendussüsteemi reguleeriva võrgu ja veerežiimi kahepoolse reguleerimissüsteemi maa-alale ei rajata taastuvenergia tootmisseadmeid.
+
+\[RT I, 07.12.2024, 1 - jõust. 10.12.2024\]
+
+### § 17. Ostumenetlus
+
+(1) Toetuse saaja peab enne toetatava tegevuse elluviimisega alustamist korraldama projekti raames tellitava töö või teenuse või soetatava vara mõistliku maksumuse väljaselgitamiseks riigihangete registris ostumenetluse, kui projekti eeldatav käibemaksuta maksumus on 100 000 eurot või sellest suurem.
+
+\[RT I, 29.11.2025, 1 - jõust. 04.12.2025\]
+
+(2) Ostumenetluse korraldamine riigihangete registris peab vastama järgmistele nõuetele:
+
+1\) ostumenetluse väljakuulutamisel avaldatakse riigihangete registris ostuteade, millest nähtub tellitava töö või teenuse või soetatava vara kirjeldus, tehnilised andmed, majanduslikult soodsaima pakkumuse väljaselgitamiseks pakkumuste valikukriteeriumid ja pakkumuste esitamise tähtpäev;
+
+2\) pakkumuste esitamise tähtaeg on vähemalt 15 tööpäeva;
+
+3\) teade ostumenetluse kohta on avalik;
+
+4\) ostumenetlusega seotud teabevahetus ostumenetluse korraldaja ja pakkuja vahel, sealhulgas ostuteatele ja sellega seotud dokumentidele juurdepääsu võimaldamine ning pakkumuste ja selgituste esitamine, toimub riigihangete registris;
+
+5\) pakkumused võetakse vastu ja avatakse riigihangete registris;
+
+6\) punktis 1 sätestatud tingimusi ei tohi muuta ilma pakkumuste esitamiseks täiendavat tähtaega andmata, mis ei või olla lühem kui vähemalt pool pakkumuste esitamise tähtajast, ja parima pakkumuse valimisel ei tohi neist kõrvale kalduda;
+
+\[RT I, 21.07.2026, 17 - jõust. 24.07.2026\]
+
+7\) PRIA esindajale antakse Vabariigi Valitsuse 31. augusti 2017. a määruse nr 137 „Riigihangete registri põhimäärus” § 21 lõike 1 punkti 19 kohane vaatleja roll.
+
+(3) Pakkumus peab sisaldama toetuse saaja nime, pakkuja nime ja kontaktandmeid, pakkumuse väljastamise kuupäeva ning töö, teenuse või vara üksikasjalikku kirjeldust ning käibemaksuta ja käibemaksuga maksumust ning tehniliste tingimuste loetelu, mis osutab tehnilisele spetsifikatsioonile.
+
+(4) Toetuse saaja võib loobuda ostumenetluse korraldamisest riigihangete registris, kui see on objektiivselt põhjendatud, eelkõige kui turul puudub asjaomase töö, teenuse või vara pakkujate paljusus.
+
+(5) Toetuse saaja ei või lõikes 1 sätestatud nõude eiramiseks jaotada osadeks projekti raames tellitavat tööd või teenust või soetatavat vara, mis on funktsionaalselt koos toimiv või vajalik sama eesmärgi saavutamiseks. Toetuse saaja võib jaotada projekti raames tellitava töö või teenuse või soetatava vara osadeks, kui see on objektiivsetel põhjustel õigustatud.
+
+### § 18. Toetuse saaja kohustused
+
+(1) Toetuse saaja täidab sihipärase kasutamise perioodi lõpuni järgmisi kohustusi:
+
+1\) võimaldab teha auditit, teostada järelevalvet ja teha muud toetuse saamisega seotud kontrolli ning osutab selleks igakülgset abi, sealhulgas võimaldab viibida toetuse saaja kinnisasjal, ehitises ja ruumis ning läbi vaadata dokumente ja vara kohapeal;
+
+2\) esitab auditi tegemiseks, järelevalve teostamiseks või muu kontrolli tegemiseks vajalikud andmed ja dokumendid määratud tähtaja jooksul;
+
+3\) teavitab viivitamata PRIA-t taotluses esitatud või projektiga seotud andmete muutumisest või projekti elluviimist takistavast asjaolust, sealhulgas projektiga seotud vara üleandmisest teisele isikule;
+
+4\) näitab avalikkusele, et tegemist on Euroopa Maaelu Arengu Põllumajandusfondi (EAFRD) toetuse abil elluviidava tegevusega, kasutades selleks ettenähtud sümboleid ja teavitustegevusi komisjoni rakendusmääruses (EL) 2022/129 sätestatud nõuete kohaselt;
+
+5\) raamatupidamiskohustuslane eristab selgelt oma raamatupidamises toetuse kasutamisega seotud kulud ning neid kajastavad kulu- ja maksedokumendid muudest kulu- ja maksedokumentidest;
+
+6\) esitab seiret või hindamist tegeva isiku või asutuse nõudmisel toetuse kasutamisega seotud seireks ja hindamiseks vajalikud andmed, milleks on toetuse seirenäitajad, ning väetiste ja taimekaitsevahendite kasutamise aja ja koguse ning võimaldab võtta maaparandussüsteemi eesvoolust, dreenist ja keskkonnakaitserajatisest veekvaliteedi ja -elustiku seisundi hindamiseks vajalikke analüüse;
+
+7\) strateegiakava eesmärkide täitmise tuvastamiseks nõustub osalema maaparandusseires ning annab andmed maaparandussüsteemi ehitus- ja hoiutööde maksumuse ja mahu kohta, kui neid andmeid küsib riik;
+
+8\) säilitab toetusega seotud dokumente;
+
+9\) tagab rajatise nõuetekohase hooldamise maaparandusseaduse kohaselt.
+
+(2) Toetuse saaja vastab § 10 lõigetes 1–4 sätestatud nõuetele kuni PRIA poolt viimase toetusosa maksmiseni.
+
+\[RT I, 29.11.2025, 1 - jõust. 04.12.2025\]
+
+(3) \[Kehtetu - RT I, 29.11.2025, 1 - jõust. 04.12.2025\]
+
+(4) Toetuse saajal peavad hiljemalt viimase maksetaotluse esitamise ajaks olema täidetud toetuse abil soetatud või ehitatud vara sihipäraseks kasutamiseks vajalikud eeldused. Kui toetuse abil soetatud või ehitatud vara sihipäraseks kasutamiseks on nõutav ehitise kasutusluba või kasutusteatis, peab see olema ehitisregistrist või maaparandussüsteemide registrist kättesaadav PRIA poolt viimase toetusosa maksmise ajaks.
+
+\[RT I, 29.11.2025, 1 - jõust. 04.12.2025\]
+
+### § 19. Maksetaotluse esitamine ja nõuded maksetaotlusele
+
+(1) Toetuse maksmiseks esitab toetuse saaja pärast projekti täielikku või osadena elluviimist elektrooniliselt PRIA e-teenuse keskkonna kaudu PRIA-le maksetaotluse, kui olenevalt toetatavast tegevusest on täidetud järgmised tingimused:
+
+1\) töö on tehtud või teenus on osutatud ja vastu võetud;
+
+2\) vara on soetatud või oma valdusesse või omandisse saadud ning
+
+3\) töö, teenuse või vara eest on tasutud.
+
+(2) Toetuse saaja võib projekti kohta esitada kuni neli maksetaotlust.
+
+(3) Toetuse saaja esitab maksetaotluses vähemalt järgmised andmed:
+
+1\) toetuse saaja nimi ja isiku- või registrikood ning selle taotluse viitenumber, mille kohta maksetaotlus esitatakse;
+
+2\) toetuse summa, mille maksmist taotletakse;
+
+3\) teave elluviidud tegevuse maksumuse ja selle osalise või täieliku tasumise kohta;
+
+4\) teave toetatava tegevuse elluviimist tõendavate dokumentide kohta;
+
+5\) teave toetatava tegevuse kogumaksumuse muutumise kohta.
+
+(4) Toetuse saaja esitab koos maksetaotlusega järgmised tegevuse elluviimist tõendavad dokumendid:
+
+1\) selle isiku väljastatud arve-saateleht või arve, kellelt toetuse saaja tellis teenuse või töö või soetas vara;
+
+2\) punktis 1 nimetatud arve-saatelehel või arvel märgitud rahalise kohustuse tasumist tõendav maksekorraldus või selle väljatrükk või arvelduskonto väljavõte;
+
+3\) selle isiku väljastatud osutatud teenuse, tehtud töö või soetatud vara üleandmist-vastuvõtmist tõendav dokument, kellelt toetuse saaja tellis teenuse või töö.
+
+(5) Üleandmist-vastuvõtmist tõendav akt peab olema kooskõlastatud Maa- ja Ruumiametiga ja omanikujärelevalve tegijaga, kui toetatav tegevus eeldab omanikujärelevalvet, ning sellelt peab nähtuma osutatud teenuse või tehtud töö maht ja maksumus, akti koostamise ajaks osutamata teenuse või tegemata töö maht ja maksumus ning pakkumuses esitatud töö või teenuse maht ja maksumus.
+
+\[RT I, 28.12.2024, 13 - jõust. 01.01.2025\]
+
+(6) Maa- ja Ruumiamet kooskõlastab üleandmist-vastuvõtmist tõendava akti ajal, kui ilmastikuolud võimaldavad maastikul kontrollida osutatud teenust, tehtud tööd või soetatud vara. Mittesobilikeks ilmastikuoludeks loetakse olukorda, kui on lumekate, üleujutus või külmunud pinnas, mis ei võimalda osutatud teenust, tehtud tööd või soetatud vara kontrollida.
+
+\[RT I, 29.11.2025, 1 - jõust. 04.12.2025\]
+
+### § 20. Maksetaotluse kontrollimine
+
+PRIA kontrollib vastuvõetud maksetaotluses ja §-s 19 sätestatud dokumentides esitatud andmete õigsust ning elluviidud projekti vastavust taotluse rahuldamise otsuses sätestatule, Euroopa Liidu asjakohastele õigusaktidele ning Euroopa Liidu ühise põllumajanduspoliitika rakendamise seadusele ja selle alusel kehtestatud õigusaktidele.
+
+### § 21. Toetuse maksmine
+
+(1) Toetus makstakse üksnes abikõlblike kulude hüvitamiseks ja tingimusel, et toetuse saaja on projekti elluviimisel järginud kõiki nõudeid.
+
+(2) PRIA teeb toetuse maksmisest keeldumise otsuse Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse § 13 lõike 4 alusel, kui enne toetuse maksmist tehakse kindlaks Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse § 28 lõikes 3 sätestatud taotluse rahuldamata jätmise alused.
+
+(3) Kui enne toetuse maksmist tehakse kindlaks, et taotleja rikub toetatava tegevuse elluviimise nõudeid või ei täida muid toetuse saamise kohustusi, võib PRIA rikkumise raskust, ulatust, püsivust ja korduvust arvestades vähendada makstavat toetust või keelduda toetuse maksmisest Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse § 13 lõike 3 alusel.
+
+(4) PRIA teeb toetuse saaja esitatud maksetaotluse alusel toetuse maksmise otsuse sellise aja jooksul, et toetusraha oleks võimalik kanda toetuse saaja arvelduskontole kolme kuu jooksul arvates §-s 18 nimetatud nõuetekohaste dokumentide saamisest.
+
+(5) PRIA teeb toetuse maksmisest keeldumise otsuse 25 tööpäeva jooksul arvates toetuse maksmisest keeldumise aluseks olevast asjaolust teadasaamisest.
+
+### § 22. Tegevuse rahastamine enne kulutuste tegemist
+
+(1) Toetatava tegevuse elluviimist võib Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse § 30 lõike 1 ja lõike 3 punkti 1 kohaselt rahastada toetuse saaja taotluse alusel riigieelarvelistest vahenditest pärast taotluse rahuldamise otsuse tegemist enne töö või teenuse tellimise või vara soetamise eest tasumist tagatist nõudmata, kui töö või teenus on lõpetatud või vara on üle antud ning toetuse saaja on selle vastu võtnud ja selle eest tasunud vähemalt omafinantseeringuga võrdse rahasumma ning kui toetuse saaja on piisavalt usaldusväärne.
+
+(2) Lõike 1 kohaselt toetatava tegevuse elluviimise rahastamiseks esitab toetuse saaja pärast toetatava tegevuse täielikku või osadena elluviimist PRIA-le elektrooniliselt PRIA e-teenuse keskkonna kaudu asjakohase taotluse koos § 19 lõikes 4 nimetatud dokumentidega.
+
+(3) PRIA teeb toetatava tegevuse elluviimise rahastamise otsuse sellise aja jooksul, et nimetatud otsuse alusel makstav raha oleks võimalik kanda toetuse saaja arvelduskontole kolme kuu jooksul arvates lõikes 2 nimetatud nõuetekohaste dokumentide saamisest.
+
+(4) Paragrahvi 19 lõike 4 punktis 1 nimetatud arve-saatelehel või arvel märgitud toetatava tegevuse abikõlblike kulude eest peab olema tasutud ja § 19 lõike 3 kohane maksetaotlus koos sama paragrahvi lõike 4 punktis 2 nimetatud dokumentidega peab olema PRIA-le esitatud seitsme tööpäeva jooksul arvates tegevuse elluviimise rahastamise otsuse alusel saadud raha laekumisest.
+
+\[RT I, 29.11.2025, 1 - jõust. 04.12.2025\]
+
+### § 23. Dokumentide säilitamine
+
+Projektiga seotud dokumente säilitab PRIA vähemalt 31. detsembrini 2039.
+
+### § 24. Toetuse saaja andmete avalikustamine
+
+PRIA teavitab toetuse saajat tema andmete avalikustamisest ning töötlemisest Euroopa Parlamendi ja nõukogu määruse (EL) 2021/2116, mis käsitleb ühise põllumajanduspoliitika rahastamist, haldamist ja seiret ning millega tunnistatakse kehtetuks määrus (EL) nr 1306/2013 (ELT L 435, 06.12.2021, lk 187–261), artiklites 98 ja 99 sätestatud alustel ja korras.
+
+## 6. peatükk — Rakendussätted
+
+\[RT I, 29.11.2025, 1 - jõust. 04.12.2025\]
+
+### § 25. Rakendussäte
+
+Paragrahvi 5 lõike 5 punktides 3 ja 5, § 6 lõikes 2<sup>1</sup>, §-des 8 ja 17 ning lisas 1 4. detsembril 2025. aastal jõustunud muudatusi ei kohaldata toetuse saaja suhtes, kes esitas taotluse 2025. aasta esimeses taotlusvoorus.
+
+\[RT I, 29.11.2025, 1 - jõust. 04.12.2025\]
+
+## Lisad
+
+- Lisa — [REM\_m45\_lisa\_1.pdf](https://www.riigiteataja.ee/aktilisa/1210/7202/6021/REM_m45_lisa_1.pdf)
+
+Lisa 1
+
+- Lisa — [REM\_m94\_lisa\_2.pdf](https://www.riigiteataja.ee/aktilisa/1210/7202/6021/REM_m94_lisa_2.pdf)
+
+Lisa 2

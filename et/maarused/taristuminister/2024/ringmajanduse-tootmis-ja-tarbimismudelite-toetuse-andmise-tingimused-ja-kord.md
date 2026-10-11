@@ -1,0 +1,602 @@
+---
+title: "Ringmajanduse tootmis- ja tarbimismudelite toetuse andmise tingimused ja kord perioodil 2021–2027"
+identifier: "114072026013"
+rt_reference: "RT I, 14.07.2026, 13"
+rt_original: "RT I, 26.11.2024, 12"
+group_id: "1059914"
+type: regulation
+issuer: "Taristuminister"
+number: "77"
+text_type: "terviktekst"
+jurisdiction: ee
+language: et
+date: 2024-11-25
+last_amended: 2026-07-17
+status: in_force
+source: "https://www.riigiteataja.ee/akt/114072026013"
+retrieved: 2026-10-12
+---
+
+# Ringmajanduse tootmis- ja tarbimismudelite toetuse andmise tingimused ja kord perioodil 2021–2027
+
+Määrus kehtestatakse perioodi 2021–2027 Euroopa Liidu ühtekuuluvus- ja siseturvalisuspoliitika fondide rakendamise seaduse § 10 lõike 2 alusel.
+
+## 1. peatükk — Üldsätted
+
+### § 1. Reguleerimisala
+
+(1) Toetust antakse „Ühtekuuluvuspoliitika fondide rakenduskava 2021–2027” (edaspidi *rakenduskava*) poliitikaeesmärgi nr 2 „Rohelisem Eesti” erieesmärgi nr 6 „Ring- ja ressursitõhusale majandusele ülemineku edendamine” raames ringmajanduspõhiste tootmis- ja tarbimismudelite rakendamiseks.
+
+(2) Toetust antakse Ühtekuuluvusfondist Eesti riigi aastate 2024–2027 eelarvestrateegia programmi keskkonnakaitse ja -kasutuse meetme „Ringmajanduse korraldamine” tegevuse „Ressursitõhususe ja ökoinnovatsiooni edendamine” tulemuste saavutamiseks.
+
+(3) Toetus kajastatakse perioodi 2021–2027 Euroopa Liidu ühtekuuluvus- ja siseturvalisuspoliitika fondide meetmete nimekirjas meetmes number 21.2.4.1 „Ringmajanduse korraldamine” ja sekkumises nr 21.2.4.11 „Ringmajanduspõhiste tootmis- ja tarbimismudelite kasutuselevõtu, sh tööstussümbioosi ja toorme hankimisega seotud kahjude vähendamise toetamine ning vastavate erialaekspertide koolitus”.
+
+(4) Toetatavate tegevuste valikul lähtutakse ühtekuuluvuspoliitika rakenduskava seirekomisjonis kinnitatud läbivatest valikukriteeriumidest ja -metoodikast. Toetatavate tegevuste valimiseks kasutatavad valikukriteeriumid ja metoodikad vastavad Vabariigi Valitsuse 12. mai 2022. a määruse nr 55 „Perioodi 2021–2027 Euroopa Liidu ühtekuuluvus- ja siseturvalisuspoliitika fondide rakenduskavade vahendite andmise ja kasutamise üldised tingimused” (edaspidi *ühendmäärus*) §-le 7.
+
+(5) Käesoleva määruse alusel ei toetata Euroopa Parlamendi ja nõukogu määruse (EL) 2021/1058 artiklis 7 nimetatud tegevusi.
+
+### § 2. Terminid
+
+Käesoleva määruse tähenduses:
+
+1\) *abikõlblik kulu* on projekti toetusest rahastatava tegevuse elluviimiseks vajalik ja mõistlik toetatav kulu, sealhulgas omafinantseering, mis on tekkinud abikõlblikkuse perioodil ning mille aluseks olevad tegevused on kooskõlas Eesti ja Euroopa Liidu õigusega;
+
+2\) *abikõlblikkuse periood* on ajavahemik, millal projekti toetatavad tegevused algavad ja lõpevad ning projekti tegevuste elluviimiseks vajalikud abikõlblikud kulud tekivad;
+
+3\) *alginvesteering* on investeering, mis vastab Euroopa Komisjoni määruse (EL) nr 651/2014 (ELT L 187, 26.06.2014, lk 1–78) ELi aluslepingu artiklite 107 ja 108 kohaldamise kohta, millega teatavat liiki abi tunnistatakse siseturuga kokkusobivaks (edaspidi *üldine grupierandi määrus*), artikli 2 punktis 49 esitatud definitsioonile;
+
+4\) *ei kahjusta oluliselt põhimõte* on põhimõte, mille kohaselt ei tekitata Euroopa Parlamendi ja nõukogu määruse (EL) 2020/852, millega kehtestatakse kestlike investeeringute hõlbustamise raamistik ja muudetakse määrust (EL) 2019/2088 (ELT L 198, 22.06.2020, lk 13–43), artiklis 17 nimetatud olulist kahju ühelegi artiklis 9 sätestatud keskkonnaeesmärgile;
+
+5\) *tööstussümbioos* on erinevate ettevõtete vaheline koostöö, mis võimaldab ressursse jagades võtta kasutusele tootmisjäägid või kõrvalsaadused, et suurendada osapoolte jaoks jäätmete väärtustamist, majanduslikku kasu, ressursitõhususe parandamist ja vähendada mõju keskkonnale;
+
+6\) *innovatsioon* on uute ideede ja teadmiste kasutamine uudsete lahenduste rakendamiseks;
+
+7\) *kliimakindluse tagamine* on protsess, mille eesmärk on vältida taristu vastuvõtlikkust võimalikele pikaajalistele kliimamõjudele, tagades, et järgitakse energiatõhususe esikohale seadmise põhimõtet ja projekti põhjustatavate võimalike kasvuhoonegaaside heitkoguste tase on kooskõlas 2050. aastaks saavutatava kliimaneutraalsuse eesmärgiga;
+
+8\) *projekt* on kindlaks määratud tulemuse, eelarve ja piiritletud ajaraamiga tegevus või seotud tegevuste kogum, millega kaasnevate kulude hüvitamiseks toetust taotletakse või kasutatakse;
+
+9\) *projekti kogumaksumus* on projekti elluviimiseks tehtavate abikõlblike ja abikõlbmatute kulude kogusumma;
+
+10\) *ringmajanduse tootmis- ja tarbimismudel* on majandusmudel, mille kohaselt on kasutusel olevad ressursid kestlikult saadud ning mida tarbitakse targalt ning keskkonda hoidvalt, sealhulgas pikendatakse toodete eluiga ning kasutatakse teisest tooret;
+
+11\) *ökoinnovatsioon* on mis tahes innovatsioon, millega edendatakse märkimisväärselt kestlikku arengut, vähendades tootmisviiside keskkonnamõju, suurendades vastupanuvõimet keskkonnakoormusele või tagades loodusvarade tõhusama ja vastutustundlikuma kasutamise;
+
+12\) *ökodisain ja ringdisain* on ökoinnovatsiooni tööriistad, mille rakendamisel saab sama ressursi eest rohkem toota;
+
+13\) *ressursid* on kõige üldisemas mõistes tootmisvahendid ja -tagavarad, mida on võimalik kasutada;
+
+14\) *ressursitootlikkus* on materjali kasutuse efektiivsust väljendav näitaja, mis arvutatakse sisemajanduse kogutoodangu ja kodumaise materjalitarbimise suhtena, mille arvutamisel kasutatakse sisemajanduse kogutoodangu aheldatud väärtust ning mis näitab, mitu lisandväärtuse eurot on suudetud luua ühe kilogrammi materjali kasutamise abil;
+
+15\) *ressursitõhusus* on toodanguüksuse tootmiseks vajalike sisendite koguse vähendamine või esmaste sisendite asendamine teiseste sisenditega;
+
+16\) *suurettevõtja* on ettevõtja, kes ei vasta väikese või keskmise suurusega ettevõtja mõistele;
+
+17\) *uut majandustegevust soodustav alginvesteering* on investeering, mis vastab üldise grupierandi määruse artikli 2 punktis 51 esitatud definitsioonile;
+
+18\) *väikese või keskmise suurusega ettevõtja* on ettevõtja konkurentsiseaduse § 2 mõistes ja kes vastab üldise grupierandi määruse lisas I sätestatud kriteeriumidele;
+
+19\) *ümberpaigutamine* on sama või sarnase tegevuse või selle osa üleviimine ühest Euroopa Majanduspiirkonna (edaspidi *EMP*) lepingu osalisriigi ettevõttest teises EMP lepingu osalisriigis asuvasse ettevõttesse, kuhu toetatav investeering tehakse. Ümberpaigutamine toimub siis, kui toode või teenus täidab nii algses kui ka toetatavas ettevõttes vähemalt osaliselt sama otstarvet ja vastab sama liiki tarbija nõudmistele või vajadustele ning EMP lepingu osalisriigis asuva abisaaja ühes ettevõttes lähevad samas või sarnases tegevusalas kaduma töökohad;
+
+20\) *Tallinna regioon* on Tallinna linn, Maardu linn, Harku vald, Saue vald, Saku vald, Kiili vald, Rae vald, Jõelähtme vald, Viimsi vald;
+
+21\) *Tartu regioon* on Tartu linn haldusüksusena;
+
+22\) *tootmisüksus* on eraldiseisev hoonete, rajatiste või seadmete kompleks, mille eraldiseisvusest tingituna on võimalik välja arvestada selle majanduslikud näitajad – tootmismahud, kulud ja tulud – ning tehtav investeering on käsitatav terviklahendusena;
+
+23\) *vabatahtlikud keskkonnakorralduse lahendused* on keskkonnajuhtimissüsteemid ning ökomärgised, mis vastavad Euroopa Parlamendi ja nõukogu määrusele nr 1221/2009 või nr 66/2010;
+
+24\) *paranduskeskus* on esemete, riiete ja seadmete omal käel parandamiseks vajalikke seadmeid, teadmisi ja oskusi avalikkusele pakkuv asutus, paranduskeskused võivad olla ka tootjate või teenuspakkujate juures;
+
+25\) *ringbiomajandus* ühendab bio- ja ringmajanduse põhimõtted ning biomajanduse potentsiaali, et asendada fossiilseid materjale kestlikuma biopõhise toormega ning väärindada seda ringmajanduse ja kaskaadkasutuse põhimõtetest lähtudes;
+
+26\) *jagamismajanduse lahendus* on majandustegevus, mille käigus jagatakse ajutiselt ja omandiõigust üle andmata ressursse ja esemeid;
+
+27\) *energiatõhusus* vastab grupierandi määruse artikli 2 punktis 103 esitatud definitsioonile.
+
+### § 3. Riigiabi ja vähese tähtsusega abi
+
+(1) Kui käesoleva määruse alusel antakse riigiabi üldise grupierandi määruse alusel, lähtutakse nimetatud määruses ja konkurentsiseaduse §-s 34<sup>2</sup> sätestatust.
+
+(2) Riigiabi antakse:
+
+1\) investeeringuteks ette nähtud regionaalabina (edaspidi *regionaalabi*) üldise grupierandi määruse artikli 14 alusel;
+
+2\) protsessiinnovatsiooniks antava abina üldise grupierandi määruse artikli 29 alusel;
+
+3\) energiatõhususe meetmetesse tehtavateks investeeringuteks ettenähtud abina (edaspidi *energiatõhususeks antav abi*) üldise grupierandi määruse artikli 38 alusel;
+
+4\) ressursitõhususe tagamiseks ja ringmajandusele ülemineku toetamiseks antav investeeringuteks ettenähtud abi üldise grupierandi määruse artikli 47 alusel.
+
+(3) Määrust ei kohaldata üldise grupierandi määruse artikli 1 lõigetes 2–6 sätestatud juhtudel.
+
+(4) Määrust ei kohaldata raskustes olevale ettevõtjale üldise grupierandi määruse artikli 2 punkti 18 mõistes.
+
+(5) Määruse alusel ei maksta üksikabi ettevõtjale, kellele Euroopa Komisjoni sellise eelneva otsuse alusel, millega sama liikmesriigi antud abi on tunnistatud ebaseaduslikuks ja siseturuga kokkusobimatuks, on esitatud seni täitmata korraldus abi tagasimaksmiseks.
+
+(6) Riigiabil peab olema ergutav mõju üldise grupierandi määruse artikli 6 kohaselt.
+
+(7) Kui määruse alusel antav abi on vähese tähtsusega abi, järgitakse abi andmisel Euroopa Komisjoni määruses (EL) 2023/2831, milles käsitletakse Euroopa Liidu toimimise lepingu artiklite 107 ja 108 kohaldamist vähese tähtsusega abi suhtes (ELT L, 2023/2831, 15.12.2023) (edaspidi *VTA määrus*) või Euroopa Komisjoni määruses (EL) 1408/2013, milles käsitletakse Euroopa Liidu toimimise lepingu artiklite 107 ja 108 kohaldamist vähese tähtsusega abi suhtes põllumajandussektoris (ELT L 1408/2013, 18.12.2013) (edaspidi *põllumajandusliku VTA määrus*) ning konkurentsiseaduse §-s 33 või maaelu ja põllumajandusturu korraldamise seaduse §-s 20 sätestatut.
+
+(8) Vähese tähtsusega abi andmisel kohaldatakse lõikes 7 nimetatud määruste artiklis 1 sätestatud välistusi. Vähese tähtsusega abi andmisel VTA määruse alusel ühele ettevõtjale kõigist allikatest antud vähese tähtsusega abi ei tohi kolme aasta jooksul ületada 300 000 eurot. Vähese tähtsusega abi andmisel põllumajandusliku VTA määruse alusel ühele ettevõtjale kõigist allikatest antud vähese tähtsusega abi ei tohi kolme majandusaasta jooksul ületada 50 000 eurot.
+
+\[RT I, 27.08.2025, 3 - jõust. 30.08.2025\]
+
+(9) Üheks ettevõtjaks loetakse VTA määruse ja põllumajandusliku VTA määruse artiklite 2 lõigete 2 määratletud ettevõtja. Vähese tähtsusega abi võib kumuleerida teiste abiliikidega VTA määruse ja põllumajandusliku VTA määruse artiklites 5 sätestatud tingimustel ja piirmäärades.
+
+(10) Käesoleva paragrahvi lõikes 2 nimetatud abi liike ühe taotluse raames kombineerida ei ole lubatud.
+
+(11) Riigiabi või vähese tähtsusega abi andmisel tuleb rakendusüksusel:
+
+1\) säilitada riigiabi või vähese tähtsusega abi kava käsitlevaid andmeid kümme aastat alates päevast, kui määruse alusel anti viimast korda üksikabi;
+
+2\) kanda riigiabi ja vähese tähtsusega abi registrisse andmed antud riigiabi või vähese tähtsusega abi kohta.
+
+### § 4. Toetuse andmise eesmärk ja tulemus
+
+(1) Toetuse andmise eesmärk on ringmajanduse tootmis- ja tarbimismudelite rakendamine ning ettevõtetes tööstussümbioosi lahenduste kasutustele võtmine.
+
+(2) Toetuse andmise tulemusel on Eestis rohkem ringmajanduse põhimõtteid arvestavaid ettevõtteid ning suurenenud vabatahtlikke keskkonnakorralduse lahendusi rakendavate ettevõtete arv ning on suurenenud Eesti ressursitootlikus.
+
+(3) Toetatavad tegevused arvestavad Euroopa Parlamendi ja nõukogu määruse (EL) 2021/1060 artiklis 9 nimetatud horisontaalseid põhimõtteid ja panustavad Riigikogu otsuse „Riigi pikaajalise arengustrateegia „Eesti 2035” heakskiitmine” (edaspidi *„Eesti 2035”*) aluspõhimõtete hoidmisesse.
+
+(4) „Eesti 2035” aluspõhimõtete hoidmist ja sihi „Majandus – Eesti majandus on tugev, uuendusmeelne ja vastutustundlik” saavutamisele kaasa aitamist võrdsete võimaluste, ligipääsetavuse, regionaalse arengu ning keskkonna- ja kliimaeesmärke toetaval moel hinnatakse toetuse andmisel järgmiste näitajatega:
+
+1\) väljaspool Harjumaad loodud SKP elaniku kohta EL 27 keskmisest, kohaldub tegevustele väljaspool Harjumaad;
+
+2\) hoolivuse ja koostöömeelsuse mõõdik;
+
+3\) ligipääsetavuse näitaja, kohaldub tegevustele, mis on suunatud avalikkusele;
+
+4\) keskkonnatrendide indeks;
+
+5\) ringleva materjali määr;
+
+6\) tööjõu tootlikkus.
+
+(5) Toetuse andmine panustab rakenduskava tulemusnäitaja saavutamisse, milleks on kas „Esmase toorme sääst projektidega” või „Toorainena kasutatud jäätmed”.
+
+(6) Toetuse andmine panustab rakenduskava väljundnäitaja saavutamisse, milleks on „Ringmajanduses toetatavad ettevõtjad”.
+
+(7) Toetuse andmisel on projekti täiendav spetsiifiline näitaja määruse § 6 lõikes 2 nimetatud toetatav tegevus ja selle arv ning summa.
+
+### § 5. Rakendusasutus ja rakendusüksus
+
+(1) Rakendusasutus on Kliimaministeerium (edaspidi *rakendusasutus*).
+
+(2) Rakendusüksus on Sihtasutus Keskkonnainvesteeringute Keskus (edaspidi *rakendusüksus*).
+
+## 2. peatükk — Toetatavad tegevused, kulude abikõlblikkus ja toetuse määr
+
+### § 6. Toetatavad tegevused
+
+(1) Toetust antakse projektile, mille tegevus panustab §-s 4 nimetatud eesmärgi ja tulemuse saavutamisse.
+
+(2) Toetust antakse määruse §-s 4 sätestatud eesmärkide ja tulemuste saavutamiseks järgmisteks tegevusteks:
+
+1\) tööstussümbioosi lahenduste rakendamine, mille hulka kuuluvad tervikliku materjalivahetuse süsteemi loomine vähemalt kahe ettevõtte vahel, sh tootmisliinide seadistamine teisese tooraine kasutamiseks, tootmistarkvara arendamine, mis annab partneritele info, kui palju kõrvalsaaduseid tekib, ja muud sarnased tegevused, mis panustavad määruse eesmärkide täitmisesse;
+
+2\) ringmajanduse ärimudelite rakendamine, mille hulka kuuluvad tootest-teenuseks-ärimudelile üleminek, tootes biojäätmetele kasutuse leidmine, ringbiomajanduse lahendused, jagamismajanduse lahenduste kasutuselevõtt ja arendamine või paranduskeskuste loomine ja arendamine ja muud sarnased tegevused, mis aitavad saavutada määruse eesmärke.
+
+(3) Määruse alusel toetuse taotlemise korral ei või kavandatavat tegevust alustada ega sellega seotud siduvaid kohustusi võtta varem kui taotluse esitamise päevale järgneval päeval.
+
+(4) Määruse alusel toetatakse tegevusi, mis on kooskõlas „ei kahjusta oluliselt” põhimõttega, mille kohaselt ei tekitata Euroopa Parlamendi ja nõukogu määruse (EL) 2020/852, millega kehtestatakse kestlike investeeringute hõlbustamise raamistik ja muudetakse määrust (EL) 2019/2088 (ELT L 198, 22.06.2020, lk 13–43), artiklis 17 nimetatud olulist kahju ühelegi artiklis 9 sätestatud keskkonnaeesmärgile.
+
+(5) Euroopa Parlamendi ja nõukogu 24. juuni 2021 määruse (EL) 2021/1060 artikli 73 lõike 2 punkti j kohaselt tuleb taristule, mille eluiga on vähemalt viis aastat, tagada kliimakindlus.
+
+### § 7. Kulude abikõlblikkus
+
+(1) Kulu on abikõlblik, kui see on kooskõlas ühendmääruse §-ga 15 ning käesolevas määruses sätestatud tingimuste ja taotluse rahuldamise otsusega. Kindlasummaliste maksete puhul on kulud abikõlblikud ühendmääruse § 20 lõike 1 punkti 1 kohaselt.
+
+(2) Abikõlblikud on järgmised § 4 kohase tulemuse saavutamiseks vajalikud kulud, mis vastavad §-s 9 sätestatud piirmääradele ja taotluse rahuldamise otsusele:
+
+1\) materiaalsesse ja immateriaalsesse varasse tehtavate investeeringute kulud;
+
+2\) investeeringutega seotud seadistamise kulud;
+
+3\) taristu objekti kliimakindluse tagamise hindamise kulud;
+
+4\) teavitamise ja avalikustamise kulud, mis on vajalikud teavitusnõude täitmiseks Vabariigi Valitsuse 12. mai 2022. a määruse nr 54 „Perioodi 2021–2027 ühtekuuluvus- ja siseturvalisuspoliitika fondide vahendite andmisest avalikkuse teavitamine” kohaselt;
+
+5\) regionaalabi andmisel on abikõlblikud kulud, mis on seotud alginvesteeringu või uut majandustegevust soodustava alginvesteeringuga materiaalsesse või immateriaalsesse varasse ja mida arvestatakse üldise grupierandi määruse artikli 14 lõigetes 4, 6, 7, 8 ja 9 sätestatud tingimuste järgi;
+
+6\) energiatõhususeks antava abi kulud on abikõlblikud üldise grupierandi määruse artikli 38 lõikes 3 sätestatud tingimuste järgi;
+
+7\) ressursitõhususe tagamiseks ja ringmajandusele ülemineku toetamiseks antava investeeringuteks ettenähtud abi andmisel on kulud abikõlblikud üldise grupierandi määruse artikli 47 lõike 7 tingimuste järgi;
+
+8\) protsessiinnovatsiooniks antava abi korral on abikõlblikud üldise grupierandi määruse artikli 29 lõikes 3 nimetatud kulud, v.a üldkulud;
+
+9\) projektijuhtimise kulu on abikõlblik sisseostetud teenusena kuni 5 protsendi ulatuses projekti abikõlblikest kuludest;
+
+10\) otsene personalikulu on abikõlblik ühendmääruse § 16 kohaselt kuni 15 protsendi ulatuses projekti abikõlblikest kuludest;
+
+11\) vabatahtlike keskkonnameetmete kasutuselevõtu kulud (sealhulgas keskkonnajuhtimise süsteemi rakendamine, ökomärgise taotlemine, toote olelusringi hindamine, erinevate keskkonnaaruannete koostamine) ja muud kulud, mis on vajalikud § 6 lõike 2 kohaste toetavate projektide eesmärkide saavutamiseks.
+
+(3) Lisaks ühendmääruse §-s 17 nimetatud abikõlbmatutele kuludele on abikõlbmatud järgmised kulud:
+
+1\) kinnisvara ostmise või rentimise kulu;
+
+2\) üldkulu;
+
+3\) investeeringu kulu, mis tehakse üldise grupierandi määruse artikli 38 alusel selleks, et viia ettevõtja tegevus kooskõlla Euroopa Liidu normatiividega, sealhulgas normatiividega, mis on juba vastu võetud, kuid ei ole veel jõustunud;
+
+4\) muu projektiga mitteseotud ning projekti elluviimise seisukohast põhjendamatu või ebaoluline kulu;
+
+5\) riigiabi eeskirjade kohaselt abikõlbmatu kulu;
+
+6\) määruse „Jäätmetekke ja pakendamise vältimise ja vähendamise ning korduskasutuse edendamiseks toetuse andmise tingimused ja kord perioodil 2021–2027” alusel toetavate tegevuste kulud.
+
+### § 8. Projekti abikõlblikkuse periood
+
+(1) Projekti abikõlblikkuse perioodi algus ei või olla varasem kui taotlusvooru väljakuulutamise päev ning lõpp ei või olla hilisem kui 31.12.2029.
+
+(2) Projekti abikõlblikkuse perioodi kestus on maksimaalselt 24 kuud.
+
+(3) Toetuse saaja taotluse alusel ja mõjuva põhjuse olemasolul võib rakendusüksus abikõlblikkuse perioodi pikendada kuni 31.12.2029. Abikõlblikkuse perioodi pikendamisel võib ületada ka lõikes 2 nimetatud perioodi. Projekti tegevustega peab alustama kuue kuu jooksul taotluse rahuldamisest.
+
+### § 9. Taotlusvooru eelarve, taotlusvoorus toetatavad tegevused, toetuse piirsumma ja osakaal
+
+(1) Taotlusvooru eelarve ja ajakava kinnitab taristuminister käskkirjaga ning edastab asjakohase teabe rakendusüksusele. Käskkirjas sätestatakse, milliste käesoleva määruse § 6 lõikes 2 loetletud tegevuste jaoks avatavas taotlusvoorus toetust antakse. Nimetatud käskkirjas võib määrata taotlusvooru eelarve jagunemise toetatavate tegevuste ja taotlejate vahel.
+
+\[RT I, 14.07.2026, 1 - jõust. 17.07.2026\]
+
+(2) Rakendusüksus peab eraldi arvestust toetuste kasutamisel Tallinna ja Tartu regioonides ning nendest väljaspool.
+
+\[RT I, 14.07.2026, 1 - jõust. 17.07.2026\]
+
+(3) Ühe projekti maksimaalne kogumaksumus on kuni 200 000 eurot ja minimaalne kogumaksumus 5000 eurot. Projekti toetatakse kindlasummalise makse alusel taotluse rahuldamise otsuses määratud ulatuses.
+
+\[RT I, 27.08.2025, 3 - jõust. 30.08.2025\]
+
+(4) Projekti omafinantseeringuna ei käsitata teisi Euroopa Liidu ja muude välisabifondide antud tagastamatut ja tagastatavat abi.
+
+(5) Toetuse osakaal abikõlblikest kuludest on kuni 70 protsenti.
+
+\[RT I, 27.08.2025, 3 - jõust. 30.08.2025\]
+
+(6) Kui toetust antakse regionaalabina üldise grupierandi määruse artikli 14 alusel Tartu, Jõgeva, Viljandi, Võru, Põlva või Valga maakonnas, on toetuse osakaal suurettevõtjale kuni 20 protsenti, keskmise suurusega ettevõtjale kuni 30 protsenti ja väikeettevõtjale kuni 40 protsenti abikõlblikest kuludest.
+
+(7) Kui toetust antakse regionaalabina üldise grupierandi määruse artikli 14 alusel Harju, Järva, Lääne-Viru, Rapla, Pärnu, Saare, Lääne, või Hiiu maakonnas, on kuni 31.12.2024 toetuse osakaal suurettevõtjale kuni 20 protsenti, keskmise suurusega ettevõtjale kuni 30 protsenti ja väikeettevõtjale kuni 40 protsenti abikõlblikest kuludest. Alates 01.01.2025 on abi osakaal suurettevõtjale kuni 15 protsenti, keskmise suurusega ettevõtjale kuni 25 protsenti ja väikeettevõtjale kuni 35 protsenti abikõlblikest kuludest.
+
+(8) Kui toetust antakse regionaalabina üldise grupierandi määruse artikli 14 alusel Ida-Viru maakonnas, on toetuse osakaal suurettevõtjale kuni 25 protsenti, keskmise suurusega ettevõtjale kuni 35 protsenti ja väikeettevõtjale kuni 45 protsenti abikõlblikest kuludest.
+
+(9) Kui toetust antakse energiatõhususeks antava abina üldise grupierandi määruse artikli 38 alusel, on toetuse osakaal suurettevõtjale kuni 35 protsenti, keskmise suurusega ettevõtjale kuni 45 protsenti, väikeettevõtjale kuni 55 protsenti abikõlblikest kuludest.
+
+\[RT I, 27.08.2025, 3 - jõust. 30.08.2025\]
+
+(10) Kui toetust antakse ringmajandusele ülemineku toetamiseks üldise grupierandi määruse artikli 47 alusel, on toetuse osakaal suurettevõtjale kuni 45 protsenti, keskmise suurusega ettevõtjale kuni 55 protsenti ja väikeettevõtjale kuni 65 protsenti abikõlblikest kuludest.
+
+\[RT I, 27.08.2025, 3 - jõust. 30.08.2025\]
+
+(11) Kui toetust antakse protsessiinnovatsiooniks antava abina üldise grupierandi määruse artikli 29 alusel, on toetuse osakaal suurettevõtjale kuni 15 protsenti ja väike- ja keskmise suurusega ettevõtjale kuni 50 protsenti abikõlblikest kuludest.
+
+\[RT I, 27.08.2025, 3 - jõust. 30.08.2025\]
+
+(12) Paragrahvi 10 lõike 1 punktides 1 ja 2 nimetatud taotleja toetuse osakaal sõltub kohaliku omavalitsuse üksusest ja on määruse lisa kohaselt 50–70 protsenti projekti abikõlblikest kuludest, võttes arvesse riigiabi ja vähese tähtsusega abi andmise piirmäärasid nende asjakohasuse korral. Kui toetuse taotleja on kohaliku omavalitsuse üksusest sõltuv üksus või kohaliku omavalitsuse üksuste ühise valitseva mõju all olev üksus, kohaldatakse toetuse määra ja maksimaalse toetuse suuruse leidmisel konsolideerimisgruppi kuuluva üksuse või kohaliku omavalitsuse üksuste ühise valitseva mõju all oleva üksuse investeeringuobjekti asukohajärgsele kohaliku omavalitsuse üksusele sätestatut.
+
+\[RT I, 27.08.2025, 3 - jõust. 30.08.2025\]
+
+## 3. peatükk — Nõuded taotlejale, partnerile ja taotlusele
+
+### § 10. Nõuded taotlejale ja partnerile
+
+(1) Toetust võivad taotleda ja projektipartnerid olla:
+
+1\) kohalik omavalitsus ja omavalitsusliit;
+
+2\) kohaliku omavalitsuse asutus või selle hallatav asutus;
+
+3\) maakondlik arendusorganisatsioon;
+
+4\) äriühing;
+
+5\) mittetulundusühing;
+
+6\) sihtasutus.
+
+(2) Taotleja ja partner peavad vastama ühendmääruse § 3 lõigetele 2 ja 4.
+
+### § 11. Nõuded taotlusele
+
+(1) Taotletava toetuse suurus ja selle osakaal abikõlblikest kuludest ei tohi ületada §-s 9 sätestatud toetuse määra ning taotlus peab vastama ühendmääruse § 4 lõikes 1 sätestatule.
+
+(2) Taotlus peab sisaldama lisaks ühendmääruse § 4 lõikes 1 nimetatud nõuete täitmist tõendavatele dokumentidele ning sama paragrahvi lõikes 2 nimetatud kinnitustele järgmiseid andmeid ja dokumente:
+
+1\) taotleja ja partneri nimi ja registrikood;
+
+2\) projekti nimi;
+
+3\) projekti tegevuste kirjeldus, sealhulgas projekti tegevuste elluviimise asukoht;
+
+4\) projekti eesmärgi ja tulemuse kirjeldus, mis vastab käesoleva määruse §-s 4 nimetatud eesmärgile ja tulemusele;
+
+5\) projekti ajakava;
+
+6\) kinnitus projekti vastavuse kohta Euroopa Parlamendi ja nõukogu 24. juuni 2021 määruse (EL) 2021/1060 artikli 9 „ei kahjusta oluliselt” põhimõtetega;
+
+7\) kinnitus, et projektis arvestatakse toetatavate tegevuste elluviimisel asjakohaste keskkonnaalaste õigusaktidega;
+
+8\) võrreldavad hinnapakkumused ja projekti eelarve kindlasummalise makse kasutamiseks;
+
+9\) projekti kulude loetelu;
+
+10\) projektis toetatava tegevusega seotud kinnisasja või ehitise omandiõigust või kasutusõigust tõendavad dokumendid, mis kehtivad taotluse esitamise hetkel, ning kinnitus, et kinnisasja või ehitist kasutatakse samal sihtotstarbel vähemalt kuni viis aastat pärast projekti viimase lõppmakse saamist;
+
+11\) tõendid omafinantseeringu ning projekti abikõlbmatute kulude tasumise suutlikkuse kohta;
+
+12\) kui omafinantseering tagatakse laenu abil finantsasutusest, lisatakse taotlusele laenuandja krediidikomitee laenuotsus. Erandkorras võib rakendusüksus laenuotsuse esitamata jätmist aktsepteerida, kui taotleja ja partner on sellekohase taotluse ja asjakohase tõenduse esitanud ning finantshindamise käigus on taotleja laenu saamise suutlikkus ammendavalt tuvastatav muul viisil;
+
+13\) kinnitus, et taotleja ja partner tegutsevad projekti elluviimisel heas usus ja kooskõlas Euroopa Liidu põhiõiguste hartas ja puuetega inimeste õiguste konventsioonis sätestatuga;
+
+14\) teave selle kohta, kas taotleja taotleb toetust projektile või on saanud projektile või projekti üksikutele osadele toetust Euroopa Liidu institutsioonidelt, muudest välisabi fondidest või avaliku sektori asutustelt;
+
+15\) määruse §-s 4 nimetatud näitajad koos sihttasemetega;
+
+16\) kinnitus, et projekt on seotud „Eesti 2035” aluspõhimõtte ja asjakohaste sihtidega, mis on sätestatud määruse § 4 lõikes 4;
+
+17\) kinnitus taotleja ja partneri taotluse vastavuse kohta riigiabi nõuetele koos selgituste ja asjakohaste lisadega rakendusüksuse kodulehel avaldatud juhendi järgi;
+
+18\) \[kehtetu - RT I, 27.08.2025, 3 - jõust. 30.08.2025\]
+
+19\) toetuse summa, selle osakaal abikõlblikest kuludest ja abi liik;
+
+20\) kinnitus, et toetust ei taotleta projektile, mis on seotud tootmise ümberpaigutamisega Euroopa Parlamendi ja nõukogu määruse (EL) 2021/1060 artikli 73 lõike 2 punkti h tähenduses;
+
+21\) teave, mis tõendab taotleja ja asjakohasel juhul partneri ettevõtte suurust juhul, kui toetust taotletakse üldise grupierandi määruse alusel;
+
+22\) finantsanalüüs, mis kajastab projektis osalevate äriühingute, sihtasutuste ja mittetulundusühingute majanduslikku olukorda ja taotluses sisalduvat projekti ning vastab rakendusüksuse kehtestatud juhendile;
+
+23\) taristu, mille kestvus on vähemalt viis aastat, kliimakindluse tagamise hindamise tulemused ühendmääruse lisa 3 B osa järgi;
+
+\[RT I, 27.08.2025, 3 - jõust. 30.08.2025\]
+
+24\) paragrahvis 6 lõikes 2 punktis 1 nimetatud tegevuseks toetuse taotlemisel taotleja ja tööstussümbioosi teise osapoole kinnitus, mis tõendab, et igas kavandatud kinnise tootmistsükli osaks olevas ettevõttes tekib kavandatud koguses kõrvalsaadust ning seda saab teise ettevõtte toormeks loovutada.
+
+(3) Lõike 2 punktis 8 nimetatud võrreldavad hinnapakkumused peavad olema saadud kirjalikku taasesitamist võimaldavas vormis ja vastavas turusektoris tegutsevatelt ettevõtjatelt ühesuguse lähteülesande järgi hinnapäringu tulemusel.
+
+(4) Lõike 2 punktis 6 nimetatud „ei kahjusta oluliselt” põhimõte tähendab, et toetatavad tegevused ei või oluliselt kahjustada ühtegi kuuest keskkonnaeesmärgist, milleks on kliimamuutuste leevendamine, kliimamuutustega kohanemine, vee- ja mereressursside kestlik kasutamine ja kaitse, üleminek ringmajandusele, saastuse vältimine ja tõrje, elurikkuse ja ökosüsteemide kaitse ja taastamine.
+
+(5) Taotluses peab olema täpselt kirjeldatud, kuidas on avalikkusele pakutavates lahendustes ja teenustes ning tegevustes osalemisel tagatud ligipääsetavus erivajadustega inimestele. Samuti see, kuidas on tagatud avalikkusele edastatava informatsiooni kättesaadavus liikumis-, nägemis-, kuulmis- ja intellektipuudega inimestele.
+
+## 4. peatükk — Toetuse taotlemine ja taotluste menetlemine
+
+### § 12. Taotlusvooru avamine, peatamine ja sulgemine ning taotluse esitamine ja menetlemine
+
+(1) Toetust antakse tähtajatu taotlusvooru kaudu.
+
+(2) Rakendusüksus kuulutab taotlusvooru välja oma kodulehel ja sihtrühmale suunatud avalikus kanalis. Rakendusüksus sulgeb taotlusvooru selle eelarve ammendumisel või rakendusasutuse käskkirja alusel. Taotlusvooru peatamisest ja lõpetamisest teavitab rakendusüksus oma kodulehel.
+
+(3) Taotlus toetuse saamiseks esitatakse e-toetuse keskkonna kaudu määruse §-s 11 sätestatud tingimuste kohaselt. Kui e-toetuse keskkonnas esineb tõrkeid, rakendub taotluste vastuvõtu alguse päevale ühendmääruse § 5 lõige 2.
+
+(4) Taotlusi menetletakse nende laekumise järjekorras. Taotluse menetlemine koosneb taotleja ja partneri ning taotluse nõuetele vastavuse kontrollist, hindamisest ja taotluse rahuldamise või rahuldamata jätmise otsuse tegemisest.
+
+(5) Rakendusüksus võib anda taotluse täienduste ja muudatuste esitamiseks või puuduse kõrvaldamiseks taotlejale kuni kümnetööpäevase tähtaja.
+
+(6) Rakendusüksus võib taotluse läbivaatamise käigus nõuda taotlejalt selgitusi ja lisateavet taotluses esitatud andmete kohta või taotluse muutmist, kui esitatud taotlus ei ole piisavalt selge, näidates ühtlasi, millised asjaolud vajavad selgitamist, muutmist või dokumentide lisamist.
+
+(7) Rakendusüksus teeb taotluse rahuldamise või rahuldamata jätmise otsuse 65 tööpäeva jooksul taotluse esitamisest. Taotluse menetlemise tähtaeg pikeneb puuduste kõrvaldamiseks määratud aja võrra.
+
+(8) Rakendusüksus tunnistab taotleja ja partneri ning taotluse nõuetele vastavaks, kui on täidetud käesolevas määruses sätestatud nõuded.
+
+### § 13. Valikukomisjoni moodustamine ja selle tegevus
+
+(1) Rakendusüksus moodustab nõuetele vastavate taotluste hindamiseks valikukomisjoni, mille koosseisu kuulub vähemalt üks rakendusasutuse ja kaks rakendusüksuse nimetatud liiget.
+
+(2) Rakendusüksus võib kaasata eksperte.
+
+(3) Valikukomisjoni liikmed peavad:
+
+1\) vastama perioodi 2021–2027 Euroopa Liidu ühtekuuluvus- ja siseturvalisuspoliitika fondide rakendamise seaduse (edaspidi *ÜSS2021\_2027*) § 11 lõikes 2 sätestatud nõuetele;
+
+2\) deklareerima oma erapooletust ja sõltumatust hinnatavatest projektidest, taotlejatest ja partneritest ning isikliku seotuse esinemise korral ennast taotluse hindamisest taandama;
+
+3\) tagama valikukomisjoni liikmeks oleku ajal ja pärast liikmeks oleku aja lõppemist tähtajatult talle valikukomisjoni töö käigus teatavaks saanud informatsiooni konfidentsiaalsuse.
+
+(4) Valikukomisjoni tööd koordineerib rakendusüksus.
+
+(5) Valikukomisjon hindab §-s 14 esitatud nõuetele vastavaks tunnistatud taotlusi määruse §-s 15 nimetatud valikukriteeriumide alusel, mis on kooskõlas ühendmääruse §-ga 7.
+
+\[RT I, 27.08.2025, 3 - jõust. 30.08.2025\]
+
+### § 14. Taotleja ja taotluse nõuetele vastavaks tunnistamine
+
+(1) Rakendusüksus tunnistab taotleja, partneri ja taotluse nõuetele vastavaks, kui on täidetud määruses taotlejale, partnerile ja taotlusele esitatud nõuded.
+
+(2) Rakendusüksus teeb taotluse rahuldamata jätmise otsuse taotlust sisuliselt hindamata, kui taotleja või taotlus ei vasta määruse nõuetele ja seda ei viida § 12 lõikes 7 nimetatud tähtaja jooksul nõuetega vastavusse.
+
+### § 15. Projektide vastavus- ja valikukriteeriumid ja -metoodika ning taotluse rahuldamine
+
+(1) \[Kehtetu - RT I, 27.08.2025, 3 - jõust. 30.08.2025\]
+
+(2) \[Kehtetu - RT I, 27.08.2025, 3 - jõust. 30.08.2025\]
+
+(3) \[Kehtetu - RT I, 27.08.2025, 3 - jõust. 30.08.2025\]
+
+(4) \[Kehtetu - RT I, 27.08.2025, 3 - jõust. 30.08.2025\]
+
+(5) Projekti rahastamise otsustamisel lähtub rakendusüksus järgmistest valikukriteeriumidest:
+
+1\) projekti kooskõla riigi jäätmekava 2023–2028 eesmärkidele ning mõju perioodi 2021–2027 Euroopa Liidu ühtekuuluvus- ja siseturvalisuspoliitika fondide rakenduskava erieesmärgi ja toetusmeetme eesmärkide saavutamisele ja on suunatud §-s 4 nimetatud toetuse andmise eesmärgi ja toetusmeetme eesmärkide saavutamisele ning §-s 4 nimetatud toetuse andmise eesmärgi täitmisele ja saavutatakse § 4 kohane tulemus;
+
+2\) projekt on põhjendatud, kui taotluses kajastatud tegevused vastavad §-s 6 nimetatud toetatavatele tegevustele, projekti eesmärgipüstitus on põhjendatud, projekti sekkumisloogika on arusaadav ja mõjus ning tegevuste ajakava on realistlik;
+
+3\) projekt on kuluefektiivne, kui projekti eelarve on realistlik ja mõistlik ning ettenähtud tegevused/lahendused on kuluefektiivne viis planeeritud väljundite/tulemuste saavutamiseks;
+
+4\) taotleja ja partner on suutlik projekti ellu viima, kui taotlejal ja partneril on olemas kvalifikatsioon, kogemus, õiguslikud, organisatsioonilised või tehnilised eeldused tagada projekti tulemuste kestlikkus elluviimiseks kavandatud viisil;
+
+5\) projekt on kooskõlas „Eesti 2035” aluspõhimõtete ja asjakohaste sihtidega, mis on esitatud määruse § 4 lõikes 4.
+
+(6) Rakendusüksus teeb taotluse rahuldamise otsuse ühendmääruse § 8 lõike 1 kohaselt, kui on täidetud kõik käesolevas määruses taotlejale ja taotlusele esitatud nõuded, taotluses kirjeldatud projekt vastab lõikes 5 nimetatud valikukriteeriumidele.
+
+\[RT I, 27.08.2025, 3 - jõust. 30.08.2025\]
+
+(7) Taotluse rahuldamise otsuses märgitakse lisaks ühendmääruse § 8 lõikes 4 sätestatule:
+
+1\) projekti elluviimise tingimused;
+
+2\) toetuse maksmise tingimused;
+
+3\) kindlasummalise makse suurus, makse aluseks olev tulemus ja tõendamise alus;
+
+4\) muud projekti elluviimiseks vajalikud kõrvaltingimused;
+
+5\) kui asjakohane, viide, et toetus on vähese tähtsusega abi komisjoni määruse (EL) 2023/2831 alusel või riigiabi komisjoni määruse (EL) 651/2014 alusel;
+
+6\) toetuse andmise ja kasutamisega seotud teabe ja aruannete esitamise tähtajad ja kord.
+
+(8) Taotlus ja selle kohta esitatud teave on taotluse rahuldamise otsuse lahutamatu lisa.
+
+(9) Projekti kogumaksumusega kuni 200 000 eurot toetatakse kindlasummalise makse alusel taotluse rahuldamise otsuses määratud ulatuses.
+
+(10) Kindlasummalise makse korral on toetuse summa määramise aluseks taotlusekohase projekti kogumaksumus, mis on selgunud määruse § 11 lõike 2 punktis 8 nimetatud hinnapakkumuste võrdluse tulemusena.
+
+(11) Kindlasummalise makse korral määratakse projekti tulemuseks projekti tegevuste elluviimine taotluse rahuldamise otsuses määratud mahus.
+
+(12) Rakendusüksus menetleb taotlusi nende laekumise järjekorras. Taotlused rahuldatakse tingimustele vastavaks tunnistamise järjekorras kuni taotlusvooru eelarve ammendumiseni.
+
+(13) Rakendusüksus toimetab taotluse rahuldamise otsuse toetuse saajale e-toetuse keskkonna vahendusel kätte viie tööpäeva jooksul pärast otsuse tegemist.
+
+### § 16. Taotluse rahuldamata jätmine
+
+(1) Taotlus jäetakse rahuldamata ühendmääruse § 8 lõigetes 2 ja 3 sätestatud juhtudel.
+
+(2) Kui taotlusest ei kõrvaldata rakendusüksuse osutatud puudust selleks määratud tähtaja jooksul, võib rakendusüksus teha taotluse rahuldamata jätmise otsuse taotlust hindamata.
+
+(3) Taotluse rahuldamata jätmise otsuses märgitakse vähemalt:
+
+1\) otsuse tegija;
+
+2\) otsuse tegemise kuupäev ja otsuse number;
+
+3\) toetuse taotleja ja partneri andmed;
+
+4\) otsuse tegemise õiguslikud ja faktilised alused;
+
+5\) taotluse rahuldamata jätmise põhjendus;
+
+6\) otsuse vaidlustamise kord.
+
+(4) Rakendusüksus toimetab pärast taotluse rahuldamata jätmise otsuse toetuse saajale e-toetuse keskkonna vahendusel kätte viie tööpäeva jooksul pärast otsuse tegemist.
+
+### § 17. Taotluse osaline ja kõrvaltingimusega rahuldamine
+
+(1) Taotluse osaline rahuldamine on lubatud põhjendatud juhul ja tingimusel, et projekti eesmärk on saavutatav ka osalise toetusega. Taotluse osalisel rahuldamisel võib taotleja nõusolekul vähendada toetussummat ning muuta toetatavaid tegevusi.
+
+(2) Taotluse võib osaliselt rahuldada, kui taotluse rahaline maht ületab toetuste eelarve vaba jäägi.
+
+(3) Taotluse võib osaliselt rahuldada ühendmääruse § 9 lõike 1 kohaselt.
+
+(4) Rakendusüksusel on õigus teha taotlejale ettepanek taotlust muuta, kui see ei vasta ühendmääruse § 9 lõikele 1. Kui taotleja ei nõustu taotluse muutmise ettepanekuga, teeb rakendusüksus taotluse rahuldamata jätmise otsuse.
+
+(5) Taotluse rahuldamise otsuse võib teha kõrvaltingimusega ühendmääruse § 9 lõigetes 2 ja 3 sätestatu kohaselt.
+
+(6) Taotluse tingimusliku rahuldamise otsuse alusel ei teki toetuse saajal õigust toetuse maksetele. Õigus toetusega seotud maksetele tekib toetuse saajal pärast rakendusüksuse poolt tingimuse saabumise või täitmise tuvastamist toetuse saaja esitatud teabe põhjal, välja arvatud juhul, kui teavet on võimalik rakendusüksusel tuvastada infosüsteemist või andmeallikast.
+
+### § 18. Taotluse rahuldamise otsuse muutmine ja kehtetuks tunnistamine
+
+(1) Taotluse rahuldamise otsust muudetakse rakendusüksuse algatusel või toetuse saaja avalduse alusel ühendmääruses ja käesolevas määruses sätestatud tingimustel ja korras.
+
+(2) Rakendusüksusel on õigus keelduda taotluse rahuldamise otsuse muutmisest, kui soovitav muudatus seab kahtluse alla projekti oodatavate tulemuste saavutamise või projekti tegevuste lõpetamise abikõlblikkuse perioodil.
+
+(3) Taotluse rahuldamise otsuse muutmise otsustab rakendusüksus 30 tööpäeva jooksul pärast vastavasisulise avalduse saamist.
+
+(4) Taotluse rahuldamise otsuse võib osaliselt või täielikult kehtetuks tunnistada rakendusüksuse otsusega, kui esineb vähemalt üks ühendmääruse § 14 lõigetes 1 ja 2 ning § 37 lõikes 7 sätestatud alus või kui:
+
+1\) toetuse saaja või partner ei täida taotluse rahuldamise otsuses või õigusaktides sätestatut või ei kasuta toetust ettenähtud tingimustel;
+
+2\) toetuse saaja või partner ei täida projekti elluviimise ajakava.
+
+## 5. peatükk — Toetuse saaja õigused, kohustused ja aruannete esitamine
+
+### § 19. Toetuse saaja ja partneri õigused ja kohustused
+
+(1) Toetuse saajal ja partneril on õigus saada rakendusüksuselt informatsiooni ja selgitusi, mis on seotud õigusaktides sätestatud nõuete ja toetuse saaja kohustustega.
+
+(2) Toetuse saaja ja partner alustab projekti sisuliste tegevustega kuue kuu jooksul taotluse rahuldamise otsusest.
+
+(3) Toetuse saaja tagab projekti tegevuste elluviimise taotluses, taotluse rahuldamise otsuses ja käesolevas määruses sätestatud tingimuste kohaselt ning täidab ühendmääruse §-s 10 sätestatud toetuse saaja kohustused.
+
+(4) Toetuse saaja ja partner tagab projekti elluviimise käigus soetatud ja rajatud vara taotluses kirjeldatud viisil kasutuse vähemalt viis aastat pärast projektile lõppmakse tegemist.
+
+(5) Toetuse saaja peab viivitamata teatama rakendusüksusele projekti elluviimise ajal ja lõikes 4 nimetatud kestuse nõude kehtivuse ajal kõigist asjaoludest, mis võivad mõjutada projekti raames ostetud või loodud vara säilimist ja kasutamist või toetuse saaja ja partneri võimet täita taotluses ja määruses nimetatud eesmärke või toetuse saaja ja partneri kohustusi.
+
+(6) Toetuse kasutamisel tuleb avalikkusele pakutavates lahendustes ja teenustes ning tegevustes osalemiseks tagada ligipääsetavus erivajadustega inimestele. Samuti tuleb tagada avalikkusele edastatava informatsiooni kättesaadavus liikumis-, nägemis-, kuulmis- ja intellektipuudega inimestele.
+
+(7) Euroopa Parlamendi ja nõukogu 24. juuni 2021. a määruse (EL) 2021/1060 artikli 73 lõike 2 punkti j kohaselt tuleb taristule, mille eluiga on vähemalt viis aastat, tagada kliimakindlus ning rakendada vajaduse korral projektipõhiseid lahendusi kliimamõjuga kohanemiseks.
+
+(8) Toetatava tegevuse elluviimisel tuleb tagada, et see on kooskõlas Euroopa Parlamendi ja nõukogu 24. juuni 2021. a määruse (EL) 2021/1060 artiklis 9 nimetatud „ei kahjusta oluliselt” põhimõtetega.
+
+(9) Toetuse saaja esitab rakendusüksusele info projekti kavandatavate, elluviidavate või lõpetatud tegevuste ja maksete kohta igal aastal 15. jaanuariks ja 15. juuliks.
+
+(10) Toetuse saaja ja partnerid tagavad Vabariigi Valitsuse 12. mai 2022. a määruse nr 54 „Perioodi 2021–2027 ühtekuuluvus- ja siseturvalisuspoliitika fondide vahendite andmisest avalikkuse teavitamine” kohase teavitamistegevuse.
+
+(11) Toetuse saaja esitab § 4 lõikes 5 nimetatud näitaja või näitajate saavutustaseme vähemalt aasta pärast projekti lõppemist tegelikele mõõdetud andmetele tuginedes.
+
+(12) Partner peab täitma ühendmääruse § 10 lõike 1 punktides 2–6, 8–11 ja 13–16 nimetatud kohustusi.
+
+### § 20. Toetuse kasutamisega seotud aruannete esitamine
+
+(1) Toetuse saaja esitab rakendusüksusele e-toetuste keskkonna kaudu projekti elluviimise kohta vahearuande taotluse rahuldamise otsuses märgitud tähtaegadel ning projekti lõppemisel lõpparuande.
+
+(2) Projekti vahe- ja lõpparuandes peab olema kajastatud vähemalt järgmine teave:
+
+1\) projekti aruandlusperiood;
+
+2\) andmed projekti elluviimise kohta (tehtud tööd ja tegevused, tulemuste ja eesmärkide saavutamine);
+
+3\) toetuse saaja hinnang projekti tulemuslikkusele ja elluviimisele, kaasa arvatud määruses kehtestatud näitajate täitmine;
+
+4\) teavitusnõude täitmise kontrollimiseks võimaluse korral fotod, kui neid ei ole veel rakendusüksusele esitatud, või info selle täitmiseks tehtud tegevustest Vabariigi Valitsuse 12. mai 2022. a määruse nr 54 „Perioodi 2021–2027 ühtekuuluvus- ja siseturvalisuspoliitika fondide vahendite andmisest avalikkuse teavitamine” kohaselt;
+
+5\) kinnitus, et toetatud tegevused panustasid määruse § 3 lõikes 4 nimetatud strateegia „Eesti 2035” aluspõhimõtetesse ja sihtidesse;
+
+6\) taristu investeeringutega seotud projektidele, millele kohaldub nõue esitada kliimakindluse hindamise tulemused, leevendusmeetmete võtmise info.
+
+(3) Rakendusüksus võib täpsustada taotluse rahuldamise otsuses vahe- ja lõpparuandes ning järelaruandes esitatavat teavet ja selle esitamise sagedust.
+
+(4) Paragrahvi 4 lõikes 5 nimetatud näitaja saavutustaset raporteeritakse e-toetuste keskkonnas rakendusüksuse poolt etteantud vormil vähemalt kahel korral: üks ja viis aastat pärast projekti lõppemist tegelikele mõõdetud andmetele tuginedes.
+
+\[RT I, 27.08.2025, 3 - jõust. 30.08.2025\]
+
+(5) Rakendusüksus kinnitab aruanded 30 tööpäeva jooksul nende rakendusüksuse e-keskkonnas esitamisest arvates. Rakendusüksusel on õigus nõuda aruande täiendamist. Menetlemise tähtaeg pikeneb puuduste kõrvaldamiseks antud tähtaja võrra.
+
+## 6. peatükk — Toetuse maksmine ja kasutamine
+
+### § 21. Toetuse maksmine
+
+(1) Projekti, mille kogumaksumus on kuni 200 000 eurot, kulud makstakse kindlasummalise maksena ühendmääruse § 28 lõike 2 kohaselt ja taotluse rahuldamise otsuses määratud suuruses.
+
+(2) Toetuse saaja esitab makse saamise aluseks nõutud dokumendid ja tõendid rakendusüksusele e-toetuse keskkonna kaudu.
+
+(3) Toetuse saaja esitab rakendusüksusele maksetaotluse, millele on lisatud:
+
+1\) asjade, teenuste või ehitustööde üleandmist ja vastuvõtmist tõendava dokumendi koopia;
+
+2\) fotod tehtud töödest ja info teavitamise kohustuse täitmisest;
+
+3\) taotluse rahuldamise otsuses nõutud teave.
+
+(4) Maksete tegemisel lähtutakse ühendmääruse §-des 24–26 nimetatud ning määruses ja taotluse rahuldamise otsuses sätestatud maksete tegemise täpsustatud tingimustest ja korrast.
+
+(5) Rakendusüksus võib peatada toetuse maksmise aluseks olevate dokumentide menetlemise osaliselt või täielikult ühendmääruse §-s 33 sätestatud juhul.
+
+(6) Viimane maksetaotlus esitatakse pärast toetuse saamisega seotud tingimuste ja kohustuste täitmist koos projekti lõpparuandega või pärast projekti lõpparuande esitamist, kuid mitte hiljem kui 31. detsembril 2029. Lõppmakse tehakse, kui rakendusüksus on lõpparuande kinnitanud. Ühendmääruse § 26 lõike 1 kohaselt makstakse toetust kuni 31. märtsini 2030.
+
+(7) Kindlasummalise makse vahemakse makstakse toetuse saajale välja, kui toetuse saaja esitab taotluse rahuldamise, osalise rahuldamise või kõrvaltingimusega rahuldamise otsuses nimetatud tõendid vahetulemuse saavutamise kohta. Kui vahetulemus saavutatakse, aga lõpptulemus mitte, siis kuulub vahetulemuse eest saadud toetus tagasi maksmisele.
+
+\[RT I, 27.08.2025, 3 - jõust. 30.08.2025\]
+
+## 7. peatükk — Finantskorrektsioonid ja vaided
+
+### § 22. Finantskorrektsiooni tegemine ja toetuse tagastamine
+
+Finantskorrektsiooni otsus tehakse ja toetus tagastatakse ÜSS2021\_2027 §-des 28–30 ja ühendmääruse §-des 34, 35, 37 ja 38 sätestatu kohaselt.
+
+### § 23. Vaide esitamine
+
+Rakendusüksuse toimingu või otsuse peale tuleb enne halduskohtusse kaebuse esitamist esitada vaie rakendusüksusele ÜSS2021\_2027 § 31 kohaselt.
+
+## Lisad
+
+- Lisa — [KLIM\_m53\_lisa.pdf](https://www.riigiteataja.ee/aktilisa/1140/7202/6013/KLIM_m53_lisa.pdf)
+
+Lisa

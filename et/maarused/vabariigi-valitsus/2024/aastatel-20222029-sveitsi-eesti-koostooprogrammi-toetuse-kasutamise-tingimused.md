@@ -1,0 +1,435 @@
+---
+title: "Aastatel 2022–2029 Šveitsi-Eesti koostööprogrammi toetuse kasutamise tingimused ja kord"
+identifier: "103082024001"
+rt_reference: "RT I, 03.08.2024, 1"
+group_id: "1059262"
+type: regulation
+issuer: "Vabariigi Valitsus"
+number: "49"
+text_type: "algtekst-terviktekst"
+jurisdiction: ee
+language: et
+date: 2024-08-01
+last_amended: 2024-08-06
+status: in_force
+source: "https://www.riigiteataja.ee/akt/103082024001"
+retrieved: 2026-10-12
+---
+
+# Aastatel 2022–2029 Šveitsi-Eesti koostööprogrammi toetuse kasutamise tingimused ja kord
+
+Määrus kehtestatakse välissuhtlemisseaduse § 8 lõigete 4 ja 5 ning Vabariigi Valitsuse seaduse § 27 lõike 3 alusel.
+
+## § 1. Üldsätted
+
+(1) Määrusega reguleeritakse Eesti Vabariigi valitsuse ja Šveitsi Liidunõukogu vahelise Euroopa Liidus majanduslike ja sotsiaalsete erinevuste vähendamiseks Euroopa Liidu valitud liikmesriikidele mõeldud Šveitsi teise toetuse rakendamise raamkokkuleppe (edaspidi *raamkokkulepe*) riigisisest elluviimise korraldust ja raamkokkuleppe alusel antava toetuse andmise, kasutamise, väljamaksmise, tagasinõudmise ja tagasimaksmise ning järelevalve ja aruandluse tingimusi ja korda.
+
+(2) Määruses kasutatakse termineid raamkokkuleppes ja Euroopa Liidus majanduslike ja sotsiaalsete erinevuste vähendamiseks Euroopa Liidu valitud liikmesriikidele mõeldud Šveitsi teise toetuse rakendamise regulatsioonis (edaspidi *Šveitsi regulatsioon*) sätestatud tähenduses.
+
+(3) Aastatel 2022–2029 Šveitsi-Eesti koostööprogrammi toetusmeetmete rakendamisel järgitakse käesolevat määrust ja raamkokkuleppes sätestatud õigusraamistikku. Määruse ja raamkokkuleppe vaheliste vastuolude korral lähtutakse raamkokkuleppest.
+
+(4) Määruses reguleerimata küsimustele kohaldatakse haldusmenetluse seadust.
+
+## § 2. Riiklik koordineerimisüksus ja makseasutus
+
+(1) Riikliku koordineerimisüksuse ülesandeid täidab Riigi Tugiteenuste Keskus.
+
+(2) Riiklik koordineerimisüksus täidab järgmisi ülesandeid:
+
+1\) kavandab ja kooskõlastab toetusmeetmed;
+
+2\) esitab toetusmeetme taotluse Šveitsi toetuste büroole;
+
+3\) sõlmib toetusmeetme lepingu Šveitsi Arengu- ja Koostööameti või Riikliku Majandusasjade Sekretariaadiga;
+
+4\) sõlmib toetusmeetme rakendamise lepingu programmioperaatoriga;
+
+5\) tagab riigisisese toetusmeetme seire, finantsjuhtimise, hindamise, nähtavuse ja aruandluse;
+
+6\) tagab kehtivate õigusaktide, sealhulgas riigiabi eeskirjade järgimise;
+
+7\) kontrollib toetuse kasutamist;
+
+8\) teavitab programmioperaatoreid ja programmikomponentide operaatoreid raamkokkuleppes sätestatud õigusraamistikust ja selle muudatustest;
+
+9\) menetleb makse aluseks olevaid dokumente, maksab toetuse välja või jätab selle finantskorrektsiooni otsuse alusel välja maksmata;
+
+10\) teeb finantskorrektsiooni otsuseid;
+
+11\) teeb ettekirjutuse kohustuse või nõude täitmata jätmise või puudustega täitmise korral ja annab selle täitmiseks uue tähtaja;
+
+12\) annab oma pädevuse piires selgitusi ja nõustab toetuse kasutamise küsimustes;
+
+13\) täidab muid Šveitsi regulatsioonis nimetatud ja toetusmeetme rakendamise lepingus kokku lepitud riikliku koordineerimisüksuse ülesandeid.
+
+(3) Makseasutuse ülesandeid täidab Riigi Tugiteenuste Keskus.
+
+(4) Makseasutus täidab järgmisi ülesandeid:
+
+1\) teeb Šveitsi-Eesti koostööprogrammi üle finantskontrolli;
+
+2\) esitab hüvitistaotlused Šveitsi toetuste büroole.
+
+## § 3. Programmioperaator ja programmikomponendi operaator
+
+(1) Programmioperaatori ülesandeid täidab:
+
+1\) toetusmeetmes „Sotsiaalse kaasatuse toetamine” Kultuuriministeerium;
+
+2\) toetusmeetmes „Elurikkuse programm” Kliimaministeerium.
+
+(2) Programmikomponendi operaatori ülesandeid täidavad:
+
+1\) toetusmeetmes „Sotsiaalse kaasatuse toetamine” Kultuuriministeerium, Sotsiaalministeerium, Haridus- ja Teadusministeerium ning Siseministeerium;
+
+2\) toetusmeetmes „Elurikkuse programm” Keskkonnaamet ja Keskkonnaagentuur.
+
+(3) Programmioperaator täidab järgmisi ülesandeid:
+
+1\) vastutab toetusmeetme ettevalmistamise ja koordineerimise eest ning tagab toetusmeetme tõhusalt toimiva juhtimis- ja kontrollisüsteemi;
+
+2\) koostab ja esitab toetusmeetme taotluse riiklikule koordineerimisüksusele;
+
+3\) sõlmib riikliku koordineerimisüksusega toetusmeetme rakendamise lepingu;
+
+4\) koostab ja esitab hüvitistaotlused ning toetusmeetme aastaaruande ja lõpparuande riiklikule koordineerimisüksusele;
+
+5\) kavandab toetusmeetme teavitustegevusi ja viib kavandatu ellu;
+
+6\) moodustab toetusmeetme juhtkomitee, korraldab ja juhib toetusmeetme juhtkomitee koosolekuid ning koostab koosolekute protokollid;
+
+7\) kooskõlastab toetusmeetmes „Sotsiaalse kaasatuse toetamine” programmikomponendi operaatori esitatud § 6 lõikes 4 nimetatud käskkirja või lepingu;
+
+8\) täidab muid Šveitsi regulatsioonis nimetatud ja toetusmeetme rakendamise lepingus kokku lepitud programmioperaatori ülesandeid.
+
+(4) Programmikomponendi operaator täidab järgmisi ülesandeid:
+
+1\) valmistab ette programmikomponendi ja vastutab programmikomponendi rakendamise eest;
+
+2\) esitab programmioperaatorile vajaliku teabe toetusmeetme juhtimis- ja kontrollisüsteemi kirjelduse, hüvitistaotluste, toetusmeetme aastaaruannete ja toetusmeetme lõpparuande koostamiseks;
+
+3\) kogub toetusmeetmes „Sotsiaalse kaasatuse toetamine” elluviijalt teabe, mis on vajalik toetusmeetme aruannete ja hüvitistaotluste koostamiseks;
+
+4\) kavandab programmikomponendi teavitustegevusi ja viib kavandatu ellu;
+
+5\) võib muuta programmikomponendi eelarverea alamridasid;
+
+6\) kooskõlastab programmioperaatoriga toetusmeetmes „Sotsiaalse kaasatuse toetamine” § 6 lõikes 4 nimetatud käskkirja või lepingu;
+
+7\) osaleb toetusmeetme juhtkomitee koosolekutel;
+
+8\) täidab toetusmeetmes „Elurikkuse programm” § 5 lõikes 3 nimetatud ülesandeid;
+
+9\) teavitab programmioperaatorit ja riiklikku koordineerimisüksust toetuse kasutamisega seotud takistustest;
+
+10\) täidab muid programmioperaatori määratud või programmioperaatoriga kokku lepitud ülesandeid.
+
+(5) Toetusmeetmes „Sotsiaalse kaasatuse toetamine” täidab programmikomponendi operaator lisaks lõikes 4 sätestatule ja toetusmeetmes „Elurikkuse programm” täidab programmioperaator lisaks lõikes 3 sätestatule järgmisi ülesandeid:
+
+1\) koostab vajaduse korral toetuse kasutamisega seotud juhendmaterjalid ja aruandevormid;
+
+2\) teavitab elluviijat toetuse kasutamist reguleerivate õigusaktide ja raamkokkuleppes sätestatud õigusraamistiku muudatustest;
+
+3\) kooskõlastab Rahandusministeeriumi ja riikliku koordineerimisüksusega § 6 lõigetes 3 ja 4 nimetatud programmikomponendi tegevuste rakendamise tingimuste käskkirja või lepingu;
+
+4\) seirab § 6 lõigetes 3 ja 4 nimetatud programmikomponendi tegevuste rakendamise tingimuste käskkirja või lepingu tulemuste ja väljundite saavutamist.
+
+(6) Programmioperaatoril ja programmikomponendi operaatoril on õigus teha ettepanek riiklikule koordineerimisüksusele toetusmeetme lepingu muutmise algatamiseks. Programmioperaatoril, programmikomponendi operaatoril ja riiklikul koordineerimisüksusel on õigus teha ettepanek Rahandusministeeriumile raamkokkuleppe lisa 1 muutmise algatamiseks.
+
+(7) Programmioperaatoril ja programmikomponendi operaatoril on õigus valida Šveitsi toetusmeetme partner ning sõlmida temaga partnerlusleping.
+
+## § 4. Auditeeriv asutus
+
+(1) Auditeeriva asutuse ülesandeid täidab Rahandusministeerium.
+
+(2) Auditeeriv asutus täidab järgmisi ülesandeid:
+
+1\) koostab koostööprogrammi auditistrateegia;
+
+2\) viib läbi juhtimis- ja kontrollisüsteemi ning toetusmeetme auditeid.
+
+## § 5. Elluviija ja partner
+
+(1) Elluviija on programmikomponendi tegevuste rakendamise tingimuste käskkirja või lepinguga määratud ministeeriumi struktuuriüksus või asutus, kes vastutab programmikomponendi tegevuste rakendamise tingimuste käskkirjas või lepingus nimetatud eelarve ulatuses programmikomponendi tegevuste, väljundite ja tulemuste saavutamise eest.
+
+(2) Partner on isik või asutus, kes osaleb programmikomponendi tegevustes ja kelle tegevusi rahastatakse toetusest, mis on ette nähtud programmikomponendi eelarves.
+
+(3) Elluviija täidab järgmisi ülesandeid:
+
+1\) teeb programmikomponendi tegevuste rakendamise tingimuste käskkirjas või lepingus määratud tegevusi ning vastutab nende tegevuste väljundite ja tulemuste saavutamise eest;
+
+2\) annab programmikomponendi operaatorile või programmioperaatorile teabe toetusmeetme aruannete ja hüvitistaotluste esitamiseks;
+
+3\) kavandab punktis 1 nimetatud tegevustega seotud teavitustegevusi ja viib kavandatu ellu;
+
+4\) tagab programmikomponendi tegevuste elluviimiseks vajaliku kvalifikatsiooniga isikute olemasolu ja õiguslikud eeldused;
+
+5\) esitab õige ja täieliku teabe ning korrektsed dokumendid programmikomponendi tegevuste, väljundite ja tulemuste kohta tähtajaks ja nõutud viisil, sealhulgas seire ja hindamiste käigus;
+
+6\) teavitab programmioperaatorit, programmikomponendi operaatorit ja riiklikku koordineerimisüksust viivitamata tegevuste odavnemisest või kallinemisest ning toetuse kasutamisega seotud takistusest;
+
+7\) järgib riigiabi ja vähese tähtsusega abi andmist reguleerivatest õigusaktidest tulenevaid kohustusi ja nõudeid, kui need kohalduvad;
+
+8\) tagastab tagasimaksmisele kuuluva toetuse tähtajaks;
+
+9\) sõlmib juriidilisest isikust partneriga lepingu programmikomponendi tegevusteks, seirab partnerile määratud tegevusi ning väljundite ja tulemuste saavutamist;
+
+10\) osaleb toetusmeetme juhtkomitee koosolekutel;
+
+11\) täidab muid programmikomponendi tegevuste rakendamise tingimuste käskkirjast või lepingust tulenevaid kohustusi.
+
+(4) Partner täidab lõike 3 punktides 1, 2 ja 4 nimetatud ülesandeid.
+
+## § 6. Toetusmeetme tingimused
+
+(1) Toetusmeetme leping sõlmitakse toetusmeedet reguleerivate tingimuste, sealhulgas toetusmeetme abikõlblikkuse perioodi, poolte kohustuste ja vastutuse ning toetusmeetme eelarve kokkuleppimiseks.
+
+(2) Toetusmeetme rakendamise leping sõlmitakse toetusmeetme rakendamist reguleerivate tingimuste, sealhulgas poolte kohustuste ja vastutuse kokkuleppimiseks.
+
+(3) Toetusmeetmes „Elurikkuse programm” määrab programmioperaator programmikomponendi tegevuste rakendamise tingimused, vajaduse korral elluviijad ja partnerid käskkirjaga.
+
+(4) Toetusmeetmes „Sotsiaalse kaasatuse toetamine” määrab programmikomponendi operaator programmikomponendi tegevuste rakendamise tingimused, vajaduse korral elluviijad ja partnerid käskkirjaga. Kui elluviija ei ole riigiasutus, võib programmikomponendi tegevuste rakendamise tingimuste, elluviijate ja partnerite määramiseks sõlmida halduslepingu.
+
+(5) Programmikomponendi tegevuste rakendamise tingimuste käskkirjas või lepingus sätestatakse vähemalt järgmine:
+
+1\) programmikomponendi tegevuse kirjeldus;
+
+2\) elluviija;
+
+3\) partneri nimetus, juhul kui tegevusse on kaasatud partner;
+
+4\) elluviija ja partneri õigused ning kohustused;
+
+5\) programmikomponendi tegevuse periood;
+
+6\) kulude abikõlblikkuse periood;
+
+7\) toetuse maksimaalne osakaal abikõlblikest kuludest;
+
+8\) toetuse maksmise tingimused, sealhulgas lihtsustatud kulude hüvitamise tingimused;
+
+9\) programmikomponendi tegevuse eelarve;
+
+10\) riigiabi või vähese tähtsusega abi andmise tingimused, kui tegemist on sellise abi andmisega;
+
+11\) näitajad;
+
+12\) programmikomponendi tegevuse, eelarve ja näitajate muutmise tingimused.
+
+(6) Programmikomponendi tegevuste rakendamise tingimuste käskkirja või lepinguga võib määruses sätestatud tingimusi täiendada või täpsustada, kui see on vajalik toetatavate tegevuste eripära tõttu.
+
+(7) Lõigetes 3 ja 4 nimetatud käskkirja või lepinguga määratud programmikomponendi tegevuste rakendamise tingimusi muudetakse elluviija, programmikomponendi operaatori või programmioperaatori algatusel.
+
+## § 7. Programmikomponendi tegevuse rakendamise tingimuste kooskõlastamine
+
+(1) Toetusmeetmes „Elurikkuse programm” kooskõlastab programmioperaator programmikomponendi tegevuse rakendamise tingimuste käskkirja eelnõu Rahandusministeeriumi ja riikliku koordineerimisüksusega. Toetusmeetmes „Sotsiaalse kaasatuse toetamine” kooskõlastab programmikomponendi operaator programmikomponendi tegevuse rakendamise tingimuste käskkirja või lepingu eelnõu Rahandusministeeriumi, programmioperaatori ja riikliku koordineerimisüksusega.
+
+(2) Lõikes 1 nimetatud eelnõu kooskõlastatakse või jäetakse põhjendatult kooskõlastamata kümne tööpäeva jooksul. Põhjendatud juhul võib kooskõlastamiseks esitaja või kooskõlastaja taotlusel tähtaega muuta. Kui kooskõlastaja ei ole kooskõlastamisest määratud tähtajaks keeldunud ega tähtaega pikendanud, loetakse kooskõlastus antuks.
+
+(3) Programmikomponendi tegevuse rakendamise tingimuste käskkirja või lepingu ja nende muutmise eelnõu esitatakse kooskõlastamiseks koos riigiabi analüüsiga.
+
+## § 8. Kulude abikõlblikkus
+
+(1) Toetusmeetme kulude abikõlblikkuse perioodi esimene ja viimane kuupäev määratakse toetusmeetme lepingus. Kõik toetusmeetme raames abikõlblikud kulud peavad olema tehtud abikõlblikkuse perioodil, välja arvatud Šveitsi regulatsiooni artikli 6.1 punktis 3 nimetatud juhul.
+
+(2) Kulud on abikõlblikud tegelike kuludena. Tegelikuks kuluks loetakse kulu, mille aluseks olev töö on tehtud, kaup kätte saadud või teenus osutatud toetusmeetme abikõlblikkuse perioodil ning mille tekkimine on tõendatud dokumendiga, muu hulgas arve, saatelehe, üleandmise-vastuvõtmise akti või sellesisulise kinnituse või osalejate registreerimislehega; töö- või teenistusülesannete eest makstava tasu puhul palgaarvestust tõendava väljavõtte või palgalehega. Riigiasutus ei pea esitama kulu tasumist tõendavaid dokumente ning avalik-õiguslik juriidiline isik palga ja sellest tasutavate maksude ja maksete tasumist tõendavaid dokumente.
+
+(3) Abikõlblikke kulusid võidakse hüvitada lisaks lõikes 2 nimetatud tegelikele kuludele ka lihtsustatud kulude hüvitamisviisi alusel, see tähendab standardiseeritud ühikuhinnana, kindlasummalise maksena või ühtse määrana, kui nii on kokku lepitud toetusmeetme lepingus ja kui riigiabi reeglitest ei tulene teisiti. Sellisel juhul määratakse lihtsustatud kulude hüvitamise täpsemad tingimused toetusmeetme rakendamise lepingus ning programmikomponendi tegevuste rakendamise tingimuste käskkirjas või lepingus.
+
+(4) Kulud on abikõlblikud, kui nad vastavad raamkokkuleppes, Šveitsi regulatsioonis, määruses, toetusmeetme lepingus, toetusmeetme rakendamise lepingus ja § 6 lõigetes 3 ja 4 nimetatud käskkirjas või lepingus sätestatud nõuetele ning on sobivad ja põhjendatud eesmärgi saavutamiseks.
+
+## § 9. Kohustused seoses hankimisega
+
+(1) Kui kulu teinud isik on hankija riigihangete seaduse tähenduses, on ta kohustatud järgima riigihangete seadust.
+
+(2) Kui kulu teinud isik ei ole hankija riigihangete seaduse tähenduses ja asja, teenuse või ehitustöö (edaspidi *ost*) abikõlblik maksumus ilma käibemaksuta on võrdne 20 000 euroga või sellest suurem, peab ta ostu maksumuse väljaselgitamiseks korraldama ostumenetluse lähtuvalt lõigetest 3–8.
+
+(3) Ostumenetluse läbiviimisel tuleb järgida järgmisi põhimõtteid:
+
+1\) ostumenetluses koheldakse isikuid võrdselt ja ühetaoliselt;
+
+2\) ostumenetlus viiakse läbi läbipaistvalt ja kontrollitavalt;
+
+3\) ostu kirjeldus peab tagama turuosaliste võrdse ligipääsu ostumenetlusele;
+
+4\) funktsionaalselt koos toimivat või samaliigilist ostu ei tohi kunstlikult osadeks jagada eesmärgiga vältida lõikes 2 nimetatud kohustust;
+
+5\) riigihangete registris või selle väliselt ostu tegemise kohta avaldatud teates või hinnapäringus kirjeldatakse läbirääkimiste korda juhul, kui pärast pakkumuse esitamist peetakse pakkujaga läbirääkimisi.
+
+(4) Kui ostu eeldatav abikõlblik maksumus ilma käibemaksuta on 100 000 eurot või sellest suurem, viiakse ostumenetlus läbi riigihangete registris.
+
+(5) Ostumenetluse läbiviimine riigihangete registris peab lisaks lõikes 3 nimetatule vastama järgmistele nõuetele:
+
+1\) ostumenetluse läbiviimiseks on seatud asjakohased ja proportsionaalsed tingimused, mis arvestavad ostu eeldatavat mahtu ja maksumust;
+
+2\) kirjeldatud on ostu tunnused, tehnilised andmed või muud ostu iseloomustavad andmed, millele pakkumus peab vastama;
+
+3\) määratud on pakkumuse esitamise tähtaeg, mis on proportsionaalne ostu kohta koostatavate pakkumuste aja suhtes;
+
+4\) ostumenetlusega seotud teabevahetus kulu tegija ja pakkuja vahel, sealhulgas juurdepääsu võimaldamine ostuteate ja sellega seotud dokumentidele ning pakkumuste ja selgituste esitamine, toimub ostukeskkonnas;
+
+5\) pakkumused võetakse vastu ja avatakse riigihangete registris;
+
+6\) riikliku koordineerimisüksuse riigihankeid kontrolliv isik lisatakse riigihangete registris ostu juurde kui „vaatleja”;
+
+7\) punktis 1 nimetatud tingimusi ei või muuta pärast pakkumuste esitamise tähtaega ega kalduda neist kõrvale parima pakkumuse valimisel;
+
+8\) teade ostumenetluse kohta on avalik.
+
+(6) Ostumenetlus, mida ei viida läbi riigihangete registris, peab lisaks lõikes 3 nimetatule vastama järgmistele nõuetele:
+
+1\) ostumenetluse läbiviimiseks on seatud asjakohased ja proportsionaalsed tingimused, mis arvestavad ostu eeldatavat mahtu ja maksumust;
+
+2\) hinnapäringud ja saadud pakkumused on tehtud vähemalt kirjalikku taasesitamist võimaldavas vormis;
+
+3\) hinnapäring esitatakse vähemalt kahele ettevõtjale, välja arvatud juhul, kui kavandatava ostu turul puudub ettevõtjate paljusus;
+
+4\) ostumenetlust puudutavat dokumentatsiooni, sealhulgas elektrooniliselt või paberkandjal toimunud kirjavahetust pakkuja ja kulu tegijaga ning teisi ostumenetluse tõendeid, säilitatakse § 11 lõikes 1 nimetatud tähtajani.
+
+(7) Ostumenetluse tulemusena sõlmitakse leping ostumenetluse alusdokumentides ette nähtud tingimustel ja vastavuses väljavalitud pakkumusega.
+
+(8) Ostumenetluse võib korraldada riigihangete registri väliselt ühe või mitme pakkujaga, kui:
+
+1\) leping sõlmitakse rahvusvahelise organisatsiooni kohustusliku erimenetluse alusel;
+
+2\) leping sõlmitakse kinnisasja, olemasoleva ehitise või sellega seotud õiguste omandamiseks või kasutamiseks, sõltumata lepingu liigist;
+
+3\) tellitakse meediateenuseid programmimaterjali või selle osa omandamiseks, arendamiseks, tootmiseks või koostootmiseks või saateaja või programmi tellimiseks;
+
+4\) sõlmitakse tööleping;
+
+5\) sõlmitakse leping reisijate veoks raudteel või metroos;
+
+6\) tellitakse teenust avaliku sektori hankijalt või avaliku sektori hankijate ühenduselt, kellele on Euroopa Liidu toimimise lepingu nõuetega kooskõlas oleva õigusakti alusel antud ainuõigus selle teenuse osutamiseks vastaval territooriumil;
+
+7\) tellitakse teadus- ja arendusteenust, välja arvatud juhul, kui lepingust tuleneb kasu üksnes toetuse saajale tema enda tegevuseks ja teenuste eest tasub täies ulatuses toetuse saaja;
+
+8\) varasema ostumenetluse käigus ei ole esitatud ühtegi pakkumust või ükski esitatud pakkumustest ei ole ostumenetluse alusdokumentidele vastav ja esialgseid ostumenetluse tingimusi oluliselt ei muudeta;
+
+9\) lepingu saab sõlmida ainult ühe ettevõtjaga tehnilistel või ainuõiguste, sealhulgas intellektuaalomandi õiguste kaitsega seotud põhjustel, kui puudub mõistlik alternatiiv ja konkurentsi puudumine ei tulene ostumenetluses esitatud tingimuste kunstlikust kitsendamisest, või kunstilistel põhjustel, sealhulgas unikaalse kunstiteose või kunstilise esituse loomise või omandamise korral;
+
+10\) lepingu kiire sõlmimine on vajalik toetuse saajast sõltumatute ettenägematute sündmuste tagajärjel tekkinud äärmise vajaduse tõttu, mis ei võimalda riigihangete registris läbiviidava ostumenetluse korda järgida;
+
+11\) lepingu esemeks olevaid asju toodetakse üksnes teadusuuringute, katsete, õppe- või arendustegevuse eesmärgil ja lepingu ese ei hõlma asju, mida toodetakse tulu saamiseks masstoodanguna või teadusuuringute või arendustegevusega seotud kulude katmiseks;
+
+12\) asju ostetakse samalt pakkujalt varem ostetud asjade osaliseks asendamiseks või täiendamiseks ja pakkuja vahetumise tõttu tuleks osta teistsuguste tehniliste omadustega asju, mis ei oleks olemasolevate asjadega tehniliselt kokkusobivad või mille käitamine ja hooldamine tooks kaasa ülemääraseid tehnilisi probleeme;
+
+13\) asju või teenuseid ostetakse eriti soodsatel tingimustel isikult, kelle suhtes on algatatud likvideerimismenetlus, või pankrotihaldurilt võlausaldajatega sõlmitud kokkuleppe jõustamiseks;
+
+14\) lepingu ese on litsents kasutada raamatukogu dokumente või andmebaasi;
+
+15\) asju ostetakse väga lühikese aja jooksul pakutud eriti soodsat võimalust ära kasutades turuhinnast oluliselt madalama hinnaga;
+
+16\) lepingu ese on õhutransporditeenus;
+
+17\) lepingu ese on arhivaal, teavik, teavikute kasutuslitsents või muuseumikogusse arvatav kultuuriväärtusega asi;
+
+18\) lepingu ese on teadus- ja arendustegevuseks otseselt kasutatav asi ning toetuse saaja on teadus- ja arendusasutus teadus- ja arendustegevuse korralduse seaduse tähenduses;
+
+19\) asju ostetakse seoses lavastuse või kontsertkava ettevalmistamise ja läbiviimisega ning toetuse saajaks on etendusasutus.
+
+(9) Hangete läbiviimisel esitab riiklik koordineerimisüksus Šveitsi toetuste büroole teavet ja dokumente kooskõlas Šveitsi regulatsiooni artikliga 7.2.
+
+## § 10. Toetuse maksmine, maksmise peatamine ja maksmisest keeldumine
+
+(1) Toetusest makse saamiseks vajalikud dokumendid ja tõendid esitatakse riiklikule koordineerimisüksusele perioodi 2021–2027 Euroopa Liidu ühtekuuluvus- ja siseturvalisuspoliitika fondide rakendamise seaduse § 21 lõikes 3 nimetatud e-toetuse keskkonna kaudu. Nimetatud dokumendid esitatakse vähemalt kord kvartalis, kuid mitte tihedamini kui kord kuus.
+
+(2) Makseid tehakse tegelike kulude või kulude lihtsustatud hüvitamisviiside alusel, arvestades § 8 lõikes 3 sätestatut.
+
+(3) Riiklik koordineerimisüksus kontrollib kulude abikõlblikkust ning toetuse kasutamisega seotud kohustuste täitmist 20 tööpäeva jooksul makse saamiseks vajalike dokumentide ja tõendite esitamisest arvates. Põhjendatud juhtudel võib nimetatud tähtaega pikendada.
+
+(4) Makse menetlemise käigus on makse saamiseks vajalike dokumentide ja tõendite esitaja kohustatud tõendama makse aluseks olevate tingimuste täitmist.
+
+(5) Abikõlblike kulude hüvitamisel lähtutakse toetusmeetmes ette nähtud toetuse osakaalust, riikliku kaasfinantseerimise määrast ja toetuse summast.
+
+(6) Riiklik koordineerimisüksus võib toetuse väljamaksmise peatada või väljamaksmisest keelduda, kui:
+
+1\) kulu ei ole abikõlblik või kulu abikõlblikkus ei ole üheselt selge;
+
+2\) tagasinõutav summa ei ole lõplikult tagasi makstud;
+
+3\) võimaliku tagasinõudmise asjaolud on selgitamisel;
+
+4\) Šveits peatab maksed või keeldub maksete tegemisest Eestile.
+
+(7) Väljamaksest keeldutakse finantskorrektsiooni otsuse alusel.
+
+(8) Programmioperaator esitab hüvitistaotluse Šveitsi ette antud vormil dokumendihaldussüsteemi kaudu riiklikule koordineerimisüksusele kulude osas, mille riiklik koordineerimisüksus on makse abikõlblikkuse kontrolli järel kinnitanud ja välja maksnud, Šveitsi regulatsiooni artikli 8.2 punktis 4 nimetatud hüvitisperioodide kohta kuue nädala jooksul hüvitisperioodi lõppemisest arvates.
+
+(9) Riiklik koordineerimisüksus teeb programmioperaatorile ettepaneku arvata hüvitistaotlusest välja kulud, mille abikõlblikkust ei ole kontrollitud või mille abikõlblikkuse kontroll ei ole veel lõppenud.
+
+## § 11. Toetuse kasutamisega seotud kohustused
+
+(1) Toetuse kasutamisega seotud dokumente tuleb säilitada kümme aastat toetusmeetme lõppemisest arvates, kuid mitte kauem kui 3. detsembrini 2039. a.
+
+(2) Kui Šveitsi regulatsiooni artikli 4.15 punkti 2 kohaselt ei ole kokku lepitud teisiti, siis toetusmeetme abikõlblikkuse perioodil ja viie aasta jooksul pärast toetusmeetme lõppemist peavad toetusest rahastatavate seadmete, paigaldiste või ehitiste puhul olema täidetud järgmised tingimused:
+
+1\) neid käitatakse ja kasutatakse toetusmeetme eesmärkide kohaselt;
+
+2\) need on kindlustatud kahjujuhtumite vastu;
+
+3\) need on nõuetekohaselt hooldatud.
+
+(3) Toetusmeetme abikõlblikkuse perioodil on lubatud toetuse abil hangitud vara võõrandada Šveitsi eelneval kirjalikul nõusolekul.
+
+(4) Kui Šveitsi regulatsiooni artikli 4.15 punkti 3 kohaselt on kokku lepitud, võib soetatud, ehitatud, renoveeritud või ümberehitatud ehitisi müüa, välja üürida ja hüpoteegiga koormata viie aasta jooksul pärast toetusmeetme lõppemist.
+
+(5) Programmioperaator, makseasutus, auditeeriv asutus ja riiklik koordineerimisüksus kirjeldavad juhtimis- ja kontrollisüsteeme vastavalt Šveitsi regulatsiooni artiklile 3.1. Programmioperaator esitab toetusmeetme juhtimis- ja kontrollisüsteemide kirjelduse riiklikule koordineerimisüksusele kooskõlastamiseks hiljemalt 30. septembril 2024. a.
+
+(6) Koostööprogrammi teavitustegevustes lähtutakse Šveitsi regulatsiooni 13. peatükist.
+
+(7) Programmioperaator ja programmikomponendi operaator järgivad riikliku koordineerimisüksuse suuniseid rakendussüsteemi kohustuste täitmise ja toimimise tagamiseks.
+
+(8) Toetuse kasutamisel tuleb eristada abikõlblikud ja abikõlbmatud kulud, kasutades selleks eraldi arvestussüsteemi või raamatupidamiskoode, välja arvatud juhul, kui kulusid hüvitatakse kulude lihtsustatud hüvitamisviisi alusel.
+
+## § 12. Finantskorrektsioonid
+
+(1) Riiklik koordineerimisüksus võib teha finantskorrektsiooni otsuse toetuse osaliseks või täielikuks vähendamiseks ja toetuse tagasinõudmiseks, kui:
+
+1\) kulu ei ole abikõlblik;
+
+2\) toetuse saamise või kasutamisega seotud kohustust või nõuet ei ole osaliselt või täielikult täidetud;
+
+3\) toetuse saamise või kasutamisega seotud tingimused on täidetud näiliselt, toetuse saamiseks on esitatud valeandmeid, toetatava tegevusega seoses on esinenud pettus, korruptsioon või huvide konflikt;
+
+4\) toimunud on Šveitsi regulatsiooni artiklis 11.1 nimetatud rikkumine.
+
+(2) Finantskorrektsiooni otsust ei tehta, kui:
+
+1\) programmioperaator, programmikomponendi operaator või elluviija on avastanud ja esimesel võimalusel kirjalikult või e-toetuse keskkonna kaudu riiklikku koordineerimisüksust teavitanud, et talle on hüvitatud abikõlbmatu kulu, ning ta on tagastanud toetuse või selle osa kümne tööpäeva jooksul riiklikult koordineerimisüksuselt kirjaliku või e-toetuse keskkonna kaudu vastava nõusoleku saamisest arvates;
+
+2\) tagasinõudmisele kuuluv toetuse summa on 1000 eurot või sellest väiksem, välja arvatud juhul, kui tegemist on lõike 1 punktis 3 nimetatud asjaoludega.
+
+(3) Kohustuse või tingimuse täitmata jätmise laadist ja raskusest tulenevalt ning kohaldades proportsionaalsuse põhimõtet vähendatakse toetust 2, 5, 10, 25, 50, 75 või 100 protsenti tegevusele eraldatud toetusest.
+
+(4) Tagasimaksmisele kuuluva toetuse võib tasaarveldada sama programmikomponendi raames maksmisele kuuluva toetusega. Kui toetuse peab tagastama programmioperaator, võib tagasimaksmisele kuuluva toetuse tasaarveldada programmioperaatori halduskulust maksmisele kuuluva toetusega.
+
+(5) Tagasinõutud toetuse maksab programmioperaator, programmikomponendi operaator või elluviija tagasi 60 kalendripäeva jooksul finantskorrektsiooni otsuse kehtima hakkamise päevast alates.
+
+(6) Tagasinõutud toetuse tagasimaksmise ajatamisele kohaldatakse perioodi 2021–2027 Euroopa Liidu ühtekuuluvus- ja siseturvalisuspoliitika fondide rakendamise seaduse § 29 lõikeid 4–6.
+
+(7) Ebaseadusliku riigiabi ja väärkasutatud riigiabi tagasinõudmise korral juhindutakse konkurentsiseaduse §-s 42 sätestatust, kui Euroopa Liidu õigusest ei tulene teisiti.
+
+## § 13. Järelevalve toetuse kasutamise üle ja ligipääsu tagamine
+
+(1) Programmioperaator, programmikomponendi operaator ja elluviija on kohustatud osutama kontrolli, järelevalve, auditi või Šveitsi regulatsiooni artiklis 10.3 nimetatud hindamise läbiviijale igakülgset abi ning tagama juurdepääsu toetuse kasutamisega seotud teabele, dokumentidele, ruumidele, territooriumile ja seadmetele.
+
+(2) Kui Šveits viib läbi Šveitsi regulatsiooni artikli 9.4 punktis 2 nimetatud lisaauditeid, on audiitoritel õigus nõuda lõikes 1 nimetatud kohustuste täitmist.
+
+## § 14. Aruandlus
+
+(1) Programmioperaator esitab riiklikule koordineerimisüksusele toetusmeetmete aasta- ja lõpparuanded vastavalt Šveitsi regulatsiooni artiklitele 4.13 ja 4.14.
+
+(2) Riiklik koordineerimisüksus esitab koostööprogrammi aasta- ja lõpparuanded vastavalt Šveitsi regulatsiooni artiklile 3.11.
+
+(3) Programmioperaator esitab riiklikule koordineerimisüksusele tema nõutud informatsiooni, mis on vajalik riiklikule koordineerimisüksusele aruandluskohustuste täitmiseks Šveitsi ees. Informatsioon esitatakse riikliku koordineerimisüksuse määratud tähtajaks.
+
+(4) Aastatel 2022–2029 Šveitsi-Eesti koostööprogrammist toetatavates tegevustes töödeldakse osalejate andmeid, kui nende andmete alusel tõendatakse toetusmeetmes seatud indikaatorite täitmist. Osalejate andmeid võib koguda e-toetuse keskkonna kaudu.
+
+---
+
+Kristen Michal, Peaminister
+
+Jürgen Ligi, Rahandusminister
+
+Taimar Peterkop, Riigisekretär

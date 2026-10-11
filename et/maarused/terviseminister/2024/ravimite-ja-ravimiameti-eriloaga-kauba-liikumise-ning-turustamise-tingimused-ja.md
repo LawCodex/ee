@@ -1,0 +1,304 @@
+---
+title: "Ravimite ja Ravimiameti eriloaga kauba liikumise ning turustamise tingimused ja kord"
+identifier: "126032026012"
+rt_reference: "RT I, 26.03.2026, 12"
+rt_original: "RT I, 20.02.2024, 13"
+group_id: "1058418"
+type: regulation
+issuer: "Terviseminister"
+number: "9"
+text_type: "terviktekst"
+jurisdiction: ee
+language: et
+date: 2024-02-15
+last_amended: 2026-05-01
+status: in_force
+source: "https://www.riigiteataja.ee/akt/126032026012"
+retrieved: 2026-10-12
+---
+
+# Ravimite ja Ravimiameti eriloaga kauba liikumise ning turustamise tingimused ja kord
+
+Määrus kehtestatakse ravimiseaduse § 17 lõike 1, § 19 lõike 5 ja § 21 lõike 3 alusel.
+
+## § 1. Reguleerimisala
+
+Määrusega kehtestatakse:
+
+1\) Ravimiameti eriluba (edaspidi *eriluba*) nõudvate kaupade loetelu;
+
+2\) eriluba nõudva kauba sisse- ja väljaveo, sealhulgas sisse- või väljaveoloa taotlemise ja sisse- või väljaveost teavitamise tingimused ja kord;
+
+3\) tingimused, mille korral on nõutav eriloa olemasolu meditsiinilisel või teaduslikul eesmärgil kasutatavate inim- või loomset päritolu rakkude, kudede ja elundite sisse- või väljaveoks;
+
+4\) arsti või arstide erialaorganisatsiooni esitatava müügiloata ravimi turustamise loa taotluse andmete loetelu ning taotluse esitamise tingimused ja kord;
+
+5\) ravimite meditsiinilisel eesmärgil isiklikuks või isikuga kaasas oleva looma tarbeks reisile kaasavõtmise ja ravimite saatmise tingimused ja kord.
+
+## § 2. Eriluba nõudvate kaupade loetelu
+
+Eriluba nõudvad kaubad on:
+
+1\) ravimid, sealhulgas kliinilises uuringus kasutatavad ravimid ja kõlbmatud ravimid;
+
+2\) ravimi toimeained;
+
+3\) inim- või loomset päritolu rakud, koed ja elundid või nendest saadud ained meditsiiniliseks või teaduslikuks kasutamiseks haiguse vältimise, diagnoosimise, ravimise või haigusseisundi kergendamise eesmärgil, välja arvatud juhul, kui neid ei kasutata patsiendil;
+
+4\) verepreparaadid, antiseerumid, muud verefraktsioonid ja immunoloogilised tooted meditsiiniliseks kasutamiseks, välja arvatud juhul, kui neid ei kasutata patsiendil;
+
+5\) narkootilised ja psühhotroopsed ained, mis kuuluvad narkootiliste ja psühhotroopsete ainete I–IV ja VI nimekirja;
+
+6\) hormoonid, prostaglandiinid, tromboksaanid ja leukotrieenid (looduslikud või sünteetilised) ning nende derivaadid ja struktuurianaloogid, kaasa arvatud modifitseeritud ahelaga polüpeptiidid, mida kasutatakse hormoonidena, välja arvatud koguses kuni 10 g laboratoorsel eesmärgil kasutamiseks;
+
+\[RT I, 26.03.2026, 1 - jõust. 01.05.2026\]
+
+7\) antibiootikumid, välja arvatud koguses kuni 10 g laboratoorsel eesmärgil kasutamiseks;
+
+\[RT I, 26.03.2026, 1 - jõust. 01.05.2026\]
+
+8\) looduslikud või sünteesitud taimsed alkaloidid, nende soolad, eetrid, estrid ja muud derivaadid, välja arvatud nikotiin tubakatoodete valmistamiseks ja kõik looduslikud või sünteesitud alkaloidid koguses kuni 10 g laboratoorsel eesmärgil kasutamiseks.
+
+\[RT I, 26.03.2026, 1 - jõust. 01.05.2026\]
+
+9\) \[kehtetu - RT I, 26.03.2026, 1 - jõust. 01.05.2026\]
+
+## § 3. Eriluba nõudva kauba sisse- ja väljaveoluba
+
+(1) Sisseveoluba on nõutav:
+
+1\) eriluba nõudva kauba impordil;
+
+2\) Eestis turustatava ravimi sisseveo korral, kui ravimil puudub Euroopa Majanduspiirkonna liikmesriigi ravimi müügiluba.
+
+(2) Sisse- ja väljaveoluba on nõutav narkootiliste ja psühhotroopsete ainete sisse- ja väljaveo korral.
+
+(3) Lõigetes 1 ja 2 nimetamata juhtudel tuleb Ravimiametit eriluba nõudva kauba sisse- või väljaveost teavitada, välja arvatud ravimiseaduse § 19 lõikes 3<sup>1</sup> sätestatud juhtudel.
+
+(4) Sisse- ja väljaveetav eriluba nõudev kaup peab vastama eriloal märgitule ja selle kogus ei või olla suurem eriloal märgitust. Kaup peab olema saatedokumentide ja eriloa alusel samastatav.
+
+(5) Kui ravimi sisseveoõigust omav isik soovib turustada ravimit, mille sissevedajaks ei ole ravimi müügiloa hoidja teda määranud, teavitab ta ravimi sisseveo kavatsusest taasesitatavas vormis ravimi müügiloa hoidjat ja Ravimiametit. Kui ravimi müügiloa on andnud Euroopa Komisjon, tuleb ravimi sisseveo kavatsusest teavitada müügiloa hoidjat ja Euroopa Ravimiametit.
+
+(6) Teisese müügiloaga ravimeid ei ole lubatud sisse vedada, kui ravimi päritolumaal on ravimi müügiluba lõppenud või kehtetuks tunnistatud ravimiohutuse kaalutlustel.
+
+## § 4. Sisse- ja väljaveoloa taotlemine
+
+(1) Sisse- või väljaveoluba taotletakse iga saadetise kohta. Taotluse esitab sisseveo korral kauba saaja Eestis (sissevedaja) ja väljaveo korral kauba saatja Eestis (väljavedaja).
+
+(2) Veterinaararst, kes osutab veterinaarteenuseid teises liikmesriigis ning liigub teenuse osutamiseks Eestisse või Eestist välja teenuse osutamiseks vajalike narkootiliste või psühhotroopsete ainetega, esitab enne Eestisse saabumist sisseveoloa taotluse ja enne Eestist lahkumist väljaveoloa taotluse, millele tuleb märkida loomaarsti nimi, aadress asukoha liikmesriigis, e-posti aadress ja telefoninumber ning andmed narkootiliste või psühhotroopsete ainete kohta. Kui taotleja ei ole kantud Eesti riiklikku veterinaararstide registrisse, tuleb koos taotlusega esitada teises riigis veterinaararstina tegutsemise õigust tõendava dokumendi koopia.
+
+(3) Sisse- või väljaveoloa taotlusele märgitakse taotleja nimi, aadress, e-posti aadress ja telefoninumber, sisseveo korral kauba saatja ja väljaveo korral kauba saaja nimi ja aadress, taotluse esitamise kuupäev ja eriluba nõudva kauba andmed.
+
+(4) Sisse- või väljaveoloa taotlus esitatakse Ravimiametile elektroonselt Ravimiameti veebikeskkonna (Kliendiportaal) kaudu.
+
+(5) Ravimite sisse- või väljaveoloa taotlemisel esitatakse järgmised andmed:
+
+1\) ravimi nimetus;
+
+2\) ravimvorm;
+
+3\) toimeained ja nende sisaldus;
+
+4\) kogus pakendis;
+
+5\) müügiloaga ravimi puhul müügiloa hoidja nimi ja müügiloata ravimi puhul tootja nimi;
+
+6\) ravimi anatoomilis-terapeutilis-keemiline klassifikatsioon (ATC-kood);
+
+7\) pakendite arv;
+
+8\) pakendikood, selle puudumise korral pakendikoodi taotlus;
+
+9\) asjakohane kinnitus, kui sisseveetavat kaupa ei kasutata Eestis;
+
+10\) müügiloata veterinaarravimi esmakordse sisseveo korral loomaliik või loomaliigid.
+
+(6) Kliinilise uuringu ravimi sisseveoloa taotlemisel esitatakse järgmised andmed:
+
+1\) kliinilise uuringu number Ravimiameti otsusel;
+
+2\) ravimi nimetus selle olemasolu korral;
+
+3\) ravimvorm;
+
+4\) toimeained ja nende sisaldus;
+
+5\) kogus pakendis;
+
+6\) müügiloaga ravimi puhul müügiloa hoidja nimi ja müügiloata ravimi puhul tootja nimi;
+
+7\) pakendite arv.
+
+(7) Muu eriluba nõudva kauba sisseveoloa taotlemisel esitatakse järgmised andmed:
+
+1\) eriluba nõudva kauba nimetus;
+
+2\) kogus pakendis;
+
+3\) pakendite arv;
+
+4\) selgitus eriluba nõudva kauba kasutamise otstarbe kohta;
+
+5\) inim- või loomset päritolu rakkude, kudede ja elundite sertifikaat, mille on allkirjastanud rakkude, kudede ja elundite käitleja pädev isik.
+
+(8) Narkootiliste või psühhotroopsete ainete sisse- või väljaveoloa taotlusele lisatakse käitlemise eest vastutava isiku nimi ja allkiri.
+
+## § 5. Eriluba nõudva kauba sisse- ja väljaveost teavitamine
+
+(1) Teavituse esitab sisseveo korral kauba saaja Eestis (sissevedaja) ja väljaveo korral kauba saatja Eestis (väljavedaja).
+
+(2) Sisse- või väljaveoteavitus esitatakse Ravimiametile elektrooniliselt Ravimiameti veebikeskkonna (Kliendiportaal) kaudu.
+
+(3) Ravimite sisse- või väljavedaja esitab Ravimiametile järgmised andmed:
+
+1\) sisse- või väljaveo toimumise kuupäev;
+
+2\) saatja ja saaja nimi, aadress ja kontaktandmed;
+
+3\) ravimi nimetus;
+
+4\) ravimvorm;
+
+5\) toimeained ja nende sisaldus;
+
+6\) kogus pakendis;
+
+7\) müügiloaga ravimi puhul müügiloa hoidja nimi ja müügiloata ravimi puhul tootja nimi;
+
+8\) ravimi anatoomilis-terapeutilis-keemiline klassifikatsioon (ATC-kood);
+
+9\) pakendite arv;
+
+9<sup>1</sup>) ravimipartii number;
+
+\[RT I, 26.03.2026, 1 - jõust. 01.05.2026\]
+
+10\) pakendikood, selle puudumise korral pakendikoodi taotlus;
+
+11\) asjakohane kinnitus, kui sisseveetavat ravimit ei kasutata Eestis;
+
+12\) müügiloata veterinaarravimi esmakordse sisseveo korral loomaliik või loomaliigid.
+
+(4) Veterinaarravimi sisseveo korral veterinaararsti, apteegi või veterinaarapteegi poolt esitab sissevedaja lõikes 3 sätestatud andmed ja veterinaarravimi pakendite summaarse ostuhinna iga veterinaarravimi kohta.
+
+(5) \[Kehtetu - RT I, 26.03.2026, 1 - jõust. 01.05.2026\]
+
+(6) Kliinilises uuringus kasutatavate täiendavate ravimite sisseveost teavitamisel juhul, kui puudub Euroopa Majanduspiirkonna liikmesriigi müügiluba, esitab sissevedaja Ravimiametile § 4 lõigetes 1, 3 ja 6 nõutavad andmed ja sisseveo toimumise kuupäeva.
+
+## § 6. Müügiloata ravimi turustamise loa taotlemine
+
+(1) Ravimiseaduse § 21 lõikes 1 nimetatud juhul peab Ravimiametile esitatav taotlus sisaldama järgmisi andmeid:
+
+1\) toimeained;
+
+2\) ravimvorm ja toimeainete sisaldus;
+
+3\) ravimi manustamise viis;
+
+4\) ravimi kogus kuni 12 kuu vajaduseks;
+
+5\) retsepti number;
+
+6\) diagnoosikood või näidustus;
+
+7\) taotluse meditsiiniline põhjendus;
+
+8\) patsiendi perekonnanimi, sugu ja vanus, kui ravimit taotletakse ühe patsiendi jaoks, või tervishoiuasutuse nimi, kui ravimit taotletakse nimetatud tervishoiuasutuse patsientide jaoks.
+
+\[RT I, 26.03.2026, 1 - jõust. 01.05.2026\]
+
+(2) Euroopa Parlamendi ja nõukogu määruse (EL) 2019/6, mis käsitleb veterinaarravimeid ning millega tunnistatakse kehtetuks direktiiv 2001/82/EÜ (ELT L 4, 07.01.2019, lk 43–167), artiklis 116 ning ravimiseaduse § 21 lõigetes 7 ja 8 nimetatud juhtudel peab taotlus müügiloata ravimi kasutamiseks sisaldama lõike 1 punktides 1–4, 6 ja 7 nimetatud andmeid, veterinaarravimi korral lisaks loomaliiki ja näidustust.
+
+(3) Ravimi tootja ja raviarst lähtuvad ravimiseaduse § 21 lõike 7 punkti 4 ja lõike 8 punkti 2 alusel andmete esitamisel Ravimiameti veebilehel avaldatud juhistest.
+
+(4) Ravimiseaduse § 21 lõike 7 punktis 1 nimetatud juhul peab meditsiiniline põhjendus kajastama taotletava diagnoosiga seisundi ravi kõiki viise ning taotletava ravimi efektiivsust ja ohutust võrreldes teiste raviviisidega. Põhjendus peab olema varustatud viidetega avaldatud teaduslikele uuringutele.
+
+(5) Ravimiseaduse § 21 lõike 1 alusel esitatud taotluses peavad olema märgitud arsti nimi ja kontaktandmed: töökoht, töökoha aadress, arsti kood, telefon ja e-posti aadress ning taotlus peab olema kinnitatud allkirja ja kuupäevaga. Ravimiseaduse § 21 lõike 7 punktis 1 nimetatud juhul peab taotluse kinnitama erialaorganisatsiooni esindamisõigust omav isik.
+
+(6) Ravimiseaduse § 21 lõike 1 alusel müügiloata ravimi kasutamiseks konkreetsel patsiendil edastatakse taotlus retseptikeskuse kaudu. Ravimiseaduse § 21 lõike 1 alusel müügiloata ravimi kasutamiseks tervishoiuasutuses ja ravimiseaduse § 21 lõike 7 punktide 1–3 alusel müügiloata ravimi kasutamiseks ning Euroopa Parlamendi ja nõukogu määruse (EL) 2019/6 artikli 116 alusel müügiloata ravimi veterinaarseks kasutamiseks esitatakse taotlus Ravimiameti veebikeskkonna (Kliendiportaal) kaudu. Ravimiseaduse § 21 lõike 7 punktis 4 ja lõikes 8 nimetatud juhtudel esitatakse taotlus Ravimiameti veebis avaldatud juhiste kohaselt.
+
+## § 7. Ravimite kaasavõtmine ja saatmine
+
+(1) Isiklikuks tarbeks võib reisil kaasas olla käsimüügiravimeid kuni kümme erineva nimetusega ravimpreparaati, iga ravimpreparaati kuni viis jaemüügipakendit, kaasasolevate loomade tarbeks kuni viis erineva nimetusega ravimpreparaati, iga ravimpreparaati kuni kolm jaemüügipakendit, ja retseptiravimeid välja kirjutatud koguses.
+
+\[RT I, 20.02.2024, 13 - jõust. 26.02.2024, jõustumine muudetud \[RT I, 23.02.2024, 5\]\]
+
+(2) Jaemüügipakendi suurus on tahketel ravimvormidel kuni 200 ühikut, pulbritel lahuse valmistamiseks kuni 500 g, homöopaatilistel graanulitel kuni 50 g, infusioonilahustel ja suukaudsetel lahustel kuni 500 ml, süstitavatel ravimvormidel kuni 30 ampulli või viaali, välispidistel ravimitel kuni 200 ml või 200 g, droogidel kuni 100 g, inhaleeritavatel ravimpreparaatidel kuni 200 annust ja ravimplaastritel kuni 10 ühikut. Tegevusloaga ravimikäitleja poolt personaalselt jaendatud ravimitel on jaemüügipakendi suuruseks kuni kahe kuu manustamiskorda sisaldav pakend.
+
+\[RT I, 20.02.2024, 13 - jõust. 26.02.2024, jõustumine muudetud \[RT I, 23.02.2024, 5\]\]
+
+(3) Kaasavõetavate retseptiravimite puhul tuleb isikul koos ravimitega kaasa võtta arsti teatis ravimite vajaduse kohta või paberretsepti koopia või elektroonilise retsepti elektrooniline kuva või väljatrükk.
+
+\[RT I, 20.02.2024, 13 - jõust. 26.02.2024, jõustumine muudetud \[RT I, 23.02.2024, 5\]\]
+
+(4) Kui kaasavõetavate käsimüügiravimite kogus ületab lõikes 1 või 2 nimetatud kogust, tuleb taotleda Ravimiameti luba kõikide kaasavõetavate käsimüügiravimite jaoks. Loa saamiseks tuleb esitada järgmised andmed:
+
+1\) taotleja nimi, isikukood või selle puudumise korral sünniaeg ja kontaktandmed;
+
+2\) andmed lähte- ja sihtriigi ning reisi kestuse kohta;
+
+3\) ravimite nimekiri: ravimi nimetus, toimeaine sisaldus ja ravimvorm, pakendi suurus ja pakendite koguarv;
+
+4\) meditsiiniline põhjendus lõikes 1 või 2 nimetatud kogustest suuremas koguses käsimüügiravimi isiklikuks tarbimiseks.
+
+\[RT I, 20.02.2024, 13 - jõust. 26.02.2024, jõustumine muudetud \[RT I, 23.02.2024, 5\]\]
+
+(5) Ravimiamet väljastab viie tööpäeva jooksul nõuetekohase taotluse saamisest loa käsimüügiravimite isiklikuks tarbimiseks reisile kaasavõtmiseks meditsiiniliselt põhjendatud kogustes.
+
+\[RT I, 20.02.2024, 13 - jõust. 26.02.2024, jõustumine muudetud \[RT I, 23.02.2024, 5\]\]
+
+(6) Eestisse või Eestist teise Schengeni konventsiooniosalise riigi territooriumile sisenev isik võib nõuetekohaselt määratud ja väljastatud narkootilisi ja psühhotroopseid aineid sisaldavaid ravimeid kaasa võtta reisi ajal vajaminevas koguses, kuid kõige rohkem 30-päevaseks raviks, kui tal on iga nimetatud aine kohta kaasas elukohariigis välja antud Schengeni konventsiooni artikli 75 vormi kohane tunnistus (edaspidi *Schengeni tunnistus*).
+
+\[RT I, 20.02.2024, 13 - jõust. 26.02.2024, jõustumine muudetud \[RT I, 23.02.2024, 5\]\]
+
+(7) Schengeni tunnistuse väljastamiseks tuleb isikul esitada järgmised andmed:
+
+1\) taotleja nimi, isikukood või selle puudumise korral sünniaeg ja kontaktandmed;
+
+2\) andmed lähte- ja sihtriigi kohta;
+
+3\) ravimite nimekiri: ravimi nimetus, toimeainete sisaldus ja ravimvorm, pakendi suurus ja pakendite koguarv;
+
+4\) retseptiravimite puhul arsti teatis ravimite vajaduse kohta, välja arvatud retseptikeskuses salvestatud retsepti puhul.
+
+\[RT I, 20.02.2024, 13 - jõust. 26.02.2024, jõustumine muudetud \[RT I, 23.02.2024, 5\]\]
+
+(7<sup>1</sup>) \[Kehtetu - RT I, 23.02.2024, 5 - jõust. 01.09.2024\]
+
+(8) Schengeni tunnistus väljastatakse isikule, kelle püsiv elukoht on Eestis. Schengeni tunnistuse väljastab apteek. Schengeni tunnistus kehtib kuni 30 päeva. Tunnistuse vorm on esitatud määruse lisas.
+
+\[RT I, 23.02.2024, 5 - jõust. 01.09.2024\]
+
+(9) Apteek kontrollib retseptikeskuse või muude asjakohaste andmete põhjal kaasavõetava retseptiravimi väljakirjutatud ja väljastatud kogust.
+
+\[RT I, 23.02.2024, 5 - jõust. 01.09.2024\]
+
+(10) Apteegist väljastatava Schengeni tunnistuse teenustasu on viis eurot.
+
+\[RT I, 23.02.2024, 5 - jõust. 01.09.2024\]
+
+(11) Ravimeid võib välismaale või Eestisse saata füüsiline isik füüsilisele isikule. Ravimite saatmisel ühelt füüsiliselt isikult teisele füüsilisele isikule võib ühes saadetises Ravimiameti loata olla kuni kümme lõikes 2 nimetatud suurusega avamata jaemüügipakendit. Ravimid peavad olema tootja pakendis.
+
+\[RT I, 20.02.2024, 13 - jõust. 26.02.2024, jõustumine muudetud \[RT I, 23.02.2024, 5\]\]
+
+(12) Kui saadetavate ravimite kogus ületab lõikes 2 nimetatud kogust, tuleb Ravimiameti luba taotleda kõikidele saadetises olevatele ravimitele ja esitada retsepti koopia või arsti teatis nende vajaduse kohta. Taotluse vorm avaldatakse Ravimiameti veebilehel.
+
+\[RT I, 20.02.2024, 13 - jõust. 26.02.2024, jõustumine muudetud \[RT I, 23.02.2024, 5\]\]
+
+## § 8. Määruse kehtetuks tunnistamine
+
+\[Käesolevast tekstist välja jäetud.\]
+
+## § 9. Määruse jõustumine
+
+(1) Määruse § 7 lõige 7<sup>1</sup> kehtib kuni 31. augustini 2024. a.
+
+(2) Määruse § 7 lõiked 8–10 jõustuvad 1. septembril 2024. a.
+
+\[RT I, 23.02.2024, 5 - jõust. 26.02.2024\]
+
+## Lisad
+
+- Lisa — [SOM\_15022024\_m9\_lisa.pdf](https://www.riigiteataja.ee/aktilisa/1260/3202/6012/SOM_15022024_m9_lisa.pdf)
+
+Lisa

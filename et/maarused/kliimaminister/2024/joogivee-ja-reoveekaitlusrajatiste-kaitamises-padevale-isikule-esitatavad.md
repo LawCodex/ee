@@ -1,0 +1,229 @@
+---
+title: "Joogivee- ja reoveekäitlusrajatiste käitamises pädevale isikule esitatavad nõuded, väljaõppe programm ja läbiviimise kord"
+identifier: "103072024003"
+rt_reference: "RT I, 03.07.2024, 3"
+group_id: "1059208"
+type: regulation
+issuer: "Kliimaminister"
+number: "46"
+text_type: "algtekst-terviktekst"
+jurisdiction: ee
+language: et
+date: 2024-07-02
+last_amended: 2024-07-06
+status: in_force
+source: "https://www.riigiteataja.ee/akt/103072024003"
+retrieved: 2026-10-12
+---
+
+# Joogivee- ja reoveekäitlusrajatiste käitamises pädevale isikule esitatavad nõuded, väljaõppe programm ja läbiviimise kord
+
+Määrus kehtestatakse ühisveevärgi ja -kanalisatsiooni seaduse § 32 lõike 5 alusel.
+
+## § 1. Määruse reguleerimisala
+
+Määrusega kehtestatakse nõuded joogivee- ja reoveekäitlusrajatise käitamises pädevale isikule ning määratakse joogivee- ja reoveekäitlusrajatiste käitamises pädeva isiku väljaõppe programm ja läbiviimise kord.
+
+## § 2. Mõisted
+
+(1) Joogivee- ja reoveekäitlusrajatise käitamises pädev isik käesoleva määruse tähenduses on isik, kes vahetult juhib joogivee- või reoveekäitlusrajatise tööd ning jälgib joogivee- või reoveekäitlusrajatise tööga seotud protsesse.
+
+(2) Joogiveekäitlusrajatis käesoleva määruse tähenduses on joogiveetöötlusjaam või muu joogivee tootmise või töötlemisega seotud tehnoloogiline seade koos ühisveevärgivee jaotusvõrguga.
+
+(3) Reoveekäitlusrajatis käesoleva määruse tähenduses on reoveepuhasti või muu reovee puhastamisega seotud tehnoloogiline seade või rajatis koos reovee kogumiseks vajaliku ühiskanalisatsiooniga.
+
+## § 3. Nõuded joogiveekäitlusrajatise käitamises pädevale isikule
+
+Joogiveekäitlusrajatise käitamises pädev isik peab:
+
+1\) tundma joogiveekäitlust reguleerivaid õigusakte;
+
+2\) teadma joogiveekäitlusrajatise käitamises pädeva isiku põhiülesandeid;
+
+3\) tundma põhja- ja pinnavee omadusi ja kvaliteedinäitajaid;
+
+4\) teadma põhjavee- ja pinnaveekaitse meetmeid, nagu toiteala, sanitaarkaitseala ja hooldusala ja neil aladel kehtestatud või kavandatavaid piiranguid;
+
+5\) mõistma joogivee ja toorvee kvaliteedinäitajaid ja nende mõju inimese tervisele;
+
+6\) tundma joogivee käitlemise süsteeme, sealhulgas pumplad, puurkaevud, veetöötlusseadmed, puhta vee mahutid ja torustikud, ja nende opereerimise ning hoolduse põhimõtteid;
+
+7\) tundma veetöötlustehnoloogiaid ja veetöötluse eri etappe ning nende automatiseerimise võimalusi;
+
+8\) oskama määrata veetöötlusprotsessi toimimiseks optimaalseid tingimusi;
+
+9\) teadma proovide võtmise meetodeid toorveest vastavalt keskkonnaministri 03.10.2019 määrusele nr 49 „Proovivõtumeetodid” ja joogiveest vastavalt sotsiaalministri 24.09.2019 määrusele nr 61 „Joogivee kvaliteedi- ja kontrollinõuded ja analüüsimeetodid ning tarbijale teabe esitamise nõuded”;
+
+10\) tundma ja järgima kõikides tööprotsessi etappides kemikaaliohutus-, tööohutus-, elektriohutus-, keskkonnaohutus-, tuleohutus- ja hügieeninõudeid.
+
+## § 4. Nõuded reoveekäitlusrajatise käitamises pädevale isikule
+
+Reoveekäitlusrajatise käitamises pädev isik peab:
+
+1\) tundma reoveekäitlust reguleerivaid õigusakte;
+
+2\) teadma reoveekäitlusrajatise käitamises pädeva isiku põhiülesandeid;
+
+3\) tundma reo- ja heitvee omadusi ja iseloomulikke saastenäitajaid;
+
+4\) oskama hinnata reovee ja purgimise mõju puhastusprotsessile ning heitvee mõju suubla seisundile;
+
+5\) tundma reovee ja sademevee eri liiki kanalisatsioonisüsteeme ning reovee ja sademevee käitlemise süsteeme, sealhulgas torustikud, pumplad, ühisvoolse kanalisatsiooni ülevoolud, puhastusseadmed ja väljalasud suublasse, ja nende opereerimise ning hoolduse põhimõtteid;
+
+6\) oskama arvutada hüdraulilist ja reostuskoormust ning optimeerida reoveepuhastusprotsessi vastavalt hüdraulilisele ja reostuskoormusele;
+
+7\) tundma reoveepuhastustehnoloogiaid ja puhastusprotsessi eri etappe ning nende automatiseerimise võimalusi;
+
+8\) oskama täita reoveepuhasti päevikut ja analüüsida selle kandeid puhastusprotsessi juhtimisel;
+
+9\) oskama hinnata ja juhtida reoveepuhastusprotsessi olulisi parameetreid;
+
+10\) tundma reoveesette käitlemise põhimõtteid ja tehnoloogiaid;
+
+11\) teadma proovide võtmise meetodeid pinna-, reo-, heit- ja sademeveest ning reoveesettest vastavalt keskkonnaministri 03.10.2019 määrusele nr 49 „Proovivõtumeetodid”;
+
+12\) tundma ja järgima kõikides tööprotsessi etappides kemikaaliohutus-, tööohutus-, elektriohutus-, keskkonnaohutus-, tuleohutus- ja hügieeninõudeid.
+
+## § 5. Väljaõppe korraldamine
+
+(1) Joogivee- ja reoveekäitlusrajatise käitamises pädeva isiku väljaõpet korraldab asutus või isik, kes omab täienduskoolituse läbiviimiseks tegevusluba või kes on esitanud majandustegevusteate täienduskoolituse läbiviimiseks (edaspidi *koolitaja*).
+
+(2) Koolitaja läbiviidav vähemalt 80-tunniline joogivee- ja reoveekäitlusrajatise käitamises pädeva isiku väljaõppeprogramm peab vastama käesoleva määruse §-des 6–8 nimetatud minimaalsetele sisunõuetele nii joogivee- kui ka reoveekäitluse valdkonnas.
+
+(3) Väljaõpe peab vastama täiskasvanute koolituse seaduses täienduskoolitusele kohalduvatele sätetele ning haridus- ja teadusministri 19.06.2015 määruse nr 27 „Täienduskoolituse standard” nõuetele.
+
+## § 6. Väljaõppeprogramm
+
+(1) Väljaõppeprogramm koosneb:
+
+1\) teoreetilisest osast, mis katab vähemalt käesoleva määruse §-des 7 ja 8 nimetatud teemasid;
+
+2\) praktilisest osast;
+
+3\) kirjalikust või elektroonsest testist.
+
+(2) Väljaõppeprogrammi teoreetiline ja praktiline osa tuleb läbida 100% mahus.
+
+(3) Praktilise osa sisu otsustab koolitaja, arvestades koolitusel osaleja tegevusvaldkonda ning käesoleva määruse §-s 3 esitatud nõudeid joogiveekäitlusrajatise ja §-s 4 esitatud nõudeid reoveekäitlusrajatise käitamises pädeva isiku teadmistele ja oskustele.
+
+(4) Kirjalik või elektroonne test põhineb käesoleva määruse §-des 7 ja 8 sätestatud teoreetilistel väljaõppeprogrammidel ning praktilisel osal. Testi läbimiseks tuleb õigesti vastata vähemalt 60%-le küsimustest.
+
+(5) Koolitaja väljastab käesoleva paragrahvi lõikes 1 toodud väljaõppeprogrammi läbinud isikule tunnistuse, mis kehtib seitse aastat.
+
+## § 7. Teoreetiline väljaõppeprogramm joogivee käitluse valdkonnas
+
+Teoreetiline väljaõppeprogramm joogivee käitluse valdkonnas peab andma ülevaate vähemalt järgmistel teemadel:
+
+1\) joogivee käitlemist reguleerivad õigusaktid ja joogivee käitlemisega seotud standardid;
+
+2\) joogiveekäitlusrajatise käitamises pädeva isiku põhiülesanded;
+
+3\) pinnavesi ja selle kvaliteedinäitajad ning neid mõjutavad parameetrid, sealhulgas temperatuur;
+
+4\) põhjaveekihid ja -kogumid, keemiliste näitajate piirsisaldused, läviväärtused ja muud kvaliteedinäitajad ning neid mõjutavad parameetrid;
+
+5\) veeringe, põhjavee teke, põhja- ja pinnavee keemiline, füüsikaline, gaasiline, radioloogiline ja mikrobioloogiline koostis;
+
+6\) veehaarde sanitaarkaitseala, hooldusala ja toiteala nõuded, veehaardega seotud dokumentatsioon;
+
+7\) nõuded joogivee kohta ja selle kvaliteedinäitajad ning joogivee kvaliteedi mõju tervisele;
+
+8\) toorvee, sealhulgas pinna- ja põhjavee, iseloomust tingitud probleemid (näiteks toorvee keemiline ja füüsikaline koostis, mikrobioloogia, gaaside sisaldus, radioaktiivsus, organoleptilised omadused);
+
+9\) joogivee käitlemise süsteemid (näiteks puurkaevud, veetöötlusseadmed, pumbad, armatuur, mahutid, torustikud, pumplad) ning nende opereerimine, hooldus ja mõju joogivee kvaliteedile (näiteks sade, leostumine, mikrobioloogia kasv);
+
+10\) pinnaveehaarde rajatised, veehoidlad, kanalid, paisud, toorvee kvaliteedi, koguse ja taseme seire, veehaarde veekogude seisundi seire, heitvee väljalasud, hajureostus;
+
+11\) puurkaevud, tootlikkuse ja eritootlikkuse hindamine, konstruktsioon ja tehniline seisund ning selle hindamise meetodid, staatilise ja dünaamilise veetaseme mõõtmine;
+
+12\) erinevate pinna- ja põhjavee veetöötlustehnoloogiate põhimõtted ja käitamine, põhietapid ja seosed etappide vahel, sealhulgas flotatsioon, setitamine, koagulatsioon, mehaaniline filtreerimine, raua- ja mangaanieemaldus, veepehmendus, pöördosmoos, ultraviolettseadmed, radioaktiivsuse kõrvaldamine, ultrafiltratsioon, osoneerimine ja kloreerimine;
+
+13\) veetöötlusseadmete dimensioneerimine ja paigaldamine, veetöötlusseadmete üle- ja aladimensioonimisega seotud probleemide tuvastamine ja lahendamine;
+
+14\) automaatjuhtimissüsteemid, sealhulgas tööpõhimõtted ja rakendamise võimalused seadmete töö optimeerimiseks, kaugjuhtimiseks ja -jälgimiseks;
+
+15\) veetöötlusseadmete töö efektiivsuse hindamine;
+
+16\) filtermaterjalid ja filtermaterjali vahetamise vajaduse hindamine;
+
+17\) joogiveekäitlusrajatiste tehnoloogiliste seadmete kirjeldused ning seadmete ja süsteemide korrashoid, remont ja hooldus, sealhulgas hooldus- ja kasutusjuhendid, hooldusgraafikute koostamine, rikete avastamine;
+
+18\) veetöötlusseadmete läbipesu;
+
+19\) filtripesuvee omadused ja käitlemine, veekäitlustehnoloogiate jääkproduktide käitlus;
+
+20\) veetöötluses kasutatavad kemikaalid, biotsiidid ja nende käitlemise ja hoiustamise nõuded;
+
+21\) veearvestid, lekked, veearvestuse pidamine ning puurkaevu ja veetöötlusseadme hooldus- ja kasutusjuhendid ning -päevikud ning muu veekäitlusega seonduv dokumentatsioon;
+
+22\) puhastusprotsessi toimimiseks optimaalsete tingimuste (näiteks temperatuur, hapnikurežiim, pH ja elektrijuhtivus, gaaside sisaldus, jääkkloor, hägusus) loomine;
+
+23\) veetöötlusprotsesside jälgimine, sealhulgas *on-line* meetoditega, protsessisiseste veeproovide võtmine ja analüüs ning veetöötlusjaama juhtimine;
+
+24\) toorveest ja joogiveest veeproovide võtmine, proovivõtjate atesteerimine, seirenõuete jälgimine, veeproovide säilitamine ja transport ning peamised seiratavad näitajad;
+
+25\) katselaboris ja kohapeal kasutatavad analüüsitehnikad;
+
+26\) kemikaaliohutus-, tööohutus-, elektriohutus-, keskkonnaohutus-, tuleohutus- ja hügieeninõuded;
+
+27\) joogiveehaarde valgala ja toiteala ning veevarustussüsteemi riskihindamine ja -juhtimine;
+
+28\) elutähtsa teenuse toimepidevuse riskianalüüs ja plaan.
+
+## § 8. Teoreetiline väljaõppeprogramm reovee käitluse valdkonnas
+
+Teoreetiline väljaõppeprogramm reovee käitluse valdkonnas peab andma ülevaate vähemalt järgmistel teemadel:
+
+1\) reoveekäitlust reguleerivad õigusaktid ja reovee käitlemisega seotud standardid;
+
+2\) reoveekäitlusrajatise käitamises pädeva isiku põhiülesanded;
+
+3\) heit-, sademe- ja reovee koostis ja omadused, nõuded heit- ja sademeveele ning mõju suubla seisundile (näiteks saproobsuse tüübid, eutrofeerumine, sekundaarne reostus);
+
+4\) reovee ja sademevee eri liiki kanalisatsioonisüsteemid, sealhulgas isevoolne, surve- ja vaakumkanalisatsioon, ning reovee ja sademevee käitlemise süsteemid (näiteks torustikud, pumplad, ühisvoolse kanalisatsiooni ülevoolud, puhastusseadmed, väljalask suublasse) ning nende opereerimine ja hooldus;
+
+5\) hüdraulilise koormuse ja reostuskoormuse määramine;
+
+6\) erinevate reoveepuhastustehnoloogiate põhimõtted ja käitamine (näiteks aktiivmudal põhinevad tehnoloogiad, biokile nõrg- ja filtersüsteemidel baseeruvad tehnoloogiad, looduslähedased reoveekäitlustehnoloogiad, kombineeritud puhastussüsteemid), nende eelised ja puudused erinevate reovee saastenäitajate kontsentratsioonide, erinevate reovete (näiteks olmereovee ja tööstusreovee) ning keskkonnatingimuste esinemisel;
+
+7\) reoveepuhastusprotsesside põhietapid, sealhulgas eelpuhastus ja mehhaaniline puhastus (näiteks liiva- ja rasvapüüdurid, septikud, eelselitus), bioloogiline puhastus, järelselitus, neljanda astme puhastus ja järelpuhastus (näiteks desinfitseerimine);
+
+8\) fosfori ja lämmastiku tõhustatud ärastamise tehnoloogiad aktiivmudapuhastites, biokilepuhastites ja märgalasüsteemides (näiteks lämmastikuärastus nitrifikatsiooni ja denitrifikatsiooni teel), keemiline fosforiärastus, mikrosaasteainete ärastus;
+
+9\) puhastusprotsessi toimimiseks optimaalsete tingimuste (näiteks temperatuur, hapnikurežiim, muda vanus ja muda indeks, toitainete suhe reovees) loomine erinevate reostuskoormuste tingimustes;
+
+10\) reoveepuhasti energiatarbe vähendamise võimalused ja energiatõhususe meetmed, arvestades tänapäevaseid energiasäästlikke lahendusi, sealhulgas lahendused reoveepuhasti muutmiseks energia tarbijast energia tootjaks, ressursiaudit ja puhastusprotsessi juhtimine energiaefektiivselt;
+
+11\) äkkheited ja nende vähendamise meetmed ning äkkheidete registreerimise süsteem;
+
+12\) liig- ja toormuda omadused ja kõrvaldamine ning reoveesette käitlemise tänapäevaste tehnoloogiate kirjeldus (näiteks tihendamine, tahendamine, aeroobne stabiliseerimine, anaeroobne stabiliseerimine ja tekkiva biogaasi kasutusvõimalused) ning settevee käitlus;
+
+13\) puhastusprotsesside jälgimine, protsessisiseste reoveeproovide analüüs ja reoveepuhasti juhtimine;
+
+14\) automaatjuhtimissüsteemid, sealhulgas tööpõhimõtted ja rakendamise võimalused seadmete töö optimeerimiseks, kaugjälgimiseks ja -juhtimiseks;
+
+15\) reovee iseloomust tingitud probleemid ja operatiivmeetmed puhastusprotsessi juhtimisel;
+
+16\) reoveekäitlusrajatiste tehnoloogiliste seadmete kirjeldus (näiteks segurid, pumbad, aeratsiooniseadmed, kraabid, settekäitlusseadmed, automaatjuhtimissüsteemid);
+
+17\) pinna-, reo-, heit- ja sademeveest ning reoveesettest esinduslike proovide võtmine, proovivõtjate atesteerimine, proovide transport ja säilitamine;
+
+18\) katselaboris ja kohapeal kasutatavad analüüsitehnikad, mudadünaamika hindamine;
+
+19\) reoveekäitlusrajatiste ja nende mehhanismide ja tehnoloogiliste seadmete ekspluatatsioon, korrashoid, remont ning hooldus, sealhulgas hooldus- ja kasutusjuhendid;
+
+20\) reoveepuhasti päeviku pidamine ning muu reovee- ja settekäitlusega seonduv dokumentatsioon;
+
+21\) kemikaaliohutus-, tööohutus-, elektriohutus-, keskkonnaohutus-, tuleohutus- ja hügieeninõuded;
+
+22\) reovee- ja settetöötlusel tekkivad lõhnahäiringud ning nende vähendamise võimalused;
+
+23\) reovee purgimine ning selle mõju puhastusprotsessile;
+
+24\) elutähtsa teenuse toimepidevuse riskianalüüs ja plaan.
+
+---
+
+Kristen Michal, Minister
+
+Keit Kasemets, Kantsler

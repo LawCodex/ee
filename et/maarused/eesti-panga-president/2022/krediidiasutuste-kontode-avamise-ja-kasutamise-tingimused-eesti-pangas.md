@@ -1,0 +1,297 @@
+---
+title: "Krediidiasutuste kontode avamise ja kasutamise tingimused Eesti Pangas"
+identifier: "124092022003"
+rt_reference: "RT I, 24.09.2022, 3"
+group_id: "1054798"
+type: regulation
+issuer: "Eesti Panga President"
+number: "7"
+text_type: "algtekst-terviktekst"
+jurisdiction: ee
+language: et
+date: 2022-09-22
+last_amended: 2022-11-21
+status: in_force
+source: "https://www.riigiteataja.ee/akt/124092022003"
+retrieved: 2026-10-12
+---
+
+# Krediidiasutuste kontode avamise ja kasutamise tingimused Eesti Pangas
+
+Määrus kehtestatakse krediidiasutuste seaduse § 87 lõike 1 alusel.
+
+## § 1. Üldsätted
+
+(1) Käesolevad krediidiasutuste kontode avamise ja kasutamise tingimused Eesti Pangas (edaspidi *üldtingimused*) reguleerivad Eesti Panga kui kontopidaja ja Eesti Pangas konto avamist taotleva või Eesti Pangas kontot omava krediidiasutuse vahelisi suhteid seoses ühe või mitme Eesti Pangas peetava konto (edaspidi *konto*) avamise ja kasutamisega.
+
+(2) Konto valuuta on euro.
+
+(3) Eesti Pank võimaldab raha ülekandmist kontole ja kontolt (edaspidi *maksetehing*) ning hoiab kontol krediidiasutusele kuuluvaid ja krediidiasutusele laekuvaid rahasummasid.
+
+(4) Maksetehingute tegemisel ja raha hoidmisel juhindub Eesti Pank seadusest, üldtingimustest, Eesti Panga ja krediidiasutuse vahel kehtivatest lepingutest või kokkulepetest ning krediidiasutuse korraldustest.
+
+(5) Kui Eesti Panga kehtestatud või Eesti Panga ja krediidiasutuse vahel kokku lepitud eritingimused teatavate kontode pidamise või kontol tehtavate toimingute kohta on üldtingimustega vastuolus, siis kohaldatakse eritingimusi.
+
+## § 2. Konto avamise taotlemiseks õigustatud isikud
+
+Oma konto avamist Eesti Pangas võivad taotleda Eesti krediidiasutused, välisriigi krediidiasutuste Eesti filiaalid ja Eestis asutamisel olevad krediidiasutused.
+
+## § 3. Konto avamise taotlemine
+
+(1) Taotlus konto avamiseks tuleb esitada Eesti Pangale, kasutades Eesti Panga veebilehel avaldatud vormi. Koos taotlusega tuleb esitada krediidiasutuse õiguslikku seisundit ja tema esindaja või esindajate volitusi tõendavad dokumendid. Kui taotluses või sellele lisatud dokumentides esineb puudusi, annab Eesti Pank krediidiasutusele mõistliku pikkusega tähtaja puuduste kõrvaldamiseks.
+
+(2) Konto avamise otsuse tegemisel lähtub Eesti Pank eelkõige vajadusest vältida riske ja kohelda krediidiasutusi võrdsetel alustel. Eesti Pank nõuab krediidiasutuselt täiendavalt andmete või dokumentide esitamist, kui need on vajalikud järgnevate asjaolude selgitamiseks:
+
+1\) krediidiasutuse õigusliku seisundi kohta esitatud teabe usaldusväärsus;
+
+2\) krediidiasutuse juhtide või esindajate volituste ja esindusõiguse kehtivus ja ulatus;
+
+3\) krediidiasutuse kui juriidilise isiku omandi- ja kontrollistruktuur, mis peab võimaldama ka tegelike kasusaajate kindlaks tegemist;
+
+4\) Eesti Pangas avatava või avatud konto vahendusel teha kavatsetavate tehingute ligikaudne arv, ettenähtavad tehingupartnerid, tehingute eesmärgid ja nende osa krediidiasutuse tegevuses.
+
+## § 4. Konto avamise otsustamine ja vormistamine
+
+(1) Eesti Pank teeb otsuse konto avamise või konto avamisest keeldumise kohta 45 kalendripäeva jooksul arvates päevast, millal kõigile kehtivatele nõuetele vastav taotlus konto avamiseks koos kõigi nõutavate dokumentidega on Eesti Pangale üle antud. Kui otsuse tegemiseks on Eesti Panga hinnangul vaja täiendavaid toiminguid, võib Eesti Pank pikendada otsuse tegemise tähtaega kuni 14 kalendripäeva võrra, teatades sellest krediidiasutusele enne otsuse tegemise algse tähtaja lõppemist.
+
+(2) Konto avamine vormistatakse Eesti Panga otsuse või krediidiasutuse ja Eesti Panga vahelise lepinguga.
+
+(3) Kui konto on avatud Eesti Panga otsuse alusel, võib Eesti Pank igal ajal nõuda ja krediidiasutus on kohustatud võimaldama konto pidamise kohta kehtivate tingimuste vormistamist krediidiasutuse ja Eesti Panga vahelise lepinguga.
+
+## § 5. Konto kasutamine
+
+(1) Krediidiasutus võib kasutada kontot järgmistel eesmärkidel:
+
+1\) eurode hoiustamine;
+
+2\) maksetehingute tegemine;
+
+3\) maksekohustuste täitmise tagamine;
+
+4\) kohustuslike reservide hoidmine Eesti Pangas.
+
+(2) Korraldused, mille krediidiasutus on konto kasutamiseks andnud ja Eesti Pank aktsepteerinud, on Eesti Pangale siduvad.
+
+(3) Krediidiasutus võib kontot kasutada ainult esindaja või esindajate vahendusel, keda krediidiasutus on vastavalt volitanud või kelle esindusõigus tuleneb seadusest.
+
+(4) Konto kasutamiseks vajalike volituste olemasolus veendumiseks võib Eesti Pank krediidiasutuse esindajalt igal ajal nõuda isikut tõendava dokumendi, volikirja, allkirjaõigust tõendava dokumendi, allkirjanäidise või muude sarnaste dokumentide esitamist. Kontot käsutama volitatud esindajate või nende esindusõiguse ulatuse muutmisel on krediidiasutus kohustatud esitama Eesti Pangale viivitamatult kõik andmed, mis on vajalikud Eesti Panga ja krediidiasutuse tehingute õiguskindluse tagamiseks.
+
+## § 6. Krediidiasutuse korraldused
+
+(1) Krediidiasutus esitab oma korraldused, sealhulgas maksejuhised Eesti Pangale elektrooniliselt. Kui korralduste elektrooniline esitamine on ajutiselt takistatud või seotud liigse riskiga, võib korraldusi esitada igas usaldusväärset kirjalikku taasesitamist võimaldavas vormis, mida Eesti Pank aktsepteerib. Kui erandlikus vormis esitatud maksejuhiste töötlemine Eesti Pangas ei toimu automatiseeritult, ei ole Eesti Pank kohustatud töötlema rohkem kui viis krediidiasutuse selliselt esitatud maksejuhist päevas.
+
+(2) Eesti Pangal on õigus eeldada, et krediidiasutuse esitatud korralduse sisu vastab täielikult krediidiasutuse tahtele.
+
+(3) Eesti Pank võtab täitmiseks ainult krediidiasutuse sellise korralduse, mis on kooskõlas krediidiasutuse ja Eesti Panga vahel kokkulepituga, on vormistatud korrektselt, õiguspäraselt ja üheselt mõistetavalt ning väljendab selgelt krediidiasutuse tahet. Maksejuhis peab sisaldama vähemalt järgmisi andmeid või võimaldama Eesti Pangal need ühemõtteliselt kindlaks teha:
+
+1\) maksja nimi või nimetus;
+
+2\) maksja konto number vastavalt IBAN standardile;
+
+3\) maksja identifitseerimiseks vajalikud andmed (registreerimisnumber, registrikood, isikukood või aadress);
+
+4\) saaja nimi või nimetus;
+
+5\) saaja konto number vastavalt IBAN standardile või saaja kontonumber ja saaja panga BIC või, kui saajaks on pank, selle panga BIC;
+
+6\) saaja aadress;
+
+7\) maksesumma ja vääring;
+
+8\) päev, millal Eesti Pank on kohustatud alustama maksejuhise täitmist (väärtuspäev);
+
+9\) vajaduse korral makse otstarbe sõnaline selgitus või viitenumber;
+
+10\) vajaduse korral maksevahendaja (saaja krediidiasutuse korrespondentpanga) rekvisiidid.
+
+## § 7. Krediidiasutuse korralduste vastuvõtmise aeg ja tingimused
+
+(1) Arvelduspäevad on kõik päevad, välja arvatud laupäevad, pühapäevad, Eesti rahvus- ja riigipühad ning teine ülestõusmispüha. Eesti Pangal on õigus muuta ka käesolevas lõikes arvelduspäevade seast välja arvatud päev erandina arvelduspäevaks.
+
+(2) Eesti Pank võtab krediidiasutuse korraldusi vastu arvelduspäevadel ajavahemikul 9.00 – 17.00. Pärast arvelduspäeva tööaja lõppu saabunud korraldused arvestatakse vastuvõetuks järgmisel arvelduspäeval.
+
+(3) Eesti Pank võtab krediidiasutuse korralduse vastu, kui krediidiasutus on Eesti Pangale edastanud kõik andmed, mida Eesti Pank peab korralduse täitmiseks vajalikuks. Korralduses sisalduva maksejuhise võtab Eesti Pank täitmiseks tingimusel, et krediidiasutuse kontol on maksejuhise täitmiseks määratud hetkel olemas selleks vajalik raha ja krediidiasutuse määratud maksejuhise täitmise tähtpäev võimaldab maksejuhise tähtaegset täitmist.
+
+(4) Kui krediidiasutuse korraldus ei vasta üldtingimuste paragrahvi 6 lõike 3 nõuetele, on Eesti Pangal õigus nõuda krediidiasutuselt korralduse täpsustamist või lisateabe esitamist hiljemalt järgmise arvelduspäeva lõpuks. Kui krediidiasutus korraldust selle tähtaja jooksul ei täpsusta või nõutud lisateavet ei esita, on Eesti Pangal õigus jätta korraldus täitmata.
+
+(5) Eesti Pangal on õigus salvestada kõik krediidiasutuse korraldused või muu seoses konto kasutamisega saadud teave ja kasutada salvestisi krediidiasutuse korralduste sisu, vormi või nendega seotud muude asjaolude tõendamiseks.
+
+## § 8. Krediidiasutuse korralduste täitmine
+
+(1) Eesti Pank täidab krediidiasutuse korraldusi kehtiva õiguse ning Eesti Panga ja krediidiasutuse vahel sõlmitud lepingute või kokkulepete kohaselt.
+
+(2) Kui kontol puudub korralduse täitmiseks vajalik raha, täidab Eesti Pank korralduse ainult juhul, kui see on eelnevalt kokku lepitud ja krediidiasutus on andnud Eesti Pangale tagatise või deposiidi, mis on küllaldane korralduse täitmiseks vajamineva summa hüvitamiseks.
+
+(3) Eesti Pank ei pea täitma krediidiasutuse tingimuslikku korraldust.
+
+(4) Eesti Pank debiteerib ülekandesumma kontolt krediidiasutuse määratud väärtuspäeval.
+
+## § 9. Korralduse tagasivõtmine ja tagasi kutsumine
+
+(1) Krediidiasutus võib oma Eesti Pangale antud korralduse tagasi võtta, esitades Eesti Pangale sellekohase usaldusväärset kirjalikku taasesitamist võimaldavas vormis avalduse.
+
+(2) Korraldust ei saa tagasi võtta, kui Eesti Pank on korraldusest tuleneva kohustuse täitnud, ei saa korralduse esemeks olevat raha enam iseseisvalt käsutada või kui korraldusega seotud tehingu tingimuste kohaselt pole korralduse tagasivõtmine enam võimalik.
+
+(3) Täidetud maksejuhise võib krediidiasutus Eesti Panga nõusolekul tagasi kutsuda, kui see on tehniliselt võimalik ega ole vastuolus õigusaktide või Eesti Panga ja krediidiasutuse lepinguliste kohustustega.
+
+## § 10. Ekslikult tehtud kanded
+
+(1) Kui Eesti Pank on kontot ekslikult (sh ilma õigusliku aluseta) krediteerinud, on krediidiasutus kohustatud viivitamatult pärast eksliku kande avastamist sellest Eesti Pangale teatama ja ekslikult krediteeritud summa tagastama.
+
+(2) Eesti Pangal on õigus ekslikult krediidiasutuse kontole krediteeritud ja krediidiasutuse poolt tagastamata summad ilma krediidiasutuse nõusolekut taotlemata blokeerida või kontot vastava summa ulatuses debiteerida.
+
+(3) Kui Eesti Pank on kontot ekslikult debiteerinud, on Eesti Pank kohustatud viivitamatult pärast sellise kande avastamist kontot ekslikult debiteeritud summa ulatuses krediteerima.
+
+## § 11. Krediidiasutuse õigusliku seisundi või tema tegevuse seaduslikkuse kontrollimine
+
+(1) Kui Eesti Pank saab teavet, mis tekitab kahtlusi krediidiasutuse kui juriidilise isiku vastavuses kehtivatele nõuetele või krediidiasutuse tegevuse õiguspärasuses, võib Eesti Pank nõuda krediidiasutuselt kahtluse kõrvaldamiseks vajalikke andmeid või dokumente või rakendada üht või mitut järgnevalt nimetatud meedet:
+
+1\) krediidiasutuse õigusliku seisundi, krediidiasutuse antud teabe või krediidiasutuse esindaja esindusõiguse kontrollimine lisadokumentide või andmete põhjal, mis pärinevad usaldusväärsest ja sõltumatust allikast;
+
+2\) toimingud krediidiasutuse esitatud dokumentide ehtsuses ja nendes sisalduvate andmete õigsuses veendumiseks, muu hulgas dokumentide vormi õiguspärasuse kontrollimine või nõude esitamine, et dokumendi välja andnud isik kinnitaks dokumendi õigsust;
+
+3\) pöördumine krediidiasutuse või muude isikute poole andmete saamiseks krediidiasutuse õigusliku seisundi, ärisuhete või tehingute kohta.
+
+(2) Eesti Pangal on kuni krediidiasutuse õigusliku seisundi väljaselgitamiseni või tema tegevuse õiguspärasuses veendumiseni lõikes 1 nimetatud andmete, dokumentide või meetmete alusel õigus krediidiasutuse korralduste täitmisega viivitada või krediidiasutuse maksed peatada.
+
+## § 12. Maksete peatamine
+
+(1) Maksete peatamine tähendab, et Eesti Pank keeldub täitmast krediidiasutuse korraldusi krediidiasutuse kontol oleva raha käsutamiseks. Eesti Pangal on õigus krediidiasutuse maksed peatada põhjendatud kahtluse korral ühe või mitme järgnevalt nimetatud asjaolu suhtes:
+
+1\) krediidiasutuse esindaja identiteet;
+
+2\) krediidiasutuse esindaja volituste kehtivus;
+
+3\) kontol oleva raha seaduslik päritolu;
+
+4\) krediidiasutuse tehingute õiguspärasus;
+
+5\) krediidiasutuse võime täita võetud kohustusi.
+
+(2) Eesti Pank ei vastuta maksete peatamise tagajärjel krediidiasutusele tekkinud otsese või kaudse kahju eest.
+
+## § 13. Konto sulgemine
+
+(1) Kui seadusest ei tulene teisiti, on Eesti Pangal õigus igal ajal ja ilma ette teatamata sulgeda krediidiasutuse konto Eesti Pangas ning nõuda krediidiasutuselt kõigi võlgade tasumist, mis on tekkinud seoses konto kasutamisega või mille debiteerimine kontolt on ette nähtud seaduse või lepingu alusel. Eesti Panga õigus konto sulgeda ei ole seotud piiravate eeltingimustega, nagu üldtingimuste või seaduse eelnev rikkumine krediidiasutuse poolt. Kui krediidiasutus ei tasu võlgu Eesti Panga määratud tähtajaks, on Eesti Pangal õigus ilma ette teatamata kasutada võlgade kustutamiseks krediidiasutuse poolt Eesti Pangale antud tagatist, kui tagatislepingu tingimustest ei tulene teisiti.
+
+(2) Kui seadusest ei tulene teisiti, on krediidiasutusel õigus oma konto sulgeda, edastades Eesti Pangale sellekohase kirjalikus või usaldusväärset taasesitamist võimaldavas vormis korralduse. Enne konto sulgemist on krediidiasutus kohustatud tasuma kõik seoses konto kasutamisega tekkinud võlad ja summad, mille debiteerimine kontolt on ette nähtud seaduse või lepingu alusel.
+
+(3) Konto sulgemine ei mõjuta varem tekkinud rahaliste nõuete sissenõutavaks muutumist ega rahuldamist.
+
+(4) Enne konto sulgemist krediteerib Eesti Pank kontole krediidiasutusel saada olevad intressid ning debiteerib kontolt Eesti Pangal saada olevad intressid, tasud ja krediidiasutuse võlad. Eesti Pank maksab kontol oleva raha jäägi välja krediidiasutusele või krediidiasutuse määratud kolmandale isikule või kannab selle krediidiasutuse näidatud kontole.
+
+(5) Kui krediidiasutus ei ole andnud Eesti Pangale korraldust raha jäägi väljamaksmiseks või teisele kontole kandmiseks, hoiab Eesti Pank kontol olnud raha oma kontol ja maksab selle välja krediidiasutuse esimesel nõudmisel või deponeerib raha notari juures krediidiasutuse nimele. Pärast konto sulgemist Eesti Panga valdusse jäänud või Eesti Panga valdusse sattunud raha eest arvestab Eesti Pank intressi ainult juhul kui intressi arvestamise kohustus on Euroopa Keskpanga õigusaktiga ette nähtud.
+
+(6) Eesti Pangal on õigus lükata tagasi iga maksejuhis, mis näeb ette suletud konto krediteerimist. Kui suletud kontole adresseeritud makse on laekunud Eesti Pangale, tagastab Eesti Pank laekunud raha makse algatajale. Eesti Pank võib edastada suletud kontole adresseeritud makse seda kontot omanud krediidiasutusele või krediidiasutuse õigusjärglasele ainult juhul, kui makse algataja ei avalda soovi makse tagastamiseks ja kui Eesti Pangale on usaldusväärselt teada krediidiasutuse või krediidiasutuse õigusjärglase isik ning talle makse edastamiseks vajalikud andmed.
+
+(7) Kui seadusest ei tulene teisiti, on Eesti Pangal konto sulgemisel õigus üles öelda Eesti Panga ja krediidiasutuse lepingud ja kokkulepped, mis on sõlmitud selle konto pidamiseks või mille kehtimise oluline tingimus on selle konto olemasolu.
+
+(8) Suletud kontot ei saa uuesti avada. Krediidiasutusele võib avada Eesti Pangas uue konto, järgides üldtingimustes ettenähtud korda ja tingimusi.
+
+## § 14. Tasud
+
+(1) Konto kasutamise eest võtab Eesti Pank tasu üldtingimuste paragrahvis 15 sätestatud tasumäärade järgi.
+
+(2) Eesti Pank ja krediidiasutus võivad kokku leppida üldtingimuste paragrahvis 15 sätestatuist erinevates tasumäärades või mõne toimingu eest tasu mittevõtmises, kui see on asjaolusid arvestades põhjendatud ega too kaasa krediidiasutuste või muude Eesti Pangas kontosid omavate isikute olulisel määral ebavõrdset kohtlemist.
+
+(3) Eesti Pangal on õigus debiteerida tasud tasumääradele vastavas summas krediidiasutuse kontolt, välja arvatud juhul, kui see on vastuolus seaduse või Eesti Panga ja krediidiasutuse vahelise kehtiva lepinguga. Kui Eesti Pank ja krediidiasutus ei ole kokku leppinud teisiti, debiteeritakse tasud maksekohustuse tekkimisele järgneva kuu esimesel arvelduspäeval.
+
+(4) Kui Eesti Pank ei debiteeri sissenõutavaks muutunud tasusid krediidiasutuse kontolt, on krediidiasutus kohustatud kandma need üle Eesti Panga kontole arve alusel, mille Eesti Pank krediidiasutusele esitab. Arvele märgitakse vähemalt tasu võtmise alus, tasutav summa ja maksetähtpäev.
+
+(5) Kui krediidiasutus viivitab tasu maksmisega, võib Eesti Pank nõuda, et krediidiasutus maksaks võlgnetavalt summalt võlaõigusseaduse paragrahvi 113 lõikes 1 sätestatud määras viivist alates tasu sissenõutavaks muutumise päevast kuni maksekohustuse tegeliku täitmiseni.
+
+## § 15. Tasumäärad
+
+(1) Tasu iga maksejuhise täitmise eest on 1 euro.
+
+(2) Tasu iga maksejuhise tagasivõtmise korralduse täitmise eest on 5 eurot.
+
+(3) Tasu täidetud maksejuhise tagasi kutsumise eest on 5 eurot.
+
+## § 16. Intressid
+
+(1) Eesti Pank arvutab kontol oleva raha eest intressi kehtivate õigusaktide ja lepingutega ette nähtud korras ja määras, arvestades sealjuures eurosüsteemi ühisseisukohti ja -otsuseid. Intressimäär võib olla positiivne, nullprotsendiline või negatiivne.
+
+(2) Krediidiasutustele kehtivate reservinõuete täitmiseks Eesti Panga kontodel hoitava raha eest arvutab Eesti Pank intressi Euroopa Keskpanga kehtestatud korras ja määras.
+
+(3) Kui õigusakti või lepinguga ei ole määratud teisiti, arvutab Eesti Pank käesoleva paragrahvi lõikes 2 nimetamata summadelt intressi nullprotsendilise intressimääraga või Euroopa Keskpanga hoiustamise püsivõimaluse intressimääraga, kohaldades madalamat intressimäära.
+
+(4) Eesti Pangal on õigus intressi arvutamise korda ja/või intressimäära ühepoolselt muuta. Kui intressi arvutamise kord ja/või intressimäär on määratud lepinguga, saab neid muuta ainult poolte kokkuleppel, välja arvatud juhul, kui lepingust tuleneb teisiti. Eesti Pank teatab intressi arvutamise korra ja/või intressimäära muutmisest krediidiasutusele vähemalt kolm kalendripäeva enne muutuste jõustumist.
+
+(5) Kui õigusaktiga, lepinguga või Eesti Panga poolt käesoleva paragrahvi lõike 4 kohaselt teatavaks tehtud intressi arvutamise korra muudatustega ei ole määratud teisiti, arvutab Eesti Pank intressi igal arvelduspäeval päevalõpu kontojäägilt, kasutades sellel arvelduspäeval kehtivat intressimäära ja 360-päevast arvestusaastat. Puhkepäevade eest arvutatakse intressi igal puhkepäeval, kasutades päevalõpu kontojäägi ja intressimäärana puhkepäevale eelnenud viimase arvelduspäeva kontojääki ja intressimäära.
+
+(6) Kui õigusakti või lepinguga ei ole määratud teisiti, krediteerib Eesti Pank kalendrikuu eest tasumisele kuuluva intressisumma kontole või debiteerib kontolt hiljemalt järgneva kalendrikuu kolmandal arvelduspäeval. Kui krediidiasutus peab maksma intressi Eesti Pangale ning enne debiteerimist on konto jääk väiksem kui debiteerimisele kuuluv summa, on krediidiasutus kohustatud kandma intressi maksmiseks vajaliku summa oma kontole Eesti Pangas intressiraporti alusel, mille Eesti Pank krediidiasutusele esitab.
+
+## § 17. Tagatisvahendid ja deposiidid
+
+(1) Krediidiasutus on kohustatud hoolitsema, et tema kontol oleks piisavalt raha kõigi tema korralduste või muude kohustuste või kokkulepete kohaste maksetehingute sooritamiseks.
+
+(2) Eesti Pangal on õigus debiteerida krediidiasutuse kontolt kõik rahalised nõuded, mis on tekkinud üldtingimuste alusel või tulenevad muudest Eesti Panga ja krediidiasutuse vahelistest lepingutest või kokkulepetest.
+
+(3) Eesti Pangal on krediidiasutuse kontol olevate summade suhtes pandiõigus, mis tagab Eesti Panga nõudeid krediidiasutuse vastu finantstagatisena.
+
+(4) Krediidiasutusel on õigus tagada oma kohustuste täitmist Eesti Pangas oleva deposiidiga, mida kasutatakse seaduse, Eesti Panga kehtestatud reeglite või krediidiasutuse ja Eesti Panga kokkuleppe kohaselt.
+
+## § 18. Krediidiasutuse teavitamine
+
+(1) Eesti Pank peab arvestust krediidiasutuse konto krediteerimise ja debiteerimise kohta.
+
+(2) Krediidiasutus võib nõuda Eesti Pangalt teavet oma konto saldo ning konto krediteerimise ja debiteerimise kohta.
+
+(3) Eesti Pank väljastab krediidiasutusele kontoväljavõtte:
+
+1\) iga kalendrikuu kohta hiljemalt järgneva kalendrikuu esimesel arvelduspäeval;
+
+2\) iga arvelduspäeva kohta hiljemalt kell 9.00 järgmisel arvelduspäeval, välja arvatud siis, kui kontot ei ole arvelduspäeval debiteeritud ega krediteeritud ja krediidiasutus ei ole avaldanud soovi saada sellisel juhul ilma käiveteta kontoväljavõtet.
+
+(4) Eesti Pank edastab krediidiasutusele saldoteatise kalendriaasta kohta selle aasta viimase kuupäeva seisuga hiljemalt järgneva aasta 15. jaanuariks. Kui Eesti Pank ja krediidiasutus ei ole kokku leppinud teisiti, edastatakse saldoteatis tasuta.
+
+(5) Eesti Pank peab tehtud ülekannete kohta edastama krediidiasutusele usaldusväärset kirjalikku taasesitamist võimaldavas vormis vähemalt järgmised andmed:
+
+1\) ülekannet identifitseerida võimaldavad andmed;
+
+2\) ülekandesumma ja vääring;
+
+3\) teenustasude ja muude kulude summa;
+
+4\) väärtuspäev.
+
+(6) Eesti Pank on kohustatud säilitama konto krediteerimise või debiteerimise tõendamist võimaldavat teavet kümme aastat pärast nende toimingute tegemist.
+
+## § 19. Eesti Panga vastutus
+
+(1) Eesti Pank ei vastuta kahju eest, mis on tekkinud krediidiasutuselt Eesti Pangale edastatud korralduses sisalduvate sisu- või edastusvigade, ebaselguste, kuritarvituste või eksituste tagajärjel.
+
+(2) Eesti Pank ei vastuta korralduse täitmata jätmise või valesti täitmise eest, kui korraldus on täidetud kooskõlas andmetega, mille krediidiasutus on üldtingimuste paragrahvi 6 lõike 3 kohaselt Eesti Pangale esitanud. Korralduses sisalduvate andmete õigsuse eest vastutab krediidiasutus.
+
+(3) Kui krediidiasutus ei saa oma kontol olevat raha kasutada rikkumise tõttu, mis on toimunud Eesti Panga süül ja vastab üldtingimuste käesoleva paragrahvi lõikes 4 kirjeldatud tunnustele, krediteerib Eesti Pank krediidiasutuse vastava nõude alusel krediidiasutuse kontot intressiga, mis on arvestatud rikkumise tõttu blokeeritud summalt rikkumise kestmise perioodi eest. Intressimääraks on Euroopa Keskpanga põhilistele refinantseerimisoperatsioonidele kohaldatav viimane intressimäär.
+
+(4) Eelnevas lõikes kirjeldatud nõude rahuldamise eeldusena peab krediidiasutus tõendama, et käesoleva paragrahvi lõigetes 1 ja 2 nimetatud Eesti Panga vastutust välistavad asjaolud puudusid ning Eesti Pank:
+
+1\) ei krediteerinud kontot õigel ajal krediidiasutuse jaoks laekunud summa ulatuses;
+
+2\) debiteeris krediidiasutuse kontot ebaõigesti;
+
+3\) ei täitnud krediidiasutuse korraldust selleks määratud ajaks.
+
+## § 20. Konfidentsiaalsus
+
+(1) Eesti Pank ja krediidiasutus on kohustatud käsitlema üksteise teavet ja teabekandjaid konfidentsiaalsena, välistades teabe sattumise kolmandate isikute kätte ja piirates teabega kokku puutuvate isikute ringi.
+
+(2) Konfidentsiaalsuse säilitamise kohustus ei kehti, kui selle täitmine oleks seadusega vastuolus. Konfidentsiaalsuse säilitamise kohustust võib piirata, kui see on lubatud seaduse alusel või ette nähtud Eesti Panga ja krediidiasutuse kokkuleppega.
+
+(3) Käesolevas paragrahvis sätestatu ei piira Eesti Panga õigust edastada teavet rahapesu andmebüroole, kui Eesti Pangal on tekkinud kahtlus, et kontot kasutatakse rahapesuks või terrorismi rahastamiseks. Teave edastatakse ilma krediidiasutust teavitamata.
+
+(4) Konfidentsiaalsuse säilitamise kohustuse rikkumise korral on rikkuja kohustatud hüvitama rikkumisega põhjustatud otsese kahju, olenemata sellest, kas tegemist oli tahtliku või tahtmatu rikkumisega.
+
+## § 21. Määruse kehtetuks tunnistamine
+
+Eesti Panga presidendi 12. juuni 2015. a määrus nr 4 „Krediidiasutuste kontode avamise ja kasutamise tingimused Eesti Pangas“ (RT I, 16.06.2015, 8) tunnistatakse kehtetuks.
+
+## § 22. Määruse jõustumine
+
+Määrus jõustub 21. novembril 2022. aastal.
+
+---
+
+Madis Müller, President

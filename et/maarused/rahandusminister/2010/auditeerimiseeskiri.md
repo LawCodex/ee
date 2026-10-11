@@ -1,0 +1,644 @@
+---
+title: "Auditeerimiseeskiri"
+identifier: "129122010129"
+rt_reference: "RT I, 29.12.2010, 129"
+rt_original: "RT I 2010, 10, 21"
+group_id: "341732"
+type: regulation
+issuer: "Rahandusminister"
+number: "12"
+text_type: "terviktekst"
+jurisdiction: ee
+language: et
+date: 2010-03-03
+last_amended: 2011-01-01
+status: in_force
+source: "https://www.riigiteataja.ee/akt/129122010129"
+retrieved: 2026-10-12
+---
+
+# Auditeerimiseeskiri
+
+Määrus kehtestatakse «Audiitortegevuse seaduse» § 170 lõike 3 alusel.
+
+## 1. peatükk — ÜLDSÄTTED
+
+### § 1. Reguleerimisala
+
+(1) Käesoleva määrusega sätestatakse «Audiitortegevuse seaduse» § 50 tähenduses auditi audiitorteenuse osutamise nõuded, kui auditit ei osutata kooskõlas Rahvusvahelise Arvestusekspertide Föderatsiooni (edaspidi *IFAC*) kinnitatud asjakohase teenuse standardiga.
+
+(2) Käesoleva määruse lõikes 1 nimetamata vandeaudiitori kutsetegevusega seotud teenuste osutamisel lähtub audiitorettevõtja IFAC-i kinnitatud asjakohasest teenuse standardist.
+
+## 2. peatükk — SÕLTUMATUS KUTSETEGEVUSES
+
+### § 2. Vandeaudiitori kutsetegevuse sõltumatust ähvardavad ohud
+
+(1) Olulisemad olukorrad, mille puhul on piisav põhjus väita, et audiitorettevõtja või seaduse alusel audiitorühingut esindava vandeaudiitori kutsetegevuse sõltumatust ähvardavad märkimisväärsed ohud on:
+
+1\) rahalised seosed – otsene või kaudne olulises suuruses osalus kliendis, laenu andmine kliendile või tema tegevjuhtkonna või kõrgema juhtorgani liikmele või olulist osalust omavale aktsionärile või osanikule või laenu võtmine neilt, kliendi või tema tegevjuhtkonna või kõrgema juhtorgani liikmega ühises tulu taotlevas koostööprojektis osalemine;
+
+2\) ametialased seosed – kui audiitorettevõtja või seaduse alusel audiitorühingut esindav vandeaudiitor on või oli kontrollitaval perioodil või vahetult enne seda kliendi juhatuse liige või töötaja või juhatuse liikme või töötaja koostööpartner või tema palgal.
+
+(2) Audiitorettevõtja või seaduse alusel audiitorühingut esindav vandeaudiitor peab olema auditi audiitorteenust osutades kindel, et isiklikud või peresuhted ei mõjuta tema sõltumatust. Audiitorettevõtja, seaduse alusel audiitorühingut esindav vandeaudiitor, tema abikaasa ning ülalpeetavad võivad kliendilt kaupu ja teenuseid vastu võtta ainult teiste ostjatega võrdsetel tingimustel. Audiitorettevõtja või seaduse alusel audiitorühingut esindav vandeaudiitor ei tohi vastu võtta külalislahkust ja kingitusi, mis võiksid mõjutada tema sõltumatust või seada selle kahtluse alla.
+
+(3) Kui audiitorettevõtja või seaduse alusel audiitorühingut esindav vandeaudiitor osutab kliendile peale kindlustandva audiitorteenuse muid teenuseid, tuleb hoiduda tegevjuhtkonna või kõrgema juhtorgani funktsioonide ülevõtmisest või tegevjuhtkonna või kõrgema juhtorgani kompetentsi kuuluvate otsuste tegemisest. Teenuste osutamisel kliendile tuleb meeles pidada järgmisi reegleid:
+
+1\) audiitorettevõtja või seaduse alusel audiitorühingut esindav vandeaudiitor, kes osutab kindlustandvat audiitorteenust, ei tohi osutada raamatupidamisteenuseid;
+
+2\) audiitorettevõtja või seaduse alusel audiitorühingut esindav vandeaudiitor ei tohi võtta endale kliendi töötaja või juhi rolli, ei tohi ise läbi viia majandusoperatsioone ega kasutada kliendi aktivaid. Klient peab koostama kogu algdokumentatsiooni;
+
+3\) kindlustandva audiitorteenuse osutamisel peab audiitorettevõtja või seaduse alusel audiitorühingut esindav vandeaudiitor sooritama kõiki samu teste ja protseduure mis iga teisegi kliendi puhul.
+
+## 3. peatükk — AUDIT KUI KINDLUSTANDEV AUDIITORTEENUS
+
+### § 3. Kindlustandev audiitorteenus
+
+(1) Audiitorettevõtja peab auditi audiitorteenust osutades ja otsustustes arvestama kõigi nende infokasutajate vajaduste ja huvidega, kes teevad kliendi kohta järeldusi raamatupidamisaruannetele tuginedes ning kes eeldavad, et auditeeritud raamatupidamisaruanded kajastavad finantsseisundit, majandustulemust ja rahavoogusid õigesti ja õiglaselt.
+
+(2) Audit tuleb korraldada nii, et see hõlmaks adekvaatselt kliendi kõiki raamatupidamisaruannete seisukohalt olulisi tegevusaspekte. Audiitorettevõtja peab jõudma veendumusele, kas raamatupidamise algandmed ja muu lähteinformatsioon on usaldusväärsed ja piisavad raamatupidamisaruannete koostamiseks. Audiitorettevõtja peab sooritama vajalikud kontrolliprotseduurid, saavutamaks põhjendatud kindluse, et raamatupidamisaruanded kajastavad kliendi finantsseisundit, majandustulemust ja rahavoogusid seaduste, Eesti hea raamatupidamistava ja raamatupidamise sise-eeskirjade kontekstis kõigis olulistes aspektides õigesti ja õiglaselt.
+
+(3) Auditi kui kindlustandva audiitorteenuse testiiseloomust ja sisekontrollisüsteemi võimaluste suhtelisest piiratusest tulenevalt säilib risk, et auditi audiitorteenuse osutamise käigus ei avastata olulisi vigu.
+
+## 4. peatükk — AUDITI AUDIITORTEENUSE OSUTAMISE ALUSED
+
+### § 4. Riskitüübid
+
+(1) Tegevusrisk on risk, et arvestuses tekivad kas tahtmatult või tahtlikult vead, mis moonutavad kliendi tegelikku finantsseisundit, majandustulemust või rahavoogusid. Peale kliendisiseste asjaolude sõltub tegevusrisk üldisest majanduslikust konjunktuurist, kliendi tegevusvaldkonnast (olles tegevusalati erinev) ja muudest teguritest. Tegevusriski hindamisel peab audiitorettevõtja kriitiliselt analüüsima mitmesuguseid asjaolusid:
+
+1\) tegevjuhtkonna oskused ja tegevuse motivatsioon;
+
+2\) kliendi majandustegevuse iseloom;
+
+3\) arvestussüsteemi ülesehitus ja keerukus.
+
+(2) Sisekontrolli risk on risk, et kliendi sisekontrollisüsteem ei ole piisavalt tõhus ega too olulisi vigu esile. Sisekontrollisüsteem peab tagama järgmiste põhieesmärkide saavutamise:
+
+1\) majandustehingud sooritatakse vastavuses kehtestatud protseduurireeglitega;
+
+2\) kõik tehingud kajastatakse õiges väärtuses, õigetele kontodele ja tekkepõhiselt perioodil, mil need aset leidsid;
+
+3\) arvestusandmeid võrreldakse perioodiliselt tegelikult olemasolevate varadega ja hälvete ilmnedes reageeritakse adekvaatselt.
+
+(3) Sisekontrollisüsteemi tase võib varieeruda suurtes piirides, kuid alati säilib teatav oht, et sisekontrollisüsteem ei kõrvalda olulisi vigu. Sisekontrollisüsteemi tõhususe hindamisel peab audiitorettevõtja selgitama, kuivõrd juhtkond mõistab sisekontrollisüsteemi tähtsust, väärtustab siseauditeerimise funktsiooni täitja tegevust ja kuidas reageerib tema tehtud tähelepanekutele. Mida tõhusam on audiitorettevõtja arvates kliendi sisekontrolli süsteem, seda suuremal määral võib ta oma tegevuses tugineda siseauditeerimise funktsiooni täitja töö tulemustele. Siiski tuleb siseauditeerimise funktsiooni täitja tegevusse alati suhtuda kriitiliselt, pidades silmas, et kui tahes tõhus sisekontrollisüsteem ei asenda kunagi sõltumatu audiitorettevõtja tähelepanekuid ja järeldusi ning oma töö kvaliteedi eest vastutab audiitorettevõtja.
+
+(4) Sisekontrollisüsteemi tõhususe hindamiseks on mitmesuguseid meetodeid, nagu kontrolliprotseduuride kirjeldamine ja analüüs, tähtsamate infovoogude kaardistamine jms. Infovoogudeks nimetatakse audiitorkontrolli seisukohalt selliseid majandustehingutest tulenevaid andmevoogusid, mille lõpptulemusena peaks tehtama kanne pearaamatusse. Infovoogude kaardistamisega õpib audiitorettevõtja tundma kliendi arvestussüsteemi ning infovoogusid kriitiliselt analüüsides loob eeldused sisekontrollisüsteemi tõhususe hindamiseks.
+
+(5) Kui audiitorettevõtja avastab arvestuses või sisekontrollisüsteemis olulisi puudusi, peab ta sellest asjakohasel viisil informeerima kliendi juhtkonda, et too saaks astuda vajalikke samme puuduste kõrvaldamiseks. Eelistatav on, et sellised tähelepanekud fikseeritaks kirjalikult ja adresseeritaks kliendi sobivale juhtimistasandile. Juhul kui audiitorettevõtja arvates on piisav teatada avastatud puudustest suuliselt, peab audiitorettevõtja selle siiski fikseerima oma dokumentides.
+
+(6) Avastamisrisk on risk, et audiitorettevõtja ei avasta oma kontrolliprotseduuride puudulikkuse tõttu olulisi vigu. Audiitorettevõtja suudab vahetult mõjutada vaid avastamisriski.
+
+(7) Auditeerimisrisk ehk kogurisk kujuneb mainitud osariskide koosmõju tulemusena. Mida kõrgemaks audiitorettevõtja hindab tegevusriski ja sisekontrolli riski, seda põhjalikuma kontrolli peab ta sooritama, et viia kogurisk mõistlikule tasemele.
+
+(8) Auditeerimisel võib ilmneda, et audiitorettevõtja on tegevusriski või sisekontrolli riski esialgsel hindamisel eksinud. Sellisel juhul tuleb teha audiitorteenuse osutamise plaanis vastavad muudatused, fikseerides vajalike kontrolliprotseduuride mahu ja sisu.
+
+### § 5. Olulisus ja auditeerimisrisk
+
+(1) Kujundades oma arvamust raamatupidamisaruande kohta, sooritab audiitorettevõtja mitmesuguseid kontrolliprotseduure, et jõuda küllaldase kindluseni selles, kas raamatupidamisaruanne peegeldab kliendi finantsseisundit, majandustulemust ja rahavoogusid olulises osas õigesti ja õiglaselt. Arvestades audiitorkontrolli väljavõttelist iseloomu ja mis tahes sisekontrollisüsteemi suhtelist piiratust, püsib siiski alati teatav risk, et isegi suhteliselt olulised ebatäpsused võivad jääda avastamata.
+
+(2) Olulisuse mõiste viitab kas üksiku ebatäpsuse või üheskoos vaadeldavate ebatäpsuste suhtelisele mõõdule, mis, arvestades taustsüsteemi, loob tõenäosuse, et arukas rahandusinformatsiooni kasutaja laseb end oma otsustes neist ebatäpsustest mõjutada.
+
+(3) Tegeldes potentsiaalsete ebatäpsustega, peab audiitorettevõtja hindama nende olulisust ühtaegu nii kogu rahandusinformatsiooni kui ka üksikute raamatupidamisaruannete kirjete seisukohalt.
+
+(4) Olles välja selgitanud kliendi tegevusriski ja sisekontrolli riski suhtelise taseme selle tegevuse eri valdkondades, tuleb auditi põhirõhk suunata neile valdkondadele, kus audiitorettevõtja arvates on oluliste ebatäpsuste ja vigade risk kõrge.
+
+(5) Olulisust võib auditi osutamist planeerides määratleda aktsepteeritava vea eurodes väljendatud summana perioodi majandustulemuse või vara kogumahu suhtes. Nii fikseeritud aktsepteeritavast summaarsest veast lähtudes võib analoogilise näitarvu leida kasumiaruande ja bilansi üksikute kirjete kohta.
+
+\[RT I, 09.11.2010, 1 - jõust. 01.01.2011\]
+
+### § 6. Vandeaudiitori kutsetegevuse dokumendid, nende koostamine ja kogumine
+
+(1) Vandeaudiitori kutsetegevuse dokumendid (edaspidi *kutsetegevuse dokumendid*) on audiitorettevõtja omand.
+
+(2) Kutsetegevuse dokumentidega tuleb hõlmata auditi protseduurid, audiitorettevõtja või vandeaudiitori poolt tehtud järeldused ja auditi tõendusmaterjal.
+
+(3) Kutsetegevuse dokumendid peavad muu hulgas kajastama audiitorteenuse osutamise planeerimist, ajastamist, sooritatud kontrolliprotseduure ning olulisi järeldusi. Kutsetegevuse dokumentide sisu ja maht sõltuvad suures osas audiitorettevõtja professionaalsest hinnangust, sest üldjuhul pole vajalik ega otstarbekas fikseerida dokumentides kõiki kontrolliprotseduuride detaile ning üksikjäreldusi. Kutsetegevuse dokumentide koostamise üldpõhimõttena tuleb silmas pidada, et need peavad olema koostatud sellise üksikasjalikkusega ning sellises mahus, mis võimaldab asjatundlikul lugejal saada dokumentidega tutvudes tervikliku ülevaate audiitorteenuse osutamise käigust ning tulemustest.
+
+(4) Kutsetegevuse dokumendid on esmajoones abivahend kvaliteetse audiitorteenuse osutamiseks. Tuleb silmas pidada, et audiitorettevõtja vastu esitatavate pretensioonide puhul on dokumendid põhikriteerium, mille alusel saab otsustada audiitorettevõtja töö kvaliteedi ja järelduste põhjendatuse üle. Audiitorteenus võib olla osutatud vastavalt käesolevale määrusele või IFAC-i kinnitatud rahvusvahelise standardi alusel ja «Audiitortegevuse seadust» järgides, ent kui see kutsetegevuse dokumentidest ei selgu, pole audiitorettevõtjal võimalik end pretensioonide vastu kaitsta.
+
+(5) Kutsetegevuse dokumentide koostamise ja kogumise põhieesmärgid on:
+
+1\) aidata kaasa audiitorteenuse osutamise planeerimisele;
+
+2\) aidata kaasa õigeaegsele ja kvaliteetsele audiitorteenuse osutamisele;
+
+3\) luua eeldused auditeerimisrühma töö koordineerimiseks, kontrollimiseks ning tähelepanekute üldistamiseks;
+
+4\) esitada vajadusel kutsetegevuse dokumendid auditeerimisel sooritatud kontrolliprotseduuride kohta, millele tuginedes audiitorettevõtja on sõnastanud vandeaudiitori aruande.
+
+(6) Kutsetegevuse dokumentide sisu ja vorm sõltuvad:
+
+1\) audiitorettevõtja poolt kliendile osutatava teenuse iseloomust;
+
+2\) kliendi tegevuse iseloomust, ulatusest ja keerukusest;
+
+3\) kliendi raamatupidamise korraldusest ja sisekontrollisüsteemi tõhususest;
+
+4\) vajadusest juhendada, koordineerida ja kontrollida vandeaudiitori kutsetegevusse kaasatud isikute tööd.
+
+(7) Kutsetegevuse dokumendid peavad üldjuhul sisaldama:
+
+1\) väljakirjutusi või koopiad kliendi tegevuse seisukohalt olulistest juriidilistest dokumentidest, lepingutest ja protokollidest (asutamisleping ja põhikiri, tähtsamad ostu-, müügi- ja rendilepingud, aktsionäride üldkoosoleku ja juhatuse koosolekute protokollid jms);
+
+2\) informatsiooni kliendi organisatsioonilise struktuuri, tegevuskohtade, töötajate kohustuste ja õiguste jaotumise kohta;
+
+3\) koopiat raamatupidamise sise-eeskirjast, kontoplaani, audiitorettevõtja sooritatud raamatupidamissüsteemi ja sisekontrollisüsteemi tõhususe analüüsi ja hinnanguid;
+
+4\) audiitorteenuse osutamise plaani;
+
+5\) kasumiaruande ja bilansikirjete kontrolli tulemusi;
+
+6\) viited sellele, kes ja millal on kontrolliprotseduure läbi viinud;
+
+7\) viited sellele, et audiitorettevõtja on tutvunud vandeaudiitori kutsetegevusse kaasatud isikute tööga ning on selle aktsepteerinud;
+
+8\) materjale, mis kajastavad auditeerimisel vajalikuks osutunud suhtlemist kolmanda osapoolega (teised audiitorettevõtjad, eksperdid, kliendi kaupade või teenuste ostjad jne);
+
+9\) audiitorettevõtja ja kliendi vahelist kommunikatsiooni iseloomustavad materjale;
+
+10\) koopia raamatupidamisaruandest, mille kohta audiitorettevõtja arvamust avaldas.
+
+### § 7. Auditi tõendusmaterjal
+
+(1) Audiitorettevõtja peab koguma sobivad ja piisavad tõendusmaterjalid, millele tuginedes saab teha põhjendatud järeldusi raamatupidamisaruannetes sisalduva informatsiooni kohta. Tõendusmaterjalide sobivuse all mõistetakse nende olulisust ja usaldatavust ning piisavuse all nende kvantitatiivset mõõtu.
+
+(2) Hinnates audiitorteenuse osutamiseks vajalike tõendusmaterjalide hulka ja sisu, tuleb pidada silmas järgmisi kriteeriume:
+
+1\) risk, mida mõjutavad kontrollitava nähtuse olemus, sisekontrollisüsteemi tase, kliendi tegevuse iseloom;
+
+2\) tegurid, millel võib olla oluline mõju kliendi juhtorgani liikme käitumisele;
+
+3\) finantsseisund ja selles toimunud muutused;
+
+4\) kontrollitava nähtuse olulisus aastaaruande kui terviku seisukohalt;
+
+5\) varasemate audiitorkontrollide tulemused;
+
+6\) kättesaadava informatsiooni olemus.
+
+(3) Tõendusmaterjalide usaldatavus sõltub nende allikast (kas kliendisisene või -väline) ja esituslaadist (visuaalne, dokumentaalne või suuline). Tõendusmaterjalide usaldatavuse hindamisel lähtutakse üldjuhul järgmistest üldpõhimõtetest:
+
+1\) välised tõendusmaterjalid (kolmandalt osapoolelt saadud kinnitused) on usaldatavamad kui sisesed tõendusmaterjalid;
+
+2\) sisesed tõendusmaterjalid on suhteliselt usaldatavamad, kui sisekontrollisüsteemi tase on rahuldav;
+
+3\) audiitorettevõtja enda genereeritud tõendusmaterjalid on usaldatavamad kui kliendisisesed tõendusmaterjalid;
+
+4\) kirjalikud tõendusmaterjalid on usaldatavamad kui suulised.
+
+(4) Audiitorettevõtja kindlustunne kasvab kumulatiivselt, kui üks ja seesama nähtus on tõestatav eri allikaist saadud ja erineva olemusega tõendusmaterjalidega. Kui tõendusmaterjalid on omavahel vastuolus, peab audiitorettevõtja otsima täiendavaid võimalusi, et jõuda argumenteeritud lõppjärelduseni.
+
+(5) Täiendava tõendusmaterjali hankimisega kaasnevaid kulusid tuleb kõrvutada saadava efektiga, lähtudes otstarbekuse põhimõttest. Samas ei saa teatud nähtuse kontrollimisega kaasnev keerukus ja kulud olla iseenesest põhjuseks, et vajalikust kontrolliprotseduurist loobuda.
+
+(6) Kui audiitoriettevõtjal on põhjendatud kahtlusi raamatupidamisaruande mingi kirje kohta, peab ta püüdma hankida piisavaid tõendusmaterjale, et mainitud kahtlus kõrvaldada. Kui see ei osutu võimalikuks, ei tohiks ta avaldada märkuseta arvamust.
+
+(7) Kliendi rahandusinformatsiooni kohta tõendusmaterjale hankides tuleb silmas pidada järgmisi kriteeriume:
+
+1\) majanduslikud tehingud on kajastatud nii sisuliselt kui ka aritmeetiliselt täpselt, st õiged summad on kantud õigetele kontodele;
+
+2\) vara ja võlad on antud hetkel olemas;
+
+3\) vara on kliendi omandis ja valduses ning võlad selle kohustus antud hetkel;
+
+4\) kajastamata vara, võlgu ja majandustehinguid ei eksisteeri;
+
+5\) vara ja võlad on hinnatud nõuetekohaselt;
+
+6\) tulud ja kulud on õigesti periodiseeritud;
+
+7\) informatsioon on aastaaruandes rühmitatud ja esitatud nõuetekohaselt.
+
+(8) Tõendusmaterjali hankimisel tuleb kasutada üht või mitut järgmistest meetoditest:
+
+1\) arvutused. Arvutuste eesmärk on veenduda, et majandustehingud on kajastatud aritmeetiliselt täpselt. Audiitorettevõtja eesmärk ei saa olla kogu raamatupidamise ülearvutamine, ent valdkondades, kus audiitorettevõtja hinnangul on suhteliselt suur vigade tekkimise risk, peaks audiitorettevõtja sooritama pisteliselt arvutusi, veendumaks nende õigsuses;
+
+2\) inspekteerimine kujutab enesest arvestusregistrite, mitmesuguste dokumentide ja materiaalsete varadega tutvumist. Arvestusregistrite ja dokumentidega tutvumine annab erineva usaldusväärsusega kutsetegevuse dokumente, sõltuvalt nende olemusest, saamise allikast ja sisekontrollisüsteemi tasemest. Materiaalsete varade inspekteerimine võib küll anda usaldusväärseid tõendeid varade olemasolu kohta, kuid ei ole piisav vajalike õiguste tuvastamiseks ja varade väärtuse määramiseks;
+
+3\) vaatlus on kontrollimeetod, mille käigus jälgitakse mingit protsessi või kliendi töötajate sooritatavat protseduuri (osalemine käibevarade inventuuris suhteliselt passiivse kõrvaltvaatajana ja inventuuri, kui terviku läbiviimise jälgimine);
+
+4\) järelepäringute eesmärk on saada vajalikku informatsiooni seda omavatelt isikutelt kas kliendilt või väljastpoolt klienti. Järelepäringud võivad olla kas formaalsed kirjalikud pöördumised kliendivälise kolmanda osapoole poole või mitteformaalsed suulised pöördumised kliendi töötajate poole;
+
+5\) analüütiline kontroll kujutab enesest majanduslike näitajate, nende üldise muutumistendentsi ja ootamatute hälvete analüüsi, tuvastamaks loogiliselt aruandenäitajate vahelist sisemist ebakõla.
+
+### § 8. Kutsetegevuse dokumentide süstematiseerimine
+
+Kutsetegevuse dokumendid tuleb süstematiseerida nõnda, et need oleksid ülevaatlikud ja hõlpsalt leitavad. Pikaajalise auditeerimissuhte puhul on otstarbekas koostada kutsetegevuse dokumentidest, mis on olulised pikemas ajalises perspektiivis, püsivate dokumentide mapp. Püsivus on seejuures suhteline, neid kutsetegevuse dokumente tuleb perioodiliselt analüüsida, võttes välja dokumendi, mis on oma tähtsuse minetanud, ning asendades need uute, pikema aja jooksul tähtsust omavate kutsetegevuse dokumentidega.
+
+### § 9. Auditeerimisvahekorra kujunemine
+
+(1) Selleks et audiitorettevõtja positsioon suhtlemisel kliendiga oleks üheselt ja korrektselt fikseeritud, peab audiitorettevõtja alati nõudma, et tema nimetamine oleks dokumentaalselt tõestatud kliendi vastavat pädevust omava organi protokollis. Seda põhimõtet tuleb järgida ka juhul, kui audiitorettevõtja on oma tööd alustanud enne pädeva organi poolt otsuse langetamist.
+
+(2) Juhul kui potentsiaalne klient pöördub audiitorettevõtja poole koostööettepanekuga, peab audiitorettevõtja analüüsima kliendi tausta, tema ajendeid auditeerimise tellimiseks, tutvuma raamatupidamise seisundi ja muude asjaoludega, mis tõenäoliselt mõjutavad tööde sooritamist ning kliendi ja audiitorettevõtja suhteid (potentsiaalse kliendi suurus, töögraafik, audiitorettevõtjalt soovitav vandeaudiitori aruande keel, kliendi poolt vandeaudiitori aruandele esitatavad nõuded jms). Kui audiitoriettevõtjal on põhjust arvata, et tema poole on pöördutud formaalsete ajendite mõjul või tema arvates on ilmne või suure tõenäosusega, et mingil põhjusel ei saa tellitud tööd «Audiitortegevuse seaduse» ja käesoleva määruse või IFAC-i kinnitatud asjakohase teenuse standardi nõuetele vastavalt teha, peab audiitorettevõtja enesekriitiliselt hindama, kas on otstarbekas koostööpakkumist vastu võtta või mitte. Audiitorettevõtja peab alati meeles pidama, et tema ülesanne on tegutseda avalikes huvides ja osutada kliendile kvaliteetseid teenuseid.
+
+### § 10. Esmakordne audit
+
+(1) Esmakordseks loetakse audiitorkontrolli, kui klienti pole varem audiitorkontrollitud või seda on teinud teine audiitorettevõtja. Esmakordse audiitorkontrolli puhul peab audiitorettevõtja hankima piisavad tõendused selle kohta, et algbilanss ei sisalda vigu, mis võivad oluliselt mõjutada audiitorkontrolliga hõlmatava perioodi raamatupidamisaruandeid. Algbilansiga tehtava töö maht ja iseloom sõltuvad esmajoones:
+
+1\) arvestussüsteemi üldisest tasemest;
+
+2\) sellest, kas varasemate perioodide (n: eelmise aasta) raamatupidamisaruanded on audiitorkontrolliga hõlmatud ja millised olid selle tulemused.
+
+(2) Kui audiitorettevõtja arvates sisaldab bilanss kirjeid, mille sisu pole selge ja mis võivad oluliselt mõjutada järgnevate perioodide finantstulemusi, peab ta sellele vandeaudiitori aruandes selgelt viitama. Alustades aasta kestel tööd uue kliendiga ja tunnetades suurt riski, et algsaldode kontrollivõimaluse puudumise tõttu võib perioodi tulemus olla oluliselt moonutatud, peab ta vandeaudiitori aruandes fikseerima, et ei saa nimetatud põhjustel anda hinnangut kasumiaruandele, piirdudes hinnangu andmisega üksnes bilansile.
+
+(3) Analüüsides eelneva audiitorettevõtja tööd, peab uus audiitorettevõtja kriitiliselt hindama tema erialast kompetentsust ja sõltumatust. Kui tal on alust arvata, et eelmise audiitorettevõtja töös võis esineda olulisi vajakajäämisi, tuleb suhtuda algbilanssi nii, nagu seda poleks kontrollitud.
+
+(4) Hea tavaga on kooskõlas, kui varasem audiitorettevõtja avaldab uuele audiitorettevõtjale kliendiga seotud ja vandeaudiitori kutsetegevuse käigus teatavaks saanud infot või dokumente. On loomulik, et varasem audiitorettevõtja selgitab uuele audiitoriettevõtjale, mis põhjusel auditeerimisvahekord katkes. Kuigi selleks ei saa kohustada, on igati soovitatav, et varasem audiitorettevõtja osutab uuele audiitorettevõtjale kõikvõimalikku abi, loomaks eeldused tööks «Audiitortegevuse seaduse» ja käesoleva määruse kohaselt.
+
+## 5. peatükk — AUDITI AUDIITORTEENUSE OSUTAMISE PLANEERIMINE
+
+### § 11. Auditi audiitorteenuse osutamise planeerimine
+
+(1) Audiitorteenuse osutamise planeerimise eesmärk on luua eeldused audiitorteenuse tõhusaks, õigeaegseks ja kvaliteetseks osutamiseks. Plaanis fikseeritakse nende protseduuride sisu, millele tuginedes audiitorettevõtja kavatseb avaldada oma arvamuse. Kui audiitorettevõtja on lisaks korralisele auditeerimisele leppinud kliendiga kokku ka muude teenuste osutamises, tuleb need eraldi lülitada plaani.
+
+(2) Planeerimisprotseduuride maht ja sisu sõltuvad esmajoones kliendi majandustegevuse ulatusest ja keerukusest ning audiitorettevõtja varasema koostöö kogemustest kliendiga.
+
+### § 12. Auditi audiitorteenuse plaan
+
+(1) Hea audiitorteenuse osutamise planeerimine aitab tagada selle, et:
+
+1\) määratakse kontrolli olulised ja kriitilised valdkonnad;
+
+2\) kesksetele kontrollivaldkondadele pööratakse piisavalt tähelepanu;
+
+3\) töö sooritatakse õiges järjekorras, koordineeritult ja kvaliteetselt.
+
+(2) Plaan ei tohiks olla jäik ja muutumatu, olude muutudes või ootamatute asjaolude ilmnedes tuleb esialgset plaani korrigeerida.
+
+(3) Audiitorteenuse osutamise plaan tuleb vormistada kirjalikult. Plaani maht ja ülesehitus sõltuvad kontrollitava kliendi eripärast. Plaani koostamisel peab audiitorettevõtja igal konkreetsel juhul kriitiliselt hindama, kas hõlmatud kontrolliprotseduurid on eeldatavasti piisavad selleks, et avaldada arvamus.
+
+(4) Määratlemaks auditi kogumahtu, on otstarbekas, et plaani koostamisel hindab audiitorettevõtja üksikute protseduuride sooritamiseks vajaliku ajakulu ning koostab kokkuvõtliku ajaeelarve.
+
+### § 13. Kontrolli olulised ja kriitilised valdkonnad
+
+(1) Kontrolli olulised ja kriitilised valdkonnad on juhud, mille puhul on suur olulise vea tekkimise risk või mille kohta on raske saada auditi tõendusmaterjali.
+
+(2) Audiitorettevõtja enda koostatud varasemate kutsetegevuse dokumentide analüüsimisel tuleb erilist tähelepanu pöörata valdkondadele, kus esines vigu või mille kohta arvamuse kujundamine eeldas audiitorettevõtja põhjalikke kaalutlusi. Audiitorettevõtja peab kriitiliselt hindama, kas samad valdkonnad võivad olla olulised ja kriitilised ka antud perioodi kontrollimisel.
+
+### § 14. Informatsioon kliendi äritegevuse kohta
+
+Kutsetegevuse kvaliteet eeldab muu hulgas, et audiitorettevõtja tunneb nii kliendi äritegevust kui ka selle majandustegevusvaldkonna omapära tervikuna. Sellise informatsiooni võib audiitorettevõtja saada:
+
+1\) eri tegevusvaldkondade spetsiifilistest õigusaktidest;
+
+2\) kliendi dokumentidest (aktsionäride üldkoosolekute protokollid, juhatuse koosolekute protokollid jms);
+
+3\) vestlustest tegevjuhtkonnaga;
+
+4\) tutvumisest kliendi allüksustega;
+
+5\) audiitorettevõtja koostatud varasematest kutsetegevuse dokumentidest;
+
+6\) üldise majandusliku konjunktuuri ning selle mõju hindamisest kliendi majandustegevusele.
+
+### § 15. Auditi audiitorteenuse planeerimise asjaolud
+
+Planeerimise käigus peab audiitorettevõtja muu hulgas silmas pidama järgmisi asjaolusid, mis mõjutavad auditi vajalikku mahtu ja meetodeid:
+
+1\) sõlmitud lepingus fikseeritud tingimused ja õigusaktidest tulenevad nõuded;
+
+2\) audiitorettevõtja poolt esitatava vandeaudiitori aruande avaldamise tähtaeg;
+
+3\) kliendi kasutatavad arvestuspõhimõtted ja nende muutused;
+
+4\) arvestuse organisatsiooniline ülesehitus (tsentraliseeritud või detsentraliseeritud arvestussüsteem);
+
+5\) oluliste infovoogude fikseerimine;
+
+6\) oluliste ja kriitiliste kontrollivaldkondade määratlemine;
+
+7\) arvestussüsteemi ja sisekontrollisüsteemi usaldatavus;
+
+8\) oluliste ja kriitiliste kontrollivaldkondade võimalik varieerumine aastati;
+
+9\) kutsetegevuse dokumentide maht ja iseloom;
+
+10\) teiste audiitorettevõtjate või muude valdkondade ekspertide töö kasutamine.
+
+### § 16. Kontrollimetoodika valimine
+
+(1) Audiitorettevõtja langetab põhimõttelise otsuse kasutatava kontrollimetoodika suhtes pärast tervikliku ettekujutuse saamist kliendi äritegevusest. Seejuures tuleb silmas pidada, et kontrollimetoodika valiku üheks kriteeriumiks on audiitorteenusega kaasnev ajakulu.
+
+(2) Kui kliendi kontrollikeskkond on nõrk või ei ole selgesti esile kerkivaid toiminguahelaid, tuleb üldjuhul sooritada ulatuslik esmasdokumentide kontroll. Kui kliendil on ulatuslikud toiminguahelad ning nende ümber on kujundatud sisekontrollisüsteem, loetakse tõhusaks sisekontrollisüsteemi taseme väljaselgitamist ja selle alusel arvamuse kujundamist. Ka kõigiti tõhusa sisekontrollisüsteemi puhul tuleb esmasdokumente väljavõtteliselt kontrollida.
+
+## 6. peatükk — AUDITI AUDIITORTEENUSE OSUTAMINE
+
+### § 17. Andmete autentsuse tuvastamine
+
+(1) Andmete autentsuse tuvastamise all mõistetakse raamatupidamises kasutatavate informatsiooniallikate hindamist. Informatsiooniallikad on:
+
+1\) korduvaid majandusoperatsioone ehk raamatupidamisrutiine kajastavad raamatupidamisdokumendid (sh palgaarvestuses);
+
+2\) muid ehk mitterutiinseid majandusoperatsioone kajastavad raamatupidamisdokumendid (sh inventuuride andmikud);
+
+3\) hinnangud (sh lootusetute võlgade kohta).
+
+(2) Audiitorettevõtja eesmärk andmete autentsuse tuvastamisel on oluliste vigade tõenäosuse väljaselgitamine ja audiitorteenuse osutamise programmi täpsustamine. Kontrollitestide ja dokumentaalse kontrolli iseloom, ajastamine ja maht peaksid olema kooskõlas raamatupidamisarvestuses leiduvate oluliste vigade tõenäosusega.
+
+(3) Audiitorettevõtja peaks jõudma järeldusele, kas kliendi tegevuses esinevad andmevood on piisaval määral dokumenteeritud ja kas kõik majandusoperatsioonid on raamatupidamisregistrites kajastatud. Seejuures ei saa piirduda ainult audiitorteenuse osutamise objektis kajastatud aruandeperioodiga, vaid lisaks tuleb käsitleda eelnenud ja võimalikult ka järgneva aruandeperioodi majandusoperatsioone, et selgitada välja nende õigsus ja õige periodiseerimine.
+
+### § 18. Raamatupidamisrutiinide hindamine
+
+(1) Korduvate majandusoperatsioonide ehk raamatupidamisrutiinide hindamiseks kasutatakse:
+
+1\) oluliste rutiinide väljaselgitamist;
+
+2\) põhitegevuse ja tähtsamate äritehingutega seotud andmevoogude kaardistamist;
+
+3\) vigade tekkevaldkondade ja -põhjuste väljaselgitamist;
+
+4\) sisekontrollisüsteemi väljaselgitamist ja analüüsi;
+
+5\) riskide hindamist.
+
+(2) Audiitorettevõtja peab jõudma järeldusele, kas asetleidnud majandusoperatsioonid on dokumenteeritud ja kajastatud raamatupidamisregistrites, on tegelikult toimunud, õigesti hinnatud ja periodiseeritud ning majandusoperatsioonide kohta on koostatud õiged lausendid.
+
+(3) Pärast vigade tekkevaldkondade ja -põhjuste väljaselgitamist peab audiitorettevõtja otsustama sisekontrollisüsteemi funktsioneerimise tõhususe üle (kas sisekontrollisüsteemi abil saab vältida või avastada vigu või mitte, kas sisekontrollisüsteem on piisav või ei).
+
+(4) Raamatupidamisrutiinide ja nendele kulutatava kontrollitöö suhted sõltuvalt sisekontrollisüsteemi tasemest on toodud lisas 1.
+
+### § 19. Mitterutiinsete sündmuste hindamine
+
+Kliendi mitterutiinsete majandusoperatsioonide hindamise etapid on järgmised:
+
+1\) mitterutiinsete majandusoperatsioonide väljaselgitamine ja nende olemuse mõistmine;
+
+2\) riskide määratlemine sisekontrollisüsteemi hindamise ja töötajate mitterutiinsete majandusoperatsioonide ning nende kajastamise varasema kogemuse põhjal;
+
+3\) kontrollimine ja kokkuvõtete tegemine.
+
+### § 20. Hinnangute kontrollimine
+
+Hinnangute kontrollimise etapid on järgmised:
+
+1\) kliendi hinnanguprotsesside mõistmine, sh raamatupidamisaruandlust oluliselt mõjutavate hinnangute väljaselgitamine, hinnangute kujundamise protseduuride väljaselgitamine, hinnangute kujundamise käigus esinevate veatüüpide kindlaksmääramine;
+
+2\) riskide hindamine (tähtsamates hinnangutes oluliste vigade esinemise tõenäosuse hindamine);
+
+3\) kontrollimine ja kokkuvõtete tegemine. Auditeerimise plaan peab fikseerima hinnangute kontrollimise mahu, kasutatavad analüütilise kontrolli protseduurid, kontrolliprotseduuride ajastamise ja eesmärgid (liiga kõrgete või madalate hinnangute väljaselgitamine).
+
+### § 21. Analüütilise kontrolli protseduurid
+
+(1) Substantsiprotseduurid töötab audiitorettevõtja välja kasutatava raamatupidamissüsteemi poolt väljastatavate andmete täielikkuse, täpsuse ja piisavuse väljaselgitamiseks. Substantsiprotseduurid on:
+
+1\) raamatupidamislausendite, käivete ja saldode üksikasjalik kontroll;
+
+2\) finantsnäitajate analüüs (sh finantsnäitajate prognoosidest hälbimise analüüs).
+
+(2) Analüütilise kontrolli protseduurid sisaldavad järgmisi elemente:
+
+1\) rahandusinformatsiooni võrdlemine – eelmise aruandeperioodi (eelmiste aruandeperioodide) võrreldavate näitajatega; planeeritavate näitajatega (plaanide, eelarvete jms baasil), sarnase majandusharu näitajatega (vastava majandusharu keskmisega või võrreldava suurusega kliendi vastavate näitajatega);
+
+2\) rahandusinformatsiooni sisemiste seoste analüüs – finantsnäitajate elementide vahel (sh kulukirjetevaheliste suhtarvude analüüs), rahandusinformatsiooni ja asjakohase mitterahandusinformatsiooni vaheliste suhete analüüs (sh palgaarvestuse näitajate ja töötajate arvu suhete analüüs).
+
+(3) Analüütilise kontrolli käigus võib audiitorettevõtja kasutada mitmesuguseid meetodeid, mis varieeruvad lihtsa võrdlemise ja arenenud kompleksanalüüsi meetodite vahel. Analüütilise kontrolli protseduure võib audiitorettevõtja kasutada kliendi, kliendi osa (sh filiaal, osakond) rahandusinformatsiooni või rahandusinformatsiooni elementide käsitlemisel. Kasutatavad meetodid ja analüütilise kontrolli kasutusastme määrab audiitorettevõtja.
+
+(4) Analüütilise kontrolli protseduurid aitavad audiitorettevõtjat:
+
+1\) kliendi äriidee mõistmisel;
+
+2\) potentsiaalsete riskivaldkondade väljaselgitamisel;
+
+3\) raamatupidamislausendite, käivete ja saldode kontrollimahu hindamisel;
+
+4\) põhjalikku kontrolli vajavate valdkondade väljaselgitamisel;
+
+5\) vandeaudiitori aruandes esitatud väidete kinnitamisel;
+
+6\) rahandusinformatsiooni koondülevaate kujundamisel.
+
+(5) Analüütilise kontrolli protseduure võib kasutada nii audiitorteenuse osutamise planeerimisel, teenuse osutamise käigus kui ka lõppjärgus.
+
+(6) Analüüsiprotseduuride kasutamine audiitorteenuse osutamise planeerimisel aitab audiitorettevõtjal mõista kliendi äriideed ja määrata potentsiaalsed riskialad nende äriaspektide ja -suundade selgitamise teel, millest audiitorettevõtja ei ole varem teadlik olnud. Potentsiaalsete riskialade väljaselgitamine aitab kaasa muude auditeerimisprotseduuride iseloomu, ajastamise ja ulatuse määramisele. Analüüsiprotseduuride kasutamine audiitorteenuse osutamise käigus on vahetult seotud teiste rahandusinformatsiooni käsitlemise meetoditega. Aruande koostamise järgus aitab analüüsiprotseduuride kasutamine kinnitada vandeaudiitori aruandes esitatud väiteid ja välja töötada edasist tegevuskava.
+
+(7) Audiitorettevõtja peab välja selgitama analüüsiprotseduuride käigus vajaminevate andmete ning kliendi tehtud rahandusinformatsiooni analüüsi tulemuste kättesaadavuse.
+
+(8) Analüüsiprotseduuride kavandamisel peab audiitorettevõtja lähtuma järgnevast:
+
+1\) analüütilise kontrolli eesmärkidest;
+
+2\) kliendi organisatsioonilisest struktuurist;
+
+3\) rahandusinformatsiooni (sh plaanide ja eelarvete) ja mitterahandusinformatsiooni (sh töötajate arvu) kättesaadavusest;
+
+4\) saadavate andmete usaldatavusest (plaane ei koostatud piisava põhjalikkusega);
+
+5\) saadavate andmete asjakohasusest (plaanid on koostatud maksimaalseid eesmärke silmas pidades);
+
+6\) saadavate andmete võrreldavusest (vastava majandusharu keskmised näitajad ei ole võrreldavad kitsale alale spetsialiseerunud kliendi omadega).
+
+(9) Audiitorettevõtja peab otsustama, kas analüüsiprotseduurides kasutatava mitterahandusinformatsiooni ettevalmistamisel on sisekontrollisüsteem olnud tõhus või mitte. Mitterahandusinformatsiooni sisekontrollisüsteemi tõhususe üle võib otsustada raamatupidamisarvestuse ja rahandusinformatsiooni sisekontrollisüsteemi hindamise käigus.
+
+(10) Saadud analüüsitulemuste usaldatavus sõltub:
+
+1\) üksikute analüüsiprotseduuride eesmärkidest;
+
+2\) näitajate olulisusest rahandusinformatsiooni kui terviku suhtes;
+
+3\) teistest samas valdkonnas kasutatavatest auditeerimisprotseduuridest (sh hilisem arvete tasumine võib kinnitada või kahtluse alla seada aruandeperioodi analüüsi tulemusi arvelduste osas ostjatega);
+
+4\) sisekontrollisüsteemist (sh ebapiisava laoarvestuse sisekontrolli puhul peaks audiitorettevõtja enam tähelepanu pöörama lausendite, käivete ja saldode üksikasjalikule testimisele).
+
+### § 22. Väljavõtteline vaatlus
+
+(1) Väljavõttelise vaatluse kavandamisel peab audiitorettevõtja lähtuma:
+
+1\) eesmärkidest audiitorteenuse osutamisel;
+
+2\) andmete kogumi olemusest ja mahust;
+
+3\) riskitegurist (sh auditeerimisrisk);
+
+4\) vastuvõetavast avastatavate vigade mahust;
+
+5\) eeldatavast vigade mahust.
+
+(2) Väljavõttelisel vaatlusel puutub audiitorettevõtja kokku mitmesuguste riskidega. Vastuvõetav vigade maht on maksimaalne vigade kogusumma, mida audiitorettevõtja võib aktsepteerida, eeldades samas, et vaatluse maht on olnud järelduste tegemiseks piisav. Kui audiitorettevõtja eeldab uuritavas andmevaldkonnas vigade olemasolu, peaks väljavõttelise vaatluse ulatus olema suurem. Väiksema mahuga vaatlust võib teha veavabade ootuste puhul.
+
+(3) Vaadeldavad andmed valitakse põhimõttel, et väljavõtukogum on käsitletava valdkonna tüüpiline näide. Kõigil käsitletava valdkonna andmetel peab olema võrdne võimalus olla valitud väljavõtukogumisse.
+
+(4) Põhilised väljavõtumeetodid on üles ehitatud kas juhusliku või süstemaatilise väljavõtu põhimõtetele. Juhuväljavõtu puhul on kõigil andmetel ühesugune väljavõtukogumisse sattumise võimalus. Süstemaatilise väljavõtu puhul satuvad andmed kogumisse kindlate intervallide järel või mingi muu põhimõtte järgi. Intervall võib põhineda teatud andmete hulgal või teatud rahalisel väärtusel.
+
+(5) Väljavõttelise vaatluse järel peab audiitorettevõtja:
+
+1\) analüüsima avastatud vigu, prognoosima vigade kogumahtu käsitletava valdkonna andmekogumis;
+
+2\) hindama väljavõttelise vaatluse riski.
+
+(6) Avastatud vigade puhul peab audiitorettevõtja otsustama, kas need on olulised (sh ostja valed rekvisiidid arvetel ei muuda tehingu sisu). Vaatluse tulemusel võib ilmneda, et sarnastel andmetel esinevad sarnased vead (sh on koostatud vale raamatupidamiskanne). Sel juhul peab audiitorettevõtja suuremat tähelepanu pöörama sarnastele andmetele. Audiitorettevõtja peab tegema järeldused avastatud vigade kvalitatiivse aspekti osas. Vigade iseloom ja tekkepõhjused aitavad otsustada sisekontrollisüsteemi üle ka teistes valdkondades.
+
+### § 23. Teiste audiitorettevõtjate ja ekspertide töö kasutamine
+
+(1) Teise audiitorettevõtja töö resultaatide kasutamisel peab audiitorettevõtja:
+
+1\) omandama informatsiooni teise audiitorettevõtja professionaalse kompetentsuse kohta (informatsiooniallikateks võivad olla erialaste organisatsioonide soovitused, vestlused teise audiitorettevõtjaga jm);
+
+2\) piisavalt selgitama teisele audiitorettevõtjale, millistel eesmärkidel tema töö tulemusi kasutatakse. Auditi planeerimisel peab audiitorettevõtja koordineerima oma tegevust teise audiitorettevõtjaga;
+
+3\) kindlustama, et teine audiitorettevõtja arvestab audiitorteenusele ja aruandlusele esitatavate nõuete täitmist;
+
+4\) välja selgitama teise audiitorettevõtja poolt audiitorteenuse osutamisel kasutatavad protseduurid;
+
+5\) arvesse võtma teise audiitorettevõtja põhimõttelisi järeldusi.
+
+(2) Audiitorettevõtja peab kutsetegevuse dokumentides fikseerima, missugune on olnud teise audiitorettevõtja audiitorteenuse osutamise suunitlus, milliseid rahandusinformatsiooni ja mitterahandusinformatsiooni valdkondi on käsitletud ning milliseid protseduure on kasutatud.
+
+(3) Audiitorettevõtja võib audiitorteenuse osutamisel pidada vajalikuks eksperdi kaasamist hinnangute kujundamisel (sh põhivara seisundi hindamine). Eksperdi töö kasutamisel arvestatakse:
+
+1\) eksperdi töö eesmärki ja valdkonda;
+
+2\) eksperdi töös kasutatavaid informatsiooniallikaid;
+
+3\) audiitorteenuse sõltuvuse astet eksperdi tööst;
+
+4\) kliendi rahandusinformatsiooni konfidentsiaalsust;
+
+5\) eksperdi sõltumatust kliendist.
+
+### § 24. Tegevuse jätkuvuse põhimõte
+
+(1) Klienti käsitletakse enamasti tegevust jätkavana, see tähendab lähtutakse seisukohast, et ei ole kavatsust ega vajadust klienti likvideerida või vähendada oluliselt selle tegevuse mahtu. Sellest aspektist lähtudes valmistatakse ette ka raamatupidamisaruanne, kui puudub informatsioon, mis sunniks eeldama vastupidist. Varad ja kohustused kajastatakse aruandes, tuginedes eeldusele, et kliendil on võimalik realiseerida oma varasid ja täita oma kohustused normaalse majandustegevuse käigus. Kui tegevuse jätkuvuse eeldus konkreetsel juhul ei kehti, on oht, et klient ei saa oma varasid realiseerida nende arvestusliku väärtusega ning et kohustuste suurus ja nende täitmise tähtajad muutuvad. Niisugusel juhul võib tekkida vajadus klassifitseerida ning hinnata varad ja kohustused ümber.
+
+(2) Viiteid sellele, et kliendi tegevuse jätkuvus pole kindel, võib saada kas raamatupidamisaruandest või muudest allikatest. Asjaolusid, mis viitavad, et kliendi tegevuse jätkuvus võib olla küsitav, on:
+
+1\) kohustused ületavad varasid või lühiajalised kohustused ületavad likviidseid varasid;
+
+2\) kliendi põhivarad on valdavalt finantseeritud lühiajaliste laenudega;
+
+3\) võimetus tasuda kreeditoridele tähtajaks;
+
+4\) märkimisväärne kahjum põhitegevusest;
+
+5\) raskused laenukohustuste täitmisel;
+
+6\) suutmatus tagada seadustega sätestatud nõudeid omakapitalile;
+
+7\) pooleliolev kohtuprotsess, mis võib kaotuse korral tuua kaasa kohustusi, mida ei suudeta täita;
+
+8\) olulise turuosa kaotus või suhete katkemine tähtsa hankijaga.
+
+(3) Kui audiitorettevõtjal tekib auditeerimisel kahtlusi tegevuse jätkuvuse põhimõtete järgimisel, peab ta oma töö käigus koguma piisavalt tõendeid kas selle kahtluse kinnitamiseks või ümberlükkamiseks. Kui kliendi raamatupidamisaruanne on koostatud tegevuse jätkuvuse põhimõttest lähtudes, ent audiitorettevõtja on auditeerimisel jõudnud veendumusele, et tegevuse jätkuvus on oluliselt ohustatud, tuleb tagada üks järgmistest alternatiivsetest võimalustest:
+
+1\) juhtkond lisab aastaaruandele oma selgituse selle kohta, miks tegevuse jätkuvus on küsitav ja milliseid meetmeid kavatsetakse rakendada, et seisundit oluliselt parandada. Juhul kui audiitorettevõtja arvates on juhtkonna selgitused piisavad, andmaks kliendi seisundist õige ja õiglase ettekujutuse, võib ta avaldada märkuseta arvamuse;
+
+2\) juhul kui juhtkond ei anna selgitusi või need pole audiitorettevõtja arvates piisavad, esitab audiitorettevõtja oma põhjenduse asjaoludest, mis sunnivad teda kliendi jätkuvust kahtluse alla seadma. Audiitorettevõtja arvamus peab olema vandeaudiitori aruandes selgelt välja toodud.
+
+### § 25. Muu informatsioon raamatupidamisaruandeid sisaldavates dokumentides
+
+(1) Kliendid võivad lisaks raamatupidamisaruandele avaldada ka laiale majandusüldsusele adresseeritud aastaraamatu. Aastaraamat võib lisaks raamatupidamisaruandele sisaldada rahandusalast- ja muud informatsiooni.
+
+(2) Audiitorettevõtja peab arvestama raamatupidamisaruannete kohta vandeaudiitori aruande avaldamisel kogu kättesaadava informatsiooniga, sest võimalikud vastuolud raamatupidamisaruannete ja muu informatsiooni vahel võivad kahandada kindlustandva audiitorteenuse usaldatavust tervikuna.
+
+(3) Kui audiitorettevõtja avastab raamatupidamisaruannete ja muu informatsiooni vahel olulisi hälbeid, peab ta selgitama, kas raamatupidamisaruannetes sisalduv või muu informatsioon vajab korrigeerimist, ja operatiivselt informeerima kliendi juhtkonda oma tähelepanekutest. Kui raamatupidamisaruanded vajavad korrigeerimist ja kliendi tegevjuhtkond ei soostu seda tegema, peaks audiitorettevõtja sõltuvalt konkreetsetest tingimustest avaldama kas märkusega või vastupidise arvamuse. Kui korrigeerimist vajab muu informatsioon ja kliendi tegevjuhtkond ei soostu seda tegema, peab audiitorettevõtja kaaluma vastava selgituse lülitamist vandeaudiitori aruandesse või muid abinõusid, nagu arvamuse avaldamisest loobumine või isegi koostöösuhte lõpetamist kliendiga.
+
+### § 26. Tegevjuhtkonna kinnitus
+
+Auditi audiitorteenuse osutamisel möödunud perioodide rahandusinformatsiooni osas kinnitavad kõik tegevjuhtkonna liikmed enne vandeaudiitori aruannet oma vastutust ja, et:
+
+1\) kõik aasta jooksul aset leidnud sündmused on korrektselt raamatupidamises kajastatud;
+
+2\) bilansipäeva seisuga ei kajasta kliendi raamatupidamine varasid, mida tegelikult ei eksisteeri, ning kajastab kõiki tegelikke kohustusi, hinnatuna Eesti hea raamatupidamistava kohaselt;
+
+3\) audiitorettevõtjale on tehtud teatavaks kogu oluline informatsioon, mis on vajalik kliendi finantsseisundi, majandustulemuse ja rahavoogude õigeks ja õiglaseks kajastamiseks.
+
+## 7. peatükk — KUTSETEGEVUSE ARUANDED
+
+### § 27. Kutsetegevuse aruanne
+
+Audiitorettevõtja annab üldjuhul kliendile oma töö tulemustest aru kirjalikult. Kirjalik märgukiri, arvamus, kokkuvõte, hinnang vms (edaspidi *kutsetegevuse aruanne*) on audiitorettevõtja töö lõpptulemus ja enamasti peamine väljundvorm, mille abil infokasutaja saab otsustada audiitorettevõtja töö sisu, taseme ja tulemuslikkuse üle. Seetõttu tuleb sooritatud tööd puudutava aruande koostamisse suhtuda täie vastutusega. Kutsetegevuse aruandes on esmatähtis sisu, st see, mida kas ainult klient või majandusüldsus audiitorettevõtja töö tulemustest ootab. Mõistetav sisu eeldab mõtte- ja väljendustäpsust ning korrektset terminoloogiat.
+
+### § 28. Vandeaudiitori aruanne ja auditi arvamus
+
+(1) Audiitorettevõtja koostab oma töö käigus tehtud tähelepanekutele tuginedes auditi audiitorteenuse tulemuste kohta vandeaudiitori aruande, milles avaldatakse auditi arvamus.
+
+(2) Sõltuvalt audiitorettevõtja sisulisest arvamusest raamatupidamisaruannetele võib kõne alla tulla viis auditi arvamuse tüüpi:
+
+1\) märkuseta arvamus;
+
+2\) märkuseta arvamus koos teatud asjaolu rõhutamisega;
+
+3\) märkusega arvamus;
+
+4\) vastupidine arvamus;
+
+5\) arvamuse avaldamisest loobumine.
+
+(3) Märkusteta arvamuse avaldab audiitorettevõtja siis, kui ta auditi tulemusena on jõudnud arvamusele, et:
+
+1\) kliendi raamatupidamine on korraldatud korrektselt ning aastaaruande või muud perioodi iseloomustava aruande koostamisel on järgitud üldaktsepteeritavaid arvestuspõhimõtteid;
+
+2\) rahandusinformatsioon on kooskõlas kliendile oluliste õigusaktidega;
+
+3\) raamatupidamisaruanded vaadelduna koos neid täiendavate lisadega on kooskõlas audiitorettevõtja arusaamadega kliendi tegevusest;
+
+4\) on esitatud kõik olulised asjaolud, mis tagavad kliendi finantsseisundi, majandustulemuse ja rahavoogude õige ja õiglase kajastamise.
+
+(4) Audiitorettevõtja ei tohi avaldada märkuseta arvamust, kui on näiteks ilmnenud mõni järgmistest asjaoludest ning audiitorettevõtja arvates võib nende mõju raamatupidamisaruannetele olla oluline:
+
+1\) raamatupidamine on ebakorrektne;
+
+2\) audiitorkontrolli ulatus on olnud mingitel asjaoludel piiratud;
+
+3\) audiitoriettevõtjal on kliendi juhtkonnaga olulisi eriarvamusi raamatupidamisaruannete koostamise põhimõtete suhtes.
+
+(5) Audiitorettevõtja avaldab märkuseta arvamuse koos teatud asjaolu rõhutamisega siis, kui on vaja tõsta esile olulist asjaolu seoses kliendi tegevuse jätkuvuse probleemiga. Audiitorettevõtja peaks kaaluma märkuseta arvamuse avaldamist koos teatud asjaolu rõhutamisega ka siis, kui esineb märkimisväärne ebakindel asjaolu (muu kui tegevuse jätkuvuse probleem), mille lahendamine sõltub tulevikus aset leidvatest sündmustest ja mis võib mõjutada raamatupidamisaruandeid. Käesoleva määruse tähenduses on ebakindel asjaolu niisugune asjaolu, mille lõpptulemus sõltub tegevustest või sündmustest tulevikus, mis ei ole otseselt kliendi kontrolli all, kuid mis võivad mõjutada raamatupidamisaruandeid.
+
+(6) Märkusega arvamus tuleks avaldada siis, kui audiitorettevõtja arvates märkuseta arvamust ei saa avaldada, kuid mis tahes juhtkonnaga eriarvamuse mõju või auditi ulatuse piiratuse võimalik mõju ei ole sedavõrd oluline ja läbiv, et nõuaks vastupidise arvamuse avaldamist või arvamuse avaldamisest loobumist. Märkusega arvamust tuleks avaldada väljendiga «välja arvatud eelmises lõigus toodud asjaolu mõju või võimalik mõju», mida märkus puudutab.
+
+(7) Vastupidine arvamus tuleks avaldada siis, kui eriarvamuse mõju on raamatupidamisaruannete suhtes niivõrd oluline ja läbiv, et audiitorettevõtja arvates ei ole märkuse lisamine aruandesse adekvaatne avalikustamaks raamatupidamisaruannete eksitavat või puudulikku olemust. Vastupidises arvamuses näidatakse põhjused (tähtsamad põhjused juhul, kui neid on palju), mis ajendasid audiitorettevõtjat seesugust auditi arvamust avaldama.
+
+(8) Arvamuse avaldamisest tuleks loobuda, kui ulatuse piiratuse võimalik mõju on sedavõrd oluline ja läbiv, et audiitorettevõtja ei ole olnud võimeline hankima piisavalt asjakohast auditi tõendusmaterjali ja seega ei ole võimeline avaldama arvamust raamatupidamisaruannete kohta. Selline olukord võib tekkida juhul, kui audiitorettevõtja arvates oleks tulnud vandeaudiitori kutsetegevuse objekti kontrollimiseks sooritada mingi kindel kontrolliprotseduur, mis aga ei osutunud võimalikuks.
+
+### § 29. Vandeaudiitori aruande struktuur
+
+(1) Vandeaudiitori aruanne, milles sõltumatu audiitorettevõtja avaldab auditi arvamuse, peab sisaldama alljärgnevaid elemente:
+
+1\) pealkiri. Termin «sõltumatu vandeaudiitori aruanne» viitab aruande lugejale üheselt, mis laadi informatsiooni ta sellest võib saada, ning aitab eristada auditi tulemuste kokkuvõtlikuks formuleerimiseks mõeldud arvamust kas audiitorettevõtja enese või ka näiteks kliendi juhtkonna poolt koostatavatest muudest dokumentidest rahandusinformatsiooni kohta;
+
+2\) adressaat. Vandeaudiitori aruanne on üldjuhul adresseeritud kliendi omanikele;
+
+3\) sissejuhatav lõik. Vandeaudiitori aruandest peab vähemalt selguma, klient, kelle raamatupidamisaruandeid auditeeriti, missuguse perioodi ja milliste raamatupidamisaruannete kohta aruanne koostati ning viide rakendatud finantsaruandluse raampõhimõtetele. Otstarbekaks võib osutuda ka mõni täpsustav viide aruannetes sisalduvatele numbrilistele väärtustele, näiteks perioodi kasumile või kahjumile ja bilansi summale, vältimaks kas lihtsalt hilisemat segiminekut või ka tahtlikke kuritarvitusi;
+
+4\) juhtkonna kohustused. Vandeaudiitori aruanne peab sisaldama viidet selle kohta, et raamatupidamisaruannete koostamine ning rakendavate finantsaruandluse raampõhimõtetega kooskõlas olev õiglane esitus, on kliendi juhtkonna kohustus;
+
+5\) audiitorettevõtja kohustused. Vandeaudiitori aruanne peab sisaldama viidet selle kohta, et audiitorettevõtja kohustus on avaldada oma sõltumatu ja objektiivne arvamus raamatupidamisaruannete kohta. Siin on vajalik märkida, kas audit viidi läbi käesoleva auditeerimiseeskirja kohaselt ja kooskõlas «Audiitortegevuse seadusega». Audiitorettevõtja peab kinnitama, et ta on planeerinud ja osutanud auditi viisil, mis annab küllaldase aluse kinnitada, et raamatupidamisaruanded ei sisalda või sisaldavad olulisi vigu ja ebatäpsusi;
+
+6\) auditi arvamus. Auditi arvamuses peab selgelt kajastuma audiitorettevõtja arvamus selle kohta, kas raamatupidamisaruanded kajastavad õigesti ja õiglaselt kliendi finantsseisundit, majandustulemust ja rahavoogusid ning on kooskõlas raamatupidamist reguleerivate õigusaktidega;
+
+7\) audiitorettevõtja nimi;
+
+8\) audiitorettevõtja tegevusloa number;
+
+9\) audiitorettevõtja asukoha aadress;
+
+10\) vandeaudiitori aruande kuupäev. Kuupäev täpsustab, millise ajahetkeni on audiitorettevõtja oma arvamuse andmisel võtnud arvesse ka need bilansikuupäeva järel aset leidnud sündmused, millel on raamatupidamisaruannetele oluline mõju ja millest audiitorettevõtja on oma töö käigus saanud teadlikuks;
+
+11\) allkiri. Allkiri võib olla vandeaudiitori omakäeline või digitaalallkiri. Digitaalallkirjastamisel lisatakse vandeaudiitori aruandele märge «allkirjastatud digitaalselt».
+
+(2) Vandeaudiitori aruanne, milles sõltumatu audiitorettevõtja avaldab auditi arvamuse, peab sisaldama alljärgnevaid alampealkirju, kui muid aruandluskohustusi täites avaldatakse lisaks aruandele raamatupidamisaruannete kohta muu aruanne:
+
+1\) aruanne raamatupidamisaruannete kohta;
+
+2\) aruanne muude seadusesttulenevate ja regulatiivsete nõuete kohta.
+
+(3) Vandeaudiitori aruanne, milles avaldatakse muu aruanne, peab sisaldama elementi «Muud aruandluskohustused».
+
+(4) Vandeaudiitori aruanne, milles avaldatakse mõni käesoleva määruse § 28 lõike 2 punktides 2–5 nimetatud arvamuse tüüp, peab sisaldama elementi «Vandeaudiitori aruande modifikatsiooni alus ja alampealkiri». Vandeaudiitori aruanne peab sisaldama viidet selle kohta, millise auditi arvamuse audiitorettevõtja avaldab, kui see pole märkuseta arvamus.
+
+### § 29<sup>1</sup>. Rakendamine
+
+Määrust rakendatakse raamatupidamisaruannete auditi audiitorteenuste kohta, mille aruandeperiood algab:
+
+1\) 2009. aasta 14. detsembril või varem;
+
+2\) 2009. aasta 15. detsembril või hiljem ja lõpeb 2010. aasta 13. detsembril või varem.
+
+\[RT I, 29.12.2010, 111 - jõust. 01.01.2011\]
+
+### § 30. Määruse jõustumine
+
+Käesolev määrus jõustub 2010. aasta 8. märtsil.
+
+## Lisad
+
+- Lisa — [lisa1.pdf](https://www.riigiteataja.ee/aktilisa/1291/2201/0129/lisa1.pdf)
+
+Lisa 1

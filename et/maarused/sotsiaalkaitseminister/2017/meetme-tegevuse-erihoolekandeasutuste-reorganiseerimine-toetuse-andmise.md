@@ -1,0 +1,412 @@
+---
+title: "Meetme tegevuse „Erihoolekandeasutuste reorganiseerimine” toetuse andmise tingimused avatud taotlemisel"
+identifier: "126052023003"
+rt_reference: "RT I, 26.05.2023, 3"
+rt_original: "RT I, 10.11.2017, 19"
+group_id: "1040730"
+type: regulation
+issuer: "Sotsiaalkaitseminister"
+number: "42"
+text_type: "terviktekst"
+jurisdiction: ee
+language: et
+date: 2017-11-06
+last_amended: 2023-05-29
+status: in_force
+source: "https://www.riigiteataja.ee/akt/126052023003"
+retrieved: 2026-10-12
+---
+
+# Meetme tegevuse „Erihoolekandeasutuste reorganiseerimine” toetuse andmise tingimused avatud taotlemisel
+
+Määrus kehtestatakse perioodi 2014‒2020 struktuuritoetuse seaduse § 14 alusel.
+
+## 1. peatükk — Üldsätted
+
+### § 1. Reguleerimisala
+
+Määrusega kehtestatakse „Ühtekuuluvuspoliitika fondide rakenduskava 2014–2020” (edaspidi *rakenduskava*) prioriteetse suuna 2 „Sotsiaalse kaasatuse suurendamine” meetme 2.5 „Hoolekande taristu arendamine, keskkonna kohandamine puuetega inimeste vajadustele vastavaks” tegevuse 2.5.1 „Erihoolekandeasutuste reorganiseerimine” (edaspidi *meetme tegevus*) toetuse andmise tingimused avatud taotlemisel.
+
+### § 2. Toetuse andmise eesmärk ja väljundinäitaja
+
+(1) Toetuse andmise eesmärk on tagada psüühilise erivajadusega inimestele paremad elamis-, õppimis- ja töötamistingimused, luues kvaliteetseid erihoolekande teenusekohti.
+
+(2) Toetust antakse kooskõlas heaolu arengukava 2016–2023 ja erihoolekande arengukava aastateks 2014–2020 eesmärkidega, järgides puuetega inimeste õiguste konventsiooni ja deinstitutsionaliseerimise põhimõtteid.
+
+(3) Meetme tegevuse väljundinäitaja on „Loodud kvaliteetsete teenusekohtade arv”.
+
+### § 3. Meetme tegevuse rakendusasutus ja rakendusüksus
+
+Meetme tegevuse rakendusasutus on Sotsiaalministeerium (edaspidi *rakendusasutus*). Meetme tegevuse rakendusüksuse ülesandeid täidab Riigi Tugiteenuste Keskus (edaspidi *rakendusüksus*).
+
+\[RT I, 01.09.2020, 2 - jõust. 04.09.2020, rakendatakse tagasiulatuvalt alates 01.09.2018\]
+
+### § 4. Vaiete menetleja
+
+Rakendusasutuse otsuse või toimingu vaide menetleja on rakendusasutus. Rakendusüksuse otsuse või toimingu vaide menetleja on rakendusüksus.
+
+## 2. peatükk — Toetatavad tegevused, kulude abikõlblikkus, toetuse osakaal ja suurus
+
+### § 5. Abikõlblikkuse periood
+
+Meetme tegevuse abikõlblikkuse periood on 01.01.2014–31.12.2023. Projekti abikõlblikkuse periood peab jääma meetme tegevuse abikõlblikkuse perioodi.
+
+\[RT I, 26.05.2023, 1 - jõust. 29.05.2023\]
+
+### § 6. Toetatavad tegevused
+
+(1) Meetme tegevuse raames toetatakse käesoleva määruse alusel järgmisi tegevusi:
+
+1\) teenuseüksuste reorganiseerimine ööpäevaringse erihooldusteenuse pakkumiseks kohtumäärusega hoolekandeasutusse paigutatud isikutele Valkla Kodu baasil ja ebastabiilse remissiooniga psüühikahäirega isikutele Viljandi Haigla ööpäevaringse erihooldusteenuse üksuse baasil;
+
+2\) uute erihoolekande teenusekohtade, sealhulgas sotsiaalhoolekande seaduse §-des 87, 94, 97 ja 100 nimetatud teenuste kohtade taristu ehitamine, rekonstrueerimine, ostmine ja renoveerimine.
+
+(2) Teenuseüksus on iseseisev ja eraldi majapidamisega ühes või mitmes hoones tegutsev teenusekohtade kogum. Käesoleva määruse alusel loodav teenuseüksus võib koosneda:
+
+1\) kuni 30-st ööpäevaringse majutusega teenusekohast, mis on jaotatud kuni 10-liikmelisteks peresarnasteks ja vajadusepõhisteks rühmadeks;
+
+2\) punktis 1 nimetatud ööpäevaringse majutusega teenusekohtadest ja teenusekohtadest, kus ööpäevaringset majutust ei pakuta;
+
+3\) teenusekohtadest, kus ööpäevaringset majutust ei pakuta.
+
+(3) Teenuste spetsiifikast tulenevalt ei tule ebastabiilse remissiooniga psüühikahäirega isikutele ja kohtumäärusega hoolekandeasutusse paigutatud isikutele teenusekohtade rajamisel järgida käesoleva paragrahvi lõikes 2 sätestatud teenuseüksuse tingimusi.
+
+(4) Teenuseüksuse rajamisel tuleb arvestada ligipääsetavuse põhimõtteid vastavalt ehitusseadustiku § 11 lõike 2 punktile 8.
+
+### § 7. Kulude abikõlblikkus
+
+(1) Abikõlblikud on taotluse rahuldamise otsusega kinnitatud tegevuste elluviimiseks vajalikud kulud. Kulu on abikõlblik, kui see on põhjendatud ning tekib vastavalt Vabariigi Valitsuse 01.09.2014 määruse nr 143 „Perioodi 2014–2020 struktuuritoetusest hüvitatavate kulude abikõlblikuks lugemise, toetuse maksmise ning finantskorrektsioonide tegemise tingimused ja kord” (edaspidi *ühendmäärus*) § 2 lõigetele 3 ja 4 ning makstakse vastavalt lõikele 5, on kooskõlas ühendmääruse §-s 5 nimetatud puhastuluga arvestamise tingimustega ning käesolevas määruses sätestatud tingimustega.
+
+(2) Abikõlblikud on järgmised käesoleva määruse §-s 6 nimetatud tegevuste elluviimiseks vajalikud kulud:
+
+1\) projekti ettevalmistamisega seotud kulud, sealhulgas analüüsid ja uuringud;
+
+2\) projektijuhtimise ja omanikujärelevalve kulud;
+
+3\) katastrimõõdistamise ja muude maakorraldustoimingute kulud;
+
+4\) detailplaneeringu koostamise, ehitusgeoloogiliste ja -geodeetiliste tööde tegemise kulud;
+
+5\) projekteerimise kulud;
+
+6\) riigihangete korraldamise kulud;
+
+7\) ehitise ekspertiisi kulud;
+
+8\) ehitamise kulud;
+
+9\) ehitusprojektis kavandatud ja ehitustöö käigus ehitisse püsivalt paigaldatavate seadmete ja sisustuse soetamise ning väliskeskkonna rajamise kulud;
+
+10\) teavitamise kulud;
+
+11\) hoonestamata ja hoonestatud maa ostusumma, mis moodustab kuni kümme protsenti projekti abikõlblikest kuludest vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 1303/2013 artikli 69 lõike 3 punktile b, ning selle maa omandamisega seotud kulud;
+
+12\) ruumide, sealhulgas korterite või elamute ostmise kulud, kui eesmärk on pakkuda ruumides erihoolekandeteenuseid, ning nende ruumide ostmise, remondi ja kohandamisega seotud kulud, mis ei ole käesoleva lõike punktis 11 nimetatud kulud;
+
+13\) ehitise toimimiseks vajalike kommunikatsioonidega liitumise kulud;
+
+14\) hoonete ja ruumide ligipääsetavuse tagamiseks vajalike vahendite ning sotsiaalkaitseministri 21.12.2015 määruses nr 75 „Tervisekaitsenõuded erihoolekandeteenustele ja eraldusruumile” ette nähtud sisustuse soetamise kulud.
+
+(3) Kinnisasja ostmisel on toetuse saaja kohustatud vastava kulu tõendamisel esitama rakendusüksusele kinnisasja turuväärtuse kohta sõltumatu kvalifitseeritud hindaja eksperdihinnangu, mis on väljastatud kuni 90 kalendripäeva enne ostutehingut.
+
+(4) Käibemaks on projekti raames abikõlblik kulu, kui on võimalik näidata, et vastavalt käibemaksu reguleerivatele õigusaktidele ei ole projekti raames tasutud käibemaksu sisendkäibemaksuna õigust maha arvata või käibemaksu tagasi taotleda ning käibemaksu ei hüvitata ka muul moel.
+
+(5) Investeeringud toetuse saajast erineva isiku omandisse kuuluvasse taristusse on abikõlblikud tingimusel, et toetuse saaja valdab taristut viisil, mis tagab käesoleva määruse § 20 lõikes 2 nimetatud kohustuse täitmise. Kohustuse täitmise tagamiseks on rakendusasutusel vastavalt määruse § 22 lõikele 2 õigus nõuda märke tegemist kinnistusraamatusse määruse § 20 lõikes 2 nimetatud perioodiks.
+
+(6) Mitteabikõlblikud kulud on loetletud ühendmääruse §-s 4.
+
+### § 8. Toetuse osakaal ja piirsummad
+
+(1) Euroopa Regionaalarengu Fondi toetuse suurim osakaal abikõlblikest kuludest on 85%.
+
+(2) Toetuse osakaal ja piirsumma kinnitatakse taotluse rahuldamise otsuses.
+
+(3) Toetuse määramisel arvestatakse abikõlblikest kuludest maha puhastulu vastavalt ühendmääruse § 5 lõikele 2, võttes arvesse Euroopa Parlamendi ja nõukogu määruse (EL) nr 1303/2013 artikli 61 lõike 3 alusel antavat määrust, mis reguleerib diskonteeritud puhastulu arvestamise metoodikat, ning artikli 101 alusel antavat määrust, mis näeb ette kulude ja tulude analüüsi metoodika.
+
+## 3. peatükk — Toetuse taotlemine, nõuded taotlejale ja taotlusele
+
+### § 9. Toetuse taotlemine
+
+(1) Rakendusasutus teatab rakendusüksusele taotlusvooru kavandatava aja ning esitab taotlusvooru eelarve käesoleva määruse § 6 lõikes 1 nimetatud toetatavate tegevuste kaupa. Taotlusvooru võib korraldada käesoleva määruse § 6 lõike 1 punktides 1 ja 2 nimetatud tegevuste kohta eraldi.
+
+(2) Rakendusüksus teavitab taotlemise algusest oma kodulehel ja avalikus meedias, edastab vastava info Sotsiaalkindlustusametile kodulehele lisamiseks ja erihoolekandeteenuseid pakkuvatele asutustele ning annab vähemalt 40 tööpäeva taotluste esitamiseks.
+
+(3) Taotlemise algatamisel teavitab rakendusüksus eelarve jaotusest toetatavate tegevuste kaupa.
+
+(4) Taotlus koos juurdekuuluvate dokumentidega esitatakse struktuuritoetuse registri kaudu rakendusüksusele digitaalselt allkirjastatuna hiljemalt taotluste esitamise tähtpäevaks.
+
+(5) Taotlusele lisatakse järgmised dokumendid:
+
+1\) finantsanalüüs koos seletuskirjaga;
+
+2\) projekti eskiis või ruumiplaan;
+
+3\) määruse § 10 lõikes 4 sätestatud juhtudel vajaduse korral eelleping teenuse osutamiseks;
+
+4\) määruse § 10 lõikes 5 sätestatud juhtudel vajaduse korral teenuse osutamise kinnitus või kokkulepe;
+
+5\) muud dokumendid, näiteks kohaliku omavalitsuse kaasfinantseeringu kinnitus, koostöökokkulepe kohaliku omavalitsusega teenuste osutamiseks, koostöökokkulepe tööandjate ja muude teenuseosutajatega.
+
+### § 10. Nõuded taotlejale ja partnerile
+
+(1) Taotleja ja partner peavad vastama Vabariigi Valitsuse 21.08.2014 määruse nr 133 „Perioodi 2014–2020 struktuuritoetuse taotlemise ja taotluste menetlemise nõuded ja tingimused toetuse andmise tingimuste määruse kehtestamiseks” (edaspidi *taotluste menetlemise määrus*) §-s 2 sätestatud nõuetele.
+
+(2) Taotleja on kohustatud täitma perioodi 2014–2020 struktuuritoetuse seaduse (edaspidi *struktuuritoetuse seadus*) § 21 lõikes 2 sätestatud kohustusi.
+
+(3) Taotlejal peab olema omafinantseeringu ja mitteabikõlblike kulude tasumise suutlikkus vastavalt taotluste menetlemise määruse § 3 lõigetele 1, 2 ja 4 ning ta ei või olla varem sama kulu hüvitamiseks riigieelarve, Euroopa Liidu või välisabi vahenditest raha saanud.
+
+(4) Määruse § 6 lõike 1 punktis 1 nimetatud tegevuse kohta võib taotluse esitada senine teenuseosutaja või temaga lepinguga võetud kohustuse alusel teenust osutama hakkav isik.
+
+(5) Määruse § 6 lõike 1 punktis 2 nimetatud tegevuste kohta võib taotluse esitada kohaliku omavalitsuse üksus või juriidiline isik, kellel on sotsiaalhoolekande seaduses nimetatud erihoolekandeteenuse osutamise kogemus alates 2014. aastast vähemalt üks aasta või kokkulepe projekti elluviimise toetamiseks vastavat kogemust omava erihoolekandeteenuse pakkujaga.
+
+### § 11. Nõuded taotlusele
+
+(1) Taotlus peab lisaks taotluste menetlemise määruse §-s 4 sätestatule vastama järgmistele nõuetele:
+
+1\) projektis planeeritud keskmine ühe ööpäevaringse majutusega teenusekoha maksumus Euroopa Regionaalarengu Fondi vahenditest, välja arvatud määruse § 6 lõike 1 punktis 1 nimetatud tegevustega seotud projekti puhul, on kuni 34 000 eurot;
+
+2\) nende teenusekohtade kulud Euroopa Regionaalarengu Fondi vahenditest, kus ööpäevaringset majutust ei pakuta, on määruse § 6 lõike 1 punktis 2 nimetatud tegevustega seotud projekti puhul kuni 150 000 eurot;
+
+3\) ööpäevaringse majutusega teenusekohtade kulud Euroopa Regionaalarengu Fondi vahenditest on määruse § 6 lõike 1 punktis 2 nimetatud tegevustega seotud projekti puhul kuni 680 000 eurot;
+
+4\) määruse § 6 lõike 1 punktis 2 nimetatud tegevustega seotud projektis võib olla planeeritud kuni 30 ööpäevaringse majutusega teenusekohta, millele võib lisanduda teenusekohti, kus ööpäevaringset majutust ei pakuta.
+
+(2) Taotlused esitatakse käesoleva määruse § 6 lõike 1 punktides 1 ja 2 nimetatud tegevuste kohta eraldi.
+
+(3) Kui taotleja on projektile või osale projekti tegevustest taotlenud toetust samal ajal mitmest meetmest või muudest riigieelarvelistest, Euroopa Liidu või välisabi vahenditest, peab taotleja esitama sellekohase teabe.
+
+### § 12. Taotleja kohustused
+
+Toetuse taotleja on kohustatud lisaks struktuuritoetuse seaduse § 21 lõikes 2 sätestatule:
+
+1\) tõendama, et taotluses esitatud teave vastab käesolevas määruses sätestatud nõuetele ja tingimustele;
+
+2\) esitama rakendusüksuse nõudmisel lisateavet või täiendavaid dokumente nõutud vormis ja tähtaja jooksul;
+
+3\) võimaldama kontrollida taotleja vastavust nõuetele, sealhulgas teha kohapealset kontrolli;
+
+4\) teavitama rakendusüksust viivitamata taotluses esitatud andmetes toimunud muudatustest või ilmnenud asjaoludest, mis võivad mõjutada taotluse kohta otsuse tegemist;
+
+5\) tõendama rakendusüksuse nõudmisel projekti omafinantseeringu ja mitteabikõlblike kulude tasumise suutlikkust.
+
+## 4. peatükk — Taotluste menetlemine, projektide hindamine ja taotluse rahuldamise otsus
+
+### § 13. Taotluse menetlemine
+
+(1) Taotluse menetlemine koosneb registreerimisest, taotluse ja taotleja nõuetele vastavuse kontrollist, hindamisest ning taotluse rahuldamise või rahuldamata jätmise otsuse tegemisest.
+
+(2) Rakendusüksus võib taotluse menetlemise käigus nõuda taotlejalt selgitusi ja lisadokumente taotluses esitatud andmete kohta, samuti taotluse täiendamist või muutmist, kui ta leiab, et taotlus ei ole piisavalt selge või selles esinevad puudused, näidates ühtlasi millised asjaolud vajavad täiendavat selgitamist, täiendamist või lisainformatsiooni.
+
+(3) Taotlejal on õigus esitatud taotlust muuta vaid rakendusüksuse osutatud puuduste kõrvaldamiseks. Taotluse vastavuse kontrollimisel ei pea rakendusüksus arvestama muudatustega, mida toetuse taotleja teeb lisaks rakendusüksuse osutatud puuduste kõrvaldamisele.
+
+(4) Taotluse menetlemise tähtaeg on kuni 60 tööpäeva alates taotluse esitamise tähtpäevast. Kui taotluses avastatakse puudusi, teatatakse sellest viivitamata taotlejale ja antakse puuduste kõrvaldamiseks mõistlik tähtaeg, mille võrra pikeneb taotluse menetlemise tähtaeg.
+
+### § 14. Taotleja, partneri ja taotluse nõuetele vastavuse kontroll
+
+(1) Rakendusüksus kontrollib taotleja, partneri ja taotluse nõuetele vastavust 20 tööpäeva jooksul taotlusvooru väljakuulutamise teates sätestatud tähtpäevast. Rakendusüksus kontrollib enne taotleja, partneri ja taotluse vastavaks tunnistamist maksuvõla puudumist avalike andmete põhjal.
+
+(2) Taotleja ja partner tunnistatakse nõuetele vastavaks juhul, kui ta vastab taotluste menetlemise määruse §-s 2 ja käesoleva määruse §-s 10 nimetatud nõuetele.
+
+(3) Taotlus tunnistatakse nõuetele vastavaks, kui see vastab taotluste menetlemise määruse §-s 4 ja käesoleva määruse §-s 11 nimetatud nõuetele.
+
+(4) Taotlust ei tunnistata nõuetele vastavaks, kui esineb vähemalt üks alljärgnevatest asjaoludest:
+
+1\) taotlus ei vasta käesoleva määruse §-s 11 nimetatud nõuetele ja taotleja ei ole taotluses esinevaid puudusi määratud tähtaja jooksul kõrvaldanud;
+
+2\) taotlejal on maksuvõlg taotluse esitamise hetkest kuni taotluse kohta otsuse tegemiseni, välja arvatud juhul, kui võlg on ajatatud või selle summa on alla 100 euro;
+
+3\) taotluses on esitatud ebaõigeid või mittetäielikke andmeid või taotleja mõjutab pettuse või ähvardusega või muul õigusvastasel viisil taotluse menetlemist;
+
+4\) taotleja ei võimalda kontrollida taotluses esitatud andmete õigsust või teha kohapealset kontrolli.
+
+(5) Määruse § 6 lõike 1 punktis 1 nimetatud tegevustega seotud projekte hinnatakse vastavushindamise raames. Projekt peab vastama järgmistele hindamiskriteeriumitele:
+
+1\) projekt vastab meetme eesmärkidele;
+
+2\) projekt on põhjendatud;
+
+3\) projekt on kuluefektiivne;
+
+4\) toetuse taotlejal on suutlikkus projekti ellu viia;
+
+5\) projektis on hinnatud mõju läbivatele teemadele.
+
+(6) Kui taotleja või taotlus tunnistatakse mittevastavaks, teeb rakendusüksus taotluse rahuldamata jätmise otsuse ning teeb selle teatavaks struktuuritoetuse registri vahendusel hiljemalt 30 tööpäeva jooksul taotluste esitamise tähtpäevast. Rakendusasutusele edastatakse otsus teadmiseks.
+
+(7) Kui määruse § 6 lõike 1 punktis 1 nimetatud tegevustega seotud projektide hindamise tulemusel tekib vahendite jääk, võib selle suunata määruse § 6 lõike 1 punktis 2 nimetatud tegevustega seotud projektide toetamiseks.
+
+### § 15. Projektide hindamiskomisjoni moodustamine
+
+(1) Rakendusüksus moodustab rakendusasutuse ettepanekul kuueliikmelise hindamiskomisjoni määruse § 6 lõike 1 punktis 2 nimetatud tegevustega seotud projektide hindamiseks ja kinnitab selle töökorra. Komisjoni kuulub kaks Sotsiaalministeeriumi, üks Rahandusministeeriumi, üks Riigi Tugiteenuste Keskuse, üks Sotsiaalkindlustusameti ja üks Eesti Puuetega Inimeste Koja esindaja. Vajaduse korral kaasatakse hindamisse eksperte.
+
+\[RT I, 01.09.2020, 2 - jõust. 04.09.2020, rakendatakse tagasiulatuvalt alates 01.09.2018\]
+
+(2) Hindamiskomisjoni liikmed ja kaasatud eksperdid peavad vastama struktuuritoetuse seaduse § 21 lõikes 4 nimetatud nõuetele.
+
+### § 16. Projekti hindamiskriteeriumid ja hindamine
+
+(1) Hindamiskomisjon hindab määruse § 6 lõike 1 punktis 2 nimetatud tegevustega seotud vastavaks tunnistatud projekte järgmiste kriteeriumite alusel:
+
+1\) projekti mõju meetme eesmärkide saavutamisele;
+
+2\) projekti põhjendatus;
+
+3\) projekti kuluefektiivsus;
+
+4\) taotleja suutlikkus projekti ellu viia;
+
+5\) projekti mõju läbivatele teemadele.
+
+(2) Hindamiskomisjon annab projektile hindepunkte hindamisjuhendi alusel, mille kinnitab rakendusasutus.
+
+(3) Projekti koondhinne kujuneb kõikide hindamiskriteeriumite järgi saadud hindepunktide liitmisel.
+
+(4) Hindamiskomisjon moodustab projektide koondhinnete alusel projektide nimekirja. Projektide nimekirjas on esimesel kohal parima koondhinde saanud projekt. Nimekirja ei arvata projekti, mille koondhinne on väiksem kui 50% maksimaalsete hindepunktide summast.
+
+(5) Projekti puhul, mille koondhinne on väiksem kui 50% maksimaalsete hindepunktide summast, teeb rakendusüksus taotluse rahuldamata jätmise otsuse.
+
+(6) Nimekirjas eelistatakse võrdse koondhinde korral projekti, mille asukoha maakonnas on sotsiaalhoolekande seaduse §-des 87, 91, 94, 97 ja 100 nimetatud teenuste kohtade suhe elanike arvu seisuga 01.01.2017 väiksem. Samas maakonnas planeeritud projektide puhul eelistatakse suurema väljundinäitaja panusega projekti. Selle võrdsuse korral võetakse aluseks keskmine ühe teenusekoha rajamise maksumus Euroopa Regionaalarengu Fondi vahenditest. Kui eespool kirjeldatu põhjal ei suudeta projektidest eelistatumat välja selgitada, heidetakse valiku tegemiseks liisku.
+
+(7) Kui projekti ei ole võimalik tegevuse eelarve piires tervikuna toetada, võib projekti toetada osaliselt vastavalt käesoleva määruse §-s 18 sätestatule. Projekti tegevusi on lubatud vähendada proportsionaalselt eelarvega.
+
+(8) Hindamiskomisjon võib teha rakendusüksusele ettepanekuid projekti lahenduse muutmiseks. Kui taotleja ei ole rakendusüksuse ettepanekuga nõus, teeb rakendusüksus taotluse rahuldamata jätmise otsuse.
+
+### § 17. Taotluse rahuldamise või rahuldamata jätmise otsuse tegemine
+
+(1) Rakendusüksus koostab vastavalt taotleja ja taotluse nõuetele vastavuse kontrolli ning hindamise tulemustele taotluse rahuldamise või rahuldamata jätmise otsuse.
+
+(2) Taotluse rahuldamise otsuses märgitakse taotluste menetlemise määruse § 8 lõikes 4 sätestatu.
+
+(3) Taotlus jäetakse rahuldamata lisaks käesolevas määruses sätestatule ka taotluste menetlemise määruse § 8 lõikes 2 nimetatud juhtudel.
+
+(4) Taotluse rahuldamata jätmise otsuses märgitakse taotluste menetlemise määruse § 8 lõikes 5 sätestatu.
+
+(5) Taotlejale tehakse tema taotluse kohta tehtud otsus teatavaks struktuuritoetuse registri vahendusel hiljemalt viie tööpäeva jooksul otsuse tegemisest. Rakendusasutusele edastatakse otsus teadmiseks.
+
+### § 18. Taotluse osaline ja kõrvaltingimusega rahuldamine
+
+(1) Taotluse võib osaliselt või kõrvaltingimusega rahuldada vastavalt taotluste menetlemise määruse §-s 9 sätestatule.
+
+(2) Taotluse võib osaliselt rahuldada tingimusel, et taotleja on nõus rakendusüksuse ettepanekuga taotletud toetuse summat vähendada või projektis kavandatud tegevusi muuta. Kui taotleja ei ole rakendusüksuse ettepanekuga nõus, teeb rakendusüksus taotluse rahuldamata jätmise otsuse.
+
+(3) Kõrvaltingimusega taotluse rahuldamise otsuse põhjal ei teki toetuse saajal õigust toetuse maksetele. Õigus toetusega seotud maksetele, sealhulgas ettemaksetele, tekib toetuse saajal pärast otsuses sätestatud kõrvaltingimuse täitmist.
+
+### § 19. Taotluse rahuldamise otsuse muutmine ja kehtetuks tunnistamine
+
+(1) Taotluse rahuldamise otsuse muutmise võib algatada rakendusüksus või toetuse saaja taotluste menetlemise määruse §-des 10 ja 11 ning käesolevas määruses sätestatud tingimustel ja korras.
+
+(2) Rakendusüksusel on õigus taotluse rahuldamise otsuse muutmisest keelduda, kui soovitav muudatus seab kahtluse alla projekti oodatava tulemuse saavutamise või projekti tegevuste lõpetamise abikõlblikkuse perioodil.
+
+(3) Rakendusüksus tunnistab taotluse rahuldamise otsuse osaliselt või täielikult kehtetuks struktuuritoetuse seaduse § 22 lõikes 3 ja § 47 lõikes 3 nimetatud juhtudel.
+
+(4) Rakendusüksus küsib rakendusasutuselt hinnangu taotluse rahuldamise otsuse muutmise ja osaliselt või täielikult kehtetuks tunnistamise kohta.
+
+## 5. peatükk — Toetuse saaja, rakendusüksuse ja rakendusasutuse ülesanded
+
+### § 20. Toetuse saaja õigused ja kohustused
+
+(1) Toetuse saaja tagab struktuuritoetuse seaduse §-des 24 ja 26 nimetatud kohustuste täitmise, projekti juhtimise ja selle eduka elluviimise taotluse rahuldamise otsuses fikseeritud tähtaegade ja tingimuste kohaselt, sealhulgas:
+
+1\) esitab rakendusüksusele tähtajaks nõutud informatsiooni ja aruanded ning teeb järjepidevat seiret projekti näitajate täitmise üle vastavalt taotluse rahuldamise otsuses sätestatud tingimustele ja tähtaegadele;
+
+2\) informeerib viivitamata kirjalikult rakendusüksust muudatustest toetuse saaja omandisuhetes;
+
+3\) tagab projekti eesmärkide elluviimise, saavutab taotluse rahuldamise otsuses sätestatud tulemused ning tagab projekti raames valmiva objekti eeldatava funktsionaalsuse kokkulepitud eelarvega;
+
+4\) teeb vajaduse korral ettepanekuid projekti muutmiseks.
+
+(2) Toetuse saaja kohustub tagama 20 aasta jooksul projekti abikõlblikkuse tähtaja lõppemisest erihoolekande taristu eesmärgipärase kasutamise vastavalt taotluse rahuldamise otsusele, välja arvatud juhul, kui tegevuste muudatused on rakendusasutusega kooskõlastatud.
+
+(3) Toetuse saaja omandis oleva taristu võõrandamiseks ja tervikuna teisele isikule kasutada andmiseks lõikes 2 nimetatud perioodi jooksul kohustub toetuse saaja saama rakendusasutuselt nõusoleku. Nõusolek antakse juhul, kui on tagatud lõikes 2 sätestatud tingimuste täitmine.
+
+(4) Toetuse saaja on kohustatud järgima riigihangete seaduses hankijale sätestatud korda.
+
+(5) Toetuse saaja on kohustatud edastama rakendusüksusele hankedokumentatsiooni järgmiselt:
+
+1\) hankedokumendid ja nende muudatused viis tööpäeva enne nende esitamist riigihangete registrile;
+
+2\) hankemenetluses tehtud otsuste, sealhulgas hankekomisjoni otsuste koopiad viie tööpäeva jooksul otsuse tegemisest arvates;
+
+3\) hankelepingu koopia viie tööpäeva jooksul hankelepingu sõlmimisest;
+
+4\) hankelepingu muudatused viie tööpäeva jooksul hankelepingu muutmise kuupäevast arvates.
+
+(6) Toetuse saajal on õigus saada rakendusüksuselt informatsiooni ja nõuandeid, mis on seotud õigusaktides sätestatud nõuete ja toetuse saaja kohustustega.
+
+(7) Toetuse saajale antakse vastavalt struktuuritoetuse seaduse § 23 lõikele 2 võimalus esitada oma seisukoht enne:
+
+1\) ettekirjutuse tegemist;
+
+2\) taotluse rahuldamise otsuse kehtetuks tunnistamist või muutmist, välja arvatud juhul, kui toetuse saaja taotlus rahuldatakse täielikult;
+
+3\) finantskorrektsiooni otsuse tegemist.
+
+### § 21. Rakendusüksuse ülesanded
+
+Rakendusüksus on kohustatud lisaks struktuuritoetuse seaduse § 8 lõikes 2 nimetatud ülesannetele:
+
+1\) küsima rakendusasutuselt hinnangu taotluses kirjeldatud projekti kohta enne taotluse rahuldamise otsuse muutmist või selle osaliselt või täielikult kehtetuks tunnistamist;
+
+2\) tegema projektide üle järelkontrolli viie aasta jooksul pärast projekti lõppmakse tegemist, veendumaks, et projekti elluviimise tulemusena soetatud vara ja rajatud või rekonstrueeritud taristut kasutatakse sihtotstarbeliselt ning projekt ei ole teeninud puhastulu või teenitud puhastulu ei ületa projekti abikõlblikest kuludest maha arvatud puhastulu;
+
+3\) tegema muid struktuuritoetuse seaduses ja selle alusel antud õigusaktides ning käesolevas määruses sätestatud toimingud.
+
+### § 22. Rakendusasutuse ja Sotsiaalkindlustusameti ülesanded
+
+(1) Rakendusasutus on kohustatud lisaks struktuuritoetuse seaduse §-s 7 nimetatud ülesannetele andma rakendusüksusele hinnangu taotluses kirjeldatud projekti kohta enne taotluse rahuldamise otsuse muutmist või selle osaliselt või täielikult kehtetuks tunnistamist.
+
+(2) Rakendusasutusel on õigus nõuda rajatava erihoolekande taristu koormamist piiratud asjaõigusega või sellele märke seadmist kinnistusraamatusse toetuse eesmärgipärase kasutamise tagamiseks.
+
+(3) Sotsiaalkindlustusamet kontrollib rajatud erihoolekande taristu eesmärgipärast kasutamist 15 aasta jooksul pärast struktuuritoetuse seaduse § 24 punktis 14 sätestatud tähtaja lõppu veendumaks, et on tagatud käesoleva määruse § 20 lõikes 2 nimetatud kohustuse täitmine ning erihoolekande taristu võõrandamiseks ja tervikuna teisele isikule kasutada andmiseks on olemas rakendusasutuse nõusolek vastavalt käesoleva määruse § 20 lõikele 3.
+
+### § 23. Toetuse kasutamisega seotud aruannete, dokumentide ja teabe esitamine
+
+(1) Toetuse saaja esitab rakendusüksusele projekti vahearuande e-toetuse keskkonnas iga aasta 15. jaanuariks 31. detsembri seisuga.
+
+(2) Toetuse saaja esitab rakendusüksusele projekti lõpparuande e-toetuse keskkonnas 60 kalendripäeva jooksul alates toetuse taotluse rahuldamise otsuses määratud projekti abikõlblikkuse perioodi lõppkuupäevast, kuid kõige hiljem 17.01.2024.
+
+\[RT I, 26.05.2023, 1 - jõust. 29.05.2023\]
+
+(3) Kui projekti vahearuande esitamise tähtpäeva ja lõpparuande prognoositava esitamise vahe on vähem kui kuus kuud, esitatakse ainult projekti lõpparuanne.
+
+(4) Aruande kinnitamisel teavitab rakendusüksus rakendusasutust ning teeb aruande kättesaadavaks struktuuritoetuse registris.
+
+## 6. peatükk — Toetuse maksmine
+
+### § 24. Toetuse maksmine
+
+(1) Toetuse väljamaksete tegemisel lähtutakse struktuuritoetuse seaduse §-dest 28 ja 29, ühendmääruse §-dest 11–14 ja 18 ning käesolevas määruses ja taotluse rahuldamise otsuses sätestatud maksete tegemise tingimustest ja korrast.
+
+(2) Toetuse maksmise eelduseks on taotluse rahuldamise otsus vastavalt käesoleva määruse §-le 17 ja kulude abikõlblikkus vastavalt käesoleva määruse §-le 7.
+
+(3) Enne esimese maksetaotluse esitamist peab toetuse saaja esitama rakendusüksusele:
+
+1\) väljavõtte oma raamatupidamise sise-eeskirjast, milles on kirjeldatud, kuidas projekti kulusid ja nende tasumist eristatakse raamatupidamises muudest toetuse saaja kuludest;
+
+2\) toetuse saaja hangete korraldamise korra.
+
+(4) Toetuse saaja esitab maksetaotluse struktuuritoetuse registri kaudu vähemalt üks kord kvartalis.
+
+(5) Toetust makstakse ühendmääruse § 14 lõike 1 punktis 1 sätestatud tingimustel.
+
+(6) Kui toetuse saaja ei ole riigiasutus, makstakse toetus põhjendatud juhtudel välja ühendmääruse § 14 lõike 1 punkti 2 kohaselt, kui abikõlblik kulu on tekkinud ja see on toetuse saaja poolt omafinantseeringu ulatuses makstud, arvestades ühendmääruse § 14 lõigetes 2–5 sätestatut.
+
+(7) Põhjendatud juhtudel võib struktuuritoetuse seaduse § 29 lõike 5 alusel teha ettemakseid toetuse saajale, kes ei ole riigiasutus ühendmääruse §-s 18 sätestatud tingimustel.
+
+(8) Rakendusüksus kontrollib maksetaotluses esitatud kulude abikõlblikkust ja toetuse saaja kohustuste nõuetekohast täitmist hiljemalt 90 kalendripäeva või käesoleva paragrahvi lõikes 7 nimetatud tingimustel 15 kalendripäeva jooksul maksetaotluse laekumisest rakendusüksusele. Rakendusüksus kontrollib ettemakse kasutamise aruannet hiljemalt 90 kalendripäeva jooksul alates aruande laekumisest.
+
+(9) Toetus makstakse välja vastavalt taotluse rahuldamise otsuses nimetatud toetuse osakaalule abikõlblikest kuludest ja mitte rohkem kui on määratud toetuse piirsumma.
+
+(10) Rakendusüksus võib maksetaotluse ja ettemakse kasutamise aruande menetlemise osaliselt või täielikult peatada struktuuritoetuse seaduse § 30 lõikes 1 nimetatud alustel.
+
+(11) Kui toetuse maksetaotluse menetlemisel ilmneb maksetaotluses puudus, mida on võimalik määratud tähtaja jooksul kõrvalda, määrab rakendusüksus puuduse kõrvaldamiseks tähtaja vastavalt struktuuritoetuse seaduse § 30 lõikele 2.
+
+(12) Lõppmakse tehakse pärast projekti kulude abikõlblikkuse, tegevuste elluviimise ja maksumuse tõendamist ning lõpparuande kinnitamist. Lõppmakse suurus on vähemalt 5% projekti abikõlbliku kogumaksumuse toetuse summast. Rakendusüksusel on õigus põhjendatud juhtudel lõppmakse suurust vähendada.
+
+### § 25. Finantskorrektsioonid
+
+(1) Finantskorrektsiooni otsus tehakse ja toetus nõutakse tagasi vastavalt struktuuritoetuse seaduse §-des 45–47 ja ühendmääruse §-des 21–23 sätestatule.
+
+(2) Toetus makstakse tagasi vastavalt struktuuritoetuse seaduse §-s 48 sätestatule. Toetuse tagasimaksmist võib ajatada vastavalt ühendmääruse §-s 24 sätestatule.
+
+(3) Kui tagasimaksmise tähtpäevaks toetust tagasi ei maksta, peab toetuse saaja maksma viivist vastavalt struktuuritoetuse seaduse §-s 49 sätestatule.

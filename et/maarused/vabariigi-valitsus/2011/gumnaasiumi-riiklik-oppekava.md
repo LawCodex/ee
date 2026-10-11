@@ -1,0 +1,738 @@
+---
+title: "Gümnaasiumi riiklik õppekava"
+identifier: "123122025009"
+rt_reference: "RT I, 23.12.2025, 9"
+rt_original: "RT I, 14.01.2011, 2"
+group_id: "1000522"
+type: regulation
+issuer: "Vabariigi Valitsus"
+number: "2"
+text_type: "terviktekst"
+jurisdiction: ee
+language: et
+date: 2011-01-06
+last_amended: 2026-09-01
+status: in_force
+source: "https://www.riigiteataja.ee/akt/123122025009"
+retrieved: 2026-10-12
+---
+
+# Gümnaasiumi riiklik õppekava
+
+Määrus kehtestatakse põhikooli- ja gümnaasiumiseaduse § 15 lõike 2 ja § 100<sup>12</sup> lõigete 1 ja 4 alusel.
+
+\[RT I, 06.05.2020, 51 - jõust. 09.05.2020\]
+
+## 1. peatükk — Üldsätted
+
+### § 1. Määruse reguleerimisala ja ülesehitus
+
+(1) Gümnaasiumi riiklik õppekava kehtestab riigi üldkeskhariduse (edaspidi *gümnaasiumiharidus*) standardi. Gümnaasiumi lõpetamisel saavutatavad õpitulemused on kooskõlas Eesti kvalifikatsiooniraamistiku 4. tasemel kirjeldatud üldnõuetega.
+
+\[RT I, 20.09.2011, 1 - jõust. 23.09.2011\]
+
+(2) Gümnaasiumi riiklikku õppekava (edaspidi *riiklik õppekava*) rakendatakse kõigis Eesti Vabariigi gümnaasiumides olenemata kooli õiguslikust seisundist, kui seadus ei sätesta teisiti.
+
+(3) Riiklik õppekava koosneb üldosast ja lisadest. Lisades esitatakse ainevaldkondade kavad, ainevaldkondlike valikkursuste kavad, ainevaldkondade üleste valikkursuste kavad ning õppekava läbivate teemade kavad.
+
+\[RT I, 08.03.2023, 1 - jõust. 11.03.2023\]
+
+(4) Ainevaldkonna kavas kirjeldatakse ainevaldkonna rakendamise üldalused ning ainevaldkonda kuuluvate kohustuslike õppeainete õpitulemused üldjuhul kursuste kaupa.
+
+\[RT I, 08.03.2023, 1 - jõust. 11.03.2023\]
+
+(5) Ainevaldkonnad ja kohustuslikud õppeained on:
+
+1\) keel ja kirjandus: eesti keel (vene või muu keel klassis, kus kooli õppekava kohaselt toimub õpe osaliselt muus keeles ja eesti keelt õpitakse teise keelena), kirjandus, eesti keel teise keelena (lisa 1);
+
+2\) kehaline kasvatus: kehaline kasvatus (lisa 2);
+
+3\) kunstiained: muusika, kunst (lisa 3);
+
+4\) loodusained: bioloogia, geograafia, füüsika, keemia (lisa 4);
+
+5\) matemaatika: matemaatika (lisa 5);
+
+6\) sotsiaalained: ajalugu, ühiskonnaõpetus, inimeseõpetus (lisa 6);
+
+7\) võõrkeeled: B2-keeleoskustasemega võõrkeel, B1-keeleoskustasemega võõrkeel (lisa 7).
+
+\[RT I, 08.03.2023, 1 - jõust. 11.03.2023\]
+
+(6) Lisas 8 esitatakse ainevaldkondlikud valikkursused.
+
+\[RT I, 08.03.2023, 1 - jõust. 11.03.2023\]
+
+(7) Lisades 9–14 esitatakse järgmised valikõppeainete kavad:
+
+1\) informaatika (lisa 9);
+
+2\) karjääriõpetus (lisa 10);
+
+3\) majandus- ja ettevõtlusõpe (lisa 11);
+
+4\) riigikaitseõpetus (lisa 12), mida õpetatakse vaid riiklikus õppekavas esitatud ainekava järgi;
+
+5\) usundiõpetus (lisa 13), mida õpetatakse vaid riiklikus õppekavas esitatud ainekava järgi;
+
+6\) uurimistöö alused (lisa 14).
+
+\[RT I, 08.03.2023, 1 - jõust. 11.03.2023\]
+
+(8) Ainevaldkondade üleste valikkursuste kavad esitatakse lisas 15.
+
+\[RT I, 08.03.2023, 1 - jõust. 11.03.2023\]
+
+(9) Õppekava läbivate teemade eesmärgid, oodatavad tulemused ja käsitlemine esitatakse lisas 16.
+
+\[RT I, 08.03.2023, 1 - jõust. 11.03.2023\]
+
+## 2. peatükk — Üldosa
+
+### 1. jagu — Gümnaasiumihariduse alusväärtused
+
+#### § 2. Gümnaasiumihariduse alusväärtused
+
+(1) Gümnaasiumihariduses toetatakse võrdsel määral õpilase vaimset, füüsilist, kõlbelist, sotsiaalset ja emotsionaalset arengut ning tema individuaalsetest eripäradest ja isiklikest huvidest tulenevate haridusvajaduste rahuldamist. Gümnaasium loob igale õpilasele võimalused tema võimete maksimaalseks arenguks õpilase eelistusi arvestades, loovaks eneseteostuseks, teaduspõhise maailmapildi kinnistumiseks ning emotsionaalse, sotsiaalse ja kõlbelise küpsuse saavutamiseks.
+
+(2) Gümnaasium jätkab põhikoolis toimunud väärtuskasvatust, kujundades eelkõige väärtushoiakuid ja -hinnanguid, mis on isikliku õnneliku elu ja ühiskonna eduka koostoimimise aluseks. Tähtsustatakse väärtusi, mis aitavad kaasa ühiskonna inimvara ning riigi majanduse arengule.
+
+(3) Riiklikus õppekavas oluliseks peetud väärtused tulenevad „Eesti Vabariigi põhiseaduses”, ÜRO inimõiguste ülddeklaratsioonis, lapse õiguste konventsioonis ning Euroopa Liidu alusdokumentides nimetatud eetilistest põhimõtetest. Alusväärtustena tähtsustatakse üldinimlikke väärtusi (ausus, hoolivus, aukartus elu vastu, õiglus, inimväärikus, lugupidamine enda ja teiste vastu) ja ühiskondlikke väärtusi (vabadus, demokraatia, austus emakeele ja kultuuri vastu, patriotism, kultuuriline mitmekesisus, sallivus, keskkonna jätkusuutlikkus, õiguspõhisus, solidaarsus, vastutustundlikkus ja sooline võrdõiguslikkus).
+
+(4) Gümnaasiumiharidus on jätkuks põhiharidusele uue põlvkonna sotsialiseerumisel, mis rajaneb eesti kultuuri traditsioonidel, Euroopa ühisväärtustel ning maailma kultuuri ja teaduse saavutustel. Gümnaasiumihariduse omandanud vaimselt, sotsiaalselt, emotsionaalselt, kõlbeliselt ja füüsiliselt küpsed inimesed tagavad Eesti ühiskonna sotsiaalse, kultuurilise, majandusliku ja ökoloogilise arengu jätkusuutlikkuse.
+
+### 2. jagu — Õppe- ja kasvatuseesmärgid
+
+#### § 3. Gümnaasiumi sihiseade
+
+(1) Gümnaasiumil on nii hariv kui ka kasvatav ülesanne. Gümnaasiumi ülesanne on noore ettevalmistamine toimimiseks loova, mitmekülgse, sotsiaalselt küpse, usaldusväärse ning oma eesmärke teadvustava ja saavutada oskava isiksusena erinevates eluvaldkondades: partnerina isiklikus elus, oma kultuuri kandja ja edendajana, tööturul erinevates ametites ja rollides ning oma ühiskonna ja looduskeskkonna jätkusuutlikkuse eest vastutava kodanikuna.
+
+(2) Gümnaasiumis on õpetuse ja kasvatuse põhitaotlus, et õpilased leiaksid endale huvi- ja võimetekohase tegevusvaldkonna, millega siduda enda edasine haridustee. Gümnaasiumi ülesanne on luua tingimused, et õpilased omandaksid teadmised, oskused ja väärtushoiakud, mis võimaldavad jätkata tõrgeteta õpiteed kõrgkoolis või kutseõppeasutuses.
+
+\[RT I, 28.08.2013, 1 - jõust. 01.09.2013\]
+
+(3) Nende ülesannete täitmiseks ja eesmärkide saavutamiseks keskendutakse:
+
+1\) õpilaste iseseisvumisele, oma maailmapildi kujunemisele ja valmisolekule elus toime tulla;
+
+2\) adekvaatse enesehinnangu kujunemisele;
+
+3\) iseseisva õppimise ja koostööoskuste arendamisele;
+
+4\) edasise haridustee võimaluste tutvustamisele ja hindamisele;
+
+5\) kodanikuoskuste, -aktiivsuse ja -vastutuse väljakujunemisele.
+
+(4) Teadmiste, väärtushinnangute ja praktiliste oskuste omandamine ja arendamine toimub kogu kooli õppe- ja kasvatusprotsessi, kodu ja kooli koostöö ning õpilase vahetu elukeskkonna ühistoime tulemusena.
+
+(5) Eesti kool seisab eesti rahvuse, keele ja kultuuri säilimise ja arengu eest, seepärast pööratakse gümnaasiumi õpetuses ja kasvatuses erilist tähelepanu eesti keele õppele.
+
+#### § 4. Pädevused
+
+(1) Riikliku õppekava tähenduses on pädevus teadmiste, oskuste ja hoiakute kogum, mis tagab suutlikkuse teatud tegevusalal või -valdkonnas loovalt, ettevõtlikult, paindlikult ja tulemuslikult toimida ning on oluline inimeseks ja kodanikuks kujunemisel. Pädevused jagunevad üld- ja valdkonnapädevusteks.
+
+(2) Üldpädevused on aine- ja valdkonnaülesed pädevused. Üldpädevused kujunevad õppeainetes taotletavate õpitulemuste kaudu, aga ka läbivate teemade käsitlemise kaudu ainetundides, tunni- ja koolivälises tegevuses. Üldpädevuste kujunemist toetavad ja suunavad õpetajad omavahelises koostöös ning kooli, kodu ja kogukonna koostöös. Pädevuste kujundamist kirjeldatakse kooli õppekavas.
+
+(3) Õpilastes kujundatavad üldpädevused on:
+
+1\) kultuuri- ja väärtuspädevus – suutlikkus hinnata inimsuhteid ja tegevusi üldkehtivate moraalinormide ja eetika seisukohast; tajuda, analüüsida ja väärtustada oma seotust teiste inimestega, ühiskonnaga, loodusega, oma ja teiste maade ja rahvaste kultuuripärandiga ning nüüdiskultuuri sündmustega; väärtustada kunsti ja loomingut ning kujundada ilumeelt; hinnata üldinimlikke ja ühiskondlikke väärtusi, väärtustada inimlikku, kultuurilist ja looduslikku mitmekesisust; teadvustada oma väärtushinnanguid ja arvestada nendega otsuste langetamisel; olla salliv ja koostööaldis ning panustada ühiste eesmärkide saavutamisse;
+
+2\) sotsiaalne ja kodanikupädevus – suutlikkus ennast teostada; toimida aktiivse, teadliku, abivalmi ja vastutustundliku kodanikuna ning toetada ühiskonna demokraatlikku arengut ja Eesti riiklikku iseseisvust; teada ja järgida ühiskondlikke väärtusi ja kõlbluspõhimõtteid; austada erinevate keskkondade, sh suhtluskeskkondade reegleid ja ühiskondlikku mitmekesisust, inimõigusi, religioonide ja rahvuste omapära; teha koostööd teiste inimestega erinevates situatsioonides; aktsepteerida inimeste ja nende väärtushinnangute erinevusi ning arvestada neid suhtlemisel; suutlikkus mõista globaalprobleeme, võtta kaasvastutus nende lahendamise eest; väärtustada ja järgida jätkusuutliku arengu põhimõtteid; tunnetada end dialoogivõimelise ühiskonnaliikmena Eesti, Euroopa ja kogu maailma kontekstis;
+
+\[RT I, 08.03.2023, 1 - jõust. 11.03.2023\]
+
+3\) enesemääratluspädevus – suutlikkus mõista ja hinnata adekvaatselt oma nõrku ja tugevaid külgi, arvestada oma võimeid ja võimalusi; analüüsida oma käitumist erinevates olukordades; käituda ohutult ja järgida tervislikke eluviise; lahendada oma vaimse ja füüsilise tervisega seonduvaid probleeme; käituda inimsuhetes sõltumatult; hankida teavet edasiõppimise ja tööleidmise võimaluste kohta, kavandada oma karjääri;
+
+4\) õpipädevus – suutlikkus organiseerida õppekeskkonda individuaalselt ja rühmas ning hankida õppimiseks, hobideks, tervisekäitumiseks ja karjäärivalikuteks vajaminevat teavet; leida sobivad teabeallikad ja juhendajad ning kasutada õppimisel nende abi; planeerida õppimist ja seda plaani järgida; kasutada erinevaid õpistrateegiaid ja õpitut erinevates olukordades ja probleeme lahendades; seostada omandatud teadmisi varemõpituga; analüüsida oma teadmisi ja oskusi, motiveeritust ja enesekindlust ning selle põhjal edasiõppimise võimalusi;
+
+5\) suhtluspädevus – suutlikkus ennast selgelt, asjakohaselt ja viisakalt väljendada emakeeles ja iseseisva keelekasutaja tasemel vähemalt kahes võõrkeeles, arvestades olukordi ja mõistes suhtluspartnereid ning suhtlemise turvalisust; ennast esitleda, oma seisukohti esitada ja põhjendada; lugeda ning eristada ja mõista teabe- ja tarbetekste ning ilukirjandust; koostada eri liiki tekste, kasutades korrektset viitamist, kohaseid keelevahendeid ja sobivat stiili; väärtustada õigekeelsust, kasutada korrektset ja väljendusrikast keelt ning kokkuleppel põhinevat suhtlemisviisi;
+
+6\) matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus – suutlikkus kasutada matemaatikale ja loodusteadustele omast keelt, sümboleid, meetodeid ja mudeleid, lahendades erinevaid ülesandeid kõigis elu- ja tegevusvaldkondades; mõista loodusteaduste ja tehnoloogia tähtsust ning mõju igapäevaelule, loodusele ja ühiskonnale; mõista teaduse ja tehnoloogiaga seotud piiranguid ja riske; teha tõenduspõhiseid otsuseid erinevates eluvaldkondades; kasutada uusi tehnoloogiaid loovalt ja uuendusmeelselt;
+
+7\) ettevõtlikkuspädevus – suutlikkus ideid luua ja ellu viia, kasutades omandatud teadmisi ja oskusi erinevates elu- ja tegevusvaldkondades; näha probleeme ja neis peituvaid võimalusi, aidata kaasa probleemide lahendamisele; seada eesmärke, koostada lühi- ja pikaajalisi plaane, neid tutvustada ja ellu viia; korraldada ühistegevusi ja neist osa võtta, näidata algatusvõimet ja vastutada tulemuste eest; reageerida loovalt, uuendusmeelselt ja paindlikult muutustele ning võtta arukaid riske; mõelda kriitiliselt ja loovalt, arendada ja hinnata oma ja teiste ideid; rakendada finantskirjaoskust;
+
+\[RT I, 08.03.2023, 1 - jõust. 11.03.2023\]
+
+8\) digipädevus – suutlikkus kasutada uuenevat digitehnoloogiat toimetulekuks kiiresti muutuvas ühiskonnas nii õppimisel, kodanikuna tegutsedes kui kogukondades suheldes; leida ja säilitada digivahendite abil infot ning hinnata selle asjakohasust ja usaldusväärsust; osaleda digitaalses sisuloomes, sh tekstide, piltide, multimeediumide loomisel ja kasutamisel; kasutada probleemilahenduseks sobivaid digivahendeid ja võtteid, suhelda ja teha koostööd erinevates digikeskkondades; olla teadlik digikeskkonna ohtudest ning osata kaitsta oma privaatsust, isikuandmeid ja digitaalset identiteeti; järgida digikeskkonnas samu moraali- ja väärtuspõhimõtteid nagu igapäevaelus.
+
+(4) Lähedase eesmärgiseade ja õppesisuga õppeained moodustavad ainevaldkonna. Ainevaldkonnad on järgmised:
+
+1\) keel ja kirjandus;
+
+2\) kehaline kasvatus;
+
+3\) kunstiained;
+
+4\) loodusained;
+
+5\) matemaatika;
+
+6\) sotsiaalained;
+
+7\) võõrkeeled.
+
+\[RT I, 08.03.2023, 1 - jõust. 11.03.2023\]
+
+(5) Ainevaldkonna õppeainete õpetamise peamine eesmärk on vastava valdkonnapädevuse kujundamine. Valdkonnapädevuste kujunemist ning gümnaasiumi lõpuks taotletavate teadmiste, oskuste ja hoiakute saavutamist toetavad ainekavades esitatud õpitulemused, lõiming teiste ainevaldkondade õppeainetega ning tunni- ja kooliväline tegevus. Väärtushoiakute saavutatuse kohta antakse õpilasele kirjeldavat tagasisidet kooli määratud viisil.
+
+\[RT I, 08.03.2023, 1 - jõust. 11.03.2023\]
+
+#### § 5. Gümnaasiumis taotletavad pädevused
+
+\[Kehtetu - RT I, 29.08.2014, 18 - jõust. 01.09.2014\]
+
+### 3. jagu — Õppimise käsitus ja õppekeskkond
+
+#### § 6. Õppimise käsitus
+
+(1) Gümnaasiumi riiklikus õppekavas käsitatakse õppimist õpilase aktiivse ja sihipärase tegevusena, mis on suunatud tajutava informatsiooni mõtestamisele ja tõlgendamisele vastastikuses toimes teiste õpilaste, õpetajate, vanemate ja üldisema elukeskkonnaga, toetudes juba olemasolevatele teadmisstruktuuridele.
+
+(2) Õppimises on kesksel kohal õpilaste aktiivne teadmiste konstrueerimise protsess. Selleks tuleb gümnaasiumi õppe- ja kasvatustegevusega luua õppekeskkond, mis soodustab iseseisvat õppimist, sealhulgas vajalike õppimisoskuste kujunemist. Õppe- ja kasvatustegevuses tuleb õpilastel lasta seada oma sihid, õppida töötama nii iseseisvalt kui ka kollektiivselt ning anda õpilastele võimalus leida erinevaid töömeetodeid katsetades neile sobivaim õpistiil.
+
+#### § 7. Õppekeskkond
+
+(1) Õppekeskkonnana mõistetakse õpilasi ümbritseva vaimse, sotsiaalse ja füüsilise keskkonna kooslust, milles õpilased arenevad ja õpivad.
+
+(2) Gümnaasium korraldab õppe, mis kaitseb ning edendab õpilaste vaimset ja füüsilist tervist. Õppekoormus vastab õpilase jõuvarudele.
+
+(3) Sotsiaalse ja vaimse keskkonna kujundamisel osaleb kogu koolipere. Õppekeskkond toetab õpilase arenemist iseseisvaks ja aktiivseks õppijaks, kannab õppekava alusväärtusi ja oma kooli vaimsust ning säilitab ja arendab edasi paikkonna ja koolipere traditsioone.
+
+(4) Sotsiaalse ja vaimse keskkonna kujundamisel:
+
+1\) luuakse vastastikusel lugupidamisel ja üksteise seisukohtade arvestamisel põhinevad ning kokkuleppeid austavad suhted õpilaste, vanemate, õpetajate, kooli juhtkonna ning teiste õpetuse ja kasvatusega seotud osaliste vahel;
+
+2\) koheldakse kõiki õpilasi eelarvamusteta, õiglaselt ja võrdselt, austades nende eneseväärikust ning isikupära;
+
+\[RT I, 29.08.2014, 18 - jõust. 01.09.2014\]
+
+3\) jagatakse asjakohaselt ja selgelt otsustusõigus ja vastutus;
+
+4\) märgatakse ja tunnustatakse kõigi õpilaste pingutusi ja õpiedu; hoidutakse õpilaste sildistamisest ja nende eneseusu vähendamisest;
+
+5\) ennetatakse õpilastevahelist vägivalda ja kiusamist;
+
+6\) ollakse avatud vabale arvamusvahetusele, sealhulgas kriitikale;
+
+7\) luuakse õpilastele võimalusi näidata initsiatiivi, osaleda otsustamises ning tegutseda nii üksi kui ka koos kaaslastega;
+
+8\) luuakse õhkkond, mida iseloomustab abivalmidus ning üksteise toetamine õpi- ja eluraskuste puhul;
+
+9\) luuakse õhkkond, mis rajaneb inimeste usalduslikel suhetel, sõbralikkusel, tolerantsusel ja heatahtlikkusel;
+
+10\) korraldatakse koolielu inimõigusi ja demokraatiat austava ühiskonna mudelina, mida iseloomustavad kooliperes jagatud ja püsivad alusväärtused ning heade ideede ja positiivsete uuenduste toetamine;
+
+11\) korraldatakse koolielu, lähtudes rahvusliku, rassilise, soolise ja muudel alustel võrdse kohtlemise põhimõtetest ning soolise võrdõiguslikkuse eesmärkidest.
+
+\[RT I, 29.08.2014, 18 - jõust. 01.09.2014\]
+
+(5) Füüsilist keskkonda kujundades jälgib gümnaasium, et:
+
+1\) kasutatavate rajatiste ja ruumide sisustus ning kujundus on õppe seisukohast otstarbekas;
+
+2\) õppes on võimalik kasutada internetiühendusega arvutit ja esitlustehnikat ning õpilastel on võimalus kasutada raamatukogu;
+
+3\) kasutatavate rajatiste ja ruumide sisustus on turvaline ning vastab tervisekaitse- ja ohutusnõuetele;
+
+4\) ruumid, sisseseade ja õppevara on esteetilise väljanägemisega;
+
+5\) kasutatakse eakohast ning individuaalsele eripärale kohandatavat õppevara, sealhulgas nüüdisaegseid info- ja kommunikatsioonitehnoloogiatel põhinevaid õppematerjale ja -vahendeid;
+
+6\) on olemas kehalise tegevuse ning tervislike eluviiside edendamise võimalused nii koolitundides kui ka tunniväliselt.
+
+(6) Õpet võib korraldada ka väljaspool kooli ruume (sealhulgas kooliõues, looduses, muuseumides, arhiivides, keskkonnahariduskeskustes, ettevõtetes ja asutustes) ning virtuaalses õppekeskkonnas.
+
+### 4. jagu — Õppekorraldus
+
+#### § 8. Ainevaldkonnad ja õppeained
+
+\[Kehtetu - RT I, 08.03.2023, 1 - jõust. 11.03.2023\]
+
+#### § 9. Õppeainete kohustuslikud kursused
+
+\[Kehtetu - RT I, 08.03.2023, 1 - jõust. 11.03.2023\]
+
+#### § 10. Õppekava läbivad teemad
+
+\[RT I, 08.03.2023, 1 - jõust. 11.03.2023\]
+
+(1) Läbivad teemad on üld- ja valdkonnapädevuste, õppeainete ja ainevaldkondade lõimingu vahendiks ning neid arvestatakse koolikeskkonna kujundamisel. Läbivad teemad on aineülesed ja ühiskonnas tähtsustatud ning võimaldavad luua ettekujutuse ühiskonna kui terviku arengust, toetades õpilase suutlikkust oma teadmisi erinevates olukordades rakendada.
+
+(2) Läbivate teemade õpe realiseerub eelkõige:
+
+1\) õppekeskkonna korralduses – kooli vaimse, sotsiaalse ja füüsilise õppekeskkonna kujundamisel arvestatakse läbivate teemade sisu ja eesmärke;
+
+2\) aineõppes – läbivatest teemadest lähtudes tuuakse aineõppesse sobivad teemakäsitlused, näited ja meetodid, viiakse koos läbi aineteüleseid, klassidevahelisi ja ülekoolilisi projekte. Õppeainete roll läbiva teema õppes on lähtuvalt õppeaine taotlustest ja õppesisust erinev, olenevalt sellest, kui tihe on ainevaldkonna seos läbiva teemaga;
+
+3\) valikainete valikul – valikained toetavad läbivate teemade taotlusi;
+
+4\) läbivatest teemadest lähtuvas või õppeaineid lõimivas loovtöös – õpilased võivad läbivast teemast lähtuda selle loovtöö valikul, mida tehakse kas iseseisvalt või rühmatööna;
+
+5\) korraldades võimaluse korral koostöös kooli pidaja, paikkonna asutuste ja ettevõtete, teiste õppe- ja kultuuriasutuste ning kodanikuühendustega klassivälist õppetegevust ja huviringide tegevust ning osaledes maakondlikes, üle-eestilistes ja rahvusvahelistes projektides.
+
+(3) Kohustuslikud läbivad teemad on:
+
+1\) elukestev õpe ja karjääri kujundamine – taotletakse õpilase kujunemist isiksuseks, kes on valmis õppima kogu elu, täitma erinevaid rolle muutuvas õpi-, elu- ja töökeskkonnas ning kujundama oma elu teadlike otsuste kaudu, sealhulgas tegema sobivaid haridus- ja tööalaseid valikuid;
+
+\[RT I, 08.03.2023, 1 - jõust. 11.03.2023\]
+
+2\) keskkond ja jätkusuutlik areng – taotletakse õpilase kujunemist sotsiaalselt aktiivseks, vastutustundlikuks ja keskkonnateadlikuks inimeseks, kes hoiab ja kaitseb keskkonda ning väärtustades jätkusuutlikkust, on valmis leidma lahendusi keskkonna- ja inimarengu küsimustele;
+
+3\) kodanikualgatus ja ettevõtlikkus – taotletakse õpilase kujunemist aktiivseks ning vastutustundlikuks kogukonna- ja ühiskonnaliikmeks, kes mõistab ühiskonna toimimise põhimõtteid ja mehhanisme ning kodanikualgatuse tähtsust, tunneb end ühiskonnaliikmena ning toetub oma tegevuses riigi kultuurilistele traditsioonidele ja arengusuundadele;
+
+4\) kultuuriline identiteet – taotletakse õpilase kujunemist kultuuriteadlikuks inimeseks, kes mõistab kultuuri osa inimeste mõtte- ja käitumislaadi kujundajana ning kultuuride muutumist ajaloo vältel, kellel on ettekujutus kultuuride mitmekesisusest ja kultuuriga määratud elupraktikate eripärast ning kes väärtustab omakultuuri ja kultuurilist mitmekesisust ning on kultuuriliselt salliv ja koostööaldis;
+
+5\) teabekeskkond ja meediakasutus – taotletakse õpilase kujunemist teadlikuks ja analüüsivaks inimeseks, kes tajub ja teadvustab adekvaatselt ümbritsevat teabekeskkonda, suudab meediamaailma sisu ja allikaid kriitiliselt analüüsida ja kasutada, austab intellektuaalset omandit, oskab luua kvaliteetset meediasisu, arvestades oma eesmärke ja ühiskonnas omaksvõetud suhtlemise norme, ning toimib turvaliselt ja vastutab oma käitumise eest end ümbritsevas teabekeskkonnas;
+
+\[RT I, 08.03.2023, 1 - jõust. 11.03.2023\]
+
+6\) tehnoloogia ja innovatsioon – taotletakse õpilase kujunemist uuendusaltiks ja nüüdisaegseid tehnoloogiaid eesmärgipäraselt kasutada oskavaks inimeseks, kes tuleb toime kiiresti muutuvas tehnoloogilises elu-, õpi- ja töökeskkonnas;
+
+7\) tervis ja ohutus – taotletakse õpilase kujunemist vaimselt, emotsionaalselt, sotsiaalselt ja füüsiliselt terveks ühiskonnaliikmeks, kes on võimeline järgima tervislikku eluviisi, käituma turvaliselt ning osalema tervist edendava keskkonna kujundamises;
+
+8\) väärtused ja kõlblus – taotletakse õpilase kujunemist kõlbeliselt arenenud inimeseks, kes tunneb ühiskonnas üldtunnustatud väärtusi ja kõlbluspõhimõtteid, järgib neid koolis ja väljaspool kooli, ei jää ükskõikseks, kui neid eiratakse, ning sekkub vajaduse korral oma võimaluste piires.
+
+(4) Õppekava läbivate teemade kirjeldused on esitatud lisas 16.
+
+\[RT I, 08.03.2023, 1 - jõust. 11.03.2023\]
+
+#### § 11. Õppekorralduse alused
+
+(1) Õpilase õppekoormus gümnaasiumis on 96 (mittestatsionaarse õppe vormis 72) kursust (1 kursus on 35 õppetundi või 1,5 arvestuspunkti). Õppekoormust võib suurendada kooli õppekavas kehtestatud korras, võttes arvesse õpilase soove ja arenguvajadusi.
+
+\[RT I, 25.06.2025, 1 - jõust. 01.09.2025\]
+
+(2) Õpilase õppekoormuse moodustavad valdkonnakavades kirjeldatud kohustuslikud kursused ja kooli õppekavaga pakutavad valikkursused. Õppekoormuse hulka kuuluvad ainevaldkonnakavades kirjeldatud kohustuslikud kursused järgmises mahus:
+
+1\) keel ja kirjandus: 11 kursust või 14 kuni 20 kursust klassis, kus kooli õppekava kohaselt toimub õpe osaliselt muus keeles ja/või eesti keelt õpitakse teise keelena;
+
+2\) kehaline kasvatus: 5 kursust;
+
+3\) kunstid: 5 kursust;
+
+4\) loodusained: 15 kursust;
+
+5\) matemaatika: 8 kursust (kitsas matemaatika) või 14 kursust (lai matemaatika);
+
+6\) sotsiaalained: 9 kursust;
+
+7\) võõrkeeled: 10 kursust.
+
+(3) Koolis või klassis, kus õpe toimub osaliselt, kuid mitte rohkem kui 40% ulatuses muus keeles, tagab kool oma õppekavaga eesti kirjanduse, Eesti ajaloo, ühiskonnaõpetuse, muusika ja geograafia õpetamise eesti keeles, seejuures võõrkeeleõpe arvestatakse muus keeles korraldatava õppe osaks.
+
+(4) Õpilase õppekoormusesse kuuluvad kohustuslikud kursused kõigis lõikes 2 nimetatud ainevaldkondades, arvestades võimalust valida kitsa ja laia matemaatika vahel ning erisusi juhul, kui kooli õppekava kohaselt õpitakse eesti keelt teise keelena. Õpilane, kes õpib eesti keelt teise keelena, ei pea õppima B1-keeleoskustasemega võõrkeelt.
+
+\[RT I, 25.06.2025, 1 - jõust. 01.09.2025\]
+
+(5) Õpilase kohustusliku õppekoormuse hulka arvatakse valikõppeaine riigikaitseõpetuse käesoleva määruse lisas 12 nimetatud valikkursus „Riigikaitse” ning valikkursusena õpilasuurimus või praktiline töö, mille maht sätestatakse kooli õppekavas, kusjuures see ei tohi olla vähem kui 35 õppetundi või 1,5 arvestuspunkti.
+
+\[RT I, 25.06.2025, 1 - jõust. 01.09.2025\]
+
+(6) Gümnaasium võimaldab õpilastele valikkursusi kõigis § 1 lõikes 5 loetletud ainevaldkondades ja § 1 lõikes 7 loetletud valikõppeainetes. Matemaatika ainevaldkonnas ei ole kohustust valikkursusi pakkuda, kui gümnaasium võimaldab laia matemaatika õpet 14 kursuse ulatuses.
+
+(7) Gümnaasium võimaldab lisaks lõikes 6 nimetatule ka valikkursusi, mis arvestavad kooli omapära ja piirkondlikku eripära. Nimetatud valikkursuste hulgas võivad olla nii riiklikus õppekavas kirjeldatud valikkursused kui ka kooli õppekavast tulenevad valikkursused. Nende valikkursuste õpe tuleb korraldada vähemalt 12 soovija olemasolul.
+
+(7<sup>1</sup>) Õpilase mitteformaalõppes või mõnes teises haridusasutuses läbitud õppe formaalõppe osana arvestamise eesmärk on toetada elukestva õppe põhimõtete rakendumist ning pakkuda igale õpilasele õpimotivatsiooni toetavaid valikuterohkeid ja kättesaadavaid õpivõimalusi, mis tagavad õpilasele sujuva liikumise haridustasemete ja -liikide vahel.
+
+\[RT I, 25.06.2025, 1 - jõust. 01.09.2025\]
+
+(7<sup>2</sup>) Kool arvestab õpilase või piiratud teovõimega õpilase puhul seadusliku esindaja taotluse alusel õpilase õppimist mitteformaalõppes või mõnes teises haridusasutuses koolis õpetatava osana, tingimusel, et see võimaldab õpilasel saavutada kooli või individuaalse õppekavaga määratud õpitulemusi.
+
+\[RT I, 25.06.2025, 1 - jõust. 01.09.2025\]
+
+(7<sup>3</sup>) Õpilase mitteformaalõppes või mõnes teises haridusasutuses läbitud õppe arvestamise alused kirjeldatakse kooli õppekava üldosas.
+
+\[RT I, 25.06.2025, 1 - jõust. 01.09.2025\]
+
+(8) Õpetuse ja kasvatuse korraldus määratakse kooli õppekavas. Gümnaasium võib õppetööd kavandada ja läbi viia koostöös teiste koolide ja organisatsioonidega, sealhulgas kasutades Eesti ja rahvusvahelisi võrgustikke ning infotehnoloogilisi lahendusi.
+
+(9) Lõimitud aine- ja keeleõppe kasutamiseks, kutseõppe läbiviimiseks ja piirkondliku eripära või kooli omapära arvestamiseks võib siduda õppeaine kursusi omavahel (sealhulgas kohustuslikke ja valikkursusi), rakendada õppemahu arvestamise alusena arvestuspunkte, samuti võib kooli hoolekogu nõusolekul muuta riikliku õppekava kohustuslike õppeainete ja läbivate teemade nimistut ning tunnijaotusplaani. Mõlemal juhul tuleb tagada riikliku õppekava õpitulemuste saavutamine. Kooli õppekavas kirjeldatakse seoseid riikliku õppekava nõuetega.
+
+\[RT I, 25.06.2025, 1 - jõust. 01.09.2025\]
+
+(10) Muusika ja tantsu kutsealase koolitusega gümnaasiumis võib kooli hoolekogu nõusolekul õpetada erialaõppe kursuseid kunstiainete ja kehalise kasvatuse ainevaldkondadesse kuuluvate kursuste asemel, taotlemata nendes ainevaldkondades riikliku õppekavaga määratud õpitulemuste saavutamist.
+
+(11) Ühe asutusena tegutsevas põhikoolis ja gümnaasiumis, kus toimub üksnes mittestatsionaarne õpe, võivad õppekavad olla koostatud, arvestamata lõigetes 5–7 esitatud nõudeid valikkursuste mahtudele.
+
+\[RT I, 25.06.2025, 1 - jõust. 01.09.2025\]
+
+(12) Kool korraldab õpilastele süsteemse ja kvaliteetse karjääriõppe, -info ja -nõustamise (edaspidi *karjääriteenused*) kättesaadavuse, sealhulgas korraldades koolisisest meeskonnatööd karjääriteenuste lõimimiseks õppetöösse ning karjääriõppe kavandamiseks ja elluviimiseks ja koostööd väliste partneritega, kogudes ja analüüsides sisemiste ja väliste osaliste tagasisidet karjääriteenuste arendamiseks.
+
+\[RT I, 25.06.2025, 1 - jõust. 01.09.2026\]
+
+#### § 12. Õpilase teavitamine ja nõustamine
+
+(1) Gümnaasium tagab õpilasele võimaluse saada õppekorralduse kohta infot ja nõuandeid.
+
+(2) Gümnaasium korraldab õpilaste teavitamist edasiõppimisvõimalustest ja tööturu üldistest suundumustest ning tagab karjääriteenuste kättesaadavuse ja süsteemse, vajaduspõhise korralduse.
+
+\[RT I, 25.06.2025, 1 - jõust. 01.09.2025\]
+
+#### § 13. Õpilaste täiendav juhendamine ning teadmiste ja oskuste omandamise toetamine
+
+\[RT I, 23.12.2025, 1 - jõust. 26.12.2025\]
+
+(1) Gümnaasium korraldab andekate õpilaste juhendamist.
+
+(2) Kool võib õpilase individuaalse arengu toetamiseks arvestada kokkuleppel õpilase või piiratud teovõimega õpilase puhul vanemaga tema õpi- või töökogemust ning teha muudatusi või kohandusi õppesisus, õppekorralduses ja õppekeskkonnas. Kui muudatuste või kohandustega kaasneb nädalakoormuse või õppe intensiivsuse oluline kasv või kahanemine võrreldes riikliku või kooli õppekavaga, tuleb muudatuste rakendamiseks koostada individuaalne õppekava.
+
+\[RT I, 25.06.2025, 1 - jõust. 01.09.2025\]
+
+(2<sup>1</sup>) Kool osutab täiendavat tuge teadmiste ja oskuste omandamiseks õpilastele, kes lõpetasid põhikooli õppekava kõiki õpitulemusi omandamata. Täiendav tugi teadmiste ja oskuste omandamiseks võib seisneda õppeaine tasandava kursuse pakkumises, ainealaste konsultatsioonide korraldamises või ka konkreetses õppeaines individuaalse õppekava koostamises.
+
+\[RT I, 23.12.2025, 1 - jõust. 26.12.2025\]
+
+(3) Kui haridusliku erivajadusega õpilasele koostatud individuaalse õppekavaga nähakse ette riiklikus õppekavas sätestatud õpitulemuste vähendamine või asendamine või kohustusliku õppeaine õppimisest vabastamine, võib individuaalset õppekava rakendada koolivälise nõustamismeeskonna soovitusel.
+
+\[RT I, 14.02.2018, 1 - jõust. 17.02.2018\]
+
+(4) Tervislikel põhjustel koduõppel olevale õpilasele koostatakse individuaalne õppekava ning tema õppekoormust võib vähendada kuni kaheksa kursuse võrra iga arvestusliku koduõppel viibitud õppeaasta kohta.
+
+#### § 14. Mittestatsionaarses õppes kohaldatavad erisused
+
+(1) Mittestatsionaarne õpe on täiskasvanud õppijatele suunatud õpe, kus õppetundide kõrval on võrreldes statsionaarse õppega suurem osakaal iseseisval õppimisel. Sellest tulenevalt võib ühe kursuse läbimiseks kasutada juhendatud õppetööd vähem kui 35 õppetundi. Tunnijaotusplaan määratakse kooli õppekavas või individuaalses õppekavas, kusjuures see ei pea arvestama §-des 9 ja 11 tunnijaotusplaanile sätestatud nõudeid, kuid see peab võimaldama saavutada õpitulemused vähemalt käesolevas määruses sätestatud kohustuslikes kursustes ja kokku vähemalt 72 kursuses.
+
+(2) Mittestatsionaarses õppes ei kuulu kehaline kasvatus kohustuslike õppeainete hulka.
+
+### 5. jagu — Hindamine ja gümnaasiumi lõpetamine
+
+#### § 15. Hindamine
+
+(1) Hindamise eesmärk on:
+
+1\) toetada õpilase arengut;
+
+2\) anda tagasisidet õpilase õppeedukuse kohta;
+
+3\) innustada ja suunata õpilast sihikindlalt õppima;
+
+4\) suunata õpilase enesehinnangu kujunemist, suunata ja toetada õpilast edasise haridustee valikul;
+
+5\) suunata õpetaja tegevust õpilase õppimise ja individuaalse arengu toetamisel;
+
+6\) anda alus õpilase järgmisse klassi üleviimiseks ning kooli lõpetamise otsuse tegemiseks.
+
+(2) Hindamine on süstemaatiline teabe kogumine õpilase arengu kohta, selle teabe analüüsimine ja tagasiside andmine. Hindamine on aluseks õppe edasisele kavandamisele. Hindamisel kasutatakse mitmesuguseid meetodeid, hindamisvahendeid ja -viise. Hindamine on õpetamise ja õppimise lahutamatu osa.
+
+(3) Õpilasel on õigus saada teavet hindamise korralduse ning saadud hinnete ja hinnangute kohta. Õpilasel on õigus teada, milline hinne või hinnang on aluseks kokkuvõtvatele hinnetele. Hindamise korraldus ning õpilaste ja vanemate hinnetest ja hinnangutest teavitamise kord sätestatakse kooli kodukorras ning hinnete ja hinnangute vaidlustamise kord määratakse kooli õppekavas.
+
+(4) Nõuded õpilase käitumisele esitatakse gümnaasiumi kodukorras.
+
+#### § 16. Kujundav hindamine
+
+(1) Kujundava hindamisena mõistetakse õppe kestel toimuvat hindamist, mille käigus analüüsitakse õpilase teadmisi, oskusi, hoiakuid, väärtushinnanguid ja käitumist, antakse tagasisidet õpilase seniste tulemuste ning vajakajäämiste kohta, innustatakse ja suunatakse õpilast edasisel õppimisel ning kavandatakse edasise õppimise eesmärgid ja teed. Kujundav hindamine keskendub eelkõige õpilase arengu võrdlemisele tema varasemate saavutustega. Tagasiside kirjeldab õigel ajal ja võimalikult täpselt õpilase tugevaid külgi ja vajakajäämisi ning sisaldab ettepanekuid edaspidisteks tegevusteks, mis toetavad õpilase arengut.
+
+(2) Õppetunni vältel saab õpilane enamasti suulist või kirjalikku sõnalist tagasisidet õppeaine õpitulemuste saavutamise, üldpädevuste arengu, gümnaasiumi lõpuks taotletavate teadmiste, oskuste ja hoiakute ning läbivate teemade õppe kohta. Kogu õppepäeva vältel annavad õpetajad ja teised õppe- ja kasvatusalal töötavad isikud õpilasele tagasisidet, et toetada õpilase käitumise, hoiakute ja väärtushinnangute kujunemist. Kool reageerib juhtumitele, mis on vastuolus üldtunnustatud väärtuste ning heade tavadega.
+
+\[RT I, 08.03.2023, 1 - jõust. 11.03.2023\]
+
+(3) Õpilane kaasatakse enese ja kaaslaste hindamisse, et arendada tema oskust eesmärke seada ning oma õppimist ja käitumist eesmärkide alusel analüüsida ning tõsta õpimotivatsiooni.
+
+(4) Kujundava hindamise ühe vahendina võib kasutada õpimappi. Õpimapp õppimise päevikuna sisaldab nii õppetöid kui ka tööde analüüsi ja tagasisidet. Õpimappe võib koostada aine- ja valdkonnapõhiselt, läbivate teemade või üldpädevuste kohta.
+
+#### § 17. Teadmiste ja oskuste hindamine kui kokkuvõtvate hinnete alus
+
+(1) Õpilase teadmisi ja oskusi võrreldakse õpilase õppe aluseks olevas õppekavas toodud oodatavate tulemustega. Ainealaseid teadmisi ja oskusi võib hinnata nii õppe käigus kui ka õppeteema lõppedes. Ainealaste teadmiste ja oskuste hindamise tulemusi võib väljendada kas numbriliste hinnetega viie palli süsteemis või koolisisesele hindamissüsteemile vastavate numbriliste hinnetega.
+
+(2) Hindamisel viie palli süsteemis:
+
+1\) hindega „5” ehk „väga hea” hinnatakse vaadeldava perioodi või vaadeldava temaatika õpitulemuste saavutatust, kui saavutatud õpitulemused vastavad õpilase õppe aluseks olevatele taotletavatele õpitulemustele täiel määral ja ületavad neid;
+
+2\) hindega „4” ehk „hea” hinnatakse vaadeldava perioodi või vaadeldava temaatika õpitulemuste saavutatust, kui saavutatud õpitulemused vastavad üldiselt õpilase õppe aluseks olevatele taotletavatele õpitulemustele;
+
+3\) hindega „3” ehk „rahuldav” hinnatakse vaadeldava perioodi või vaadeldava temaatika õpitulemuste saavutatust, kui saavutatud õpitulemused vastavad üldiselt õpilase õppe aluseks olevatele taotletavatele õpitulemustele, kuid esineb puudusi ja vigu;
+
+4\) hindega „2” ehk „puudulik” hinnatakse vaadeldava perioodi või vaadeldava temaatika õpitulemuste saavutatust, kui saavutatud õpitulemustes esineb olulisi puudusi;
+
+5\) hindega „1” ehk „nõrk” hinnatakse vaadeldava perioodi või vaadeldava temaatika õpitulemuste saavutatust, kui saavutatud õpitulemustes esineb olulisi puudusi ja areng puudub.
+
+(3) Viie palli süsteemis hinnatavate kirjalike tööde koostamisel ja hindamisel lähtutakse põhimõttest, et kui kasutatakse punktiarvestust ja õpetaja ei ole andnud teada teisiti, koostatakse tööd nii, et hindega „5” hinnatakse õpilast, kes on saavutanud 90–100% maksimaalsest võimalikust punktide arvust, hindega „4” 75–89%, hindega „3” 50–74%, hindega „2” 20–49% ning hindega „1” 0–19%.
+
+(4) Kui hindamisel tuvastatakse kõrvalise abi kasutamine või mahakirjutamine, võib vastavat kirjalikku või praktilist tööd, suulist vastust (esitust), praktilist tegevust või selle tulemust hinnata hindega „nõrk”, kui see on ette nähtud kooli õppekavas.
+
+(5) Kui kirjalikku või praktilist tööd, suulist vastust (esitust), praktilist tegevust või selle tulemust on hinnatud hindega „puudulik” või „nõrk” või on hinne jäänud panemata, antakse õpilasele võimalus järelevastamiseks või järeltöö sooritamiseks. Järelevastamise ja järeltööde sooritamise kord sätestatakse kooli õppekavas.
+
+#### § 18. Kokkuvõtvad hinded ja gümnaasiumi lõpetamine
+
+(1) Õpilase õpitulemusi õppeaines hinnatakse kokkuvõtvalt üldjuhul kursusehinnetega viie palli süsteemis ning kursusehinnete alusel kooliastmehinnetega viie palli süsteemis. Kool võib viie palli süsteemi asemel kasutada teistsugust hindesüsteemi. Kasutatav hindesüsteem ja hinnete viie palli süsteemi teisendamise põhimõtted sätestatakse kooli õppekavas. Õpilase koolist lahkumisel teisendatakse kokkuvõtvad hinded ning käimasolevate kursuste jooksul saadud hinded viie palli süsteemi. Kool võib valikkursuste hindamisel kasutada hinnanguid „arvestatud” ja „mittearvestatud”, neid hinnanguid ei teisendata viie palli süsteemi.
+
+\[RT I, 20.09.2011, 1 - jõust. 23.09.2011\]
+
+(2) Kokkuvõtva hindamisena mõistetakse ka teadmiste ja oskuste tõendamist juhul, kui kool arvestab vastavalt § 11 lõikele 7<sup>2</sup> õpilase õppimist mitteformaalõppes või mõnes muus haridusasutuses koolis õpetatava osana. Mitteformaalõppes või mõnes teises haridusasutuses omandatud õpitulemuste hindamisel lähtutakse kooli õppekavas kirjeldatud hindamise alustest ja konkreetse õppeaine või kursuse hindamise erisustest.
+
+\[RT I, 25.06.2025, 1 - jõust. 01.09.2025\]
+
+(3) Gümnaasiumi lõputunnistuse annab gümnaasium õpilasele:
+
+1\) kelle kooliastmehinded on vähemalt rahuldavad või valikkursuste puhul rahuldavad või arvestatud;
+
+2\) kes on sooritanud õppeaine kohustuslikule mahule vastavad eesti keele või lõikes 4 sätestatud tingimustel eesti keele teise keelena, matemaatika ja võõrkeele riigieksamid;
+
+\[RT I, 08.03.2023, 1 - jõust. 11.03.2023\]
+
+3\) kes on sooritanud vähemalt rahuldavale tulemusele gümnaasiumi koolieksami;
+
+\[RT I, 28.08.2013, 1 - jõust. 01.09.2013\]
+
+4\) kes on sooritanud gümnaasiumi jooksul õpilasuurimuse või praktilise töö, välja arvatud kooli lõpetamisel eksternina.
+
+(4) Õpilane, kes on gümnaasiumis õppinud eesti keelt teise keelena, peab sooritama eesti keele või eesti keele teise keelena riigieksami.
+
+\[RT I, 25.06.2025, 1 - jõust. 01.09.2025\]
+
+(5) Gümnaasiumi lõpetanuks loetakse ekstern, kes on sooritanud lõikes 3 nimetatud eksamid ning aineeksamid nendes kursustes, milles tal puuduvad kursuste hinded või milles ta ei ole tõendanud teadmisi ja oskusi varasema õpi- ja töökogemuse arvestamise kaudu. Eksterni ei hinnata kehalises kasvatuses. Koolid, kus rakendatakse mittestatsionaarset õppevormi, on kohustatud looma võimaluse kooli lõpetamiseks eksternina isikule, kes on esitanud koolile sellekohase kirjaliku taotluse hiljemalt jooksva õppeaasta 1. novembriks. Kooli lõpetamisel eksternina võimaldatakse lõpetajale kooli poolt juhendatud õppetegevust kokku vähemalt 15 arvestusliku õppetunni ulatuses. Muus osas toimub õppimine iseseisvalt.
+
+(6) Haridusliku erivajadusega õpilasele, kellel käesolevas määruses sätestatud tingimustel kooli õppekavaga või koolivälise nõustamismeeskonna soovitusel individuaalse õppekavaga on vähendatud või asendatud käesolevas määruses sätestatud taotletavaid õpitulemusi, on lõpetamise aluseks kooli või individuaalses õppekavas määratud õpitulemuste saavutatus.
+
+\[RT I, 14.02.2018, 1 - jõust. 17.02.2018\]
+
+### 6. jagu — Kooli õppekava
+
+#### § 19. Kooli õppekava koostamise alused ja ülesehitus
+
+(1) Riikliku õppekava alusel koostab gümnaasium kooli õppekava. Kooli õppekava on gümnaasiumi õppe- ja kasvatustegevuse alusdokument, milles kirjeldatakse õppe rõhuasetused ja tegevused õppekava täitmiseks.
+
+(2) Kooli õppekava koostades peetakse silmas kooli ja paikkonna eripära, kooli töötajate, lastevanemate ja õpilaste soove ning kasutatavaid vaimseid ja materiaalseid ressursse.
+
+(3) Kooli õppekava koostamises osalevad kõik koolis õppe- ja kasvatusalal töötavad isikud ning vajaduse korral teised koolitöötajad. Kool kaasab õppekava koostamisse õpilasi, lapsevanemaid ja teiste huvigruppide esindajaid. Kooli õppekava koostamise ja arendamise demokraatliku korralduse eest vastutab direktor.
+
+(4) Kooli õppekava kehtestab direktor. Kooli õppekava ja selle muudatused esitatakse enne kehtestamist arvamuse avaldamiseks kooli hoolekogule, õpilasesindusele ja õppenõukogule.
+
+(5) Kooli õppekava koosneb üldosast ning ainevaldkonniti või lõimituna koondatud kohustuslike kursuste kavadest, valikõppeainete kavadest ja valikkursuste kavadest. Valikkursuste kavad võib kool esitada eraldi või ainevaldkonnakavades.
+
+\[RT I, 08.03.2023, 1 - jõust. 11.03.2023\]
+
+(6) Kooli õppekava üldosas esitatakse:
+
+1\) kooli õppekava aluseks olevad väärtused ja kooli eripära ning kooli õppe- ja kasvatuseesmärgid;
+
+2\) õppekorraldus, sealhulgas vähemalt kohustuslike kursuste ja kooli pakutavate valikkursuste ning valikõppeainete kirjeldused, õppesuundade kirjeldused nende olemasolul, õpilase õppekoormuse kujundamise põhimõtted, sealhulgas mitteformaalõppes või mõnes teises haridusasutuses omandatud õpitulemuste arvestamise kord, hariduslike erivajadustega õpilaste õppe korraldus, õpilasuurimuse või praktilise töö korraldus, erinevate õppekeelte kasutamine;
+
+\[RT I, 25.06.2025, 1 - jõust. 01.09.2025\]
+
+3\) üldpädevuste kujundamise ja õppekava läbivate teemade käsitlemise põhimõtted, õppeainete- ja ainevaldkondade vahelise lõimingu põhimõtted ning õppekeskkonna mitmekesistamiseks kavandatud tegevused;
+
+\[RT I, 08.03.2023, 1 - jõust. 11.03.2023\]
+
+4\) hindamise ja gümnaasiumi lõpetamise korraldus;
+
+5\) õpilaste teavitamise ja nõustamise korraldamine ning karjääriteenuste korraldamine, sealhulgas hariduslike erivajadustega õpilastele, ning karjääriteenuste seire;
+
+\[RT I, 25.06.2025, 1 - jõust. 01.09.2026\]
+
+6\) õpetajate koostöö ja töö planeerimise põhimõtted;
+
+7\) kooli õppekava uuendamise ja täiendamise kord.
+
+\[RT I, 29.08.2014, 18 - jõust. 01.09.2014\]
+
+(7) Ainevaldkonnakava on tervikdokument, mille koostamisel lähtutakse määruse lisades kirjeldatud ainevaldkonnakavade ülesehitusest ning kooli õppekava üldosas kirjeldatud kooli ja paikkonna eripärast. Üldpädevuste arengu toetamine, läbivate teemade käsitlemine ja õppeainete teiste õppeainetega lõimingu viisid esitatakse kõigi valdkonda kuuluvate õppeainete kohta tervikuna. Ainekavade koostamisel lähtutakse riikliku õppekava lisades esitatud ainekavade ülesehitusest. Õpitulemused ja nende saavutamist toetav õppesisu, sealhulgas praktilised tööd ja kodukohaga seotud näited esitatakse kursuste kaupa või lõimituna. Valikõppeainete ja valikkursuste kavades esitatakse õppeaine või kursuse kirjeldus, õpitulemused ja nende saavutamist toetav õppesisu.
+
+\[RT I, 25.06.2025, 1 - jõust. 01.09.2026\]
+
+## 3. peatükk — Rakendussätted
+
+### § 20. Õppe- ja kasvatustegevuse ja õppekeskkonna vastavusse viimine
+
+(1) Kool viib õppe- ja kasvatustegevuse ja kooli õppekava käesoleva määrusega kooskõlla hiljemalt 1. septembriks 2013. a.
+
+(2) Õppekeskkond viiakse käesolevas määruses füüsilisele keskkonnale sätestatud nõuetega vastavusse hiljemalt 1. septembriks 2013. a.
+
+(3) Kuni käesoleva määrusega kooskõlla viimiseni peab kooli õppe- ja kasvatustegevus ja õppekava vastama enne käesoleva määruse jõustumist kehtinud Vabariigi Valitsuse 25. jaanuari 2002. a määrusele nr 56 „Põhikooli ja gümnaasiumi riiklik õppekava” (RT I 2002, 20, 116; 2007, 61, 392).
+
+(4) 2010/2011. õppeaastal on koolid, kus rakendatakse mittestatsionaarset õppevormi, kohustatud looma võimaluse kooli lõpetamiseks eksternina isikule, kes on esitanud koolile sellekohase kirjaliku taotluse hiljemalt jooksva õppeaasta 20. jaanuariks.
+
+(5) Paragrahvi 11 lõiget 3<sup>1</sup> rakendatakse õpilasuurimuste ja praktiliste tööde osas, mille sooritamine on tulenevalt „Põhikooli- ja gümnaasiumiseaduse“ § 31 lõike 6 punktist 3 gümnaasiumi lõpetamise tingimuseks alates 1. septembrist 2013. a.
+
+\[RT I, 20.09.2011, 1 - jõust. 23.09.2011\]
+
+(6) Kooli õppekava viiakse käesoleva määruse §-dega 4 ja 19 ning määruse lisadega kooskõlla hiljemalt 1. septembriks 2015. a. Nimetatud sätetega kooskõlla viimiseni peab kooli õppekava vastama kuni 1. septembrini 2014. a kehtinud gümnaasiumi riikliku õppekava §-de 4 ja 19 ning määruse lisade sõnastusele.
+
+\[RT I, 29.08.2014, 18 - jõust. 01.09.2014\]
+
+(7) Kooli õppekava ja õppekorraldus viiakse § 1 lõigetega 3–9, § 4 lõike 3 punktiga 7 ja lõikega 5, § 10 lõike 3 punktidega 1 ja 5 ning lõikega 4, § 11 lõigetega 1–4 ja 6–11, § 12 lõikega 2, § 16 lõikega 2, § 19 lõikega 5 ja lõike 6 punktidega 2 ja 3, lõikega 7 ning määruse lisadega kooskõlla hiljemalt 1. septembriks 2024. a.
+
+\[RT I, 08.03.2023, 1 - jõust. 11.03.2023\]
+
+### § 21. Määruse § 11 lõike 2 rakendamine
+
+(1) Munitsipaalkoolides, kus 1. septembri 2010. a seisuga oli õppekeeleks eesti keelest erinev keel ning Vabariigi Valitsus ei ole „Põhikooli- ja gümnaasiumiseaduse“ alusel andnud luba eesti keelest erineva õppekeele kasutamiseks, rakendatakse § 11 lõiget 2 õpilaste suhtes, kes alustavad gümnaasiumiõpinguid 2011/2012. õppeaastal või hiljem ning kogu gümnaasiumi ulatuses viiakse õpe nendes koolides § 11 lõikega 2 kooskõlla hiljemalt 1. septembriks 2013. a.
+
+(2) Kuni kogu gümnaasiumi ulatuses õppe § 11 lõikega 2 kooskõlla viimiseni võib käesoleva paragrahvi lõikes 1 nimetatud koolis enne 2011/2012. õppeaastat õpinguid alustanud õpilaste suhtes kohaldada eesti keelest erinevat õppekeelt, kusjuures eesti keeles õpetatakse:
+
+1\) 2009/2010. õppeaastal gümnaasiumiõpinguid alustanutele vähemalt eesti kirjanduse üht kursust, ühiskonnaõpetuse kaht kursust ja muusika kolme kursust;
+
+2\) 2010/2011. õppeaastal gümnaasiumiõpinguid alustanutele vähemalt eesti kirjanduse üht kursust, ühiskonnaõpetuse kaht kursust, muusika kolme kursust ja Eesti ajaloo kaht kursust.
+
+\[RT I, 20.09.2011, 1 - jõust. 23.09.2011\]
+
+### § 22. 31. augustini 2013. a kehtivad gümnaasiumi lõpetamise tingimused
+
+(1) Paragrahvi 18 lõikeid 3 ja 4 rakendatakse alates 1. septembrist 2013. a. Kuni 31. augustini 2013. a rakendatakse lõpueksamite suhtes käesolevas paragrahvis sätestatud tingimusi.
+
+(2) Gümnaasiumi lõpetamiseks tuleb sooritada viis gümnaasiumi lõpueksamit, millest vähemalt kolm on riigieksamid. Ühes ja samas õppeaines võib sooritada kas riigieksami või koolieksami.
+
+(3) Kõigile õpilastele on kohustuslik eesti keele riigieksam, välja arvatud lõikes 4 sätestatud juhul.
+
+(4) Õpilased, kes on gümnaasiumis õppinud eesti keelt teise keelena, õpilased, kes on lõpetanud põhikooli vene või muu õppekeelega koolis või klassis ja on asunud õppima eesti õppekeelega gümnaasiumisse või gümnaasiumiklassi, ning õpilased, kes on vene või muu õppekeelega gümnaasiumist või gümnaasiumiklassist asunud õppima eesti õppekeelega gümnaasiumisse või gümnaasiumiklassi, võivad eesti keele riigieksami asemel sooritada eesti keele teise keelena riigieksami. Õpilane, kellele on vastavalt „Keeleseadusele“ väljastatud eesti keele oskuse kõrgtaseme või C1-taseme tunnistus ning kes esitab vastava tunnistuse koolile hiljemalt jooksva õppeaasta 20. jaanuariks, ei pea sooritama eesti keele teise keelena riigieksamit.
+
+\[RT I, 20.09.2011, 1 - jõust. 23.09.2011\]
+
+(5) Õpilased, kelle õppekeel on viipekeel, võivad valida kohustuslikuks eksamiks kas eesti keele või eesti keele teise keelena riigieksami.
+
+(6) Õpilasel on õigus sooritada kõik lõpueksamid riigieksamitena. Riigieksameid võib õpilane valida kooli õppekavas olevate järgmiste õppeainete hulgast: vene keel (koolis või klassis, kus eesti keelt õpitakse teise keelena ning õpe toimub osaliselt vene keeles), inglise keel, saksa keel, prantsuse keel, vene keel (võõrkeelena), bioloogia, keemia, matemaatika, füüsika, geograafia, ajalugu, ühiskonnaõpetus.
+
+(7) Kolme kohustusliku riigieksami hulgas võib olla üks võõrkeeleeksam (võõrkeeleks ei loeta eesti keele eksamit). Õpilasel on õigus sooritada inglise keele, saksa keele, prantsuse keele ja vene keele (võõrkeelena) riigieksam ka juhul, kui ta ei ole seda keelt koolis õppinud.
+
+(8) Riikidevahelise lepingu alusel võib sooritada saksa keele riigieksamina ka Saksamaa Liitvabariigi Liidumaade Kultuuriministrite Alalise Kogu Saksa II astme keelediplomi eksami või Saksa üldise kõrgkooliküpsuse saksa keele eksami.
+
+(9) Riikidevahelise lepingu alusel Saksa II astme keelediplomi saamiseks sooritatud saksa keele eksamit ning Saksa üldise kõrgkooliküpsuse diplomi saamiseks sooritatud saksa keele ja matemaatika eksamit tunnustatakse riigieksamitena.
+
+(9<sup>1</sup>) Võõrkeele riigieksami saab põhikooli- ja gümnaasiumiseaduse § 31 lõike 2 alusel vastu võetud haridus- ja teadusministri määrusega kehtestatud korras asendada rahvusvaheliselt tunnustatud võõrkeele eksamiga. Nimetatud eksamit tunnustatakse riigieksamina.
+
+\[RT I, 07.05.2013, 10 - jõust. 10.05.2013\]
+
+(10) Koolieksameid võib sooritada kõigis kohustuslikes õppeainetes ja lisaks nendes valikainetes, mida on gümnaasiumiastmes õpitud vähemalt 105 õppetundi.
+
+(11) Ühe koolieksami võib gümnaasiumilõpetaja sooritada praktilise tööna või ainealase uurimusena.
+
+(12) Gümnaasiumi lõputunnistuse annab kool õppenõukogu otsuse alusel:
+
+1\) gümnaasiumiõpilasele, kelle gümnaasiumi riikliku õppekava alusel koostatud kooliõppekava õppeainete kooliastmehinded on vähemalt rahuldavad ning kes on kõik kohustuslikud ja valitud lõpueksamid sooritanud vähemalt rahuldavalt;
+
+2\) eksternile, kelle aineeksamite hinded on vähemalt rahuldavad ning kes on kõik kohustuslikud ja valitud lõpueksamid sooritanud vähemalt rahuldavalt;
+
+3\) isikule, kellel on õppeainete kooliastmehinded vähemalt rahuldavad, kuid kes eelmistel õppeaastatel ei saanud gümnaasiumi lõputunnistust, sest tal jäi riigieksam sooritamata või ta sooritas riigieksami mitterahuldavalt, ja kes on järgmistel õppeaastatel sooritanud vähemalt 20 hindepallile kõik valitud riigieksamid, v.a lõigetes 13 ja 14 sätestatud erijuhtudel.
+
+\[RT I, 20.09.2011, 1 - jõust. 23.09.2011\]
+
+(13) Gümnaasiumiõpilane, kellel esineb spetsiifiline õigekirjahäire (düsgraafia) ning kes sooritas eesti keele või eesti keele teise keelena riigieksami mitterahuldavalt, saab selle eksami asemel valida uue riigieksami mõnes teises riigieksamiaines.
+
+(14) Gümnaasiumiõpilane, kes sooritas ühes õppeaines riigieksami mitterahuldavalt, saab selle eksami asemel valida uue riigieksami mõnes teises riigieksamiaines.
+
+### § 22<sup>1</sup>. Eriolukorrast tingitud erisused hindamisel, õpilasuurimuse, praktilise töö ja koolieksami sooritamisel ning gümnaasiumi lõpetamisel 2019/2020. õppeaastal
+
+\[RT I, 23.04.2021, 6 - jõust. 26.04.2021\]
+
+(1) Eriolukorra algusest kuni 2019/2020. õppeaasta lõpuni võib hindamisel kasutada kirjeldavat sõnalist hinnangut, millel puudub numbriline ekvivalent ning mida ei pea teisendama viiepallisüsteemis hindeskaalasse.
+
+(2) Kursusehinded väljendatakse üldjuhul numbriliste hinnetena. Kui eriolukorra ajal on kasutatud kirjeldavaid sõnalisi hinnanguid ja sellest tulenevalt ei ole võimalik kursusehinnet välja panna numbrilise hindena, võib kursusehindena kooli õppekavas sätestatud tingimustel ja korras kasutada „arvestatud/mittearvestatud”.
+
+(3) Kooliastmehinded väljendatakse üldjuhul numbriliste hinnetena. Kui eriolukorrast tulenevalt on kõik kooliastmehinde aluseks olevad kursusehinded väljendatud hinnanguna „arvestatud/mittearvestatud”, võib kooliastmehindena kooli õppekavas sätestatud tingimustel ja korras kasutada „arvestatud/mittearvestatud”.
+
+(4) 2019/2020. õppeaastal ei pea õpilane sooritama õpilasuurimust või praktilist tööd, kui see ei ole kooli õppenõukogu otsusel eriolukorrast tulenevalt võimalik.
+
+\[RT I, 23.04.2021, 6 - jõust. 26.04.2021\]
+
+(5) 2019/2020. õppeaastal ei pea õpilane sooritama koolieksamit, kui see ei ole kooli õppenõukogu otsusel eriolukorrast tulenevalt võimalik.
+
+(6) 2019/2020. õppeaastal ei kohaldata gümnaasiumi lõpetamisele § 18 lõigetes 3 ja 4 sätestatut ning kool annab gümnaasiumi lõputunnistuse õpilasele, kelle kooliastmehinded on vähemalt „rahuldavad” või lõikes 2 nimetatud juhul „arvestatud”.
+
+(7) 2019/2020. õppeaastal luuakse gümnaasiumi lõpetajatele võimalus sooritada riigieksamid, mis ei ole seotud gümnaasiumi lõpetamisega, eesti keeles või eesti keeles teise keelena, matemaatikas ning ühe järgmistest rahvusvaheliselt tunnustatud võõrkeele eksamitest:
+
+1\) Diplôme d'études en langue française B1-taseme eksam ja Diplôme d'études en langue française B2-taseme eksam (prantsuse keel);
+
+2\) Goethe-Zertifikat B1-taseme eksam, Goethe-Zertifikat B2-taseme eksam, Saksa II astme keelediplomi B2-/C1-taseme eksam ning Saksa üldise kõrgkooliküpsuse saksa keele eksam, kus punktid vahemikus 1–4 loetakse vastavaks keeleoskustasemega B2 ning punktid vahemikus 5–15 keeleoskustasemega C1 (saksa keel);
+
+3\) тест по русскому языку как иностранному B1-taseme eksam ja тест по русскому языку как иностранному B2-taseme eksam (vene keel);
+
+4\) Cambridge English C1 Advanced eksam (inglise keel).
+
+\[RT I, 06.05.2020, 51 - jõust. 09.05.2020\]
+
+(8) \[Kehtetu - RT I, 23.04.2021, 6 - jõust. 26.04.2021\]
+
+### § 22<sup>2</sup>. Erisused hindamisel, gümnaasiumi koolieksami, õpilasuurimuse või praktilise töö sooritamisel ja gümnaasiumi lõpetamisel 2020/2021. õppeaastal
+
+(1) 2020/2021. õppeaastal võib hindamisel kasutada kirjeldavat sõnalist hinnangut, millel puudub numbriline ekvivalent ning mida ei pea teisendama viiepallisüsteemis hindeskaalasse.
+
+(2) Kursusehinded väljendatakse üldjuhul numbriliste hinnetena. Kui COVID-19 leviku takistamiseks rakendatud meetmetest ja piirangutest tingitud õppekorralduslike erisuste tõttu on 2020/2021. õppeaastal kasutatud kirjeldavaid sõnalisi hinnanguid ja sellest tulenevalt ei ole võimalik kursusehinnet välja panna numbrilise hindena, võib kursusehindena kooli õppekavas sätestatud tingimustel ja korras kasutada „arvestatud/mittearvestatud”.
+
+(3) Kooliastmehinded väljendatakse üldjuhul numbriliste hinnetena. Kui COVID-19 leviku takistamiseks rakendatud meetmetest ja piirangutest tingitud õppekorralduslike erisuste tõttu on kõik kooliastmehinde aluseks olevad kursusehinded väljendatud hinnanguna „arvestatud/mittearvestatud”, võib kooliastmehindena kooli õppekavas sätestatud tingimustel ja korras kasutada „arvestatud/mittearvestatud”.
+
+(4) Koolieksami hindamisel võib kasutada hinnangut „arvestatud/mittearvestatud”.
+
+(5) 2020/2021. õppeaastal ei pea õpilane sooritama koolieksamit ja õpilasuurimust või praktilist tööd, kui see ei ole õppenõukogu otsusel COVID-19 leviku takistamiseks rakendatud meetmetest ja piirangutest tingitud õppekorralduslike erisuste tõttu võimalik või on oluliselt raskendatud.
+
+(6) 2020/2021. õppeaastal ei kohaldata gümnaasiumi lõpetamisele § 18 lõigetes 3 ja 4 sätestatut ning kool annab gümnaasiumi lõputunnistuse õpilasele, kelle kooliastmehinded on vähemalt „rahuldavad” või lõikes 3 nimetatud juhul „arvestatud”.
+
+(7) 2020/2021. õppeaastal luuakse gümnaasiumi lõpetajatele võimalus sooritada riigieksamid, mis ei ole seotud gümnaasiumi lõpetamisega, eesti keeles või eesti keeles teise keelena, matemaatikas ning ühe järgmistest rahvusvaheliselt tunnustatud võõrkeele eksamitest:
+
+1\) Diplôme d'études en langue française B1-taseme eksam ja Diplôme d'études en langue française B2-taseme eksam (prantsuse keel);
+
+2\) Goethe-Zertifikat B1-taseme eksam, Goethe-Zertifikat B2-taseme eksam, Saksa II astme keelediplomi B2-/C1-taseme eksam ning Saksa üldise kõrgkooliküpsuse saksa keele eksam, kus punktid vahemikus 1–4 loetakse vastavaks keeleoskustasemega B2 ning punktid vahemikus 5–15 keeleoskustasemega C1 (saksa keel);
+
+3\) тест по русскому языку как иностранному B1-taseme eksam ja тест по русскому языку как иностранному B2-taseme eksam (vene keel);
+
+4\) Cambridge English C1 Advanced eksam (inglise keel).
+
+\[RT I, 23.04.2021, 6 - jõust. 26.04.2021\]
+
+### § 23. Määruse kehtetuks tunnistamine
+
+\[Käesolevast tekstist välja jäetud.\]
+
+## Lisad
+
+- Lisa — [18m\_gym\_lisa1.pdf](https://www.riigiteataja.ee/aktilisa/1231/2202/5009/18m_gym_lisa1.pdf)
+
+Lisa 1
+
+- Lisa — [18m\_gym\_lisa2.pdf](https://www.riigiteataja.ee/aktilisa/1231/2202/5009/18m_gym_lisa2.pdf)
+
+Lisa 2
+
+- Lisa — [18m\_gym\_lisa3.pdf](https://www.riigiteataja.ee/aktilisa/1231/2202/5009/18m_gym_lisa3.pdf)
+
+Lisa 3
+
+- Lisa — [18m\_gym\_lisa4.pdf](https://www.riigiteataja.ee/aktilisa/1231/2202/5009/18m_gym_lisa4.pdf)
+
+Lisa 4
+
+- Lisa — [VV2011\_m2\_lisa5\_2025.pdf](https://www.riigiteataja.ee/aktilisa/1231/2202/5009/VV2011_m2_lisa5_2025.pdf)
+
+Lisa 5
+
+- Lisa — [18m\_gym\_lisa6.pdf](https://www.riigiteataja.ee/aktilisa/1231/2202/5009/18m_gym_lisa6.pdf)
+
+Lisa 6
+
+- Lisa — [18m\_gym\_lisa7.pdf](https://www.riigiteataja.ee/aktilisa/1231/2202/5009/18m_gym_lisa7.pdf)
+
+Lisa 7
+
+- Lisa — [18m\_gym\_lisa8.pdf](https://www.riigiteataja.ee/aktilisa/1231/2202/5009/18m_gym_lisa8.pdf)
+
+Lisa 8
+
+- Lisa — [18m\_gym\_lisa9.pdf](https://www.riigiteataja.ee/aktilisa/1231/2202/5009/18m_gym_lisa9.pdf)
+
+Lisa 9
+
+- Lisa — [18m\_gym\_lisa10.pdf](https://www.riigiteataja.ee/aktilisa/1231/2202/5009/18m_gym_lisa10.pdf)
+
+Lisa 10
+
+- Lisa — [18m\_gym\_lisa11.pdf](https://www.riigiteataja.ee/aktilisa/1231/2202/5009/18m_gym_lisa11.pdf)
+
+Lisa 11
+
+- Lisa — [18m\_gym\_lisa12.pdf](https://www.riigiteataja.ee/aktilisa/1231/2202/5009/18m_gym_lisa12.pdf)
+
+Lisa 12
+
+- Lisa — [18m\_gym\_lisa13.pdf](https://www.riigiteataja.ee/aktilisa/1231/2202/5009/18m_gym_lisa13.pdf)
+
+Lisa 13
+
+- Lisa — [18m\_gym\_lisa14.pdf](https://www.riigiteataja.ee/aktilisa/1231/2202/5009/18m_gym_lisa14.pdf)
+
+Lisa 14
+
+- Lisa — [18m\_gym\_lisa15.pdf](https://www.riigiteataja.ee/aktilisa/1231/2202/5009/18m_gym_lisa15.pdf)
+
+Lisa 15
+
+- Lisa — [18m\_gym\_lisa16.pdf](https://www.riigiteataja.ee/aktilisa/1231/2202/5009/18m_gym_lisa16.pdf)
+
+Lisa 16

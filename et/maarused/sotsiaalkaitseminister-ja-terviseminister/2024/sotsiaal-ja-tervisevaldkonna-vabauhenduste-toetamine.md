@@ -1,0 +1,1160 @@
+---
+title: "Sotsiaal- ja tervisevaldkonna vabaühenduste toetamine"
+identifier: "106012026045"
+rt_reference: "RT I, 06.01.2026, 45"
+rt_original: "RT I, 25.10.2024, 6"
+group_id: "1059745"
+type: regulation
+issuer: "Sotsiaalkaitseminister ja terviseminister"
+number: "42"
+text_type: "terviktekst"
+jurisdiction: ee
+language: et
+date: 2024-10-22
+last_amended: 2026-01-09
+status: in_force
+source: "https://www.riigiteataja.ee/akt/106012026045"
+retrieved: 2026-10-12
+---
+
+# Sotsiaal- ja tervisevaldkonna vabaühenduste toetamine
+
+Määrus kehtestatakse riigieelarve seaduse § 53<sup>1</sup> lõike 1 alusel.
+
+## 1. peatükk — Üldsätted
+
+### § 1. Reguleerimisala
+
+(1) Määrusega kehtestatakse sotsiaal- ja tervisevaldkonna vabaühenduste toetamiseks valdkondlike programmide tingimused ja kord.
+
+(2) Valdkondlikud programmid on järgmised:
+
+1\) sõltuvushäired;
+
+2\) vaimse tervise huvikaitse;
+
+3\) psüühikahäireid kogenud inimeste võimestamine;
+
+4\) tervislik toitumine ja liikumine;
+
+5\) elanikkonna esmaabioskused;
+
+6\) toiduabi;
+
+7\) laste ja perede heaolu ning vanemluse toetamine;
+
+8\) laste õiguste ja kaasatuse edendamine;
+
+9\) sotsiaalvaldkonna tööjõu arendamine;
+
+10\) vanemaealiste huvikaitse;
+
+11\) suitsiidiennetus;
+
+12\) puudega inimeste huvikaitse.
+
+\[RT I, 02.07.2025, 3 - jõust. 05.07.2025\]
+
+(3) Valdkondlike programmide raames toetatakse ka välisprojekti omafinantseeringu katmist, et kaasata täiendavaid rahalisi vahendeid valdkondliku programmi eesmärkide täitmiseks.
+
+### § 2. Terminid
+
+Määruses kasutatakse termineid järgmises tähenduses:
+
+1\) omafinantseering – projekti abikõlblikud kulud, mille katab rahaliselt toetuse saaja või partner;
+
+2\) toetuse andja – Riigi Tugiteenuste Keskus;
+
+3\) toetuse saaja – taotleja, kelle toetuse taotluse suhtes on tehtud taotluse rahuldamise otsus;
+
+4\) tulemus – projekti tegevustest kasusaajatele avalduv väljundite lühiajaline mõju, mida soovitakse saavutada;
+
+5\) väljund – projekti raames loodud mõõdetav tulemus, toode või osutatud teenus, mis on vajalik tulemuse saavutamiseks ning on otseselt seostatav elluviidud tegevuse ja selleks tehtud kuludega;
+
+6\) välisprojekt – väljaspool Eestit registreeritud asutuse või organisatsiooni rahastatav projekt.
+
+### § 3. Otsuse ja toimingu vaidlustamine
+
+Otsuse või toimingu vaidlustamise korral võib esitada toetuse andjale vaide haldusmenetluse seaduses või kaebuse halduskohtule halduskohtumenetluse seadustikus sätestatud korras.
+
+### § 4. Toetuse andmise eesmärk
+
+Toetust antakse kooskõlas heaolu arengukavaga aastateks 2023–2030 ja rahvastiku tervise arengukavaga aastateks 2020–2030 eesmärgiga soodustada vabaühenduste osalemist sotsiaal- ja tervisevaldkonna poliitika kujundamises ja elluviimises.
+
+## 2. peatükk — Projekti periood ja kulud ning toetuse osakaal
+
+### § 5. Projekti elluviimise periood
+
+(1) Projekti elluviimise periood on taotluse rahuldamise otsuses sätestatud ajavahemik, millal tehakse projekti tegevused ja tekivad projekti elluviimisega kaasnevad kulud.
+
+(2) Projekt peab kestma taotlusvooru avamise teates nimetatud perioodi lõpuni või selles nimetatud vastava arvu kuid.
+
+(3) Projekti elluviimise perioodi võib põhjendatud juhul pikendada kokku kuni kuus kuud.
+
+(4) Projekti elluviimise perioodi pikendamise taotlus tuleb esitada toetuse andjale esimesel võimalusel. Pikendamist saab taotleda kuni 30 päeva enne projekti elluviimise perioodi lõppkuupäeva. Toetuse andja kooskõlastab otsuse Sotsiaalministeeriumiga.
+
+### § 6. Toetuse osakaal
+
+(1) Omafinantseeringu minimaalne määr on 1% projekti abikõlblikest kuludest. Omafinantseeringu kohustust ei kohaldata välisprojekti omafinantseeringu toetuse korral.
+
+(2) Välisprojekti omafinantseeringu katmiseks taotletav toetuse summa ei või ületada välisprojekti planeeritava omafinantseeringu summat.
+
+### § 7. Kindlasummalise makse alusel kulude hüvitamine
+
+(1) Projekti abikõlblikud kulud hüvitatakse kindlasummalise maksena, mille suurus on minimaalselt 20 000 eurot.
+
+\[RT I, 02.07.2025, 3 - jõust. 05.07.2025\]
+
+(2) Projekti kindlasummaliste makse summa ja selle alusel makstava toetuse tõendamise alused määratakse taotluse rahuldamise otsuses.
+
+\[RT I, 02.07.2025, 3 - jõust. 05.07.2025\]
+
+(3) Kindlasummalise makse alusel ettemaksena makstav toetus loetakse täielikult kättesaaduks, kui kindlasummalise makse tulemuse saavutamine on tõendatud. Mitmeaastase projekti puhul loetakse saadud ettemakse kasutamine tõendatuks kinnitatud vahearuande alusel. Tulemuse osalisel saavutamisel makstakse toetust proportsionaalselt tulemuse mõjuga eesmärkide täitmisse.
+
+\[RT I, 06.01.2026, 44 - jõust. 09.01.2026\]
+
+### § 8. Kulude abikõlblikkuse üldpõhimõtted
+
+(1) Projekti eelarves kajastatud kulu on abikõlblik, kui see on põhjendatud ja tekib projekti elluviimise perioodil.
+
+(2) Kulu loetakse põhjendatuks, kui kulu on sobiv, vajalik ja tõhus projekti tulemuse saavutamiseks.
+
+(3) Kindlasummalise makse raames loetakse kaudsed kulud abikõlblikuks ühel viisil järgmistest:
+
+1\) 15% ulatuses abikõlblikest otsestest personalikuludest;
+
+2\) 7% ulatuses projekti otsestest kuludest, mis on projekti otsesed personalikulud ja muud otsesed kulud.
+
+\[RT I, 02.07.2025, 3 - jõust. 05.07.2025\]
+
+(4) Otsesteks personalikuludeks loetakse palk ja puhkusetasu ning nende pealt seaduse kohaselt arvestatavad maksud ja maksed proportsionaalselt projekti heaks töötatud ajaga, välja arvatud lõikes 7 nimetatud tegevustega seotud personalikulu.
+
+(5) Projekti kaudseteks kuludeks loetakse halduskulud ja projekti administreerimisega seotud kulud, välja arvatud juhul, kui projektis loetakse lõike 6 või 7 tähenduses kulu selgelt otseseks kuluks.
+
+(6) Projekti halduskulud on muu hulgas:
+
+1\) kontoritarvete ja -mööbli ostmise, rentimise, hooldamise ja remondi kulud;
+
+2\) sidekulud, sealhulgas interneti-, telefoni- ja postikulu;
+
+3\) infotehnoloogia kulud, sealhulgas tark- ja riistvara, kontoritehnika ostmise ja rentimise ning serverite, võrkude ja kontoritehnika hooldamise ja remondi kulud;
+
+4\) kütte-, vee- ja elektrikulud ning ruumide koristamise kulud;
+
+5\) ruumide rendikulud;
+
+6\) valveteenuse kulud;
+
+7\) pangakonto avamise ja haldamise kulud ning makse ülekandetasu.
+
+(7) Projekti administreerimiseks loetakse projekti elluviimisega kaasnevad tugitegevused, sealhulgas:
+
+1\) raamatupidamine;
+
+2\) sekretäri- ja personalitöö;
+
+3\) juriidiline nõustamine;
+
+4\) riigihanke korraldamine ja ostumenetluse läbiviimine;
+
+5\) vara haldamine;
+
+6\) infotehnoloogiline tugitegevus.
+
+### § 9. Abikõlbmatud kulud
+
+Järgmised kulud ei ole abikõlblikud:
+
+1\) investeering kinnisvarasse ja taristusse;
+
+2\) kapitalirent;
+
+3\) vara amortisatsioon;
+
+4\) remondikulu;
+
+5\) sõiduki, sealhulgas mootorsõiduki, maastiku- ja veesõiduki ja drooni soetamis-, rendi- ja ülalpidamiskulu, välja arvatud sõiduki kasutusrendi- ja kütusekulu lähetuskulu osana ja isikliku sõiduauto kasutamise hüvitis maksuvaba piirmäära ulatuses;
+
+6\) kulu, mis on tekkinud väljaspool projekti elluviimise perioodi;
+
+7\) tulumaksuseaduse § 8 tähenduses seotud isikutelt kauba ja teenuse ostmise kulu, välja arvatud juhul, kui ostumenetlus vastab §-s 46 sätestatule;
+
+8\) rahatrahv, rahaline karistus, kohustuse täitmata jätmise korral makstav leppetrahv ja viivis ning vaide- ja kohtumenetluse menetluskulu;
+
+9\) intress võlalt ning võla teenindamise tasu ja viivis;
+
+10\) kulu, mille katteks on juba toetust eraldatud või makstud välistoetuse, riigieelarve või muu avaliku sektori vahenditest, välja arvatud välisprojekti omafinantseeringu toetuse korral;
+
+11\) käibemaks, kui see on käibemaksuseaduse alusel tagasi saadav.
+
+### § 10. Vähese tähtsusega abi
+
+(1) Kui määruse alusel antav toetus on vähese tähtsusega abi, kohaldatakse komisjoni määruses (EL) nr 2023/2831, milles käsitletakse Euroopa Liidu toimimise lepingu artiklite 107 ja 108 kohaldamist vähese tähtsusega abi suhtes (ELT L 352, 24.12.2013, lk 1–8) (edaspidi *VTA määrus*), või Euroopa Komisjoni määruses (EL) 2023/2832 Euroopa Liidu toimimise lepingu artiklite 107 ja 108 kohaldamise kohta üldist majandushuvi pakkuvaid teenuseid osutavatele ettevõtjatele antava vähese tähtsusega abi suhtes (ELT L 2023/2832, 15.12.2023) ja konkurentsiseaduse §-s 33 sätestatut.
+
+(2) VTA määruse kohast vähese tähtsusega abi ei anta VTA määruse artikli 1 punktis 1 sätestatud juhtudel. Komisjoni määruse (EL) 2023/2832 kohast vähese tähtsusega abi ei anta sama määruse artiklis 1 sätestatud juhtudel.
+
+(3) Ühele ettevõtjale ei tohi määruse alusel antava ja varem antud abi eelneva kolme aasta pikkuse ajavahemiku majandusaasta jooksul ületada:
+
+1\) VTA määruse artikli 3 lõikes 2 nimetatud summat;
+
+2\) komisjoni määruse (EL) 2023/2832 artikli 3 lõikes 2 nimetatud summat.
+
+(4) Vähese tähtsusega abi suuruse arvestamisel loetakse üheks ettevõtjaks sellised isikud, kes on omavahel seotud VTA määruse artikli 2 lõike 2 kohaselt.
+
+(5) VTA määruse kohase vähese tähtsusega abi andmisel võetakse arvesse sama määruse artiklis 5 sätestatud kumuleerimisreegleid. Komisjoni määruse (EL) 2023/2832 kohase vähese tähtsusega abi andmisel võetakse arvesse sama määruse artiklis 5 sätestatud kumuleerimisreegleid.
+
+(6) VTA määruse ja komisjoni määruse (EL) 2023/2832 alusel antud vähese tähtsusega abi ei anta ettevõtjale, kellele Euroopa Komisjoni eelneva otsuse alusel, millega abi on tunnistatud ebaseaduslikuks ja ühisturuga kokkusobimatuks, on esitatud seni täitmata korraldus abi tagasimaksmiseks.
+
+## 3. peatükk — Nõuded taotlejale, partnerile ja taotlusele
+
+### § 11. Nõuded taotlejale ja partnerile
+
+(1) Taotlejaks võib olla Eestis registreeritud mittetulundusühing või sihtasutus.
+
+(2) Taotleja võib tegevuste elluviimisse kaasata partnereid, kellega koostöös ta projekti ellu viib ja kelle osalemine projektis on vajalik soovitud tulemuse saavutamiseks. Partneriks ei ole projekti kaasrahastaja, kes ei osale projekti tegevuste elluviimises, ega teenust osutav isik, kes teeb projekti tegevusi vastavalt taotleja tellimusele. Partner osaleb iseseisvalt projekti tegevuste elluviimises ja tal tekivad projekti elluviimise käigus kulud.
+
+(3) Partneriks võib olla Eestis registreeritud juriidiline isik, riigiasutus, kohaliku omavalitsuse üksus või asutus või rahvusvaheline organisatsioon, kui valdkondliku programmi tingimustest ei tulene teisiti.
+
+(4) Taotleja ja partner peavad taotluse menetlemise hetkel vastama järgmistele nõuetele:
+
+1\) nende maksuvõlg riigile koos intressiga on väikesem kui 100 eurot või see on ajatatud;
+
+2\) nad ei ole pankrotis, likvideerimisel ega sundlõpetamisel;
+
+3\) neil ei ole täitmata kohustusi toetuse andja ees, sealhulgas on tagasimaksmisele kuuluv toetus tagasi makstud, kui nõude täitmise tähtpäev on saabunud;
+
+4\) nende juhtorgani liikmetel puudub karistus karistusseadustiku §-des 89–93, 113–150, 169–182<sup>1</sup>, 187, 199–217<sup>2</sup>, 260<sup>1</sup>, 280, 281, 290<sup>1</sup>–300<sup>1</sup>, 333–349 või 372–402<sup>4</sup> sätestatud kuriteo eest, mille karistusandmed ei ole karistusregistrist karistusregistri seaduse kohaselt kustutatud;
+
+5\) nende majandusaasta aruanne, mille esitamise tähtaeg on saabunud, on esitatud;
+
+6\) \[kehtetu - RT I, 02.07.2025, 3 - jõust. 05.07.2025\]
+
+7\) taotlejal on oma tegevust tutvustav ja avalikkusele kättesaadav veebileht või sotsiaalmeedia väljund;
+
+8\) nad vastavad valdkondliku programmi tingimustes sätestatud täiendavatele nõuetele.
+
+### § 12. Nõuded taotlusele
+
+(1) Taotlus peab vastama järgmistele nõuetele:
+
+1\) taotlus koos lõikes 2 nimetatud dokumentidega on esitatud e-toetuse keskkonnas, lähtudes selle andmeväljadest ja andmeväljade täitmise juhistest;
+
+2\) taotluse on allkirjastanud allkirjaõiguslik isik;
+
+3\) toetust taotletakse valdkondliku programmi eesmärkide täitmiseks ja toetatavate tegevuste elluviimiseks;
+
+4\) toetatavad tegevused peavad olema kavandatud taotlusvooru teates nimetatud projekti elluviimise perioodi;
+
+5\) taotlus sisaldab partneri kaasamise korral partneri andmeid, tema kaasamise vajaduse põhjendust ja partneri toetatavaid tegevusi;
+
+6\) taotluses on nimetatud tegevuste väljund ja elluviimise tähtaeg kindlasummalise makse kohta koos selle tõendamise alustega;
+
+\[RT I, 02.07.2025, 3 - jõust. 05.07.2025\]
+
+7\) toetatavate tegevuste elluviimiseks taotletava toetuse summa ja selle osakaal abikõlblikest kuludest vastavad määruses sätestatule;
+
+8\) taotlus sisaldab iga kindlasummalise makse aluseks oleva kulu eelarvet, mille koostamisel on lähtutud kulude abikõlblikkuse nõuetest ja säästlikkusest, sealhulgas parimast hinna ja kvaliteedi suhtest;
+
+9\) taotlus vastab valdkondliku programmi tingimustes sätestatud täiendavatele nõuetele.
+
+(2) Taotleja lisab taotlusele järgmised dokumendid:
+
+1\) partneri kaasamise korral partneri kinnituskiri projektis osalemise, taotluse ja määrusega tutvumise ning partneri õiguste ja kohustustega nõustumise kohta;
+
+2\) volikiri, kui taotluse allkirjastaja tegutseb taotleja esindajana volituse alusel;
+
+3\) välisprojekti väljakuulutamise teade koos toetatava tegevuse kirjelduse ja omafinantseeringut sisaldava planeeritava eelarvega, kui toetust taotletakse välisprojekti omafinantseeringu katmiseks.
+
+## 4. peatükk — Valdkondlikud programmid ja nendele kohalduvad eritingimused
+
+### 1. jagu — Sõltuvushäirete programm
+
+#### § 13. Eesmärk ja toetatavad tegevused
+
+(1) Sõltuvushäirete programmi eesmärk on toetada hasartmängu- ja digisõltuvusega inimesi ja nende lähedasi tasuta ravi- ja rehabilitatsiooniteenuste pakkumisega ning ennetada seeläbi hasartmängu- ja digisõltuvuse levikut ühiskonnas ja toetada tõenduspõhise ning inimeste tervisest ja heaolust lähtuva alkoholipoliitika ja tubaka-, sealhulgas nikotiinipoliitika (edaspidi koos ka *uimastid*) kujundamist.
+
+(2) Sõltuvushäirete programmis toetatakse järgmisi tegevusi:
+
+1\) hasartmängu- või digisõltlase ja tema lähedase tasuta psühholoogiline nõustamine ja psühhoteraapia kontaktnõustamisena vähemalt Tallinnas ja Tartus ning telefoni või veebi teel üle Eesti;
+
+2\) alkoholi ja tubaka, sealhulgas nikotiini tarbimise kahjudega kokkupuutuvate osapoolte ning sõltuvushäirega inimeste ja nende lähedaste õiguste ja huvide koondamine ning asjassepuutuvate osapoolte koostöö arendamine;
+
+3\) avalikkusele alkoholi ja tubaka, sealhulgas nikotiini tarbimise kahjudega kokkupuutuvate osapoolte huvide ja eesmärkide ning uimastite tarvitamise kahjude kohta info jagamine, teaduspõhiste arutelude algatamine ja juhtimine;
+
+4\) vähema alkoholiga elustiili edendamine ning tubaka- ja nikotiinitoodete juhuslike tarvitamiste vähendamine kõneisikute kaudu ja teiste kommunikatsioonivõtete abil;
+
+5\) Sotsiaalministeeriumile ja alkoholi- ja tubakapoliitika kujundamisega seotud osapooltele tõenduspõhiste valdkonna poliitikadokumentidel, eksperthinnangutel või esindus- ja erialaorganisatsioonide seisukohtadel põhinevate poliitikameetmete ja nende rakendamise kohta ettepanekute tegemine ja nende eest seismine;
+
+6\) muud lõikes 1 nimetatud eesmärgi elluviimiseks vajalikud ja põhjendatud tegevused.
+
+#### § 14. Eritingimused
+
+(1) Paragrahvi 13 lõikes 2 nimetatud tegevustest kasusaajad on järgmised:
+
+1\) punkti 1 tegevustes mängu- ja digisõltlane ning tema lähedane;
+
+2\) punkti 2 tegevustes uimasteid tarbiv inimene ja tema lähedane ning uimastite tarbimise kahjudega kokkupuutuvad osapooled;
+
+3\) punktide 3 ja 4 tegevustes laiem avalikkus;
+
+4\) punkti 5 tegevustes poliitikakujundajad;
+
+5\) punkti 6 tegevustes punktides 1–4 nimetatud isikud.
+
+(2) Projekt hõlmab vähemalt § 13 lõike 2 punktides 1–5 nimetatud tegevusi ja võib sisaldada punktis 6 nimetatud tegevusi.
+
+(3) Projektis peab osalema taotleja või partnerina organisatsioon, kellel on varasem tõendatav kogemus psühholoogilise nõustamise ja psühhosotsiaalsete tugiteenuste osutamise valdkonnas, mis taotluse esitamise hetkeks on taotlejal vähemalt kolm aastat või partneril vähemalt üks aasta.
+
+(4) Projektis peab osalema taotleja või partnerina organisatsioon, kellel on taotluse esitamise hetkeks vähemalt üheaastane tõendatav kogemus uimastite või huvikaitse valdkonnas.
+
+(5) Projekti meeskonda peab olema kaasatud vähemalt üks kliiniline psühholoog.
+
+(6) Taotlusele peab olema lisatud taotleja ja partneri kinnitus selle kohta, et projektiga planeeritud teenused ja sekkumised on tõenduspõhised.
+
+(7) Taotleja ega partner ei tohi olla saanud viimase kolme aasta vältel rahastust või muid rahaliselt hinnatavaid hüvesid alkoholi- ja tubakatööstuselt.
+
+### 2. jagu — Vaimse tervise huvikaitse programm
+
+#### § 15. Eesmärk ja toetatavad tegevused
+
+(1) Vaimse tervise huvikaitse programmi eesmärk on edendada elanikkonna heaolu ja vaimse tervise huvikaitset.
+
+(2) Vaimse tervise huvikaitse programmis toetatakse järgmisi tegevusi:
+
+1\) vaimse tervise valdkonnas tegutsevate organisatsioonide huvikaitse- ja tegutsemisvõimekuse tugevdamine;
+
+2\) valdkonnas tegutsevate osapoolte teadlikkuse suurendamine tõenduspõhise vaimse tervise alase teabe tõhusaks levitamiseks;
+
+3\) tõenduspõhise vaimse tervise alase teabe kommunikatsioon elanikkonnale;
+
+4\) valdkonna arendamiseks Sotsiaalministeeriumile tõendusmaterjalil, valdkonna poliitikadokumentidel, eksperthinnangutel või esindus- ja erialaorganisatsioonide seisukohtadel põhinevate ettepanekute tegemine;
+
+5\) muud lõikes 1 nimetatud eesmärgi täitmiseks vajalikud tegevused, mis täiendavad punktides 1–4 nimetatud tegevusi.
+
+#### § 16. Eritingimused
+
+(1) Paragrahvi 15 lõikes 2 nimetatud tegevustest kasusaajad on järgmised:
+
+1\) punktide 1 ja 2 tegevustes vaimse tervise valdkonnas tegutsev organisatsioon;
+
+2\) punkti 3 tegevuses Eesti elanikkond tervikuna;
+
+3\) punkti 4 tegevuses poliitikakujundajad.
+
+(2) Projekt hõlmab vähemalt § 15 lõike 2 punktides 1–4 nimetatud tegevusi ja võib sisaldada punktis 5 nimetatud tegevusi.
+
+(3) Taotlejal peab olema projekti elluviimise perioodi alguseks varasem vähemalt kolmeaastane ja partneril vähemalt üheaastane kogemus vaimse tervise huvikaitse valdkonnas.
+
+### 3. jagu — Psüühikahäireid kogenud inimeste võimestamise programm
+
+#### § 17. Eesmärk ja toetatavad tegevused
+
+(1) Psüühikahäireid kogenud inimeste võimestamise programmi eesmärk on vähendada psüühikahäirega ja vaimse tervise raskustega seotud häbimärgistamist.
+
+(2) Psüühikahäireid kogenud inimeste võimestamise programmis toetatakse järgmisi tegevusi:
+
+1\) psüühikahäireid ja vaimse tervise raskusi kogenud inimeste seast valitud eestkõnelejate kontseptsiooni ja tegevusmudeli koostamine eestkõnelejate ettevalmistamiseks, toetamiseks ja rakendamiseks;
+
+2\) punktis 1 nimetatud kontseptsiooni ja tegevusmudeli rakendamine.
+
+(3) Lõike 2 punktis 2 nimetatud tegevusmudel peab sisaldama järgmist:
+
+1\) tõenduspõhised tegevused häbimärgistamise vähendamiseks psüühikahäirega inimestega kokkupuutuvate spetsialistide seas ja meedias;
+
+2\) tegevused, mis on suunatud psüühikahäireid kogenud inimeste ettevalmistusele ja toele.
+
+#### § 18. Eritingimused
+
+(1) Paragrahvi 17 lõikes 2 nimetatud tegevustest kasusaajad on psüühikahäirega inimene ja tema lähedane.
+
+(2) Projekt hõlmab kõiki § 17 lõigetes 2 ja 3 nimetatud tegevusi.
+
+(3) Taotlejal peab olema projekti elluviimise perioodi alguseks vähemalt üheaastane kogemus psüühikahäirega inimeste või nende lähedaste huvikaitses ning taotlejal või partneril peab olema vähemalt kolmeaastane kogemus vaimse tervise valdkonnas.
+
+### 4. jagu — Tervisliku toitumise ja liikumise programm
+
+#### § 19. Eesmärk ja toetatavad tegevused
+
+(1) Tervisliku toitumise ja liikumise programmi eesmärk on edendada tõenduspõhist tasakaalustatud toitumist ja regulaarset liikumist Eesti elanikkonna hulgas.
+
+(2) Tervisliku toitumise ja liikumise programmis toetatakse järgmisi tegevusi:
+
+1\) tegevused ja arutelud koolieelsetes lasteasutustes ja koolides, kaasates olulisemaid osapooli, et leida ja jagada kogemusi ja meetodeid selle kohta, kuidas muuta pakutav toit, tegevused, õppekorraldus ja õpikeskkond tõenduspõhiselt tasakaalustatud toitumist ja regulaarset liikumist toetavamaks ning tutvustada nende rakendamise võimalusi;
+
+2\) tõenduspõhiste tasakaalustatud toitumise ja regulaarse liikumise võimaluste loomiseks sihtrühmade koondamine, koostöö tugevdamine, ühiste algatuste käivitamine ja toetamine ning nende kajastamine meediakanalites;
+
+3\) muud lõikes 1 nimetatud eesmärgi täitmiseks vajalikud tegevused.
+
+(3) Lõikes 2 nimetatud tegevused peavad olema kooskõlas Tervise Arengu Instituudi veebilehel avaldatud riiklike toitumis- ja liikumissoovitustega ning rahvastiku tervise arengukava 2020–2030 eesmärkide ja suundadega.
+
+(4) Toetusest ei rahastata tegevusi, mille katteks on juba toetust eraldatud või makstud välistoetuse, riigieelarve või muu avaliku sektori vahenditest, välja arvatud välisprojekti omafinantseeringu toetuse korral.
+
+#### § 20. Eritingimused
+
+(1) Paragrahvi 19 lõike 2 punktis 1 nimetatud tegevusest kasusaajad on lapsed ja noored, koolieelsete lasteasutuste ja koolide pidajad ning lapsevanemad. Ülejäänud tegevustest kasusaajateks on ka teised tasakaalustatud toitumise edendamise eesmärgi saavutamisel olulised sihtrühmad, kelle kaasamise vajalikkust põhjendab taotleja taotluses, samuti laiem avalikkus.
+
+(2) Projekt hõlmab vähemalt § 19 lõike 2 punktides 1 ja 2 nimetatud tegevusi ja võib sisaldada punktis 3 nimetatud tegevusi.
+
+(3) Projektil peavad olema järgmised väljundnäitajad:
+
+1\) heade kogemuste ja meetodite rakendamise aruteludele on kutsutud vähemalt 50% üldhariduskoolidest;
+
+2\) koolieelsetele lasteasutustele ja koolidele on antud võimalus osaleda vähemalt kolmes arutelus, mis toetavad koole tasakaalustatud toitumise ja regulaarse liikumise edendamisel;
+
+3\) osapoolte koostöös on algatatud vähemalt kaks tasakaalustatud toitumise ja regulaarse liikumise teemalist ühistegevust ja neid on kajastatud meediakanalites.
+
+(4) Taotlejal ja partneril peab olema vähemalt üheaastane kogemus toitumise ja liikumise edendamise valdkonnas.
+
+(5) Partner võib olla mittetulundusühing, sihtasutus või avalik-õiguslik juriidiline isik, kes ei esinda ühegi ettevõtte ärihuve.
+
+(6) Taotlusele on lisatud taotleja ja partneri kinnitus selle kohta, et projektiga planeeritud teenused ja sekkumised on tõenduspõhised.
+
+(7) Toetuse saaja kohustub kooskõlastama projekti käigus valmivad materjalid ja muul viisil avalikkusele suunatud põhisõnumid eelnevalt Sotsiaalministeeriumiga, välja arvatud juhul, kui Sotsiaalministeeriumiga on kokku lepitud teisiti.
+
+### 5. jagu — Elanikkonna esmaabioskuste programm
+
+#### § 21. Eesmärk, oodatavad tulemused ja toetatavad tegevused
+
+(1) Elanikkonna esmaabioskuste programmi eesmärk on parandada Eesti elanikkonna esmaabi andmise oskusi ning edendada koostööd Rahvusvahelise Punase Risti ja Punase Poolkuu Liikumisega.
+
+(2) Elanikkonna esmaabioskuste programmi oodatavad tulemused on järgmised:
+
+1\) esmaabioskuste õppe ja koolituste või täiendõppe ja -koolituste korraldamise terviklik süsteem on välja arendatud ja toimib;
+
+2\) võimekus kriisiolukordades elanikkonnale kiirelt esmaabioskusi anda on välja arendatud;
+
+3\) esmaabioskuste õppe ja koolitustega tegelevate organisatsioonide koostöövõrgustik on välja arendatud ja toimib;
+
+4\) koostööd Rahvusvahelise Punase Risti ja Punase Poolkuu Liikumisega on arendatud.
+
+(3) Elanikkonna esmaabioskuste programmis toetatakse järgmisi tegevusi:
+
+1\) 2023. aastal Sotsiaalministeeriumis kinnitatud esmaabioskuste õppe ja koolituste või täiendõppe ja -koolituste süsteemi pikaajalise tervikliku plaani elluviimise üksikasjaliku tegevuskava (edaspidi *tegevuskava*) koostamine, sealhulgas juhtimismudeli koostamine, ja selle kooskõlastamine Sotsiaalministeeriumiga;
+
+2\) tegevuskava elluviimise koordineerimine, lähtudes Sotsiaalministeeriumi suunistest, ning kokkulepitud tegevuste täitmise jälgimine;
+
+3\) kriisiolukordadeks plaani ja võimekuse loomine, mis tagaks vajaduse korral elanikkonna esmaabioskuste kiire suurendamise;
+
+4\) esmaabioskuste õppe ja koolitustega tegelevate organisatsioonide toimiva koostöövõrgustiku loomine ja arendamine Eestis;
+
+5\) elanikkonna esmaabioskuste suurendamiseks vajalike koolituste korraldamine sihtrühmadele, põhjendades sihtrühmade valikut;
+
+6\) Eesti osalemine Rahvusvahelise Punase Risti ja Punase Poolkuu Liikumises, tasudes selleks kohustuslikud rahvusvahelised liikmemaksud, rahvusvahelistel kohtumistel ja missioonidel osalemise valmisoleku tagamine ning Eestit esindava organisatsiooni ja selle personali arendamine;
+
+7\) arvamuste ja ettepanekute esitamine Sotsiaalministeeriumi või Terviseameti edastatud dokumentide kohta ning nõu andmine esmaabi puudutavates küsimustes;
+
+8\) muud lõikes 1 nimetatud eesmärgi täitmiseks vajalikud tegevused, sealhulgas tegevused, mis täiendavad punktides 1–7 nimetatud tegevusi.
+
+(4) Lõike 3 punktides 1–3 nimetatud tegevuste edukaks elluviimiseks planeeritakse seotud osapooltega arutelud ja tehakse arutelude tulemuste analüüs ning nende põhjal esitatakse järeldused ja ettepanekud Sotsiaalministeeriumile.
+
+#### § 22. Eritingimused
+
+(1) Paragrahvi 21 lõike 3 punktis 5 nimetatud tegevusest kasusaajad on Eesti elanikud. Ülejäänud tegevustest kasusaajad on poliitikakujundajad ning esmaabioskuste õppe ja koolitustega tegelevad organisatsioonid.
+
+(2) Projekt hõlmab vähemalt § 21 lõike 2 punktides 1–7 nimetatud tegevusi ja võib sisaldada punktis 8 nimetatud tegevusi.
+
+(3) Projekti tegevuste kohustuslikud väljundid on järgmised:
+
+1\) koostatud on tegevuskava aastateks 2024–2030. Tegevuskavas on kirjeldatud kavandatud tegevuste sisu, esitatud eesmärk ja oodatav tulemus ning välja toodud vastutaja ja kaasatavad osapooled, samuti ajakava ja vaheetapid iga tegevuse elluviimisel;
+
+2\) esmaabioskuste koolituste ja täiendõppe koostöövõrgustik toimib;
+
+3\) koostatud on plaan, kuidas suurendada kriisiolukordades vajaduse korral loetud nädalate jooksul elanikkonna esmaabioskusi ja kuidas tagada selle plaani elluviimine;
+
+4\) projekti käigus pakutakse tasuta esmaabioskuste koolitust, mis sisaldab ka psühholoogilise esmaabi komponenti;
+
+5\) esmaabioskuste koolituste ja täiendõppe koostöövõrgustiku põhimõtted, väärtused, eesmärgid, tegevused, liikmed ja nende valiku alused on selgelt sõnastatud ja leitavad toetuse saaja veebilehelt.
+
+(4) Projektil peavad olema järgmised väljundinäitajad:
+
+1\) lõike 3 punktis 2 nimetatud koostöövõrgustiku raames toimuvad kohtumised projekti elluviimise perioodil vähemalt kaks korda aastas;
+
+2\) lõike 3 punktis 3 nimetatud plaan on valminud 2024. aasta IV kvartaliks;
+
+3\) lõike 3 punktis 4 nimetatud koolitust pakutakse projekti elluviimise perioodil kõigis maakondades;
+
+4\) lõike 3 punktis 4 nimetatud koolitust on korraldatud vähemalt 200 koolis.
+
+(5) Projekti elluviimise perioodi alguseks peab taotlejal olema vähemalt kaheaastane kogemus ja partneril vähemalt üheaastane kogemus esmaabioskuste õppe ja koolituste valdkonnas.
+
+(6) Taotlusele on lisatud taotleja ja partneri kinnitus selle kohta, et nad lähtuvad oma tegevustes tõenduspõhisusest ja tervishoiuvaldkonna tunnustatud parimatest teadmistest ja praktikast, sealhulgas psühholoogilise esmaabi puhul Maailma Terviseorganisatsiooni psühholoogilise esmaabi kõige uuematest materjalidest.
+
+(7) Projekti tegevustes võivad osaleda organisatsioonid, mis lähtuvad lõikes 6 nimetatud põhimõtetest.
+
+### 6. jagu — Toiduabi programm
+
+#### § 23. Eesmärk ja toetatavad tegevused
+
+(1) Toiduabi programmi eesmärk on võrgustikutöö abil innovaatiliselt ära kasutada päästetud toitu, et Eesti eri piirkondades toetada eelkõige puudust kannatavaid inimesi võimalikult nende kodu lähedal koostöös kohalike omavalitsuste, kogukondade ja teiste osapooltega.
+
+(2) Toiduabi programmis toetatakse järgmisi tegevusi:
+
+1\) toidukao vähendamise või päästetud toidu ärakasutamise eesmärgil võrgustikutöö algatamine või edendamine;
+
+2\) arenguvisiooni loomine ning selle elluviimiseks koostöös punktis 1 nimetatud võrgustikuga tegevuskava koostamine;
+
+3\) punktis 2 nimetatud tegevuskava rakendamine.
+
+(3) Lõike 2 punktis 2 nimetatud arenguvisioon peab olema kooskõlas lõikes 1 nimetatud eesmärgiga ning sisaldama oodatavaid tulemusi ja nende mõju, sealhulgas rohelise jalajälje vähendamisele ja puudust kannatavatele inimestele.
+
+(4) Lõikes 2 nimetatud tegevuskava võib sisaldada muu hulgas tegevusi kohalike omavalitsuste ja kogukondade aktiveerimiseks ja võimestamiseks, puudust kannatavate ja abivajavate inimeste ülesleidmiseks, toidukao vähendamiseks, toidu päästmiseks või innovaatiliselt päästetud toidu ärakasutamiseks. Tegevuskava sisaldab ka tegevuste elluviimise ajakava.
+
+#### § 24. Eritingimused
+
+(1) Paragrahvi 23 lõikes 2 nimetatud tegevustest kasusaajad on järgmised:
+
+1\) punktide 1 ja 2 tegevustes toidupäästmise ja toiduabi korraldamisega tegelevad organisatsioonid, kogukonnad või kohalikud omavalitsused;
+
+2\) punkti 3 tegevuses laiem avalikkus, sealhulgas puudust kannatavad inimesed.
+
+(2) Projekt hõlmab kõiki § 23 lõikes 2 nimetatud tegevusi.
+
+(3) Projekti tegevuste kohustuslikud väljundid on järgmised:
+
+1\) võrgustikutöö toimib;
+
+2\) koostöövõrgustik on igal aastal laienenud selliselt, et tegevused lisanduvad ka teistesse piirkondadesse;
+
+3\) lahendus päästetud toidu innovaatiliselt ärakasutamiseks või toidukao vähendamiseks võimalikult tarbija kodu lähedal toimib.
+
+(4) Taotlejal ja partneril peab olema vähemalt üheaastane kogemus toidupäästmise või toiduabi korraldamisel.
+
+(5) Toetuse saaja ja partner peavad lähtuma projekti tegevustes Põllumajandus- ja Toiduameti juhenditest toidu annetamisel ja ümbertöötlemisel ning toiduainete käitlemisel.
+
+### 7. jagu — Laste ja perede heaolu ning vanemluse toetamise programm
+
+#### § 25. Eesmärk ja toetatavad tegevused
+
+(1) Laste ja perede heaolu ning vanemluse toetamise programmi eesmärk on väärtustada lastega peresid, toetada vanemlust ja edendada positiivseid jätkusuutlikke peresuhteid.
+
+(2) Programmis toetatakse järgmisi tegevusi:
+
+1\) laste kasvatamist ja lasterikkust väärtustavate hoiakute kujundamine;
+
+2\) lastega perede vajaduste koondamine ja huvikaitse;
+
+3\) perede heaolu suurendamine positiivse ja võrdse vanemluse ning pere- ja paarisuhete toetamise kaudu;
+
+4\) lapsevanemate teadlikkuse suurendamine lapse arenguetappidest ja sotsiaal-emotsionaalsete oskuste arendamisest;
+
+5\) esmatasandi ennetuskeskuste ja kogukondade võimestamine perede toetamisel ning kvaliteetsete pereteenuste loomisel, lõimimisel ja käivitamisel;
+
+6\) muud lõikes 1 nimetatud eesmärgi täitmiseks vajalikud tegevused, mis täiendavad punktides 1–5 nimetatud tegevusi.
+
+#### § 26. Eritingimused
+
+(1) Paragrahvi 25 lõikes 2 nimetatud tegevustest kasusaajad on lastega pered, lastega töötavad spetsialistid, laste heaolusse panustavad organisatsioonid, kohalikud omavalitsused või kogukonnad.
+
+(2) Projekt hõlmab vähemalt kolme § 25 lõikes 2 nimetatud tegevust.
+
+(3) Taotluse esitamise hetkeks peab taotlejal olema vähemalt kaheaastane ja partneril vähemalt üheaastane tõendatav kogemus valdkondades, mille edendamise eesmärgil toetust taotletakse.
+
+### 8. jagu — Laste õiguste ja kaasatuse edendamise programm
+
+#### § 27. Eesmärk ja toetatavad tegevused
+
+(1) Programmi eesmärk on edendada laste, sealhulgas haavatavas olukorras olevate laste õigusi ja kaasatust ning arendada laste ja lastekaitsetöö huvikaitset.
+
+(2) Programmis toetatakse järgmisi tegevusi:
+
+1\) laste õiguste, osaluse ja kaasatuse edendamine praktiliste tegevuste ja strateegilise teavitustööga;
+
+2\) laste, sealhulgas haavatavate sihtrühmade arvamuse ja vajaduste koondamine ning huvikaitse;
+
+3\) laste väärkohtlemist, sealhulgas kehalist karistamist ennetavad tegevused täiskasvanute ja laste teadlikkuse ja hoiakute kujundamiseks;
+
+4\) laste turvalise internetikasutuse edendamine, sealhulgas laste õiguste kaitse ja väärkohtlemise ennetamine digimaailmas;
+
+5\) lastekaitsetöötajate huvikaitse.
+
+#### § 28. Eritingimused
+
+(1) Paragrahvi 27 lõikes 1 nimetatud tegevustest kasusaajad on lapsed, sealhulgas haavatavas olukorras või selle riskis olevad lapsed, last kasvatavad vanemad või muud isikud, lastekaitsetöötajad, lastega töötavad spetsialistid, laste heaolusse panustavad organisatsioonid, kohalikud omavalitsused või kogukonnad. Laste õiguste ja kaasatuse edendamise eesmärgiga projektide tegevustest kasusaajad võivad olla ka riigiasutused, kelle tegevus on seotud laste heaolu ja õiguste tagamisega oma haldusalas.
+
+(2) Projekt hõlmab vähemalt kolme § 27 lõikes 2 nimetatud tegevust.
+
+(3) Taotluse esitamise hetkeks peab taotlejal olema vähemalt kaheaastane ja partneril vähemalt üheaastane tõendatav kogemus valdkondades, mille edendamise eesmärgil toetust taotletakse.
+
+(4) Paragrahvi 27 lõike 2 punktis 5 nimetatud tegevuse puhul ei kohaldu partnerile lõikes 3 sätestatud valdkondliku kogemuse nõuet juhul, kui partneri põhikirja kohaseks tegevuseks on lastekaitsetöö- ja lastekaitsetöötajate huvikaitse ning partner on asutatud aasta jooksul taotluse esitamise tähtajast.
+
+### 9. jagu — Sotsiaalvaldkonna tööjõu arendamise programm
+
+#### § 29. Eesmärk ja toetatavad tegevused
+
+(1) Sotsiaalvaldkonna tööjõu arendamise programmi eesmärk on parandada sotsiaalvaldkonna töötajate oskusi ja toetada nende arengut, edendada huvikaitset ja parandada valdkonnas töötamise mainet.
+
+(2) Sotsiaalvaldkonna tööjõu arendamise programmis toetatakse järgmisi tegevusi:
+
+1\) sotsiaalvaldkonnas tegutsevate töötajaid esindavate organisatsioonide huvikaitse- ja tegutsemisvõimekuse tugevdamine;
+
+2\) analüüside koostamine ja poliitikakujundamises osalemine;
+
+3\) sotsiaalvaldkonna põhikutsealade edendamine, kutsete populariseerimine ja valdkonnas töötamise maine parandamine, sealhulgas vähemalt üks kord aastas sotsiaaltöö teaduskonverentsi ja põhikutsealade tunnustusürituse korraldamine ja preemiate maksmine;
+
+4\) sotsiaalvaldkonnas alustavate juhtide ja töötajate arenguprogrammi ja mentorluse elluviimine;
+
+5\) muud lõikes 1 nimetatud eesmärgi täitmiseks vajalikud tegevused, mis täiendavad punktides 1–4 nimetatud tegevusi või käivitavad muutusi programmi eesmärkidest lähtuvalt, sealhulgas vähemalt üks kord kvartalis sotsiaalmeediakajastused enda poolt algatatud tegevustest.
+
+#### § 30. Eritingimused
+
+(1) Paragrahvi 29 lõike 2 punktis 1 nimetatud tegevustest kasusaajad on sotsiaalvaldkonnas tegutsevad töötajaid esindavad organisatsioonid ja punktides 2–4 nimetatud tegevustest kasusaajad on sotsiaalvaldkonna töötajad, poliitikakujundajad ja avalikkus.
+
+(2) Projekt hõlmab vähemalt § 29 lõike 2 punktides 1–4 nimetatud tegevusi ja võib sisaldada punktis 5 nimetatud tegevusi.
+
+(3) Taotluse esitamise hetkeks peab taotlejal olema vähemalt kolmeaastane tõendatav kogemus programmi eesmärkide täitmist toetavates tegevustes.
+
+(4) Määruse § 29 lõike 2 punktis 3 nimetatud põhikutsealade tunnustuspreemiad arvestab toetuse saaja projekti vahenditest.
+
+### 10. jagu — Vanemaealiste huvikaitse programm
+
+#### § 31. Eesmärk ja toetatavad tegevused
+
+(1) Vanemaealiste huvikaitse programmi eesmärk on edendada vanusesõbralikkust ühiskonnas ja vanemaealiste huvikaitset.
+
+(2) Vanemaealiste huvikaitse programmis toetatakse järgmisi tegevusi:
+
+1\) vanemaealiste huvikaitse valdkonnas tegutsevate organisatsioonide huvikaitse- ja tegutsemisvõimekuse hoidmine ja suurendamine, sealhulgas vanemaealiste huvikaitse koostöövõrgustiku eestvedamine, igapäevase võrgustikutöö korraldamine ja arendamine;
+
+2\) vanemaealiste huvikaitse, sealhulgas vanemaealiste tööhõive, sissetuleku, elukeskkonna, ligipääsetavuse, sotsiaalse kaasatuse, iseseisva toimetuleku ja õiguste teemadel;
+
+3\) kohalikes omavalitsustes tegutsevate vanemaealiste ja nende piirkondlike kogude loomine ning loodud kogude tegutsemisvõimekuse hoidmine ja nende töö koordineerimine;
+
+4\) muud lõikes 1 nimetatud ühiskonna vanusesõbralikkuse edendamise eesmärgi täitmiseks vajalikud tegevused, sealhulgas vähemalt üks kord kvartalis meediakajastused enda poolt algatatud tegevustest.
+
+(3) Lõikes 2 nimetatud tegevused peavad olema kooskõlas vanemaealiste võrgustikus heaks kiidetud tegevuskavade ja strateegiatega.
+
+#### § 32. Eritingimused
+
+(1) Paragrahvi 31 lõikes 2 nimetatud tegevustest kasusaajad on järgmised:
+
+1\) punkti 1 tegevustes vanemaealiste huvikaitse valdkonnas tegutsevad organisatsioonid ja asutused, mille hulgas peavad olema ka katus- ja võrgustikuorganisatsioonid, millel on üleriigiline katvus;
+
+2\) punkti 2 tegevustes poliitikakujundajad;
+
+3\) ülejäänud tegevustes vanemaealised, teised vanemaealiste huvikaitse edendamise eesmärgi saavutamisel olulised sihtrühmad, kelle kaasamise vajalikkust põhjendab taotleja taotluses, samuti laiem avalikkus.
+
+(2) Projekt hõlmab vähemalt § 31 lõike 2 punktides 1 ja 2 nimetatud tegevusi ja võib sisaldada punktides 3 ja 4 nimetatud tegevusi.
+
+(3) Paragrahvi 31 lõike 2 punktis 1 nimetatud tegevuse kohustuslik väljund on vanemaealiste huvikaitse koostöövõrgustiku toimimine.
+
+(4) Paragrahvi 31 lõike 2 punktis 2 nimetatud tegevuse kohustuslik väljund on tõendusmaterjalil, valdkonna poliitikadokumentidel, eksperthinnangutel või katus- ja võrgustikuorganisatsioonide seisukohtadel põhinevate ettepanekute esitamine Sotsiaalministeeriumi algatatud eelnõude, arengukavade või programmide avaliku kooskõlastamise käigus.
+
+(5) Paragrahvi 31 lõike 2 punktis 3 nimetatud tegevuse kohustuslik väljund on uute loodud piirkondlike vanemaealiste kogude arv ja kohalikes omavalitsustes tegutsevate vanemaealiste kogude arv.
+
+(6) Taotluse esitamise hetkeks peab taotlejal olema vähemalt kolmeaastane ja partneril vähemalt üheaastane tõendatav kogemus vanemaealiste huvikaitse valdkonnas. Taotlejaks saab olla organisatsioon, mis oli 2023. aasta 31. detsembri seisuga vanemaealiste strateegilise partnerluse võrgustiku liige.
+
+### 11. jagu — Suitsiidiennetuse programm
+
+#### § 33. Eesmärk ja toetatavad tegevused
+
+(1) Suitsiidiennetuse programmi eesmärk on ennetada enesetappe ja enesetapukatseid vaimse tervise abivõimaluste parandamise, suitsiidiohvrite lähedaste toetamise, teadlikkuse kasvatamise ja vastutustundliku meediakajastuse edendamise kaudu.
+
+(2) Suitsiidiennetuse programmis toetatakse järgmisi tegevusi:
+
+1\) suitsiidiennetuse valdkonna poliitikakujunduses osalemine, sealhulgas Sotsiaalministeeriumile ekspertarvamuste andmine suitsiidiennetuseks vajalike sekkumiste, teenuste ja töövahendite väljatöötamisel ning suitsiidiennetuse tegevuskava juhtrühma töös osalemine;
+
+2\) suitsiidiennetuseks, sealhulgas laste ja noorte enesetappude, enesetapukatsete ja enesevigastamise ennetamiseks vajalike teenuste ja sekkumiste arendamine, sealhulgas koolitajate koolitamine ja teenuste väljaarendamiseks või pakkumise suurendamiseks teenuseosutajate koolitamine;
+
+3\) suitsiidi sooritanute lähedaste tugivõrgustiku väljaarendamine, sealhulgas lähedasi toetavate tugigruppide töö korraldamine ja elluviimine ning suitsiidiga kokku puutunud laste toetamine;
+
+4\) vastutustundliku meediakajastuse edendamine, sealhulgas meedia seiramine ja suitsiiditeema kajastuse kohta süstematiseeritult info kogumine, suitsiiditeema vastutustundliku käsitlemise meediajuhiste uuendamine ja problemaatilistele meediakajastustele reageerimise juhiste väljatöötamine koostöös asjaomaste osapooltega, vastutustundliku meediakajastuse põhimõtete edastamine avalikkusele, ajakirjanikele ja meediaettevõtetele, problemaatilistele kajastustele reageerimine ning koolitused ajakirjanikele ja meediatöötajatele suitsiiditeema vastutustundlikuks kajastamiseks;
+
+5\) vastutustundliku meediakajastuse auhinna „Papageno auhind” väljaandmine koostöös meedia ja asjaomaste osapoolte esindajatega;
+
+6\) vaimse tervisega seotud hoiakuid puudutava uuringu tegemine ja selle põhjal Sotsiaalministeeriumile soovituste andmine stigma vähendamise tegevuste kavandamiseks;
+
+7\) muud lõikes 1 nimetatud suitsiidide ennetamise eesmärgi täitmiseks vajalikud tegevused.
+
+#### § 34. Eritingimused
+
+(1) Projekti tegevusest kasusaajad on teiste hulgas ka suitsiidiohvrite lähedased.
+
+(2) Projekt hõlmab vähemalt § 33 lõike 2 punktides 1–5 kirjeldatud tegevusi ja võib sisaldada punktides 6 ja 7 kirjeldatud tegevusi.
+
+(3) Projekti tegevuste kohustuslikud väljundid on:
+
+1\) koolitatute arv;
+
+2\) lähedaste tugigruppide kohtumiste arv ja osalenute arv;
+
+3\) vastutustundliku meediakajastuse juhiste uuendamine ja problemaatilisele meediakajastamisele reageerimise juhiste koostamine;
+
+4\) iga-aastase vastutustundliku meediakajastuse auhinna väljaandmine.
+
+(4) Taotluse esitamise hetkeks peab taotlejal olema vähemalt kolmeaastane tõendatav kogemus vaimse tervise valdkonnas. Taotleja peab projekti kaasama vähemalt ühe partneri, kellel on taotlemise hetkeks vähemalt kolmeaastane tõendatav kogemus meediateemadel või kirjeldama taotluses muul viisil koostööd sellise organisatsiooniga.
+
+### 12. jagu — Puudega inimeste huvikaitse programm
+
+\[RT I, 02.07.2025, 3 - jõust. 05.07.2025\]
+
+#### § 34<sup>1</sup>. Eesmärk ja toetatavad tegevused
+
+(1) Puudega inimeste huvikaitse programmi eesmärk on tugevdada puudega ja kroonilise haigusega inimeste rolli ühiskonnas ning suurendada nende õigusi ja kaasatust, arendades süsteemset huvikaitset riigi ja kohalikul tasandil.
+
+(2) Puudega inimeste huvikaitse programmis toetatakse järgmisi huvikaitselisi tegevusi, mis aitavad kaasa programmi eesmärkide saavutamisele:
+
+1\) puudega ja kroonilise haigusega inimeste õiguste, osaluse ja kaasatuse edendamine ning huvikaitse arendamine eri valdkondades, näiteks sotsiaalhoolekanne, haridus, tööhõive, ligipääsetavus, tervishoid, riigi ja kohalikul tasandil praktiliste tegevuste ja strateegilise teavitustöö kaudu;
+
+2\) teadlikkuse suurendamine, hoiakute kujundamine ja avalikkuse kaasamine, et tugevdada puudega ja kroonilise haigusega inimeste rolli ja mõju ühiskonnas;
+
+3\) heaolu arengukava tegevuste elluviimisele kaasaaitamine, puudega ja kroonilise haigusega inimeste arvamuste ja vajaduste koondamine ning lahendusettepanekute esitamine, et algatada süsteemseid muutusi;
+
+4\) üle-eestilise võrgustikutöö arendamine ja eestvedamine ning puudega ja kroonilise haigusega inimeste esindusorganisatsioonide huvikaitse tugevdamine, tagades tegevuse elluviimise üle-eestiliselt ning puudega ja kroonilise haigusega inimeste esindusorganisatsioonide sisulise kaasatuse.
+
+(3) Puudega inimeste huvikaitse programmis toetatakse järgmisi strateegilisi tegevusi, mis aitavad kaasa programmi eesmärkide saavutamisele:
+
+1\) nõustamine puudega ja kroonilise haigusega inimestele olulistes igapäevaelu küsimustes, sealhulgas õiguste, hariduse, töötamise, iseseisva toimetuleku, teenuste ja toetuste teemadel;
+
+2\) õigusabi pakkumine puudega või kroonilise haigusega inimestele ja nende lähedastele seoses riigi või kohaliku omavalitsuse teenuste ja toetustega;
+
+3\) toe pakkumine hoolduskoormusega inimestele ja vastava veebilahenduse haldamine.
+
+(4) Puudega inimeste huvikaitse programmis toetatakse muid eesmärkide saavutamiseks vajalikke tegevusi, mis täiendavad lõigetes 2 ja 3 nimetatud tegevusi ning aitavad kaasa programmi eesmärkide saavutamisele.
+
+\[RT I, 02.07.2025, 3 - jõust. 05.07.2025\]
+
+#### § 34<sup>2</sup>. Eritingimused
+
+(1) Paragrahvi 34<sup>1</sup> lõigetes 2 ja 3 nimetatud tegevustest kasusaajad on:
+
+1\) puudega ja kroonilise haigusega inimesed, nende esindajad ja lähedased;
+
+2\) puudega ja kroonilise haigusega inimeste heaolusse panustavad esindusorganisatsioonid;
+
+3\) poliitikakujundajad ja avalikkus.
+
+(2) Projekt hõlmab vähemalt § 34<sup>1</sup> lõigetes 2 ja 3 nimetatud tegevusi ning võib sisaldada sama paragrahvi lõikes 4 nimetatud tegevusi.
+
+(3) Projekti tegevuste kohustuslikud väljundnäitajad on järgmised:
+
+1\) üle-eestiline võrgustikutöö on toetatud;
+
+2\) osaletakse valdkonna õigusaktide väljatöötamises ja muutmises ning esitatakse ettepanekuid Sotsiaalministeeriumi algatatud eelnõude, arengukavade ja programmide kohta;
+
+3\) avaldatud on vähemalt 12 arvamusartiklit aastas;
+
+4\) osaletakse töögruppides, komisjonides, nõukogudes ja ümarlaudadel;
+
+5\) võrgustikutöösse kaasatakse vähemalt 35 puudega ja kroonilise haigusega inimeste esindusorganisatsiooni, sealhulgas eri maakondadest ja sihtrühmadest, et tagada regionaalne ja temaatiline esindatus;
+
+6\) vähemalt 65% projekti eelarvest suunatakse sisuliste tegevuste elluviimiseks koostöös puudega ja kroonilise haigusega inimeste esindusorganisatsioonidega, kes panustavad programmi eesmärkide saavutamisse.
+
+(4) Taotluse esitamise ajaks peab taotlejal olema vähemalt 3-aastane tõendatav üle-eestilises puudega inimeste huvikaitse võrgustikutöös osalemise kogemus ning ta peab olema tegutsenud puudega inimeste esindusorganisatsioonina.
+
+\[RT I, 02.07.2025, 3 - jõust. 05.07.2025\]
+
+## 5. peatükk — Toetuse taotlemine
+
+### § 35. Taotlusvooru avamine
+
+(1) Taotlusvoorus toetatavad valdkondlikud programmid, projektide elluviimise perioodi ja eelarve kinnitab valdkonna eest vastutav minister vabaühenduste rahalise toetamise komisjoni (edaspidi *komisjon*) ettepanekul.
+
+(2) Sotsiaalministeerium teavitab toetuse andjat lõikes 1 nimetatud asjaoludest.
+
+(3) Taotlusvooru võib korraldada ühe või mitme valdkondliku programmi rahastamiseks.
+
+(4) Toetuse andja avalikustab taotlusvooru avamise teate, mis hõlmab lõikes 1 nimetatud asjaolusid, taotluse esitamise tähtpäeva ning toetuse taotlemise ja kasutamise tingimused oma kodulehel vähemalt kümme tööpäeva enne taotlusvooru avamise päeva.
+
+(5) Taotlusvoor on avatud vähemalt 30 kalendripäeva.
+
+### § 36. Taotluse esitamine
+
+(1) Taotleja esitab toetuse andjale taotluse koos taotlemisega seotud dokumentidega taotlusvooru tähtpäevaks elektrooniliselt e-toetuse keskkonnas, lähtudes selles esitatud andmeväljadest.
+
+(2) Kui e-toetuse keskkonna töös esineb tehniline viga, mis takistab taotluse tähtaegset esitamist, loetakse taotluse esitamise tähtpäevaks järgmine tööpäev pärast vea kõrvaldamist.
+
+(3) Taotleja võib taotlusvooru ühe valdkondliku programmi kohta esitada ühe taotluse.
+
+(4) Kui taotlust ei esitata taotlusvooru tähtpäevaks, jäetakse taotlus läbi vaatamata.
+
+## 6. peatükk — Taotluste menetlemine
+
+### § 37. Taotleja, partneri ja taotluse nõuetele vastavuse kontrollimine
+
+(1) Toetuse andja kontrollib taotleja, partneri ja taotluse nõuetele vastavust kümne tööpäeva jooksul taotluste esitamise tähtpäevast arvates.
+
+(2) Kui toetuse andja avastab taotluse nõuetele vastavuse kontrollimisel taotluses puudusi, teatab ta sellest esimesel võimalusel taotlejat ja määrab puuduste kõrvaldamiseks tähtaja kuni viis tööpäeva, mille võrra pikeneb taotluse menetlemise tähtaeg.
+
+(3) Taotlejal on õigus esitatud taotlust muuta vaid toetuse andja osutatud puuduste kõrvaldamiseks.
+
+(4) Taotleja ja partner peavad vastama §-s 11 ja programmis sätestatud nõuetele.
+
+(5) Taotlus vastab nõuetele, kui taotlus on esitatud määruses sätestatud korras ja see vastab §-s 12 sätestatud nõuetele.
+
+(6) Taotlus ei vasta nõuetele, kui esineb vähemalt üks järgmistest asjaoludest:
+
+1\) taotluses on esitatud ebaõigeid või mittetäielikke andmeid või taotleja mõjutab pettuse või ähvardusega või muul õigusvastasel viisil taotluse menetlemist;
+
+2\) taotleja ja partner ei võimalda kontrollida taotluse vastavust nõuetele;
+
+3\) taotleja ei ole määratud tähtaja jooksul taotluses esinevaid puudusi kõrvaldanud;
+
+4\) taotlust ei ole puuduste kõrvaldamisel muudetud üksnes osas, millele toetuse andja on puuduste kõrvaldamisel osutanud.
+
+### § 38. Taotluste hindamine, hindamiskriteeriumid ja valiku kord
+
+(1) Toetuse andja teavitab Sotsiaalministeeriumit taotluste nõuetele vastavaks tunnistamisest kahe tööpäeva jooksul taotluste nõuetele vastavaks tunnistamisest arvates.
+
+(2) Nõuetele vastavaks tunnistatud taotluse kohta annab komisjon hinnangu, kas taotluses kirjeldatud tegevused on tõhusad valdkondliku programmi eesmärkide täitmiseks ja tulemuste saavutamiseks.
+
+(3) Komisjonil on õigus asuda taotlejaga läbirääkimistesse taotluse sisu või eelarve muutmiseks, sealhulgas teha ettepanek liita sisult kattuvad või teineteist täiendavad taotlused üheks. Komisjoni nimel peab taotlejaga läbirääkimisi komisjoni määratud esindaja (edaspidi *läbirääkija*). Komisjon määrab tähtaja läbirääkimiste pidamiseks. Taotluse menetlemise aeg pikeneb läbirääkimisteks eraldatud aja võrra.
+
+(4) Sotsiaalministeerium teavitab toetuse andjat läbirääkimiste algatamisest ja tähtajast ning ettepaneku sisust.
+
+(5) Läbirääkimise tulemusena kokkuleppele jõudmise korral teavitab taotleja e-toetuse keskkonna kaudu toetuse andjat soovist muuta taotlust. Toetuse andja saadab e-toetuse keskkonna kaudu taotlejale taotluse muutmiseks tagasi.
+
+(6) Kui taotlust on läbirääkimiste tulemusel muudetud ja taotlus on toetuse andjale uuesti esitatud, teavitab toetuse andja sellest läbirääkijat kahe tööpäeva jooksul. Läbirääkija tutvustab seejärel komisjonile läbirääkimise tulemusel muudetud taotlust.
+
+(7) Komisjoni ettepanek taotlused hindamisele saata või rahuldamata jätta tehakse komisjoni koosolekul, mis vormistatakse protokollina ja edastatakse toetuse andjale hiljemalt allkirjastamise järgsel tööpäeval. Taotluste puhul, mille üle toimuvad läbirääkimised, võidakse koostada eraldi protokoll. Komisjonil on õigus teha otsus läbirääkimiste jätkamiseks.
+
+\[RT I, 02.07.2025, 3 - jõust. 05.07.2025\]
+
+(8) Komisjon teeb läbirääkimiste tulemusel ettepaneku taotlus rahuldamata jätta, kui:
+
+1\) taotlejaga peetud läbirääkimistel ei saavutatud kokkulepet projekti sisu või eelarve muutmiseks;
+
+2\) taotleja ei esita läbirääkimiste järel toetuse andjale komisjoni määratud tähtajaks muudetud taotlust;
+
+3\) läbirääkimiste järel esitatud taotlus ei vasta saavutatud kokkuleppele.
+
+(9) Läbirääkimiste tulemusena komisjoni poolt positiivse hinnangu saanud taotlused saadetakse hindamisele.
+
+(10) Valdkonna eest vastutav minister nimetab käskkirjaga iga valdkondliku programmi hindajad. Hindamisse võib kaasata väliseksperdi. Sotsiaalministeerium teavitab hindajatest toetuse andjat.
+
+(11) Nõuetele vastavaks tunnistatud ja komisjonilt positiivse hinnangu saanud taotluses kajastatud projekti hindavad hindajad vastavalt hindamisjuhendile (lisa) järgmiste hindamiskriteeriumite alusel:
+
+1\) projekti vajalikkuse põhjendatus ja vastavus sihtrühma vajadustele – kuni 5 punkti;
+
+2\) projekti eesmärgipärasus – kuni 6 punkti;
+
+3\) projekti tegevuste, tulemuste mõõtmise ja ajakava läbimõeldus ja põhjendatus ning nende omavaheline loogiline seos – kuni 5 punkti;
+
+4\) tegevuste mõju kestlikkus – kuni 5 punkti;
+
+5\) taotleja ja partneri teadmiste, oskuste ja kogemuste piisavus kavandatud tulemuste saavutamiseks – kuni 4 punkti;
+
+6\) eelarve põhjendatus, realistlikkus ja säästlikkus – kuni 5 punkti.
+
+(12) Hindaja hindab projekte seitsme tööpäeva jooksul taotluse hindamiseks saamisest arvates.
+
+(13) Kui projekti hindab mitu hindajat, leitakse hindamiskriteeriumite alusel punktide aritmeetiline keskmine.
+
+(14) Toetuse andja reastab projektid paremusjärjestuse saamiseks hindamise tulemusel valdkondlike programmide kaupa eraldi pingeritta alates suurima punktisumma saanud projektist. Pingeritta seatakse projektid, mis hindamise tulemusena on koondhindeks saanud vähemalt 16 punkti ja ei ole üheski hindamiskriteeriumis saanud 0 punkti.
+
+(15) Võrdse koondhindega projektide korral saab pingereas kõrgema koha projekt, mille lõike 11 punktides 1 ja 2 nimetatud hindamiskriteeriumite liidetud punktisumma on suurem. Kui punktisummad on võrdsed, saab pingereas kõrgema koha projekt, mille lõike 11 punktis 3 nimetatud hindamiskriteeriumi punktisumma on suurem. Kui ka need punktisummad on võrdsed, saab pingereas kõrgema koha ajaliselt varem esitatud taotlus.
+
+(16) Toetuse andja rahuldab toetuse taotlused pingerea alusel. Kui lävendit ületavate taotluste summa ületab valdkondliku programmi taotlusvooru eelarvet, rahuldatakse taotlused seni, kuni jagub eelarvevahendeid.
+
+### § 39. Taotluse rahuldamata jätmine
+
+(1) Taotluse rahuldamata jätmise otsuse teeb toetuse andja, kui:
+
+1\) taotleja, partner või taotlus tunnistatakse nõuetele mittevastavaks;
+
+2\) komisjon on teinud ettepaneku jätta taotlus rahuldamata;
+
+3\) hindamise tulemusena on projekti koondhinne alla 16 punkti või vähemalt ühe hindamiskriteeriumi väärtuseks on 0 punkti;
+
+4\) valdkondliku programmi taotlusvooru eelarvet ja taotluste pingerida arvestades ei ole võimalik taotlust rahuldada;
+
+5\) taotleja või partner mõjutab pettuse või ähvardusega või muul õigusvastasel viisil taotluse menetlemist.
+
+(2) Taotlejale tehakse taotluse rahuldamata jätmise kohta tehtud otsus teatavaks e-toetuse keskkonna vahendusel kolme tööpäeva jooksul otsuse tegemisest arvates.
+
+### § 40. Taotluse rahuldamise otsuse tegemine
+
+(1) Toetuse andja teeb taotluse rahuldamise otsused kümne tööpäeva jooksul § 38 lõikes 14 nimetatud pingerea koostamisest.
+
+(2) Taotluse rahuldamise otsuses sätestatakse muu hulgas toetuse kasutamise eesmärk, toetatavad tegevused, tegevuste elluviimise periood, ettemaksete suurused, väljamaksete tegemise ja aruannete esitamise kord ning kindlasummalise makse aluseks olevad § 12 lõike 1 punktis 6 nimetatud asjaolud.
+
+\[RT I, 02.07.2025, 3 - jõust. 05.07.2025\]
+
+(3) Välisprojekti omafinantseeringu katmiseks taotletud toetuse korral tehakse taotluse rahuldamise otsus tingimuslikuna ning ettemakset ega väljamakset ei tehta enne, kui taotleja on esitanud toetuslepingu või otsuse, millega määratakse toetus, ja sellega heakskiidetud projekti koos kõigi lisadega.
+
+(4) Taotluse rahuldamise otsus tehakse toetuse saajale kättesaadavaks e-toetuse keskkonna kaudu.
+
+### § 40<sup>1</sup>. Taotluse osaline rahuldamine
+
+(1) Taotluse võib osaliselt rahuldada tingimusel, et taotleja on nõus toetuse andja ettepanekuga vähendada taotletud toetuse summat või muuta projektis kavandatud tegevusi. Kui taotleja ei ole toetuse andja ettepanekuga nõus, teeb toetuse andja otsuse jätta taotlus rahuldamata.
+
+(2) Taotluse osalise rahuldamise otsus tehakse toetuse saajale kättesaadavaks e-toetuse keskkonna kaudu.
+
+\[RT I, 02.07.2025, 3 - jõust. 05.07.2025\]
+
+## 7. peatükk — Projekti muutmine ja taotluse rahuldamise otsuse kehtetuks tunnistamine
+
+### § 41. Projekti muutmine
+
+(1) Põhjendatud juhtudel ja toetuse andja nõusolekul võib elluviidavas projektis ja kindlasummalise makse aluseks olevatest tegevustes ja nende tulemustes, sealhulgas väljundites ja nende sihttasemes, teha muudatusi võrreldes taotluse rahuldamise otsuses kavandatuga projekti toetuse ulatuses.
+
+(2) Projekti muutmiseks esitab toetuse saaja avalduse e-toetuse keskkonna kaudu. Projekti muutmise saab algatada ka toetuse andja või Sotsiaalministeerium.
+
+(3) Toetuse andja kooskõlastab lõikes 1 nimetatud muudatused enne muutmisotsuse tegemist Sotsiaalministeeriumiga kirjalikku taasesitamist võimaldavas vormis.
+
+(4) Sotsiaalministeeriumil on õigus projekti muudatus kooskõlastamata jätta eelkõige juhul, kui muudatus ei ole kooskõlas valdkondliku programmi tingimustega, soovitav muudatus seab kahtluse alla valdkondlikus programmis nõutud näitajate saavutamise või projekti tegevuste lõpetamise projekti elluviimise perioodil.
+
+(5) Sotsiaalministeerium kooskõlastab projekti muutmise 20 tööpäeva jooksul pärast asjakohase ja puudusteta avalduse saamist või toetuse andja algatusel muudatuse tegemise korral toetuse saaja seisukoha saamist.
+
+(6) Toetuse andja vormistab projekti muudatused taotluse rahuldamise otsuse muudatusena, kui on saanud Sotsiaalministeeriumilt kooskõlastuse projekti muudatuste kohta. Toetuse andja ei nõustu muutma projekti osas, millega Sotsiaalministeerium ei ole nõustunud.
+
+(7) Projekti väheolulise muudatuse tegemiseks avaldust toetuse andjale ei esitata. Väheoluliseks muudatuseks loetakse järgmist:
+
+1\) projekti tegevuse ajakava muutmine tingimusel, et tegevuse ja projekti lõpptähtaeg ei muutu;
+
+2\) projekti tegevuse muutmine nii, et sellega ei muutu oluliselt tegevuse sisu ega kindlasummalise makse aluseks olev tulemus ja selle sihttase.
+
+(8) Väheolulised muudatused ja nende põhjendused esitatakse projekti vahe- ja lõpparuandes.
+
+### § 42. Taotluse rahuldamise otsuse kehtetuks tunnistamine
+
+(1) Toetuse andja võib tunnistada taotluse rahuldamise otsuse kehtetuks, kui:
+
+1\) ilmneb asjaolu, mille korral ei oleks taotlust rahuldatud;
+
+2\) taotlemisel või projekti elluviimisel on taotleja, toetuse saaja või partner teadlikult esitanud ebaõiget või mittetäielikku teavet või teave on jäetud teadlikult esitamata;
+
+3\) toetuse saaja või partner rikub taotluse rahuldamise otsuses nimetatud kohustust;
+
+4\) toetuse saaja ei nõustu toetuse andja või Sotsiaalministeeriumi ettepanekuga muuta projekti;
+
+5\) toetuse saaja loobub toetusest.
+
+(2) Toetuse saajal tuleb taotluse rahuldamise otsuse kehtetuks tunnistamise korral alusetult saadu tagastada vastavalt tagasinõudele.
+
+(3) Toetuse andja teavitab Sotsiaalministeeriumit taotluse rahuldamise otsuse kehtetuks tunnistamisest viie tööpäeva jooksul otsuse tegemisest arvates.
+
+## 8. peatükk — Toetuse maksmise tingimused ja aruannete esitamine
+
+### § 43. Toetuse maksmise tingimused
+
+(1) Toetuse andja maksab toetuse välja ettemaksena toetuse saaja taotluse alusel vastavalt taotluse rahuldamise otsuses nimetatud ettemaksete suurusele järgmiselt:
+
+\[RT I, 02.07.2025, 3 - jõust. 05.07.2025\]
+
+1\) esimene ettemakse kümne tööpäeva jooksul pärast taotluse rahuldamise otsuse tegemist;
+
+2\) järgmine ettemakse iga aasta jaanuaris ja juulis.
+
+(2) Toetuse andja võib toetuse maksed osaliselt või täielikult peatada, kui:
+
+1\) vahearuandes esineb puudusi;
+
+2\) toetuse kasutamisega seotud kohustus on täitmata;
+
+3\) ilmnenud asjaolude põhjal on kahtlus, et toetuse saaja või partner ei suuda ettenähtud ajaks kavandatud tulemusi saavutada;
+
+4\) võimaliku toetuse tagasinõudmise asjaolud on selgitamisel või tagasinõutav summa ei ole lõplikult tagasi makstud;
+
+5\) toetuse saaja või partneri või tema juhtorgani liikme suhtes on esitatud kahtlustus § 11 lõike 4 punktis 4 nimetatud asjaolude suhtes.
+
+(3) Toetuse andja keeldub toetuse või selle osa väljamaksmisest, kui kindlasummalise makse tulemuse saavutamine ei ole tõendatud ka peale täiendavat tähtaega või olulises osas, vahe- või lõpparuannet ei kinnitata või kui toetuse saaja majanduslik olukord on selliselt halvenenud, et toetuse kasutamine või projekti elluviimine on ohustatud ja toetuse andja tunnistab taotluse rahuldamise otsuse kehtetuks.
+
+### § 44. Toetuse kasutamisega seotud aruannete esitamine ja kontrollimine
+
+(1) Toetuse saaja esitab toetuse andjale projekti elluviimise kohta vahearuaruande e-toetuse keskkonna kaudu kaks korda aastas taotluse rahuldamise otsuses märgitud tähtaegadel.
+
+(2) Toetuse saaja esitab toetuse andjale projekti lõpparuande e-toetuse keskkonna kaudu 30 kalendripäeva jooksul projekti elluviimise perioodi lõppkuupäevast arvates.
+
+(3) Aruandes kajastatakse vastavalt e-toetuse keskkonna aruande andmeväljadele teave kindlasummalise makse aluseks olevate tegevuste elluviimise ja saavutatud tulemuste kohta, sealhulgas näitajad ja nende saavutatud sihttasemed, samuti tehtud tegevuste kulu summa vastavalt nende tegevuste eelarvelisele maksumusele esitatud taotluses.
+
+\[RT I, 06.01.2026, 44 - jõust. 09.01.2026\]
+
+(4) Kui tehniline viga e-toetuse keskkonna töös takistab aruande esitamist, loetakse uueks aruande esitamise tähtpäevaks järgmine tööpäev pärast vea kõrvaldamist.
+
+(5) Kui toetust taotletakse omafinantseeringu katmiseks, esitab toetuse saaja projekti lõpparuandega ka välisprojekti raames esitatud ja kinnitatud lõpparuande, või kui välisprojekt lõpeb hiljem, siis muud seniste tulemuste saavutamist tõendavad dokumendid.
+
+(6) Toetuse andja kontrollib 30 kalendripäeva jooksul aruande saamisest arvates, kas aruanne on nõuetekohaselt täidetud. Puuduste korral annab toetuse andja toetuse saajale tähtaja puuduste kõrvaldamiseks, mille võrra pikeneb aruande kontrollimise aeg.
+
+(7) Toetuse andja kooskõlastab puudusteta aruande Sotsiaalministeeriumiga enne aruande kinnitamist.
+
+(8) Sotsiaalministeerium esitab toetuse andjale omapoolsed seisukohad kümne tööpäeva jooksul aruande saamisest arvates. Kui Sotsiaalministeerium kooskõlastab aruande, kinnitab toetuse andja lõpparuande viie tööpäeva jooksul kooskõlastuse saamisest arvates.
+
+(9) Toetuse andjal ja Sotsiaalministeeriumil on õigus kontrollida toetuse saaja esitatud aruannete õigsust ja toetuse kasutamise sihipärasust. Muu hulgas on õigus:
+
+1\) kontrollida toetuse kasutamisega seotud andmeid ja dokumente;
+
+2\) saada toetuse saajalt kirjalikke ja suulisi seletusi;
+
+3\) viibida toetuse saaja ja partneri ruumides ja territooriumil, mis on seotud tegevuse elluviimisega.
+
+## 9. peatükk — Toetuse saaja, partneri ja toetuse andja õigused ja kohustused
+
+### § 45. Toetuse saaja ja partneri kohustused
+
+(1) Toetuse saaja ja partner on kohustatud:
+
+1\) kasutama toetust sihipäraselt ja otstarbekalt taotluse rahuldamise otsuses fikseeritud tähtaegade ja tingimuste kohaselt;
+
+2\) teavitama toetuse andjat esimesel võimalusel, kui ilmnevad tegevuse elluviimist raskendavad või takistavad asjaolud;
+
+3\) koguma ja esitama toetuse andjale andmeid kindlasummalise makse tulemuse saavutamise kohta;
+
+4\) täitma projekti elluviimisega seotud õigusaktides sätestatud kohustusi;
+
+5\) vastama toetuse andja küsimustele kümne tööpäeva jooksul, välja arvatud juhul, kui asjaoludest tulenevalt on antud pikem tähtaeg;
+
+6\) võimaldama toetuse andjal kontrollida projekti elluviimisega seotud dokumente või teha kohapealset kontrolli;
+
+7\) kandma tagasinõutud toetuse toetuse andjale tagasi tagasinõudes märgitud tähtpäevaks;
+
+8\) säilitama taotlemise, toetuse saamise ja projekti elluviimisega seonduvat dokumentatsiooni kolm aastat pärast projekti abikõlblikkuse perioodi lõppu ning vähese tähtsusega abi saamise dokumente kümne majandusaasta jooksul taotluse rahuldamise otsuse tegemisest arvates;
+
+9\) esitama projekti raames valminud trükise, koolitusmaterjali, andmekogu, uuringu aruande või muu sellise tulemuse koos aruandega ühes eksemplaris elektrooniliselt;
+
+10\) nimetama Sotsiaalministeeriumit kirjeldatud tegevuse toetajana vastavates trükistes, reklaamides ja avalikel esinemistel, kasutades võimaluse korral Sotsiaalministeeriumi logo. Logo kasutus peab vastama valitsusasutuste ühise visuaalse identiteedi stiilijuhistele;
+
+11\) avalikustama oma veebilehel ja sotsiaalmeedia kanalis toetatud projekti nime, eesmärgid, kogu- ja toetussumma ning info olulisemate tegevuste ja tulemuste kohta;
+
+12\) lõpetama toetuse andja või Sotsiaalministeeriumi soovi korral Sotsiaalministeeriumi sümboolika edasise kasutamise;
+
+13\) tagama tegevuste elluviimisel minimaalse ökoloogilise jalajälje, sealhulgas lähtudes keskkonnasõbraliku sündmuse põhimõtetest ürituste korraldamisel, vähendades märkimisväärselt ühekordsete toodete ja pakendite kasutamist, digiprügi ja paberdokumentide hulka ning trükiste tellimist, tegeledes transpordi tõhusama planeerimisega, tagades võimaluse korral osalemise distantsilt. Teenuste ja toodete, sealhulgas mööbel, puhastustooted, kontoritarbed, IT-seadmed, hankimisel lähtutakse soovitavalt keskkonnaministri 29. juuni 2021. a määruses nr 35 „Hankelepingu esemeks olevate toodete ja teenuste keskkonnahoidlikud kriteeriumid ja nende kohta riigihanke alusdokumentides kehtestavad tingimused” sätestatud põhimõtetest.
+
+(2) Kui taotletava toetuse näol on tegemist komisjoni määruse (EL) 2023/2832 kohase vähese tähtsusega abi andmisega ning kui üldist majandushuvi pakkuva teenuse osutamise kohustus on toetuse saajale pandud enne toetuse taotlemist, esitab toetuse saaja ülesande andmist tõendava dokumendi nimetatud komisjoni määruse preambuli punkti 6 tähenduses.
+
+(3) Välisprojekti omafinantseeringu katmiseks tehtud kuludele kohaldatakse käesoleva paragrahvi tingimusi niivõrd, kuivõrd need ei lähe vastuollu välisprojektile seatud tingimustega.
+
+### § 46. Toetuse saaja ja partneri kohustused seoses hankimisega
+
+(1) Toetuse saaja ja partner on kohustatud järgima riigihangete seadust, kui ta on hankija riigihangete seaduse tähenduses, ning:
+
+1\) küsima riigihanke puhul, mille eeldatav maksumus jääb alla lihthanke piirmäära või alla riigihanke piirmäära, kui riigihangete seadus selle riigihanke kohta lihthanke piirmäära ei kehtesta, kirjalikult kolm võrreldavat hinnapakkumust piisava kvalifikatsiooniga ettevõtjatelt ja esitama saadud hinnapakkumused nende küsimist tõendavate dokumentidega toetuse andjale koos sõlmitud hankelepinguga, kui hankelepingu käibemaksuta summa on suurem kui 20 000 eurot;
+
+2\) tegema lihthanke piirmäära ületavad projektiga seotud riigihanked riigihangete registri kaudu, järgides riigihangete seaduses sätestatud tingimusi.
+
+(2) Kui toetuse saaja ja partner ei ole hankija riigihangete seaduse tähenduses, ja asja, teenuse või ehitustöö (edaspidi *ost*) abikõlblik maksumus ilma käibemaksuta on võrdne 20 000 euroga või sellest suurem, peab ta ostu maksumuse väljaselgitamiseks korraldama ostumenetluse lähtuvalt lõigetes 3–5 sätestatud nõuetest.
+
+(3) Ostumenetluse läbiviimisel tuleb järgida järgmisi põhimõtteid:
+
+1\) ostumenetluses koheldakse isikuid võrdselt ja ühetaoliselt;
+
+2\) ostumenetlus viiakse läbi läbipaistvalt ja kontrollitavalt;
+
+3\) ostu kirjeldus peab tagama turuosaliste võrdse ligipääsu ostumenetlusele;
+
+4\) tuleb vältida olukorda, kus tehingupartnerit (töövõtja, tarnija vms) võib pidada mingil põhjusel (sugulus ja hõimlus, seotus juriidiliste isikute kaudu vms) seotuks toetuse saaja või tema projektiga seotud ametiisikuga, ja sellise olukorra ilmnemisel teavitada sellest viivitamata toetuse andjat;
+
+5\) funktsionaalselt koos toimivat või samaliigilist ostu ei ole kunstlikult jagatud osadeks eesmärgiga vältida lõikes 2 nimetatud kohustust;
+
+6\) riigihangete registris või väljaspool seda ostu tegemise kohta avaldatud teates või hinnapäringus kirjeldatakse läbirääkimiste korda juhul, kui pärast pakkumuse esitamist peetakse pakkujaga läbirääkimisi.
+
+(4) Ostumenetluse läbiviimine riigihangete registris peab lisaks lõikes 3 nimetatule vastama järgmistele nõuetele:
+
+1\) ostumenetluse läbiviimiseks on seatud asjakohased ja proportsionaalsed tingimused, mis arvestavad ostu eeldatavat mahtu ja maksumust;
+
+2\) nimetatud on ostu tunnused, tehnilised andmed või muud ostu iseloomustavad andmed, millele pakkumus peab vastama;
+
+3\) määratud on pakkumuse esitamise tähtaeg, mis on ostu kohta koostatavate pakkumuste aja suhtes proportsionaalne;
+
+4\) ostumenetlusega seotud teabevahetus toetuse saaja ja pakkuja vahel, sealhulgas juurdepääsu võimaldamine ostuteate ja sellega seotud dokumentidele ning pakkumuste ja selgituste esitamine, toimub ostukeskkonnas;
+
+5\) pakkumused võetakse vastu ja avatakse riigihangete registris;
+
+6\) toetuse andja esindaja lisatakse riigihangete registris ostu juurde kui vaatleja;
+
+7\) punktis 1 nimetatud tingimusi ei või muuta pärast pakkumuste esitamise tähtaega ega kalduda neist kõrvale parima pakkumuse valimisel;
+
+8\) teade ostumenetluse kohta on avalik;
+
+9\) lõike 5 punktis 5 nimetatud nõudele.
+
+(5) Ostumenetlus, mida ei viida läbi riigihangete registris, peab lisaks lõikes 3 nimetatule vastama järgmistele nõuetele:
+
+1\) ostumenetluse läbiviimiseks on seatud asjakohased ja proportsionaalsed tingimused, mis arvestavad ostu eeldatavat mahtu ja maksumust;
+
+2\) hinnapäringud ja saadud pakkumused on tehtud vähemalt kirjalikku taasesitamist võimaldavas vormis;
+
+3\) hinnapäring esitatakse vähemalt kahele ettevõtjale, välja arvatud juhul, kui kavandatava ostu turul puudub ettevõtjate paljusus;
+
+4\) ostumenetlust puudutavat dokumentatsiooni, sealhulgas elektrooniliselt või paberkandjal toimunud kirjavahetust pakkuja ja toetuse saaja vahel ning teisi ostumenetluse tõendeid, säilitatakse dokumentide säilitamistähtaja lõpuni;
+
+5\) ostumenetluse tulemusel sõlmitakse leping hinnapäringus ja pakkumuses nimetatud tingimustel.
+
+### § 47. Toetuse saaja ja partneri õigused
+
+(1) Toetuse saajal ja partneril on õigus saada toetuse andjalt infot ja nõuandeid, mis on seotud määruses sätestatud nõuete ning toetuse saaja ja partneri kohustustega.
+
+(2) Toetuse saajal on õigus esitada põhjendatud juhul projekti muutmise taotlus.
+
+### § 48. Toetuse andja kohustused
+
+Toetuse andja on kohustatud:
+
+1\) säilitama vähese tähtsusega abi kava käsitlevaid andmeid kümne majandusaasta jooksul taotluse rahuldamise otsuse tegemisest arvates;
+
+2\) kandma riigiabi ja vähese tähtsusega abi registrisse andmed antud vähese tähtsusega abi kohta;
+
+3\) teavitama toetuse saajat taotluse rahuldamise otsuses vähese tähtsusega abi andmisest;
+
+4\) edastama Sotsiaalministeeriumile § 45 lõike 1 punktis 9 nimetatud toetuse saajalt saadud projekti raames valminud tulemuse;
+
+5\) küsima Sotsiaalministeeriumilt hinnangu enne § 40<sup>1</sup> lõikes 1 nimetatud ettepaneku tegemist.
+
+\[RT I, 02.07.2025, 3 - jõust. 05.07.2025\]
+
+### § 49. Toetuse andja õigused
+
+(1) Toetuse andjal on õigus:
+
+1\) teha toetuse saaja ja partneri juures projekti tegevuste elluviimise kontrolli;
+
+2\) tutvuda projekti ettevalmistamise ja tööde tegemise käigus koostatavate dokumentidega;
+
+3\) nõuda lisaandmete ja -dokumentide esitamist taotluses sisalduva kindlasummalise makse tegevuste, eesmärkide ja tulemuste kohta, mis tõendavad projekti nõuetekohast elluviimist ning toetuse saaja ja partneri kohustuste nõuetekohast täitmist.
+
+(2) Toetuse andjal on õigus lõpetada toetuse maksmine ning nõuda toetus osaliselt või tervikuna tagasi, kui:
+
+1\) toetuse andja tunnistab taotluse rahuldamise otsuse kehtetuks;
+
+2\) taotluses kirjeldatud kindlasummalise makse aluseks olev tegevus on tähtajaks ellu viimata või on viidud ellu osaliselt;
+
+3\) taotluses kirjeldatud kindlasummalise makse aluseks olev tulemus ei ole tähtajaks saavutatud või on saavutatud osaliselt;
+
+4\) ilmneb asjaolu, mille tõttu tegevuste elluviimine ei ole otstarbekas või see on võimatu;
+
+5\) toetuse saaja ei ole täitnud omafinantseeringuga seotud nõudeid;
+
+6\) toetuse saaja või partner ei ole toetust kasutanud sihipäraselt;
+
+7\) toetuse saaja või partner ei võimalda või raskendab oluliselt toetuse kasutamise üle kontrolli tegemist;
+
+8\) toetuse saaja või partner rikub taotluse rahuldamise otsusest tulenevat kohustust;
+
+9\) toetuse saaja või partner kaldub muul viisil kõrvale taotluse rahuldamise otsuses sätestatust;
+
+10\) toetuse saaja esitab avalduse toetuse kasutamisest loobumise kohta;
+
+11\) toetuse saaja või partner rikub §-s 46 nimetatud kohustust.
+
+(3) Toetuse tagasinõudmise otsust ei tehta, kui:
+
+1\) tagasinõutav summa on väiksem kui 20 eurot;
+
+2\) puudus kõrvaldatakse või kohustus või nõue täidetakse ettenähtud tähtajaks;
+
+3\) toetuse saaja avastas ja teatas toetuse andjale esimesel võimalusel, et talle on toetust makstud alusetult ning tagastas selles osas toetuse;
+
+4\) kohustust või nõuet ei täideta toetuse saajast sõltumatute erakordsete või ettenägematute asjaolude tõttu.
+
+(4) Toetuse tagasinõudmise otsuse võib teha kolme aasta jooksul toetuse saaja viimase kohustuse täitmise lõppemisest arvates.
+
+(5) Kui tagasimaksmisele kuuluvat toetust tähtaja jooksul tagasi ei maksta, nõuab toetuse andja tagasimaksmisele kuuluva toetuse tagasi eraõiguses alusetu rikastumise kohta kehtivate sätete kohaselt.
+
+## 10. peatükk — Rakendussätted
+
+### § 50. Määruse rakendamine
+
+(1) Sotsiaalkaitseministri 7. augusti 2023. a määruse nr 45 „Sotsiaal- ja tervisevaldkonna vabaühenduste toetamine” alusel enne käesoleva määruse jõustumist sõlmitud sotsiaal- ja tervisevaldkonna vabaühenduste toetuse kasutamise lepingule kohaldatakse viidatud määrust.
+
+(2) Lõikes 1 nimetatud lepingu raames pärast 2024. aasta 31. detsembrit läbiviidavale riigihanke- ja ostumenetlusele kohaldatakse määruse §-s 46 ja § 49 lõike 2 punktis 11 sätestatut.
+
+(3) Lõikes 1 nimetatud lepingud ja nendega seotud menetlused lähevad käesoleva määruse jõustumisel Sotsiaalministeeriumilt üle Riigi Tugiteenuste Keskusele.
+
+### § 51. Määruse kehtetuks tunnistamine
+
+\[Käesolevast tekstist välja jäetud\].
+
+## Lisad
+
+- Lisa — [SOM\_m42\_lisa.pdf](https://www.riigiteataja.ee/aktilisa/1060/1202/6045/SOM_m42_lisa.pdf)
+
+Lisa

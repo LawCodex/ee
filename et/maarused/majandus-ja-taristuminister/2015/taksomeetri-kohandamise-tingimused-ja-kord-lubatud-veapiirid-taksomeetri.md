@@ -1,0 +1,168 @@
+---
+title: "Taksomeetri kohandamise tingimused ja kord, lubatud veapiirid taksomeetri kasutamisel ning üleminekukiiruse väärtus üleminekul ajatasult sõidukilomeetritasule ja vastupidi"
+identifier: "123112018005"
+rt_reference: "RT I, 23.11.2018, 5"
+rt_original: "RT I, 06.10.2015, 12"
+group_id: "1031006"
+type: regulation
+issuer: "Majandus- ja taristuminister"
+number: "123"
+text_type: "terviktekst"
+jurisdiction: ee
+language: et
+date: 2015-10-05
+last_amended: 2018-11-26
+status: in_force
+source: "https://www.riigiteataja.ee/akt/123112018005"
+retrieved: 2026-10-12
+---
+
+# Taksomeetri kohandamise tingimused ja kord, lubatud veapiirid taksomeetri kasutamisel ning üleminekukiiruse väärtus üleminekul ajatasult sõidukilomeetritasule ja vastupidi
+
+Määrus kehtestatakse ühistranspordiseaduse § 64 lõike 9 alusel.
+
+## § 1. Reguleerimisala
+
+Käesoleva määrusega kehtestatakse taksoveol kasutatavale sõidukile (edaspidi *sõiduk*) paigaldatava taksomeetri kohandamise tingimused ja kord, samuti lubatud veapiirid taksomeetri kasutamisel ning üleminekukiiruse väärtus üleminekul ajatasult sõidukilomeetritasule ja vastupidi eesmärgiga tagada taksomeetri näitude vastavus läbitud vahemaa pikkusele, ajale ja taksoteenuse hinnale.
+
+## § 2. Terminid
+
+Käesolevas määruses kasutatakse termineid järgmises tähenduses:
+
+1\) *sõidukikonstant* (edaspidi *tegur „w”*) on ühe kilomeetri pikkusele vahemaale vastav impulsside arv, mida sõidukile paigaldatud taksomeeter saab impulsiandurilt (kaugussignaali generaatorilt);
+
+2\) *taksomeeter* on mõõteseaduse nõuetele vastav mõõtevahend;
+
+3\) *taksomeetri konstant* (edaspidi *tegur „k”*) on taksomeetrit iseloomustav parameeter, mis näitab impulsside arvu, mida taksomeeter peab saama ühe kilomeetrise pikkuse vahemaa läbimisel ning mida väljendatakse impulsside arvuga ühe kilomeetri kohta;
+
+4\) *üleminekukiirus* on kiiruse väärtus, mis saadakse ajatasu väärtuse jagamisel sõidukilomeetritasu väärtusega;
+
+5\) *võrdlev arvutusrežiim* on taksoveo üldmaksumuse arvutamise põhimõte, kus allpool üleminekukiirust rakendatakse ajatasu ning üleminekukiirusest suurema kiiruse puhul rakendatakse sõidukilomeetritasu;
+
+\[RT I, 23.11.2018, 4 - jõust. 26.11.2018\]
+
+6\) *summeeriv arvutusrežiim* on taksoveo üldmaksumuse arvutamise põhimõte, kus ajatasu ja sõidukilomeetritasu rakendatakse kogu sõidu vältel samaaegselt.
+
+\[RT I, 23.11.2018, 4 - jõust. 26.11.2018\]
+
+## § 3. Kohandamisel kasutatavad seadmed ja vahendid
+
+(1) Kohandamise käigus läbiviidavatel mõõtmistel tuleb kasutada järgmiste tehniliste andmetega seadmeid ja vahendeid:
+
+1\) kontrollseade impulsside arvu mõõtmiseks (edaspidi *kontrollseade*);
+
+2\) rehvirõhu manomeeter mõõtepiirkonnaga vähemalt 0,5 baari kuni 4,0 baari ja veapiiridega ±0,08 baari;
+
+3\) kergesti identifitseeritav, selgelt märgistatud algus- ja lõpp-punktiga, vähese liiklusega, sirge ja sile teelõik pikkusega üks kilomeeter veapiiriga ±0,2% või jälgitavalt kalibreeritud rullikutega seade, millel on võrdlusmõõtmistega tõendatud vastavus ühe kilomeetri pikkuse teelõigu vastavate parameetritega;
+
+4\) ajamõõtur skaalajaotise väärtusega vähemalt 0,1 protsenti näidust või veapiiriga ühe minuti juures mitte üle 0,5 sekundi, lähtudes sellest, kumb näitaja on suurem;
+
+\[RT I, 02.09.2016, 2 - jõust. 05.09.2016\]
+
+5\) seade, mis võimaldab anda taksomeetrile impulsse.
+
+(2) Käesoleva paragrahvi lõike 1 punktis 5 nimetatud seade peab võimaldama anda järgmisi impulsse:
+
+1\) signaali kuju – ristkülik, laiusega vähemalt 25 nanosekundit;
+
+\[RT I, 02.09.2016, 2 - jõust. 05.09.2016\]
+
+2\) signaali madalam tase (loogiline 0) – 12 volti kuni 1 volt;
+
+3\) signaali kõrgem tase (loogiline 1) – 3 volti kuni 12 volti;
+
+4\) impulsside maksimaalne sagedus peab olema vähemalt võrdne sagedusega, mida saab taksomeeter sõidukilt, mis liigub kiirusega 200 kilomeetrit tunnis.
+
+## § 4. Ettevalmistamine kohandamiseks
+
+(1) Taksomeetri kohandamiseks esitaja peab kohandajale esitama taksoveoloa omaja nime, registrikoodi või taksoveoloa numbri. Taksomeetri kohandaja peab taksoveoloa andmete õigsust kontrollima majandustegevuse registrist.
+
+(2) Kohandamiseks esitatud taksomeetrile ja sõidukile teostab kohandaja enne mõõtmiste läbiviimist välise vaatluse, mille käigus kontrollib järgmiste nõuete täitmist:
+
+1\) taksomeeter peab olema läbinud mõõteseaduse kohase metroloogilise kontrolli ja olema kahjustusteta, vastama antud sõidukile ning olema sõidukile paigaldatud ja ühendatud vastavalt taksomeetri tootja juhistele;
+
+2\) taksomeetri ja impulsianduri vahelise ühilduvuse tingimused peavad vastama taksomeetri tootja poolt määratletule;
+
+3\) kõik kliendile näidatavad väärtused taksomeetri näidikul peavad olema sobivalt märgistatud ning olema selgesti loetavad nii päevavalguses kui ka pimedas. Kõik arvu moodustavad sektorid peavad töötama;
+
+4\) sõidukile peavad olema paigaldatud sõiduki tootja ettenähtud mõõtudega rehvid. Rehvi siserõhk peab vastama sõiduki tootja nõuetele. Rehvi mustri jääksügavus peab vastama majandus- ja kommunikatsiooniministri 13. juuni 2011. a määruses nr 42 „Mootorsõiduki ja selle haagise tehnonõuded ning nõuded varustusele” kehtestatud nõuetele;
+
+5\) taksomeetri ja impulsianduri vaheline ühendus peab olema turvatud plommimisega või muul turvalisust tagaval viisil;
+
+6\) taksomeetril, impulsianduril ja ühendusjuhtmetel ei tohi olla täiendavaid vahendeid või seadmeid impulsside lisamiseks või kordistamiseks või muul moel taksoteenuse hinna ebaausaks mõjutamiseks.
+
+(3) Impulsside arvu määramiseks tuleb sõiduk viia fikseeritud pikkusega märgistatud teelõigule või rullikutega seadmele. Mõõtmise ajal peab sõidukis olema juht ning üks kaassõitja. Taksomeeter ja vajadusel kontrollseade tuleb töötamiseks ette valmistada ning ühendada vastavalt tootja juhistele.
+
+(4) Taksomeetrisse sisestatud taksoteenuste hindade vastavuse kontrollimiseks tuleb taksomeeter ja impulsiandur töötamiseks ette valmistada ning ühendada vastavalt tootja juhistele.
+
+## § 5. Taksomeetri kohandamine, üleminekukiiruse väärtus ja lubatud piirvead taksomeetri kasutamisel
+
+(1) Tegur „w” määratakse ühe kilomeetri pikkuse teelõigu läbimisel või rullikutega seadmel, millel on võrdlusmõõtmistega tõendatud vastavus ühe kilomeetri pikkuse teelõigu vastavate parameetritega, saadud impulsside abil akrediteerimisasutuse hinnatud ja heakskiidetud taksomeetri kohandamismetoodika kohaselt.
+
+(2) Teguri „k” väärtus seatakse võrdeliseks käesoleva paragrahvi lõikes 1 saadud teguri „w” väärtusega, kuid erinevusega mitte üle ±0,2%.
+
+(3) Taksomeetri sõidu üldmaksumuse näidiku numbrid peavad tööseisundis muutuma kümne sendi võrra.
+
+(4) \[Kehtetu – RT I, 23.11.2018, 4 - jõust. 26.11.2018\]
+
+(5) Taksomeetri kohandamise käigus kontrollitakse kõiki taksomeetrisse sisestatud taksoteenuste hindasid ja nende vastavust kehtestatud nõuetele. Taksomeetri ja impulsianduri vaheline ühendus peab olema piisavalt turvatud, et välistada taksoteenuste hindade muutmine pärast kohandamist.
+
+(6) Taksomeetri kohandamise käigus kontrollitakse, et taksomeetri alusel arvutatud sõidu üldmaksumus ning taksomeetriga ühendatud printeri trükitud kviitungil toodud üldmaksumus langevad kokku. Samuti peab kontrollima, et taksomeetriga ühendatud printeri trükitud kviitungil kajastuvad kõik ühistranspordiseaduse § 65 lõike 1 punktis 3 toodud andmed.
+
+(7) Võrdleva arvutusrežiimi kasutamisel peab üleminek ajatasult sõidukilomeetritasule ja vastupidi toimuma üleminekukiiruse väärtusel. Ühelgi juhul ei tohi üleminekukiiruse väärtus olla suurem kui 22 kilomeetrit tunnis.
+
+\[RT I, 23.11.2018, 4 - jõust. 26.11.2018\]
+
+(8) Taksomeetrisse programmeeritud ajast sõltuvate taksoteenuste hindade ümberlülitamine peab toimuma üksnes automaatselt.
+
+(8<sup>1</sup>) Taksomeetrisse võib korraga olla kohandatud ainult võrdlev või summeeriv arvutusrežiim.
+
+\[RT I, 23.11.2018, 4 - jõust. 26.11.2018\]
+
+(9) Kohandaja peab taksomeetri ja selle kõik ühendused, mille kaudu on võimalik muuta teguri „k” väärtust, turvama plommimisega või muul turvalisust tagaval viisil. Plommimiskohad ja muud turbeviisid dokumenteeritakse kohandamisprotokollis ja -tunnistusel.
+
+(10) Taksomeetri sõidukis kasutamisest põhjustatud mõõtevea (edaspidi *taksomeetri kasutusviga*) määramiseks viiakse läbi kontrollmõõtmised ühe kilomeetri pikkuse teelõigu läbimisega või vastava pikkusega teelõigu imiteerimisega rullikutega seadmel ning ajatasu rakendamisaja võrdlemisega ajamõõturi või taksomeetri kontrollseadme näiduga.
+
+(11) Taksomeeter loetakse õigesti kohandatuks, kui taksomeetri kasutusvea piirid ei ületa:
+
+1\) kulunud aja korral ±0,2%;
+
+2\) läbitud vahemaa pikkuse korral ±2,0%.
+
+## § 6. Kohandamise tulemuste vormistamine
+
+(1) Taksomeetri kohandamise tulemuste kohta peab kohandaja koostama kohandamisprotokolli, mis sisaldab vähemalt käesoleva määruse lisas 1 toodud andmeid. Taksomeetri vastamisel kohandamise nõuetele väljastab kohandaja taksomeetri kohandamistunnistuse, mis sisaldab vähemalt käesoleva määruse lisas 2 toodud andmeid.
+
+(2) Taksomeetri kohandamistunnistuse originaal antakse taksomeetri kohandamiseks esitajale, selle koopia koos kohandamisprotokolliga jääb kohandajale.
+
+(3) Kui taksomeeter ei vasta kohandamisnõuetele, väljastab kohandaja taksomeetri kohandamiseks esitajale kohandamisprotokolli koopia. Protokolli originaali säilitab kohandaja.
+
+(4) Kohandaja säilitab käesoleva paragrahvi lõigetes 2 ja 3 loetletud dokumente vähemalt kolm aastat dokumendi väljastamise kuupäevast.
+
+## § 7. Taksomeetri korduv kohandamine
+
+(1) Taksomeeter tuleb uuesti kohandada:
+
+1\) hiljemalt taksomeetri vastavushindamise või taatluse kehtivusaja lõppemisel;
+
+2\) kui on toimunud muudatusi taksomeetri kohandamistunnistusele kantud andmetes, välja arvatud taksomeetri kohandamist teostanud ettevõtja aadressi või telefoninumbri muutumise korral;
+
+3\) kui valla- või linnavolikogu kehtestab või muudab ühistranspordiseaduse § 66 lõike 3 punkti 2 või 3 alusel kehtestanud sõidualustustasu, sõidukilomeetritasu ja ajatasu kõrgeimat lubatavat määra või teenuste loetelu, üksnes millele võib hinnad kehtestada.
+
+(2) Käesoleva paragrahvi lõike 1 punktis 3 toodud juhul tuleb taksomeeter uuesti kohandada üksnes siis, kui taksomeetrisse sisestatud taksoteenuste hinnad ei vasta kehtestatud nõuetele.
+
+## § 8. Üleminekusäte
+
+(1) Enne käesoleva määruse jõustumist kehtinud majandus- ja kommunikatsiooniministri 20. oktoobri 2006. a määruse nr 88 „Taksomeetri kohandamise tingimused ja kord ning lubatud veapiirid taksomeetri kasutamisel” alusel kohandatud taksomeeter, mis vastab käesolevas määruses kehtestatud kohandamise nõuetele, tuleb uuesti kohandada hiljemalt taksomeetri vastavushindamise või taatluse kehtivusaja lõppemisel, väljastatud kohandamistunnistusele kantud andmete muutumisel või käesoleva määruse § 7 lõikes 2 sätestatud juhul.
+
+(2) Käesoleva määruse § 5 lõike 7 nõuetele mittevastavalt kohandatud taksomeetrit on lubatud kasutada kuni 2016. aasta 1. jaanuarini.
+
+## Lisad
+
+- Lisa — [MKM\_19112018\_m59lisa1.pdf](https://www.riigiteataja.ee/aktilisa/1231/1201/8005/MKM_19112018_m59lisa1.pdf)
+
+Lisa 1
+
+- Lisa — [MKM\_19112018\_m59lisa2.pdf](https://www.riigiteataja.ee/aktilisa/1231/1201/8005/MKM_19112018_m59lisa2.pdf)
+
+Lisa 2

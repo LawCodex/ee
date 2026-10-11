@@ -1,0 +1,1558 @@
+---
+title: "Tasemetööde ning põhikooli ja gümnaasiumi lõpueksamite ettevalmistamise ja läbiviimise ning eksamitööde koostamise, hindamise ja säilitamise tingimused ja kord ning tasemetööde, ühtsete põhikooli lõpueksamite ja riigieksamite tulemuste analüüsimise tingimused ja kord"
+identifier: "122052026008"
+rt_reference: "RT I, 22.05.2026, 8"
+rt_original: "RT I, 18.12.2015, 12"
+group_id: "1032102"
+type: regulation
+issuer: "Haridus- ja teadusminister"
+number: "54"
+text_type: "terviktekst"
+jurisdiction: ee
+language: et
+date: 2015-12-15
+last_amended: 2026-09-01
+status: in_force
+source: "https://www.riigiteataja.ee/akt/122052026008"
+retrieved: 2026-10-12
+---
+
+# Tasemetööde ning põhikooli ja gümnaasiumi lõpueksamite ettevalmistamise ja läbiviimise ning eksamitööde koostamise, hindamise ja säilitamise tingimused ja kord ning tasemetööde, ühtsete põhikooli lõpueksamite ja riigieksamite tulemuste analüüsimise tingimused ja kord
+
+Määrus kehtestatakse põhikooli- ja gümnaasiumiseaduse § 30 lõike 2, § 31 lõike 2 ja § 34 lõike 3 alusel.
+
+## 1. peatükk — Üldsätted
+
+### § 1. Määruse reguleerimisala
+
+Määrusega kehtestatakse:
+
+1\) tasemetööde ettevalmistamise ja läbiviimise ning tasemetööde koostamise, hindamise ja tulemuste analüüsimise ja säilitamise tingimused ja kord;
+
+2\) põhikooli lõpueksamite ettevalmistamise ja läbiviimise ning eksamitööde koostamise, hindamise, tulemuste analüüsimise ja säilitamise tingimused ja kord;
+
+3\) gümnaasiumi lõpueksamite ettevalmistamise ja läbiviimise ning eksamitööde koostamise, hindamise, tulemuste analüüsimise ja säilitamise tingimused ja kord.
+
+## 2. peatükk — Tasemetööd
+
+### § 2. Tasemetööde eesmärgid
+
+(1) Tasemetööde läbiviimise eesmärk on hinnata riiklike õppekavade üldpädevuste, valdkonnapädevuste, läbivate teemade ja õpitulemuste omandatust (edaspidi *õppekava eesmärgid ja õpitulemused*) selleks, et:
+
+1\) anda õpilasele, vanemale, koolile, kooli pidajale ja riigile võimalikult objektiivset ja võrreldavat tagasisidet õppimise ja õpetamise tulemuslikkusest ning sellest, milline on kooli panus õpilaste edasijõudmisse;
+
+2\) selgitada, kuidas õppe tulemuslikkus ning kooli panus õpilaste edasijõudmisse on ajas muutunud;
+
+3\) anda riigile informatsiooni hariduspoliitiliste otsuste tegemiseks;
+
+4\) toetada riikliku õppekava rakendamist ning suunata tasemetöö sisu ja vormi kaudu õppeprotsessi.
+
+(2) Õppekava eesmärkidele ja õpitulemustele lisaks võivad tasemetööd hinnata ka muid tasemetöö õppeaine või ainevaldkonna pädevusi kui see on vajalik välishindamise eesmärke silmas pidades või hariduslike erivajadustega õpilaste tulemuste hindamiseks.
+
+(3) Tasemetööd võivad õppekava eesmärkide ja õpitulemuste kohta võimalikult objektiivse ja võrreldava tagasiside saamiseks sisaldada küsimusi õpilase õpingute ja õpikogemuste kohta koolis ja väljaspool kooli ning selle kohta, kuidas õpilane ise oma kompetentsust hindab.
+
+### § 3. Tasemetööde ettevalmistamine ja koostamine
+
+(1) Haridus- ja Noorteamet (edaspidi *eksameid korraldav asutus*) koostab tasemetööd ning igale tasemetööle läbiviimisjuhendi, hindamisjuhendi ja vastavustabeli järgides konfidentsiaalsusnõudeid.
+
+\[RT I, 17.07.2020, 5 - jõust. 01.08.2020\]
+
+(2) Tasemetööd valmistatakse ette eksameid korraldava asutuse koostatud eristuskirja põhjal. Eristuskirjas määratakse tasemetöö koostamise tingimused, sealhulgas eraldiseisvalt hinnatavate alateemade ja/või osaoskuste (edaspidi *tasemetöö osad*) küsimuste ja ülesannete valimise kriteeriumid ning nõuded tasemetöö võrreldavuse tagamiseks eelneva ja/või järgneva sama õppeaine või ainevaldkonna taseme- ja/või eksamitööga.
+
+(3) Tasemetööde läbiviimise ja tasemetöödel osalemise toetamiseks ning avalikkuse teavitamiseks avalikustatakse eksameid korraldava asutuse veebilehel:
+
+1\) tasemetöö kasutamise eesmärgid hindamistulemusi kasutavate sihtrühmade kaupa ja igale sihtrühmale tulemuste kohta esitatava teabe sisu ja vorm;
+
+2\) tasemetööga hinnatava õpilase kompetentsi ja hõlmatud alateemade ja/või osaoskuste (edaspidi *tasemetöö osad*) käsitus ja vastavus riikliku õppekava eesmärkidele ja õpitulemustele;
+
+3\) tasemetöö ülesehitus, tasemetöö läbiviimise kord ja läbiviimiseks nõutavad ja keelatud vahendid ning ruumide sisseseade;
+
+4\) töös kasutatavate ülesannete vormid, vastuste eest punktide andmise ja hindamistulemuse määratlemise viis.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(4) Tasemetööde ettevalmistamise ja koostamise kohustuslikud etapid on:
+
+1\) ülesannete koostamine, retsenseerimine ja vajadusel korrigeerimine;
+
+2\) ülesannete keeleline toimetamine ja kujundamine;
+
+3\) ülesannete ja testi mõõtmisomaduste välja selgitamine õpilaste valimil tehtud katsetuste põhjal;
+
+4\) tasemetöö lõppversiooni koostamine ja selle korraldamiseks läbiviimisjuhendi ja hindamisjuhendi vormistamine.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(5) Retsensioonide ja katsetustega kontrollitakse tasemetöö ülesannete sisu ja vormi asjakohasust, kasutatavust õpilaste poolt ning mõõtmisomaduste (keerukus, eristusvõime, sobivus hindamiseks õpilaskonna eri alarühmades) sobivust ning tasemetöö terviku ja osade ülesehitust ja sobivust õpilaste ettenähtud usaldusväärsuse ja täpsusega hindamiseks. Kontrollimisel leitud puudused parandatakse enne tasemetöö toimumist.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(6) Vajaduse korral koostab eksameid korraldav asutus tasemetöö juurde kuuluva küsimustiku kooli direktorile ja õpetajale.
+
+### § 4. Tasemetööde läbiviimine
+
+(1) Eksameid korraldav asutus koostab koos Haridus- ja Teadusministeeriumiga valimi koolidest, kus tasemetöö läbi viiakse. Valim hõlmab vähemalt 10% kogu riigi vastava klassi õpilastest erinevate õpilasrühmade ja õppeasutuste rühmade lõikes. Kui sama aine või ainevaldkonna tasemetöid korraldatakse mitmes kooliastmes, siis kaasatakse tasemetöö valimis ka osa vastavas aines või ainevaldkonnas nooremas kooliastmes tasemetöö teinud õpilastest paragrahvis 2 nimetatud eesmärkide täitmiseks
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(1<sup>1</sup>) Paragrahvi 2 lõike 1 punktis 3 toodud eesmärgil võib valim hõlmata kogu lennu kõiki õpilasi.
+
+\[RT I, 14.11.2023, 1 - jõust. 17.11.2023\]
+
+(2) Eksameid korraldav asutus teeb hiljemalt viis tööpäeva enne tasemetöö läbiviimist kooli direktorile elektrooniliselt teatavaks, millised õpilased valimisse kuuluvad.
+
+\[RT I, 14.11.2023, 1 - jõust. 17.11.2023\]
+
+(3) Kooli või kooli pidaja taotlusel võivad tasemetööd sooritada ka valimisse mittekuuluvad koolid ja valimisse mittekuuluvad õpilased valimisse kuuluvast koolist. Sel juhul lepivad eksameid korraldav asutus ja kool või kooli pidaja tasemetöö sooritamisega seotud kulude katmise omavahel kokku.
+
+(4) Tasemetöö viiakse läbi elektroonilises testimiskeskkonnas. Elektrooniline testimiskeskkond asub lõpueksamite, eesti keele tasemeeksami ning Eesti Vabariigi põhiseaduse ja kodakondsuse seaduse tundmise eksami andmekogus (edaspidi *testide andmekogu*).
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(5) Enne testide andmekogus tasemetöö läbiviimist teeb eksameid korraldav asutus koolidele teatavaks nõuded arvutite tarkvarale ja seadistustele ning tagab näidistesti kättesaadavuse.
+
+(6) Tasemetöö eristuskirja, hindamisjuhendi, läbiviimisjuhendi ning vajaduse korral küsimustikud kooli direktorile, õpetajale ja õpilasele teeb eksameid korraldav asutus koolile kättesaadavaks testide andmekogus või muul viisil elektrooniliselt.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(7) Testide andmekogus läbiviidava tasemetöö ruumis on iga õpilase kohta arvuti, mille külge on ühendatud tasemetöö sooritamiseks vajalikud sisend- ja väljundseadmed. Igasse ruumi, kus toimub tasemetöö, määrab kooli direktor testi administraatori. Testide andmekogusse sisenevad õpilased, kasutades autentimislahendust HarID, isikutunnistust (ID-kaarti), digitaalset isikutunnistust (mobiil-ID), elamisloakaarti, muud kõrge turvalisuse tasemega autentimisvahendit (Smart-ID) või koolilt või testi administraatorilt saadud testimiskeskkonna loodud salasõna. Pärast kõigi õpilaste sisenemist testimiskeskkonda annab testi administraator loa alustada tasemetöö tegemist. Tehniliste probleemide ilmnemisel juhendab testi administraator õpilast.
+
+\[RT I, 14.11.2023, 1 - jõust. 17.11.2023\]
+
+(8) \[Kehtetu - RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+(9) Eksameid korraldava asutuse ning õppe- ja kasvatustegevuse üle riiklikku või haldusjärelevalvet teostava asutuse esindajal on õigus viibida tasemetöö läbiviimise juures.
+
+### § 5. Tasemetööde läbiviimise erisused üldist, tõhustatud või erituge saavate õpilaste puhul
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+(1) Kooli direktor võib võimaldada üldist, tõhustatud või erituge saavale õpilasele tasemetöö tegemiseks tema toe vajadusest tulenevalt üht või mitut järgmistest eritingimustest:
+
+1\) anda lisaaega kuni 15 minutit ühe akadeemilise tunni kohta;
+
+2\) viia tasemetöö läbi eraldi ruumis;
+
+3\) kasutada tasemetöö kirjalikus osas puhkepausi kuni 10 minutit ühe akadeemilise tunni kohta;
+
+4\) lubada vastuse üleskirjutamist tugiisiku poolt, kui õpilane ei saa kirjutada;
+
+5\) lubada küsimuste ja teksti ettelugemist;
+
+6\) anda õpilastele tasemetöö korralduse kohta kirjalikke juhtnööre ja kasutada viipekeele tõlki;
+
+7\) kasutada õpilase poolt varasemas õppeprotsessis kasutatud täiendavaid abivahendeid;
+
+8\) selgitada töökorraldusi täpsemalt ja põhjalikumalt.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(2) Juhul kui õpilase toe vajadusest tulenevalt on tasemetöös vaja kohandada käesoleva paragrahvi lõikes 1 nimetamata eritingimusi, kooskõlastab kool vajaliku eritingimuse eksameid korraldava asutusega.
+
+(3) Rakendatud eritingimused ja tasemetöö sooritamisel ilmnenud erijuhtumid märgitakse pärast tasemetöö toimumist samal päeval testide andmekogus eeltäidetud aruandesse.
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+### § 6. Tasemetööde hindamine ja kontrollimine
+
+(1) Tasemetöö tulemust ei käsitleta kokkuvõtva hindamise alusena ja tasemetööd ei hinnata hindega.
+
+(2) Testide andmekogus läbiviidud tasemetöid kontrollitakse elektrooniliselt. Avatud vastustega küsimusi ja ülesandeid, mille õigsust ei ole võimalik elektrooniliselt kontrollida, kontrollib vastavalt läbiviimisjuhendile eksameid korraldava asutuse määratud hindaja või kooli direktori poolt määratud õpetaja testide andmekogus hindamisjuhendi alusel kaheksa tööpäeva jooksul pärast tasemetöö toimumist.
+
+\[RT I, 12.04.2022, 1 - jõust. 15.04.2022\]
+
+(3) Paberil läbiviidud tasemetööd kontrollib kooli direktori poolt määratud õpetaja hindamisjuhendi alusel nelja tööpäeva jooksul. Kool edastab valimisse kuulunud õpilaste kontrollitud tasemetööd eksameid korraldavale asutusele viie tööpäeva jooksul pärast tasemetöö läbiviimist.
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+### § 7. Tasemetööde säilitamine
+
+(1) Paberil läbiviidud tasemetöid säilitatakse koolis või valimisse kuulunud tööde puhul eksameid korraldavas asutuses kolm aastat.
+
+(2) Tasemetöö tulemused tervikuna ja osade kaupa säilitatakse ning arhiveeritakse testide andmekogus isikustatud kujul.
+
+(3) Haridus- ja Teadusministeerium ning eksameid korraldav asutus võivad kooskõlas isikuandmete kaitse seadusega lubada tasemetööde andmestike ja tulemuste kasutust teadus- ja rakendusuuringutes.
+
+### § 8. Tasemetööde tulemuste analüüs ja järeldused
+
+(1) Tasemetööde tulemuste analüüsi korraldab eksameid korraldav asutus, lähtudes käesoleva määruse §-s 2 sätestatud tasemetööde eesmärkidest. Tasemetööde tulemuste analüüsimisel kaasab eksameid korraldav asutus vajaduse korral eksperte.
+
+(2) Eksameid korraldav asutus hindab kooli panust õpilaste edasijõudmisesse üksteisele järgnevatel kooliastmetel sooritatud sama õppeaine või ainevaldkonna tasemetööde või taseme- ja eksamitööde tulemuste põhjal.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(2<sup>1</sup>) Kooli panust õpilaste edasijõudmisesse tagasisidestab eksameid korraldav asutus koolidele, kelle õpilaste valimisse kuulumine või kooli osalemine omal soovil on taganud samade õpilaste osalemise tasemetööl ka varasemas kooliastmes ulatuses, mis on kooli antud aasta õpilaste suhtes esinduslik.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(3) Eksameid korraldav asutus esitab tasemetöö tulemuste analüüsi põhjal Haridus- ja Teadusministeeriumile esitatavas aruandes teabe tasemetöö mõõtmisomaduste ja tulemuste jaotuse kohta töö terviku ja osade kaupa. Eksameid korraldav asutus võimaldab testide andmekogus koolidel teha võrreldavate tulemustega tasemetöid igal õppeaastal keele ja kirjanduse (sealhulgas eesti keele teise keelena), matemaatika, loodusainete, sotsiaalainete ja võõrkeelte valdkonnas.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(4) Eksameid korraldav asutus:
+
+1\) teeb elektrooniliselt läbiviidud tasemetööde tulemused testide andmekogu kaudu teatavaks igale valimisse kuulunud õpilasele ja koolile hiljemalt kümme tööpäeva pärast tasemetöö toimumist;
+
+\[RT I, 12.04.2022, 1 - jõust. 15.04.2022\]
+
+2\) avaldab elektrooniliselt läbiviidud tasemetööde üleriigilised tulemused testide andmekogus hiljemalt üks kuu pärast tasemetöö läbiviimist, valimisse kuulunud koole nimetamata;
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+2<sup>1</sup>) \[kehtetu - RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+3\) annab hiljemalt kaks kuud pärast tasemetöö läbiviimist tasemetöö tulemuste analüüsi põhjal igale valimisse kuulunud koolile tagasisidet õppe tulemuslikkusest ja sellest, milline on kooli panus õpilaste edasijõudmisse;
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+4\) esitab tasemetööde aruanded kahe kuu jooksul nende toimumisest Haridus- ja Teadusministeeriumile. Aruandes kajastatakse õppekava eesmärkide ning õpitulemuste saavutatust tasemetöö kui terviku ja osade kaupa; erinevate õpilasrühmade ja õppeasutuste rühmade lõikes; tulemuste võrreldavust kahe sama õppeaine või ainevaldkonna eelmise tasemetööga; tasemetöö kvaliteeti mõõtmisomaduste ja riiklikule õppekavale vastavuse põhjal.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(5) \[Kehtetu - RT I, 11.05.2023, 1 - jõust. 14.05.2023\]
+
+## 3. peatükk — Põhikooli lõpueksamid
+
+### 1. jagu — Üldsätted
+
+#### § 9. Põhikooli lõpueksamite eesmärgid
+
+(1) Põhikooli lõpueksamite läbiviimise eesmärk on hinnata riiklike õppekavade või õpilase õppe aluseks oleva õppekava üldpädevuste, valdkonnapädevuste, läbivate teemade ja III kooliastme õpitulemuste omandatust (edaspidi *õppekava eesmärgid ja III kooliastme õpitulemused*) selleks, et:
+
+1\) anda õpilasele, vanemale, koolile, kooli pidajale ja riigile võimalikult objektiivset ja võrreldavat tagasisidet õppimise ja õpetamise tulemuslikkusest ning sellest, milline on kooli panus õpilaste edasijõudmisse;
+
+2\) selgitada, kuidas õppe tulemuslikkus ning kooli panus õpilaste edasijõudmisse on ajas muutunud;
+
+3\) anda riigile informatsiooni hariduspoliitiliste otsuste tegemiseks;
+
+4\) toetada riikliku õppekava rakendamist ning suunata eksami sisu ja vormi kaudu õppeprotsessi;
+
+5\) teha otsus õpilase põhikooli lõpetamise kohta;
+
+6\) võimaldada kasutada põhikooli lõpueksamite tulemusi järgmisel haridustasemel õpingute jätkamiseks.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(2) Põhikooli lõpueksami eksamitööd võivad õppekava eesmärkide ja III kooliastme õpitulemuste kohta võimalikult objektiivse ja võrreldava tagasiside saamiseks sisaldada küsimusi õpilase õpingute ja õpikogemuste kohta koolis ja väljaspool kooli ning selle kohta, kuidas õpilane ise oma kompetentsust hindab.
+
+### 2. jagu — Põhikooli lõpueksamid
+
+#### § 10. Põhikooli lõpueksamid
+
+(1) Põhikooli riikliku õppekava järgi õppiv õpilane sooritab põhikooli lõpetamiseks viimasel õppeaastal järgmised ühtsete ülesannetega põhikooli eksamid (edaspidi *ühtsed põhikooli lõpueksamid*):
+
+1\) eesti keele eksam;
+
+2\) matemaatikaeksam;
+
+3\) õpilase valikul eksam põhikooli- ja gümnaasiumiseaduse § 30 lõike 4 alusel kehtestatud õppeainete hulgast (edaspidi *valikeksam*).
+
+(2) Valikeksami saab teha õppeaines, mida õpilane on kooli õppekava järgi õppinud. Õpilase soovil ja kooli nõusolekul võib valikeksami sooritada ka õppeaines, mida õpilane ei ole koolis õppinud. Valikeksami võib õpilane sooritada erialase lõpueksami või kutseeksamina.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(3) Õppeaines, kus koolivälise nõustamismeeskonna soovitusel on individuaalse õppekavaga vähendatud või asendatud põhikooli riikliku õppekavaga taotletavaid õpitulemusi, võib õpilane ühtse põhikooli lõpueksami asemel sooritada käesoleva paragrahvi lõikes 1 loetletud õppeainetes kooli kinnitatud materjalidega põhikooli koolieksamid (edaspidi *põhikooli koolieksamid*). Sellisel juhul arvestab kool eksamitöö koostamisel ja selle sooritamise vormi määramisel õpilase individuaalses õppekavas sätestatud erisusi võrreldes riikliku õppekavaga.
+
+\[RT I, 09.01.2026, 28 - jõust. 12.01.2026\]
+
+(3<sup>1</sup>) Varem välisriigis õppinud õpilane, kes on enne lõpueksamite toimumist Eestis põhikoolis õppinud kuni kolm järjestikust õppeaastat ning kellele on eesti keele kui teise keele õppimiseks koostatud individuaalne õppekava, võib ühtse põhikooli lõpueksami või individuaalse õppekava alusel koostatud koolieksami asemel sooritada kooli lõpetamiseks eksameid korraldava asutuse poolt ette valmistatud rändetaustaga õpilastele mõeldud A2-keeleoskustaset mõõtva elektroonse testi.
+
+\[RT I, 09.01.2026, 28 - jõust. 12.01.2026\]
+
+(4) Lihtsustatud õppel olev põhikoolilõpetaja sooritab põhikooli lõpetamisel järgmised koolieksamid:
+
+1\) eesti keele eksam;
+
+2\) matemaatikaeksam;
+
+3\) kooli poolt määratud kohustuslike õppeainete hulgast valitud õppeaine valikeksam.
+
+(5) Lõike 4 punktis 3 nimetatud valikeksami õppeaine ja vormi määrab kooli direktor ning teeb selle põhikoolilõpetajale ja tema seaduslikule esindajale teatavaks hiljemalt jooksva õppeaasta 1. veebruariks.
+
+(6) \[Kehtetu - RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+(7) \[Kehtetu - RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+(8) Ühtne põhikooli eesti keele kui teise keele lõpueksam on ühitatud eesti keele B1-taseme või B2-taseme eksamiga. Vastav eesti keele tasemetunnistus väljastatakse juhul, kui eksaminand on saanud vähemalt 60 protsenti maksimaalsest tulemusest, kusjuures ühegi osaoskuse tulemus ei tohi olla 0 punkti. Käesoleva määruse § 16 lõike 2 punktides 3 ja 4 esitatud juhtudel võib õpilasele anda tasemetunnistuse juhul, kui kõik eksamitöö osad ei ole tehtud.
+
+\[RT I, 03.07.2020, 8 - jõust. 06.07.2020\]
+
+(9) Ühtsete põhikooli lõpueksamite, välja arvatud võõrkeelte lõpueksamite sooritamise keeled on eesti keel ja viipekeel. Teiste keelte kasutamisel tagab kooli pidaja ühtsete põhikooli lõpueksamite tõlkimis- ja hindamiskulude finantseerimise.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(10) Eesti keelest erineva õppekeelega kooli või klassi lõpetajal on õigus sooritada matemaatika eksam ja valikeksam, välja arvatud võõrkeele eksam, eesti keeles.
+
+#### § 11. Ühtsele põhikooli lõpueksamitele registreerimine
+
+(1) Põhikoolilõpetaja teatab koolile hiljemalt jooksva õppeaasta 1. veebruariks õppeaine, milles ta soovib valikeksami sooritada.
+
+(1<sup>1</sup>) Põhikooli eesti keele kui teise keele B1-tasemega ühitatud lõpueksamile saab registreeruda ka 7. või 8. klassi õpilane, kes on testide andmekogus edukalt sooritanud B1 taset hindava eeltesti.
+
+\[RT I, 03.07.2020, 8 - jõust. 06.07.2020\]
+
+(1<sup>2</sup>) Põhikooli eesti keele kui teise keele B2-taseme eksamiga ühitatud lõpueksamile saab registreeruda õpilane, kellele on väljastatud eesti keele B1-taseme tunnistus ja kes on testide andmekogus edukalt sooritanud B2 taset hindava eeltesti.
+
+\[RT I, 03.07.2020, 8 - jõust. 06.07.2020\]
+
+(1<sup>3</sup>) Õpilane võib põhikooli lõpetamiseks sooritada ühe rahvusvaheliselt tunnustatud saksa või prantsuse keele eksami järgmisest loetelust:
+
+1\) *Goethe-Zertifikat* B1 (saksa keel);
+
+2\) Deutsches Sprachdiplom Stufe I (DSD I) B1-tase (saksa keel);
+
+3\) *Österreichisches Sprachdiplom (ÖSD) Zertifikat B1* (saksa keel);
+
+4\) *Diplôme d'études en langue française* B1 (prantsuse keel).
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(1<sup>4</sup>) Kool esitab testide andmekogu kaudu andmed nende põhikoolilõpetajate kohta, kes soovivad põhikooli lõpueksamina sooritada rahvusvaheliselt tunnustatud saksa või prantsuse keele eksami või esitab kehtiva eksamitunnistuse või tõendi hiljemalt jooksva õppeaasta 5. veebruariks. Eksamitunnistus või tõend peab kehtima vähemalt jooksva õppeaasta 31. augustini ja tõendama, et õpilane on sooritanud B1 keeleoskuse tasemele ühe käesoleva paragrahvi lõikes 1<sup>3</sup> nimetatud rahvusvaheliselt tunnustatud eksami.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(2) Põhikoolilõpetaja, kes soovib sooritada Eesti Vabariigi põhiseaduse ja kodakondsuse seaduse tundmise eksami ühiskonnaõpetuse ühtse põhikooli lõpueksami lisana, teavitab sellest kooli hiljemalt jooksva õppeaasta 1. veebruariks.
+
+(3) Eksamimaterjalide saamiseks registreerivad koolid õpilaste valikute alusel õpilased testide andmekogus hiljemalt jooksva õppeaasta 5. veebruariks. Võõrkeele eksamite puhul esitatakse testide andmekogus lisaks andmed eksamiruumide arvu ning suulise osa toimumise kohta. Eesti keele kui teise keele eksami puhul märgib kool testide andmekogus hiljemalt jooksva õppeaasta 20. märtsiks kooli direktori poolt määratud eksami suulise osa hindaja ja intervjueerija.
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+(4) Koolid teavitavad eksameid korraldavat asutust hiljemalt jooksva õppeaasta 5. veebruariks testide andmekogu kaudu üldist, tõhustatud või erituge saavate põhikoolilõpetajate eksamineerimiseks vajalikest käesoleva määruse § 16 lõigetes 2 ja 8 sätestatud eritingimustest.
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+#### § 12. Ühtsete põhikooli lõpueksamite ettevalmistamine ja koostamine
+
+(1) Ühtsete põhikooli lõpueksamite ja nende lisaeksamite (edaspidi *ühtne põhikooli lõpueksam*) ettevalmistamist ja koostamist korraldab eksameid korraldav asutus, järgides konfidentsiaalsusnõudeid.
+
+\[RT I, 09.01.2026, 28 - jõust. 12.01.2026\]
+
+(2) Ühtse põhikooli lõpueksami eksamitöö valmistatakse ette eksameid korraldava asutuse koostatud eristuskirja põhjal. Eristuskirjas määratakse lõpueksamitöö koostamise tingimused, sealhulgas eraldiseisvalt hinnatavate eksamitöö alateemade ja/või osaoskuste (edaspidi *eksamitöö osad*) küsimuste ja ülesannete valimise kriteeriumid ning nõuded eksamitöö võrreldavuse tagamiseks eelneva ja/või järgneva kooliastme sama õppeaine või ainevaldkonna tasemetöö ja/või riigieksami eksamitööga. Eristuskirjas sõnastatakse eksamisisu (teemad, õppesisu, hinnatavad õpitulemused) sellisel täpsusastmel, mis võimaldab koolil õppetööd kavandades arvestada põhikooli eksamite ajakavaga ning tuuakse esile, mida III kooliastme lõppu jäävatest teemadest, õppesisust ja hinnatavatest õpitulemustest eksamil ei kontrollita.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(3) Ühtse põhikooli lõpueksami küsimused ja ülesanded, eksamitöö, hindamisjuhendi ja vastavustabeli töötab välja vastava õppeaine ühtset põhikooli lõpueksamit ettevalmistav komisjon. Vastavustabelis ja hindamisjuhendis tuuakse välja eksamitöö osade ning õppekava eesmärkide ja III kooliastme õpitulemuste vahelised seosed. Ühtseid põhikooli lõpueksameid ettevalmistavad komisjonid moodustab ja nende töökorra kinnitab korraldava asutuse peadirektor käskkirjaga.
+
+\[RT I, 11.05.2023, 1 - jõust. 01.09.2023\]
+
+(4) Eksameid korraldav asutus koostab ühtsete põhikooli lõpueksamite läbiviimisjuhendid.
+
+(5) Ühtsete põhikooli lõpueksamite eksamitööde (välja arvatud keeleainete) punktidest maksimaalselt 20% on võimalik saada äratundmistasandi, 30% reprodutseerimistasandi ja 50% rakendustasandi (analüüs, üldistamine, hinnangu andmine) soorituste eest.
+
+(5<sup>1</sup>) Ühtsete põhikooli lõpueksamite keel ja kirjandus valdkonna õppeainete ülesanded kontrollivad lugemis-, kuulamis-, kirjutamisoskust ja keelestruktuuri tundmist. Võõrkeelte ja eesti keele kui teise keele eksamiülesanded hindavad ka kõnelemisoskust.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(6) Ühtsete põhikooli lõpueksamite eksamitööde ettevalmistamise ja koostamise kohustuslikud etapid on:
+
+1\) ülesannete koostamine;
+
+2\) ülesannete toimetamine;
+
+3\) ülesannete valimine ja eeltesti koostamine;
+
+4\) eeltestimine koolides;
+
+5\) eeltesti tulemuste analüüsimine;
+
+6\) testi koostamine;
+
+7\) ekspertanalüüsi ja -hinnangu koostamine;
+
+8\) testi korrigeerimine ja eksamitöö lõppversiooni koostamine.
+
+(7) Eeltestimisega kontrollitakse eksamitöö osade ning küsimuste ja ülesannete raskusastet, kvaliteeti ja ülesehitust.
+
+(8) Vajaduse korral koostab eksameid korraldav asutus ühtsete põhikooli lõpueksamite eksamitöö juurde kuuluva küsimustiku kooli direktorile ja õpetajale.
+
+(9) Testide andmekogus tehtud ühtse põhikooli lõpueksami läbiviijad ja hindajad läbivad koolituse, mille korraldab eksameid korraldav asutus.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+#### § 13. Ühtsete põhikooli lõpueksamite komisjonid
+
+(1) Põhikooli lõpueksami korraldamise eest vastutab vastava õppeaine põhikooli lõpueksami komisjon. Põhikooli lõpueksami komisjonid moodustab kooli direktor käskkirjaga hiljemalt kaks nädalat enne põhikooli lõpueksamite toimumist.
+
+(2) Põhikooli lõpueksami komisjon on vähemalt kolmeliikmeline. Kui põhikooli lõpueksamit sooritab korraga enam kui 60 eksaminandi, on lõpueksamikomisjonis vähemalt üks liige iga 20 eksaminandi kohta. Kui põhikooli lõpueksamit viiakse läbi üheaegselt mitmes eksamiruumis, peab igas neist viibima vähemalt kaks komisjoni liiget. Testide andmekogus läbiviidava põhikooli lõpueksami puhul määrab kooli direktor igasse ruumi testi administraatori.
+
+(2<sup>1</sup>) Testide andmekogus läbiviidava põhikooli lõpueksami puhul määrab kooli direktor igasse kuni 24 õpilasega eksamiruumi kaks testi läbiviijat. Iga täiendava 12 õpilase kohta lisandub eksamiruumi üks läbiviija. Läbiviija ülesanne on registreerida arvutid, anda eksaminandidele luba eksamiruumi sisenemiseks, toimetada eksamite infosüsteemis ja abistada õpilasi tehnilistes küsimustes.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(3) Kooli direktor võib põhikooli lõpueksami komisjoni esimeheks määrata õppealajuhataja või õpetaja. Põhikooli lõpueksami komisjoni esimeheks ei või olla eksamineeritava klassi lõpueksami õppeaine õpetaja.
+
+(4) Kui ühes koolis osaleb eesti keele teise keelena põhikooli lõpueksamil vähem kui viis õpilast, määrab eksameid korraldav asutus eksami läbiviimise koha. Põhjendatud juhtudel võib eesti keele teise keelena eksam toimuda koolis, kus eksamil osaleb vähem kui viis õpilast.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+#### § 14. Välisvaatleja ja välishindaja
+
+(1) Eesti keele kui teise keele eksami kirjaliku osa sooritamisel ning Eesti Vabariigi põhiseaduse ja kodakondsuse seaduse tundmise eksami sooritamisel ühiskonnaõpetuse ühtse põhikooli lõpueksami lisana peab eksamil lisaks lõpueksamikomisjonile olema välisvaatleja.
+
+(2) Välisvaatleja on eksameid korraldava asutuse poolt määratud isik, kelle ülesanne on jälgida eksamikorrast kinnipidamist.
+
+(3) Eesti keele kui teise keele eksami suulise osa juures viibib korraldava asutuse peadirektori käskkirjaga kinnitatud välishindaja. Eksamit korraldav asutus võib eesti keele kui teise keele eksami suulist osa hinnata salvestiselt, andes sellest koolile kirjalikku taasesitamist võimaldavas vormis kolm päeva enne eksami algust teada. Sel juhul viibib eksamiruumis suulise osa läbiviimisel välisvaatleja.
+
+\[RT I, 11.05.2023, 1 - jõust. 01.09.2023\]
+
+(4) Välishindaja on erialalt eesti keele filoloog, kes on osalenud eksameid korraldava asutuse läbiviidaval hindajate koolitusel ja kelle ülesanne on hinnata eesti keele kui teise keele eksami suulise osa vastuseid ja jälgida eksamikorrast kinnipidamist.
+
+(5) Kui välisvaatleja või välishindaja ei ilmu kohale või haigestub eksami ajal, teavitab lõpueksamikomisjoni esimees sellest eksameid korraldavat asutust, mis tagab eksami välisvaatleja ja välishindaja olemasolu eksami läbiviimisel. Selle kohta tehakse vastav märge ühtse põhikooli lõpueksami toimumise protokolli.
+
+(6) Lõikes 5 nimetatud juhul täidab kooli direktor välisvaatleja ülesandeid kuni välisvaatleja saabumiseni. Selle kohta tehakse vastav märge ühtse põhikooli lõpueksami toimumise protokolli.
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+#### § 15. Ühtsete põhikooli lõpueksamite läbiviimine
+
+(1) Ühtne põhikooli lõpueksam viiakse läbi paberil või testide andmekogus.
+
+(2) Enne testide andmekogus ühtse põhikooli lõpueksami läbiviimist teeb eksameid korraldav asutus koolidele teatavaks nõuded arvutite tarkvarale ja seadistustele ning kättesaadavaks näidistesti.
+
+(3) Elektrooniliselt läbiviidava ühtse põhikooli lõpueksami eksamitöö, selle eristuskirja, hindamisjuhendi, läbiviimisjuhendi ja vastavustabeli, vajaduse korral küsimustikud kooli direktorile, õpetajale ja eksaminandile ning eeltäidetud ühtse põhikooli lõpueksami aruande teeb eksameid korraldav asutus koolile kättesaadavaks testide andmekogus või muul viisil elektrooniliselt.
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+(4) Paberil läbiviidava ühtse põhikooli lõpueksami eksamimaterjalide paketi koolidesse toimetamine toimub eksameid korraldava asutuse vahendusel. Eksamimaterjalide paketis on eksamitööd eksaminandidele ja üks eksamitöö lõpueksamikomisjonile. Eesti keele kui teise keele lõpueksami puhul ei ole paketis eraldi eksemplari lõpueksamikomisjonile.
+
+\[RT I, 14.11.2023, 1 - jõust. 17.11.2023\]
+
+(5) Paberil läbiviidava ühtse põhikooli lõpueksami läbiviimisjuhendi, eksamitöö hindamisjuhendi, vastavustabeli, võõrkeele lõpueksamite kuulamisosa helifail, vajaduse korral küsimustikud kooli direktorile, õpetajale ja eksaminandile ning eeltäidetud ühtse põhikooli lõpueksami aruande teeb eksameid korraldav asutus koolile kättesaadavaks testide andmekogus või muul viisil elektrooniliselt.
+
+\[RT I, 14.11.2023, 1 - jõust. 17.11.2023\]
+
+(6) Kooli direktor tagab paberil läbiviidavate ühtsete põhikooli lõpueksamite eksamitööde õigeaegse koolijõudmise ja konfidentsiaalsuse ning vajaduse korral kooli pitseriga varustatud mustandilehed eksamiteks.
+
+(7) Eksam viiakse läbi ruumis, kus eksaminandid saavad istuda ühekaupa ja üksteist häirimata. Testide andmekogus läbiviidav eksam peab toimuma ruumis, kus iga eksaminandi kohta on arvuti koos eksamitöö sooritamiseks vajalike sisend- ja väljundseadmetega.
+
+(8) Ühtse põhikooli lõpueksami kirjalikud osad algavad üldjuhul kell 10.00. Eksami sooritamiseks antav aeg ning eksami korraldus, sealhulgas eksamiosad, suuliste osade puhul nende algusajad, vaheajad, lubatud abivahendid ja muu taoline, sätestatakse vastava õppeaine ühtse põhikooli lõpueksami eristuskirjas ja läbiviimisjuhendis.
+
+(9) Testide andmekogusse sisenevad eksaminandid kasutades isikutunnistust (ID-kaarti), digitaalset isikutunnistust (mobiil-ID), elamisloakaarti, muud kõrge turvalisuse tasemega audentimisvahendit (Smart-ID) või kooli või testi administraatorilt saadud testimiskeskkonna loodud salasõna. Pärast kõigi eksaminandide sisenemist testimiskeskkonda annab testi administraator loa alustada eksamitöö tegemist. Tehniliste probleemide ilmnemisel juhendab testi administraator õpilast.
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+(10) Eksaminand lubatakse eksamile, kui ta ei ole hilinenud rohkem kui pool tundi ja lõpueksamikomisjon peab tema hilinemise põhjuseid mõjuvaks. Eksamile hilinenud eksaminandile võimaldatakse tööks täisaeg ning tema tööle märgitakse aeg, millal ta alustas eksami sooritamist.
+
+(11) Eesti keele kui teise keele ja võõrkeele ühtse põhikooli lõpueksami suuline osa salvestatakse.
+
+(12) Lõpueksamikomisjoni liige ei tohi eksami ajal eksamiruumist lahkuda, välja arvatud vältimatu vajaduse korral.
+
+(13) Eksaminand ei tohi eksami ajal eksamiruumist lahkuda, välja arvatud vältimatu vajaduse korral. Eksamiruumist eemal viibimise ajaks annab eksaminand oma eksamitöö lõpueksamikomisjonile, kes märgib eksamitööle eksaminandi ruumist lahkumise ja sinna tagasituleku aja.
+
+(14) Eksaminandil ei ole lubatud eksamile kaasa võtta eksami sooritamiseks mittevajalikke esemeid, välja arvatud hädavajalikud ravimid, elementaarsed isikliku hügieeni tarbed ja eksamile põhjendatult kohane söök ja jook.
+
+(14<sup>1</sup>) Enne ühtse põhikooli lõpueksami algust lõpueksamikomisjon: tutvustab eksaminandidele ühtse põhikooli lõpueksami toimumise korda ja hoiatab, et ühtsel põhikooli lõpueksamil kõrvalise abi, sealhulgas süle- või tahvelarvuti, mobiiltelefoni, kõrvaklappide, nutiseadme vm taolise side- või tehnilise vahendi eksamile kaasa võtmisel või eksamil kasutamisel või maha kirjutamisel eksaminand kõrvaldatakse.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(14<sup>2</sup>) Eksaminand lähtub eksamitöö sooritamisel vastava ühtse põhikooli lõpueksami läbiviimisjuhendist ning:
+
+1\) kirjutab kirjaliku eksamitöö tindi- või pastapliiatsiga;
+
+2\) ei kirjuta kirjalikus eksamitöös hariliku pliiatsiga. Hariliku pliiatsiga kirjutatud või hariliku pliiatsiga kirjutatud ja tindi- või pastapliiatsiga üle kirjutatud vastused hinnatakse 0 punktiga;
+
+3\) teeb parandused kirjalikus eksamitöös selgelt, tõmmates maha terve sõna, sümboli, numbri või arvu;
+
+4\) ei kasuta kirjaliku eksamitöö korral korrektuurivahendeid;
+
+5\) kirjutab kirjaliku eksamitöö loetava käekirjaga;
+
+6\) ei kasuta ühtsel põhikooli lõpueksamil ja selle eri osade sooritamisel kõrvalist abi.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(14<sup>3</sup>) Lõpueksamikomisjoni liige kõrvaldab eksaminandi ühtselt põhikooli lõpueksamilt, kui:
+
+1\) eksaminand kasutab ühtse põhikooli lõpueksami sooritamisel kõrvalist abi või kirjutab maha, üritab seda teha või aitab sellele kaasa või on võtnud eksamile kaasa või kasutab käesoleva paragrahvi lõike 14<sup>1</sup> nimetatud vahendeid;
+
+\[RT I, 09.01.2026, 28 - jõust. 12.01.2026\]
+
+2\) eksaminandi käitumine häirib ühtse põhikooli lõpueksami läbiviimist või teisi eksaminande.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(14<sup>4</sup>) Ühtselt põhikooli lõpueksamilt kõrvaldatud eksaminandi eksamitööd hinnatakse 0 punktiga. Lõpueksamikomisjoni liige teeb vastava märke eksaminandi eksamitööle.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(15) Eesti keele kui teise keele eksami ning Eesti Vabariigi põhiseaduse ja kodakondsuse seaduse tundmise eksami sooritamisel ühiskonnaõpetuse eksami lisana vastutab lõpueksamikomisjoni esimees eksameid korraldavasse asutusse tagasisaadetava paketi koostamise ja turvaümbriku sulgemise eest.
+
+(16) Eksameid korraldava asutuse esindajal ning õppe- ja kasvatustegevuse üle riiklikku või haldusjärelevalvet teostava asutuse esindajal on õigus viibida ühtse põhikooli lõpueksami läbiviimise juures.
+
+(17) Lõpueksamikomisjoni esimees teavitab viivitamatult eksameid korraldavat asutust, kui:
+
+1\) eksamimaterjalide pakett on avatud enne paketile märgitud kellaaega;
+
+2\) eksamimaterjalide pakett on transportimisel märgatavalt kannatada saanud;
+
+3\) kahtluse alla on seatud eksamimaterjalide konfidentsiaalsus.
+
+(18) Eksameid korraldav asutus teavitab vajaduse korral konfidentsiaalsusnõude rikkumisest valdkonna eest vastutavat ministrit, kes võib põhjendatud asjaoludel lükata eksami toimumise edasi. Uus eksam toimub hiljemalt neljandal tööpäeval pärast valikeksami toimumisaega.
+
+#### § 16. Ühtsete põhikooli lõpueksamite läbiviimise erisused üldist, tõhustatud või erituge saavate õpilaste puhul
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+(1) Kooli direktor võib võimaldada üldist, tõhustatud või erituge saavale põhikoolilõpetajale eksamitöö tegemiseks tema toe vajadusest tulenevalt üht või mitut järgmistest eritingimustest:
+
+1\) anda lisaaega eksameid korraldava asutuse peadirektori käskkirjaga kinnitatud eksami läbiviimisjuhendis märgitud mahus;
+
+2\) viia eksam läbi eraldi ruumis;
+
+3\) kasutada puhkepausi kuni 10 minutit ühe eksamiosa kohta;
+
+4\) lubada vastuse üleskirjutamist tugiisiku poolt, kui õpilane ei saa kirjutada;
+
+5\) lubada tööjuhiste ettelugemist;
+
+6\) anda õpilastele eksami korralduse kohta kirjalikke juhtnööre ja kasutada korralduslikus osas viipekeele tõlki;
+
+7\) selgitada töökorraldusi täpsemalt;
+
+8\) hinnata kirjutamisraskusega õpilase emakeele eksamitööd diferentseeritult;
+
+9\) lubada eksamitöö sooritada paberkandjal õpilastel, kes erivajadusest tingituna ei saa arvutil eksamit sooritada.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(1<sup>1</sup>) Eesti keele ja matemaatika ühtsetel põhikooli lõpueksamitel võimaldatakse üksnes õpilase toe vajadusest tulenevalt kasutada eksameid korraldava asutuse poolt ette valmistatud abimaterjale.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(2) Eksameid korraldava asutuse eelneval nõusolekul võib kooli direktor otsustada üldist, tõhustatud või erituge saavale põhikoolilõpetajale järgmiste eritingimuste kohaldamise:
+
+1\) kasutada ilma õigekirjakontrollita arvutit õpilasel, kes ei saa kirjutada või kelle käekiri on toe vajadusest tingituna raskesti loetav;
+
+2\) muuta nägemispuudega õpilasele eksamitöö kirja suurust või koostada eksamitöö punktkirjas;
+
+3\) viia kuulmispuudega õpilasele eksamitöö läbi ilma kuulamis- ja suulise osata;
+
+4\) viia raske kõnepuudega õpilasele eksamitöö läbi ilma suulise osata.
+
+(3) Juhul kui õpilase toe vajadusest tulenevalt on eksamil vaja kohaldada käesoleva paragrahvi lõigetes 1 ja 2 nimetamata eritingimust, kooskõlastab kool vajaliku eritingimuse eksameid korraldava asutusega.
+
+(4) Ühtse põhikooli lõpueksami eksamitöö tegemisel kasutatud eritingimused ja eksamitöö sooritamisel ilmnenud erijuhtumid kantakse hiljemalt nelja tööpäeva jooksul pärast eksami toimumist testide andmekogus eeltäidetud ühtse põhikooli lõpueksami aruandesse.
+
+(5) Eksamineerimiseks rakendatakse vajalikke eritingimusi õpilastele, kellele on sarnaseid meetmeid rakendatud ka igapäevases õppetöös III kooliastme vältel ning kelle toe saamise kohta on tehtud märge Eesti Hariduse Infosüsteemi.
+
+(6) Kui käesoleva paragrahvi lõikes 1 nimetatud eritingimuste rakendamise vajadus ilmneb pärast eksamile registreerimist ja õpilasele ei ole sarnaseid meetmeid rakendatud tema igapäevases õppetöös ning Eesti Hariduse Infosüsteemis puudub märge tema toe saamise kohta, tehakse eritingimuse kasutamise kohta märge koos põhjendusega testide andmekogusse.
+
+(7) Kui käesoleva paragrahvi lõikes 2 nimetatud eritingimuste rakendamise vajadus ilmneb pärast eksamile registreerimist, esitab kool viivitamata eksameid korraldavale asutusele taotluse.
+
+(8) Kooli direktori põhjendatud otsusega ja eksameid korraldava asutuse nõusolekul võimaldatakse üldist, tõhustatud või erituge saavale põhikooli lõpetajale eesti keele kui teise keele lõpueksami sooritamiseks ühte või mitut käesoleva paragrahvi lõigetes 1 ja 2 nimetatud eritingimust.
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+#### § 17. Lisa- ja koolieksamite korraldamine
+
+\[RT I, 09.01.2026, 28 - jõust. 12.01.2026\]
+
+(1) Põhikoolilõpetaja, kes ühtse põhikooli lõpueksami ajal või kooli eksamiplaanis ettenähtud eksami ajal haigestub, ei saa sellel osaleda või, kelle lõpu- või koolieksami tulemus on alla 1 protsendi eksami maksimaalsest tulemusest, sooritab lisaeksami.
+
+\[RT I, 09.01.2026, 28 - jõust. 12.01.2026\]
+
+(2) Testide andmekogus läbiviidava ühtse põhikooli lõpueksami ajal haigestunud või sellel kooli direktori poolt mõjuvaks loetud põhjusel mitte osaleda saanud põhikoolilõpetaja sooritab ühtse põhikooli testide andmekogus lõpueksami lisaeksami. Haigestumine või muu mõjuv põhjus märgitakse testide andmekogus eksami toimumise protokollis.
+
+(3) Kool registreerib testide andmekogus läbiviidava ühtse põhikooli lõpueksami ajal puudunud õpilase ühtse põhikooli lõpueksami lisaeksamile kolme tööpäeva jooksul pärast korralise ühtse põhikooli lõpueksami toimumist.
+
+(4) Kui testide andmekogus sooritatava eksami ajal on tuvastatud eksami sooritamist segav tehniline rike, mida ei ole võimalik kõrvaldada 30 minuti jooksul rikke tuvastamisest, otsustab eksameid korraldav asutus koostöös kooli direktoriga õpilaste lisaeksamile lubamise.
+
+(5) \[Kehtetu - RT I, 09.01.2026, 28 - jõust. 12.01.2026\]
+
+(6) \[Kehtetu - RT I, 09.01.2026, 28 - jõust. 12.01.2026\]
+
+(7) Lisaeksam sooritatakse kooli direktori poolt määratud ajal, hiljemalt jooksva õppeaasta 1. juuniks. Õpilase taotlusel võib eksam toimuda ka pärast 1. juunit, kuid hiljemalt jooksva õppeaasta 25. augustiks.
+
+\[RT I, 09.01.2026, 28 - jõust. 12.01.2026\]
+
+#### § 17<sup>1</sup>. Ühtsete põhikooli lõpueksamite korraldamine ettevalmistavas õppes
+
+(1) Ettevalmistavas õppes osaleval õpilasel on õigus sooritada uuesti põhikooli lõpueksam juhul, kui ta vastab vähemalt ühele alljärgnevatest tingimustest:
+
+1\) põhikooli lõpueksami tulemus matemaatikas oli alla 50 protsendi maksimaalsest tulemusest;
+
+2\) põhikooli lõpueksami tulemus eesti keeles oli alla 50 protsendi maksimaalsest tulemusest;
+
+3\) põhikooli lõpueksami tulemus eesti keel teise keelena oli alla 60 protsendi maksimaalsest tulemusest;
+
+4\) põhikooli lõpueksam eesti keeles või matemaatikas oli sooritatud individuaalse õppekava alusel koostatud koolieksamina vastavalt käesoleva määruse § 10 lõikes 3 sätestatud tingimustele;
+
+5\) põhikooli lõpueksam eesti keel teise keelena oli sooritatud individuaalse õppekava alusel koostatud koolieksamina vastavalt käesoleva määruse § 10 lõikes 3<sup>1</sup> sätestatud tingimustele.
+
+(2) Eksam sooritatakse ühtse põhikooli lõpueksami läbiviimise ajal kooli juures, kus toimub ühtsete põhikooli lõpueksamite läbiviimine vastaval õppeaastal.
+
+\[RT I, 22.05.2026, 4 - jõust. 25.05.2026\]
+
+#### § 18. Ühtsete põhikooli lõpueksamite hindamine
+
+(1) Ühtsete põhikooli lõpueksamite eksamitöid hindab lõpueksamikomisjon, lähtudes vastava õppeaine eksamitöö hindamisjuhendist.
+
+(1<sup>1</sup>) Lõpueksami andmete migreerimisel Eesti hariduse infosüsteemi kasutatakse ümardamisreeglit. Ümardamise kord on fikseeritud eksami eristuskirjas.
+
+\[RT I, 09.01.2026, 28 - jõust. 12.01.2026\]
+
+(1<sup>2</sup>) Ettevalmistavas õppes osalevate õpilaste eksamitöid hindavad eksameid korraldava asutuse peadirektori käskkirjaga kinnitatud hindajad, lähtudes vastava õppeaine eksamitöö hindamisjuhendist.
+
+\[RT I, 22.05.2026, 4 - jõust. 25.05.2026\]
+
+(2) Testide andmekogus tehtud eksamitöid kontrollitakse elektrooniliselt. Avatud vastustega küsimusi ja ülesandeid, mille õigsust ei ole võimalik elektrooniliselt kontrollida, kontrollib testide andmekogus vastavalt läbiviimisjuhendile eksameid korraldava asutuse määratud hindaja või kooli lõpueksamikomisjon eksameid korraldava asutuse poolt koostatud hindamisjuhendi alusel nelja tööpäeva jooksul pärast ühtse põhikooli lõpueksami toimumist.
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+(3) Lõpueksamikomisjon sisestab paberil läbiviidud ühtsete põhikooli lõpueksamite kontrollimise tulemused hiljemalt nelja tööpäeva jooksul pärast ühtse põhikooli lõpueksami toimumist testide andmekogus eeltäidetud ühtse põhikooli lõpueksami aruandesse.
+
+(3<sup>1</sup>) Lõpueksamikomisjon sisestab kooli- ja lisaeksamite kontrollimise tulemused hiljemalt nelja tööpäeva jooksul pärast kooli- ja lisaeksami toimumist testide andmekogus eeltäidetud põhikooli lõpueksami aruandesse.
+
+\[RT I, 09.01.2026, 28 - jõust. 01.09.2026\]
+
+(4) Elektrooniliselt läbiviidud ühtse põhikooli lõpueksami eksamitöö tulemused teatab eksameid korraldav asutus igale õpilasele ja koolile testide andmekogu kaudu hiljemalt üksteist tööpäeva pärast ühtse põhikooli lõpueksami toimumist.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(5) Eesti keele kui teise keele eksamit hinnatakse järgmiselt:
+
+1\) eksami kirjaliku osa töid hindavad keeleseaduse alusel korraldava asutuse peadirektori käskkirjaga kinnitatud hindajad;
+
+\[RT I, 11.05.2023, 1 - jõust. 01.09.2023\]
+
+2\) eksami suulise osa vastuseid hindavad välishindaja ja lõpueksamikomisjoni kuuluv eesti keele kui teise keele õpetaja vastavalt eesti keele kui teise keele eksami suulise osa hindamisjuhendile.
+
+(6) Eksameid korraldav asutus teatab eesti keele kui teise keele eksami tulemused koolile testide andmekogu kaudu hiljemalt 16 tööpäeva pärast ühtse põhikooli lõpueksami toimumist.
+
+\[RT I, 31.12.2022, 3 - jõust. 03.01.2023\]
+
+(7) Eesti keele kui teise keele lõpueksamikomisjon kinnitab eksami hinde vastavalt hindamisjuhendile eksameid korraldava asutuse teatatud kirjaliku ja suulise osa punktisumma alusel.
+
+(8) Hindamisjuhendi täpsustamiseks ja tegelike eesti keele kui teise keele põhikooli lõpueksamite tööde hindamisjuhendist ühese arusaamise kujundamiseks ning hindamise hindamisjuhendile vastavuse kontrollimiseks moodustab korraldava asutuse peadirektor käskkirjaga eesti keele kui teise keele lõpueksamitööde hindamiskomisjoni.
+
+\[RT I, 11.05.2023, 1 - jõust. 01.09.2023\]
+
+(9) Eesti keele kui teise keele põhikooli lõpueksami subjektiivselt hinnatav kirjalik eksamiosa läheb kolmandale hindamisele, kui esimese ja teise hindaja tulemus erineb 25 protsenti või rohkem. Kolmanda hindamise läbi viinud hindaja hindamisotsus jääb lõplikuks tulemuseks.
+
+(10) Ühiskonnaõpetuse ühtse põhikooli lõpueksami lisana sooritatud Eesti Vabariigi põhiseaduse ja kodakondsuse seaduse tundmise eksami küsimusi hinnatakse vastavalt Vabariigi Valitsuse 25. septembri 2008. a määruse nr 143 „Kodakondsuse taotleja Eesti vabariigi põhiseaduse ja „Kodakondsuse seaduse” tundmise eksami läbiviimise kord” sätestatule. Nimetatud määruse § 9 lõikes 7 sätestatud juhul väljastatakse isikule Eesti Vabariigi põhiseaduse ja kodakondsuse seaduse tundmise eksami tunnistus.
+
+(11) Kui lõpueksamikomisjonil tekib hindamisel lahkarvamusi, otsustatakse küsimus häälteenamusega. Häälte võrdsel jagunemisel on otsustavaks lõpueksamikomisjoni esimehe hääl. Lõpueksamikomisjoni liikmete eriarvamused kantakse testide andmekogus eeltäidetud ühtse põhikooli lõpueksami aruandesse.
+
+(12) Kui ühtse põhikooli lõpueksami eksamitöö kirjaliku või suulise osa hindamisel tuvastatakse kõrvalise abi kasutamine või mahakirjutamine (eri eksaminandide töödes süstemaatiliselt esinevad ühesugused vead ja/või parandused, identselt sõnastatud pikemad vabavormilised vastused, ülejäänud vastuse loogikaga mitte haakuvad ühesugused õiged või valed lisandused vastusesse, loomevargus või muu selline), siis hindab lõpueksamikomisjon eksamitöö tervikuna 0 hindepunktiga. Eesti keele kui teise keele kirjaliku osa eksamitööde puhul tuvastab kõrvalise abi kasutamise või mahakirjutamise eksameid korraldav asutus käesoleva määruse § 37 lõikes 14 sätestatud korras.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(13) Eksameid korraldav asutus väljastab eksaminandile, kes saab eesti keele kui teise keele eksamil vähemalt 60 protsenti maksimaalsest tulemusest, eesti keele B1-taseme tunnistuse.
+
+#### § 19. Ühtsete põhikooli lõpueksamite eksamitööde säilitamine
+
+(1) Paberil läbiviidud ühtse põhikooli lõpueksami eksamitöid, sealhulgas keeleeksamite suulise osa salvestusi säilitatakse koolis kolm aastat ning välishindamise valimisse kuulunud eksamitöid eksameid korraldavas asutuses kolm aastat.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(2) Ühtse põhikooli lõpueksami tulemused eksamitöö terviku ja osade kaupa säilitatakse ja arhiveeritakse testide andmekogus isikustatud kujul.
+
+(3) Haridus- ja Teadusministeerium ning eksameid korraldav asutus võivad kooskõlas isikuandmete kaitse seadusega lubada ühtsete põhikooli lõpueksami eksamitööde andmestike ja tulemuste kasutust teadus- ja rakendusuuringutes.
+
+#### § 20. Analüüsitavate ühtsete põhikooli lõpueksamite eksamitööde valimi moodustamine
+
+(1) Eksameid korraldav asutus koostab koos Haridus- ja Teadusministeeriumiga valimi (vähemalt 5 protsenti lõpueksami sooritajatest) koolidest, kes saadavad oma õpilaste ühtsete põhikooli lõpueksamite eksamitööd, eesti keele kui teise keele ja võõrkeele ühtsete põhikooli lõpueksamite suuliste osade salvestised eksameid korraldavale asutusele analüüsimiseks. Eksameid korraldav asutus teeb valimisse kuulumise koolidele teatavaks elektrooniliselt kolme tööpäeva jooksul pärast viimase ühtse põhikooli lõpueksami toimumist.
+
+(2) Valimisse kuuluv kool saadab kontrollitud lõpueksamitööd eksameid korraldavale asutusele kolme tööpäeva jooksul pärast vastava teate saamist.
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+#### § 21. Ühtsete põhikooli lõpueksamite eksamitööde tulemuste analüüs ja järeldused
+
+(1) Ühtsete põhikooli lõpueksamite eksamitööde tulemuste analüüsi korraldab eksameid korraldav asutus, lähtudes käesoleva määruse §-s 9 sätestatud põhikooli lõpueksamite eesmärkidest. Eksameid korraldav asutus kaasab ühtsete põhikooli lõpueksamite eksamitööde tulemuste analüüsi vajaduse korral eksperte.
+
+(2) \[Kehtetu - RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+(3) Ühtsete põhikooli lõpueksamite eksamitööde tulemuste analüüsi tulemused avalikustatakse Eesti hariduse teabeväravas Haridussilm lõpueksamite läbiviimisele järgneva aasta 31. jaanuariks.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(4) Eksameid korraldav asutus annab igale valimisse kuulunud koolile, kelle õpilaste valimisse kuulumine või kooli osalemine omal soovil on taganud samade õpilaste osalemise varasema kooliastme tasemetööl ulatuses, mis on kooli antud aasta õpilaste suhtes esinduslik, eksamitulemuste analüüsi alusel tagasisidet õppe tulemuslikkuse ja kooli panuse kohta õpilaste edasijõudmisse hiljemalt lõpueksamite läbiviimise aasta 10. detsembriks.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(5) Koolile esitatud tagasisides kõrvutatakse kooli õppe tulemuslikkust ja kooli panust õpilaste edasijõudmisse võrreldes:
+
+1\) sarnaste koolide rühma (tegevusnäitajad, õpikeskkond) tulemustega;
+
+2\) kõikide koolide tulemustega.
+
+(6) Eksameid korraldav asutus esitab ühtsete põhikooli lõpueksamite läbiviimise aasta 10. detsembriks Haridus- ja Teadusministeeriumile põhikooli lõpueksamite aruanded. Aruandes kajastatakse õppekava eesmärkide ning III kooliastme õpitulemuste saavutatust eksamitöö kui terviku ja osade kaupa; erinevate õpilasrühmade ja õppeasutuste rühmade lõikes; tulemuste võrreldavust kahe sama õppeaine eelmise eksamitööga; eksamitöö kvaliteeti mõõtmisomaduste ja riiklikule õppekavale vastavuse põhjal.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(7) \[Kehtetu - RT I, 11.05.2023, 1 - jõust. 14.05.2023\]
+
+### 3. jagu — Põhikooli koolieksamid
+
+#### § 22. Põhikooli koolieksamite ettevalmistamine ja eksamitööde koostamine
+
+(1) Põhikooli koolieksam (edaspidi *koolieksam*) võib olla kirjalikus, suulises, kirjalikus ja suulises ning lihtsustatud õppel olevate õpilaste puhul ka praktilise töö vormis.
+
+(2) Koolieksami materjalid valmistatakse ette ja koostatakse koolis.
+
+(3) Kooli direktor kinnitab koolieksamite materjalid ja eksamiplaani vähemalt kaks nädalat enne koolieksami algust.
+
+(4) Eksamiplaan pannakse õpilastele, õpetajatele ja lapsevanematele tutvumiseks välja vähemalt kaks nädalat enne eksamiperioodi algust.
+
+(5) Koolieksamid korraldatakse kooli direktori kinnitatud eksamiplaani järgi. Eksamiplaani koostamisel arvestatakse ühtsete põhikooli lõpueksamite kuupäevi ja järgmisi põhimõtteid:
+
+1\) samal päeval võib põhikoolilõpetajal olla üks lõpueksam;
+
+2\) kahe järjestikuse lõpueksami vahel on vähemalt kolm kalendripäeva;
+
+3\) lõpueksameid ei korraldata laupäeval, pühapäeval ega riigipühadel.
+
+(6) Käesoleva paragrahvi lõikeid 3 ja 4 ning õpilase nõusolekul ka lõike 5 punkte 2 ja 3 ei kohaldata §-s 17 sätestatud lisaeksamitele.
+
+\[RT I, 09.01.2026, 28 - jõust. 12.01.2026\]
+
+#### § 23. Põhikooli koolieksamite läbiviimine
+
+(1) Koolieksamite läbiviimiseks moodustab kooli direktor hiljemalt kaks nädalat enne koolieksamite algust vähemalt kolmeliikmelised lõpueksamikomisjonid.
+
+(2) Kooli direktor võib lõpueksamikomisjoni esimeheks määrata õppealajuhataja või õpetaja. Lõpueksamikomisjoni esimees vastutab koolieksami korraldamise ja läbiviimise eest. Lõpueksamikomisjoni esimees ei või olla eksamineeritava klassi eksamiaine õpetaja.
+
+#### § 24. Põhikooli koolieksamitööde hindamine ja säilitamine
+
+(1) Õpilaste eksamitöid hindab lõpueksamikomisjon.
+
+(2) Koolieksami tulemused protokollitakse käesoleva määruse lisas esitatud vormi kohaselt.
+
+(3) Kui lõpueksamikomisjonil tekib hindamisel lahkarvamusi, otsustatakse eksami tulemus häälteenamusega. Häälte võrdsel jagunemisel on otsustavaks lõpueksamikomisjoni esimehe hääl. Lõpueksamikomisjoni liikmete eriarvamused kantakse protokolli.
+
+\[RT I, 11.05.2023, 1 - jõust. 14.05.2023\]
+
+(4) Koolieksamitöid ja protokolle säilitatakse koolis kolm aastat.
+
+## 4. peatükk — Gümnaasiumi lõpueksamid
+
+### 1. jagu — Üldsätted
+
+#### § 25. Gümnaasiumi lõpueksamid
+
+Gümnaasiumi lõpetamiseks sooritatakse lõpueksamid. Gümnaasiumi lõpueksamid on riigieksamid, käesolevas määruses sätestatud juhul riigieksamit asendavad rahvusvaheliselt tunnustatud võõrkeele eksamid (edaspidi *riigieksamid*) ja gümnaasiumi koolieksam.
+
+### 2. jagu — Riigieksamid
+
+#### § 26. Riigieksamite eesmärgid
+
+(1) Riigieksamite läbiviimise eesmärk on hinnata gümnaasiumi riikliku õppekava üldpädevuste, valdkonnapädevuste, läbivate teemade ning kohustuslike kursuste õpitulemuste omandatust (edaspidi *õppekava eesmärgid ja õpitulemused*) selleks, et:
+
+1\) anda õpilasele, vanemale, koolile, kooli pidajale ja riigile võimalikult objektiivset ja võrreldavat tagasisidet õppimise ja õpetamise tulemuslikkusest ning sellest, milline on kooli panus õpilaste edasijõudmisse;
+
+2\) selgitada, kuidas õppe tulemuslikkus ning kooli panus õpilaste edasijõudmisse on ajas muutunud;
+
+3\) anda riigile informatsiooni hariduspoliitiliste otsuste tegemiseks;
+
+4\) toetada riikliku õppekava rakendamist ning suunata eksami sisu ja vormi kaudu õppeprotsessi;
+
+5\) teha otsus õpilase gümnaasiumi lõpetamise kohta;
+
+6\) siduda järjestikuste haridustasemete õppekavad ning võimaldada kasutada riigieksamitulemusi õpingute jätkamiseks.
+
+(2) Eksamitööd võivad õppekava eesmärkide ja õpitulemuste kohta võimalikult objektiivse ja võrreldava tagasiside saamiseks sisaldada küsimusi õpilase õpingute ja õpikogemuste kohta koolis ja väljaspool kooli ning selle kohta, kuidas õpilane ise oma kompetentsust hindab.
+
+#### § 27. Riigieksamid
+
+(1) Gümnaasiumi lõpetamiseks sooritab õpilane riigieksamid eesti keeles, matemaatikas ja võõrkeeles. Gümnaasiumi või põhihariduse baasil kutseõppeasutuses õppiv õpilane saab õpingute jooksul iga riigieksami sooritada üks kord.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(2) Riigieksamite sooritamise õigus on ka:
+
+1\) põhihariduse baasil kutseõppeasutuses lõpukursusel õppival õpilasel;
+
+2\) varem gümnaasiumi või kutseõppeasutuse lõpetanud isikul, kes ei ole antud õppeaines riigieksamit sooritanud;
+
+3\) varem gümnaasiumi või kutseõppeasutuse lõpetanud isikul, kes soovib varasemat riigieksamitulemust parandada;
+
+4\) välisriigis või Eestis Eesti keskharidusele vastava haridustaseme omandanud või seda omandaval isikul;
+
+5\) kutseõppeasutuse õpilasel, kes ei ole lõpukursusel, kuid kellel on eksamiaine läbitud.
+
+(3) Gümnaasiumi või kutseõppeasutuse lõpetanud isik, kes on varasemalt sooritanud ühe käesoleva paragrahvi lõike 11 punktides 1–2 toodud rahvusvaheliselt tunnustatud võõrkeele eksamitest, saab soovi korral sooritada veel ühel korral omal valikul ühe nimetatud eksamitest.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(4) Isik, kellel on gümnaasiumi õppeainete kooliastmehinded, koolieksami hinne ja õpilasuurimuse või praktilise töö hinne vähemalt rahuldav, kuid kellel on gümnaasium lõpetamata, kuna ta ei sooritanud riigieksameid, sooritab riigieksamid:
+
+1\) selle gümnaasium juures, kus ta õpib või õppis, kui ta teatab koolile oma soovist hiljemalt jooksva õppeaasta 20. jaanuariks, või
+
+2\) eksameid korraldava asutuse poolt määratud kohas, kui isik ei soovi või ei saa riigieksameid sooritada koolis, kus ta õpib või õppis (kooli ümberkorraldamise või tegevuse lõpetamise tõttu või isiku elukoha vahetuse tõttu). Isik teavitab oma soovist eksamid korraldavat asutust hiljemalt jooksva õppeaasta 20. jaanuariks.
+
+(5) Gümnaasiumi riiklikus õppekavas sätestatud juhtudel võib õpilane gümnaasiumi lõpetamiseks sooritada eesti keele eksami asemel eesti keele kui teise keele eksami. Eesti keele tasemetunnistus (B2) väljastatakse juhul, kui eksaminand on saanud vähemalt 60 protsenti maksimaalsest tulemusest, kusjuures ühegi osaoskuse tulemus ei tohi olla 0 punkti. Käesoleva määruse § 34 lõike 1 punktides 10 ja 12 sätestatud juhtudel võib õpilasele anda tasemetunnistuse juhul, kui eksamitöö kõik osad ei ole tehtud.
+
+\[RT I, 09.01.2026, 28 - jõust. 12.01.2026\]
+
+(6) Õpilane, kelle õppekeel on viipekeel, võib valida kohustuslikuks eksamiks kas eesti keele või eesti keele kui teise keele eksami.
+
+(7) Õpilane, kellel on gümnaasiumi riiklikust õppekavast tulenevalt õigus sooritada eesti keele kui teise keele eksam eesti keele riigieksami asemel, ei pea sooritama eesti keele kui teise keele eksamit, kui talle on vastavalt keeleseadusele väljastatud eesti keele oskuse kõrgtaseme või C1-taseme tunnistus ning ta on selle esitanud koolile hiljemalt jooksva õppeaasta 20. jaanuariks.
+
+\[RT I, 09.01.2026, 28 - jõust. 12.01.2026\]
+
+(8) Matemaatika riigieksamil eristatakse gümnaasiumi riikliku õppekava kitsa matemaatika ainekavale ja laia matemaatika ainekavale vastavaid eksamitöid. Õpilane valib, kumma eksamitöö ta sooritab.
+
+(9) Matemaatika riigieksam valmistatakse ette eesti ja vene keeles. Riikidevaheliste lepingute või Rahvusvahelise Bakalaureuse Organisatsiooni õppekava alusel võib kool kasutada ka teisi keeli. Teistes keeltes eksami läbiviimisel tagab kooli pidaja eksameid korraldavale asutusele lõpueksamite tõlkimis- ja hindamiskulude finantseerimise.
+
+(10) Tallinna Saksa Gümnaasiumi saksakeelses osakonnas sooritatavat Saksa üldise kõrgkooliküpsuse matemaatika eksamit tunnustatakse laia matemaatika riigieksamina.
+
+(11) Eksameid korraldav asutus valmistab ette ja viib läbi inglise keele B1/B2-taseme riigieksami. Prantsuse ja saksa keeles saab sooritada riigieksamit asendava rahvusvaheliselt tunnustatud võõrkeele eksami. Õpilane saab inglise keele riigieksamile lisaks valida ühe järgmiste eksamite hulgast:
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+1\) Diplôme d'études en langue française B1-taseme eksam ja Diplôme d'études en langue française B2-taseme eksam (prantsuse keel);
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+2\) *Goethe-Zertifikat* B1-taseme eksam, *Goethe-Zertifikat* B2-taseme eksam, Saksa II astme keelediplomi B2-/C1-taseme eksam ning Saksa üldise kõrgkooliküpsuse saksa keele eksam, kus punktid vahemikus 1–4 loetakse vastavaks keeleoskustasemega B2 ning punktid vahemikus 5–15 keeleoskustasemega C1 (saksa keel).
+
+3\) \[kehtetu - RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(11<sup>1</sup>) Inglise keeles saab sooritada riigieksamit asendava rahvusvaheliselt tunnustatud Cambridge English C1 Advanced eksami.
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+(12) Saksa üldise kõrgkooliküpsuse saksa keele eksamile või Saksa II astme keelediplomi B2-/C1-taseme eksamile registreerija võib lisaks valida inglise keele riigieksami, käesoleva paragrahvi lõike 11 punktis 1 esitatud rahvusvahelise eksami prantsuse keeles või käesoleva paragrahvi lõikes 11<sup>1</sup> esitatud rahvusvahelise eksami inglise keeles.
+
+\[RT I, 09.01.2026, 28 - jõust. 12.01.2026\]
+
+(13) Saksa II astme keelediplomi B2-/C1-taseme eksamiga saab saksa keele riigieksami asendada nende õpilaste puhul, kes õpivad koolis, millele Saksamaa Liitvabariigi Väliskoolivõrgu Büroo on andnud loa nende eksamite läbiviimiseks. Saksa üldise kõrgkooliküpsuse saksa keele eksamiga saab saksa keele riigieksami asendada Tallinna Saksa Gümnaasiumi saksakeelse osakonna õpilaste puhul.
+
+(14) Käesolevas määruses riigieksamile ja lisaeksamile registreerimise ning eksamite korraldamise kohta sätestatut kohaldatakse ka käesoleva paragrahvi lõikes 13 nimetatud rahvusvaheliste eksamite puhul, kui see ei ole vastuolus riikidevaheliste või rahvusvaheliste testimisasutustega sõlmitud lepingutega.
+
+(15) Õpilane ei pea sooritama käesoleva paragrahvi lõikes 11 nimetatud võõrkeele eksamit, kui ta on koolile hiljemalt jooksva õppeaasta 20. jaanuariks esitanud vähemalt jooksva õppeaasta 31. augustini kehtiva eksamitunnistuse või tõendi, mis tõendab, et ta on sooritanud vähemalt B1 keeleoskuse tasemele ühe käesoleva paragrahvi lõike 11 punktides 1–2 nimetatud eksamitest või ühe järgmistest rahvusvaheliselt tunnustatud eksamitest:
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+1\) Cambridge English: B1 Preliminary (PET) (inglise keel);
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+2\) Cambridge English: B2 First (FCE) (inglise keel);
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+3\) Cambridge English: C1 Advanced (CAE) (inglise keel);
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+4\) Cambridge English: C2 Proficiency (CPE) (inglise keel);
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+5\) The International English Language Testing System (IELTS) (inglise keel);
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+6\) Test of English as a Foreign Language (TOEFL) iBT (inglise keel);
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+7\) Pearson Test of English General (PTE General) (inglise keel);
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+8\) Diplôme approfondi en langue française (DALF C1) (prantsuse keel);
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+9\) *Goethe-Zertifikat* C1-tase (saksa keel);
+
+10\) *Goethe-Zertifikat* C2-tase (saksa keel);
+
+11\) *TestDaF* (TDN3) (saksa keel);
+
+12\) *TestDaF* (TDN4) (saksa keel);
+
+13\) *TestDaF* (TDN5) (saksa keel);
+
+14\) *Österreichisches Sprachdiplom Zertifikat B1* (saksa keel);
+
+15\) *Österreichisches Sprachdiplom B2 Mittelstufe Deutsch* (saksa keel);
+
+16\) *Österreichisches Sprachdiplom C1 Oberstufe Deutsch* (saksa keel);
+
+17\) Saksa I astme keelediplomi eksam B1-tase (saksa keel);
+
+18\) Yleiset kielitutkinnot B1/B2-tase (soome keel);
+
+\[RT I, 11.05.2023, 1 - jõust. 14.05.2023\]
+
+19\) Yleiset kielitutkinnot C1/C2-tase (soome keel).
+
+\[RT I, 11.05.2023, 1 - jõust. 14.05.2023\]
+
+(16) Kui õpilane on koolile 20. jaanuariks esitanud tunnistuse või tõendi käesoleva paragrahvi lõike 11 punktides 1–2 või lõikes 15 nimetatud eksami sooritamise kohta, teeb kool eksamitunnistusest või tõendist ja selle juurde kuuluvatest lisamaterjalidest ärakirja, kinnitab ametlikult nende õigsust ning saadab selle eksameid korraldavale asutusele, kes kontrollib selle põhjal käesolevas paragrahvis esitatud nõuete täitmist.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(17) Õpilasel on gümnaasiumiõpingute jooksul õigus sooritada üks käesoleva paragrahvi lõike 11 punktides 1–2 ja lõikes 11<sup>1</sup> nimetatud rahvusvaheliselt tunnustatud võõrkeele eksamitest, juhul kui rahvusvahelise testimisorganisatsiooniga sõlmitud lepingus ei ole kokkulepitud teisiti. Õpilasel on õigus sooritada võõrkeele eksam ka võõrkeeles, mida ta ei ole koolis õppinud.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(18) \[Kehtetu - RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(19) Võõrkeele riigieksamit asendav rahvusvaheline võõrkeele eksam võib olla sooritatud enne gümnaasiumiõpingute algust.
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+#### § 28. Riigieksamitele registreerimine
+
+(1) Gümnaasiumiõpilane, kes ei õpi lõpuklassis, saab riigieksamile registreeruda, kui ta on läbinud kõik selles õppeaines kooli õppekavas ettenähtud kohustuslikud kursused (välja arvatud võõrkeele puhul, mida ta ei ole oma koolis õppinud). Gümnaasiumiõpilane, kes ei õpi lõpuklassis, saab eesti keele kui teise keele riigieksamile registreeruda juhul, kui talle on väljastatud eesti keele oskuse B1-taseme tunnistus ja ta on testide andmekogus edukalt sooritanud B2-taset hindava eeltesti.
+
+\[RT I, 03.07.2020, 8 - jõust. 06.07.2020\]
+
+(2) Gümnaasiumide ja kutseõppeasutuste õpilased ja eksternid täidavad hiljemalt jooksva õppeaasta 20. jaanuariks testide andmekogus registreerimisvormi selle kohta, kas nad soovivad sooritada eesti keele või gümnaasiumi riiklikus õppekavas sätestatud juhtudel eesti keele kui teise keele riigieksami, kitsa või laia matemaatika ainekavale vastava riigieksami ja inglise keele riigieksami või rahvusvaheliselt tunnustatud võõrkeele eksami. Samuti valib õpilane, kas ta soovib matemaatika riigieksami sooritada eesti või vene keeles.
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+(2<sup>1</sup>) Cambridge English C1 Advanced eksamile registreerimiseks täidavad gümnaasiumide ja kutseõppeasutuste kutsekeskhariduse tasemel õppivad õpilased testide andmekogus eeltesti tulemuste alusel registreerimisvormi hiljemalt 6 nädalat enne eksamisessiooni algust.
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+(3) Õpilane, kellel on varem jäänud gümnaasium lõpetamata, sest ta ei sooritanud riigieksamit, saab järgmisel korral riigieksameid sooritades oma käesoleva paragrahvi lõike 2 kohaselt tehtud valikuid muuta.
+
+(4) Kool täidab registreerimisvormi testide andmekogus hiljemalt jooksva õppeaasta 30. jaanuariks.
+
+(5) Kool jaotab hiljemalt jooksva õppeaasta 20. märtsiks testide andmekogus registreeritud eksaminandid eksamiruumidesse. Võõrkeele eksamite puhul esitatakse testide andmekogus lisaks andmed eksamiruumide arvu, suulise osa toimumise ning intervjueerijate ja hindajate kohta. Hilisemad muudatused esitatud andmetes kooskõlastatakse eksameid korraldava asutusega.
+
+(6) Käesoleva määruse § 27 lõike 2 punktides 2, 3 ja 4 ning lõike 4 punktis 2 nimetatud isikud täidavad testide andmekogus registreerimisvormi või esitavad avalduse vastaval blanketil (avalduse blanketi väljastab eksameid korraldav asutus) eksameid korraldavale asutusele hiljemalt jooksva õppeaasta 20. jaanuariks. Nimetatud isikutele väljastab eksameid korraldav asutus teate riigieksami toimumise koha ja kellaaja kohta hiljemalt 10 tööpäeva enne riigieksami toimumist. Teate saaja võtab teate riigieksamile kaasa.
+
+#### § 29. Riigieksamite ettevalmistamine ja koostamine
+
+(1) Riigieksamite ettevalmistamist ja koostamist korraldab eksameid korraldav asutus järgides konfidentsiaalsusnõudeid.
+
+(2) Riigieksamitöö valmistatakse ette eksameid korraldava asutuse koostatud eristuskirja põhjal. Eristuskirjas määratakse riigieksamitöö koostamise tingimused, sealhulgas eraldiseisvalt hinnatavate eksamitöö osade küsimuste ja ülesannete valimise kriteeriumid ning nõuded eksamitöö võrreldavuse tagamiseks sama õppeaine ühtse põhikooli lõpueksami eksamitööga.
+
+(3) Riigieksami küsimused ja ülesanded, eksamitöö, hindamisjuhendi ja vastavustabeli töötab välja vastava õppeaine riigieksamit ettevalmistav komisjon. Vastavustabelis ja hindamisjuhendis tuuakse välja eksamitöö osade ning õppekava eesmärkide ja õpitulemuste vahelised seosed. Riigieksameid ettevalmistavad komisjonid moodustab ja nende töökorra kinnitab korraldava asutuse peadirektor käskkirjaga.
+
+\[RT I, 11.05.2023, 1 - jõust. 01.09.2023\]
+
+(4) Eksameid korraldav asutus koostab riigieksamite läbiviimisjuhendid.
+
+(5) Riigieksamitööde ettevalmistamise ja koostamise kohustuslikud etapid on:
+
+1\) ülesannete koostamine;
+
+2\) ülesannete toimetamine;
+
+3\) ülesannete valimine ja eeltesti koostamine;
+
+4\) eeltestimine koolides;
+
+5\) eeltesti tulemuste analüüsimine;
+
+6\) testi koostamine;
+
+7\) ekspertanalüüsi ja -hinnangu koostamine;
+
+8\) testi korrigeerimine ja eksamitöö lõppversiooni koostamine.
+
+(6) Matemaatika riigieksamitööde punktidest maksimaalselt 20% on võimalik saada äratundmistasandi, 30% reprodutseerimistasandi ja 50% rakendustasandi (analüüs, üldistamine, hinnangu andmine) soorituste eest.
+
+(7) Keeleainete riigieksamiülesanded kontrollivad keelestruktuuri tundmist ning osaoskustest lugemis- ja kirjutamisoskust ning võõrkeelte ja eesti keele kui teise keele eksamiülesanded ka kuulamis- ja kõnelemisoskust.
+
+(8) Riigieksamitöö sisaldab erineva raskusastmega ülesandeid. Eeltestimisega kontrollitakse eksamitöö osade ning ülesannete ja küsimuste raskusastet, kvaliteeti ja ülesehitust.
+
+(9) Vajaduse korral koostab eksameid korraldav asutus riigieksami juurde kuuluva küsimustiku kooli direktorile ja õpetajale.
+
+(10) Riigieksami toimumise päeval või põhjendatud juhtudel riigieksamile eelneval tööpäeval annab eksameid korraldava asutuse esindaja riigieksamimaterjalide paketi üle kooli direktorile. Pärast riigieksami toimumist annab kooli direktor riigieksamimaterjalid üle eksameid korraldava asutuse esindajale.
+
+\[RT I, 14.11.2023, 1 - jõust. 17.11.2023\]
+
+#### § 30. Riigieksamimaterjalide pakett
+
+(1) Eksameid korraldav asutus paneb kokku riigieksamimaterjalide paketi, milles on:
+
+1\) \[kehtetu - RT I, 14.11.2023, 1 - jõust. 17.11.2023\]
+
+2\) riigieksamitööd suletud ümbrikus;
+
+3\) protokolli vorm riigieksamitööde paketi avamise ja riigieksami toimumise kohta;
+
+\[RT I, 14.11.2023, 1 - jõust. 17.11.2023\]
+
+4\) \[kehtetu - RT I, 14.11.2023, 1 - jõust. 17.11.2023\]
+
+5\) protokolli vorm riigieksamitööde üleandmise kohta;
+
+6\) hindamisprotokolli vorm (keeleeksamite suulise osa või nende osade puhul, mida hindavad kaks hindajat);
+
+7\) riigieksamitööde tagasisaatmise ümbrik;
+
+8\) protokollide tagasisaatmise ümbrik;
+
+9\) riigieksamitööde tagasisaatmise turvakott;
+
+10\) küsimustikud kooli direktorile, õpetajale ja eksaminandile, juhul kui need on koostatud.
+
+(2) Võõrkeele riigieksami ja eesti keele kui teise keele riigieksami kasutamata materjalid tagastatakse eksameid korraldavale asutusele.
+
+(3) Võõrkeele riigieksami ja eesti keele teise keelena kuulamise osa helifaili teeb eksameid korraldav asutus koolile kättesaadavaks testide andmekogus või muul viisil elektrooniliselt.
+
+\[RT I, 14.11.2023, 1 - jõust. 17.11.2023\]
+
+#### § 31. Riigieksamikomisjon
+
+(1) Riigieksamite läbiviimiseks moodustab koolidest saadud info alusel eksameid korraldav asutus igal õppeaastal gümnaasiumides ja kutseõppeasutustes hiljemalt üks nädal enne esimest riigieksamit riigieksamikomisjonid arvestusega, et iga 20 eksaminandi kohta on riigieksamikomisjonis üks liige ja kokku mitte vähem kui kolm liiget. Kui riigieksam viiakse üheaegselt läbi mitmes eksamiruumis, peab igas eksamiruumis viibima vähemalt kaks riigieksamikomisjoni liiget. Kui ühes koolis osaleb riigieksamil vähem kui 15 õpilast, moodustab eksameid korraldav asutus koolidevahelise riigieksamikomisjoni ja määrab eksami läbiviimise koha. Põhjendatud juhtudel võib eksameid korraldav asutus moodustada eksamikomisjoni ka koolides, kus eksamil osaleb vähem kui 15 õpilast.
+
+\[RT I, 09.01.2026, 28 - jõust. 12.01.2026\]
+
+(2) Riigieksamikomisjoni moodustab eksameid korraldav asutus:
+
+1\) kui riigieksam viiakse läbi eksameid korraldava asutuse poolt määratud kohas väljaspool koole, sealhulgas käesoleva määruse §-s 35 sätestatud juhul;
+
+2\) riigieksamite lisaeksamite puhul.
+
+(3) Riigieksamikomisjoni esimees on käesoleva paragrahvi lõikes 1 sätestatud juhtudel üldjuhul kooli direktor ja käesoleva paragrahvi lõikes 2 sätestatud juhtudel eksameid korraldava asutuse poolt määratud isik. Riigieksamikomisjoni esimees ei või olla riigieksami õppeaine õpetaja.
+
+(4) Enne riigieksami kirjaliku ja suulise osa algust riigieksamikomisjon:
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+1\) tutvustab eksaminandidele riigieksami toimumise korda;
+
+2\) juhib eksaminandide tähelepanu käesoleva määruse § 33 lõigetes 9 ja 10 ning vastava õppeaine riigieksami läbiviimise juhendis esitatud nõuetele;
+
+3\) hoiatab eksaminande, et riigieksamil kõrvalise abi, sealhulgas süle- või tahvelarvuti, mobiiltelefoni, kõrvaklappide, nutiseadme vm taolise side- või tehnilise vahendi eksamile kaasa võtmisel või eksamil kasutamisel või mahakirjutamisel kõrvaldatakse eksaminand riigieksamilt ning riigieksamitöö hinnatakse 0 punktiga;
+
+\[RT I, 11.05.2023, 1 - jõust. 14.05.2023\]
+
+4\) jagab riigieksamitööd eksaminandidele.
+
+(5) Pärast riigieksamitöö lõpetamist jagab riigieksamikomisjon eksaminandidele eksamimaterjalide paketti kuuluva õpilase küsimustiku, juhul kui see kuulus riigieksamimaterjalide paketti.
+
+(6) Riigieksamikomisjon jälgib, et eksaminandid:
+
+1\) sooritavad riigieksami käesoleva korra ja vastava õppeaine riigieksami läbiviimisjuhendi kohaselt;
+
+2\) kasutavad riigieksamil ainult käesoleva korra ja vastava õppeaine riigieksami läbiviimisjuhendis lubatud töövahendeid;
+
+3\) alustavad kirjalikku riigieksamit üheaegselt pärast juhiste andmist ja eksamitööde väljajagamist kõikidele eksaminandidele;
+
+4\) ei kasuta riigieksamil kõrvalist abi ega käesoleva paragrahvi lõike 4 punktis 3 nimetatud vahendeid;
+
+\[RT I, 11.05.2023, 1 - jõust. 14.05.2023\]
+
+5\) lõpetavad riigieksamitöö ettenähtud ajal;
+
+6\) kirjutavad eksamitööle riigieksamitöö üleandmise protokolli järgi oma koodi ja eksamitöö üleandmise kellaaja;
+
+7\) vastavad õpilase küsimustikule, juhul kui see kuulus riigieksamimaterjalide paketti.
+
+#### § 32. Riigieksami välisvaatleja
+
+(1) Riigieksami välisvaatleja on eksameid korraldava asutuse poolt määratud isik, kelle ülesanne on jälgida kirjaliku eksami eksamikorrast kinnipidamist. Riigieksami välisvaatleja peab viibima eesti keele kui teise keele riigieksamil igas eksamiruumis.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(2) \[Kehtetu - RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(3) \[Kehtetu - RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(4) \[Kehtetu - RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(5) \[Kehtetu - RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(6) Riigieksami välisvaatleja eemaldab riigieksamilt komisjoni liikme, kes üritab aidata eksaminande ülesannete lahendamisel või häirib neid oma tegevusega. Riigieksami välisvaatleja teavitab komisjoni liikme riigieksamilt eemaldamisest eksameid korraldavat asutust ning teeb vastava märke riigieksami toimumise protokolli.
+
+(7) Kui riigieksami välisvaatleja ei täida korrektselt oma ülesandeid või segab riigieksami läbiviimist, on riigieksamikomisjoni esimehel kohustus teavitada sellest eksameid korraldavat asutust ning toimida saadud juhtnööride kohaselt. Riigieksami välisvaatleja ebakohase käitumise kohta tehakse riigieksami toimumise protokolli vastav märge.
+
+(8) Kui riigieksami välisvaatleja ei ilmu kohale või haigestub riigieksami ajal, teavitab riigieksamikomisjoni esimees sellest eksameid korraldavat asutust, mis tagab riigieksami välisvaatleja olemasolu riigieksami läbiviimisel. Selle kohta tehakse vastav märge riigieksami toimumise protokolli.
+
+(9) Lõikes 8 nimetatud juhul täidab kooli direktor välisvaatleja ülesandeid kuni välisvaatleja saabumiseni. Selle kohta tehakse vastav märge ühtse riigieksami toimumise protokolli.
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+#### § 33. Riigieksamite läbiviimine
+
+(1) Riigieksamite läbiviimise ja riigieksamikorrast kinnipidamise eest koolis vastutavad riigieksamikomisjonid.
+
+(2) Kooli direktor tagab riigieksamimaterjalide paketi õigeaegse koolijõudmise eksamipäeva hommikul ja riigieksamimaterjalide konfidentsiaalsuse lisaeksamite toimumise lõpuni. Riigieksamimaterjalidest koopiate tegemine on kuni riigieksamitunnistuste väljastamiseni keelatud.
+
+(2<sup>1</sup>) Riigieksamikomisjoni esimees avab kõigi riigieksamikomisjoni liikmete ja eesti keele kui teise keele riigieksami korral välisvaatleja juuresolekul riigieksamimaterjalide paketi 45 minutit enne eksami algust kontrollides, kas pakett on terve. Riigieksamikomisjoni liige avab riigieksamitööde ümbrikud eksamiruumis eksaminandide juuresolekul ümbrikule märgitud kuupäeval ja kellaajal.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(2<sup>2</sup>) Riigieksamikomisjoni esimees teavitab viivitamatult eksameid korraldavat asutust, kui:
+
+1\) riigieksamimaterjalide pakett on avatud varem kui 45 minutit enne eksami algust;
+
+2\) riigieksamimaterjale on vähem, kui eksaminande;
+
+3\) riigieksamimaterjalide pakett on transportimisel märgatavalt kannatada saanud;
+
+4\) on kahtluse alla seatud riigieksamimaterjalide konfidentsiaalsus.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(2<sup>3</sup>) Konfidentsiaalsusnõude rikkumise avastamisel teavitab riigieksamikomisjoni esimees sellest eksameid korraldavat asutust. Eksameid korraldav asutus teavitab konfidentsiaalsusnõude rikkumisest vajaduse korral viivitamatult valdkonna eest vastutavat ministrit, kes võib põhjendatud asjaoludel lükata eksami toimumise edasi lisaeksami toimumise ajale.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(2<sup>4</sup>) Riigieksamikomisjoni liige fikseerib kõik riigieksamikorra rikkumised riigieksamitööde paketi avamise ja riigieksami toimumise protokollis.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(3) Riigieksam viiakse läbi ruumis, kus eksaminandid saavad istuda ühekaupa ja üksteist häirimata. Eksaminand esitab eksamil osalemiseks riigieksamikomisjonile isikut tõendava dokumendi.
+
+(4) Riigieksamiruumis võivad viibida:
+
+1\) eksaminandid;
+
+2\) riigieksamikomisjoni liikmed;
+
+3\) riigieksami välisvaatleja eesti keele kui teise keele riigieksamil;
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+4\) õppe- ja kasvatustöö üle riiklikku või haldusjärelevalvet läbiviiva asutuse esindaja;
+
+5\) eksameid korraldava asutuse esindaja;
+
+6\) hindaja riigieksami suulise osa korral;
+
+7\) tugiisik ja/või viipekeele tõlk eritingimuste rakendamise korral.
+
+(5) Eksaminandil ei ole lubatud eksamile kaasa võtta eksami sooritamiseks mittevajalikke esemeid, välja arvatud hädavajalikud ravimid, elementaarsed isikliku hügieeni tarbed, eksamile põhjendatult kohane söök ja jook.
+
+(6) Kirjalik riigieksam algab kell 10.00. Kirjaliku eksami sooritamiseks antakse aega kolm kuni kuus astronoomilist tundi. Eksami sooritamiseks antav aeg ning eksami korraldus, sealhulgas eksamiosad, suuliste osade puhul nende algusajad, vaheajad, lubatud abivahendid ja muu taoline, sätestatakse vastava õppeaine riigieksami läbiviimisjuhendis.
+
+(7) Eksaminand lubatakse eksamile, kui ta ei ole hilinenud rohkem kui pool tundi ja tal on hilinemiseks riigieksamikomisjoni poolt mõjuvaks loetud põhjus. Riigieksamile hilinenule võimaldatakse tööks täisaeg ning tema tööle märgitakse aeg, millal ta alustas eksami sooritamist.
+
+(8) Eesti keele kui teise keele ja võõrkeele riigieksami suuline osa salvestatakse.
+
+(9) Eksaminand lähtub riigieksamitöö sooritamisel vastava riigieksami läbiviimisjuhendist ning:
+
+1\) kirjutab kirjaliku eksamitöö musta või sinise tindi- või pastapliiatsiga;
+
+2\) ei kirjuta kirjalikus eksamitöös hariliku pliiatsiga. Hariliku pliiatsiga kirjutatud või hariliku pliiatsiga kirjutatud ja tindi- või pastapliiatsiga ülekirjutatud vastused hinnatakse 0 punktiga;
+
+3\) teeb parandused kirjalikus riigieksamitöös selgelt, tõmmates maha terve sõna, sümboli, numbri või arvu;
+
+4\) ei kasuta kirjaliku eksamitöö korral korrektuurivahendeid;
+
+5\) kirjutab kirjaliku eksamitöö loetava käekirjaga;
+
+6\) ei kasuta riigieksamil ja selle eri osade sooritamisel kõrvalist abi.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(10) Riigieksamikomisjoni liige kõrvaldab eksaminandi riigieksamilt, kui:
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+1\) eksaminand kasutab riigieksami sooritamisel kõrvalist abi või kirjutab maha, üritab seda teha või aitab sellele kaasa või on võtnud eksamile kaasa või kasutab § 31 lõike 4 punktis 3 nimetatud vahendeid;
+
+\[RT I, 14.11.2023, 1 - jõust. 17.11.2023\]
+
+2\) eksaminandi käitumine häirib riigieksami läbiviimist või teisi eksaminande.
+
+(11) Riigieksamilt kõrvaldatud eksaminandi eksamitööd hinnatakse 0 punktiga. Riigieksamikomisjoni liige teeb vastava märke eksaminandi eksamitööle. Eksamitöö pannakse eksameid korraldavale asutusele tagasisaadetavasse paketti.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(12) Eksaminand ei tohi eksami ajal riigieksamiruumist lahkuda, välja arvatud eksami läbiviimise juhendis kirjeldatud juhtudel või vältimatu vajaduse korral. Viimati nimetatud juhul peab eksaminandi saatma riigieksamikomisjoni liige, kes ei tohi olla eksaminandi riigieksamiaine õpetaja. Riigieksamiruumist väljas viibimise ajaks annab eksaminand oma kirjaliku töö komisjonile, kes märgib riigieksamitööle eksaminandi eksamiruumist lahkumise ja eksamiruumi tagasituleku kellaaja.
+
+(13) Riigieksamikomisjoni liikmed ja eesti keele kui teise keele riigieksami välisvaatleja ei tohi eksami ajal eksamiruumist lahkuda, välja arvatud eksami läbiviimise juhendis kirjeldatud juhtudel või vältimatu vajaduse korral. Kui riigieksamikomisjoni liige või eesti keele kui teise keele riigieksami välisvaatleja ei viibi eksamiruumis, täidab tema ülesandeid riigieksamikomisjoni esimees või tema poolt määratud riigieksamikomisjoni liige.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(14) Riigieksamikomisjon teatab eksaminandidele, kui kirjaliku riigieksami lõpuni on jäänud aega:
+
+1\) 30 minutit;
+
+2\) 15 minutit.
+
+(15) Eksaminand, kes on kirjaliku riigieksamitöö lõpetanud:
+
+1\) kirjutab riigieksamitöö komisjonile üleandmisel sellele oma riigieksamitöö koodi, mis on esitatud riigieksamitöö üleandmise protokollis ja riigieksamitöö üleandmise kellaaja;
+
+2\) annab allkirja riigieksamitöö üleandmise kohta;
+
+3\) õpilase küsimustiku olemasolul annab üle täidetud küsimustiku;
+
+4\) lahkub eksamiruumist.
+
+(16) Riigieksamiaja lõpul annab riigieksamikomisjon eksaminandidele korralduse kirjutamine lõpetada.
+
+(17) Pärast riigieksamiaja lõppemist kirjalikul riigieksamil riigieksamikomisjon:
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+1\) kontrollib, et iga eksaminandi eksamitööl on õige riigieksamitöö kood;
+
+2\) pakib riigieksamitööd tagasisaatmise ümbrikusse trükitud koodide järjekorras;
+
+3\) kontrollib, et tagasisaatmise ümbrikus on ainult need riigieksamitööd, mille koodid on sellel ümbrikul;
+
+4\) lisab riigieksamitöödele hindamisprotokolli, kui see on olemas;
+
+5\) märgib ümbrikule riigieksamitööde arvu;
+
+6\) pakib riigieksamite läbiviimiseks kasutatud lisamaterjalid ning kasutamata jäänud võõrkeele ja eesti keele kui teise keele riigieksamitööd turvaümbrikusse.
+
+(18) Riigieksami toimumise kohta vormistatakse eksameid korraldava asutuse poolt eeltäidetud protokoll, millele kirjutavad alla riigieksamikomisjoni esimees ja eesti keele kui teise keele riigieksami puhul välisvaatleja, kinnitades allkirjaga ühtlasi, et riigieksamitööde tagasisaatmise ümbrike komplekteerimisel on järgitud käesoleva paragrahvi lõikes 17 esitatud nõudeid.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(19) Eksameid korraldavale asutusele tagasisaadetava paketi koostamise ja turvaümbriku sulgemise korraldab riigieksamikomisjoni esimees. Paketti kuuluvad:
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+1\) kirjaliku riigieksami korral kinnises ümbrikus riigieksamitööd ja hindamisprotokollide olemasolul hindamisprotokollid;
+
+2\) protokoll riigieksamimaterjalide paketi avamise ja riigieksami toimumise kohta;
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+3\) \[kehtetu - RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+4\) protokoll riigieksamitöö üleandmise kohta;
+
+5\) \[kehtetu - RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+6\) küsimustike olemasolul küsimustikud kooli direktorile, õpetajale ja õpilasele.
+
+(20) Paketti kuuluvad võõrkeele ja eesti keele kui teise keele riigieksami suulised osad salvestatakse ja edastatakse eksameid korraldavale asutusele läbiviimisjuhendis esitatud nõudeid arvestades.
+
+(21) Õpilase taotlusel tehakse tema kirjalikust riigieksamitööst või eksamitöö osa(de) vastustest, millele õpilasel on tekkinud autoriõiguse seadusest tulenev autoriõigus, pärast eksami lõppemist koopia. Koopia tegemise juures viibivad riigieksamikomisjoni esimees ja riigieksamikomisjoni liikmed. Eesti keel teise keelena eksami korral viibib koopia tegemise juures ka välisvaatleja. Õpilane võib samadel tingimustel riigieksamikomisjoni esimehe ja riigieksamikomisjoni liikmete juuresolekul teha koopia oma nutiseadmega.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(22) Riigieksamil tekkinud või tekkivad olukorrad, mida käesolevas määruses ei ole kirjeldatud, lahendab riigieksamikomisjon, informeerides ja vajaduse korral kaasates eksameid korraldava asutuse.
+
+#### § 34. Riigieksamite läbiviimise erisused üldist, tõhustatud, erituge või tugiteenuseid saavate õpilaste puhul
+
+\[RT I, 11.05.2023, 1 - jõust. 14.05.2023\]
+
+(1) Kooli direktori põhjendatud otsusega ja eksameid korraldava asutuse nõusolekul võimaldatakse üldist, tõhustatud või erituge saavale gümnaasiumi lõpetajale või haridus- ja teadusministri 28. detsembri 2018. a määruse nr 35 „Haridusliku erivajadusega õpilase kutseõppeasutuses õppimise tingimused ja kord” § 7 alusel tugiteenuseid saavale kutseõppeasutuse lõpetajale tema toe vajadusest tulenevalt riigieksami sooritamiseks ühte või mitut järgmist eritingimust:
+
+\[RT I, 11.05.2023, 1 - jõust. 14.05.2023\]
+
+1\) anda lisaaega kuni 15 minutit ühe astronoomilise tunni kohta;
+
+2\) viia eksam läbi eraldi ruumis;
+
+3\) kasutada puhkepausi kuni 10 minutit ühe astronoomilise tunni kohta;
+
+4\) kasutada ilma õigekirjakontrollita arvutit õpilasel, kes ei saa kirjutada või kelle käekiri on raskesti loetav;
+
+5\) lubada vastuste üleskirjutamist tugiisiku poolt, kui õpilane ei saa kirjutada;
+
+6\) lugeda eksamiküsimused ja tekst ette nägemispuudega või lugemisraskusega õpilasele;
+
+7\) anda eksami korralduse kohta kirjalikke juhtnööre;
+
+8\) hinnata emakeele eksamitööd diferentseeritult kirjutamisraskusega õpilasel;
+
+9\) muuta eksamitöö kirja suurust või koostada eksamitöö punktkirjas nägemispuudega õpilasele;
+
+10\) valmistada eksamitöö ette ja viia läbi ilma kuulamis- ja suulise osata kuulmispuudega õpilasele;
+
+11\) kasutada eksami korralduslikus osas viipekeele tõlki;
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+12\) valmistada eksamitöö ette ja viia läbi ilma suulise osata raske kõnepuudega õpilasele;
+
+13\) valmistada ette ja viia läbi individuaalsest õppekavast lähtuv eksamitöö juhul, kui koolivälise nõustamismeeskonna otsusega on õpilasel riiklikus õppekavas sätestatud taotletavaid õpitulemusi vähendatud või asendatud;
+
+14\) valmistada ette ja viia läbi individuaalsest õppekavast lähtuv eksamitöö eesti keeles teise keelena madalamal kui B2 keeleoskuse tasemel juhul, kui õpilane on Eestis õppinud eesti õppekeelega koolis või keelekümblusklassis vähem kui 3 aastat.
+
+(2) Juhul kui õpilase toe vajadusest tulenevalt on eksamineerimiseks vaja kohaldada käesoleva paragrahvi lõikes 1 nimetamata eritingimust, kooskõlastab kool eksamile registreerides vajaliku eritingimuse eksameid korraldava asutusega.
+
+(3) Eksamineerimiseks rakendatakse vajalikke eritingimusi õpilastele, kellele on sarnaseid meetmeid rakendatud ka igapäevases õppetöös gümnaasiumi vältel ning kelle toe saamise kohta on tehtud märge Eesti Hariduse Infosüsteemi.
+
+(4) Kool esitab testide andmekogu kaudu hiljemalt jooksva õppeaasta 30. jaanuariks eksameid korraldavale asutusele kinnitamiseks üldist, tõhustatud ja erituge saavate õpilaste eksamineerimiseks vajalikud käesoleva paragrahvi lõikes 1 nimetatud eritingimused.
+
+(5) Kui käesoleva paragrahvi lõikes 1 nimetatud eritingimuste rakendamise vajadus ilmneb pärast eksamile registreerimist ja õpilasele ei ole sarnaseid meetmeid rakendatud tema igapäevases õppetöös ning Eesti Hariduse Infosüsteemis puudub märge tema toe saamise kohta, esitab kool viivitamata eksameid korraldavale asutusele põhjendatud taotluse testide andmekogusse.
+
+(6) Käesoleva paragrahvi lõike 1 punktides 13 ja 14 nimetatud eritingimustest teavitab kool eksameid korraldavat asutust hiljemalt jooksva õppeaasta 1. novembriks.
+
+(7) Varem gümnaasiumi või kutseõppeasutuse lõpetanud isiku puhul otsustab eritingimuste rakendamise eksameid korraldav asutus vastava taotluse alusel, mis esitatakse eksamile registreerimisel.
+
+(8) Riigieksamitöö tegemisel kasutatud eritingimused ja eksamitöö sooritamisel ilmnenud erijuhtumid kantakse pärast eksami toimumist eksameid korraldava asutuse poolt eeltäidetud protokolli.
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+#### § 35. Riigieksami läbiviimine välisriigis haridust omandavatele isikutele
+
+(1) Võimaluse korral võib õpilasele, kes samaaegselt Eesti gümnaasiumis õppimisega omandab haridust välisriigis või kes seoses diplomaadist või haldusteenistujast vanemate töötamisega omandab välisriigis Eesti keskhariduse tasemele vastavat haridust ning ei saa sellest tulenevalt osaleda riigieksamitel põhikooli- ja gümnaasiumiseaduse § 31 lõike 4 alusel kehtestatud aegadel, kokkuleppel eksameid korraldava asutusega võimaldada riigieksami sooritamist eksameid korraldava asutuse määratud kohas, ajal ja korras. Vastava taotluse esitab õpilane eksameid korraldavale asutusele hiljemalt eksamite sooritamise aasta 20. jaanuariks, esitades ka põhjenduse, miks ei ole võimalik riigieksamitel osaleda põhikooli- ja gümnaasiumiseaduse § 31 lõike 4 alusel kehtestatud aegadel Eesti gümnaasiumis, kus õpilane õpib.
+
+\[RT I, 09.01.2026, 28 - jõust. 12.01.2026\]
+
+(2) Eksameid korraldav asutus teavitab käesoleva paragrahvi lõigetes 1 nimetatud isikuid eksamite toimumise ajast, kohast ja eksamikorraldusest hiljemalt eksami toimumise aasta 10. aprilliks.
+
+#### § 36. Lisaeksamite korraldamine
+
+(1) Riigieksamile registreerunud, kuid mõjuval põhjusel ilmumata jäänud eksaminand või eksaminand, kes ei ole eksami sooritamise ajal muutunud terviseseisundi tõttu võimeline eksamit lõpuni sooritama või eksamilt kõrvaldatud eksaminand, võib kolme tööpäeva jooksul riigieksami toimumisest esitada eksameid korraldavale asutusele lisaeksamil osalemise taotluse, millele lisatakse tõendid mõjuvate põhjuste kohta või eksaminandi selgitus eksamilt kõrvaldamise kohta. Eksameid korraldav asutus teavitab taotlejat lisaeksamile lubamisest ja selle korraldusest hiljemalt kolme tööpäeva jooksul pärast taotluse registreerimist.
+
+\[RT I, 11.05.2023, 1 - jõust. 14.05.2023\]
+
+(2) Õpilane, kes ei sooritanud riigieksamit haiguse või muu mõjuva põhjuse tõttu, saab riigieksami sooritada lisaeksami ajal. Riigieksami saab lisaeksami ajal sooritada eksameid korraldava asutuse otsusega ka õpilane, kelle riigieksamilt kõrvaldamiseks puudus alus või kelle riigieksamit vastu võtnud komisjon rikkus eksami läbiviimise korda ja kelle kohta on eksameid korraldav asutus teinud vastava otsuse. Lisaeksamilt puudunud õpilane saab riigieksami sooritada järgmisel õppeaastal.
+
+\[RT I, 11.05.2023, 1 - jõust. 14.05.2023\]
+
+(3) Kui õpilane ei saa usulisel või muul mõjuval põhjusel riigieksamil osaleda põhieksami päeval, võib ta eksamile registreerides esitada eksameid korraldavale asutusele avalduse lisaeksamil osalemiseks.
+
+(4) Õpilane, kes saavutas eksamil alla ühe protsendi maksimaalsest tulemusest, saab riigieksami sooritada järgmisel õppeaastal.
+
+(5) Cambridge English C1 Advanced eksamile registreerunud, kuid mõjuval põhjusel puudunud õpilane saab eksami sooritada järgmisel eksamisessioonil või sooritada eksameid korraldava asutuse inglise keele B1/B2-taseme riigieksami, esitades eksameid korraldavale asutusele taotluse hiljemalt kolme tööpäeva jooksul.
+
+\[RT I, 11.05.2023, 1 - jõust. 14.05.2023\]
+
+#### § 37. Riigieksamitööde hindamine
+
+(1) Riigieksamitöid hindavad korraldava asutuse peadirektori käskkirjaga kinnitatud hindajad. Hindajate tegevust korraldab eksameid korraldav asutus vastavalt peadirektori kinnitatud töökorrale.
+
+\[RT I, 11.05.2023, 1 - jõust. 01.09.2023\]
+
+(2) Riigieksamit ettevalmistava komisjoni koostatud hindamisjuhend kirjeldab eksamitöö osade ning iga küsimuse ja ülesande osakaalu kogu riigieksamitöö hindamisel.
+
+(3) Hindamisjuhendi täpsustamiseks tegelike riigieksamitööde põhjal, hindamisjuhendist ühese arusaamise kujundamiseks ja hindamise täpsustatud hindamisjuhendile vastavuse kontrollimiseks moodustab korraldava asutuse peadirektor käskkirjaga riigieksamitööde hindamiskomisjonid.
+
+\[RT I, 11.05.2023, 1 - jõust. 01.09.2023\]
+
+(4) Riigieksamitööde hindamiskomisjoni esimees või aseesimees korraldab riigieksamitööde hindamise standardiseerimise, mille käigus vajaduse korral täpsustatakse hindamisjuhendit.
+
+(5) Riigieksamitööde objektiivselt hinnatavaid eksamiosi hindab üks hindaja. Enne andmete arvutisse sisestamist kontrollitakse riigieksamitööde hindamiskomisjoni esimehe või aseesimehe juhtimisel 10% iga hindaja töödest, et veenduda hindamise vastavuses täpsustatud hindamisjuhendile. Kui mõni hindaja pole hindamisjuhendit korrektselt järginud, korraldab hindamiskomisjoni esimees või aseesimees selle hindaja hinnatud tööde ümberhindamise.
+
+(6) Riigieksamitööde subjektiivselt hinnatavate eksamiosade lõpptulemus kujuneb kahe või kolme üksteisest sõltumatu hindamise tulemusena. Kui inglise keele riigieksamitöö subjektiivselt hinnatava eksamiosa esimese ja teise hindaja tulemus erineb rohkem kui 20 protsenti, hinnatakse eksamiosa kolmandat korda. Eesti keele riigieksamitöö subjektiivselt hinnatavat eksamiosa hinnatakse kolmandat korda, kui esimese ja teise hindaja tulemus erineb rohkem kui 30 protsenti. Pärast kolmandat hindamist kujuneb inglise keele või eesti keele riigieksami lõpptulemuseks kahe lähema hindepunktide arvu keskmine. Eesti keele kui teise keele riigieksami subjektiivselt hinnatavat eksamiosa hinnatakse kolmandat korda siis, kui esimese ja teise hindaja tulemus erineb 20 protsenti või rohkem. Kolmanda hindamise läbi viinud eksperdi hindamisotsus jääb eesti keele kui teise keele riigieksami lõplikuks tulemuseks.
+
+(7) Keeleainete riigieksamite suulise osa vastuseid hindav hindaja ei tohi olla eksaminandi õpetaja.
+
+(8) Eesti keele kui teise keele riigieksami suulise osa vastuseid hindavad kaks hindajat, kellest kumbki ei tohi olla eksaminandi õpetaja ja üks hindajatest ei tohi olla õpetaja eksaminandi koolist.
+
+(9) Eesti keele kui teise keele eksami suulise osa juures viibib korraldava asutuse peadirektori käskkirjaga kinnitatud välishindaja. Eksamit korraldav asutus võib eesti keele kui teise keele eksami suulist osa hinnata salvestiselt, andes sellest koolile kirjalikku taasesitamist võimaldavas vormis kolm päeva enne eksami algust teada. Sel juhul viibib eksamiruumis suulise osa läbiviimisel välisvaatleja.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(10) Välishindaja on erialalt eesti keele filoloog, kes on osalenud eksameid korraldava asutuse läbiviidaval hindajate koolitusel ja kelle ülesanne on hinnata eesti keele kui teise keele eksami suulise osa vastuseid ja jälgida eksamikorrast kinnipidamist.
+
+(11) Inglise keeles omistatakse õpilasele B1-keeleoskustase, kui ta on saavutanud 50–74 protsenti maksimumtulemusest ning B2-keeleoskustase, kui ta on saavutanud 75–100 protsenti maksimumtulemusest. Inglise keele B1- ja B2-keeleoskustaseme saavutamise tingimuseks on, et igas osaoskuses peab olema saavutatud vähemalt 1 protsent osaoskuse tulemusest. Käesoleva määruse § 34 lõike 1 punktides 10, 11 ja 12 esitatud juhtudel võib õpilasele anda tasemetunnistuse juhul, kui kõik eksamitöö osad ei ole tehtud.
+
+(12) Tallinna Saksa Gümnaasiumi saksakeelses osakonnas sooritatavat Saksa üldise kõrgkooliküpsuse matemaatika eksamit hinnatakse Saksa üldise kõrgkooliküpsuse matemaatika eksami hindamisjuhendite järgi.
+
+(13) *Goethe-Zertifikat* B1-taseme eksam loetakse B1-tasemele sooritatuks, kui tase on saavutatud vähemalt kolmes osaoskuses.
+
+(14) Kui riigieksamitööde hindamisel tuvastatakse eri eksaminandide töödes süstemaatiliselt esinevad ühesugused vead ja/või parandused, identsed sõnastatud pikemad vabavormilised vastused (näiteks keeleeksami kirjutamisosas), ülejäänud vastuse loogikaga mittehaakuvad ühesugused õiged või valed lisandused vastusesse, loomevargus või muu selline, riigieksamiosa või kogu riigieksamitöö kirjutamisel, siis teavitab eksameid korraldav asutus sellest eksaminande. Eksaminandidel on kohustus eksameid korraldava asutuse poolt väljapakutud ajal ja kohas sooritada hindamisel tuvastatud kõrvalise abi kasutamise või mahakirjutamise kahtlusega riigieksamiosa (samaväärsete ülesannetega) uuesti. Kui uuesti sooritamisel saab kinnitust, et eksaminand on eksami ajal kasutanud kõrvalist abi, siis hinnatakse kogu eksamitöö 0 punktiga. Eksaminandi mitteilmumisel hinnatakse eksamitöö 0 punktiga.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(15) Riigieksam on sooritatud, kui saavutatud on vähemalt üks protsent maksimaalsest tulemusest.
+
+(16) Käesoleva määruse § 33 lõikes 9 punktides 3–5 loetletud nõuete rikkumisel loetakse rikutud kohad või loetamatud kohad veaks.
+
+#### § 38. Riigieksamitööde säilitamine
+
+(1) Paberil läbiviidud riigieksamitöid, sealhulgas keeleeksamite suulise osa salvestusi säilitatakse eksameid korraldavas asutuses kolm aastat.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(2) Riigieksamitööde tulemusi eksamitöö terviku ja osade kaupa säilitatakse ning arhiveeritakse testide andmekogus isikustatud kujul.
+
+(3) Haridus- ja Teadusministeerium ning eksameid korraldav asutus võivad kooskõlas isikuandmete kaitse seadusega lubada riigieksamitööde andmestike ja tulemuste kasutust teadus- ja rakendusuuringutes.
+
+#### § 39. Riigieksamitööde tulemuste analüüs ja järeldused
+
+(1) Riigieksamitööde tulemuste analüüsi korraldab eksameid korraldav asutus, lähtudes käesoleva määruse §-s 26 sätestatud riigieksamite eesmärkidest. Eksameid korraldav asutus kaasab riigieksamitööde tulemuste analüüsi vajaduse korral eksperte.
+
+(2) Eksameid korraldav asutus teeb riigieksamite tulemused igale õpilasele ja koolile kättesaadavaks testide andmekogu kaudu. Riigieksamite tulemuste avaldamise aeg antakse teada koos järgmise õppeaasta eksamiaegadega eksameid korraldava asutuse veebilehel.
+
+(3) Eksameid korraldav asutus annab hiljemalt eksamite läbiviimise aasta 10. detsembriks igale koolile eksamitulemuste alusel tagasisidet õppe tulemuslikkusest ja sellest, milline on kooli panus õpilaste edasijõudmisse.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(4) Koolile esitatud tagasisides kõrvutatakse kooli õppe tulemuslikkust ja kooli panust õpilaste edasijõudmisse võrreldes:
+
+1\) sarnaste koolide rühma (tegevusnäitajad, õpikeskkond) tulemustega;
+
+2\) kõikide koolide tulemustega.
+
+(5) Eksameid korraldav asutus esitab hiljemalt riigieksamite läbiviimise aasta 10. detsembriks kooli pidajale riigieksamite analüüsi alusel tagasisidet, milles kõrvutatakse kooli pidaja iga kooli õppe tulemuslikkust ja kooli panust õpilaste edasijõudmisse:
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+1\) teiste kooli pidajale kuuluvate koolide tulemustega;
+
+2\) sarnaste koolide rühma (tegevusnäitajad, õpikeskkond) tulemustega;
+
+3\) kõikide koolide tulemustega.
+
+\[RT I, 17.01.2020, 3 - jõust. 20.01.2020\]
+
+(6) \[Kehtetu - RT I, 14.12.2017, 1 - jõust. 01.01.2018\]
+
+(7) Eksameid korraldav asutus esitab riigieksamite läbiviimise aasta 10. detsembriks Haridus- ja Teadusministeeriumile riigieksamite ja rahvusvaheliselt tunnustatud võõrkeele eksamite aruanded. Aruandes kajastatakse õppekava eesmärkide ning õpitulemuste saavutatust eksamitöö kui terviku ja osade kaupa; erinevate õpilasrühmade ja õppeasutuse rühmade lõikes; tulemuste võrreldavust kahe sama õppeaine eelmise eksamitööga; eksamitöö kvaliteeti mõõtmisomaduste ja riiklikule õppekavale vastavuse põhjal.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+(8) \[Kehtetu - RT I, 11.05.2023, 1 - jõust. 14.05.2023\]
+
+#### § 40. Riigieksamitööde statistika avalikustamine
+
+(1) Riigieksamitööde üleriigilised tulemused avalikustatakse Eesti hariduse teabeväravas Haridussilm riigieksamite läbiviimisele järgneva aasta 31. jaanuariks.
+
+\[RT I, 11.05.2023, 1 - jõust. 14.05.2023\]
+
+(2) Koole ei järjestata riigieksamitööde tulemuste järgi.
+
+(3) Igale koolile avalikustatakse vaid tema õpilaste eksamitööde tulemuste statistiline ülevaade.
+
+(4) Gümnaasiumi eksternina lõpetanud isikuid statistilises ülevaates ei kajastata.
+
+### 3. jagu — Gümnaasiumi koolieksamid
+
+#### § 41. Gümnaasiumi koolieksami eesmärgid ja vormid
+
+(1) Gümnaasiumi koolieksami (edaspidi *koolieksam*) eesmärgid on:
+
+1\) toetada kooli õppekava rakendamist ja suunata õppeprotsessi;
+
+2\) anda alus gümnaasiumi lõpetamiseks;
+
+3\) saada ülevaade kooli õppekavas sätestatud üldpädevuste, valdkonnapädevuste, läbivate teemade ning õpitulemuste omandatusest.
+
+(2) Koolieksam võib olla kirjalik, suuline või kirjalik ja suuline.
+
+(3) Koolieksami õppeained, vormi ja toimumise aja määrab ja kinnitab kooli direktor.
+
+#### § 42. Koolieksami ettevalmistamine ja eksamitöö koostamine
+
+(1) Koolieksamitöö, hindamisjuhendi ja eksami läbiviimisjuhendi koostab koolieksamikomisjon ja kinnitab kooli direktor vähemalt kaks nädalat enne koolieksami algust.
+
+(2) Koolieksam korraldatakse kooli direktori kinnitatud eksamiplaani järgi. Eksamiplaan pannakse õpilastele, õpetajatele ja lastevanematele tutvumiseks välja kaks nädalat enne koolieksamite algust.
+
+#### § 43. Koolieksamite läbiviimine, hindamine, korduseksami sooritamine ja eksamitöö säilitamine
+
+(1) Koolieksamite läbiviimiseks moodustab kooli direktor hiljemalt kaks nädalat enne koolieksamite algust vähemalt kolmeliikmelised koolieksamikomisjonid.
+
+(2) Koolieksamikomisjoni esimees on üldjuhul kooli direktor, liikmed üldjuhul aineõpetajad. Kooli direktor võib koolieksamikomisjoni esimeheks määrata õppealajuhataja või õpetaja. Koolieksamikomisjoni esimees vastutab koolieksami korraldamise ja läbiviimise eest. Koolieksamikomisjoni esimees ei või olla eksamineeritava klassi koolieksamiaine õpetaja.
+
+(3) Koolieksami võivad sooritada gümnaasiumiõpilased, kes on gümnaasiumiastmes eksamiaine kohustuslikud kursused läbinud, välja arvatud käesoleva määruse §-s 44 sätestatud juhul.
+
+(4) Kui õpilasel ei ole kooli poolt mõjuvaks loetud põhjustel võimalik sooritada koolieksamit eksamiperioodi jooksul, võib kooli direktor anda õpilasele loa koolieksamite sooritamiseks individuaalplaani järgi. Individuaalplaani kinnitab kooli direktor.
+
+(5) Koolieksamitöid hindab koolieksamikomisjon hindamisjuhendist lähtudes.
+
+(6) Koolieksami tulemused protokollitakse käesoleva määruse lisas esitatud vormi kohaselt.
+
+(7) Kui koolieksamikomisjonil tekib hindamisel lahkarvamusi, otsustatakse hinne häälteenamusega. Häälte võrdsel jagunemisel on otsustavaks koolieksamikomisjoni esimehe hääl. Koolieksamikomisjoni liikmete eriarvamused kantakse protokolli.
+
+(8) Gümnaasiumilõpetaja, kes sooritas koolieksami mitterahuldavalt või ei sooritanud koolieksamit, sooritab korduseksami hiljemalt jooksva õppeaasta 30. juuniks. Õpilase taotlusel võib koolieksam toimuda ka pärast 30. juunit, hiljemalt jooksva õppeaasta 25. augustiks.
+
+(9) Koolieksamitöid, hindamisejuhendit ja eksamitöö tulemusi säilitatakse koolis kolm aastat.
+
+#### § 44. Koolieksami sooritatuks lugemine
+
+Direktori otsusega võib lugeda koolieksami sooritatuks, kui õpilane on tõendanud, et on omandanud kooli õppekavas ettenähtud teadmised ja oskused väljaspool kooli, näiteks rahvusvaheliste olümpiaadide raames, olles sooritanud mõne rahvusvaheliselt tunnustatud testi või muul taolisel viisil.
+
+## 5. peatükk — Rakendussätted
+
+### § 45. Gümnaasiumi võõrkeele riigieksami asendamine rahvusvaheliselt tunnustatud eksamiga
+
+Kuni 2019. aasta 1. septembrini võib rahvusvaheliselt tunnustatud eksam, millega õpilane soovib asendada võõrkeele riigieksami, olla sooritatud ka enne gümnaasiumiõpingute algust.
+
+### § 46. Määruse rakendamine
+
+(1) Määruse § 34 lõige 5 rakendatakse 2016. aasta 1. septembrist.
+
+(2) Eksameid korraldav asutus viib koolidele antava tagasiside vastavusse määruse § 8 lõike 4 punktis 3 esitatud nõuetega alates 2021. aastast, § 21 lõigetes 4 ja 5 ning § 39 lõigetes 4 ja 5 esitatud nõuetega alates 2022. aastast.
+
+\[RT I, 03.07.2020, 8 - jõust. 06.07.2020\]
+
+### § 46<sup>1</sup>. Eriolukorrast tingitud eksamikorralduse erisused 2019/2020. õppeaastal
+
+(1) Põhikooli lõpueksameid 2019/2020. õppeaastal läbi ei viida.
+
+(2) Õpilastele, kelle õppekeel ei ole eesti keel, kes õpivad keelekümblusklassis või kes asusid eesti õppekeelega koolis või klassis õppima viimase kuue õppeaasta jooksul ning kellele ei ole väljastatud B1 tasemel eesti keele oskuse tunnistust, viib eksameid korraldav asutus koostöös üldhariduskoolidega 8.–10. juunil 2020. a läbi B1 eesti keele oskuse tasemeeksamiga ühitatud eesti keele kui teise keele lõpueksami, mille sooritamine ei ole põhikooli lõpetamise tingimuseks.
+
+(3) Käesoleva paragrahvi lõikes 2 nimetatud eksami eksamikomisjon on vähemalt kaheliikmeline.
+
+(4) Eksameid korraldav asutus teatab käesoleva paragrahvi lõikes 2 nimetatud eksami tulemused testide andmekogu kaudu 30 päeva jooksul pärast eksami toimumist.
+
+(5) 2019/2020. õppeaastal viiakse läbi riigieksamid, mis ei ole seotud gümnaasiumi lõpetamisega, eesti keeles või eesti keeles teise keelena, matemaatikas ning järgmised rahvusvaheliselt tunnustatud võõrkeele eksamid:
+
+1\) Diplôme d'études en langue française B1-taseme eksam ja Diplôme d'études en langue française B2-taseme eksam (prantsuse keel);
+
+2\) Goethe-Zertifikat B1-taseme eksam, Goethe-Zertifikat B2-taseme eksam, Saksa II astme keelediplomi B2-/C1-taseme eksam ning Saksa üldise kõrgkooliküpsuse saksa keele eksam, kus punktid vahemikus 1–4 loetakse vastavaks keeleoskustasemega B2 ning punktid vahemikus 5–15 keeleoskustasemega C1 (saksa keel);
+
+3\) тест по русскому языку как иностранному B1-taseme eksam ja тест по русскому языку как иностранному B2-taseme eksam (vene keel);
+
+4\) Cambridge English C1 Advanced eksam (inglise keel).
+
+(6) Käesoleva paragrahvi lõikes 5 nimetatud eksamitel saavad osaleda isikud, kes olid teavitanud käesolevas määruses ettenähtud korras oma soovist sooritada riigieksamit asendav rahvusvaheliselt tunnustatud võõrkeeleeksam 2019/2020. õppeaastal ning lõike 5 punktis 4 nimetatud eksami puhul õppisid sel ajal gümnaasiumi lõpuklassis või kutsekeskhariduse tasemel lõpukursusel.
+
+(7) Käesoleva paragrahvi lõike 5 punktides 1-4 nimetatud eksamite ajad tehakse hiljemalt 2020. aasta 5. maiks teatavaks Haridus- ja Teadusministeeriumi veebilehel.
+
+(8) Riigieksamite läbiviimiseks moodustab kooli direktor käskkirjaga vähemalt kaks nädalat enne esimest riigieksamit kooli riigieksamikomisjonid arvestusega, et iga 10 eksaminandi kohta on riigieksamikomisjonis üks liige. Väikseim riigieksamikomisjon on kaheliikmeline, koosnedes riigieksamikomisjoni esimehest ja ühest liikmest. Digiallkirjastatud käskkirja edastab kool eksameid korraldavale asutusele hiljemalt nädal enne esimest riigieksamit. Riigieksamikomisjoni esimees ei või olla riigieksami õppeaine õpetaja.
+
+(9) Eksameid korraldav asutus moodustab varem gümnaasiumi või kutseõppeasutuse lõpetanud isikute eksamineerimiseks ja lisaeksamite korraldamiseks riigieksamikomisjoni arvestusega, et iga 10 eksaminandi kohta on riigieksamikomisjonis üks liige. Väikseim riigieksamikomisjon on kaheliikmeline, koosnedes riigieksamikomisjoni esimehest ja välisvaatlejast.
+
+(10) Eksaminand ei tohi eksami ajal riigieksamiruumist lahkuda, välja arvatud eksami läbiviimise juhendis kirjeldatud juhtudel või vältimatu vajaduse korral. Ruumist lahkumisel saadab eksaminandi riigieksamikomisjoni liige, kes ei ole riigieksami õppeaine õpetaja, või muu kooli direktori määratud isik. Riigieksamiruumist väljas viibimise ajaks annab eksaminand oma kirjaliku töö eksamiruumis komisjoni liikmele kontaktivabalt. Eksaminand märgib oma riigieksamitööle eksamiruumist lahkumise ja eksamiruumi tagasituleku kellaaja.
+
+(11) Riigieksamikomisjoni liige ja välisvaatleja ei tohi eksami ajal eksamiruumist lahkuda, välja arvatud eksami läbiviimise juhendis kirjeldatud juhtudel või vältimatu vajaduse korral. Kui riigieksami komisjoni liige ei viibi eksamiruumis, täidab tema ülesandeid välisvaatleja. Kui riigieksami välisvaatleja ei viibi eksamiruumis, täidab tema ülesandeid riigieksamikomisjoni esimees või komisjoni liige, kes ei ole antud eksami aineõpetaja.
+
+(12) 2019/2020. õppeaastal läbi viidavate riigieksamite lisaeksamid korraldatakse 2020/2021. õppeaasta esimesel poolaastal. Lisaeksamil saavad osaleda isikud, kes olid käesolevas määruses sätestatud korras teavitanud oma soovist sooritada riigieksam 2019/2020. õppeaastal. Lisaeksamil osalemiseks tuleb esitada allkirjastatud avaldus eksameid korraldavale asutusele või gümnaasiumi- või kutseõppeasutuse õpilaste puhul testide andmekogu kaudu 2020. aasta 6. juunist 17. juulini.
+
+(13) Käesolevas paragrahvis nimetatud eksamid ja gümnaasiumi koolieksamid viiakse läbi järgides kehtivaid tervisekaitsenõudeid ja piiranguid grupi suurusele. Eksamiruumis peavad eksaminandid saama istuda ühekaupa ja üksteist häirimata.
+
+\[RT I, 08.05.2020, 27 - jõust. 11.05.2020\]
+
+### § 46<sup>2</sup>. Eksamikorralduse erisused 2020/2021. õppeaastal
+
+(1) 2020/2021. õppeaastal ei ole põhikooli lõpueksamid põhikooli lõpetamise otsuse tegemise aluseks.
+
+(2) Ühtsete põhikooli lõpueksamite ja põhikooli koolieksamite hindamistulemused esitatakse 2020/2021. õppeaastal protsendina maksimaalsest tulemusest.
+
+(3) Põhikoolilõpetaja, kes ühtse põhikooli lõpueksami ajal või eksamiplaanis ettenähtud koolieksami ajal haigestub või ei saa sellel osaleda muul kooli direktori poolt mõjuvaks loetud põhjusel, sooritab korduseksami koolieksamina.
+
+(4) 2020/2021. õppeaastal ei kohaldata käesoleva määruse § 18 lõiget 6.
+
+(5) Käesolevas paragrahvis nimetatud eksamid viiakse läbi järgides kehtivaid tervisekaitsenõudeid ja piiranguid grupi suurusele. Eksamiruumis peavad eksaminandid saama istuda ühekaupa ja üksteist häirimata.
+
+\[RT I, 11.03.2021, 8 - jõust. 14.03.2021\]
+
+### § 46<sup>3</sup>. Eksamikorralduse erisus 2021/2022. õppeaastal
+
+(1) 2021/2022. õppeaastal ei ole põhikooli lõpueksamid põhikooli lõpetamise otsuse tegemise aluseks.
+
+(2) Ühtsete põhikooli lõpueksamite ja põhikooli koolieksamite hindamistulemused esitatakse 2021/2022. õppeaastal protsendina maksimaalsest tulemusest.
+
+(3) Põhikoolilõpetaja, kes ühtse põhikooli lõpueksami ajal või eksamiplaanis ettenähtud koolieksami ajal haigestub või ei saa sellel osaleda muul kooli direktori poolt mõjuvaks loetud põhjusel, sooritab korduseksami koolieksamina.
+
+(4) 2021/2022. õppeaastal ei saa gümnaasiumit lõpetav õpilane riigieksamit asendava rahvusvaheliselt tunnustatud võõrkeele eksamina sooritada *тест по русскому языку как иностранному* B1-taseme eksamit ja *тест по русскому языку как иностранному* B2-taseme eksamit (vene keel).
+
+(5) 2021/2022. õppeaastal saab gümnaasiumit lõpetav õpilane sooritada vene keel võõrkeelena B1-taseme riigieksami, mille valmistab ette ja viib läbi eksameid korraldav asutus. Eksameid korraldav asutus määrab vene keel võõrkeelena B1-tasemel riigieksamit teha soovivad õpilased eksami soorituskohtadesse õpilase sooviavalduse alusel.
+
+\[RT I, 12.04.2022, 1 - jõust. 15.04.2022\]
+
+### § 46<sup>4</sup>. Eksamikorralduse erisus 2022/2023. õppeaastal
+
+2022/2023. õppeaastal ei saa gümnaasiumit lõpetav õpilane riigieksamit asendava rahvusvaheliselt tunnustatud võõrkeele eksamina sooritada *тест по русскому языку как иностранному* B1-taseme eksamit ega *тест по русскому языку как иностранному* B2-taseme eksamit (vene keel).
+
+\[RT I, 31.12.2022, 3 - jõust. 03.01.2023\]
+
+### § 46<sup>5</sup>. Eksamikorralduse erisus 2023/2024. õppeaastal
+
+2023/2024. õppeaastal ei saa gümnaasiumit lõpetav õpilane riigieksamit asendava rahvusvaheliselt tunnustatud võõrkeele eksamina sooritada *тест по русскому языку как иностранному* B1-taseme eksamit ega *тест по русскому языку как иностранному* B2-taseme eksamit (vene keel).
+
+\[RT I, 14.11.2023, 1 - jõust. 17.11.2023\]
+
+### § 46<sup>6</sup>. Eksamikorralduse erisus 31. augustini 2029. a
+
+Kuni 31. augustini 2029. a on ühtsete põhikooli lõpueksamite, välja arvatud võõrkeelte lõpueksamite sooritamise keeled eesti keel, vene keel ja viipekeel. Teiste keelte kasutamisel tagab kooli pidaja ühtsete põhikooli lõpueksamite tõlkimis- ja hindamiskulude finantseerimise.
+
+\[RT I, 10.04.2025, 12 - jõust. 13.04.2025\]
+
+### § 47. Määruse kehtetuks tunnistamine
+
+\[Käesolevast tekstist välja jäetud.\]
+
+## Lisad
+
+- Lisa — [HMT\_m54\_lisa.pdf](https://www.riigiteataja.ee/aktilisa/1220/5202/6008/HMT_m54_lisa.pdf)
+
+Lisa

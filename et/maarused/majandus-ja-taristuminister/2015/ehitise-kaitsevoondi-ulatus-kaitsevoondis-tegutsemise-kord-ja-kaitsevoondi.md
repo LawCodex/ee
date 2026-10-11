@@ -1,0 +1,244 @@
+---
+title: "Ehitise kaitsevööndi ulatus, kaitsevööndis tegutsemise kord ja kaitsevööndi tähistusele esitatavad nõuded"
+identifier: "103022022020"
+rt_reference: "RT I, 03.02.2022, 20"
+rt_original: "RT I, 28.06.2015, 4"
+group_id: "1030092"
+type: regulation
+issuer: "Majandus- ja taristuminister"
+number: "73"
+text_type: "terviktekst"
+jurisdiction: ee
+language: et
+date: 2015-06-25
+last_amended: 2022-02-06
+status: in_force
+source: "https://www.riigiteataja.ee/akt/103022022020"
+retrieved: 2026-10-12
+---
+
+# Ehitise kaitsevööndi ulatus, kaitsevööndis tegutsemise kord ja kaitsevööndi tähistusele esitatavad nõuded
+
+Määrus kehtestatakse ehitusseadustiku § 70 lõike 8 alusel.
+
+## § 1. Kohaldamisala
+
+(1) Käesolevas määruses sätestatud nõudeid kohaldatakse kaitsevööndiga ehitistele, mis on:
+
+1\) surveseade, sealhulgas vedelkütuse-, soojustorustik ja kaugküttevõrk;
+
+2\) gaasipaigaldis;
+
+3\) elektripaigaldis;
+
+4\) sideehitis.
+
+(2) Ühisveevärgi ja -kanalisatsiooniehitise kaitsevööndi ulatus on määratletud ühisveevärgi ja -kanalisatsiooni seaduse alusel.
+
+## § 2. Terminid
+
+(1) Gaasipaigaldis käesoleva määruse tähenduses on gaasitorustike-, mahutite ja nendega seotud ehitiste statsionaarselt paigaldatud talitluslik süsteem. Gaasipaigaldise osaks on ka sellele paigaldatud ohutus-, juhtimis-, mõõte- ja reguleerseadmed.
+
+(2) Maakaabel on pinnasesse paigaldatud jõu- või sidekaabel.
+
+(3) Õhuliin on maapinna kohal kandetarinditele paigaldatud paljas- või kaetud juhtmega või õhukaabliga liin.
+
+## § 3. Gaasipaigaldise kategooriad
+
+Käesoleva määruse tähenduses jaotatakse gaasipaigaldised järgmistesse kategooriatesse:
+
+1\) A-kategooria – gaasipaigaldised töörõhuga kuni 0,1 baari (kaasa arvatud);
+
+2\) B-kategooria – gaasipaigaldised töörõhuga üle 0,1 baari kuni 5 baari (kaasa arvatud);
+
+3\) C-kategooria – gaasipaigaldised töörõhuga üle 5 baari kuni 16 baari (kaasa arvatud);
+
+4\) D-kategooria – gaasipaigaldised töörõhuga üle 16 baari.
+
+## § 4. Kaitsevööndiga ehitise tähistus
+
+(1) Kui see on asjakohane, tuleb kaitsevööndiga ehitis maastikul tähistada (edaspidi *kaitsevööndi tähistus*). Kaitsevööndi tähistus on asjakohane, kui kaitsevööndiga ehitise omanik või kinnisasja omanik seda vajalikuks peab ja eelkõige kui kaitsevööndiga ehitisest tulenev oht on suur või kaitsevööndiga ehitise vigastamise tõenäosus on suur ning vigastusega võib kaasneda oht inimese elule või tervisele või elutähtsa teenuse osutamise katkestus.
+
+(2) Kaitsevööndi tähistus peab olema kohalikke keskkonnaolusid arvestades vastupidav. Kaitsevööndi tähistus peab olema selline, et kaitsevööndis tegutsevad isikud oleksid informeeritud kaitsevööndiga ehitise olemasolust.
+
+(3) Kaitsevööndi tähistust on keelatud omavoliliselt rikkuda, eemaldada ja ümber paigutada.
+
+(4) Maakaabelliinide ja gaasitorustiku pinnasesse paigaldamisel pannakse pinnasesse kaabli või torustiku kohale kollane hoiatuslint. Hoiatuslinti ei pea paigaldama, kui kaabli või torustiku paigaldamise tehnoloogia seda ei võimalda. Kui hoiatuslinti ei paigaldata, tuleb kaitsevööndiga ehitise õigeaegne avastamine tagada muude abinõudega.
+
+(5) Kaitsevööndiga ehitist, mis kulgeb sirgjooneliselt ja on paigaldatud pinnasesse, märgistavate märketulpade vahekaugus peab olema selline, et oleks võimalik teist märketulpa leida.
+
+(6) Kaitsevööndiga ehitise asukoha märgistamiseks maastiku- ja muinsuskaitse objektidel või muudel juhtudel, kus on keelatud või ei ole võimalik kasutada märketulpasid, hoiatavaid märke või silte, võib kasutada elektroonseid markereid.
+
+(7) Elektroonse markeriga või ühe märketulbaga märgistatakse:
+
+1\) sideehitise lõikumiskoht teise tehnovõrguga (side ja elektri kaablitega, vee-, kanalisatsiooni-, soojus-, gaasi- ja muude torustikega, teetruupidega);
+
+2\) sideehitise lõikumiskoht teelt mahasõidu kohaga ja ristuva teega (sirgjooneliselt kulgeva sideehitise puhul);
+
+3\) koht, kus sideehitis muudab kulgemise suunda ja kaldub sirgjooneliselt kulgevast trassist rohkem kui kaks meetrit kõrvale;
+
+4\) pinnases paikneva sideehitise maapinnast kõrgemale paigaldatud osa.
+
+(8) Elektroonse markeriga või kahe märketulbaga märgistatakse:
+
+1\) sideehitise jätku- ja reservikaev;
+
+2\) sideehitise lõikumiskoht tee, kraavi, jõe ja kõrgepinge õhuliiniga.
+
+(9) Jalakäijate ja sõidukite võimalikes liiklemise kohtades paiknevad kaitsevööndiga ehitise tõmmitsad märgistatakse kollase ja musta hoiatustähisega. Tõmmitsa märgistus peab ulatuma vähemalt 2,5 meetri kõrguseni maapinnast.
+
+(10) Meres ja laevatatavas siseveekogus asuva kaitsevööndiga ehitise tähistamisel lähtutakse meresõiduohutuse seadusest ja selle alusel kehtestatud õigusaktidest.
+
+(11) Tee muldkehas asuva kaitsevööndiga ehitise tähistamisel lähtutakse tee omaniku määratud tingimustest.
+
+## § 5. Kaitsevööndis tööde tegemine ja sellest teavitamine
+
+(1) Kaitsevööndiga ehitise hooldus- ja remonditöödest tuleb teavitada kinnisasja omanikku kaitsevööndiga ehitise omanikule teadaolevate kontaktandmete vahendusel.
+
+(2) Kinnisasja omanikku ei pea teavitama:
+
+1\) ettenägematust vajadusest tekkinud vältimatutest ja edasilükkamatutest kaitsevööndiga ehitise avariitöödest;
+
+2\) hooldus- ja remonditöödest, kui neid töid tehakse avalikult ligipääsetaval kinnisasjal ning nende töödega seonduvalt ei tehta pinnasetöid, ei piirata juurdepääsu kinnisasjale ega riivata muul viisil kinnisasja omaniku õiguseid;
+
+3\) hooldus- ja remonditöödest, kui kinnisasja omanik on kaitsevööndiga ehitise omanikule sellekohase soovi esitanud.
+
+(3) Kui kaitsevööndis asub ka teine kaitsevööndiga ehitis, peab selle avariid likvideeriv või plaanilisi töid tegev isik teavitama enne avarii likvideerimisele asumist või plaanilise töö alustamist kaitsevööndiga ehitise omanikku toimunud avariist. Kaitsevööndiga ehitise omanik teavitab avariid likvideerivat isikut kaitsevööndiga ehitise asukohast ning vajadusel saadab avariikohale oma esindaja, kes täpsustab kohapeal kaitsevööndiga ehitise asukoha.
+
+(4) Kaitsevööndiga ehitise asukohta ei või muuta kaitsevööndiga ehitise omanikku teavitamata ja viimase nõusolekuta.
+
+(5) Vältimaks kaitsevööndiga ehitise kahjustamist, võib kaitsevööndiga ehitise omanik nõuda, et kaitsevööndis tegutsev isik on kaitsevööndiga ehitise omaniku vahetu järelevalve all. Samuti võib maakaabelliinide puhul nõuda maakaabli täpse asukoha väljaselgitamiseks pinnase käsitsi lahtikaevamist.
+
+## § 6. Kaitsevööndis tegutsemisega kaasnevate kulude hüvitamine
+
+(1) Kui kaitsevööndis tegutsemiseks on vajalik kaitsevööndiga ehitise omaniku nõusolek ja kui kaitsevööndiga ehitise omanik peab lisaks nõusoleku andmisele tegema ka täiendavaid toiminguid, võib ta nõuda nendega seonduva kulu hüvitamist.
+
+(2) Käesolevas paragrahvis käsitletud kulude hüvitamisele kohaldatakse võlaõigusseadust.
+
+## § 7. Tegevused kaitsevööndiga ehitise kahjustamisel
+
+(1) Kaitsevööndiga ehitise kahjustamise või kahjustumise ohu korral kaitsevööndis tegutsev isik:
+
+1\) peatab viivitamata oma tegevuse, mis võib kaasa tuua kaitsevööndiga ehitise edasise või täiendava kahjustumise;
+
+2\) teavitab viivitamata kaitsevööndiga ehitise kahjustamisest või kahjustumise ohust kaitsevööndiga ehitise omanikku;
+
+3\) võtab tarvitusele abinõud edasise kahjustuse ärahoidmiseks;
+
+4\) kolmandatele isikutele tekkiva ohu korral teavitab neid võimalikust ohuallikast;
+
+5\) kõrvaldab kolmandatele isikutele ohu tekkimise võimaluse, näiteks piiritledes ohutsooni märkelintidega ja korraldades valve kuni kaitsevööndiga ehitise omaniku esindaja saabumiseni.
+
+(2) Kaitsevööndiga ehitise kahjustuste dokumenteerimist ei või takistada.
+
+## § 8. Tundmatu kaitsevööndiga ehitis
+
+(1) Kui maapinnal või veekogus töid teostav isik avastab tundmatu kaitsevööndiga ehitise või selle olemasolule viitava tähistuse, tuleb tööd peatada. Töid võib jätkata, kui on rakendatud abinõud võimaliku kaitsevööndiga ehitise kaitseks.
+
+(2) Tundmatust kaitsevööndiga ehitisest tuleb teatada kinnisasja omanikule ja tõenäolisele võrguettevõtjale, kelle teeninduspiirkonnas kaitsevööndiga ehitis asub. Laevatatavas veekogus paiknevast kaitsevööndiga ehitisest tuleb teatada Transpordiametile.
+
+\[RT I, 03.02.2022, 1 - jõust. 06.02.2022\]
+
+(3) Kui ei õnnestu kaitsevööndiga ehitise omanikku tuvastada, võib töid jätkata nii, et oleks välistatud kaitsevööndiga ehitise kahjustamine.
+
+## § 9. Kaitsevööndis puude, põõsaste ja okste raiumine
+
+(1) Kaitsevööndiga ehitise omanikul on õigus raiuda kaitsevööndis kasvav ja kaitsevööndiga ehitist ohustav puu, põõsas ja oks sellest kinnisasja omanikku eelnevalt teavitades. Kinnisasja omanik ei tohi takistada kaitsevööndis puu, põõsa ja oksa raiumist.
+
+(2) Kaitsevööndiga ehitise riket või selleks ohtu põhjustav puu, põõsas ja oks tuleb eemaldada. Riket või ohtu põhjustava puu, põõsa ja oksa raiumisest ei pea kinnisasja omanikku eelnevalt teavitama. Sellisest tööst teavitatakse kinnisasja omanikku esimesel võimalusel.
+
+(3) Kaitsevööndis puu, põõsa ja oksa raiumisel peab kaitsevööndiga ehitise omanik raiutud põõsad ja oksad koguma vallidesse või käitlema muul, kinnisasja omanikuga kooskõlastatud viisil. Puude raiumisel peab kaitsevööndiga ehitise omanik kooskõlastatult kinnisasja omanikuga langetatud puud laasima, järkama ja ladustama kinnisasja omaniku poolt näidatud kohta, kuid mitte kaugemale kui kinnisasja piirile. Raiutud materjali edasise käitlemise korraldab kinnisasja omanik.
+
+(4) Tiheasustusega aladel või kaitstaval loodusobjektil tuleb puude ja okste raiumisel arvestada lisaks ka looduskaitseseadusest ja kaitstava loodusobjekti kaitse-eeskirjast tulenevaid nõudeid.
+
+(5) Kaitsevööndiga ehitise omanikul on kaitsevööndi korrashoiuks õigus teha kaitsevööndiga hõlmatud metsamaa raadamist metsaseaduses sätestatud korras.
+
+## § 10. Elektripaigaldise kaitsevööndi ulatus
+
+(1) Õhuliini kaitsevööndi ulatus on mõlemal pool liini telge:
+
+1\) kuni 1 kV nimipingega (kaasa arvatud) liinide korral 2 meetrit;
+
+2\) 1 kV kuni 35 kV nimipingega liinidel õhukaabli kasutamise korral 3 meetrit;
+
+3\) 1 kV kuni 35 kV nimipingega liinide korral 10 meetrit;
+
+4\) 35 kV (kaasa arvatud) kuni 110 kV nimipingega liinide korral 25 meetrit;
+
+5\) 220 kV kuni 330 kV nimipingega liinide korral 40 meetrit.
+
+(2) Õhuliini mastitõmmitsa või -toe või maandusjuhi, mis ulatub väljapoole õhuliini kaitsevööndit, puhul on mastitõmmitsa või -toe või maandusjuhi kaitsevöönd 1 meeter selle projektsioonist.
+
+(3) Maakaabelliini kaitsevöönd on piki kaablit kulgev ala, mida mõlemalt poolt piiravad liini äärmistest kaablitest 1 meetri kaugusel paiknevad mõttelised vertikaaltasandid.
+
+(4) Veekaabelliini kaitsevöönd on piki kaablit kulgev veepinnast põhjani ulatuv veeruum, mida mõlemalt poolt piiravad liini äärmistest kaablitest meres ja järvedes 100 meetri kaugusel ning jõgedes 50 meetri kaugusel paiknevad mõttelised vertikaaltasandid.
+
+(5) Laevatatavate siseveekogude veepinna kohal asuva õhuliini kaitsevöönd on piki liini kulgev õhuruum, mida mõlemalt poolt liini teljest 100 meetri kaugusel paiknevad mõttelised vertikaaltasandid.
+
+(6) Alajaamade ja jaotusseadmete ümber ulatub kaitsevöönd 2 meetri kaugusele piirdeaiast, seinast või nende puudumisel seadmest.
+
+## § 11. Kaugküttevõrgu ehitiste kaitsevöönd
+
+(1) Maa-aluste soojustorustike, mida mõlemal pool torustikke piiravad äärmise torustiku isolatsiooni välispinnast järgmistel kaugustel asuvad mõttelised vertikaaltasandid ja horisontaaltasand, kaitsevööndi ulatus on:
+
+1\) alla 200 mm läbimõõduga torustiku korral 2 meetrit;
+
+2\) 200 mm ja suurema läbimõõduga torustiku korral 3 meetrit.
+
+(2) Maapealsete soojustorustike, mida mõlemal pool torustikke piiravad äärmise torustiku isolatsiooni välispinnast järgmistel kaugustel asuvad mõttelised vertikaaltasandid, kaitsevööndi ulatus:
+
+1\) aurutorustikul töörõhul üle 16 baari on 10 meetrit;
+
+2\) aurutorustikul töörõhul 16 baari ja alla selle on 5 meetrit;
+
+3\) veetorustikul töörõhul üle 6 baari on 5 meetrit;
+
+4\) veetorustikul töörõhul 6 baari ja alla selle on 2 meetrit.
+
+(3) Kaugküttevõrgu juurde kuuluvate drenaažitorude, jaotuskambrite, pumbamajade, mõõtesõlmede ning reguleerpunktide rajatiste ja hoonete kaitsevöönd ulatub välisseina äärmistest punktidest 2 meetri kaugusele.
+
+(4) Kanalisatsiooni-, vee-, side- ja gaasitrasside ning elektrikaablite ja teiste kommunikatsioonide rajamisel kaugküttevõrgu kaitsevööndisse on vähimad kaugused kaugküttetorustiku välispinnast kommunikatsiooni välispinnani:
+
+1\) ristumisel 0,2 meetrit;
+
+2\) paralleelsel kulgemisel 1 meeter.
+
+## § 12. Vedelkütusetorustike kaitsevöönd
+
+Vedelkütusetorustike kaitsevööndi ulatus on torustiku välisseina äärmistest punktidest 5 meetrit.
+
+## § 13. Gaasitorustike kaitsevööndid
+
+(1) Gaasitorustiku kaitsevööndi ulatus mõlemal pool gaasitorustikku on:
+
+1\) A- ja B-kategooria gaasipaigaldiste korral torustiku välimisest mõõtmest 1 meetrit;
+
+2\) C-kategooria gaasipaigaldise korral torustiku välimisest mõõtmest 2 meetrit;
+
+3\) D-kategooria gaasipaigaldise nimiläbimõõduga <200 mm torustiku korral torustiku keskjoonest 3 meetrit;
+
+4\) D-kategooria gaasipaigaldise nimiläbimõõduga ≥200 mm ja <500 mm torustiku korral torustiku keskjoonest 5 meetrit;
+
+5\) D-kategooria gaasipaigaldise nimiläbimõõduga ≥500 mm torustiku korral torustiku keskjoonest 10 meetrit.
+
+(2) Gaasipaigaldise torustiku vee alla paigaldamisel on kaitsevööndi ulatus lõikes 1 sätestatud kaitsevööndi ulatustest kaks korda laiem.
+
+(3) Kõrvuti asetsevate C- ja D-kategooria gaasipaigaldiste torustike vahele jäävad kaitsevööndid võivad olla lõikes 1 sätestatud kaitsevööndi ulatustest kuni 1,5 korda laiemad, et vältida torustike vahele kaitsevöönditega katmata maa-ala teket.
+
+(4) Gaasitorustiku juurde kuuluva gaasipaigaldise (gaasijaotus-, gaasimõõte- ja gaasireguleerjaam) kaitsevööndi ulatus piirdeaiast, hoone seinast või nende puudumisel seadmest on:
+
+1\) A- ja B-kategooria gaasipaigaldiste korral 1 meeter;
+
+2\) C-kategooria gaasipaigaldise korral 2 meetrit;
+
+3\) D-kategooria gaasipaigaldise korral 10 meetrit.
+
+## § 14. Sideehitise kaitsevöönd
+
+Sideehitise kaitsevööndi ulatus on mõlemal pool sideehitist:
+
+1\) maismaal – 1 meeter sideehitisest või sideehitise välisseinast sideehitisega paralleelse mõttelise jooneni või tõmmitsatega raadiomasti korral 1 meeter välimiste tõmmitsate vundamendi välisservast ühendades tõmmitsad mõtteliseks kolmnurgaks, vabalt seisva masti korral 1 meeter vundamendi välisservast;
+
+2\) siseveekogudel – 100 meetrit sideehitise keskjoonest;
+
+3\) merel – 0,25 meremiili sideehitise keskjoonest.

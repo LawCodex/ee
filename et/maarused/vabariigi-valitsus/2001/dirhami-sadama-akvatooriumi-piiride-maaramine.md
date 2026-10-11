@@ -1,0 +1,852 @@
+---
+title: "Dirhami sadama akvatooriumi piiride määramine"
+identifier: "26921"
+rt_reference: "RT I, 15.03.2001, 143"
+group_id: "153263"
+type: regulation
+issuer: "Vabariigi Valitsus"
+number: "94"
+text_type: "algtekst-terviktekst"
+jurisdiction: ee
+language: et
+date: 2001-03-13
+last_amended: 2002-06-01
+status: in_force
+source: "https://www.riigiteataja.ee/akt/26921"
+retrieved: 2026-10-12
+---
+
+# Dirhami sadama akvatooriumi piiride määramine
+
+<p>
+      AVALDATUD :
+    </p>
+<p>
+      RT I 2001, 25, 143
+    </p>
+<p>
+    </p>
+<p>
+      Määrus kehtestatakse «<a href="./dyn=26921&amp;id=908785!pr4lg2;13196603!pr60">Sadamaseaduse</a>» 
+      (RT I 1997, 77, 1315; 1999, 88, 805) § 4 lõike 2 alusel.
+    </p>
+<p>
+      Dirhami sadama akvatooriumi piirid määratakse järgmiste koordinaatidega:
+    </p>
+<table>
+<tbody><tr>
+<td>
+<p>
+<b>Nr </b>
+</p>
+</td>
+<td>
+<p>
+<b>N (laius) </b>
+</p>
+</td>
+<td>
+        </td>
+<td colspan="2">
+<p>
+<b>E (pikkus) </b>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            1.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            45,1214
+          </p>
+</td>
+<td>
+<p>
+            23°30'
+          </p>
+</td>
+<td>
+<p>
+            7,7981
+          </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            2.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            45,4441
+          </p>
+</td>
+<td>
+<p>
+            23°30'
+          </p>
+</td>
+<td>
+<p>
+            11,5270
+          </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            3.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            38,4332
+          </p>
+</td>
+<td>
+<p>
+            23°30'
+          </p>
+</td>
+<td>
+<p>
+            13,8340
+          </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            4.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            34,5527
+          </p>
+</td>
+<td>
+<p>
+            23°30'
+          </p>
+</td>
+<td>
+<p>
+            9,0931
+          </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            5.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            34,4209
+          </p>
+</td>
+<td>
+<p>
+            23°30'
+          </p>
+</td>
+<td>
+<p>
+            6,9711
+          </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            6.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            34,0134
+          </p>
+</td>
+<td>
+<p>
+            23°30'
+          </p>
+</td>
+<td>
+<p>
+            3,0569
+          </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            7.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            33,9116
+          </p>
+</td>
+<td>
+<p>
+            23°29'
+          </p>
+</td>
+<td>
+<p>
+            59,3181
+          </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            8.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            33,6410
+          </p>
+</td>
+<td>
+<p>
+            23°29'
+          </p>
+</td>
+<td>
+<p>
+            58,5726
+          </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            9.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            33,1336
+          </p>
+</td>
+<td>
+<p>
+            23°29'
+          </p>
+</td>
+<td>
+<p>
+            57,6301
+          </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            10.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            33,3058
+          </p>
+</td>
+<td>
+<p>
+            23°29'
+          </p>
+</td>
+<td>
+<p>
+            56,9964
+          </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            11.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            34,7121
+          </p>
+</td>
+<td>
+<p>
+            23°29'
+          </p>
+</td>
+<td>
+<p>
+            54,3897
+          </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            12.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            34,9332
+          </p>
+</td>
+<td>
+<p>
+            23°29'
+          </p>
+</td>
+<td>
+<p>
+            54,7173
+          </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            13.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            34,9787
+          </p>
+</td>
+<td>
+<p>
+            23°29'
+          </p>
+</td>
+<td>
+<p>
+            54,7222
+          </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            14.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            35,0649
+          </p>
+</td>
+<td>
+<p>
+            23°29'
+          </p>
+</td>
+<td>
+<p>
+            54,5780
+          </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            15.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            35,0682
+          </p>
+</td>
+<td>
+<p>
+            23°29'
+          </p>
+</td>
+<td>
+<p>
+            54,4868
+          </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            16.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            34,8902
+          </p>
+</td>
+<td>
+<p>
+            23°29'
+          </p>
+</td>
+<td>
+<p>
+            54,0795
+          </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            17.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            34,8827
+          </p>
+</td>
+<td>
+<p>
+            23°29'
+          </p>
+</td>
+<td>
+<p>
+            54,0008
+          </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            18.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            35,0605
+          </p>
+</td>
+<td>
+<p>
+            23°29'
+          </p>
+</td>
+<td>
+<p>
+            53,6676
+          </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            19.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            35,1101
+          </p>
+</td>
+<td>
+<p>
+            23°29'
+          </p>
+</td>
+<td>
+<p>
+            53,6952
+          </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            20.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            36,1765
+          </p>
+</td>
+<td>
+<p>
+            23°29'
+          </p>
+</td>
+<td>
+<p>
+            56,0046
+          </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            21.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            36,0956
+          </p>
+</td>
+<td>
+<p>
+            23°29'
+          </p>
+</td>
+<td>
+<p>
+            56,1680
+          </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            22.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            36,1394
+          </p>
+</td>
+<td>
+<p>
+            23°29'
+          </p>
+</td>
+<td>
+<p>
+            56,2954
+          </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            23.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            37,5937
+          </p>
+</td>
+<td>
+<p>
+            23°29'
+          </p>
+</td>
+<td>
+<p>
+            58,2154
+          </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            24.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            37,6644
+          </p>
+</td>
+<td>
+<p>
+            23°29'
+          </p>
+</td>
+<td>
+<p>
+            58,0776
+          </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            25.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            39,7115
+          </p>
+</td>
+<td>
+<p>
+            23°30'
+          </p>
+</td>
+<td>
+<p>
+            0,9048
+          </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            26.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            40,5302
+          </p>
+</td>
+<td>
+<p>
+            23°30'
+          </p>
+</td>
+<td>
+<p>
+            2,0633
+          </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            27.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            40,6521
+          </p>
+</td>
+<td>
+<p>
+            23°30'
+          </p>
+</td>
+<td>
+<p>
+            3,2666
+          </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            28.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            40,6927
+          </p>
+</td>
+<td>
+<p>
+            23°30'
+          </p>
+</td>
+<td>
+<p>
+            3,6498
+          </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+            29.
+          </p>
+</td>
+<td>
+<p>
+            59°12'
+          </p>
+</td>
+<td>
+<p>
+            40,9798
+          </p>
+</td>
+<td>
+<p>
+            23°30'
+          </p>
+</td>
+<td>
+<p>
+            3,5261
+          </p>
+</td>
+</tr>
+</tbody></table>
+<p>
+    </p>
+<p>
+      Peaminister Mart LAAR
+    </p>
+<p>
+      Teede- ja sideminister Toivo Jürgenson
+    </p>
+<p>
+      Riigisekretär Aino Lepik von Wirén
+    </p>
+<p>
+    </p>

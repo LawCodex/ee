@@ -1,0 +1,424 @@
+---
+title: "Perioodi 2023–2027 kvaliteedikava raames toodetud toote teavitus- ja müügiedenduse toetus"
+identifier: "121072026019"
+rt_reference: "RT I, 21.07.2026, 19"
+rt_original: "RT I, 06.11.2024, 10"
+group_id: "1059826"
+type: regulation
+issuer: "Regionaal- ja põllumajandusminister"
+number: "65"
+text_type: "terviktekst"
+jurisdiction: ee
+language: et
+date: 2024-11-05
+last_amended: 2026-07-24
+status: in_force
+source: "https://www.riigiteataja.ee/akt/121072026019"
+retrieved: 2026-10-12
+---
+
+# Perioodi 2023–2027 kvaliteedikava raames toodetud toote teavitus- ja müügiedenduse toetus
+
+Määrus kehtestatakse Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse § 7 lõike 2, § 12 lõike 3, § 24 lõike 1 ja § 30 lõike 9 alusel.
+
+## 1. peatükk — Üldsätted
+
+### § 1. Määruse reguleerimisala
+
+Määrusega kehtestatakse „Euroopa Liidu ühise põllumajanduspoliitika Eesti strateegiakava aastateks 2023–2027“ (edaspidi *strateegiakava*) sekkumise 3.2 „Liidu ja riiklike kvaliteedikavade rakendamise toetamine“ raames antava kvaliteedikava raames toodetud toote teavitus- ja müügiedenduse toetuse (edaspidi *toetus*) andmise ja kasutamise tingimused ning kord.
+
+### § 2. Toetuse andmise eesmärk
+
+Toetuse andmise eesmärk on teavitus- ja müügiedendustegevuste abil kvaliteedikavade raames toodetud toodete turul nähtavaks muutmine ning tarbijate teadlikkuse tõstmine kvaliteedikavadest ja nende raames toodetud toodete eripärast, tugevdades selle kaudu tootjate positsiooni tarneahelas.
+
+### § 3. Riigiabi ja vähese tähtsusega abi
+
+(1) Toetus on riigiabi Euroopa Komisjoni teatise „Suunised põllumajandus- ja metsandussektoris ning maapiirkondades antava riigiabi kohta“ (ELT C 485, 21.12.2022, lk 1–90) (edaspidi *riigiabi suunised*), punkti 634 alapunkti e tähenduses, kui toetatakse mittepõllumajandustoodete tutvustamiseks mõeldud tegevusi.
+
+(2) Kui riigiabi suunised ei ole kohaldatavad, rakendatakse komisjoni määrust (EL) 2023/2831, milles käsitletakse Euroopa Liidu toimimise lepingu artiklite 107 ja 108 kohaldamist vähese tähtsusega abi suhtes (ELT L, 2023/2831, 15.12.2023), ja konkurentsiseaduse §-s 33 sätestatut.
+
+## 2. peatükk — Toetuse saamiseks esitatavad nõuded ning toetuse määr, suurus ja vorm
+
+### § 4. Toetatavad tegevused
+
+(1) Toetust antakse kvaliteedikava raames toodetud toote teavitus- ja müügiedendusprojekti (edaspidi *projekt*) elluviimiseks järgmiste tegevuste kohta:
+
+1\) turu-uuringu tegemiseks;
+
+2\) teavituskampaania korraldamiseks;
+
+3\) messi korraldamiseks või messil osalemise korraldamiseks;
+
+4\) turundusürituse korraldamiseks;
+
+5\) messi külastamiseks;
+
+6\) projekti elluviimisega seotud haldamiskuludeks ja projektijuhtimiseks.
+
+(2) Toetatakse üksnes sellise taotleja jaoks uue projekti elluviimist, mille tegevustega panustatakse §-s 2 sätestatud eesmärkide saavutamisse ning mis viiakse ellu kuni kolme järjestikuse aasta jooksul arvates PRIA poolt taotluse rahuldamise otsuse tegemisest.
+
+(3) Toetust võib taotleda sellise lõikes 1 nimetatud projekti elluviimiseks, mille eesmärk on mõjutada projekti tegevuste sihtgruppi eelistama toodet:
+
+1\) mis on toodetud komisjoni delegeeritud määruse (EL) 2022/126, millega täiendatakse Euroopa Parlamendi ja nõukogu määrust (EL) 2021/2115 täiendavate nõuetega teatavatele sekkumisviisidele, mille liikmesriigid määravad kindlaks kõnealuse määruse kohastes ajavahemikuks 2023–2027 ette nähtud ÜPP strateegiakavades, ning eeskirjadega, milles käsitletakse maa heas põllumajandus- ja keskkonnaseisundis hoidmise (HPK) 1. standardi kohast suhtarvu (ELT L 20, 31.01.2022, lk 52‒94), artiklis 47 sätestatud nõuetele vastava kvaliteedikava raames;
+
+2\) mille nimetus on registreeritud Euroopa Parlamendi ja nõukogu määruse (EL) 2024/1143, milles käsitletakse veinile, piiritusjookidele ja põllumajandustoodetele antavaid geograafilisi tähiseid ning põllumajandustoodete garanteeritud traditsioonilisi tooteid ja vabatahtlikke kvaliteedimõisteid ning millega muudetakse määrusi (EL) nr 1308/2013, (EL) 2019/787 ja (EL) 2019/1753 ning tunnistatakse kehtetuks määrus (EL) nr 1151/2012 (ELT L, 2024/1143, 23.04.2024), alusel või
+
+3\) mis on toodetud Euroopa Parlamendi ja nõukogu määruse (EL) 2018/848, mis käsitleb mahepõllumajanduslikku tootmist ja mahepõllumajanduslike toodete märgistamist ning millega tunnistatakse kehtetuks nõukogu määrus (EÜ) nr 834/2007 (ELT L 150, 14.06.2018, lk 1‒92), alusel mahepõllumajanduslikult.
+
+(4) Lisaks lõikes 3 sätestatud nõuetele peab projekt vastama järgmistele nõuetele:
+
+1\) projektiga teavitatakse lõike 3 punktis 1, 2 või 3 nimetatud kvaliteedikava raames toodetud toote erilistest omadustest või selle tootmisviisiga seotud eelistest;
+
+2\) projektis levitatakse lõike 3 punktis 1, 2 või 3 nimetatud kvaliteedikava raames toodetud toote kohta üksnes teaduslikult tõendatud, neutraalse iseloomuga ja tehnilist laadi teavet.
+
+(5) Toetatav tegevus ei tohi olla mõeldud kaubamärkide tutvustamiseks ega mõjutada tarbijat ostma toodet selle päritolu tõttu. Toote päritolu võib esile tõsta tingimusel, et seda ei ole põhisõnumist enam rõhutatud.
+
+(6) Lõike 5 erandina võib toodete kaubamärke olla siiski esitletud toote tutvustamisel või degusteerimisel lõike 1 punktides 3 ja 4 nimetatud tegevuste elluviimise korral, tingimusel et järgitakse mittediskrimineerimise ja kaubamärgineutraalsuse põhimõtet.
+
+(7) Toote tutvustamise või degusteerimise korral tohib kaubamärke esitleda vaid järgmisel viisil:
+
+1\) kõik kaubamärgid asuvad koos ühel plakatil, mis asub messiboksi või muu sarnase tugikonstruktsiooni esiküljel; plakati suurus ei tohi ületada messiboksi või muu sarnase tugikonstruktsiooni esikülje kogupinnast viite protsenti või
+
+2\) iga kaubamärk asub infostendil või muul sarnasel tugikonstruktsioonil üksikult, paigutatult ühesugustele eraldi infostendidele neutraalsel viisil, ja asub infostendi või muu sarnase tugikonstruktsiooni esiküljel; kaubamärgi teabe paigutus ei tohi ületada infostendi või muu sarnase tugikonstruktsiooni esikülje kogupinnast viite protsenti;
+
+3\) toote tutvustamise või degusteerimise ajal levitatavatel teabematerjalidel tohib kaubamärke esitleda üksnes koos, lehe allosas ühel reklaamiribal, mille pind ei tohi ületada asjaomase lehe kogupinnast viite protsenti.
+
+(8) Lõike 5 erandina võib toodete puhul, mille nimetus on registreeritud Euroopa Parlamendi ja nõukogu määruse (EL) 2024/1143 II jaotise alusel, tootespetsifikaadis toote registreeritud päritolu mainida ilma piiranguteta.
+
+(9) Kui toetatav tegevus on mõeldud Euroopa Parlamendi ja nõukogu määruse (EL) 2018/848 alusel kehtestatud kvaliteedikava raames toodetud toote tutvustamiseks, peab teabematerjalil olema sama määruse artiklis 33 sätestatud logo.
+
+(10) Kui toetatav tegevus on mõeldud Euroopa Parlamendi ja nõukogu määruse (EL) 2024/1143 artikli 5 lõike 1 punktis c sätestatud põllumajandustoodete, sealhulgas toiduainete päritolunimetuste, geograafiliste tähiste või garanteeritud traditsiooniliste toodete tutvustamiseks, peab teabematerjalil olema asjaomane liidu sümbol.
+
+(11) Alkohoolsete jookide kategooriat sisaldavad projektid võib suunata üksnes ärisegmendi sihtrühmale.
+
+(12) Toetatava tegevusega (edaspidi ka *projekt*) ei tohi alustada, sealhulgas sellega seotud siduvaid kohustusi ei tohi olla võetud varem, ning toetatava tegevuse elluviimist tõendavad dokumendid ei tohi olla väljastatud varem kui taotluse esitamise päevale järgneval päeval.
+
+### § 5. Toetuse määr, suurus ja vorm
+
+(1) Toetust antakse kuni 70 protsendi ulatuses toetatava tegevuse abikõlbliku kulu maksumusest.
+
+(2) Toetuse maksimaalne suurus on kuni 150 000 eurot ühe projekti kohta.
+
+(3) Projekti elluviimisega seotud haldamis- ja projektijuhtimiskulud võivad moodustada kokku kuni kümme protsenti § 4 lõike 1 punktides 1–5 nimetatud toetatavate tegevuste abikõlblike kulude maksumusest.
+
+(4) Toetust antakse Euroopa Parlamendi ja nõukogu määruse (EL) 2021/2115, millega kehtestatakse liikmesriikide koostatavate Euroopa Põllumajanduse Tagatisfondist (EAGF) ja Euroopa Maaelu Arengu Põllumajandusfondist (EAFRD) rahastatavate ühise põllumajanduspoliitika strateegiakavade (ÜPP strateegiakavad) toetamise reeglid ning tunnistatakse kehtetuks määrused (EL) nr 1305/2013 ja (EL) nr 1307/2013 (ELT L 435, 06.12.2021, lk 1‒186), artikli 83 lõike 1 punkti a kohaselt tegelikult tekkinud abikõlblike kulude hüvitamisena ja sama lõike punkti d ning sama artikli lõike 2 punkti c kohaselt ühtse määra alusel.
+
+### § 6. Abikõlblikud ja mitteabikõlblikud kulud
+
+(1) Abikõlblikud kulud on projekti elluviimiseks vajalikud lõigetes 2–6 sätestatud kulud ning § 4 lõike 1 punktis 6 sätestatud projekti elluviimisega seotud haldamis- ja projektijuhtimiskulu, mis tehakse sihtotstarbeliselt, mõistlikult ja majanduslikult soodsaimal viisil ning kooskõlas Euroopa Parlamendi ja nõukogu määruse (EL) 2021/2115 artikliga 77 ning mis on vajalikud toetuse eesmärgi saavutamiseks.
+
+(2) Turu-uuringu tegemiseks toetuse taotlemise korral on abikõlblik kulu varasema turu-uuringu tegemise kogemusega ja selle tegemisele spetsialiseerunud ettevõtja käest tellitud turu-uuringu tegemise kulu.
+
+(3) Teavituskampaania korraldamiseks toetuse taotlemise korral on abikõlblikud järgmised kulud:
+
+1\) kvaliteedikava ja selle raames toodetud toote eripära kohta käivat teavet käsitleva teavituskampaania väljatöötamise korral kasutatava teenusepakkuja tasu;
+
+2\) teavituskampaania käigus korraldatud tegevuste ning reklaami ja teabematerjali koostamise ja tootmise kulu;
+
+3\) meediakanalis teabe avaldamise kulu.
+
+(4) Messi korraldamiseks või messil osalemise korraldamiseks toetuse taotlemise korral on abikõlblikud järgmised kulud:
+
+1\) korraldamise korral ruumi ja tehnika rendikulu, messitehnika veokulu ning montaaž ja demontaaž, messi tutvustava teabematerjali tõlkimise, tootmise ja levitamise kulu, samuti taotleja ühe esindaja sõidu- ja majutuskulu;
+
+2\) osalemise korraldamise korral osalemistasu, stendi rendikulu ning selle montaaž ja demontaaž, samuti stendi sisustuse rendikulu, stendil kasutatava teenuse kulu, tootenäidiste veokulu, teabematerjali tõlkimise, tootmise ja levitamise kulu ning taotleja ühe esindaja ja iga projektis osaleva ettevõtja ühe esindaja sõidu- ja majutuskulu.
+
+(5) Turundusürituse korraldamiseks toetuse taotlemise korral on abikõlblikud järgmised kulud:
+
+1\) ruumi ja tehnika rendikulu, teabematerjali tõlkimise, tootmise ja levitamise kulu ning tootenäidiste veokulu;
+
+2\) välisriigis toimuva turundusürituse puhul lisaks selle tõlkekulu ja turueksperdi teenuse kulu ning taotleja ühe esindaja ja iga projektis osaleva ettevõtja ühe esindaja sõidu- ja majutuskulu.
+
+(6) Messi külastamiseks toetuse taotlemise korral on abikõlblikud järgmised kulud:
+
+1\) messipiletite kulu;
+
+2\) rahvusvahelise veebis toimuva messi külastamiseks toetuse taotlemise korral lisaks messil kasutatava teenuse kulu;
+
+3\) taotleja ühe esindaja ja iga projektis osaleva ettevõtja ühe esindaja sõidu- ja majutuskulu.
+
+(7) Messi või turundusürituse korraldamiseks või messil osalemise korraldamiseks vajalike väikevahendite soetamine on abikõlblik kulu, kui see ei moodusta toetuse kogusummast enam kui viis protsenti.
+
+(8) Abikõlblikud ei ole järgmised kulud:
+
+1\) Euroopa Parlamendi ja nõukogu määruse (EL) 2021/2115 artikli 73 lõikes 3 sätestatud kulu;
+
+2\) käibemaks, kui see on käibemaksuseaduse alusel tagasi saadav;
+
+3\) tavapärane tegevus- ja üldkulu;
+
+4\) sularahamakse, lepingu sõlmimise või kindlustamisega seotud kulu, intress, tagatismakse ja finantsteenustega seotud muu kulu;
+
+5\) riigilõiv, trahv, finantskaristus ja vaide ning kohtumenetluse korral menetluskulud;
+
+6\) kulud, mis on seotud Euroopa Parlamendi ja nõukogu määruse (EL) nr 1144/2014 siseturul ja kolmandates riikides võetavate põllumajandustoodete teavitus- ja müügiedendusmeetmete kohta, millega tunnistatakse kehtetuks nõukogu määrus (EÜ) nr 3/2008 (ELT L 317, 04.11.2014, lk 56–70), alusel tegevuse elluviimisega;
+
+7\) maa ja olemasoleva ehitise ostmise kulu;
+
+8\) kulu, mille kohta on taotleja saanud toetust riigieelarvelistest või muudest Euroopa Liidu või välisvahenditest, või muud tagastamatut riigiabi;
+
+9\) enne taotluse esitamist tehtud kulu;
+
+10\) toetatava tegevuse elluviimise seisukohast põhjendamatu kulu.
+
+### § 7. Kulude mõistlikkuse tõendamine
+
+(1) Kui toetatava tegevuse eeldatav käibemaksuta maksumus on 30 000 eurot või sellest suurem, viib taotleja läbi ostumenetluse enne toetatava tegevuse elluviimisega alustamist §-s 15 sätestatud viisil.
+
+(2) Kui toetatava tegevuse eeldatav käibemaksuta maksumus on väiksem kui 30 000 eurot, kuid projekti raames tellitava töö või teenuse või soetatava vara käibemaksuta maksumus ületab 5000 eurot, selgitab taotleja kulude mõistlikkuse välja enne tegevuse elluviimisega alustamist selles paragrahvis sätestatud viisil, arvestades § 4 lõikes 12 sätestatud nõuet.
+
+(3) Kui toetatava tegevuse raames tellitava töö või teenuse või soetatava vara eeldatav käibemaksuta maksumus ületab 5000 eurot, küsib taotleja üksteisest sõltumatute pakkujate käest vähemalt kolm võrreldavat pakkumust.
+
+(4) Taotleja võib küsida alla kolme pakkumuse, kui kolme pakkumust küsida ei ole objektiivselt võimalik, eelkõige kui turul puudub asjaomase töö, teenuse või vara pakkujate paljusus.
+
+(5) Pakkumus peab sisaldama taotleja nime, pakkuja nime ja kontaktandmeid, pakkumuse väljastamise kuupäeva ning töö, teenuse või vara üksikasjalikku kirjeldust ning käibemaksuta ja käibemaksuga maksumust.
+
+(6) Taotleja ei või küsida pakkumust endaga seotud isikutelt tulumaksuseaduse § 8 lõike 1 tähenduses.
+
+(7) Taotleja ei või lõikes 2 sätestatud nõude eiramiseks jaotada osadeks toetatava tegevuse raames tellitavat tööd või teenust, mis on funktsionaalselt koos toimiv või vajalik sama eesmärgi saavutamiseks. Taotleja võib jaotada toetatava tegevuse raames tellitava töö või teenuse osadeks, kui see on objektiivsetel põhjustel õigustatud.
+
+### § 8. Taotleja
+
+(1) Toetust antakse juriidilisele isikule või seltsingule (edaspidi koos *taotleja*), kes on:
+
+1\) kvaliteedikava rakendav tootjarühm Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse § 92 lõike 1 tähenduses;
+
+2\) Euroopa Parlamendi ja nõukogu määruse (EL) 2024/1143 alusel registreeritud nimetusega toodet tootvaid ettevõtjaid ühendav tootjate rühm;
+
+3\) Euroopa Parlamendi ja nõukogu määruse (EL) 2018/848 alusel mahepõllumajanduslikult toodetud toodete põllumajandustootjaid või -töötlejaid ühendav või neid esindav rühm.
+
+(2) Taotleja riikliku maksu võlg, sealhulgas maksuhalduri haldusaktiga kindlaks määratud intress, on väiksem kui 100 eurot või tema riikliku maksu võla tasumine on ajatatud. Maksuvõla tasumise ajatamise korral on maksuvõlg, mille tähtaeg on möödunud, tasutud ettenähtud summas.
+
+(3) Taotleja suhtes ei toimu likvideerimismenetlust ega ole nimetatud pankrotiseaduse kohaselt ajutist pankrotihaldurit või kohtuotsusega välja kuulutatud pankrotti või algatatud tema suhtes sundlõpetamist ja tal ei ole kehtivat äriregistrist kustutamise hoiatust.
+
+(4) Taotleja ei ole saanud taotluses sisalduva sama kulu kohta toetust riigieelarvelistest või muudest Euroopa Liidu või välisvahenditest, või muud tagastamatut riigiabi.
+
+(5) Taotleja on riigieelarvelistest, Euroopa Liidu või välisvahenditest saadud ja tagasimaksmisele kuulunud summa tähtajal tagasi maksnud või toetuse tagasimaksmise ajatamise korral tasunud tagasimaksed ettenähtud summas.
+
+(6) Taotleja on täitnud Euroopa Komisjoni korralduse ebaseaduslikuks ja siseturuga kokkusobimatuks tunnistatud abi tagasimaksmise kohta.
+
+(7) Taotlejal ei ole kehtivat karistust karistusseadustiku §-s 49<sup>1</sup>, 209, 209<sup>1</sup>, 210, 296, 298, 298<sup>1</sup>, 372, 373 või 384 sätestatud süüteo toimepanemise eest.
+
+(8) Taotleja ei ole raskustes olev ettevõtja riigiabi suuniste punkti 33 alapunkti 63 tähenduses.
+
+(9) Kõik projektis osalevad ettevõtjad peavad vastama lõigetes 2‒8 sätestatud nõuetele ning tootma tooteid § 4 lõike 3 punktides 1, 2 või 3 nimetatud kvaliteedikava raames.
+
+(10) Taotlejale või taotleja kaudu abi saavale ettevõtjale toetuse andmisele vahetult eelnenud kolme aasta jooksul antud vähese tähtsusega abi ei tohi koos taotletava toetusega ületada vähese tähtsusega abi ülemmäära 300 000 eurot.
+
+(11) Vähese tähtsusega abi andmise korral võetakse arvesse komisjoni määruse (EL) 2023/2831 artiklis 5 sätestatud eri eesmärkideks antava vähese tähtsusega abi kumuleerimisreegleid.
+
+(12) Vähese tähtsusega abi suuruse arvestamise korral loetakse üheks ettevõtjaks sellised ettevõtjad, kes on omavahel seotud komisjoni määruse (EL) 2023/2831 artikli 2 lõike 2 kohaselt.
+
+## 3. peatükk — Toetuse taotlemine
+
+### § 9. Taotluse esitamine ja taotluse esitamise tähtaeg
+
+(1) Toetuse saamiseks esitab taotleja selleks ettenähtud tähtajal Põllumajanduse Registrite ja Informatsiooni Ametile (edaspidi *PRIA*) elektrooniliselt PRIA e-teenuse keskkonna kaudu taotluse ja § 4 lõikes 1 nimetatud projekti ning neis esitatud andmeid tõendavad dokumendid (edaspidi koos *taotlus*).
+
+(2) PRIA teatab taotluse esitamise tähtaja ametlikus väljaandes Ametlikud Teadaanded ja oma veebilehel.
+
+(3) Määruse alusel esitatavad taotlused ja muud dokumendid esitatakse üksnes elektrooniliselt PRIA e-teenuse keskkonna kaudu.
+
+### § 10. Nõuded taotlusele
+
+(1) Taotluses esitab taotleja järgmised andmed:
+
+1\) taotleja nimi, mittetulundusühingu ja tulundusühistu puhul registrikood, seltsingu puhul esindava ettevõtte registrikood, käibemaksukohuslaseks registreerimise number ning taotleja esindaja nimi ja kontaktandmed;
+
+2\) kvaliteedikava nimetus ja riiklikult tunnustatud kvaliteedikava puhul tunnustamise number;
+
+3\) taotluse selgelt sõnastatud sisu ja projekti kestus;
+
+4\) projekti kogumaksumus ja taotletava toetuse suurus;
+
+5\) teave taotleja varasema põllumajandustoodete ja nende töötlemisel saadud toidu teavitus- ja müügiedendustegevuste elluviimise kogemuse kohta;
+
+6\) mittetulundusühingu või tulundusühistu vormis tegutseva taotleja puhul liikmete nimekiri;
+
+7\) vajaduse korral toetatavas tegevuses osalevate ettevõtjate nimekiri ning projektis olevate toodete nimekiri koos nende kaubakoodidega.
+
+(2) Projektis esitatakse järgmised andmed:
+
+1\) turuolukorrast tingitud projekti vajalikkuse põhjendus ning projekti eesmärk, sihtrühm ja selle suurus;
+
+2\) projekti tegevuste kirjeldus, mis sisaldab § 4 lõikes 1 loetletud abikõlblikke tegevusi koos eelarvega;
+
+3\) teave selle kohta, et taotleja jaoks on tegemist uue projektiga.
+
+(3) Kui taotleja tegutseb seltsingu vormis, esitab ta koos taotlusega seltsingulepingu ärakirja.
+
+## 4. peatükk — Taotluse menetlemine
+
+### § 11. Taotluse kontrollimine
+
+Taotluses esitatud andmete õigsust ning taotleja ja toetatava tegevuse toetuse saamise nõuetele vastavust kontrollib PRIA.
+
+### § 12. Taotluse hindamine
+
+(1) PRIA hindab taotlusi lisas „Taotluse hindamise kriteeriumid“ sätestatud hindamiskriteeriumite alusel.
+
+(2) Taotluste hindamiseks ja paremusjärjestuse moodustamise ettepaneku tegemiseks moodustab PRIA hindamiskomisjoni.
+
+(3) Hindamistulemuste alusel koostab PRIA taotluste paremusjärjestuse, milles loetakse paremaks suurema hindepunktide summa saanud taotlus.
+
+(4) Võrdsete hindepunktide summadega taotluste puhul eelistatakse taotlust, milles taotletav toetuse summa on väiksem.
+
+### § 13. Taotluse rahuldamine ja rahuldamata jätmine
+
+(1) Kui kõigi nõuetekohaste taotluste rahastamise summa ei ületa toetuseks ettenähtud vahendeid, rahuldatakse kõik nõuetekohased taotlused, mis vastavad hindamiskriteeriumite miinimumnõuetele, Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse § 28 lõike 1 punkti 3 alusel.
+
+(2) Kui kõigi nõuetekohaste taotluste rahastamise summa ületab toetuseks ettenähtud vahendeid, rahuldatakse taotluste hindamise tulemusel koostatud taotluste paremusjärjestuse alusel parimad nõuetekohased taotlused, mis vastavad hindamiskriteeriumite miinimumnõuetele, Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse § 28 lõike 1 punkti 2 alusel.
+
+(3) Taotlus vastab hindamiskriteeriumite miinimumnõuetele, kui see on hindamisel saanud vähemalt 30 protsenti maksimaalsest hindepunktide summast.
+
+(4) Kui taotluse täies ulatuses rahuldamine ei ole põhjendatud taotluses sisalduvate mitteabikõlblike kulude tõttu, võib PRIA teha taotluse osalise rahuldamise otsuse, vähendades toetuse summat Euroopa Liidu ühise põllumajanduspoliitika seaduse § 28 lõikes 5 sätestatud tingimustel mitteabikõlblike kulude võrra.
+
+(5) Kui toetus on riigiabi põllumajandus- ja metsandussektoris ning maapiirkondades antava riigiabi suuniste punkti 634 alapunkti e tähenduses, kuid Euroopa Komisjon ei ole veel teinud toetuse kohta lubavat otsust ja toetust ei ole võimalik anda vähese tähtsusega abina, jäetakse taotlus osaliselt või täielikult rahuldamata.
+
+(6) Taotluse rahuldamata jätmise otsuse teeb PRIA Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse § 28 lõikes 3 sätestatud alustel.
+
+(7) PRIA teeb taotluse rahuldamise otsuse või taotluse rahuldamata jätmise otsuse 60 tööpäeva jooksul arvates taotluse esitamise tähtpäevast.
+
+## 5. peatükk — Nõuded toetuse saajale ning toetuse maksmine
+
+### § 14. Toetatava tegevuse elluviimise nõuded ja toetuse saaja kohustused
+
+(1) Toetuse saaja viib projekti käigus toetatava tegevuse ellu, sealhulgas esitab kõik tegevuse elluviimist tõendavad dokumendid koos maksetaotlusega PRIA-le projekti esitamise lõpptähtpäevaks, kuid mitte hiljem kui 30. juunil 2029. aastal.
+
+(2) Toetuse saaja korraldab enne toetatava tegevuse elluviimisega alustamist §-s 15 sätestatud nõuetekohase ostumenetluse, kui ta ei ole seda korraldanud enne taotluse esitamist.
+
+(3) Toetuse saaja täidab viimase toetusosa maksmiseni järgmisi kohustusi:
+
+1\) kasutab saadud toetusraha sihipäraselt;
+
+2\) tagab toetuse väljamaksmise aluseks olevate dokumentide nõuetekohasuse ja kulude abikõlblikkuse;
+
+3\) võimaldab teha auditit, teostada järelevalvet ja muid toetuse saamisega seotud kontrolle ning osutab selleks igakülgset abi, sealhulgas võimaldab viibida toetuse saaja kinnisasjal, ehitises ja ruumis ning läbi vaadata dokumente ja vara kohapeal;
+
+4\) esitab auditi tegemiseks, järelevalve teostamiseks või muu kontrolli tegemiseks vajalikud andmed ja dokumendid määratud tähtaja jooksul;
+
+5\) eristab selgelt oma raamatupidamises toetuse kasutamisega seotud kulud ning neid kajastavad kulu- ja maksedokumendid muudest kulu- ja maksedokumentidest;
+
+6\) esitab toetuse kasutamisega seotud seireks vajalikku teavet;
+
+7\) teavitab viivitamata PRIA-t taotluses esitatud või toetatava tegevusega seotud andmete muutumisest või projektis nimetatud tegevuse elluviimist takistavast asjaolust;
+
+8\) tagab PRIA-le riigihangete registris juurdepääsu hankele või ostumenetlusele;
+
+9\) näitab avalikkusele, et tegemist on Euroopa Maaelu Arengu Põllumajandusfondist (EAFRD) antava toetuse abil elluviidava tegevusega ning kasutab selleks ettenähtud sümboleid ja teavitustegevusi komisjoni rakendusmääruses (EL) 2022/129, millega kehtestatakse Euroopa Parlamendi ja nõukogu määruse (EL) 2021/2115 kohaseid õliseemnete, puuvilla ja veinivalmistamise kõrvalsaadustega seotud sekkumisviise ning liidu toetuse ja ÜPP strateegiakavadega seotud teavitamis-, avalikustamis- ja nähtavusnõudeid käsitlevad normid (ELT L 20, 31.01.2022, lk 197–205), sätestatud nõuete kohaselt.
+
+(4) Toetuse saaja peab vastama kuni viimase toetusosa maksmiseni §-s 8 sätestatud nõuetele.
+
+### § 15. Ostumenetlus
+
+(1) Toetuse saaja peab enne toetatava tegevuse elluviimisega alustamist korraldama projekti raames tellitava töö või teenuse või soetatava vara mõistliku maksumuse väljaselgitamiseks riigihangete registris ostumenetluse, kui tegevuse eeldatav käibemaksuta maksumus on 30 000 eurot või sellest suurem.
+
+(2) Ostumenetluse korraldamine riigihangete registris peab vastama järgmistele nõuetele:
+
+1\) ostumenetluse väljakuulutamisel avaldatakse riigihangete registris ostuteade, millest nähtuvad tellitava töö või teenuse või soetatava vara kirjeldus ja tehnilised andmed ning majanduslikult soodsaima pakkumuse väljaselgitamiseks pakkumuste hindamise kriteeriumid ja pakkumuste esitamise tähtpäev;
+
+\[RT I, 21.07.2026, 17 - jõust. 24.07.2026\]
+
+2\) pakkumuste esitamise tähtaeg on vähemalt 15 tööpäeva;
+
+3\) teade ostumenetluse kohta on avalik;
+
+4\) ostumenetlusega seotud teabevahetus ostumenetluse korraldaja ja pakkuja vahel, sealhulgas ostuteatele ja sellega seotud dokumentidele juurdepääsu võimaldamine ning pakkumuste ja selgituste esitamine, toimub riigihangete registris;
+
+5\) pakkumused võetakse vastu ja avatakse riigihangete registris;
+
+5<sup>1</sup>) punktis 1 sätestatud tingimusi ei tohi muuta ilma pakkumuste esitamiseks täiendavat tähtaega andmata, mis ei või olla lühem kui vähemalt pool esialgsest pakkumuste esitamise tähtajast, ja parima pakkumuse valimisel ei tohi neist kõrvale kalduda;
+
+\[RT I, 21.07.2026, 17 - jõust. 24.07.2026\]
+
+6\) PRIA esindajale antakse Vabariigi Valitsuse 31. augusti 2017. a määruse nr 137 „Riigihangete registri põhimäärus“ § 21 lõike 1 punkti 19 kohane vaatleja roll.
+
+(3) Pakkumus peab sisaldama toetuse saaja nime, hinnapakkuja nime ja kontaktandmeid, pakkumuse väljastamise kuupäeva ning töö, teenuse või vara üksikasjalikku kirjeldust ning käibemaksuta ja käibemaksuga maksumust ning vajadusel tehniliste tingimuste loetelu, mis osutab tehnilisele spetsifikatsioonile.
+
+(4) Toetuse saaja võib loobuda ostumenetluse korraldamisest riigihangete registris, kui see on objektiivselt põhjendatud, eelkõige kui turul ei ole piisavalt asjaomase töö, teenuse või vara pakkujaid.
+
+(5) Toetuse saaja ei või lõikes 1 sätestatud nõude eiramiseks jaotada osadeks projekti raames tellitavat tööd või teenust või soetatavat vara, mis on funktsionaalselt koostoimiv või vajalik sama eesmärgi saavutamiseks. Toetuse saaja võib jaotada projekti raames tellitava töö või teenuse või soetatava vara osadeks, kui see on objektiivsetel põhjustel õigustatud.
+
+### § 16. Maksetaotluse esitamine ja nõuded maksetaotlusele
+
+(1) Toetuse maksmiseks esitab toetuse saaja PRIA-le elektrooniliselt PRIA e-teenuse keskkonna kaudu maksetaotluse, kui on täidetud järgmised tingimused:
+
+1\) töö on tehtud ning teenus on osutatud ja vastu võetud;
+
+2\) töö või teenuse eest on tasutud.
+
+(2) Toetuse saaja esitab maksetaotluse vähemalt kord aastas arvates taotluse rahuldamise otsuse tegemisest, kuid mitte rohkem kui neli korda aastas.
+
+(3) Toetuse saaja esitab maksetaotluses järgmised andmed:
+
+1\) toetuse saaja nimi, mittetulundusühingu ja tulundusühistu puhul registrikood, seltsingu puhul esindava ettevõtte registrikood, käibemaksukohuslaseks registreerimise number;
+
+2\) toetuse summa, mille maksmist ta taotleb;
+
+3\) teave toetatava tegevuse elluviimist tõendavate dokumentide kohta;
+
+4\) teave tehtud toetatava tegevuse maksumuse ja selle osalise või täieliku tasumise kohta;
+
+5\) teave tegevuse kogumaksumuse muutumise kohta;
+
+6\) toetuse saaja või projektis osalevate ettevõtjate kvaliteedikava alusel toodetud ja turustatud toodete maht üks kord aastas.
+
+(4) Koos maksetaotlusega esitatakse järgmised tegevuse elluviimist tõendavad dokumendid:
+
+1\) selle isiku väljastatud arve-saatelehe või arve ärakiri, kellelt toetuse saaja tellis teenuse või töö või soetas vara;
+
+2\) punktis 1 nimetatud arve-saatelehel või arvel märgitud rahalise kohustuse tasumist tõendav maksekorraldus või selle väljatrükk või arvelduskonto väljavõte;
+
+3\) paragrahvi 7 lõikes 3 nimetatud juhul vähemalt kolme hinnapakkuja pakkumuse ärakiri või § 7 lõikes 4 nimetatud juhul vähemalt ühe hinnapakkuja pakkumuse ärakiri koos selgitusega, miks ei olnud võimalik saada omavahel võrreldavaid pakkumusi;
+
+4\) paragrahvi 4 lõike 1 punktis 1 sätestatud toetatava tegevuse lõpetamise korral turu-uuringu lõpparuanne ja varasemat kogemust tõendav teave;
+
+5\) paragrahvi 4 lõike 1 punktis 2 sätestatud toetatava tegevuse vahekokkuvõtete puhul teavituskampaania käigus maksetaotluse esitamise ajaks valminud materjalid ja tegevuse lõpetamise korral tulemuste kokkuvõte, mis sisaldab ülevaadet teavituskampaaniast, levitatud sõnumitest ja visuaalide näidiseid;
+
+6\) paragrahvi 4 lõike 1 punktis 3 sätestatud toetatava tegevuse puhul fotod messilt ja selle korraldamist tõendavad dokumendid;
+
+7\) paragrahvi 4 lõike 1 punktis 4 sätestatud toetatava tegevuse puhul osalejate nimekirja ärakiri või lõpptarbijale mõeldud tegevuse puhul fotod turundusürituselt ja turueksperdi teenuse kasutamise korral tema erialast pädevust tõendav elulookirjeldus;
+
+8\) paragrahvi 4 lõike 1 punktis 5 sätestatud toetatava tegevuse puhul messi külastamist tõendava dokumendi ärakiri.
+
+(5) Lõike 4 punktis 1 nimetatud arve-saatelehe või arve ärakirjal näidatud tehingu sisu peab vastama arve väljastanud isiku pakkumusele.
+
+### § 17. Maksetaotluse kontrollimine
+
+PRIA kontrollib vastuvõetud maksetaotluses ja toetava tegevuse elluviimist tõendavates dokumentides esitatud andmete õigsust ning elluviidud toetatava tegevuse vastavust projektile, taotluse rahuldamise otsuses sätestatud tingimustele, Euroopa Liidu asjakohastele õigusaktidele ning Euroopa Liidu ühise põllumajanduspoliitika rakendamise seadusele ja selle alusel kehtestatud õigusaktidele.
+
+### § 18. Toetuse maksmine
+
+(1) Toetus makstakse üksnes abikõlblike kulude hüvitamiseks ja tingimusel, et toetuse saaja on järginud toetatava tegevuse elluviimisel kõiki nõudeid.
+
+(2) PRIA teeb toetuse saaja esitatud maksetaotluse alusel toetuse maksmise otsuse sellise aja jooksul, et toetusraha oleks võimalik kanda toetuse saaja arvelduskontole kolme kuu jooksul arvates §-s 16 nimetatud nõuetekohaste dokumentide saamisest.
+
+(3) PRIA teeb toetuse maksmisest keeldumise otsuse, kui enne toetuse maksmist tehakse kindlaks Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse § 28 lõikes 3 sätestatud taotluse rahuldamata jätmise alused.
+
+(4) Kui enne toetuse maksmist tehakse kindlaks, et toetuse saaja rikub toetatava tegevuse elluviimise nõudeid või ei täida muid toetuse saaja kohustusi, võib PRIA rikkumise ulatust, püsivust ja korduvust arvestades vähendada makstavat toetust või keelduda toetuse maksmisest Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse § 13 lõike 3 alusel.
+
+(5) PRIA teeb toetuse maksmisest keeldumise otsuse 25 tööpäeva jooksul arvates toetuse maksmisest keeldumise aluseks olevast asjaolust teadasaamisest.
+
+### § 19. Toetatava tegevuse rahastamine enne kulutuste tegemist
+
+(1) Toetava tegevuse elluviimist võib Euroopa Liidu ühise põllumajanduspoliitika rakendamise seaduse § 30 lõike 1 ja lõike 3 punkti 1 kohaselt riigieelarvelistest vahenditest rahastada pärast taotluse rahuldamise otsuse tegemist enne töö või teenuse tellimise või vara soetamise eest tasumist tagatist nõudmata, kui töö või teenus on lõpetatud või vara on üle antud ning toetuse saaja on selle vastu võtnud ja selle eest tasunud vähemalt omafinantseeringuga võrdse rahasumma ning kui toetuse saaja on piisavalt usaldusväärne.
+
+(2) Lõike 1 kohaselt toetatava tegevuse elluviimise rahastamist sooviv toetuse saaja esitab pärast toetatava tegevuse täielikku või osadena elluviimist PRIA-le elektrooniliselt PRIA e-teenuse keskkonna kaudu maksetaotluse koos §-s 16 sätestatud dokumentidega.
+
+(3) PRIA teeb toetatava tegevuse elluviimise rahastamise otsuse sellise aja jooksul, et nimetatud otsuse alusel makstava raha oleks võimalik kanda toetuse saaja arvelduskontole kolme kuu jooksul arvates lõikes 2 nimetatud nõuetekohaste dokumentide saamisest.
+
+(4) Paragrahvi 16 lõike 4 punktis 1 nimetatud arve-saatelehel või arvel märgitud toetatava tegevuse abikõlblike kulude eest peab olema tasutud ning rahalise kohustuse tasumise teatis koos § 16 lõike 4 punktis 2 nimetatud dokumentidega peavad olema esitatud PRIA-le seitsme tööpäeva jooksul arvates toetatava tegevuse elluviimise rahastamise otsuse alusel makstud raha laekumisest.
+
+### § 20. Dokumentide säilitamine
+
+Määruse alusel esitatud dokumente säilitab PRIA kuni 31. detsembrini 2039. aastal või §-s 3 sätestatud riigiabi puhul kümme aastat arvates toetuse määramise otsuse tegemisest.
+
+### § 21. Toetuse saaja andmete avalikustamine
+
+PRIA teavitab toetuse saajat tema andmete avalikustamisest ning töötlemisest Euroopa Parlamendi ja nõukogu määruse (EL) 2021/2116, mis käsitleb ühise põllumajanduspoliitika rahastamist, haldamist ja seiret ning millega tunnistatakse kehtetuks määrus (EL) nr 1306/2013 (ELT L 435, 06.12.2021, lk 187–261), artiklites 98 ja 99 sätestatud alustel ja korras.
+
+## Lisad
+
+- Lisa — [REM\_m65\_lisa.pdf](https://www.riigiteataja.ee/aktilisa/1210/7202/6019/REM_m65_lisa.pdf)
+
+Lisa

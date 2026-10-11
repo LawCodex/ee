@@ -1,0 +1,354 @@
+---
+title: "Laulu- ja tantsupeoliikumises osalevate kollektiivide juhendajate tööjõukulu toetuse määramise tingimused ja kord"
+identifier: "131072026013"
+rt_reference: "RT I, 31.07.2026, 13"
+rt_original: "RT I, 15.01.2021, 11"
+group_id: "1051126"
+type: regulation
+issuer: "Kultuuriminister"
+number: "1"
+text_type: "terviktekst"
+jurisdiction: ee
+language: et
+date: 2021-01-12
+last_amended: 2026-08-03
+status: in_force
+source: "https://www.riigiteataja.ee/akt/131072026013"
+retrieved: 2026-10-12
+---
+
+# Laulu- ja tantsupeoliikumises osalevate kollektiivide juhendajate tööjõukulu toetuse määramise tingimused ja kord
+
+Määrus kehtestatakse riigieelarve seaduse § 53<sup>1</sup> lõike 1 alusel.
+
+## § 1. Määruse reguleerimisala
+
+Määrusega kehtestatakse laulu- ja tantsupeoliikumises osalevate harrastuskollektiivide (edaspidi *kollektiiv*) juhendamisega vahetult seotud isiku või isikute (edaspidi *juhendaja*) tööjõukulu toetuse (edaspidi *toetus*) määramise tingimused, sealhulgas nõuded kollektiivile ja juhendajale, kollektiivi juhendamise tasule ning toetuse suurus, selle jaotamise, tagasimaksmise ja tagasinõudmise kord.
+
+## § 2. Toetuse eesmärk
+
+(1) Toetuse eesmärk on toetada kollektiive töölepingu alusel töötavate juhendajate igakuiste tööjõukulude katmisel. Toetuse maksmise periood on kalendriaasta.
+
+\[RT I, 12.07.2022, 4 - jõust. 15.07.2022\]
+
+(2) Toetuse andmise tulemusena on tagatud juhendajale tänapäeva ootustele vastav töötasu ja sotsiaalsed garantiid ning laulu- ja tantsupeoliikumise protsessi jätkusuutlikkus.
+
+## § 3. Toetuse määramine, jaotamine ja tagasinõudmine
+
+Toetust määrab, jaotab ja nõuab tagasi Eesti Rahvakultuuri Keskus (edaspidi *toetuse andja*).
+
+## § 4. Nõuded kollektiivile toetuse saamiseks
+
+(1) Kollektiiv on Eestis alaliselt, regulaarselt ja planeeritult tegutsev ning iseseisvalt esinev koor, rahvatantsurühm, võimlemisrühm, rahvamuusikakollektiiv, puhkpilli-, sümfoonia-, sümfoniett- või keelpilliorkester, kes on osalenud toetuse taotlemisele eelnenud noorte või üldlaulu- ja tantsupeol või nende ettevalmistusprotsessis või maakondlikul laulu- ja tantsupeol või valdkondlikul liigipeol. Võimlemisrühma puhul on valdkondlik liigipidu laulu- ja tantsupeo protsessiga seotud pidu.
+
+\[RT I, 12.07.2022, 4 - jõust. 15.07.2022\]
+
+(1<sup>1</sup>) Määrust kohaldatakse kollektiividele, mille liikmed õpivad vähemalt põhikooli esimeses kooliastmes.
+
+\[RT I, 31.07.2026, 12 - jõust. 03.08.2026\]
+
+(2) Kollektiiv on tegutsenud vähemalt ühe hooaja. Kui tema tegutsemise ajal ei ole käesoleva paragrahvi lõikes 1 sätestatud üritust toimunud, on kollektiivil hooajaliste tegevuste ja väljunditega tegevuskava. Käesoleva lõike teist lauset ei kohaldata võimlemisrühmadele.
+
+\[RT I, 12.07.2022, 4 - jõust. 15.07.2022\]
+
+(3) Kollektiivi koosseis vastab järgmistele miinimumnõuetele:
+
+1\) kooris on vähemalt 16 liiget;
+
+2\) rahvatantsurühmas on vähemalt 10 liiget;
+
+3\) rahvamuusikakollektiivis on vähemalt 6 liiget (sealhulgas 4 viisipilli);
+
+4\) puhkpilliorkestris on vähemalt 8 liiget;
+
+5\) sümfoonia- või sümfoniettorkestris ning keelpilliorkestris on vähemalt 12 liiget;
+
+6\) võimlemisrühmas on vähemalt 8 liiget.
+
+\[RT I, 12.07.2022, 4 - jõust. 15.07.2022\]
+
+(4) Kollektiivi miinimumkoormus on kaks kontakttundi ühes nädalas või 24 kontakttundi kolmekuulise perioodi jooksul. Kontakttund on tööaeg, millal kollektiivi juhendaja teeb kollektiiviga proovi. Üks kontakttund kestab 45 minutit.
+
+(5) Kollektiivil on töölepingu alusel töötav juhendaja, kes vastab käesoleva määruse §-s 5 toodud nõuetele ja kellele makstakse töötasu antud kollektiivi juhendamise eest vähemalt käesoleva määruse § 6 lõikes 1 toodud määras.
+
+(6) Toetust saab taotleda juriidiline isik, kohaliku omavalitsuse üksuse ametiasutus või ametiasutuse hallatav asutus või Haridus- ja Teadusministeeriumi valitsemisalas tegutsev kool, kellel on kollektiivi juhendajaga kehtiv tööleping (edaspidi *taotleja*).
+
+(7) Taotleja ei ole pankrotis, likvideerimisel ega sundlõpetamisel ning tal ei ole kehtivat äriregistrist kustutamise hoiatust.
+
+(8) Taotleja peab olema esitanud viimase majandusaasta aruande seaduses ettenähtud korras ja tähtajal äriregistrile või mittetulundusühingute ja sihtasutuste registrile.
+
+(9) Taotlejal ei tohi olla taotluse esitamise ning 31. märtsi, 30. juuni, 30. septembri ja 31. detsembri seisuga riiklikku maksuvõlga (sealhulgas maksevõlga) ega tähtpäevaks tasumata jäetud maksusummalt arvestatud intressivõlga. Maksuvõla tasumise ajatamise korral peab maksuvõlg olema tasutud ajakava kohaselt. Käesolevas määruses loetakse riikliku maksu võlaks tähtpäevaks tasumata riikliku maksu ja sellelt arvestatud intressi võlga, mis ületab 100 eurot.
+
+(10) Juhul kui toetuse andja on teinud taotleja kohta varem toetuse tagasinõudmise otsuse, ei tohi tal otsuse kohaselt tagasimaksmisele kuuluv toetus tähtajaks tagasi maksmata olla. Taotlejal ei tohi olla esitamata aruanne eelmise toetuse maksmise perioodi eest ega muid käesolevast määrusest tulenevaid täitmata kohustusi toetuse andja ees.
+
+\[RT I, 31.07.2026, 12 - jõust. 03.08.2026\]
+
+(11) Taotleja teeb toetuse andjaga koostööd, esitades toetuse andja nõudmisel kõik taotluse menetlemiseks ja hilisemaks toetuse kasutamise kontrollimiseks vajalikud andmed.
+
+## § 5. Nõuded juhendajale toetuse saamiseks
+
+(1) Juhendaja on kollektiivi juhendamisega vahetult seotud isik:
+
+1\) koorijuht;
+
+2\) rahvatantsurühma juhendaja;
+
+3\) rahvamuusikakollektiivi juhendaja;
+
+4\) puhkpilliorkestri juht;
+
+5\) sümfooniaorkestri või sümfoniettorkestri juht;
+
+6\) keelpilliorkestri juht;
+
+7\) võimlemisrühma juhendaja.
+
+\[RT I, 12.07.2022, 4 - jõust. 15.07.2022\]
+
+(2) Koorijuhil on koorijuhi kutse, puhkpilliorkestri juhil on puhkpilliorkestri juhi kutse ja rahvatantsurühma juhendajal on tantsuspetsialisti kutse kutseseaduse tähenduses.
+
+(2<sup>1</sup>) Võimlemisrühma juhendajal on võimlemistreeneri või tantsuspetsialisti kutse kutseseaduse tähenduses. Kui võimlemisrühma juhendajal on võimlemistreeneri kutse, peab ta lisaks kutsele vastama katusorganisatsiooni esitatud nõuetele. Võimlemisrühma juhendaja ei saa toetust, kui talle on määratud sama võimlemisrühma eest treeneri tööjõukulu toetus spordiseaduse § 9<sup>1</sup> lõike 7 alusel kehtestatud määruse alusel.
+
+\[RT I, 12.07.2022, 4 - jõust. 15.07.2022\]
+
+(3) Rahvamuusikakollektiivi juhendaja, sümfoonia-, sümfoniett- ja keelpilliorkestri juht vastab kollektiivi liigile vastava katusorganisatsiooni esitatud nõuetele.
+
+(4) Juhendaja teeb taotluse esitamise ajal töölepingu alusel kollektiivi juhendamise tööd ja tööleping kehtib vähemalt taotletava toetuse perioodi lõpuni. Tööleping võib olla sõlmitud lühemaks perioodiks, kui see on sõlmitud ajutiselt äraoleva töötaja asendamise ajaks.
+
+\[RT I, 31.07.2026, 12 - jõust. 03.08.2026\]
+
+(5) Kui taotletava toetuse perioodi kestel juhendajaga sõlmitud tööleping lõpetatakse, peab uue juhendaja tööleping olema sõlmitud vähemalt ülejäänud toetuse perioodiks.
+
+## § 6. Kollektiivi juhendamise tasu ja toetuse suurus
+
+(1) Toetust makstakse juhul, kui taotleja maksab taotletava toetuse perioodil juhendajale vähemalt Kultuuriministeeriumi ja Teenistujate Ametiliitude Keskorganisatsiooni (TALO) vahel kokku lepitud ja taotlusvooru avamise päeval kehtiva kultuuritöötaja brutotöötasu alammäära ja juhendaja täiskoormuse (84 kontakttunni) jagamisel saadud kontakttunni tasu, millele lisanduvad sotsiaalmaks ja töötuskindlustusmakse.
+
+\[RT I, 12.07.2022, 4 - jõust. 15.07.2022\]
+
+(2) Käesoleva paragrahvi lõikes 1 toodud tingimuse täitmisel eraldatakse toetust kuni 50% ulatuses sellele juhendajale kollektiivi juhendamise eest makstavast kontakttunni tasust, millele lisanduvad sotsiaalmaks ja töötuskindlustusmakse, kuid ühe kontakttunni eest mitte rohkem kui käesoleva paragrahvi lõikes 1 toodud kontakttunni kahekordne maksumus, millele lisanduvad sotsiaalmaks ja töötuskindlustusmakse.
+
+(3) Juhendaja tööjõukulu hulka, mille katmiseks toetust eraldatakse, arvestatakse puhkusetasu töölepingu järgi kuni 56 kalendripäeva eest aastas.
+
+(4) Kui koguvajadus ületab kinnitatud eelarvet, vähendatakse kõikide taotlejate toetust võrdselt teatud protsendi võrra, kuni taotlejatele eraldatav summa saab kinnitatud eelarvega võrdseks.
+
+(5) Kui toetuse maksmise perioodil tõstab toetuse saaja juhendajale makstavat kontakttunni tasu või kontakttundide arvu, ei suurendata toetuse saajale määratud toetussummat. Kui toetuse saaja vähendab kontakttundide arvu, jääb toetuse arvestuse aluseks olev kontakttunni tasu samaks ja toetuse saajal ei ole õigust suurendada kontakttunni tasu talle määratud toetuse arvelt.
+
+\[RT I, 31.07.2026, 12 - jõust. 03.08.2026\]
+
+## § 7. Eelarve kinnitamine ja taotluse esitamine
+
+(1) Taotlusvooru eelarve kinnitab kultuuriminister Kultuuriministeeriumi valitsemisala eelarve käskkirjaga.
+
+(2) Taotlus toetuse saamiseks järgnevaks kalendriaastaks esitatakse toetuse andjale e‑keskkonna kaudu ajavahemikus 1. oktoobrist kuni 31. oktoobrini.
+
+(3) Taotluste esitamisest teavitab toetuse andja oma veebilehel vähemalt 14 kalendripäeva enne taotlusvooru avamise päeva.
+
+(4) Taotlus tuleb esitada käesoleva paragrahvi lõikes 2 sätestatud tähtaja jooksul.
+
+(5) Taotluse peab esitama esindusõiguslik isik. Toetuse andja kinnitab taotluse kättesaamist.
+
+(6) Kui taotluse esitamisel esineb e-keskkonnas tehniline viga, mis takistab taotluse tähtaegset esitamist, loetakse taotluse esitamise tähtpäevaks järgmine tööpäev pärast vea likvideerimist.
+
+## § 8. Taotlemisel esitatavad andmed ja dokumendid
+
+(1) Taotlus esitatakse e-keskkonna kaudu toetuse andja vormil. Taotluses esitatakse järgmine teave ja dokumendid:
+
+1\) üldandmed taotleja kohta;
+
+2\) kollektiivi liik;
+
+3\) andmed käesoleva määruse § 4 lõikes 1 toodud üritusel osalemise kohta;
+
+4\) kollektiivi tegutsemise aeg;
+
+5\) käesoleva määruse § 4 lõikes 2 toodud juhul kollektiivi hooajaliste tegevuste ja väljunditega tegevuskava;
+
+6\) kollektiivi liikmete arv;
+
+7\) kollektiivi kontakttundide toimumise aeg;
+
+8\) juhendaja nimi ja ametinimetus;
+
+9\) andmed juhendaja kutse kohta või valdkonna katusorganisatsiooni kinnitus juhendaja nõuetele vastavuse kohta;
+
+10\) juhendaja töölepingu kestus ja ühe kalendriaasta kontakttundide arv;
+
+11\) ühe kontakttunni maksumus (brutotasuna);
+
+12\) taotletava toetuse suurus kalendriaasta kohta;
+
+13\) väljavõte töölepingust, millest nähtub töölepingu kestus, info juhendatava kollektiivi kohta, ühe kuu või ühe nädala kontakttundide arv või kontakttundide arv kuni kolmekuulise arvestusperioodi jooksul, kontakttunni maksumus (brutotasuna) ning puhkuse kestus;
+
+\[RT I, 31.07.2026, 12 - jõust. 03.08.2026\]
+
+14\) väljavõte töötamise registrist;
+
+15\) kinnitused käesoleva määruse § 4 lõigetes 7–10 sätestatud tingimuste kohta;
+
+16\) volikiri, kui taotleja esindusõiguslik isik tegutseb volituse alusel ja volitus ei ole antud toetuse andja toetuste taotlemise e-keskkonna kaudu.
+
+(2) Ühes taotluses esitatakse andmed ühe juhendaja kohta.
+
+## § 9. Taotluse menetlemine
+
+(1) Taotluse menetlemise tähtaeg on kuni 60 tööpäeva alates taotlusvooru sulgemisest.
+
+(2) Taotluse tähtaja jooksul esitamata jätmisel või kui taotleja või toetuse saamisega seotud kollektiiv või juhendaja ei vasta käesoleva määruse §-des 4–5 ja § 6 lõikes 1 toodud nõuetele, jäetakse taotlus läbi vaatamata.
+
+(3) Taotluse menetlemise käigus võib toetuse andja nõuda taotlejalt selgitusi, lisainformatsiooni, taotluse täiendamist või muutmist, kui ta leiab, et taotlus ei ole piisavalt selge või selles esinevad puudused.
+
+(4) Käesoleva paragrahvi lõikes 3 nimetatud puuduste kõrvaldamiseks võib toetuse andja anda taotlejale kuni viis tööpäeva, mis ajaks taotluse menetlemise aeg peatub. Toetuse andja jätab taotluse läbi vaatamata, kui taotleja ei ole tähtaja jooksul puudusi kõrvaldanud, ning teavitab sellest taotlejat e-keskkonna kaudu kümne tööpäeva jooksul alates käesolevas lõikes toodud tähtaja saabumisest. Kui puudused kõrvaldatakse, loetakse puudustega seotud nõue täidetuks.
+
+(5) Toetuse andja tunnistab taotleja ja taotluse nõuetele vastavaks juhul, kui on täidetud kõik käesoleva määruse §-des 4–5, § 6 lõikes 1 ja §-s 8 sätestatud nõuded.
+
+(6) Toetuse andja võib taotluste menetlemiseks kaasata vastava valdkonna eksperte.
+
+## § 10. Taotluse rahuldamise ja rahuldamata jätmise tingimused ja kord
+
+(1) Taotluse rahuldamise või rahuldamata jätmise otsuse teeb Eesti Rahvakultuuri Keskuse direktor.
+
+(2) Taotluse rahuldamise otsus tehakse juhul, kui taotleja, toetuse saamisega seotud kollektiiv ja juhendaja ning taotlus vastavad käesolevas määruses sätestatud nõuetele.
+
+(3) Taotluse rahuldamata jätmise otsus tehakse juhul, kui:
+
+1\) taotleja või toetuse saamisega seotud kollektiiv või juhendaja ja/või taotlus ei vasta kasvõi ühele käesoleva määruse §-des 4–5, § 6 lõikes 1 või §-s 8 sätestatud või teistele määruses nimetatud nõuetele;
+
+2\) taotleja mõjutab taotluse menetlemist pettuse või ähvardusega või muul õigusvastasel viisil;
+
+3\) taotleja ei ole nõus taotluse osalise rahuldamisega;
+
+4\) taotleja ei võimalda taotluse nõuetele vastavust kontrollida.
+
+(3<sup>1</sup>) Toetuse andja võib jätta taotluse rahuldamata, kui taotlejale eelmiseks toetuse maksmise perioodiks määratud toetust on käesolevas määruses sätestatud nõuete rikkumise tõttu korduvalt vähendatud.
+
+\[RT I, 31.07.2026, 12 - jõust. 03.08.2026\]
+
+(4) Taotlejale saadetakse tema taotluse kohta tehtud otsus e-keskkonna kaudu.
+
+## § 11. Toetuse maksmine
+
+(1) Toetuse väljamakse tehakse toetuse saajale kvartaalselt iga kvartali esimese kuu 20. kalendripäevaks, välja arvatud esimene väljamakse, mis tehakse seitsme tööpäeva jooksul otsuse jõustumisest.
+
+\[RT I, 31.07.2026, 12 - jõust. 03.08.2026\]
+
+(2) Toetuse andja võib käesoleva paragrahvi lõikes 1 sätestatud tähtpäeval maksta juhendaja kohta, kelle nõutav kutse või katusorganisatsiooni kinnituskiri kvartali kestel aegub, toetuse välja osaliselt ja ülejäänu kümne tööpäeva jooksul pärast kutse uuendamist.
+
+(3) Käesoleva paragrahvi lõiget 1 ei kohaldata juhul, kui:
+
+1\) toetuse saajal on käesoleva määruse § 4 lõikes 9 sätestatud tähtpäeva seisuga riikliku maksu võlg või tähtpäevaks tasumata jäetud maksusummalt arvestatud intressivõlg ning see ei ole toetuse kvartaalse väljamakse tegemise ajaks tasutud;
+
+2\) toetuse saaja ei ole 1. aprilli, 1. juuli või 1. oktoobri seisuga täitnud käesoleva määruse § 12 lõikest 1 tulenevat kohustust või
+
+3\) toetuse saaja ei ole tähtajaks täitnud käesoleva määruse § 16 kohast tagasimaksunõuet.
+
+(4) Käesoleva paragrahvi lõike 3 punktis 1 sätestatud juhul tehakse toetuse väljamakse toetuse saajale kümne tööpäeva jooksul pärast seda, kui toetuse saaja on toetuse andjat võla tasumisest teavitanud. Kvartaalset toetusosa vähendatakse käesoleva määruse § 14 lõike 2 järgi.
+
+(5) Käesoleva paragrahvi lõike 3 punktides 2 ja 3 sätestatud juhtudel määrab toetuse andja toetuse saajale täiendava tähtaja käesoleva määruse § 12 lõikest 1 tuleneva kohustuse täitmiseks või käesoleva määruse § 16 kohase tagasimaksunõude täitmiseks. Tähtaegsel kohustuse täitmisel või tagasimaksunõude rahuldamisel makstakse kvartaalne toetusosa välja täies ulatuses.
+
+## § 12. Andmete kvartaalne kinnitamine ja muudatustest teavitamine
+
+(1) Toetuse saaja kinnitab taotluses esitatud andmete kehtivust 31. märtsiks, 30. juuniks ja 30. septembriks.
+
+(2) Kui taotluses esitatud andmed vajavad muutmist, teavitab toetuse saaja muutunud andmetest toetuse taotlemise e-keskkonnas viivitamata, kuid mitte hiljem kui viie tööpäeva jooksul.
+
+(3) Taotlusesse tehtud muudatused peavad vastama käesoleva määruse §-des 4–5 ja § 6 lõikes 1 esitatud nõuetele.
+
+## § 13. Toetuse kasutamise kontroll
+
+(1) Toetuse andja:
+
+1\) kontrollib kollektiivi ja juhendaja vastavust käesoleva määruse §-des 4–5 ja § 6 lõikes 1 esitatud nõuetele;
+
+2\) teeb vajaduse korral paikvaatluse vormis järelevalvet taotluses esitatud juhendamise töö reaalse toimumise üle.
+
+(2) Kui kontrolli käigus tuvastatakse käesoleva määruse nõuete rikkumine, teeb toetuse andja toetuse suuruse muutmise ja toetuse tagasimaksmise põhjendatud otsuse käesoleva määruse §-de 14 ja 16 järgi. Otsus edastatakse toetuse saajale kolme tööpäeva jooksul otsuse tegemisest arvates.
+
+(3) Toetuse saaja on kohustatud pidama toetuse kohta eraldi raamatupidamisarvestust kulude osas.
+
+\[RT I, 12.07.2022, 4 - jõust. 01.01.2023\]
+
+## § 14. Toetuse suuruse muutmine
+
+(1) Kui toetuse saaja ei vasta käesoleva määruse § 4 lõikes 8 sätestatud nõudele, vähendatakse määratud toetust proportsionaalselt ajaga, mis jääb nõuete täitmise tähtpäevast toetusperioodi lõpuni.
+
+(2) Kui toetuse saajal on käesoleva määruse § 4 lõikes 9 sätestatud tähtpäeva seisuga riikliku maksu võlg või tähtpäevaks tasumata jäetud maksusummalt arvestatud intressivõlg, vähendatakse määratud toetust proportsionaalselt ajaga, mis jääb käesoleva määruse § 4 lõikes 9 sätestatud tähtpäeva ja võla tasumise vahele.
+
+(3) Kui toetuse saaja ei täida toetuse andja korduvast nõudmisest hoolimata käesoleva määruse § 4 lõikes 11 sätestatud kohustust, võib toetuse andja vähendada määratud toetust proportsionaalselt ajaga, mis jääb toetuse andja määratud kohustuse täitmise tähtpäeva ja kohustuse täitmise vahele.
+
+(4) Kui toetuse saamisega seotud juhendaja ei vasta käesoleva määruse §-s 5 ja § 6 lõikes 1 sätestatud nõuetele, vähendatakse määratud toetust proportsionaalselt ajaga, mis jääb nõuetele mittevastavuse tuvastamise ja nõuete täitmise vahele.
+
+(5) Kui toetuse saamisega seotud kollektiiv ei vasta käesoleva määruse § 4 lõigetes 1–5 sätestatud nõuetele, võib toetuse andja vähendada määratud toetust proportsionaalselt ajaga, mis jääb nõuetele mittevastavuse tuvastamise ja nõuete täitmise vahele.
+
+(6) Kui toetuse saaja ei ole tasunud vähemalt makstava toetuse suuruse ja käesoleva määruse § 6 lõikes 1 sätestatud kohustuse summale vastavas ulatuses kohustuslikke makse ja makseid juhendajate kohta, kelle tööjõukulude katteks toetus anti, vähendatakse määratud toetust tasumata jäetud maksude ja maksete järgi.
+
+(7) Käesoleva määruse § 5 lõikes 5 toodud juhul makstakse toetuse saajale toetust uue juhendaja eest käesoleva määruse § 6 lõikes 2 sätestatud korras, kuid mitte rohkem kui taotlusperioodiks algul määratud summa.
+
+(8) Kui toetuse saaja ei täida käesoleva määruse § 12 lõikest 1 tulenevat kohustust või käesoleva määruse § 16 kohast tagasimaksunõuet käesoleva määruse § 11 lõike 5 kohaselt määratud täiendava tähtaja jooksul, vähendatakse määratud toetust proportsionaalselt ajaga, mis jääb käesoleva määruse § 12 lõikest 1 tuleneva kohustuse puhul samas lõikes nimetatud tähtpäeva või käesoleva määruse § 16 kohase tagasimaksunõude puhul toetuse andja määratud tähtpäeva ning kohustuse täitmise või tagasimaksunõude rahuldamise vahele.
+
+(9) Kui toetuse saaja ei täida käesoleva määruse § 12 lõikest 2 tulenevat kohustust, võib toetuse andja vähendada määratud toetust proportsionaalselt ajaga, mis jääb andmete muutumise ja andmete parandamise vahele.
+
+(10) Kui toetuse saajale määratud toetust on käesoleva paragrahvi lõigete 4–6 alusel vähendatud, võib seda andmete muutumisel taas suurendada, kuid mitte rohkem kui toetusperioodiks algul määratud summani, millest on maha arvatud käesoleva paragrahvi lõigete 2, 3, 8 ja 9 alusel otsustatud vähendamised.
+
+## § 15. Toetuse kasutamisega seotud aruande esitamine
+
+(1) Toetuse saaja esitab toetuse andjale aruande toetuse rahuldamise otsuses märgitud kuupäevaks.
+
+(2) Aruanne peab sisaldama tõendeid kollektiivi juhendamisega seotud tööjõukulude igakuisest väljamaksmisest juhendajale taotluses toodud perioodi eest ning see peab kajastama toetuse saajale määratud toetuse kasutamist.
+
+\[RT I, 31.07.2026, 12 - jõust. 03.08.2026\]
+
+(3) Aruanne tuleb esitada e-keskkonna kaudu.
+
+(4) Toetuse andja menetleb aruannet 60 tööpäeva jooksul selle esitamisest arvates.
+
+## § 16. Toetuse tagasinõudmine ja -maksmine
+
+(1) Toetuse vähendamisel käesoleva määruse § 14 lõigetes 1–9 sätestatud alustel nõuab toetuse andja taotlejalt enammakstud toetuse tagasi. Kui toetuse saaja on vähendanud toetuse maksmise perioodil kontakttundide arvu, nõuab toetuse andja kasutamata jäänud toetuse tagasi.
+
+(2) Käesoleva määruse alusel antud toetus nõutakse ning makstakse tagasi riigieelarve seaduse § 55<sup>1</sup> alusel ja korras.
+
+(3) Lisaks riigieelarve seaduse § 55<sup>1</sup> lõikes 1 nimetatud alustele võib toetuse andja teha otsuse toetuse osalise või täieliku tagasinõudmise kohta, kui:
+
+1\) toetuse saaja ei ole esitanud aruannet toetuse rahuldamise otsuses märgitud kuupäevaks;
+
+2\) toetuse saaja ei ole täitnud toetuse igakuise väljamaksmise kohustust;
+
+3\) toetuse saaja ei ole täitnud eraldi raamatupidamisarvestuse pidamise kohustust.
+
+\[RT I, 31.07.2026, 12 - jõust. 03.08.2026\]
+
+## § 17. Rakendussätted
+
+(1) Toetuse taotlemisel 2021. aasta eest on kaks taotlusvooru:
+
+1\) esimene taotluste esitamise periood on 1. märts kuni 31. märts 2021;
+
+2\) teine taotluste esitamise periood on 1. august kuni 31. august 2021.
+
+(2) Taotluse rahuldamise või rahuldamata jätmise otsused 2021. aasta eest teeb Eesti Rahvakultuuri Keskuse direktor esimese taotlusvooru kohta 25. maiks ja teise taotlusvooru kohta 25. oktoobriks.
+
+(3) Toetus esimese taotlusvooru raames määratakse taotlejale tagasiulatuvalt 2021. aasta eest sellest kuupäevast arvates, millal taotleja, toetuse saamisega seotud kollektiiv ja juhendaja ja/või taotlus vastavad käesoleva määruse §-des 4–5, § 6 lõikes 1 ja §-s 8 sätestatud tingimustele ja teistele käesolevas määruses nimetatud nõuetele.
+
+(4) Toetus teise taotlusvooru raames määratakse taotlejale tagasiulatuvalt 2021. aasta eest sellest kuupäevast arvates, millal taotleja, toetuse saamisega seotud kollektiiv ja juhendaja ja/või taotlus vastavad käesoleva määruse §-des 4–5, § 6 lõikes 1 ja §-s 8 sätestatud tingimustele ja teistele käesolevas määruses nimetatud nõuetele, kuid seda ei määrata rohkem kui alates 1. aprillist 2021.
+
+(5) Toetuse väljamaksed esimese taotlusvooru eest 2021. aastal tehakse 20. juuniks ja 20. oktoobriks. Toetuse saaja kinnitab taotluses esitatud andmete kehtivust 2021. aasta 30. septembriks.
+
+(6) Toetuse väljamaksed teise taotlusvooru eest 2021. aastal tehakse 10. novembriks.
+
+(7) Kui taotluses esitatud andmed vajavad muutmist, teavitab toetuse saaja muutunud andmetest toetuse taotlemise e-keskkonnas viivitamata, kuid mitte hiljem kui viie tööpäeva jooksul.
+
+(8) Taotlusesse tehtud muudatused peavad vastama käesoleva määruse §-des 4–5, § 6 lõikes 1 ja §-s 8 esitatud nõuetele.
+
+## § 17<sup>1</sup>. Täiendav taotlusvoor 2022. aastal
+
+(1) 2022. aastal on täiendav taotlusvoor taotluste esitamise perioodiga 15. august kuni 31. august 2022.
+
+(2) Taotluse rahuldamise või rahuldamata jätmise otsused teeb Eesti Rahvakultuuri Keskuse direktor hiljemalt 2022. aasta 25. oktoobriks.
+
+(3) Toetus käesoleva paragrahvi lõikes 1 nimetatud taotlusvooru raames määratakse taotlejale tagasiulatuvalt 2022. aasta eest sellest kuupäevast arvates, millal taotleja, toetuse saamisega seotud kollektiiv ja juhendaja ja/või taotlus vastavad käesoleva määruse §-des 4–5 ja §-s 8 sätestatud tingimustele ja teistele käesolevas määruses nimetatud nõuetele. Toetust makstakse juhul, kui taotleja on maksnud juhendajale vähemalt Kultuuriministeeriumi ja Teenistujate Ametiliitude Keskorganisatsiooni (TALO) vahel kokku lepitud ja 2021. aastal kehtinud kultuuritöötaja brutotöötasu alammäära ja juhendaja täiskoormuse (84 kontakttunni) jagamisel saadud kontakttunni tasu, millele lisanduvad sotsiaalmaks ja töötuskindlustusmakse.
+
+(4) Toetuse väljamaksed käesoleva paragrahvi lõikes 1 sätestatud taotlusvooru eest tehakse hiljemalt 2022. aasta 10. novembriks.
+
+(5) Kui taotluses esitatud andmed vajavad muutmist, teavitab toetuse saaja muutunud andmetest toetuse taotlemise e-keskkonnas viivitamata, kuid mitte hiljem kui viie tööpäeva jooksul.
+
+\[RT I, 12.07.2022, 4 - jõust. 15.07.2022\]

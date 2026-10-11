@@ -1,0 +1,445 @@
+---
+title: "Muinsuskaitse, muuseumide ja raamatukogude valdkonna partnerorganisatsioonide toetamise tingimused ja kord"
+identifier: "104012019021"
+rt_reference: "RT I, 04.01.2019, 21"
+group_id: "1045709"
+type: regulation
+issuer: "Kultuuriminister"
+number: "21"
+text_type: "algtekst-terviktekst"
+jurisdiction: ee
+language: et
+date: 2018-12-31
+last_amended: 2019-01-07
+status: in_force
+source: "https://www.riigiteataja.ee/akt/104012019021"
+retrieved: 2026-10-12
+---
+
+# Muinsuskaitse, muuseumide ja raamatukogude valdkonna partnerorganisatsioonide toetamise tingimused ja kord
+
+Määrus kehtestatakse riigieelarve seaduse § 53<sup>1</sup> lõike 1 alusel.
+
+## 1. peatükk — Üldsätted
+
+### § 1. Reguleerimisala
+
+(1) Määrusega kehtestatakse taotlusvoorust „Muinsuskaitse, muuseumide ja raamatukogude valdkonna partnerorganisatsioonide tegevustoetus” (edaspidi *taotlusvoor*) vahendite saamiseks ning saadud vahendite kasutamiseks tingimused ja kord.
+
+(2) Määruses reguleerimata küsimustele kohaldatakse haldusmenetluse seadust.
+
+(3) Määruse rakendamise eest vastutab Kultuuriministeerium (edaspidi *toetuse andja*).
+
+### § 2. Toetuse andmise eesmärk ja tulemus
+
+(1) Toetuse andmise eesmärk on kaasata muinsuskaitse, muuseumide ja raamatukogude valdkonda tervikuna hõlmavaid partnerorganisatsioone kultuuripoliitika kujundamisse ja tegevuste elluviimisse, arendada ja suurendada partnerorganisatsioonide vabatahtlike liikmete võrgustikku ja organisatsioonilist suutlikkust, tõsta traditsiooniliste ja innovaatiliste tegevuste kvaliteeti, suurendada rahvusvahelist, valdkondadevahelist ja -ülest võimekust, edendada koostööd ning tõsta valdkonna töötajate professionaalsust.
+
+(2) Toetuse andmise tulemusena on paranenud muinsuskaitse, muuseumide ja raamatukogude valdkonna arengu võimalused, mõju ühiskonnas ning riigisisene ja rahvusvaheline koostöö.
+
+### § 3. Toetatavad tegevused
+
+(1) Toetust antakse tegevustele, mille elluviimine panustab käesoleva määruse §-s 2 nimetatud eesmärkide ja tulemuste saavutamisse ning mille raames
+
+1\) arendatakse muinsuskaitse, muuseumide ja raamatukogude valdkonda ja töötajate kutseharidust või erialast pädevust;
+
+2\) ühendatakse vabatahtlikke või töötajaid valdkonnas tervikuna või valdkondadevaheliselt, üle-Eestiliselt või rahvusvaheliselt;
+
+3\) tehakse ühistegevusi ja kaasamist;
+
+4\) kujundatakse avalikku arvamust valdkonnas ja korraldatakse valdkonda tutvustavaid üritusi;
+
+5\) avaldatakse erialaseid väljaandeid.
+
+(2) Toetust ei anta tegevustele, mis on ellu viidud enne taotluse esitamist.
+
+(3) Igast taotlusvoorust toetatakse vähemalt ühte muinsuskaitse, muuseumi ja raamatukogu valdkonna partnerorganisatsiooni, kes vastab käesolevas määruses sätestatud nõuetele.
+
+## 2. peatükk — Nõuded taotlejale ja taotlusele ning toetuse taotlemine
+
+### § 4. Nõuded taotlejale
+
+(1) Taotlejaks võib olla Eestis registreeritud eraõiguslik juriidiline isik, kelle põhikirjajärgne tegevus on muinsuskaitse või muuseumide või raamatukogude
+
+1\) valdkonna arendamine ja töötajate kutsehariduse või erialaste pädevuste arendamine;
+
+2\) valdkonna vabatahtlike või töötajate ühendamine valdkonnas tervikuna või valdkondadevaheliselt, üle-Eestiliselt või rahvusvaheliselt;
+
+3\) kaasamine ning koostöö edendamine asutuste ja organisatsioonidega;
+
+4\) valdkonda tutvustavate ürituste korraldamine.
+
+(2) Taotleja peab vastama järgmistele nõuetele:
+
+1\) ta peab olema tegutsenud käesoleva paragrahvi lõikes 1 nimetatud tegevusalal vähemalt kolm viimast aastat enne taotluse esitamist;
+
+2\) tal ei ole maksu- või maksevõlga riigi ees või see on ajatatud;
+
+3\) ta ei ole pankrotis, likvideerimisel ega sundlõpetamisel ning tal ei ole kehtivat äriregistrist kustutamise hoiatust;
+
+4\) juhul kui toetuse andja on teinud talle varasemalt toetuse tagasinõudmise otsuse, ei tohi tal olla otsuse kohaselt tagasimaksmisele kuuluv toetus tähtajaks tagasi maksmata;
+
+5\) ta on suutlik käesoleva määruse § 10 lõikes 2 nimetatud omafinantseeringut ja mitteabikõlblike kulusid tasuma;
+
+6\) tal ei ole majandusaasta aruande esitamise võlga;
+
+7\) tema liikmeskond ei koosne ainult juriidilistest isikutest;
+
+8\) tal ei ole muid täitmata kohustusi toetuse andja ees.
+
+### § 5. Nõuded taotlusele
+
+(1) Tegevuste abikõlblikkuse periood peab vastama käesoleva määruse §-s 9 sätestatud tingimustele.
+
+(2) Taotletud toetuse suurus peab jääma käesoleva määruse §-s 10 sätestatud osakaalu piiridesse ning sisaldama nõutud määra omafinantseeringut.
+
+(3) Taotlus peab muuhulgas sisaldama järgmisi andmeid ja dokumente:
+
+1\) üldandmed taotleja kohta, sealhulgas käibemaksukohustuslase number, taotleja suurus ja pangakonto andmed;
+
+2\) andmed kontaktisikute kohta;
+
+3\) eelarve tegevuste lõikes, tegevuste üldmaksumus, taotletava toetuse summa, omafinantseeringu ja kaasfinantseeringu summa;
+
+4\) kehtiv arengukava;
+
+5\) kolme viimase aasta olulisemate tegevuste loetelu ja toetuse kavandatava kasutusaasta tegevuste kava ning eelarve;
+
+6\) volikiri, kui taotleja esindusõiguslik isik tegutseb volituse alusel ja volitus ei ole antud Kultuuriministeeriumi toetuste taotlemise e-keskkonna (edaspidi *e-keskkond*) kaudu.
+
+(4) Kui taotleja on taotlenud samadele tegevustele toetust samal ajal mitmest meetmest või muudest riigieelarvelistest, Euroopa Liidu või välisabi vahenditest, peab taotluses olema esitatud sellekohane teave.
+
+### § 6. Taotlusvooru avamine
+
+(1) Taotlusvooru eelarve kinnitab kultuuriminister Kultuuriministeeriumi valitsemisala eelarve käskkirjaga.
+
+(2) Taotluste esitamise tähtajast ja taotlusvooru eelarvest teavitab toetuse andja oma veebilehel vähemalt 14 kalendripäeva enne taotlusvooru avamise päeva.
+
+### § 7. Taotluse esitamine
+
+(1) Taotlus tuleb esitada käesoleva määruse § 6 lõike 2 kohaselt teatatud tähtaja jooksul.
+
+(2) Taotluse peab esitama esindusõiguslik isik e-keskkonna kaudu. Toetuse andja saadab taotlejale kinnituse taotluse kättesaamise kohta.
+
+(3) Kui taotluse esitamisel esineb e-keskkonnas tehniline viga, mis takistab taotluse tähtaegset esitamist, loetakse taotluse esitamise tähtpäevaks järgmine tööpäev pärast vea likvideerimist.
+
+## 3. peatükk — Kulude abikõlblikkus ja toetuse määr
+
+### § 8. Kulude abikõlblikkus
+
+(1) Kulu on abikõlblik, kui see on tegevuste elluviimiseks vajalik, põhjendatud, tekib abikõlblikkuse perioodil tehtavate toetatavate tegevuste käigus ning on kooskõlas õigusaktidega, sealhulgas
+
+1\) on tasutud toetuse saaja arvelduskontolt, välja arvatud kui omafinantseeringusse ja/või kaasfinantseeringusse panustab kolmas isik või koostööpartner;
+
+2\) on tõendatud algdokumendiga;
+
+3\) on tehtud järgides riigihangete seaduse põhimõtteid kooskõlas käesoleva määruse § 20 punktiga 4;
+
+4\) on selgelt eristatavalt kirjendatud raamatupidamises ja vastab Eesti finantsaruandluse standardile.
+
+(2) Kulu loetakse põhjendatuks, kui kulu on sobiv, vajalik ja tõhus käesoleva määruse §-s 2 nimetatud eesmärkide ja tulemuste saavutamiseks ning tekib käesoleva määruse § 3 lõikes 1 nimetatud tegevuste käigus.
+
+(3) Mitteabikõlblik kulu on
+
+1\) käibemaks, välja arvatud kui käibemaks ei ole käibemaksuseaduse alusel tagasi saadav;
+
+2\) remondi- ja investeeringukulu;
+
+3\) rahatrahv ja rahaline karistus;
+
+4\) sularahas tasutud kulu;
+
+5\) kohtumenetluse kulu, sealhulgas vastaspoole ja kolmanda isiku menetluskulu;
+
+6\) kulu, mis on toetuse saajale hüvitatud teistest meetmetest, riigieelarve, muu avaliku sektori või välisabi vahenditest.
+
+### § 9. Tegevuste abikõlblikkuse periood
+
+(1) Abikõlblikkuse periood algab taotlusvooru toimumise kalendriaasta 1. jaanuarist või taotluses märgitud hilisemast kuupäevast, kuid ei või olla pikem kui taotlusvooru toimumise kalendriaasta 31. detsember.
+
+(2) Toetuse saaja võib taotleda abikõlblikkuse perioodi pikendamist järgmistel tingimustel:
+
+1\) tegevuste elluviimisel on ilmnenud toetuse saajast sõltumatud, erakordsed ja/või ettenägematud asjaolud ja
+
+2\) taotluse abikõlblikkuse perioodi pikendamiseks on esitanud toetuse saaja enne abikõlblikkuse perioodi lõppu.
+
+(3) Taotlus abikõlblikkuse perioodi pikendamiseks tuleb esitada toetuse saaja esindusõiguslikul isikul e-keskkonna kaudu.
+
+(4) Abikõlblikkuse perioodi pikendamise taotluse rahuldamisest või mitterahuldamisest teavitab toetuse andja toetuse saajat e-keskkonna kaudu kümne tööpäeva jooksul taotluse esitamisest arvates.
+
+(5) Kui abikõlblikkuse perioodi pikendamise taotlus on rahuldatud, loetakse abikõlblikkuse perioodi kestuse lõpuks muudatustaotluses sätestatud kuupäev.
+
+(6) Toetuse andja loeb tegevused lõppenuks pärast aruande kinnitamist, sellest teavitatakse taotlejat e-keskkonna kaudu.
+
+### § 10. Toetuse osakaal
+
+(1) Toetuse maksimaalne osakaal taotluse eelarves esitatud abikõlblikest kuludest on 80%.
+
+(2) Oma- või kaasfinantseering peab katma kuludest osa, mida toetusest ei hüvitata. Vähemalt 20% taotluse eelarves esitatud abikõlblikest kuludest peab toetuse saaja katma oma- või kaasfinantseeringu arvelt.
+
+## 4. peatükk — Taotluse menetlemine
+
+### § 11. Taotluse menetlemine
+
+(1) Taotluse menetlemise tähtaeg on kuni 90 tööpäeva alates taotlusvooru sulgemisest.
+
+(2) Taotluse tähtajaks esitamata jätmisel jäetakse taotlus läbi vaatamata.
+
+(3) Kui taotleja on taotluse esitamise tähtaja ületanud mõjuval põhjusel, võib toetuse andja oma algatusel või taotleja taotluse alusel tähtaja ennistada haldusmenetluse seaduse §-s 34 sätestatud korras.
+
+(4) Taotluse menetlemise käigus võib toetuse andja nõuda taotlejalt selgitusi, lisainformatsiooni, taotluse täiendamist või muutmist, kui ta leiab, et taotlus ei ole piisavalt selge, selles esinevad puudused ja/või taotluses esitatud informatsiooni alusel ei ole võimalik taotlust hinnata.
+
+(5) Käesoleva paragrahvi lõikes 4 nimetatud puuduste kõrvaldamiseks võib toetuse andja anda taotlejale kuni viis tööpäeva. Kui taotleja ei ole tähtaja jooksul puudusi kõrvaldanud, jätab toetuse andja taotluse läbi vaatamata ja sisuliselt hindamata. Toetuse andja teavitab sellest taotlejat e-keskkonna kaudu kümne tööpäeva jooksul alates käesolevas lõikes toodud tähtaja saabumisest. Kui puudus kõrvaldatakse, loetakse puudusega seotud nõue täidetuks.
+
+(6) Toetuse andjal on õigus teha taotlejale ettepanek muuta taotluse eelarvet ja kavandatud tegevusi tingimusel, et tegevuste eesmärgid ei muutu.
+
+(7) Toetuse andja tunnistab taotleja ja taotluse nõuetele vastavaks juhul, kui on täidetud kõik käesoleva määruse §-des 4 ja 5 sätestatud nõuded.
+
+### § 12. Taotluse hindamine
+
+(1) Nõuetele vastavaks tunnistatud taotluseid hindab kultuuriministri moodustatud hindamiskomisjon.
+
+(2) Hindamiskomisjoni liikmete nimed avalikustab toetuse andja oma veebilehel hiljemalt 14 kalendripäeva enne taotlusvooru avamist.
+
+(3) Taotlusi hinnatakse järgmiste kriteeriumide alusel:
+
+1\) arengukava eesmärkide ja viimase kolme aasta tegevuste vastavus toetuse eesmärgile;
+
+2\) mõju võrgustikule ning senised kogemused ning suutlikkus tegevusi ellu viia;
+
+3\) viimase kolme aasta ürituste ja tegevuste, kohalikes ja rahvusvahelistes koostööprojektides osalemise, liikmete välismaal esitletud ettekannete tase, sealhulgas läbimõeldus, sisuline põhjendatus ning uuenduslikkus;
+
+4\) toetuse kavandatava kasutusaasta tegevuskava seotus Kultuuriministeeriumi valitsemisala arengukavaga ja kultuuripoliitika põhialustega;
+
+5\) toetuse kavandatava kasutusaasta tegevuste kvaliteet, kavandatavate ürituste ja tegevuste, kohalikes ja rahvusvahelistes koostööprojektides osalemiste, liikmete välismaal esitletavate ettekannete tase, sealhulgas läbimõeldus, sisuline põhjendatus ning uuenduslikkus;
+
+6\) toetuse kavandatava kasutusaasta eelarve kvaliteet, eelarve realistlikkus, kuluartiklite põhjendatus ning kaasfinantseeringu ja omafinantseeringu määr kogu eelarvest.
+
+(4) Hindamiskomisjon kaasab vajadusel hindamisprotsessi täiendavaid hääleõiguseta eksperte.
+
+(5) Hindamiskomisjoni liikmed ja eksperdid peavad kooskõlas korruptsioonivastase seadusega kinnitama hinnatava taotluse ja taotleja suhtes oma erapooletust ning sõltumatust. Seotuse olemasolul on hindamiskomisjoni liige ja/või ekspert kohustatud ennast haldusmenetluse seaduse §-s 10 toodud tingimustel ja korras taandama.
+
+(6) Hindamiskomisjon teeb kultuuriministrile ettepaneku taotluse rahuldamise ning põhjendatud juhtudel osalise rahuldamise või rahuldamata jätmise kohta.
+
+### § 13. Taotluse rahuldamise ja rahuldamata jätmise tingimused ja kord
+
+(1) Taotluse rahuldamise, osalise rahuldamise või rahuldamata jätmise otsuse teeb kultuuriminister.
+
+(2) Taotluse rahuldamise otsus tehakse juhul, kui taotleja ja taotlus vastavad kõigile käesolevas määruses nimetatud nõuetele ning taotlus kuulub hindamiskomisjoni hindamistulemuse põhjal rahuldamisele.
+
+(3) Taotluse võib rahuldada osaliselt, kui taotluse täies ulatuses rahuldamine ei ole võimalik taotlusvooru eelarve mahu tõttu ja/või kui see ei ole põhjendatud, arvestades taotlusvooru eesmärki, toetatavate tegevuste loetelu, hindamiskriteeriume ja nõudeid. Osalise rahuldamise ettepanek sisaldab ettepanekut taotletud toetuse vähendamiseks ja/või kavandatud toetatavate tegevuste muutmiseks. Taotluse võib osaliselt rahuldada tingimusel, et taotleja on sellega nõus. Taotleja võib nõustuda taotluse osalise rahuldamisega tingimusel, et taotluses toodud eesmärk on taotluse osalise rahuldamise korral saavutatav.
+
+(4) Taotluse rahuldamise otsuse võib teha haldusmenetluse seaduse § 53 tähenduses kõrvaltingimusega, kui on tõenäoline, et lõpliku otsuse tegemiseks vajalik eeldus saabub või täidetakse hiljemalt kõrvaltingimuses märgitud tähtaja jooksul ja kõrvaltingimuse seadmine on mõistlik. Kõrvaltingimuse nõuetekohasel saabumisel või täitmisel lisatakse sellekohane teave taotluse rahuldamise otsuse juurde.
+
+(5) Taotluse tingimusliku rahuldamise otsuse põhjal ei teki toetuse saajal õigust toetuse maksele. Õigus toetusega seotud maksele tekib toetuse saajal pärast seda, kui toetuse andja on tingimuse saabumise või täitmise tuvastanud toetuse saaja esitatud teabe põhjal, välja arvatud kui teavet on võimalik toetuse andjal tuvastada e-keskkonnast vm registrist või andmeallikast.
+
+(6) Taotluse rahuldamata jätmise otsus tehakse juhul, kui
+
+1\) taotleja ja/või taotlus ei vasta kasvõi ühele käesoleva määruse §-des 4 ja 5 või teistele käesolevas määruses nimetatud nõuetele;
+
+2\) taotleja mõjutab pettuse või ähvardusega või muul õigusvastasel viisil taotluse menetlemist;
+
+3\) taotleja ei võimalda taotluse nõuetele vastavust kontrollida;
+
+4\) hindamiskomisjoni hindamistulemuse põhjal ei kuulu taotlus rahuldamisele;
+
+5\) taotlusvooru eelarve mahu tõttu ei ole võimalik tegevusi toetada;
+
+6\) taotleja ei ole nõus käesoleva paragrahvi lõike 3 kohase taotluse osalise rahuldamise ettepanekuga toetuse vähendamise või kavandatud toetatavate tegevuste muutmise kohta.
+
+(7) Toetuse andja võib jätta taotluse rahuldamata, kui taotluses esitatud ja taotluse menetlemise raames kogutud teavet hinnates ilmneb, et tegevuste eesmärgid on saavutatavad ilma toetuseta.
+
+(8) Taotlejale saadetakse tema taotluse kohta tehtud otsus e-keskkonna kaudu.
+
+### § 14. Taotleja ja toetuse saaja ärakuulamine
+
+(1) Taotlejale antakse võimalus esitada oma seisukohad enne
+
+1\) taotluse osalist rahuldamist;
+
+2\) taotluse rahuldamata jätmist, välja arvatud kui otsus põhineb taotluses esitatud andmetel ja vajadusel puuduste kõrvaldamiseks esitatud teabel ning selgitustel.
+
+(2) Toetuse saajale antakse võimalus esitada oma seisukohad enne
+
+1\) taotluse rahuldamise otsuse kehtetuks tunnistamist või muutmist, välja arvatud juhul, kui toetuse saaja taotlus rahuldatakse täielikult;
+
+2\) toetuse tagasinõudmise otsuse tegemist.
+
+## 5. peatükk — Taotluse rahuldamise otsuse muutmine ja kehtetuks tunnistamine
+
+### § 15. Taotluse rahuldamise otsuse muutmine
+
+(1) Taotluse rahuldamise otsust muudetakse toetuse andja algatusel või toetuse saaja sellekohase kirjaliku avalduse alusel.
+
+(2) Taotluse rahuldamise otsust võib muuta kuni abikõlblikkuse perioodi lõpuni, kuid mitte pärast tegevuste lõppemist, ning tagasiulatuvalt alates muudatustaotluse esitamise kuupäevast, juhul, kui see aitab kaasa tegevuste tulemuste saavutamisele ja muudatus on põhjendatud.
+
+(3) Toetuse andjal on õigus keelduda taotluse rahuldamise otsuse muutmisest juhul, kui soovitav muudatus seab kahtluse alla tegevuste eesmärkide ja oodatavate tulemuste saavutamise või tegevuste lõpetamise abikõlblikkuse perioodil.
+
+(4) Taotluse rahuldamise otsuse muutmise otsustab toetuse andja 30 tööpäeva jooksul pärast vastavasisulise avalduse saamist ja teavitab sellest toetuse saajat e-keskkonna kaudu.
+
+### § 16. Taotluse rahuldamise otsuse kehtetuks tunnistamine
+
+(1) Taotluse rahuldamise otsus tunnistatakse täielikult või osaliselt kehtetuks järgmistel juhtudel:
+
+1\) ilmneb asjaolu, mille korral taotlust ei oleks rahuldatud või taotlus oleks rahuldatud osaliselt;
+
+2\) taotlemisel või tegevuste elluviimisel on teadlikult esitatud ebaõiget või mittetäielikku teavet või teave on jäetud teadlikult esitamata;
+
+3\) kõrvaltingimusega taotluse rahuldamise otsuse korral kõrvaltingimus ei saabu või kõrvaltingimust ei suudeta täita;
+
+4\) toetuse saaja avaldust taotluse rahuldamise otsuse muutmiseks ei rahuldata ja toetuse saajal ei ole toetuse kasutamist ettenähtud tingimustel võimalik jätkata;
+
+5\) toetuse saaja esitab avalduse toetuse kasutamisest loobumise kohta.
+
+(2) Toetuse saajal tuleb saadud toetus taotluse rahuldamise otsuse osaliselt või täielikult kehtetuks tunnistamise otsuse kohaselt tagastada.
+
+## 6. peatükk — Toetuse maksmise tingimused ja aruande esitamine
+
+### § 17. Toetuse maksmise tingimused
+
+(1) Toetus maksatakse toetuse saajale välja ettemaksena 14 tööpäeva jooksul pärast taotluse rahuldamise otsuse tegemist.
+
+(2) Kui taotluse rahuldamise otsus tehakse kõrvaltingimusega, makstakse toetus välja pärast kõrvaltingimuse saabumist või täitmist.
+
+### § 18. Toetuse kasutamisega seotud aruande esitamine
+
+(1) Toetuse saaja esitab aruande toetuse andjale e-keskkonna kaudu 30 kalendripäeva jooksul peale abikõlblikkuse perioodi.
+
+(2) Toetuse andja menetleb aruannet kuni 90 tööpäeva esitamisest arvates.
+
+(3) Aruande esitamise tähtaega võib põhjendatud juhtudel toetuse saaja avalduse alusel pikendada tingimusel, et toetuse saaja on esitanud pikendamise taotluse enne käesoleva paragrahvi lõikes 1 toodud tähtaja saabumist.
+
+(4) Kui aruandes on puudusi, võib toetuse andja anda toetuse saajale kuni kümme tööpäeva puuduste kõrvaldamiseks, mil peatub käesoleva paragrahvi lõikes 2 toodud aruande menetlemise aeg.
+
+(5) Toetuse andja kinnitab aruande, kui toetuse saaja on käesoleva paragrahvi lõike 4 kohase tähtaja jooksul puudused kõrvaldanud, toetuse andja ei ole tuvastanud toetuse kasutamisega seotud rikkumist ning toetuse saaja on tagastanud toetuse andjale toetuse kasutamata jäägi.
+
+## 7. peatükk — Toetuse tagasinõudmine
+
+### § 19. Toetuse tagasinõudmine ja tagasimaksmine
+
+(1) Otsuse toetuse osalise või täieliku tagasinõudmise kohta teeb toetuse andja kaalutlusõiguse kohaselt järgmistel juhtudel:
+
+1\) toetust on kasutatud mitteabikõlbliku kulu hüvitamiseks;
+
+2\) käesoleva määruse §-s 2 toodud eesmärki ja tulemust ei saavutatud ja/või ei viidud ellu taotluses ettenähtud tegevusi;
+
+3\) abikõlblike kulude maksumus kujunes planeeritust väiksemaks;
+
+4\) toetuse saaja on jätnud osaliselt või täielikult täitmata kohustuse või nõude ja see on mõjutanud kulu abikõlblikkust;
+
+5\) toetuse saaja on esitanud valeandmeid või varjanud neid;
+
+6\) aruanne ei ole esitatud tähtajaks;
+
+7\) toetuse saaja suhtes on algatatud likvideerimis- või pankrotimenetlus.
+
+(2) Toetuse tagasinõudmise otsust ei tehta
+
+1\) kui puudus kõrvaldatakse või kohustus või nõue täidetakse;
+
+2\) kui toetuse saaja avastas ja teatas toetuse andjale esimesel võimalusel, et talle on hüvitatud mitteabikõlblik kulu, ning tagastas toetuse.
+
+(3) Toetuse tagasinõudmise otsuse võib teha kolme aasta jooksul toetuse saaja viimase kohustuse täitmise lõppemisest arvates.
+
+(4) Toetuse saaja peab maksma toetuse tagasinõudmise otsuses nimetatud toetuse tagasi 60 kalendripäeva jooksul otsuse kehtima hakkamise päevast arvates.
+
+(5) Kui ilmneb, et toetuse saaja on eiranud oma kohustusi või talle kehtestatud nõudeid ja rikkumine tõi kaasa rahalise mõju, kuid toetuse andjal ei ole võimalik rahalise mõju suurust hinnata, vähendatakse toetust protsentuaalselt olenevalt rikkumise raskusest ja mõjust kulu abikõlblikkusele.
+
+(6) Tagasimaksmisele kuuluva toetuse võib ajatada toetuse saaja põhjendatud taotluse alusel, kui korraga maksmine seab toetuse saaja olulisel määral makseraskustesse.
+
+(7) Toetuse tagasimaksmise ajatamiseks esitab toetuse saaja toetuse andjale hiljemalt kümne tööpäeva jooksul toetuse tagasinõudmise otsuse kättesaamisest arvates taotluse, milles on toodud ajatamise vajaduse põhjendus ja soovitud tagasimaksmise ajatamiskava. Ajatamise taotlusele peab toetuse saaja lisama finantsseisu kajastavad dokumendid, mida toetuse andja nõuab.
+
+(8) Ajatamise taotluse rahuldamise või rahuldamata jätmise kohta teeb toetuse andja otsuse kümne tööpäeva jooksul ajatamise taotluse saamisest arvates. Põhjendatud juhul võib otsuse tegemise tähtaega pikendada mõistliku aja võrra, teavitades sellest toetuse saajat.
+
+(9) Toetuse tagasimaksmise ajatamise perioodi määrab toetuse andja.
+
+(10) Ajatamise taotluse rahuldamise või rahuldamata jätmise otsuse võib teha koos toetuse tagasinõudmise otsusega. Ajatamise taotluse rahuldamise või rahuldamata jätmise otsus saadetakse toetuse saajale e-keskkonna kaudu või tähtkirjaga posti teel.
+
+(11) Kui toetuse saaja ei maksa ajatamiskava kohaselt toetust tagasi, võib ajatamise otsuse tunnistada kehtetuks. Ajatamise otsuse kehtetuks tunnistamise korral peab toetuse saaja maksma toetuse tagasi kolmekümne kalendripäeva jooksul ajatamise otsuse kehtetuks tunnistamise otsuse kehtima hakkamisest arvates.
+
+(12) Kui tagasimaksmisele kuuluvat toetust tähtaja jooksul tagasi ei maksta, nõuab toetuse andja tagasimaksmisele kuuluva toetuse tagasi eraõiguses alusetu rikastumise kohta kehtivate sätete kohaselt.
+
+## 8. peatükk — Toetuse saaja ja toetuse andja õigused ja kohustused
+
+### § 20. Toetuse saaja kohustused
+
+Toetuse saaja tagab käesolevas määruses sätestatud kohustuste täitmise ja tegevuste eduka elluviimise käesolevas määruses ning taotluse rahuldamise otsuses fikseeritud tähtaegade ja tingimuste kohaselt, sealhulgas
+
+1\) kasutab toetust taotluses, taotluse rahuldamise otsuses ja käesolevas määruses sätestatu järgi;
+
+2\) tagab nõutud ulatuses oma- või kaasfinantseeringu;
+
+3\) esitab toetuse andjale tähtajaks nõutud teabe ja aruande;
+
+4\) järgib teenuste ostmisel riigihangete seaduse §-s 3 toodud põhimõtteid ning võtab vähemalt kaks võrreldavat hinnapakkumist üksteisest sõltumatult pakkujalt kõikide kulutuste kohta, mille korral toetuse saaja teostab tegevuste elluviimiseks üheliigiliste teenuste, materiaalsete või immateriaalsete varade ostutehingu, mille maksumus on ilma käibemaksuta võrdne 5000 euroga või ületab seda. Juhul kui kahte sõltumatut hinnapakkumist ei ole võimalik esitada või kui odavaimat pakkumist ei valita, tuleb esitada sellekohane põhjendus;
+
+5\) säilitab toetuse kulu abikõlblikkust tõendavad dokumendid ja muud tõendid raamatupidamisseaduses sätestatud tähtaegade järgi;
+
+6\) annab toetuse andjale tegevuste elluviimise, sealhulgas toetuse kasutamise kohta suulisi ja kirjalikke selgitusi ning andmeid, sealhulgas väljavõtteid raamatupidamisprogrammist ja pangakontost kolme tööpäeva jooksul alates sellekohasest nõudmisest, ning võimaldab teha dokumentidest koopiaid ja väljavõtteid;
+
+7\) võimaldab toetuse andjal kohapeal toetuse kasutust kontrollida ning osutab selleks igakülgset abi;
+
+8\) peab tegevustega seotud abikõlblike kulude, mitteabikõlblike kulude ja tulude kohta eraldi raamatupidamisarvestust;
+
+9\) teavitab toetuse andjat viivitamata kirjalikult või kirjalikku taasesitamist võimaldavas vormis taotluses esitatud või tegevustega seotud andmete muutumisest, tegevuste elluviimist takistavast asjaolust, sealhulgas pankrotimenetlusest, likvideerimismenetlusest ning tegevustega seotud vara üleandmisest teisele isikule või asutusele;
+
+10\) tagastab toetuse kasutamata jäägi;
+
+11\) tagastab toetuse, kui toetuse andja esitab toetuse tagasinõude.
+
+### § 21. Toetuse saaja õigused
+
+Toetuse saajal on õigus
+
+1\) saada toetuse andjalt informatsiooni ja nõuandeid, mis on seotud õigusaktides, käesolevas määruses või taotluse rahuldamise otsuses sätestatud nõuete ja toetuse saaja kohustustega;
+
+2\) esitada oma seisukohad puuduste kõrvaldamise raames ja käesoleva määruse § 14 lõikes 2 sätestatud juhtudel;
+
+3\) tutvuda tema kohta koostatud dokumendis sisalduva või sellega lahutamatult seotud teabega avaliku teabe seaduses sätestatud korras;
+
+4\) toetusest loobuda või toetus tagastada igal ajal täies ulatuses.
+
+### § 22. Toetuse andja kohustused
+
+Toetuse andja on kohustatud
+
+1\) edastama taotlejale või toetuse saajale käesoleva määrusega reguleeritud otsused käesolevas määruses sätestatud aja jooksul;
+
+2\) säilitama toetuse taotlemise, andmise ja muude dokumentide ning teabega seotud tõendeid vastavalt raamatupidamisseaduses sätestatud tähtaegadele;
+
+3\) kontrollima tegevuste elluviimist;
+
+4\) tegema taotlus- ja aruandevormi ning asjakohased juhendmaterjalid kättesaadavaks e-keskkonnas;
+
+5\) teavitama toetuse saajat viivitamatult käesolevas määruses ja muudes toetuse kasutamist reguleerivates õigusaktides tehtud muudatustest;
+
+6\) tegema muid käesolevas määruses ja kohalduvates õigusaktides sätestatud toiminguid.
+
+### § 23. Toetuse andja õigused
+
+Toetuse andjal on õigus
+
+1\) kontrollida toetuse saaja territooriumil tegevustega seotud kuludokumente ja tegevuste elluviimist, sealhulgas toetuse kasutamise vastavust käesolevale määrusele ning taotluse rahuldamise otsusele;
+
+2\) nõuda taotluses sisaldunud tegevuste kestuse, eesmärkide, tulemuste ja kulude kohta täiendavate andmete ja dokumentide esitamist, mis tõendavad tegevuste nõuetekohast teostamist ning toetuse saaja kohustuste nõuetekohast täitmist;
+
+3\) kontrollida taotluse menetlemisel taotleja mitteabikõlblike kulude tasumise suutlikkust;
+
+4\) kontrollida toetuse ning oma- ja kaasfinantseeringu kasutamist;
+
+5\) jätta toetus välja maksmata ja/või nõuda toetuse osalist või täielikku tagastamist, kui toetuse saaja rikub käesolevas määruses ja/või taotluse rahuldamise otsuses sätestatud tingimusi või kaldub muul viisil kõrvale taotluses või taotluse rahuldamise otsuses või käesolevas määruses sätestatust;
+
+6\) vähendada proportsionaalselt toetuse suurust taotluse rahuldamise otsuses kinnitatud tegevuste maksumuse vähenemisel;
+
+7\) keelduda toetuse maksmisest, kui toetuse saaja majanduslik olukord on selliselt halvenenud, et toetuse kasutamine või tegevuste elluviimine on ohustatud;
+
+8\) keelduda toetuse maksmisest, kui toetuse saajal on tekkinud maksu- või maksevõlg riigi ees ja see on ajatamata;
+
+9\) otsustada kaalutlusõigusele tuginedes käesoleva määruse § 19 kohane toetuse tagasinõudmise ulatus;
+
+10\) pikendada toetuse saajast mitteolenevate asjaolude ilmnemisel vastavasisulise taotluse olemasolul tegevuste elluviimise aega ja sellest tulenevalt abikõlblikkuse perioodi.
+
+---
+
+Indrek Saar, Minister
+
+Tarvi Sits, Kantsler

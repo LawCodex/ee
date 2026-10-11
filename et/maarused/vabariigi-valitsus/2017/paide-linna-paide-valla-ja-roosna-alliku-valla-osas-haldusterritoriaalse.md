@@ -1,0 +1,51 @@
+---
+title: "Paide linna, Paide valla ja Roosna-Alliku valla osas haldusterritoriaalse korralduse ja Vabariigi Valitsuse 3. aprilli 1995. a määruse nr 159 „Eesti territooriumi haldusüksuste nimistu kinnitamine” muutmine"
+identifier: "117012017007"
+rt_reference: "RT I, 17.01.2017, 7"
+group_id: "1037549"
+type: regulation
+issuer: "Vabariigi Valitsus"
+number: "12"
+text_type: "algtekst-terviktekst"
+jurisdiction: ee
+language: et
+date: 2017-01-12
+last_amended: 2017-01-18
+status: in_force
+source: "https://www.riigiteataja.ee/akt/117012017007"
+retrieved: 2026-10-12
+---
+
+# Paide linna, Paide valla ja Roosna-Alliku valla osas haldusterritoriaalse korralduse ja Vabariigi Valitsuse 3. aprilli 1995. a määruse nr 159 „Eesti territooriumi haldusüksuste nimistu kinnitamine” muutmine
+
+Määrus kehtestatakse Eesti territooriumi haldusjaotuse seaduse § 3 lõike 1 ja § 7<sup>1</sup> lõigete 2‒4 alusel.
+
+## § 1. Haldusterritoriaalse korralduse muutmine
+
+(1) Paide linna, Paide valla ja Roosna-Alliku valla ühinemise teel moodustatakse uus haldusüksus.
+
+(2) Uue haldusüksuse nimeks määratakse Paide linn.
+
+## § 2. Haldusüksuse piiri määramine ja kaardistamine
+
+(1) Haldusterritoriaalse korralduse muutmise käigus moodustatava Paide linna piiriks on endise Paide linna, Paide valla ja Roosna-Alliku valla piir, välja arvatud nende omavahelises osas.
+
+(2) Maa-amet kannab Paide linna piiri riigi maakatastri kaardile.
+
+## § 3. Vabariigi Valitsuse 3. aprilli 1995. a määruse nr 159 „Eesti territooriumi haldusüksuste nimistu kinnitamine” muutmine
+
+Vabariigi Valitsuse 3. aprilli 1995. a määrusega nr 159 „Eesti territooriumi haldusüksuste nimistu kinnitamine” kinnitatud „Eesti territooriumi haldusüksuste nimistut” muudetakse ja Järva maakonna valdade loetelust jäetakse välja sõnad „Paide,” ja „Roosna-Alliku,”.
+
+## § 4. Määruse jõustumine
+
+(1) Määrus jõustub Riigi Teatajas avaldamisele järgneval päeval.
+
+(2) Paragrahvid 1 ja 3 jõustuvad Paide Linnavolikogu valimistulemuste väljakuulutamise päeval.
+
+---
+
+Jüri Ratas, Peaminister
+
+Mihhail Korb, Riigihalduse minister
+
+Heiki Loot, Riigisekretär

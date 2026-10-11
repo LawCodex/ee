@@ -1,0 +1,517 @@
+---
+title: "Avaliku sektori kultuuriväärtusega hoonete energiatõhususe tõstmiseks antava toetuse kasutamise tingimused ja kord"
+identifier: "114052025001"
+rt_reference: "RT I, 14.05.2025, 1"
+group_id: "1060967"
+type: regulation
+issuer: "Rahandusminister"
+number: "18"
+text_type: "algtekst-terviktekst"
+jurisdiction: ee
+language: et
+date: 2025-05-12
+last_amended: 2025-05-17
+status: in_force
+source: "https://www.riigiteataja.ee/akt/114052025001"
+retrieved: 2026-10-12
+---
+
+# Avaliku sektori kultuuriväärtusega hoonete energiatõhususe tõstmiseks antava toetuse kasutamise tingimused ja kord
+
+Määrus kehtestatakse atmosfääriõhu kaitse seaduse § 161 lõike 3 ja § 182<sup>1</sup> lõike 5 alusel.
+
+## 1. peatükk — Üldsätted
+
+### § 1. Reguleerimisala ja toetuse andmise eesmärk
+
+(1) Määrusega kehtestatakse „Riigi eelarvestrateegia 2025–2028” kohase meetme „Avaliku sektori hoonete energiatõhusus, kultuuriväärtusega hoonete alameede” rakendamiseks aastatel 2021–2030 lubatud heitkoguste ühikute enampakkumisel saadavast tulust avaliku sektori kultuuriväärtusega hoonete energiatõhususe tõstmiseks antava toetuse kasutamise tingimused ja kord.
+
+(2) Toetuse andmise eesmärk on ehitismälestise või ajaloomälestisena kaitse all olevasse või muinsuskaitsealal asuvasse avaliku sektori hoonesse (edaspidi *kultuuriväärtusega hoone*) tehtavate investeeringute kaudu energiatõhususe parandamine, kasvuhoonegaaside heite vähendamine, hoonete sisekliima parandamine ja taastuvenergia kasutuse edendamine.
+
+(3) Kui määruse alusel antav toetus on üldist majandushuvi pakkuvaid teenuseid osutavatele ettevõtjatele avalike teenuste eest makstava hüvitisena antav riigiabi komisjoni 20. detsembri 2011. a otsuse „Euroopa Liidu toimimise lepingu artikli 106 lõike 2 kohaldamise kohta üldist majandushuvi pakkuvaid teenuseid osutavatele ettevõtjatele avalike teenuste eest makstava hüvitisena antava riigiabi suhtes” (2012/21/EL) artikli 2 lõike 1 punkti a tähenduses, kohaldatakse abi andmisel nimetatud otsuses sätestatut.
+
+(4) Kui määruse alusel antav toetus on vähese tähtsusega abi, kohaldatakse Euroopa Komisjoni määruses (EL) 2023/2832 Euroopa Liidu toimimise lepingu artiklite 107 ja 108 kohaldamise kohta üldist majandushuvi pakkuvaid teenuseid osutavatele ettevõtjatele antava vähese tähtsusega abi suhtes (ELT L 2023/2832, 15.12.2023) ja konkurentsiseaduse §-s 33 sätestatut.
+
+### § 2. Meetme rakendaja
+
+(1) Meetme rakendamise koordineerimise eest vastutab Rahandusministeerium.
+
+(2) Toetuse taotlusi menetleb, toetatavatele projektidele teeb väljamakseid ja projektide üle teostab järelevalvet Riigi Tugiteenuste Keskus (edaspidi *RTK*).
+
+## 2. peatükk — Toetuse andmise alused
+
+### § 3. Toetatavad tegevused
+
+(1) Meetme raames toetatakse kultuuriväärtusega hoones tehtavaid kasvuhoonegaaside heidet vähendavaid ja energiasäästu suurendavaid ning taastuvenergia kasutust edendavaid rekonstrueerimistöid (edaspidi *energiatõhususe tööd*).
+
+(2) Energiatõhususe tööde raames rekonstrueeritakse kultuuriväärtusega hooneid, millel on väärtuslikud detailid, tarindid või viimistlus, mis ei võimalda hoone energiatõhususe parandamisel rakendada tavapäraseid meetmeid.
+
+(3) Kultuuriväärtusega hoone omanik peab olema:
+
+1\) riigi ja kohaliku omavalitsuse asutuste registris registreeritud asutus;
+
+2\) äriühing, mille kõik aktsiad või osad kuuluvad riigi ja kohaliku omavalitsuse asutuste registris registreeritud asutusele;
+
+3\) sihtasutus, mille kõik asutajad on registreeritud riigi ja kohaliku omavalitsuse asutuste registris.
+
+(4) Kultuuriväärtusega hoone köetavast pinnast vähemalt 50 protsenti peab vähemalt viie aasta jooksul projekti lõppemisest arvates kasutama:
+
+1\) riigi ja kohaliku omavalitsuse asutuste registris registreeritud asutus;
+
+2\) äriühing, mille kõik aktsiad või osad kuuluvad riigi ja kohaliku omavalitsuse asutuste registris registreeritud asutusele;
+
+3\) sihtasutus, mille kõik asutajad on registreeritud riigi ja kohaliku omavalitsuse asutuste registris.
+
+(5) Kui kultuuriväärtusega hoonet kasutab mitu lõikes 4 nimetatud asutust või isikut, siis nende kasutatavad pinnad summeeritakse.
+
+(6) Energiatõhususe tööde tegemisel rakendatakse ehitusseadustiku § 66 lõike 6 alusel kehtestatud määruses sätestatud energiamärgise vormi osaks olevaid energiasäästumeetmeid. Energiatõhususe tööde tulemusel peab kogu hoone arvutuslik energiatõhususarv tüüpilisel kasutusel paranema vähemalt 20 protsenti.
+
+(7) Hoones, mida pärast projekti elluviimist kasutavad lõikes 4 nimetatud kasutajad tervikuna, on kulud abikõlblikud kogu hoone köetava pinna ulatuses. Hoones, mida pärast projekti elluviimist lõikes 4 nimetatud kasutajad kasutavad osaliselt, on kulud abikõlblikud vastavale köetavale pinnale vastavas ulatuses.
+
+(8) Hoones, hoone osas või sellele vastavas osas, mida pärast projekti elluviimist lõikes 4 nimetatud kasutajad ei kasuta, energiatõhususe tööd ei ole abikõlblikud.
+
+(9) Meetmest ei toetata projekte, mille:
+
+1\) ainus eesmärk on taastuvenergiaallikate kasutuselevõtt;
+
+2\) elluviimise tulemusel kasvuhoonegaaside prognoositav heide CO<sub>2</sub> ekvivalendina suureneb;
+
+3\) elluviimise tulemusel rekonstrueeritud hoone kogu köetavast pinnast planeeritakse kasutada viie aasta jooksul projekti lõppemisest arvates aasta keskmisena vähem kui 90 protsenti;
+
+4\) elluviimise tulemusel rekonstrueeritud hoones ei planeerita tagada hoone kasutusotstarvet arvestavat sisekliimat.
+
+### § 4. Projekti elluviimise periood
+
+(1) Projekti elluviimise periood on taotluse rahuldamise otsuses määratud ajavahemik, mille kestel tekivad projekti teostamiseks vajalikud abikõlblikud kulud ja esitatakse lõpparuanne.
+
+(2) Projekti algus ei või olla varasem kui taotluse esitamise tähtpäev ja lõpp hilisem kui kolm aastat pärast taotluse esitamise tähtpäeva.
+
+(3) RTK võib erandkorras pikendada projekti elluviimise perioodi kuni 12 kuud üle lõikes 2 sätestatud tähtpäeva, kuid mitte hilisemaks, kui kaks kuud enne atmosfääriõhu kaitse seaduse § 161 lõike 2 alusel kehtestatud määruses sätestatud enampakkumisel saadud tulu kasutamise perioodi lõppu, kui projekti kestust on vaja pikendada toetuse saajast mitteoleneval põhjusel, sealhulgas ettenägematu kultuuriväärtusliku leiu või väärtusliku tarindiosa restaureerimisega lisandunud aja tõttu.
+
+### § 5. Abikõlblikud kulud
+
+(1) Toetust antakse üksnes nendeks toetuse taotleja (edaspidi *taotleja*) tehtud abikõlblikeks kuludeks, mis on põhjendatud, mõistlikud ja vajalikud §-s 1 nimetatud eesmärgi täitmiseks ning hoone energiaauditi energiasäästumeetmete loetelus nimetatud ja Muinsuskaitseameti heaks kiidetud energiatõhususe tööde tegemiseks ning mis on tehtud projekti elluviimise perioodil.
+
+(2) Projekti abikõlbmatud ja projekti elluviimiseks vajalikud, kuid toetusmahtu ületavad kulud katab toetuse saaja.
+
+(3) Energiatõhususe tööde puhul on abikõlblikud järgmised kulud:
+
+1\) soojustamise kulu;
+
+2\) piirdetarindite õhupidavuse parandamisega seotud kulu;
+
+3\) avatäidete (uste, akende ja muu taolise) uuendamise ja õhupidavuse parandamise kulu;
+
+4\) küttesüsteemide, soojusvarustuse ja sooja tarbevee süsteemide uuendamise kulu;
+
+5\) ventilatsioonisüsteemide ehitamise ja uuendamise kulu;
+
+6\) jahutussüsteemide paigaldamise ja uuendamise kulu, kui see tuleneb vajadusest tagada kasutusotstarbele vastav sisekliima;
+
+7\) taastuvenergiasüsteemide, automaatika ja tarkade juhtimisseadmete, sealhulgas andurid ja andmehõivesüsteemid, mis võimaldavad hinnata projekti tulemusi, hankimise ja paigaldamisega seonduv kulu;
+
+8\) päikesekaitse lahenduste kulu;
+
+9\) valgustuse uuendamise kulu;
+
+10\) hoone piirde-, kande- ja jäigastavate konstruktsioonide muutmise, asendamise ja taastamise kulu, kui see on vajalik energiatõhusust tagavate tehnosüsteemide paigaldamiseks, taastuvenergia kasutuselevõtuks ning soojustuse või tuuletõkke paigaldamiseks;
+
+11\) punktides 1–10 nimetatud kuludega seotud töödega lahutamatult seotud või nende eelduseks olevate tööde kulud, sealhulgas kasutusotstarbele vastava sisekliima tagamisega seotud kulud, kui need sisalduvad hoone energiaauditi energiasäästumeetmete paketis;
+
+12\) punktides 1–10 nimetatud kuludega seotud tööde tegemiseks vajaliku projekteerimise, ehitustöödeaegse omanikujärelevalve ja energiasäästu eksperdi kaasamise kulud, tehnosüsteemide seadistamise kulud ning muinsuskaitselise järelevalve kulud ja tööde kavandamiseks vajalike uuringute läbiviimise kulud;
+
+13\) hoone toimimiseks vajalike kommunikatsioonidega liitumise kulud ning hoone kaugküttevõrguga ja -jahutusvõrguga liitumisega kaasneva töö kulu kinnistu piirides, kui liitumise vajadus tuleneb valitud energiatõhususe paketist.
+
+(4) Abikõlblikud ei ole järgmised kulud:
+
+1\) kulu, mis on seotud kapitalirendi tüüpi liisinglepingu sõlmimise, intressi, kindlustuse, maksete ja muu taolisega;
+
+2\) amortisatsioonikulu;
+
+3\) kulu projekti tegevusele, mis on viimase kolme aasta jooksul riigi muudest tuludest, sealhulgas Euroopa Liidu vahenditest või teistest välisvahenditest saadud toetustest hüvitatud;
+
+4\) muud projektiga mitte seotud ning projekti elluviimise seisukohast põhjendamatud ja ebaolulised kulud;
+
+5\) käibemaks ulatuses, mida toetuse saajal on õigus tagasi saada;
+
+6\) riigilõiv;
+
+7\) projektijuhtimise ja õigusabi kulu;
+
+8\) hoone energiaauditi kulu.
+
+### § 6. Taotlusvooru rahaline maht ja toetuse suurus
+
+(1) Toetuse maksimaalne suurus on 800 eurot abikõlbliku köetava pinna ühe ruutmeetri kohta, kuid mitte rohkem kui 500 000 eurot toetatava projekti kohta.
+
+(2) Projekti abikõlblikud kulud, mis ületavad toetuse suuruse, abikõlbmatud kulud ja projekti võimaliku kallinemise kulud kannab taotleja.
+
+(3) Taotleja poolne finantseering peab tagama projekti tulemusliku elluviimise ja projekti tulemuste edasise kasutamise finantsilise jätkusuutlikkuse.
+
+(4) Toetuse maksimaalne summa sätestatakse toetuse taotluse rahuldamise otsuses.
+
+(5) Taotlusvooru rahalise mahu ja RTK halduskulude mahu kinnitab valdkonna eest vastutav minister käskkirjaga.
+
+## 3. peatükk — Toetuse taotlejale, taotlusele ja hoone energiaauditile esitatavad nõuded
+
+### § 7. Toetuse taotlejale esitatavad nõuded
+
+(1) Taotlejaks võib olla § 3 lõikes 3 nimetatud isik.
+
+(2) Kui taotleja on varem RTK-lt saanud toetust, mis on kuulunud tagasimaksmisele, peavad tagasimaksed, mille maksmise tähtpäev on saabunud, olema nõutud summas tehtud.
+
+### § 8. Toetuse taotlusele esitatavad nõuded
+
+(1) Taotlusele esitatavad nõuded on järgmised:
+
+1\) taotlusvormi kõik taotlejale kohaldatavad lahtrid peavad olema korrektselt täidetud ning taotlusest peab selguma projekti eesmärk ja seotus §-s 1 nimetatud eesmärgiga;
+
+2\) toetuse kasutamise tegevus-, rahastamis- ja ajakava peavad olema reaalselt teostatavad §-s 4 sätestatud perioodil;
+
+3\) taotluses nimetatud projekti eelarve peab olema põhjendatud ning seotud otseselt projekti eesmärkide ja tegevustega;
+
+4\) taotlusest peab selguma projekti kulude abikõlblikkus;
+
+5\) taotlusest peab selguma hoone köetava pinna ruutmeetrite arv, sealhulgas selle köetava pinna ruutmeetrite arv, mis taotluse esitamise ajal on § 3 lõikes 4 nimetatud kasutajate kasutuses ja mis projekti elluviimise järel on kavandatud anda § 3 lõikes 4 nimetatud kasutajate kasutusse;
+
+6\) taotlus peab sisaldama informatsiooni projekti teostamise tulemusel saavutatava aastase summaarse energiasäästu, kasvuhoonegaaside heitkoguse vähenemise ja taastuvenergia tootmise kohta.
+
+(2) Taotlusele lisatakse järgmised kinnitused ja dokumendid:
+
+1\) kinnitus abikõlbmatute kulude ja projekti võimaliku kallinemise katmise suutlikkuse kohta;
+
+2\) hoone energiaaudit või energiaauditi vahearuanne;
+
+3\) projekti elluviimise ja toetuse kasutamise tegevus-, rahastamis- ja ajakava;
+
+4\) kinnitus, et projektiga hõlmatud hoone ja hoonealune kinnistu kuuluvad taotlejale, välja arvatud juhul, kui info on kättesaadav riiklikust registrist;
+
+5\) rekonstrueeritava hoone ja hoonealuse kinnistu kasutamiseks sõlmitud lepingute loetelu koos andmetega kasutaja ja lepingu tähtaja kohta;
+
+6\) kinnitus, et hoone köetavast pinnast kasutatakse vähemalt viie aasta jooksul projekti lõppemisest arvates vähemalt 90 protsenti;
+
+7\) kinnitus, et projekti teostamiseks või projekti üksikuteks tegevusteks ei ole antud toetust muudest riigieelarvelistest, Euroopa Liidu ega välisabi vahenditest taotluse esitamisele eelnenud kolme aasta jooksul.
+
+(3) RTK-l on õigus nõuda täiendavaid dokumente taotluse nõuetele vastavuse hindamiseks.
+
+### § 9. Hoone energiaauditile esitatavad nõuded
+
+(1) Energiaaudit peab vastama lisas 1 sätestatud nõuetele.
+
+(2) Taotleja võib esitada ka ainult ehitusseadustiku § 64 lõike 5 alusel kehtestatud määruse, millega kehtestatakse elamu energiaauditile esitatavad nõuded, kohase energiaauditi vahearuande, millele kohaldatakse käesolevas määruses energiaauditile esitatavaid nõudeid, võttes arvesse hoone tegelikku kasutusotstarvet.
+
+(3) Energiaauditi koostab energiaaudiitor, kellel on asjaomane kehtiv kutse. Täpsustatud nõuded energiaaudiitorile on sätestatud lisas 1.
+
+(4) Energiaaudit sisaldab vähemalt järgmist:
+
+1\) hoone köetava pinna ruutmeetrite arv ehitisregistri andmetel;
+
+2\) hoone olemasolevale tehnilisele seisukorrale vastav energiatõhususarv tüüpilisel kasutusel;
+
+3\) soovituslike energiatõhususe tööde loetelu koos maksumuse kalkulatsioonidega;
+
+4\) hoone energiatõhususe parendamise pakettide energiatõhususarvu määramine valideeritud dünaamilise simulatsiooni tarkvaraga (sealhulgas 3D-pildid) tüüpilisel kasutusel;
+
+5\) hoonesse tarnitud energia energiakasutuse muutumise kalkulatsioonid soovituslike energiatõhususe tööde täiemahulise tegemise korral, mille aluseks võetakse tegelikud ja tõendatud hoone viimase kolme kalendriaasta keskmised tarbimisandmed ning projektijärgse kalendriaasta prognoositavad keskmised tarbimisandmed hoone kavandataval kasutusel;
+
+6\) projekti elluviimise tulemusel hoone energiatarbimise muutumisest tulenev kasvuhoonegaaside heitkoguse vähenemise prognoos.
+
+(5) Energiaauditile lisatakse Muinsuskaitseameti või muinsuskaitseseaduse § 77 alusel haldusülesannet täitma volitatud kohaliku omavalitsuse üksuse kirjalik heakskiit energiatõhususe töödele, millele toetust taotletakse.
+
+## 4. peatükk — Taotluse menetlemine
+
+### § 10. Taotluse esitamine
+
+(1) Taotleja esindusõiguslik isik esitab taotluse ning taotlemisega seotud teabe ja dokumendid RTK-le elektroonilises taotluste esitamise keskkonnas (edaspidi *e-toetuse keskkond*).
+
+(2) Taotlusvooru koos taotluse esitamise tähtpäevaga kuulutab välja RTK. Informatsioon taotluse esitamise kohta avaldatakse vähemalt 90 kalendripäeva enne taotluste esitamise tähtpäeva RTK veebilehel.
+
+(3) Taotlus esitatakse RTK-le hiljemalt taotluste esitamise tähtpäeval e-toetuse keskkonna kaudu.
+
+(4) Taotlusvooru hilinenult esitatud taotlust menetlusse ei võeta.
+
+### § 11. Taotluse menetlemine
+
+Taotluse menetlemine koosneb järgmistest tegevustest:
+
+1\) taotleja ja taotluse nõuetele vastavuse kontrollimine;
+
+2\) taotluse hindamine;
+
+3\) taotluse rahuldamine või rahuldamata jätmine.
+
+### § 12. Taotleja ja taotluse nõuetele vastavuse kontroll
+
+(1) Taotleja peab vastama §-s 7 sätestatud nõuetele.
+
+(2) Taotlus vastab nõuetele, kui:
+
+1\) taotlus on esitatud määruses sätestatud korras ja see vastab §-s 8 sätestatud nõuetele;
+
+2\) toetust taotletakse määruses nimetatud eesmärkide täitmiseks ja toetatavateks tegevusteks;
+
+3\) taotletud toetuse suurus rekonstrueeritava hoone abikõlbliku köetava pinna ühe ruutmeetri kohta ei ületa § 6 lõikes 1 sätestatud maksimaalset toetuse suurust;
+
+4\) taotluses sisalduva projekti tegevus lõpetatakse hiljemalt § 4 lõikes 2 sätestatud tähtajal;
+
+5\) taotluses käsitletud projekti eelarves on muu hulgas kavandatud vajalik taotleja finantseering ja on esitatud kinnitus nende vahendite olemasolu kohta.
+
+(3) Taotlus ei vasta nõuetele, kui esineb vähemalt üks järgmistest asjaoludest:
+
+1\) taotluses on esitatud ebaõigeid või mittetäielikke andmeid või taotleja mõjutab pettuse või ähvardusega või muul õigusvastasel viisil taotluse menetlemist;
+
+2\) taotleja ei võimalda kontrollida taotluse vastavust nõuetele või teha paikvaatlust;
+
+3\) taotleja ei ole määratud tähtaja jooksul kõrvaldanud taotluses esinevaid puudusi;
+
+4\) taotlus ei vasta määruses sätestatud nõuetele.
+
+(4) Kui RTK avastab taotluse nõuetele vastavuse kontrollimisel puudusi, teatab ta sellest viivitamata taotlejale ja määrab puuduste kõrvaldamiseks tähtaja kuni kümme tööpäeva, mille võrra pikeneb taotluse menetlemise tähtaeg.
+
+(5) Taotluse või taotleja nõuetele mittevastavuse korral ja taotluses puuduste tähtajaks kõrvaldamata jätmise korral teeb RTK taotluse rahuldamata jätmise otsuse vastavalt § 16 lõikes 2 sätestatule.
+
+(6) Taotleja ja taotluse nõuetele vastavuse kontrollimisel ning hindamisel võib kaasata täiendavalt eksperte.
+
+### § 13. Taotluse hindamine
+
+(1) RTK moodustab taotluste hindamiseks vähemalt kolmeliikmelise hindamiskomisjoni, mille koosseisu kaasatakse vähemalt üks Muinsuskaitseameti pädev ametnik. Komisjoni koosseisu ei või kuuluda taotluste menetlemisega otseselt seotud isik, kes kontrollib taotlusi või nõustab taotlejaid. Hindamiskomisjoni koosseis kooskõlastatakse eelnevalt Rahandusministeeriumiga ja avalikustatakse RTK veebilehel hiljemalt taotluste esitamise tähtpäeval.
+
+(2) Nõuetele vastavaks tunnistatud taotluste järjestamiseks hinnatakse neid lisas 2 esitatud hindamiskriteeriumide alusel. Hindamiskriteeriumide eest antavad punktid ümardatakse täpsusastmega kaks kohta pärast koma ja liidetakse kokku.
+
+(3) Hindamise tulemusena reastatakse taotlused punktide kogusummade põhjal pingeritta, mille alusel teeb RTK taotluse rahuldamise otsuse. Kui taotlusvooru eelarve võimaldab rahuldada kõik vastavaks tunnistatud taotlused, siis nõuetele vastavaks tunnistatud taotlusi ei hinnata, pingerida ei moodustata ja rahuldatakse kõik vastavaks tunnistatud taotlused.
+
+### § 14. Taotluse rahuldamine
+
+(1) Taotluse menetlemise tähtaeg ei või olla pikem kui 120 kalendripäeva taotluse esitamise tähtpäevast alates. Selle aja jooksul tehakse taotlejale teatavaks taotluse rahuldamise või rahuldamata jätmise otsus.
+
+(2) RTK teeb taotluse rahuldamise otsused § 13 lõike 3 kohaselt koostatud pingerea alusel, arvestades lõikes 3 nimetatud piirangut, eelistades võrdsete punktide arvuga taotluste korral taotlust, millega kaasneb absoluutväärtuses suurem hoonesse tarnitud energia vähenemine rekonstrueeritava hoone abikõlbliku köetava pinna ühe ruutmeetri kohta.
+
+(3) Kui taotleja on esitanud taotlused rohkem kui kahele ühes ja samas omavalitsuse üksuses asuvale projektile, võib taotluse rahuldamise otsuse teha neist kuni kahele taotlusele.
+
+(4) Kui pärast lõigetes 2 ja 3 nimetatud alustel tehtud taotluste rahuldamise otsuseid tekib toetuse jääk, jätkatakse taotluste rahuldamise otsuste tegemist ilma lõikes 3 nimetatud piirangut arvestamata.
+
+(5) Kui lõike 2 või 4 alusel rahastamisele kuuluva taotluse summa ületab raha jääki, on RTK-l õigus pidada taotlejaga, kelle taotlust on võimalik rahuldada vaid osaliselt, läbirääkimisi taotletava summa vähendamise üle.
+
+(6) Ühele üldist majandushuvi pakkuvaid teenuseid osutavale ettevõtjale antava vähese tähtsusega abi kogusumma koos varem antud vähese tähtsusega abiga ei tohi eelneva kolme aasta pikkuse ajavahemiku jooksul ületada komisjoni määruse (EL) 2023/2832 artikli 3 lõikes 2 sätestatud summat.
+
+(7) Vähese tähtsusega abi puhul võetakse toetuse andmisel arvesse komisjoni määruse (EL) 2023/2832 artiklis 5 sätestatud abi kumuleerimisreegleid.
+
+(8) Vähese tähtsusega abi suuruse arvutamisel loetakse üheks ettevõtjaks sellised ettevõtjad, kes on komisjoni määruse (EL) 2023/2832 artikli 2 lõike 2 kohaselt omavahel seotud.
+
+### § 15. Taotluse rahuldamise otsus
+
+(1) Taotluse rahuldamise otsuses märgitakse vähemalt:
+
+1\) otsuse tegija, otsuse tegemise kuupäev ja otsuse number;
+
+2\) toetuse saaja nimi, aadress ja registrikood;
+
+3\) projekti nimetus ja number;
+
+4\) projekti abikõlblik kogumaksumus ja toetuse maksimaalne summa;
+
+5\) projekti elluviimise periood;
+
+6\) otsuse vaidlustamise kord;
+
+7\) teave, kui see on asjakohane, et toetus on riigiabi või vähese tähtsusega abi, näidates ära ühtlasi viite vastavale Euroopa Komisjoni õigusaktile ja sättele;
+
+8\) muud tingimused, mis on vajalikud projekti abikõlblikeks tegevusteks, aruandluseks ja järelevalve teostamiseks.
+
+(2) RTK esitab taotluse rahuldamise otsuse taotlejale pärast otsuse tegemist e-toetuse keskkonna kaudu.
+
+### § 16. Taotluse rahuldamata jätmise otsus
+
+(1) RTK teeb taotluse rahuldamata jätmise otsuse, kui:
+
+1\) taotluse menetlemisel selgub, et taotluses on esitatud teadvalt valeandmeid või ilmnevad asjaolud, mille tõttu taotlejat või taotlust ei oleks saanud nõuetele vastavaks tunnistada;
+
+2\) taotlus jääb taotluste hindamisel moodustunud pingereas väljapoole taotluste rahastamise eelarvet;
+
+3\) paragrahvi 14 lõikes 5 nimetatud taotleja ei ole nõus taotletava summa vähendamisega.
+
+(2) Taotluse rahuldamata jätmise otsuses märgitakse vähemalt:
+
+1\) otsuse tegija;
+
+2\) otsuse tegemise kuupäev ja otsuse number;
+
+3\) toetuse taotleja nimi, aadress ja registrikood;
+
+4\) otsuse tegemise õiguslikud ja faktilised alused;
+
+5\) taotluse rahuldamata jätmise põhjendus;
+
+6\) otsuse vaidlustamise kord.
+
+(3) RTK edastab taotluse rahuldamata jätmise otsuse taotlejale pärast otsuse tegemist e-toetuse keskkonna kaudu.
+
+### § 17. Toetuse väljamaksmise tingimused
+
+(1) Toetuse maksmise eelduseks on §-s 15 nimetatud taotluse rahuldamise otsus ja §-s 5 sätestatud kulude abikõlblikkus. Kulu on toetuse maksmiseks abikõlblik, kui selle tekkimine on tõendatud.
+
+(2) Toetus makstakse välja järgmistel tingimustel:
+
+1\) toetuse saaja esitab projektiga seotud kulude tekkimisel taotluse toetuse maksmiseks koos toetatava tegevuse toimumist tõendava dokumendiga e-toetuse keskkonna kaudu mitte sagedamini kui kord kuus;
+
+2\) toetatava tegevuse toimumine ja tegeliku kulu tekkimine on tõendatud, kui kulu aluseks olev töö on vastu võetud või teenus kätte või kaup oma valdusesse või omandisse saadud ja see on tõendatav dokumendiga, muu hulgas arve, saatelehe, üleandmise-vastuvõtmise akti või sellesisulise kinnitusega;
+
+3\) tegelik kulu on tekkinud täies ulatuses projekti elluviimise perioodil.
+
+(3) RTK kontrollib toetuse maksmise taotluses esitatud kulude abikõlblikkust ja toetuse saaja kohustuste nõuetekohast täitmist 30 tööpäeva jooksul taotluse saamisest arvates. Kui toetuse maksmise taotluses on puudusi või kulude abikõlblikkuse üle otsustamiseks on vaja lisateavet, võib RTK pikendada taotluse menetlemise tähtaega puuduste kõrvaldamiseks või dokumentide või teabe esitamiseks antud aja võrra, teavitades sellest toetuse saajat.
+
+(4) RTK-l on õigus toetuse maksmisel nõuda kulude abikõlblikkuse kontrollimiseks täiendavaid dokumente.
+
+## 5. peatükk — Toetuse saaja kohustused ja toetusele viitamine
+
+### § 18. Toetuse saaja kohustused
+
+Toetuse saaja on kohustatud projekti ellu viima vastavalt esitatud taotlusele, taotluse rahuldamise otsusele ja õigusaktidele, sealhulgas:
+
+1\) küsima riigihanke korral, mille eeldatav maksumus jääb alla lihthanke piirmäära, kirjalikult kaks võrreldavat hinnapakkumust piisava kvalifikatsiooniga ettevõtjatelt ja esitama saadud hinnapakkumused nende küsimist tõendavate dokumentidega RTK-le koos sõlmitud lepinguga, kui hankelepingu käibemaksuta summa on suurem kui 20 000 eurot;
+
+2\) järgima hankijana riigihangete seaduses sätestatud korda ka juhul, kui ta ei ole avaliku sektori hankija riigihangete seaduse § 5 lõike 2 tähenduses;
+
+3\) vältima olukorda, kus tema tehingupartnerit (töövõtja, tarnija vms) võib pidada mingil põhjusel (sugulus ja hõimlus, seotus juriidiliste isikute kaudu vms) seotuks toetuse saaja või tema projektiga seotud ametiisikuga, ning sellise olukorra ilmnemisel teavitama sellest viivitamata RTK-d;
+
+4\) olema riigihanke väljakuulutamise korral tööde tellijaks ja sõlmima hankelepingu, mis sisaldab hoone rekonstrueerimise tegevust, kahe aasta jooksul taotluse rahuldamise otsusest arvates, välja arvatud juhul, kui hankelepingu sõlmimine on viibinud temast mitteoleneval põhjusel;
+
+5\) esitama koos kuludokumentidega RTK-le hankelepingu;
+
+6\) kasutama hoonet § 3 lõikes 4 toodud viisil ja seda mitte võõrandama ilma RTK-d teavitamata vähemalt viis aastat projekti lõppemisest arvates;
+
+7\) võimaldama RTK-l ja tema nimetatud isikutel enne projekti teostamist, projekti elluviimise ajal ning viie aasta jooksul projekti lõppemisest arvates tutvuda kõigi toetuse saaja valduses olevate projektiga seotud dokumentidega, sealhulgas raamatupidamis- ja finantsdokumentidega, millel on RTK hinnangul tähtsust toetuse nõuetekohase kasutamise hindamisel, ning tagama RTK-le õiguse toetuse saajaga samadel alustel tutvuda tööde tegija dokumentidega;
+
+8\) võimaldama RTK-l ja tema nimetatud isikutel tutvuda projekti elluviimisega ning pärast elluviimist projekti tulemiga kohapeal;
+
+9\) teavitama viivitamata RTK-d asjaoludest, mille tõttu taotluses esitatud projekti elluviimist mõjutavad andmed ja projekti abikõlblikkust, sealhulgas hoone kavandatavat ja tegelikku kasutust mõjutavad andmed ei ole enam täielikud või õiged;
+
+10\) teavitama viivitamata RTK-d, kui ta on saanud, taotlenud või taotleb käesoleva projekti elluviimisega seotud kulude katmiseks toetust mõnest teisest allikast;
+
+11\) eristama oma raamatupidamises selgelt toetuse kasutamisega seotud kulud muudest kuludest, samuti neid kulusid kajastavad kulu- ja maksedokumendid muudest kulu- ja maksedokumentidest;
+
+12\) säilitama toetuse kasutamisega seotud dokumente vähemalt viis aastat projekti lõppemisest arvates ja riigiabi või vähese tähtsusega abi saamise korral kümme aastat abi saamisest arvates;
+
+13\) teavitama viivitamata RTK-d projekti elluviimise ajal ja viie aasta jooksul projekti lõppemisest arvates kõigist asjaoludest, mis võivad mõjutada projekti elluviimist või toetuse saaja võimet täita asja säilitamise, sihtotstarbelise kasutamise ning taotluses nimetatud eesmärkide saavutamise kohustust;
+
+14\) esitama RTK-le tähtajaks projekti lõpparuande;
+
+15\) tagastama tagastamisele kuuluva toetuse tähtajaks.
+
+### § 19. Toetusele viitamine
+
+(1) Projektiga seotud ehitustööde ajal tuleb projekti piirkonda üles panna töödest informeeriv tahvel, millel on vähemalt:
+
+1\) projekti nimetus;
+
+2\) tööde teostaja;
+
+3\) valmimise tähtaeg;
+
+4\) lisainfo sõnastuses „Hoone energiatõhusamaks muutmist toetas Eesti riik EL kasvuhoonegaaside lubatud heitkoguse ühikutega kauplemise tulust”;
+
+5\) Rahandusministeeriumi ja RTK logo ning Euroopa Liidu embleem;
+
+6\) toetuse suurus.
+
+(2) Toetuse saaja teavitab avalikkust viie aasta jooksul arvates projekti lõppemisest projekti rahastusallikast, paigaldades avalikkusele nähtavasse kohta tahvli, millel on vähemalt projekti nimetus, lõike 1 punkti 4 sõnastuses lisainfo ja punkti 5 kohane tähistus.
+
+## 6. peatükk — Aruandlus
+
+### § 20. Toetuse kasutamisega seotud teabe, dokumentide ja aruannete esitamine
+
+(1) Toetuse saaja esitab RTK-le projekti lõpparuande hiljemalt § 4 lõikes 1 nimetatud perioodi lõpuks.
+
+(2) Lõpparuandes kajastatakse vähemalt järgmine informatsioon:
+
+1\) andmed projekti elluviimise kohta, sealhulgas tehtud tööd ja tegevused, projekti tegelik kogumaksumus ning täpsustatud näitajad köetava pinna suuruse, energiakasutuse muutuse prognoosi ja kasvuhoonegaaside heite muutuse prognoosi kohta;
+
+2\) hoone kasutusloa number.
+
+(3) Lõpparuande ning sellega seotud teabe ja dokumendid esitab toetuse saaja e-toetuse keskkonna kaudu.
+
+(4) RTK kontrollib 20 tööpäeva jooksul lõpparuande laekumisest, kas lõpparuanne on nõuetekohaselt täidetud. Kui lõpparuandes puudusi ei esine, kinnitab RTK aruande.
+
+(5) Lõpparuandes puuduste esinemise korral annab RTK toetuse saajale vähemalt kümme tööpäeva nende kõrvaldamiseks ja kinnitab lõpparuande viie tööpäeva jooksul pärast puuduste kõrvaldamist.
+
+(6) Kui e-toetuse keskkonna töös esineb tehniline viga, mis takistab lõpparuande tähtajaks esitamist, loetakse lõpparuande esitamise tähtajaks järgmine tööpäev pärast vea kõrvaldamist.
+
+(7) Pärast projekti elluviimist esitab toetuse saaja kolme aasta jooksul üks kord aastas aruande rekonstrueeritud hoone energiatõhusust iseloomustavate järgmiste andmetega:
+
+1\) hoone aastane energia tarbimismaht;
+
+2\) hoone kasvuhoonegaaside heite (CO<sub>2</sub> ekv) aastane maht;
+
+3\) toodetud taastuvenergia aastane maht.
+
+(8) Pärast projekti elluviimist esitab toetuse saaja viie aasta jooksul üks kord aastas aruande rekonstrueeritud hoone kasutamist iseloomustavate järgmiste andmetega:
+
+1\) köetava pinna kasutusprotsent aasta keskmisena;
+
+2\) paragrahvi 3 lõikes 4 nimetatud isikute poolt kasutatud köetava pinna väikseim osakaal hoone kogu köetavast pinnast.
+
+## 7. peatükk — Taotluse rahuldamise otsuse muutmine ja toetuse tagasinõudmine
+
+### § 21. Toetuse rahuldamise otsuse muutmine
+
+(1) Taotluse rahuldamise otsust muudetakse RTK algatusel või toetuse saaja e-toetuse keskkonna kaudu esitatud sellekohase avalduse alusel.
+
+(2) RTK-l on õigus keelduda toetuse saaja esitatud taotluse rahuldamise otsuse muutmisest, kui soovitav muudatus:
+
+1\) ei ole kooskõlas projekti sisu ja eesmärkidega või seab kahtluse alla projekti oodatava tulemuse saavutamise;
+
+2\) ei ole kooskõlas käesolevas määruses esitatud nõuetega;
+
+3\) seab kahtluse alla projekti tegevuste lõpetamise hiljemalt §-s 4 nimetatud kuupäeval.
+
+(3) Taotluse rahuldamise otsuse muutmise otsustab RTK üldjuhul 30 kalendripäeva jooksul vastavasisulise taotluse RTK-le esitamisest arvates.
+
+### § 22. Toetuse tagasinõudmine
+
+(1) Toetuse tagasinõudmise otsus tehakse ja toetus nõutakse tagasi vastavalt atmosfääriõhu kaitse seaduse §-le 182<sup>1</sup>.
+
+(2) Toetuse tagasinõudmise otsust ei tehta järgmistel juhtudel:
+
+1\) puudus on võimalik kõrvaldada või kohustus või nõue täita ettekirjutuse täitmisega;
+
+2\) toetuse saaja on avastanud ja teavitanud RTK-d esimesel võimalusel e-toetuse keskkonna kaudu, et talle on hüvitatud abikõlbmatu tegevuse kulu, ning on tagastanud toetuse kümne tööpäeva jooksul RTK-le e-toetuse keskkonna kaudu edastatud toetuse tagastamise nõusoleku saamisest arvates.
+
+(3) Kui toetuse saaja ei taga viie aasta jooksul projekti lõppemisest arvates projekti tulemusena loodud või soetatud vara säilimist või sihtotstarbelist kasutamist taotluses ning taotluse rahuldamise otsuses nimetatud eesmärkidel ja tingimustel või sooritab selle varaga tehinguid, mis annavad nimetatud aja jooksul mõnele isikule põhjendamatu eelise, vähendatakse toetuse summat proportsionaalselt ajaga, mille võrra on alates projekti lõpptähtpäevast vara puhul taotluse rahuldamise otsuse nõudeid rikutud.
+
+(4) Kui ühes riigihankes või ostus tuvastatakse enam kui üks rikkumine, mille mõju ei ole võimalik hinnata või selle hindamine on ebamõistlikult aja- või ressursimahukas, siis sama riigihanke või ostu erinevate rikkumiste korral rakendatakse suurimat toetuse tagasinõudmise määra.
+
+(5) Toetuse tagasinõudmise otsuse tegemisel vähendatakse taotluse rahuldamise otsuses kinnitatud projekti abikõlblikku eelarvet, sealhulgas toetuse summat. Kui vähendamise aluseks oleva kulu katteks on toetus välja makstud, märgitakse otsuses tagastamisele kuuluv toetuse summa.
+
+(6) Kui toetuse tagasinõudmise otsuse alusel kuuluks tagasinõudmisele toetus suurusega kuni 1000 eurot, jäetakse toetuse tagasinõudmise otsus tegemata, välja arvatud juhul, kui tuvastatud abikõlbmatu kulu on seotud pettuse või kelmusega ja nimetatud kuriteo toimepanemise suhtes on süüdimõistev kohtuotsus jõustunud.
+
+(7) Kui toetus nõutakse tagasi täielikult, tunnistatakse taotluse rahuldamise otsus kehtetuks.
+
+(8) RTK peab toetuse täieliku või osalise tagasinõudmise otsuses toetuse tagasimaksmise määra põhjendama.
+
+(9) Toetuse tagasinõudmise otsus saadetakse toetuse saajale e-toetuse keskkonna kaudu, mille kohta saadetakse teavitus toetuse saaja e-posti aadressile, või vajaduse korral haldusmenetluse seaduse 7. jaos sätestatud muul viisil.
+
+(10) Toetuse saaja peab maksma toetuse tagasinõudmise otsuses nimetatud tagasimaksmisele kuuluva toetuse tagasi 60 kalendripäeva jooksul otsuse jõustumisest arvates.
+
+(11) Kui toetuse saaja on pannud toime riigihangete seaduse rikkumise, millel on riigihangete seaduse §-des 213–215 sätestatud väärteo tunnused, teavitab RTK sellest Rahandusministeeriumi riigihangete ja riigiabi osakonda.
+
+## 8. peatükk — Andmete esitamine ja säilitamine
+
+### § 23. Andmete esitamine riigiabi ja vähese tähtsusega abi registrile
+
+RTK esitab andmed toetuse andmise kohta riigiabi ja vähese tähtsusega abi registrile vastavalt konkurentsiseaduse § 49<sup>2</sup> lõikele 3. Riigiabi või vähese tähtsusega abi andmise korral säilitatakse abi andmist tõendavaid dokumente kümme aastat viimase abi andmisest arvates.
+
+---
+
+Jürgen Ligi, Rahandusminister
+
+Merike Saks, Kantsler
+
+## Lisad
+
+- Lisa — [RAM\_m18\_lisa 1.pdf](https://www.riigiteataja.ee/aktilisa/1140/5202/5001/RAM_m18_lisa 1.pdf)
+
+Lisa 1
+
+- Lisa — [RAM\_m18\_lisa 2.pdf](https://www.riigiteataja.ee/aktilisa/1140/5202/5001/RAM_m18_lisa 2.pdf)
+
+Lisa 2

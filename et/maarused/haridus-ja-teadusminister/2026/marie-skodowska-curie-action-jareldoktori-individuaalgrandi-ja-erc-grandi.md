@@ -1,0 +1,429 @@
+---
+title: "Marie Skłodowska Curie Action järeldoktori individuaalgrandi ja ERC grandi taotlemise edukuse tõstmiseks toetuse taotlemise, toetuse eraldamise ning toetuse tagasinõudmise tingimused ja kord"
+identifier: "109042026007"
+rt_reference: "RT I, 09.04.2026, 7"
+group_id: "1063265"
+type: regulation
+issuer: "Haridus- ja teadusminister"
+number: "15"
+text_type: "algtekst-terviktekst"
+jurisdiction: ee
+language: et
+date: 2026-04-06
+last_amended: 2026-04-12
+status: in_force
+source: "https://www.riigiteataja.ee/akt/109042026007"
+retrieved: 2026-10-12
+---
+
+# Marie Skłodowska Curie Action järeldoktori individuaalgrandi ja ERC grandi taotlemise edukuse tõstmiseks toetuse taotlemise, toetuse eraldamise ning toetuse tagasinõudmise tingimused ja kord
+
+Määrus kehtestatakse teadus- ja arendustegevuse ning innovatsiooni korralduse seaduse § 23 lõike 2 alusel.
+
+## 1. peatükk — Üldsätted
+
+### § 1. Reguleerimis- ja kohaldamisala
+
+(1) Määrusega kehtestatakse Marie Skłodowska Curie Action (edaspidi *MSCA*) järeldoktori individuaalgrandi ja Euroopa Teadusnõukogu (European Research Council, edaspidi *ERC*) grandi edukuse tõstmise toetuse eraldamise ning toetuse tagasinõudmise tingimused ja kord.
+
+(2) Määrust kohaldatakse projektidele, mille tegevused ei kuulu teadus- ja arendustegevuse, innovatsiooni ning ettevõtluse arengukava 2021–2035 (edaspidi *TAIE arengukava*) alusel nutika spetsialiseerumise fookusvaldkondadesse.
+
+### § 2. Terminid
+
+Käesolevas määruses kasutatakse termineid järgmises tähenduses:
+
+1\) ERC – Euroopa Liidu asutatud teadus- ja arendustegevuse rahastamise organisatsioon, mis toetab konkurentsipõhiselt kõrgetasemelisi teadusuuringuid ja innovatsiooni;
+
+2\) ERC grant – ERC välja antav grant, mis on avatud kõigi teadusvaldkondade teadlastele, mille ainukeseks hindamiskriteeriumiks on teaduslik tipptase. ERC annab välja ERC alustava teadlase granti, iseseisvuse saavutanud teadlase granti, kogenud teadlase granti, sünergia granti ning ERC Plus granti, mis ületavad ERC tavagrandi mahtu;
+
+3\) projekt – teaduslik uurimistöö, milles on selgelt piiritletud uurimisprobleem ning selle lahendamiseks kavandatud alusuuring, rakendusuuring ja/või eksperimentaalarendus;
+
+4\) MSCA järeldoktor – MSCA järeldoktori individuaalgranti taotlenud teadlane, kellele vastuvõttev asutus käesoleva määrusega reguleeritud toetust taotleb;
+
+5\) MSCA järeldoktori või ERC grandi taotlemise toetus (edaspidi *toetus*) – käesoleva määrusega reguleeritud ja selle alusel makstav toetus, et teadlane saaks tulla välisriigist Eestisse ning viia siin ellu oma järeldoktori projekti või teadlane saaks taasesitada oma ERC grandi taotluse;
+
+6\) nutika spetsialiseerumise fookusvaldkonnad – TAIE arengukavas kirjeldatud Eesti arenguvajadustele ja -võimalustele vastavad eelisarendatavad teadus- ja arendustegevuse, innovatsiooni ja ettevõtluse valdkonnad, milleks on digilahendused igas eluvaldkonnas, tervisetehnoloogiad- ja teenused, kohalike ressursside väärindamine ning nutikad ja kestlikud energialahendused;
+
+7\) täitja – ERC projekti täitmises osalev doktorikraadi või sellele vastava kvalifikatsiooniga alus- ja rakendusuuringuid või eksperimentaalarendust läbi viiv inimene või doktorant, kelle töö on taotluses esitatud projektiga sisuliselt seotud ning kelle töötasu kaetakse täielikult või osaliselt ERC projekti vahenditest;
+
+8\) vastuvõttev asutus (edaspidi ka *asutus* või *taotleja*) – Eestis registreeritud teadus- ja arendusasutus, kõrgkool või muu era- või avaliku sektori asutus, kus nõuetele vastav teadlane soovib järeldoktori projekti ellu viia, või kus vastutav täitja ERC grandi toetuse kasutamise ajal töötab;
+
+9\) vastutav täitja – ERC granti taotlenud teadlane, kes on toetust taotleva asutuse töötaja, kes viib uurimisprojekti ellu ning kellele asutus käesoleva määrusega reguleeritud toetust taotleb.
+
+### § 3. Toetuse andmise eesmärk ja üldised põhimõtted
+
+(1) MSCA järeldoktori toetuse andmise eesmärk on soodustada järeldoktorantuuri läbimist Eestis ning toetada välisriigis omandatud pädevuse toomist Eestisse, toetades kõrge hindamistulemuse saanud, kuid rahastamata jäänud MSCA järeldoktori taotluste elluviimist.
+
+(2) ERC grandi taotlemise toetuse andmise eesmärk on suurendada ERC grandi hoidjate arvu Eestis ning motiveerida taotlejaid osalema ERC taotlusvoorudes, toetades kõrge hindamistulemuse saanud, kuid rahastamata jäänud ERC grandi taotluste edasiarendamist ja uuesti esitamist.
+
+(3) Käesoleva paragrahvi lõikes 2 nimetatud toetus on suunatud uurimisprojekti parendamiseks, eesmärgiga esitada täiendatud projekt uuesti ERC grandi taotlusvooru.
+
+(4) Toetus on mõeldud iseseisva uurimisprojekti täitmiseks ning sellest teiste uurimisprojektide omafinantseeringu katmine ei ole lubatud.
+
+(5) Toetust antakse projektile, mis ei ole seotud ühegi TAIE arengukavas määratud nutika spetsialiseerumise fookusvaldkonnaga.
+
+## 2. peatükk — Toetuse taotlemine ning nõuded taotlusele ja taotlejale
+
+### § 4. MSCA järeldoktori toetuse taotlemine
+
+(1) MSCA järeldoktori toetuse taotlemiseks korraldab teadus- ja arendustegevuse poliitika rakendusüksus Sihtasutus Eesti Teadusagentuur (edaspidi *rakendusüksus*) pärast MSCA taotlusvooru tulemuste selgumist taotlusvooru ja kuulutab selle välja oma kodulehel.
+
+(2) Toetuse taotlemiseks koostab vastuvõttev asutus koos järeldoktoriga taotluse ja esitab selle rakendusüksusele Eesti Teadusinfosüsteemi (edaspidi *ETIS*) kaudu.
+
+(3) Taotlus koostatakse eesti keeles või inglise keeles, kui järeldoktor ei valda eesti keelt.
+
+(4) Taotluses esitatakse vähemalt järgmine informatsioon:
+
+1\) järeldoktoriprojekti nimetus eesti ja inglise keeles;
+
+2\) vastuvõtva asutuse andmed;
+
+3\) järeldoktori ja (kaas)juhendaja(te) nimed;
+
+4\) järeldoktoriprojekti lühikokkuvõte eesti ja inglise keeles, sealhulgas peab olema välja toodud projekti eesmärk, oodatavad tulemused, projekti mõju, projekti tegevus- ja ajakava;
+
+5\) toetuse kasutamise periood;
+
+6\) teadus- ja arendustegevuse valdkond;
+
+7\) kavandatava järeldoktoriprojekti eelarve;
+
+8\) projekti seotus TAIE arengukavaga;
+
+9\) selgitus, kas projektiga seotud tegevused kujutavad endast majandustegevust konkurentsiseaduse § 30 lõike 1 tähenduses ning kirjeldus tegevuste liigitusest alus-, rakendusuuringu või eksperimentaalarendusena.
+
+(5) Taotlusele lisatakse MSCA individuaalgrandi taotlemise voorus toetuseta jäänud taotlus ja taotluse hindamisraport. Taotluse nimetus inglise keeles, vastuvõttev asutus, (kaas)juhendaja ning toetuse kasutamise periood peavad ühtima algses MSCA individuaalgrandi taotluses toodud andmetega.
+
+(6) Kui vastuvõttev asutus või järeldoktor on taotluses sisalduvale järeldoktoriprojektile või selle osadele tegevustele taotlenud toetust teistest meetmetest, peab taotleja taotluses esitama sellekohase teabe.
+
+### § 5. ERC grandi taotlemise toetuse taotlemine
+
+(1) Taotluste esitamine toimub jooksvalt.
+
+(2) Toetust on võimalik taotleda kuni kuue kuu jooksul alates ametlikust ERC hindamistulemuse avaldamisest.
+
+(3) Toetuse taotlemiseks esitab taotleja rakendusüksusele avalduse, esitades muuhulgas info vastutava täitja kohta.
+
+(4) Rakendusüksus avab hiljemalt viie tööpäeva jooksul pärast käesoleva paragrahvi lõikes 3 nimetatud avalduse esitamist ETIS-e kaudu taotlejale toetuse taotlusvormi.
+
+(5) Taotleja koostab koostöös vastutava täitjaga toetuse taotluse, mille esitab rakendusüksusele ETIS-e kaudu.
+
+(6) Taotlus esitatakse eesti keeles või inglise keeles, kui vastutav täitja ei valda eesti keelt.
+
+(7) Toetuse taotluses märgitakse järgmine informatsioon:
+
+1\) projekti nimetus eesti ja inglise keeles;
+
+2\) toetust taotleva asutuse andmed;
+
+3\) teadus- ja arendustegevuse valdkond;
+
+4\) vastutava täitja andmed;
+
+5\) andmed projekti kaasatud täitja(te), nende ametikohtade, rolli ja ülesannete jaotuse kohta;
+
+6\) toetuse kasutamise periood;
+
+7\) projekti lühikokkuvõte eesti ja inglise keeles;
+
+8\) projekti põhieesmärgid, tulemused, mõju, seos mitterahastatud ERC grandi taotlusega ning uue ERC grandi ettevalmistamisega, sealhulgas millist tüüpi ERC granti taotleda soovitakse;
+
+9\) projekti eeldatavad tulemused ning tegevus- ja ajakava;
+
+10\) projekti eelarve;
+
+11\) selgitus, millised andmed projekti käigus tekivad ning kuidas neid hallatakse;
+
+12\) selgitus, kuidas järgitakse eetikanõudeid uurimistöö elluviimisel ja kas uurimistöö tegemiseks on olemas või vajalik asjaomase eetikakomitee kooskõlastus või juhul, kui uurimistööl on puutumus Nagoya protokolliga, selgitus, missugust geneetilist materjali kasutatakse ning kas on olemas või vajalik hoolsuskohustust puudutav deklaratsioon;
+
+13\) projekti seotus TAIE arengukavaga;
+
+14\) selgitus, kas projektiga seotud tegevused kujutavad endast majandustegevust konkurentsiseaduse § 30 lõike 1 tähenduses ning kirjeldus tegevuste liigitusest alus-, rakendusuuringu või eksperimentaalarendusena.
+
+(8) Taotlusele lisatakse mitterahastatud ERC grandi taotluse hindamisraport.
+
+(9) Kui asutus või vastutav täitja on taotluses sisalduvale projektile või selle osadele tegevustele taotlenud toetust samal ajal teistest meetmetest, peab taotleja esitama taotluses sellekohase teabe.
+
+### § 6. Riigiabi ja vähese tähtsusega abi
+
+(1) Rakendusüksusel on kohustus hinnata, kas projektile antav abi võib kvalifitseeruda riigiabiks.
+
+(2) Juhul kui taotletav toetus on käsitatav riigiabina konkurentsiseaduse § 30 lõike 1 mõistes, lähtutakse toetuse andmisel Euroopa Komisjoni määruse (EL) nr 651/2014 „ELi aluslepingu artiklite 107 ja 108 kohaldamise kohta, millega teatavat liiki abi tunnistatakse siseturuga kokkusobivaks” (ELT L 187, 26.06.2014, lk 1–78) (edaspidi *üldine grupierandi määrus*), artiklist 25 või 25b, ja sellele kohaldatakse nimetatud määruses ja konkurentsiseaduse §-s 34<sup>2</sup> sätestatut.
+
+(3) Kui toetust taotletakse üldise grupierandi määruse alusel, sõltub toetuse määr grupierandi määruse artiklites 25 ja 25b sätestatud tingimustest ja taotlus peab olema esitatud enne tegevustega alustamist.
+
+(4) Kui käesoleva määruse tegevuse toetamiseks antav toetus on vähese tähtsusega abi, lähtutakse toetuse andmisel Euroopa Komisjoni määrusest (EL) nr 2023/2831, milles käsitletakse Euroopa Liidu toimimise lepingu artiklite 107 ja 108 kohaldamist vähese tähtsusega abi suhtes (ELT L, 2023/2831, 15.12.2023) (edaspidi *vähese tähtsusega abi määrus*), ja sellele kohaldatakse nimetatud määruses ja konkurentsiseaduse §-s 33 sätestatut.
+
+(5) Kui toetus on riigiabi, siis ei anta toetust taotlejale, kelle suhtes on Euroopa Komisjoni eelneva otsuse alusel, millega abi on tunnistatud ebaseaduslikuks ja siseturuga kokkusobimatuks, tehtud toetuse tagasinõudmise otsus, mis on täitmata, või juhul, kui taotleja on raskustes olev ettevõte.
+
+(6) Kui toetus on riigiabi, siis ei kohaldata käesolevat määrust ka muudel üldise grupierandi määruse artikli 1 lõigetes 2–6 ning vähese tähtsusega abi määruse artikli 1 lõikes 1 sätestatud juhtudel.
+
+(7) Rakendusüksusel on taotluse menetlemise käigus vajadusel õigus nõuda taotlejalt täiendavaid dokumente riigiabi või vähese tähtsusega abi andmise hindamiseks.
+
+### § 7. Nõuded MSCA järeldoktori toetuse taotlejale, järeldoktorile ja järeldoktori juhendajale
+
+(1) MSCA järeldoktori toetuse taotleja võib toetust taotleda järeldoktorile, kes on taotluse esitamisele eelneval aastal taotlenud MSCA järeldoktori individuaalgranti, saanud hindamise tulemusena vähemalt 70 punkti, kuid saanud negatiivse rahastusotsuse.
+
+(2) MSCA järeldoktori toetuse taotluse rahuldamise korral peab järeldoktor projekti elluviimise ajal töötama täistööajaga vastuvõtvas asutuses, töö asukohaga Eestis, kuid rakendusüksus võib vastava taotluse alusel erandjuhul nõuetele vastavaks lugeda järeldoktori, kes töötab asutuses väiksema kui täiskoormusega, kui see ei ohusta projekti edukat elluviimist.
+
+(3) Järeldoktor ei saa toetuse perioodil olla rakendusüksuse järeldoktorigrandi saaja, stardi- või rühmagrandi vastutav täitja või (põhi)täitja, tagasipöörduva teadlase toetuse ega kohanemistoetuse saaja.
+
+(4) Järeldoktorit ei saa pärast taotluse esitamist ega toetuse perioodil vahetada.
+
+(5) Järeldoktori juhendajal peab olema doktorikraad või sellele vastav kvalifikatsioon ning ta peab vastuvõtvas asutuses töötama töölepingu alusel kogu projekti perioodil.
+
+(6) Toetuse perioodil on mõjuval põhjusel võimalik taotleda juhendaja või vastuvõtva asutuse muutmist.
+
+(7) Rakendusüksus otsustab rahuldada või mitte rahuldada juhendaja või vastuvõtva asutuse muutmise taotluse, hinnates eelnevalt muudatuse põhjendatust, uue asutuse või juhendaja kvalifikatsiooni ja juhendamise võimekust ning kaasates vajadusel hindamisse eksperte.
+
+(8) Vastuvõttev asutus tagab järeldoktorile projekti täitmiseks vajaliku töökeskkonna olemasolu.
+
+### § 8. Nõuded ERC grandi taotlemise toetuse taotlejale, vastutavale täitjale ja täitjale
+
+(1) Taotleja võib toetust taotleda vastutavale täitjale, kes on ERC grandi taotlusvoorus jõudnud teise hindamisvooru ning saanud lõpphindeks „A”, kuid saanud negatiivse rahastusotsuse. Sünergia grandi puhul võib toetust taotleda kolmandasse vooru jõudnud, kuid rahastusest ilma jäänud vastutavale täitjale.
+
+(2) ERC grandi taotlemise toetuse taotluse rahuldamise korral peab vastutav täitja töötama projekti täitmise ajal töölepingu alusel vastuvõtvas asutuses vähemalt 0,8 koormusega, töö asukohaga Eestis ning tema töötasu kaetakse täielikult või osaliselt projekti vahenditest. Rakendusüksus võib vastava taotluse alusel erandjuhul nõuetele vastavaks lugeda vastutava täitja, kes töötab asutuses väiksema koormusega kui 0,8, kui see ei ohusta projekti edukat elluviimist.
+
+(3) Vastutavat täitjat ei saa pärast taotluse esitamist ega toetuse perioodil vahetada.
+
+(4) Vastutav täitja kohustub ERC grandi taotlemise toetuse taotluse rahuldamise korral esitama uue ERC grandi taotluse kahe aasta jooksul, kui taotletakse sama tüüpi granti, või kolme aasta jooksul, kui taotletakse erinevat tüüpi ERC granti. Tähtaega hakatakse arvestama alates esmase ERC granditaotluse vooru ametliku hindamistulemuse saamisest.
+
+(5) ERC grandi toetuse taotluse rahuldamise korral peab kogu projekti perioodil lisaks vastutavale täitjale olema projekti kaasatud vähemalt üks täitja, kes õpib doktorantuuris või kes töötab projekti täitmise ajal Eestis registreeritud teadus- ja arendusasutuses, kõrgkoolis või era- või avaliku sektori asutuses vähemalt 0,2 koormusega.
+
+(6) Taotleja saab käesoleva määruse § 9 lõikes 1 nimetatud perioodi jooksul ühe vastutava täitja kohta toetust taotleda kuni kaks korda.
+
+(7) Taotleja tagab vastutavale täitjale ja täitja(te)le projekti täitmiseks vajaliku töökeskkonna olemasolu.
+
+### § 9. Toetuse kasutamise periood, projekti eelarve, toetuse määr ja toetatavad tegevused
+
+(1) Toetuse kasutamise tähtaeg on 31. august 2029.
+
+(2) MSCA järeldoktori toetuse projekti elluviimiseks antakse toetust kuni kaheks aastaks.
+
+(3) ERC grandi taotlemise toetust antakse kuni 18 kuuks, kuid mitte kauem kui ERC projekti alguseni, juhul kui kordustaotlus saab positiivse rahastusotsuse.
+
+(4) MSCA järeldoktori toetuse kasutamise periood algab lepingus kokkulepitud kuupäeval, kuid mitte hiljem kui taotlemise aasta 1. detsembril.
+
+(5) MSCA järeldoktori toetuse projekti eelarve on 6333 eurot kalendrikuus ja 76 000 eurot aastas.
+
+(6) ERC grandi taotlemise toetuse projekti eelarve on 9750 eurot kalendrikuus ja 117 000 eurot aastas.
+
+(7) Toetuse määr on 86,58% käesoleva paragrahvi lõigetes 5 ja 6 nimetatud projekti eelarvest, välja arvatud juhul, kui toetust antakse riigiabina käesoleva määruse § 6 tähenduses.
+
+(8) Taotleja tagab omafinantseeringu, mis on 13,42% käesoleva paragrahvi lõigetes 5 ja 6 nimetatud projekti eelarvest.
+
+(9) Toetuse mahu väikseim arvestusperiood on üks kuu.
+
+(10) Toetust antakse järgmistele tegevustele, millega aidatakse kaasa käesoleva määruse §-s 3 nimetatud eesmärkide saavutamisele:
+
+1\) alusuuringute ja rakendusuuringute ning eksperimentaalarenduse läbiviimine;
+
+2\) teadus- ja arendustegevuseks vajalike seadmete ja taristu soetamine, hooldamine ja kaasajastamine;
+
+3\) teadustaristu, sealhulgas välisriikides asuva teadustaristu, kasutamine;
+
+4\) projektiga seotud riigisisene ja rahvusvaheline koostöö;
+
+5\) teadus- ja arendustegevuse tulemuste tutvustamine ja levitamine;
+
+6\) projektiga seotud inimeste mobiilsus ja pädevuse kasvatamine.
+
+(11) Eraldatava toetuse personali- ja teadustöö otsestest kuludest 25% moodustab kaudne kulu.
+
+## 3. peatükk — Taotluse menetlemine, taotluse rahuldamine ja toetuse eraldamine
+
+### § 10. Taotluse menetlemine
+
+(1) Toetuse taotlusi menetleb rakendusüksus ETIS-s.
+
+(2) Taotluse tehnilise kontrolli viib läbi rakendusüksus.
+
+(3) Tehnilise kontrolli käigus hinnatakse taotluse, projektis osalevate inimeste ja vastuvõtva asutuse vastavust nõuetele ning tehakse kindlaks, kas projektile antav abi võib kvalifitseeruda riigiabiks.
+
+(4) Tehnilise kontrolli käigus ei hinnata taotlust sisuliselt ega hinnata projekti teaduslikku taset, vaid võetakse aluseks MSCA järeldoktori või ERC grandi taotluse hindamisraport.
+
+(5) Kui taotluses esinevad vormilised ebatäpsused, mida on võimalik ilma taotlust sisuliselt muutmata kõrvaldada, määrab rakendusüksus taotlejale selleks kuni kümne tööpäeva pikkuse tähtaja.
+
+(6) Rakendusüksus võib tehnilise kontrolli tulemusena jätta taotluse läbi vaatamata, kui:
+
+1\) taotlus, projektis osalevad inimesed või vastuvõttev asutus ei vasta nõuetele ning mittevastavust ei olnud võimalik punktis kõrvaldada või
+
+2\) taotleja ei kõrvaldanud mittevastavust rakendusüksuse määratud tähtajaks ja tähtaega ei ennistata.
+
+(7) Rakendusüksus teeb taotluse mitterahuldamise otsuse, kui taotleja tegi taotluses sisulisi muudatusi, mis ei olnud suunatud rakendusüksuse nimetatud vormilise ebatäpsuse kõrvaldamisele.
+
+(8) Nõuetele vastavaks tunnistatud MSCA järeldoktori toetuse taotlustest moodustatakse paremusjärjestus vastavalt MSCA taotlusvooru koondhindele.
+
+(9) MSCA järeldoktori toetuse taotlusvooru hindamisraporti järgi võrdse punktisummaga taotlused seatakse paremusjärjestusse järgmiselt:
+
+1\) eelistatakse taotlusi, millel on kõrgem hinne MSCA järeldoktori individuaalgrandi taotlusvooru hindamisraporti kriteeriumi „Excellence” eest; kui need hinded on võrdsed, siis neid taotlusi, millel on kõrgem hinne kriteeriumi „Impact” eest;
+
+2\) taotlused, mis jäävad võrdsele positsioonile pärast käesoleva lõike punktis 1 kirjeldatud tegevust, seatakse paremusjärjestusse, eelistades taotlusi, millega tuuakse Eestisse järeldoktor, kes on eelnevalt saanud Eesti riigieelarvest rahastatud toetuse välisriigis doktorikraadi omandamiseks;
+
+3\) taotlused, mis jäävad võrdsele positsioonile pärast käesoleva lõike punktis 2 kirjeldatud tegevust, seatakse paremusjärjestusse, eelistades taotlusi, milles on järeldoktor temast paremusjärjestuses eespool olevate järeldoktorite seas vähem esindatud soo esindaja;
+
+4\) taotlused, mis jäävad võrdsele positsioonile pärast käesoleva lõike punktis 3 kirjeldatud tegevust, seatakse paremusjärjestusse, eelistades taotlusi, mille valdkond on paremusjärjestuses eespool olevate taotluste seas vähem esindatud;
+
+5\) taotlused, mis jäävad võrdsele positsioonile pärast käesoleva lõike punktis 4 kirjeldatud tegevust, seatakse paremusjärjestusse loosimise teel rakendusüksuse kehtestatud korras.
+
+(10) MSCA järeldoktori toetuse taotlused rahuldatakse paremusjärjestuse alusel kuni toetuse andmiseks eraldatud vahendite lõppemiseni.
+
+(11) Nõuetele vastavaks tunnistatud ERC grandi toetuse taotlused rahuldatakse esitamise järjekorras kuni toetuse andmiseks eraldatud vahendite lõppemiseni.
+
+(12) Rakendusüksus võib toetuse taotluse rahuldamise otsuses täpsustada toetuse eraldamise tingimuste täitmise korraldust, sealhulgas teaduseetika ja teadusandmete haldamisega seonduvat, ilma et sellega kehtestataks uusi kohustusi.
+
+### § 11. Taotluse rahuldamise otsustamine
+
+(1) Rakendusüksus teeb otsuse, kas rahuldada taotlus ja määrata toetus või taotlust mitte rahuldada. Taotluse rahuldamise otsuses määratakse toetuse eelarve.
+
+(2) Taotluse kohta tehtud otsus edastatakse taotlejale ETIS-e kaudu viie tööpäeva jooksul otsuse tegemisest arvates.
+
+(3) Enne taotluse mitterahuldamise otsuse tegemist annab rakendusüksus taotlejale võimaluse esitada kirjalik arvamus ja vastuväited rakendusüksuse määratud tähtajaks.
+
+### § 12. Toetuse eraldamine
+
+(1) Rakendusüksus sõlmib toetuse eraldamisel vastuvõtva asutuse ja järeldoktori või vastutava täitjaga kolmepoolse lepingu, milles on ära toodud osapoolte vastastikused õigused, kohustused ja vastutus.
+
+(2) Toetus eraldatakse vastuvõtvale asutusele, kellel on kohustus võimaldada järeldoktoril või vastutaval täitjal kasutada eraldatud toetust projekti täitmiseks kooskõlas taotlusega.
+
+(3) Toetuse eraldamine toimub vastavalt lepingus sätestatud tingimustele.
+
+(4) Toetuse eraldamise korral sõlmib asutus järeldoktoriga või vastutava täitjaga töölepingu projekti täitmiseks, juhul kui enne toetuse eraldamist nende vahel tööleping puudub, või muudab vastavalt toetuse tingimustele kehtivat töölepingut.
+
+## 4. peatükk — Toetuse kasutamise aruandlus, projekti tulemuste avalikustamine, projekti ajutine peatamine ja projekti ennetähtaegne lõpetamine
+
+### § 13. Toetuse kasutamise aruandlus
+
+(1) Toetuse kasutamise kohta esitatakse rakendusüksusele lõpparuanne.
+
+(2) Lõpparuande koostab vastuvõttev asutus koostöös järeldoktoriga või vastutava täitjaga eesti või inglise keeles ning esitab selle ETIS-e kaudu kahe kuu jooksul pärast projekti lõppu.
+
+(3) Juhul kui vastuvõtval asutusel ei ole võimalik järeldoktoriga või vastutava täitjaga koostöös lõpparuannet koostada, koostab ja esitab lõpparuande rakendusüksusele vastuvõttev asutus.
+
+(4) Lõpparuande vormi koos esitatavate andmete loeteluga kehtestab rakendusüksus.
+
+(5) MSCA järeldoktori toetuse kasutamise lõpparuandes tuuakse välja järgmine informatsioon:
+
+1\) uurimistöö tulemused eesti- ja ingliskeelse populaarteadusliku lühikokkuvõtte vormis;
+
+2\) saavutatud tulemuste rakendatavus, teaduslik ja ühiskondlik mõju ning kavandatud jätkamissuunad, kui asjakohane;
+
+3\) projekti tutvustamisega seotud tegevused;
+
+4\) juhul, kui projektil oli puutumus Nagoya protokolliga, hoolsuskohustust puudutav deklaratsioon;
+
+5\) projekti teadusandmete haldamise kirjeldus;
+
+6\) toetuse eraldamisel toetuse rahuldamise otsuses kirjeldatud tingimuste täitmine;
+
+7\) muud taotleja ja järeldoktori hinnangul olulised asjaolud;
+
+8\) toetuse kasutamise tegevusaruanne vastavalt taotluses esitatud tegevuskavale;
+
+9\) vajadusel muud ETISe lõpparuandevormis küsitud projekti tutvustamiseks vajalikud materjalid.
+
+(6) ERC grandi taotlemise toetuse lõpparuandes tuuakse välja järgmine informatsioon:
+
+1\) projekti tulemused, sealhulgas projekti täitmise tulemusel avaldatud ja grandile viitavate publikatsioonide terviktekstid ning tööstusomandid vastavalt taotluses esitatud eesmärkidele;
+
+2\) toetuse kasutamise aruanne vastavalt taotluses esitatud tegevuskavale;
+
+3\) vastutava täitja hinnang, kuidas toetus aitas kaasa ERC grandi taotluse taasesitamisele;
+
+4\) juhul, kui uurimistööl oli puutumus Nagoya protokolliga, hoolsuskohustust puudutav deklaratsioon;
+
+5\) toetuse eraldamisel toetuse rahuldamise otsuses kirjeldatud tingimused, mida vastuvõttev asutus ja/või vastutav täitja on kohustatud toetuse saamisel täitma;
+
+6\) projekti teadusandmete haldamise kirjeldus;
+
+7\) vajadusel muu ETIS-e lõpparuandevormis küsitud projekti tutvustamiseks vajalik teave.
+
+(7) Rakendusüksus jätab lõpparuande heaks kiitmata, kui:
+
+1\) lõpparuanne ei vasta nõuetele ning mittevastavust pole kõrvaldatud rakendusüksuse määratud tähtajaks;
+
+2\) järeldoktor, vastutav täitja või vastuvõttev asutus on projekti täitmisega seoses olulisel määral rikkunud õigusaktides või käesolevas määruses sätestatud nõudeid;
+
+3\) järeldoktor, vastutav täitja või vastuvõttev asutus on esitanud tahtlikult valeandmeid või projektiga seotud tegevuses on ilmnenud loomevargus või petturlus;
+
+4\) esinevad muud olulised puudused projekti eesmärkide täitmisel.
+
+(8) Rakendusüksusel on õigus nõuda järeldoktorilt, vastutavalt täitjalt või asutuselt vahearuannet, kus antakse ülevaade projekti elluviimisest. Kui vahearuande põhjal selgub, et toetust on kasutatud mittesihtotstarbeliselt, on rakendusüksusel õigus toetus tagasi nõuda.
+
+### § 14. Toetatud projekti tulemuste avalikustamine
+
+(1) Projekti tulemuste publitseerimisel viidatakse, et projekti on rahastanud Sihtasutus Eesti Teadusagentuur, ja lisatakse projekti number.
+
+(2) Projekti tulemusena avaldatud ja toetusele viitavate publikatsioonide terviktekstid teeb vastuvõttev asutus avalikkusele ETISe kaudu kättesaadavaks, välja arvatud juhul, kui avalikustamist piiravad teised õigusaktid või intellektuaalomandi kaitsmise vajadus. Kui kirjastus piirab publikatsioonidele juurdepääsu ajaliselt, teeb vastuvõttev asutus publikatsioonide terviktekstid ETISe kaudu avalikkusele kättesaadavaks pärast piirangu lõppemist.
+
+(3) Projekti tulemused ning võimaluse korral projekti raames kogutud andmed tehakse avalikkusele kättesaadavaks, välja arvatud juhul, kui avalikustamist piiravad teised õigusaktid või intellektuaalomandi kaitsmise vajadus.
+
+(4) Projekti lõpparuande põhitulemuste eesti- ja ingliskeelse populaarteadusliku lühikokkuvõtte teeb rakendusüksus avalikult vabalt kättesaadavaks.
+
+### § 15. Toetatud projekti ajutine peatamine
+
+(1) Järeldoktoril või vastutaval täitjal on õigus taotleda projekti ajutist peatamist tema vanemapuhkuse, emapuhkuse, isapuhkuse, kaitseväeteenistuse, haiguse või muu erakorralise asjaolu puhul, mille tõttu osutub projekti täitmine võimatuks või on olulisel määral raskendatud.
+
+(2) Projekti ajutiseks peatamiseks esitab järeldoktor või vastutav täitja koos vastuvõtva asutusega rakendusüksusele ühise põhjendatud avalduse.
+
+(3) Projekti ajutist peatamist võib kokku taotleda kuni kolmeks aastaks.
+
+(4) Rakendusüksus hindab projekti ajutise peatamise taotluse põhjendatust ning rahuldab taotluse või jätab selle rahuldamata.
+
+(5) Projekti ajutisel peatamisel peatub leping ning projekti lõppkuupäev lükkub peatatud aja võrra edasi, kuid mitte rohkem kui 31. august 2029.
+
+### § 16. Toetuse ennetähtaegne lõpetamine
+
+(1) Rakendusüksusel on õigus toetuse eraldamine ennetähtaegselt lõpetada, kui:
+
+1\) järeldoktor, vastutav täitja või vastuvõttev asutus on esitanud vastava taotluse;
+
+2\) järeldoktor, vastutav täitja või vastuvõttev asutus osutub projekti täitmise ajal käesolevas määruses sätestatud tingimustele mittevastavaks;
+
+3\) järeldoktor, vastutav täitja või vastuvõttev asutus on projekti täitmisega seoses rikkunud õigusaktides sätestatud nõudeid;
+
+4\) järeldoktor või vastutav täitja ei ole võimeline projekti täitma;
+
+5\) järeldoktor, vastutav täitja või vastuvõttev asutus on esitanud tahtlikult valeandmeid või projektiga seotud tegevuses on ilmnenud loomevargus või petturlus;
+
+6\) rakendusüksus ei rahulda projekti ajutise peatamise taotlust ja projekti elluviimine taotluses kirjeldatud viisil ei ole võimalik.
+
+(2) Enne käesoleva paragrahvi lõikes 1 nimetatud otsuse tegemist võimaldab rakendusüksus vastuvõtval asutusel ja järeldoktoril või vastutaval täitjal esitada kirjalikult oma arvamus projekti ennetähtaegse lõpetamise kohta rakendusüksuse määratud tähtajaks, välja arvatud käesoleva paragrahvi lõike 1 punktis 1 nimetatud juhul.
+
+(3) Toetuse ennetähtaegsel lõpetamisel on vastuvõttev asutus kohustatud rakendusüksusele tagasi kandma kasutamata toetuse osa hiljemalt seitsme kalendripäeva jooksul.
+
+(4) Toetuse ennetähtaegsel lõpetamisel esitavad asutus ja järeldoktor või vastutav täitja projekti lõpparuande vastavalt käesoleva määruse §-le 13.
+
+## 5. peatükk — Toetuse tagasinõudmine
+
+### § 17. Toetuse tagasinõudmine
+
+(1) Taotleja on kohustatud võimaldama rakendusüksusel või tema volitatud inimesel viia läbi toetuse kasutamise kontrolli ning osutama selleks igakülgset abi, samuti esitama kõik nõutud dokumendid.
+
+(2) Rakendusüksusel on õigus toetus rikkumise raskusest lähtudes osaliselt või täies mahus tagasi nõuda ja toetuse andmise otsus osaliselt või täielikult kehtetuks tunnistada, kui:
+
+1\) vastuvõttev asutus, järeldoktor või vastutav täitja on esitanud valeandmeid;
+
+2\) eraldatud toetust on kasutatud mittesihtotstarbeliselt;
+
+3\) projekti täitmiseks vajalik asjaomase eetikakomitee kooskõlastus ei ole rakendusüksusele esitatud hiljemalt uuringute alguseks;
+
+4\) eraldatud toetust ei ole antud riigiabina või vähese tähtsusega abina, kuid toetust kasutatakse majandustegevuseks.
+
+(3) Käesoleva paragrahvi lõike 2 punkti 2 tähenduses loetakse mittesihtotstarbeliseks toetuse kasutamiseks ka olukorda, kui vastutav täitja ei esita käesoleva määruse § 8 lõikes 4 nimetatud tähtaja jooksul ERC grandi kordustaotlust, välja arvatud kui ERC grandi taotlus ei ole esitatud vastutavast täitjast mitte sõltuvatest põhjustest.
+
+(4) Kui toetuse rahuldamise otsus tunnistatakse kehtetuks tagasiulatuvalt, võib rakendusüksus taotlejalt eraldatud toetuse tagasi nõuda.
+
+(5) Kui rakendusüksus on teinud toetuse osalise või täieliku tagasinõudmise otsuse, peab vastuvõttev asutus otsuses nimetatud toetuse tagasi maksma 60 kalendripäeva jooksul otsuse kehtima hakkamise kuupäevast alates.
+
+(6) Tagasimaksmisele kuuluva toetuse võib ajatada vastuvõtva asutuse põhjendatud taotluse alusel, kui korraga maksmine seab asutuse olulisel määral makseraskustesse.
+
+### § 18. Rakendussäte
+
+Enne käesoleva määruse jõustumist eraldatud MSCA järeldoktori individuaalgrandi ja Euroopa Teadusnõukogu grandi toetustele kohaldatakse toetuse taotlemise ajal kehtinud tingimusi ja korda.
+
+---
+
+Kristina Kallas, Minister
+
+Triin Laasi-Õige, Kantsler

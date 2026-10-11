@@ -1,0 +1,191 @@
+---
+title: "Geodeetiline süsteem"
+identifier: "128122024053"
+rt_reference: "RT I, 28.12.2024, 53"
+rt_original: "RT I, 28.10.2011, 3"
+group_id: "1001464"
+type: regulation
+issuer: "Keskkonnaminister"
+number: "64"
+text_type: "terviktekst"
+jurisdiction: ee
+language: et
+date: 2011-10-26
+last_amended: 2025-01-01
+status: in_force
+source: "https://www.riigiteataja.ee/akt/128122024053"
+retrieved: 2026-10-12
+---
+
+# Geodeetiline süsteem
+
+Määrus kehtestatakse „Avaliku teabe seaduse” § 43<sup>9</sup> lõike 1 punkti 2 ja Vabariigi Valitsuse 17. jaanuari 2008. a määruse nr 17 „Volituste andmine geodeetilise süsteemi kehtestamiseks” ning „Ruumiandmete seaduse” § 32 ja Vabariigi Valitsuse 14. juuli 2011. a määruse nr 101 „Volituse andmine geodeetilise süsteemi kehtestamiseks” alusel.
+
+## 1. peatükk — Üldsätted
+
+### § 1. Reguleerimisala
+
+Määrusega kehtestatakse geodeetiline süsteem, selle koosseis ning geodeetiliste võrkude parameetrid ja nende koosseis.
+
+### § 2. Geodeetilise süsteemi kasutamine
+
+(1) Geodeetilise süsteemi kasutamine on kohustuslik:
+
+1\) teabevaldaja andmekogu pidamisel ja ruumiandmeteenuse osutamisel;
+
+2\) geodeetiliste andmete töötlemisel, kui neid andmeid kasutatakse teabevaldaja andmekogus.
+
+(2) Geodeetilise süsteemi kasutamise kohustuse suhtes võib teha „Avaliku teabe seadusega” ettenähtud korras erandi rahvusvahelisest lepingust tulenevate ülesannete täitmiseks asutatud andmekogule.
+
+(3) Riigi ja kohaliku omavalitsuse andmekogus peetavad ruumiandmed peavad olema kättesaadavad kehtiva geodeetilise süsteemiga määratud tasapinnalistes ristkoordinaatide süsteemis ja kõrgussüsteemis.
+
+(4) Riigi ja kohaliku omavalitsuse andmekogu pidaja kooskõlastab Maa- ja Ruumiametiga varasemate ja käesolevas määruses sätestatud geodeetilise süsteemi vahelised teisendusparameetrid.
+
+\[RT I, 28.12.2024, 13 - jõust. 01.01.2025\]
+
+## 2. peatükk — Geodeetiline süsteem ja selle koosseis
+
+### § 3. Geodeetiline süsteem
+
+(1) Geodeetiline süsteem tagab ühtses koordinaat-, kõrgus- ja gravimeetrilises süsteemis reaalmaailma nähtuste asukoha ja raskuskiirenduse määramise ning nende järjepideva monitooringu.
+
+(2) Geodeetiline süsteem on ruumiandmete infrastruktuuri alus, mis kindlustab andmekogude pidamist.
+
+(3) Geodeetiline süsteem koosneb:
+
+1\) geodeetilisest referentssüsteemist;
+
+2\) tasapinnaliste ristkoordinaatide süsteemist;
+
+3\) kõrgussüsteemist;
+
+4\) gravimeetrilisest süsteemist;
+
+5\) nimetatud süsteemidele vastavatest võrkudest.
+
+### § 4. Geodeetiline referentssüsteem
+
+(1) Geodeetiliseks referentssüsteemiks on Euroopa Terrestriline Referentssüsteem 89 (edaspidi *ETRS89*)*.*
+
+(2) ETRS89 ühtib Rahvusvahelise Maa Rotatsiooniteenistuse (edaspidi *IERS*) Rahvusvahelise Terrestrilise Referentssüsteemiga (edaspidi *ITRS*) epohhil 1989.0 ning see on fikseeritud Euraasia laama stabiilses osas. Geodeetiliste koordinaatide arvutamisel kasutatakse rahvusvahelise referentsellipsoidi GRS80 parameetreid.
+
+(3) IERS referentssüsteem ITRS on kokkuleppeline terrestriline referentssüsteem, mis koosneb koordinaatide alguse, mõõtkava, orientatsiooni ja ajaliste muutuste määramiseks vajalikest eeskirjadest, kokkulepetest ning modelleeringutest vastavalt IERS kehtivatele määratlustele.
+
+(4) IERS poolt uuendatava ja täpsustatava referentssüsteemi ITRS realisatsiooniks on geodeetiliste punktide geotsentriliste ristkoordinaatide kogum – Rahvusvaheline Terrestriline Referentsraamistik (edaspidi *ITRF*).
+
+(5) Eestis loetakse ETRS89 koordinaadid ja Ülemaailmse Geodeetilise Süsteemi 1984 koordinaadid identseteks.
+
+\[RT I, 26.07.2017, 1 - jõust. 01.01.2018\]
+
+### § 5. Riiklik geodeetiline võrk
+
+(1) Riiklik geodeetiline võrk jaguneb mõõtmiste täpsuse, märkide kindlustatuse ning võrgu hierarhilise ülesehituse kohaselt I ja II klassi võrguks ning tihendusvõrguks. I klassi võrku täiendab Maa- ja Ruumiameti hallatav globaalse positsioneerimise püsijaamade võrk ESTREF, mis tagab riikliku geodeetilise võrgu järjepideva monitooringu. Nimetatud võrkude punktid ja nende koordinaadid on aluseks teistele geodeetilise referentssüsteemi realisatsioonidele Eestis.
+
+\[RT I, 28.12.2024, 13 - jõust. 01.01.2025\]
+
+(2) ETRS89 realisatsiooniks Eestis on I klassi geodeetilise võrgu punktid ja nende koordinaadid. I klassi võrku täiendavad ja tihendavad II klassi võrk ja tihendusvõrk.
+
+(3) Eestis tähistatakse ETRS89 realisatsiooni ruumilisi ristkoordinaate ja geodeetilisi koordinaate lühendiga EUREF-EST97.
+
+(4) Riikliku geodeetilise võrgu I klassi punktide koordinaadid epohhil 1997.56 tuginevad IERS 1996. a määratlustel, ITRS realisatsioonil ITRF96, I klassi võrgu mõõtmisel ning Euroopa Referentsraamistiku Komisjoni (edaspidi *EUREF*) määratluse kohasel arvutusmetoodikal.
+
+(5) \[Kehtetu - RT I, 26.07.2017, 1 - jõust. 01.01.2018\]
+
+(6) \[Kehtetu - RT I, 26.07.2017, 1 - jõust. 01.01.2018\]
+
+### § 6. Tasapinnaliste ristkoordinaatide süsteem
+
+Tasapinnaliste ristkoordinaatide süsteem on L-EST97, mille koordinaadid arvutatakse EUREF-EST97 geodeetilistest koordinaatidest kasutades Lamberti kahe lõikeparalleeliga koonilisest konformsest kaardiprojektsiooni LAMBERT-EST ja rahvusvahelist referentsellipsoidi GRS80. LAMBERT-EST parameetrid on järgmised:
+
+1\) lõunapoolne lõikeparalleel *B<sub>S</sub>* = 58° 00' põhjalaiust;
+
+2\) põhjapoolne lõikeparalleel *B<sub>N</sub>* = 59° 20' põhjalaiust;
+
+3\) telgmeridiaan *L*
+ <sub>0</sub> = 24° 00' idapikkust;
+
+4\) koordinaatide algpunkti geodeetilised koordinaadid:\
+
+ *B*
+ <sub>0</sub> = 57° 31' 03".19415 põhjalaiust, *L*
+ <sub>0</sub> = 24° 00' idapikkust;
+
+5\) koordinaatide algpunkti tasapinnalised ristkoordinaadid:\
+
+ *x*
+ <sub>0</sub> = 6 375 000 m, *y*
+ <sub>0</sub> = 500 000 m.
+
+### § 7. Kohalik geodeetiline võrk
+
+(1) Kohalik geodeetiline võrk jaguneb mõõtmiste täpsuse, märkide kindlustatuse ning võrgu hierarhilise ülesehituse kohaselt 1., 2. ja 3. järguks.
+
+(2) Kohaliku geodeetilise võrgu 1. järgu moodustavad kohaliku geodeetilise võrgu lähtepunktid. Kohaliku geodeetilise võrgu 1. järgu tihendamiseks rajatakse vajadusel 2. järk.
+
+\[RT I, 26.07.2017, 1 - jõust. 01.01.2018\]
+
+(3) Kohaliku geodeetilise võrgu 3. järgu moodustavad L-EST97 koordinaatide süsteemi teisendatud geodeetilise võrgu punktid.
+
+### § 8. Kõrgussüsteem
+
+(1) Kõrgussüsteemiks on Euroopa Vertikaalne Referentssüsteem (edaspidi *EVRS*).
+
+(2) EVRS on kinemaatiline referentssüsteem, mille lähtenivoo on määratletud Amsterdamis asuva Normaal Amsterdam Peil kaudu, kus kasutatakse tahke Maa püsivate null-loodete süsteemi ja kõrgused väljendatakse geopotentsiaaliarvudena.
+
+(3) Geopotensiaaliarvudest normaalkõrguste arvutamisel kasutatakse referentsellipsoidi GRS-80 normaalraskuskiirenduse väärtusi.
+
+(4) Eesti geoidi mudel on EST-GEOID2017.
+
+\[RT I, 26.07.2017, 1 - jõust. 01.01.2018\]
+
+### § 9. Kõrgusvõrk
+
+(1) Eestis tähistatakse EVRS kõrgusi lühendiga EH2000.
+
+(2) EH2000 normaalkõrgused epohhil 2000 tuginevad riiklikul kõrgusvõrgul, mille kõrgusväärtused lähtuvad EVRS realisatsioonist EVRF2007.
+
+(3) Riiklikku kõrgusvõrku täiendavad kohalikud kõrgusvõrgud. Nimetatud võrkude punktid ja nende kõrgused on aluseks teistele kõrgussüsteemi realisatsioonidele Eestis.
+
+(4) Mudelit EST-GEOID2017 kasutatakse arvutustulemustele esitatavate täpsusnõuete kohaselt EUREF-EST97 ellipsoidaalsete kõrguste ümberarvutamiseks EH2000 normaalkõrgusteks ja vastupidi.
+
+\[RT I, 26.07.2017, 1 - jõust. 01.01.2018\]
+
+### § 10. Gravimeetriline süsteem
+
+(1) Gravimeetriliseks süsteemiks on Rahvusvaheliste Gravimeetriliste Absoluutpunktide Võrgu (edaspidi *IAGBN*) 1988. a andmetöötluse standarditel põhinev süsteem.
+
+(2) Gravimeetrilise süsteemiga on määratletud ajas varieeruvate ja püsivate tahke Maa loodete, pooluste triivi, atmosfääri masside mõjude arvutamiseks vajalikud eeskirjad, kokkulepped ning modelleeringud.
+
+### § 11. Gravimeetriline võrk
+
+(1) Gravimeetriline võrk jaguneb vastavalt mõõtmiste täpsuse, punktide kindlustatuse ning võrgu hierarhilise ülesehituse kohaselt I, II ja III klassi võrguks. Nimetatud võrkude punktid ning nende raskuskiirenduse väärtused on aluseks teistele gravimeetrilise süsteemi realisatsioonidele Eestis.
+
+(2) Gravimeetrilise süsteemi realisatsiooniks Eestis on I klassi gravimeetrilise võrgu punktide raskuskiirenduste väärtuste kogum EG2000. I klassi võrku täiendavad ja tihendavad II ja III klassi gravimeetrilised võrgud.
+
+\[RT I, 26.07.2017, 1 - jõust. 01.01.2018\]
+
+(3) Gravimeetrilise võrgu punktide raskuskiirenduse väärtused epohhil 2000 tuginevad IAGBN standardite kohaselt läbi viidud gravimeetrilise võrgu I klassi punktide raskuskiirenduse absoluutmõõtmiste tulemustele*.*
+
+\[RT I, 26.07.2017, 1 - jõust. 01.01.2018\]
+
+## 3. peatükk — Rakendussäte
+
+### § 11<sup>1</sup>. Üleminek EH2000 kõrgustele
+
+(1) Üleminekuperiood EH2000 kõrgustele algab 2018. aasta 1. jaanuaril ja lõppeb 2018. aasta 31. märtsil. Enne 2018. aasta 1. jaanuari alustatud tööde tulemused esitatakse üleminekuperioodil Balti 1977 kõrguste süsteemi (BK77) või EH2000 kõrgustena. Põhjendatud juhtudel võib Maa-amet pikendada üleminekuperioodi kuni 2018. aasta 1. oktoober.
+
+(2) Ehitusvaldkonnas toimub üleminek EH2000 kõrgustele järgmiselt:
+
+1\) pärast 2018. aasta 1. jaanuari alustatud ehitusprojektiga seotud tegevused viiakse läbi ja teostusmõõdistamise tulemused esitatakse EH2000 kõrgusi kasutades;
+
+2\) enne 2018. aasta 1. jaanuari alustatud ehitusprojektiga seotud tegevused võib läbi viia kasutades Balti 1977 kõrguste süsteemi (BK77), ehitusprojektiga seotud teostusmõõdistuse tulemused esitatakse EH2000 kõrgustena;
+
+3\) kui ehitusprojektis on käesoleva lõike punkti 2 alusel kasutatud Balti 1977 kõrguste süsteemi (BK77), siis tööde tellijal on õigus nõuda täiendavalt teostusmõõdistuse tulemuste esitamist Balti 1977 kõrguste süsteemis (BK77).
+
+(3) Geodeetilise süsteemi komponentide kirjeldused ja üleminekuparameetrid BK77 ja EH2000 kõrguste vahel tehakse kättesaadavaks Eesti geoportaali kaudu.
+
+\[RT I, 26.07.2017, 1 - jõust. 01.01.2018\]
+
+### § 12. Määruse kehtetuks tunnistamine
+
+\[Käesolevast tekstist välja jäetud.\]

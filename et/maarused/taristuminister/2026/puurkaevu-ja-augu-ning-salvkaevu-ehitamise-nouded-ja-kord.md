@@ -1,0 +1,598 @@
+---
+title: "Puurkaevu ja -augu ning salvkaevu ehitamise nõuded ja kord"
+identifier: "125032026019"
+rt_reference: "RT I, 25.03.2026, 19"
+group_id: "1063156"
+type: regulation
+issuer: "Taristuminister"
+number: "25"
+text_type: "algtekst-terviktekst"
+jurisdiction: ee
+language: et
+date: 2026-03-24
+last_amended: 2026-03-28
+status: in_force
+source: "https://www.riigiteataja.ee/akt/125032026019"
+retrieved: 2026-10-12
+---
+
+# Puurkaevu ja -augu ning salvkaevu ehitamise nõuded ja kord
+
+Määrus kehtestatakse ehitusseadustiku § 126 lõike 6 alusel.
+
+## 1. peatükk — Üldsätted
+
+### § 1. Määruse eesmärk
+
+Määruse eesmärk on vältida põhjavee seisundi halvenemist, kaitsta salvkaevu, puurkaevu ja -augu konstruktsiooni ning tagada inimese tervisele ohutu vee piisavas koguses kasutamine.
+
+### § 2. Määruses kasutatavad mõisted
+
+(1) Määruses kasutatakse mõisteid järgmises tähenduses:
+
+1\) puurkaev ‒ veehaarde, põhjaveeseire ja soojussüsteemi puurkaev;
+
+2\) puurauk ‒ põhjaveeseire ja soojussüsteemi puurauk;
+
+3\) salvkaev ‒ maapinnalähedasse põhjaveekihti vee võtmiseks rajatud kaev, mille seinad on toestatud raketega;
+
+4\) avatud soojussüsteem ‒ süsteem, milles põhjavesi pumbatakse puurkaevust soojusvahetisse, kus toimub energia ülekanne, ja pärast soojusvaheti läbimist suunatakse kasutatud vesi teise puurauku, ühisveevärki või keskkonda;
+
+5\) kinnine soojussüsteem ‒ süsteem, milles soojuskandja torustik või torustikud on paigaldatud puurauku ning puuraugu ja torustiku vaheline ruum on täidetud tsementeerimisseguga;
+
+6\) juhttoru ‒ puurimistööde käigus maapinda puuritav ajutine toru, mille eesmärk on puuraugu toestamine puurimise ajal;
+
+7\) manteltoru ‒ puurkaevu konstruktsiooni element, mis jääb püsivalt maa sisse ja mille ümber luuakse tsementeeriv isolatsioonikiht.
+
+(2) Juhttoru ei kuulu puurkaevu püsivasse konstruktsiooni ning see eemaldatakse või jääb ajutiseks toestuseks puurimise etapil, kuid ei tohi täita lõplikku manteltoru funktsiooni.
+
+(3) Manteltoru koos tsementatsiooniga tagab puurkaevu konstruktsiooni veepidavuse, võimaldab isoleerida kindlalt erinevad põhjaveekihid ning kaitseb põhjaveekihti välise saastatuse ja veekihtide segunemise eest.
+
+## 2. peatükk — Puurkaevu või -augu projekteerimine
+
+### § 3. Puurkaevu või -augu projekteerimisele eelnev tegevus
+
+(1) Enne puurkaevu või -augu projekteerimist peab projekteerija tutvuma puurkaevu või -augu kavandatava asukohaga kohapeal ning määrama puurkaevu või -augu asukoha täpsed koordinaadid.
+
+(2) Projekteerija arvestab kohapealsel vaatlusel selgunud olusid ja tingimusi ehitusprojektis puurkaevu asukoha määramisel.
+
+(3) Enne kui asuda projekteerima sellist puurkaevu, millega võetakse vett üle kümne kuupmeetri ööpäevas või mille vett kasutab rohkem kui 50 inimest, tehakse vajadusel hüdrogeoloogiline uuring, kas põhjavee kvaliteet kavandatavas veehaardes sobib joogivee tootmiseks.
+
+### § 4. Puurkaevu või -augu projekteerimine
+
+(1) Puurkaevu või -augu ehitusprojekti koostamisel tuleb arvestada olemasolevate puurkaevude või -aukude mõjuraadiusi, rajatava puurkaevu või -augu toiteala, sanitaarkaitseala või hooldusala moodustamise võimalust, geoloogilisi ja hüdrogeoloogilisi tingimusi ning järgmisi nõudeid:
+
+1\) puurkaev või -auk ei tohi põhjustada põhjavee seisundi halvenemist ega avaldada negatiivset mõju läheduses asuvatele puurkaevudele või -aukudele, salvkaevudele, maakasutusele ning ökosüsteemidele;
+
+2\) puurkaevu kavandamisel tootmisvee võtmise eesmärgil või avatud soojussüsteemi puurkaevu kavandamisel tuleb eelistada maapinnalähedasi taastuvaid põhjaveekihte, kui see tagab projektikohase veekoguse ja kvaliteedi;
+
+3\) joogivee võtmise eesmärgil kavandatava puurkaevu korral kasutatakse põhjaveekihti, mille vee kvaliteet on joogivee kvaliteedinõuetele võimalikult lähedane.
+
+(2) Soojussüsteemi puurkaevu või -augu ehitusprojekti koostamisel tuleb lisaks lõikes 1 nimetatud nõuetele arvestada ka soojustehniliste arvutuste andmeid ja kivimite soojusjuhtivust.
+
+### § 5. Nõuded puurkaevu või -augu ehitusprojekti kohta
+
+(1) Puurkaevu või -augu ehitusprojekt koosneb tehnilistest joonistest, seletuskirjast ja selle lisadest (edaspidi *ehitusprojekt*). Ehitusprojekt koostatakse mahus, mis võimaldab saada ülevaate kavandatavast puurkaevust või -august ning hinnata rajatava puurkaevu või -augu vastavust põhjavee kasutamise ja kaitse nõuetele.
+
+(2) Puurkaevu või -augu ehitusprojekt peab sisaldama järgmisi andmeid:
+
+1\) puurkaevu või -augu ehitusprojekti koostanud ettevõtja nimi, registrikood, e-posti aadress, telefoninumber, hüdrogeoloogiliste tööde tegevusloa number majandustegevuse registris ning projekteerija nimi, isikukood ja telefoninumber;
+
+2\) maaüksuse, kuhu puurkaev või -auk rajatakse, aadress ja katastritunnus;
+
+3\) puurkaevu või -augu koordinaadid;
+
+4\) puurkaevu või -augu ehitamise eesmärk;
+
+5\) avatav põhjaveekiht ja -kogum;
+
+6\) Eesti põhikaardi väljavõte, millele on märgitud põhja-lõuna suund, kasutatava veekihi põhjaveevoolu suund, kavandatavast puurkaevust või -august 200 meetri raadiuses asuvad potentsiaalselt ohtlikud saasteallikad nagu jääkreostusalad ja -objektid, kalmistud, kaevandused, prügilad, laudad, sõnnikuaunad, taimekaitsevahendite ja väetisehoidlad, kemikaale sisaldavad mahutid, kogumiskaevud, imbsüsteemid, käimlad, kanaliseerimata saunad jmt objektid ning kavandatavast puurkaevust või -august ühe kilomeetri raadiuses asuvad sama põhjaveekihti avavad puurkaevud ja -augud;
+
+7\) puurkaevu või -augu asukoha kirjeldus ja asukoha valiku põhjendus;
+
+8\) puurkaevu või -augu vahetu ümbruse maapinna absoluutne kõrgus;
+
+9\) piirkonna hüdrogeoloogiliste tingimuste kirjeldus;
+
+10\) puurkaevu või -augu sügavus, konstruktsiooni kirjeldus ja põhjendus ning kavandatava puurkaevu või -augu hüdrogeoloogilise läbilõike joonis;
+
+11\) puurkaevu või -augu ehitamise, sealhulgas puurimismeetodi ja manteltorudetaguse isolatsiooni tegemise kirjeldus;
+
+12\) puurkaevu või -augu ehitamisel kasutatavate ehitustoodete omaduste detailsed kirjeldused ja kogused;
+
+13\) soojuskandevedeliku ja täitematerjalis kasutatavate kemikaalide omaduste detailsed kirjeldused, kui rajatakse kinnise süsteemi soojuspuuraugud;
+
+14\) põhjavee kaitset tagavad puurkaevu või -augu üldised veekaitsenõuded.
+
+(3) Puurkaevu ja -augu rajamise või ümberehitamise ehitusprojekti seletuskirja esimesel leheküljel esitatakse järgmised andmed:
+
+1\) kavandatav veevõtt (m³ ööpäevas);
+
+2\) inimeste arv, kelle jaoks veevõtt puurkaevust on kavandatud;
+
+3\) puurkaevu kasutamine avatud maasoojussüsteemina;
+
+4\) kasutatav veekiht;
+
+5\) puurkaevu paiknevus põhjaveevaruga alal või põhjaveemaardlal;
+
+6\) puurkaevu või -augu paiknevus looduskaitseseaduse alusel kaitstaval loodusobjektil;
+
+7\) maasoojussüsteemi puurkaevu või -augu sügavus;
+
+8\) maasoojussüsteemi kavandatav võimsus.
+
+(4) Kui rajatakse puurkaevude või -aukude rühm, käsitletakse ehitusprojektis kõiki rajatavaid puurkaeve või -auke koos.
+
+(5) Puuraugu ehitusprojektis peab kirjeldama soojuskandevedeliku detailseid omadusi.
+
+### § 6. Lisanõuded puurkaevu ehitusprojekti kohta
+
+Lisaks käesoleva määruse §-s 5 nimetatud andmetele peab puurkaevu ehitusprojekt sisaldama järgmisi andmeid või dokumente:
+
+1\) prognoositav staatiline veetase ja selle alanemine projektikohase tootlikkuse juures;
+
+2\) puhastus- ja proovipumpamise tehnoloogia kirjeldus;
+
+3\) pärast proovipumpamist analüüsimiseks võetavad veeproovid käesoleva määruse § 15 kohaselt;
+
+4\) puurkaevu sanitaarkaitseala või hooldusala piirid ja joonis mõõtkavas 1 : 500;
+
+5\) puurkaevuga avatava põhjaveekihi vee eeldatava kvaliteedi kirjeldus ja põhjaveekihi valiku põhjendus;
+
+6\) soovitused puurkaevule veetöötlusseadmete paigaldamiseks, kui puurkaev rajatakse joogivee saamiseks ja võetav vesi ei vasta eeldatavasti joogivee kvaliteedinõuetele.
+
+## 3. peatükk — Põhjavee kaitse nõuded puurkaevu projekteerimisel ja rajamisel
+
+### § 7. Nõuded puurkaevu või -augu konstruktsiooni kohta
+
+(1) Puurkaevu või -augu konstruktsioon peab:
+
+1\) tagama põhjavee kaitse saastatuse eest;
+
+2\) tagama ehitusprojektikohase tootlikkuse ja sellise tootlikkuse juures tahkete osakesteta vee;
+
+3\) välistama saastunud vee, sealhulgas ülemiste põhjaveekihtide vee sissevoolu puurkaevu või -auguga avatavasse põhjaveekihti;
+
+4\) tagama looduses veepidemetega eraldatud erinevate veekihtide isoleerituse;
+
+5\) tagama, et puurkaevu või põhjaveeseire puuraugu rajamisel ulatuks manteltorude põhikolonn vähemalt 30 cm üle maapinna või välistama maapinnalt või ehitise põrandalt pärineva vee sissevoolu puurkaevu või -auku;
+
+6\) tagama manteltorudetaguse ruumi isolatsiooniga sademevee ja maapinnalt arvates esimese põhjaveekihi teineteisest eraldamise ning erinevate veekihtide eraldatuse;
+
+7\) tagama isolatsiooni, mille korral on eri põhjaveekihtide üksteisest eraldamisel ettepuuritud puuraugu ja manteltorude läbimõõtude vahe vähemalt 50 mm;
+
+8\) kindlustama puurkaevu vett andva osa pudedate ja varisevate setete eest ning tagama nõutud veehulga läbilaskvuse;
+
+9\) tagama puurkaevu puhastuspumpamise ja veetaseme mõõtmise võimaluse.
+
+(2) Lisaks lõikes 1 nimetatule peavad puurkaevu, millega võetakse vett üle 10 kuupmeetri ööpäevas või mida kasutab rohkem kui 50 inimest, konstruktsioon ja puurkaevu paigaldatud veetõsteseadmed võimaldama;
+
+1\) mõõta veetaset puurkaevus veetõsteseadmeid eemaldamata;
+
+2\) võtta veeproovi puurkaevuga avatavast põhjaveekihist ning proovivõtuks tuleb kraan paigaldada puurkaevu suudmele võimalikult lähedale.
+
+(3) Puurkaevu või -augu konstruktsioonis tohib kasutada vaid selliseid tooteid, millel on vastavussertifikaat, vastavusdeklaratsioon või vastavusmärk ja mis on kavandatud või sobivad kasutamiseks puurkaevude ja -aukude rajamisel maa-aluses keskkonnas ega ohusta põhjavee kvaliteeti.
+
+### § 8. Lisanõuded soojussüsteemi puurkaevu või -augu konstruktsiooni kohta
+
+(1) Lisaks käesoleva määruse §-s 7 sätestatule tuleb kinnise soojussüsteemi puuraugud pärast soojuskontuuri paigaldamist kogu puuraugu ulatuses täita keskkonnale ohutu materjaliga ning täitematerjalis kasutatavate kemikaalide kohta peab olema ohutuskaart.
+
+(2) Kinnise soojussüsteemi puuraugu soojuskontuuris võib kasutada üksnes keskkonnale ohutut soojuskandevedelikku ning kasutatava soojuskandevedeliku kohta peab olema ohutuskaart. Soojuskontuuris ei ole lubatud kasutada etüleenglükooli.
+
+(3) Lisaks käesoleva määruse §-s 7 sätestatule peab avatud soojussüsteemi puurkaevu tagasivoolutoru ots õhutamise vähendamiseks ulatuma allapoole staatilist veetaset.
+
+### § 9. Puurkaevu või -augu konstruktsiooni muutmine puurimistööde ajal
+
+(1) Ehitusprojektikohase põhjaveekihi piires võib rajatava puurkaevu või -augu konstruktsioon erineda projektikohasest konstruktsioonist tegeliku geoloogilise läbilõike ja hüdrogeoloogiliste tingimuste tõttu, tagades samas käesolevas peatükis sätestatud nõuete täitmise, ning seda ei loeta projekti oluliseks muudatuseks.
+
+(2) Kui rajatava puurkaevu või -augu konstruktsiooni muudetakse puurimistööde ajal nii, et muutub kasutatav veekiht, siis see loetakse projekti oluliseks muudatuseks. Kui esinevad ehitusseadustiku § 46 lõike 1 punktis 1 sätestatud asjaolud, tuleb puurkaevu või -augu ehitusprojekti muuta ja taotleda uus ehitusluba või esitada uus ehitusteatis.
+
+### § 10. Nõuded puurkaevu ja -augu projekteerimisele ja rajamisele, sealhulgas puurimismeetoditele
+
+(1) Puurkaevu või -augu projekteerimisel ja rajamisel tuleb puurimismeetod valida kohaliku geoloogilise läbilõike ning hüdrogeoloogiliste tingimuste põhjal, et tagada põhjavee kaitse.
+
+(2) Pärast puurkaevu või -augu valmimist ei tohi erinevad veekihid olla koos avatud.
+
+(3) Eeldatakse, et põhjavee kaitse on tagatud, kui järgitakse standardi EVS-EN 17522 lisa E puurimismeetodeid ja nende valiku kriteeriumeid ning täidetakse käesolevas määruses puurkaevu projekteerimisele ja rajamisele sätestatud nõudeid.
+
+(4) Kui puurkaevu projekteerimisel või rajamisel ei ole lõikes 3 nimetatud standardit järgitud või on tehtud seda osaliselt, tuleb ehitusprojektis või puurimispäevikus tõendada, et põhjavee kaitse on tagatud ja tegevus vastab käesolevas määruses puurkaevu projekteerimisele ja rajamisele sätestatud nõuetele.
+
+(5) Asjakohasel juhul võib sama puurkaevu rajamisel kombineerida erinevaid puurimismeetodeid.
+
+(6) Kasutatav puurimismeetod peab tagama käesoleva määruse § 7 lõikes 1 sätestatud nõuete täitmise kontrollitavuse ning võimaldama hinnata kogu toru ulatuses usaldusväärset tsementeerimist.
+
+(7) Puurkaevu rajamisel peab puuraugu läbimõõt kogu manteltoru ulatuses olema vähemalt 50 mm suurem kui manteltoru välisläbimõõt, et tagada manteltoru ja puuraugu seina vahel katkematu vettpidav tsementmaterjalist isolatsioonikiht.
+
+(8) Kui soojussüsteemi puuraugu rajamisel tõmmatakse puurauku toestav juhttoru puurimise ajal koos puuriga maa alla, siis peab juhttoru tsementeerimise ajaks maapinnast eemaldama.
+
+## 4. peatükk — Puurkaevu või -augu rajamise nõuded ja kord
+
+### § 11. Ehitusloa ja ehitusteatise andmekoosseis
+
+Ehitusloa taotluses ja ehitusteatises esitatakse järgmised andmed lisaks ehitusseadustiku ja selle alusel sätestatud nõuetele:
+
+1\) kavandatava puurkaevu või -augu koordinaadid;
+
+2\) kavandatava puurkaevu või -augu tüüp;
+
+3\) kavandatav veevõtt (m³ ööpäevas);
+
+4\) puurkaevu või -augu ehitusprojekti koostanud ettevõtja hüdrogeoloogiliste tööde tegevusloa number majandustegevuse registris ning projekteerija nimi, isikukood ja telefoninumber.
+
+### § 12. Puurkaevu või -augu rajamine
+
+Puurkaevu või -augu rajamise etapid on:
+
+1\) tööplatsi ettevalmistamine;
+
+2\) puurkaevu või -augu suudme kindlustamine;
+
+3\) manteltorude paigaldamiseks ettepuurimine ja vajaduse korral puurkaevu või -augu õõne juhttorudega kindlustamine;
+
+4\) manteltorude paigaldamine;
+
+5\) manteltorudetaguse ruumi isoleerimine;
+
+6\) puurkaevu või -augu töötava osa avamine ja vajaduse korral kindlustamine;
+
+7\) puurkaevu või -augu puhastus- ja proovipumpamine;
+
+8\) puurkaevust või -august veeproovide võtmine.
+
+### § 13. Puurimispäevik
+
+(1) Puurkaevu või -augu ehitamise kohta ei pea pidama ehituspäevikut, seda asendab puurimispäevik.
+
+(2) Puurkaevu või -augu puurimise ajal peab puurimistöid tegev isik täitma käesoleva määruse lisa kohast puurimispäevikut. Katsetööde protokollid esitatakse puurimispäeviku lisadena.
+
+(3) Puurimispäevikusse tehakse kanne iga ehitamise päeva kohta. Kannetes kirjeldatakse kronoloogilises järjestuses iga päeva kohta ehitamise puurimistööd ja seda toetavad tööd.
+
+(4) Puurimispäevik esitatakse ehitisregistrile koos kasutusloa taotluse või kasutusteatisega.
+
+### § 14. Puurkaevu või -augu puhastus- ja proovipumpamine
+
+(1) Vahetult pärast puurimistöid peab puurkaevu või -augu puurinud isik tegema puurkaevu või -augu puhastuspumpamise pumbatava vee selginemiseni. Puhastuspumpamist ei tehta, kui on rajatud kinnise soojussüsteemi puurauk.
+
+(2) Hüdrogeoloogilise uuringu puurkaevus või -augus tehakse puhastus- ja proovipumpamine uuringu eesmärgi kohaselt.
+
+(3) Puurkaevu või -augu puurinud isik peab enne puhastuspumpamist mõõtma puurkaevu või -augu staatilist veetaset.
+
+(4) Puurkaevu või -augu hüdrogeoloogiliste parameetrite määramiseks peab puurkaevu või -augu puurinud isik tegema proovipumpamise vähemalt 1,3-kordse projekteeritud tootlikkusega või maksimaalse tootlikkusega, kui proovipumpamisel ei ole võimalik projekteeritud tootlikkust saavutada.
+
+(5) Proovipumpamist tehakse kuni puurkaevu tootlikkuse ja dünaamilise veetaseme stabiliseerumiseni. Proovipumpamise käigus peab puurkaevu puurinud isik määrama puurkaevu tootlikkuse, staatilise ja dünaamilise veetaseme ning eritootlikkuse.
+
+### § 15. Veeproovide võtmine puurkaevudest ja -aukudest
+
+(1) Pärast puurkaevu või -augu proovipumpamist korraldab puurkaevu või -augu puurinud isik veeproovide võtmise, mida teeb proovivõtja atesteerimistunnistust põhjavee valdkonnas omav isik või akrediteeritud katselabor, mille akrediteerimisulatuses selle valdkonna proovivõtumeetod on.
+
+(2) Veeproovid võetakse vähemalt järgmiste näitajate analüüsimiseks:
+
+1\) värvus, hägusus, lõhn, temperatuur, vees lahustunud hapnik, elektrijuhtivus, pH, permanganaatne hapnikutarve ehk oksüdeeritavus, üldkaredus, ammoonium, fluoriid, kaalium, kaltsium, naatrium, magneesium, kloriid, sulfaat, vesinikkarbonaat, raud, mangaan, nitraat ja nitrit tootmisvee võtmiseks rajatud puurkaevust või avatud soojussüsteemi puurkaevust;
+
+2\) värvus, hägusus, lõhn, temperatuur, vees lahustunud hapnik, elektrijuhtivus, pH, permanganaatne hapnikutarve ehk oksüdeeritavus, üldkaredus, ammoonium, fluoriid, arseen, kaalium, kaltsium, naatrium, magneesium, kloriid, sulfaat, vesinikkarbonaat, raud, mangaan, nitraat, nitrit, *Coli*-laadsed bakterid, *Escherichia coli*, enterokokid ja kolooniate arv 22 ºC juures joogivee võtmiseks rajatud puurkaevust, mis ei ole ühisveevärgi osa;
+
+3\) värvus, hägusus, lõhn, temperatuur, vees lahustunud hapnik, elektrijuhtivus, pH, permanganaatne hapnikutarve ehk oksüdeeritavus, üldkaredus, ammoonium, fluoriid, kaalium, kaltsium, naatrium, magneesium, kloriid, sulfaat, vesinikkarbonaat, raud, mangaan, nitraat, nitrit, *Coli*-laadsed bakterid, *Escherichia coli*, enterokokid, kolooniate arv 22 ºC juures, antimon, arseen, baarium, benseen, benso(a)püreen, boor, elavhõbe, fenoolsed ühendid, kaadmium, kroom, nikkel, plii, pestitsiidid, seleen, tsüaniid ja vask joogivee võtmiseks rajatud ühisveevärgi puurkaevust.
+
+(3) Kui joogivee võtmiseks rajatud ühisveevärgi puurkaev avab halvas seisundis või ohustatud põhjaveekogumisse kuuluva põhjaveekihi, võetakse lisaks lõike 2 punktis 3 nõutud veeproovidele veeproovid nende saasteainete määramiseks, mis põhjustavad põhjaveekogumi halba keemilist seisundit või ohustatust.
+
+(4) Kui lõike 2 punktis 3 nimetatud ühisveevärgi puurkaev avab ordoviitsiumi-kambriumi või kambriumi-vendi põhjaveekihi, võetakse lisaks lõike 2 punktis 3 nõutule veeproovid indikatiivdoosi ja triitiumi määramiseks.
+
+(5) Hüdrogeoloogilisteks uuringuteks rajatud puurkaevust või -august võetakse veeproovid uuringu eesmärgi kohaselt.
+
+(6) Veeproovide analüüsi tulemuste juurde lisatakse järgmised andmed: veeproovi võtmise kuupäev ja kellaaeg, katselabor, labori äriregistri number ja akrediteerimistunnistuse number, põhjavee valdkonnas atesteeritud veeproovivõtja nimi, isikukood ja atesteerimistunnistuse number.
+
+(7) Põhjaveeproove ei pea võtma kinnise soojussüsteemi puuraugu ja salvkaevu korral.
+
+(8) Puurkaevu või -augu suue tuleb pärast puhastus- ja proovipumpamist ning veeproovide võtmist sulgeda.
+
+### § 16. Kinnise soojussüsteemi katsetamine
+
+(1) Enne maasoojustorustiku täitmist soojuskandevedelikuga ja maasoojussüsteemi kasutusele võtmist tehakse maasoojustorustikus surveproov veendumaks, et torustik on hermeetiline.
+
+(2) Pärast kinnise soojussüsteemi rajamist tuleb kontrollida, kas soojuskontuur on töökorras.
+
+## 5. peatükk — Puurkaevu või -augu kasutusele võtmise kord
+
+### § 17. Puurkaevu või -augu andmete Eesti looduse infosüsteemi kandmine
+
+(1) Rajatud puurkaevu või -augu andmed esitatakse Eesti looduse infosüsteemi kümne päeva jooksul puurkaevu või -augu rajamise lõpetamisest arvates.
+
+(2) Kui rajati ordoviitsiumi-kambriumi või kambriumi-vendi põhjaveekihti avav puurkaev, esitatakse puurkaevu või -augu andmed viie päeva jooksul radioloogiliste näitajate analüüsi tulemuste saamisest arvates.
+
+(3) Puurkaevu või -augu andmete Eesti looduse infosüsteemi elektrooniliselt esitamise õigus on hüdrogeoloogiliste tööde tegevusloale märgitud tööde eest vastutavatel isikutel.
+
+(4) Puurkaevu või -augu kohta esitatakse järgmised andmed:
+
+1\) puurkaevu või -augu ehitisregistri kood;
+
+2\) puurkaevu või -augu ehitisregistri ehitusloa number;
+
+3\) puurkaevu või -augu asukoha katastritunnus, koordinaadid, sanitaarkaitseala või hooldusala piirid, asukoha aadress;
+
+4\) puurkaevu või -augu sügavus, maapinna absoluutne kõrgus, veekihi või -kompleksi nimi ja indeks, põhjaveekogumi nimi;
+
+5\) puurkaevu asukoha geoloogiline läbilõige:
+
+<table>
+<tr><td><p>Nr</p></td>
+<td><p>Geoloogilise<br/>läbilõike kirjeldus</p></td>
+<td><p>Geoloogiline<br/>indeks</p></td>
+<td><p>Veekihi või -kompleksi<br/>paksus, m</p></td>
+<td><p>Veekihi või -kompleksi<br/>lamami sügavus, m</p></td>
+<td><p>Veekihi või -kompleksi<br/>lasuvussügavus, m</p></td></tr>
+<tr><td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td></tr>
+<tr><td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td></tr>
+</table>
+
+6\) andmed puurimise ja konstruktsiooni kohta:
+
+<table>
+<tr><td rowspan="2"><p>Nr</p></td>
+<td colspan="3"><p>Puurauk</p></td>
+<td colspan="5"><p>Manteldus</p></td></tr>
+<tr><td><p>Puurimise läbimõõt,<br/>mm</p></td>
+<td><p>Algus,<br/>m</p></td>
+<td><p>Lõpp,<br/>m</p></td>
+<td><p>Läbimõõt,<br/>mm</p></td>
+<td><p>Algus,<br/>m</p></td>
+<td><p>Lõpp,<br/>m</p></td>
+<td><p>Pikkus,<br/>m</p></td>
+<td><p>Manteltorudetagune<br/>isolatsioon</p></td></tr>
+<tr><td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td></tr>
+<tr><td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td></tr>
+</table>
+
+7\) puurimise alustamise ja lõpetamise kuupäev;
+
+8\) puurmasina nimetus;
+
+9\) puurimismeetod;
+
+10\) tihend ja selle kirjeldus;
+
+11\) isolatsiooni kirjeldus;
+
+12\) puurkaevu või -augu filtri tüüp ja paigutussügavus;
+
+13\) puurimisel esinenud kõrvalekalded projektist;
+
+14\) kasutatud ehitustoodete ja -materjalide vastavussertifikaadid, vastavusdeklaratsioonid, vastavusmärgid ja ohutuskaardid;
+
+15\) torutaguseks tsementatsiooniks kulunud materjali nimetus ja kogus;
+
+16\) pumpamise tehnoloogia ja tehnika;
+
+17\) hüdrogeoloogilised andmed:
+
+<table>
+<tr><td><p>Kuupäev</p></td>
+<td><p>Pumpamise kestus,<br/>h</p></td>
+<td><p>Staatiline veetase,<br/>m</p></td>
+<td><p>Dünaamiline veetase,<br/>m</p></td>
+<td><p>Tootlikkus,<br/>l/s</p></td>
+<td><p>Veetaseme alanemine,<br/>m</p></td>
+<td><p>Eritootlikkus,<br/>l/s*m</p></td></tr>
+<tr><td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td></tr>
+<tr><td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td></tr>
+</table>
+
+18\) puurkaevupumba soovitatav tüüp ja võimsus (m³/h);
+
+19\) soovitatav veetöötlusseade;
+
+20\) puurkaevu soovitatav tootlikkus (l/s) ja toodang (m³ ööpäevas);
+
+21\) puurkaevu või -augu projekteerinud ettevõtja nimi ja registrikood, hüdrogeoloogiliste tööde tegevusloa number majandustegevuse registris ja nõuetele vastava projekteerija nimi ja isikukood;
+
+22\) puurkaevu või -augu rajanud ettevõtja nimi ja registrikood, hüdrogeoloogiliste tööde tegevusloa number majandustegevuse registris ja nõuetele vastava puurija nimi ja isikukood;
+
+23\) puurkaevu või -augu andmete Eesti looduse infosüsteemi sisestaja nimi ja isikukood ja ettevõtja hüdrogeoloogiliste tööde tegevusloa number;
+
+24\) veeanalüüside tulemused ja käesoleva määruse § 15 lõikes 6 nimetatud andmed;
+
+25\) soovitused vee kasutamiseks;
+
+26\) soojussüsteemi puurkaevu või -augu projekteeritud võimsus.
+
+### § 18. Kasutusteatise esitamine ja andmete koosseis
+
+Puurkaevu või -augu kasutusteatises esitatakse järgmised andmed lisaks ehitusseadustikus ja selle alusel sätestatud nõuetele:
+
+1\) puurkaevu või -augu ehitusprojekti koostanud ettevõtja hüdrogeoloogiliste tööde tegevusloa number majandustegevuse registris ning projekteerija nimi, isikukood ja telefoninumber;
+
+2\) puurkaevu või -augu ehitanud ettevõtja hüdrogeoloogiliste tööde tegevusloa number majandustegevuse registris;
+
+3\) puurkaevu või -augu tüüp;
+
+4\) võetava vee kogus (m³ ööpäevas).
+
+### § 19. Kasutusloa taotlemine ja andmete koosseis
+
+(1) Ühisveevärgi puurkaevu kasutusloa taotlus kooskõlastatakse Terviseametiga vastavalt ehitusseadustikus sätestatule.
+
+(2) Puurkaevu kasutusloa taotluses esitatakse lisaks ehitusseadustikus ja selle alusel sätestatud nõuetele järgmised andmed:
+
+1\) puurkaevu ehitusprojekti koostanud ettevõtja hüdrogeoloogiliste tööde tegevusloa number majandustegevuse registris ning projekteerija nimi, isikukood ja telefoninumber;
+
+2\) puurkaevu ehitanud ettevõtja hüdrogeoloogiliste tööde tegevusloa number majandustegevuse registris;
+
+3\) puurkaevu tüüp ja võetava vee kogus (m³ ööpäevas).
+
+## 6. peatükk — Puurkaevu või -augu ümberehitamise kord
+
+### § 20. Puurkaevu või -augu ümberehitamise kord
+
+Puurkaevu või -augu ümberehitamisele kohaldatakse §-des 3–19 sätestatut.
+
+### § 21. Ehitusteatise esitamine ja andmete koosseis
+
+Puukaevu ja -augu ümberehitamise ehitusteatises esitatakse lisaks ehitusseadustikus ja selle alusel sätestatud nõuetele järgmised andmed:
+
+1\) ümberehitatava puurkaevu või -augu tüüp ja võetava vee kogus (m³ ööpäevas);
+
+2\) ümberehitatava puurkaevu või -augu rajanud ettevõtte registrikood, e-posti aadress ja telefoninumber ning hüdrogeoloogiliste tööde tegevusloa number majandustegevuse registris.
+
+## 7. peatükk — Puurkaevu või -augu konserveerimise kord
+
+### § 22. Puurkaevu või -augu konserveerimine
+
+(1) Puurkaevu või -augu konserveerimisel tuleb põhjavee saastamise vältimiseks puurkaevu veetõsteseade eemaldada ja kaevusuue sulgeda.
+
+(2) Puurkaevu või -augu omanik esitab Keskkonnaagentuurile elektrooniliselt teate puurkaevu või -augu konserveerimise kohta kümne päeva jooksul puurkaevu või -augu konserveerimise päevast arvates.
+
+(3) Enne konserveeritud puurkaevu taas kasutusele võtmist korraldab puurkaevu omanik selle puhastuspumpamise pumbatava vee selginemiseni ja veeproovide võtmise käesoleva määruse §-des 14 ja 15 sätestatu kohaselt.
+
+### § 23. Kinnise soojussüsteemi puuraugu konserveerimine
+
+(1) Kinnise soojussüsteemi puuraugu konserveerimisel ei ole vaja soojuskandevedelikku soojuskontuurist eemaldada, kuid soojuskontuuri otsad tuleb sulgeda.
+
+(2) Enne kinnise soojussüsteemi puuraugu taas kasutusele võtmist tuleb kontrollida, kas soojuskontuur on töökorras.
+
+## 8. peatükk — Puurkaevu või -augu lammutamise nõuded ja kord
+
+### § 24. Ehitusteatise andmete koosseis
+
+Puurkaevu või -augu lammutamise ehitusteatises esitatakse lisaks ehitusseadustikus ja selle alusel sätestatud nõuetele lammutatava puurkaevu või -augu Eesti looduse infosüsteemi kood.
+
+### § 25. Nõuded puurkaevu või -augu lammutamise ehitusprojekti kohta
+
+Puurkaevu või -augu lammutamise ehitusprojekt peab sisaldama järgmisi andmeid:
+
+1\) puurkaevu või -augu Eesti looduse infosüsteemi kood ja ehitisregistri kood, kui puurkaevule või -augule on Eesti looduse infosüsteemi või ehitisregistri kood antud;
+
+2\) puurkaevu või -augu lammutamise ehitusprojekti koostanud ettevõtja nimi, aadress, telefoninumber, hüdrogeoloogiliste tööde tegevusloa number majandustegevuse registris ning projekteerija nimi, isikukood ja telefoninumber;
+
+3\) puurkaevu või -augu asukoha koordinaadid ja Eesti põhikaardi väljavõte, millele on märgitud põhja-lõuna suund, põhjaveevoolu suund, lammutatavast puurkaevust või -august 200 meetri raadiuses asuvad potentsiaalselt ohtlikud reostusallikad nagu jääkreostusalad ja -objektid, kalmistud, kaevandused, prügilad, laudad, sõnnikuaunad, taimekaitsevahendite ja väetisehoidlad, kemikaale sisaldavad mahutid, kogumiskaevud, käimlad, kanaliseerimata saunad jmt objektid ning lammutatavast puurkaevust või -august ühe kilomeetri raadiuses asuvad sama põhjaveekihti avavad puurkaevud ja -augud;
+
+4\) puurkaevu või -augu hüdrogeoloogilise läbilõike joonis;
+
+5\) puurkaevu või -augu konstruktsiooni kirjeldus ja joonis;
+
+6\) puurkaevu või -augu lammutamise põhjus ja puurkaevu või -augu tehnilise seisukorra kirjeldus;
+
+7\) puurkaevu või -augu lammutamise tehnoloogia kirjeldus ja kasutatavate ehitusmaterjalide spetsifikatsioonid ja kogused;
+
+8\) nõuded puurkaevu või -augu suudme ümbruse kohta pärast puurkaevu või -augu lammutamist.
+
+### § 26. Kinnise soojussüsteemi puuraugu lammutamine
+
+Käesolevas peatükis sätestatud puurkaevu või -augu lammutamise korda ei kohaldata kinnise soojussüsteemiga puuraugu lammutamisele.
+
+### § 27. Puurkaevu või -augu lammutamine
+
+(1) Puurkaevu või -augu lammutamisel tuleb:
+
+1\) enne puurkaevu või -augu tsementeerimist teha vajaduse korral puhastuspumpamine puurkaevu või -augu vee nelja- kuni kuuekordse mahu ulatuses;
+
+2\) saastatuse korral enne puurkaevu või -augu tsementeerimist vajaduse korral puurkaevu või -auku vesilahusega kloorida;
+
+3\) täita puurkaevu või -augu õõs isoleeriva materjaliga;
+
+4\) puhastada puurkaevu või -augu töötav osa ulatuses, mis võimaldab vett andvat osa isoleerida, kui töötavas osas on kõrvalisi esemeid või puurkaevus on alla kukkunud veetõsteseade;
+
+5\) torpedeerida manteltorud eri põhjaveekihte eraldava veepideme kohal, kui puurkaevu või -augu isolatsioon manteltorude taga on rikutud või puudub ja kui manteltorudega on isoleeritud eri põhjaveekihid, isoleerides torpedeeritud kohad puurkaevu tsementeerimisel.
+
+(2) Ülevooluga puurkaevu või -augu lammutamisel tuleb ülevool enne tsementeerimist sulgeda nii, et manteltoru pikendatakse ülevoolu lakkamiseni ja seejärel puurkaev või -auk tsementeeritakse.
+
+(3) Kui manteltoru ei ole võimalik ülevoolu lakkamiseni pikendada, tuleb puurkaevu või -augu vett andvasse ossa pumbata ülevoolu lakkamiseni rasket savilahust ja seejärel puurkaev tsementeerida.
+
+### § 28. Puurkaevu või -augu täieliku lammutamise teatise andmekoosseis
+
+Täieliku lammutamise teatises esitatakse järgmised andmed lisaks ehitusseadustikus ja selle alusel sätestatud nõuetele:
+
+1\) puurkaevu või -augu Eesti looduse infosüsteemi kood;
+
+2\) lammutamise aeg ja lammutamise põhjus;
+
+3\) lammutamise ehitusprojekti koostanud ettevõtte hüdrogeoloogiliste tööde tegevusloa number majandustegevuse registris;
+
+4\) puurkaevu või -augu lammutanud ettevõtte hüdrogeoloogiliste tööde tegevusloa number majandustegevuse registris.
+
+## 9. peatükk — Salvkaevu rajamise, ümberehitamise ja lammutamise nõuded ja kord ning nõuded salvkaevu konstruktsiooni kohta
+
+### § 29. Salvkaevu rajamine, ümberehitamine ja lammutamine
+
+(1) Enne salvkaevu rajamist, ümberehitamist või lammutamist peab salvkaevu ehitaja tutvuma salvkaevu kavandatava asukohaga kohapeal ning määrama salvkaevu asukoha täpsed koordinaadid.
+
+(2) Salvkaevu lammutamisel tohib kasutada vaid keskkonnale ja põhjaveele ohutut täidet ning kaevu suue tuleb kindlalt sulgeda pinnavee sissevoolu vältimiseks.
+
+### § 30. Nõuded salvkaevu konstruktsiooni kohta
+
+(1) Salvkaevu konstruktsioon peab:
+
+1\) tagama põhjavee kaitstuse saastatuse eest;
+
+2\) tagama salvkaevu vett andva osa kindlustatuse pudedate ja varisevate setete eest ning nõutud veehulga läbilaskvuse;
+
+3\) välistama saastunud vee sissevoolu salvkaevuga avatavasse põhjaveekihti.
+
+(2) Salvkaevu rakked peavad ulatuma vähemalt 70 cm kõrgusele maapinnast ja maapind salvkaevu ümber peab olema võrreldes ümbritseva reljeefiga kõrgem, et oleks välistatud pinnavee ja maapinnalt pärineva vee kogunemine kaevu ümber ja selle sissevool kaevu.
+
+(3) Salvkaevu ümber tuleb rajada veelukk, mis välistab maapinnalt pärineva vee sissevoolu kaevu.
+
+(4) Veelukk on vahetult salvkaevu ümber kaevatud kraav, mis on täidetud vettpidava materjaliga.
+
+(5) Salvkaev peab olema pealt kaetud, et vältida sademevee, kõrvaliste esemete ja elusolendite kaevu sattumist
+
+(6) Salvkaevu konstruktsioonis tohib kasutada vaid selliseid tooteid ja materjale, mis on ohutud nii keskkonnale kui ka inimese tervisele.
+
+## 10. peatükk — Rakendussätted
+
+### § 31. Eesti looduse infosüsteemi andmete esitamine
+
+Käesoleva määruse § 17 lõike 4 punktides 7, 15, 21–24 ja 26 nimetatud andmed sisestatakse Eesti looduse infosüsteemi vastava uue infotehnoloogilise rakenduse valmimisest alates.
+
+### § 32. Määruse kehtetuks tunnistamine
+
+Keskkonnaministri 9. juuli 2015. a määrus nr 43 „Nõuded salvkaevu konstruktsiooni, puurkaevu või -augu ehitusprojekti ja konstruktsiooni ning lammutamise ja ümberehitamise ehitusprojekti kohta, puurkaevu või -augu projekteerimise, rajamise, kasutusele võtmise, ümberehitamise, lammutamise ja konserveerimise korra ning puurkaevu või -augu asukoha kooskõlastamise, ehitusloa ja kasutusloa taotluste, ehitus- või kasutusteatise, puurimispäeviku, salvkaevu ehitus- või kasutusteatise, puurkaevu või -augu ja salvkaevu andmete Eesti looduse infosüsteemi esitamise korra ning puurkaevu või -augu ja salvkaevu lammutamise teatise vormid” tunnistatakse kehtetuks.
+
+---
+
+Kuldar Leis, Taristuminister
+
+Marten Kokk, Kantsler
+
+## Lisad
+
+- Lisa — [KLIM\_m25\_lisa.pdf](https://www.riigiteataja.ee/aktilisa/1250/3202/6019/KLIM_m25_lisa.pdf)
+
+Lisa

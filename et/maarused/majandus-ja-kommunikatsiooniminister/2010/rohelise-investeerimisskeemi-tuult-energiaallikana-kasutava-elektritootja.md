@@ -1,0 +1,534 @@
+---
+title: "Rohelise investeerimisskeemi „Tuult energiaallikana kasutava elektritootja investeeringute toetus” tingimused ja kord"
+identifier: "113062025017"
+rt_reference: "RT I, 13.06.2025, 17"
+rt_original: "RT I, 20.10.2010, 596"
+group_id: "346671"
+type: regulation
+issuer: "Majandus- ja kommunikatsiooniminister"
+number: "85"
+text_type: "terviktekst"
+jurisdiction: ee
+language: et
+date: 2010-10-15
+last_amended: 2025-06-16
+status: in_force
+source: "https://www.riigiteataja.ee/akt/113062025017"
+retrieved: 2026-10-12
+---
+
+# Rohelise investeerimisskeemi „Tuult energiaallikana kasutava elektritootja investeeringute toetus” tingimused ja kord
+
+Määrus kehtestatakse «Välisõhu kaitse seaduse» § 120<sup>7</sup> lõike 2 alusel.
+
+## 1. peatükk — ÜLDSÄTTED
+
+### § 1. Kohaldamisala
+
+(1) Käesoleva määrusega sätestatakse «Välisõhu kaitse seaduse» § 120<sup>5</sup> alusel riigi lubatud heitkoguse ühikutega kauplemisest saadavate vahendite kasutamise tingimused ja kord (edaspidi *roheline investeerimisskeem*).
+
+(2) Roheline investeerimisskeem on kooskõlas «Eesti elektrimajanduse arengukavaga aastani 2018».
+
+(3) Määrust kohaldatakse tuult energiaallikana kasutavatele tootjatele elektrituruseaduse tähenduses.
+
+(4) Rohelise investeerimisskeemi raames antav toetus on riigiabi investeeringuteks elektri tootmiseks taastuvatest energiaallikatest. Riigiabi andmisel järgitakse Euroopa Komisjoni määrust (EÜ) nr 800/2008 asutamislepingu artiklite 87 ja 88 kohaldamise kohta, millega teatavat liiki abi tunnistatakse ühisturuga kokkusobivaks (üldine grupierandi määrus) (ELT L 214, 9.08.2008, lk 3–47), keskkonnakaitseks antavat riigiabi käsitlevaid ühenduse suuniseid (2008/C82/01) ja «Konkurentsiseaduse» §-s 34<sup>1</sup> ja §-s 34<sup>2</sup> sätestatut.
+
+### § 2. Toetuse andmise eesmärk
+
+Toetuse andmise eesmärk on vähendada kasvuhoonegaaside emissioone Eestis läbi tuulest elektri tootmise osakaalu suurendamise. Lisaks aitavad toetatud projektid kaasa:
+
+1\) fossiilsete kütuste kasutamise vähendamisele;
+
+2\) põlevkivist elektri tootmisel tekkivate negatiivsete keskkonnamõjude vähendamisele, mis praegu katab üle 90% Eesti elektritarbimisest;
+
+3\) innovatiivsete tehniliste lahenduste ja Eestis puuduvate uute tehnoloogiate rakendamisele;
+
+4\) Eesti tuuleenergia sektoris sisenemispiirangute kahandamisele;
+
+5\) avalikkuse teadlikkuse tõusule taastuvenergia allikate tähtsusest ja positiivsetest külgedest.
+
+### § 3. Rakendusasutus ja rakendusüksus
+
+(1) Rohelise investeerimisskeemi rakendusasutuseks on Kliimaministeerium (edaspidi *ministeerium*), mis:
+
+\[RT I, 05.07.2023, 7 - jõust. 08.07.2023\]
+
+1\) teostab kontrolli rakendusüksuse tegevuse üle rohelise investeerimisskeemi rakendamisel vastavalt rohestamiskavale, käesolevale määrusele ja teistele õigusaktidele;
+
+2\) vastutab rohelise investeerimisskeemi rakendamise hindamise, lõpparuande koostamise ning Vabariigi Valitsusele finantsvahendite kasutamise kohta eelnenud kalendriaastal aruande esitamise eest.
+
+(2) Rohelise investeerimisskeemi rakendusüksuseks on sihtasutus Keskkonnainvesteeringute Keskus (edaspidi *KIK*), mis vastutab:
+
+1\) rohestamiskavale vastavate taotlusvoorude korraldamise, sh taotluste hindamise, korraldamise eest;
+
+2\) toetuse saajatega projekti rahastamise lepingute sõlmimise eest;
+
+3\) projektide rakendamise järelevalve korraldamise eest, sh kulude abikõlblikkuse kontroll ning paikvaatlused toetuse saaja juures ja projekti asukohas;
+
+4\) toetuse tagasinõudmise eest juhul, kui toetust pole kasutatud sihipäraselt;
+
+5\) toetuse saajate poolt esitatud iga-aastaste projekti seirearuannete analüüsi eest;
+
+6\) rohemõjude aruande koostamise ja ministeeriumile esitamise eest.
+
+(3) Ministeerium sõlmib rakendusüksuse ülesannete täitmiseks halduslepingu KIKiga «Välisõhu kaitse seaduse» § 120<sup>7</sup> lõike 3 alusel.
+
+### § 4. Mõisted
+
+Käesoleva määruse tähenduses:
+
+1\) taotlus on vormikohane kirjalik avaldus koos lisatud dokumentidega rahalise toetuse taotlemiseks;
+
+2\) ettevõtja on tuulest elektri tootja elektrituruseaduse mõistes;
+
+3\) tegevustulud on keskkonnakaitseks antavat riigiabi käsitlevate ühenduse suuniste tähenduses (2008/C82/01) abikõlblike kulude arvutamisel konkreetsed tulud, mis tulenevad eelkõige kulude kokkuhoiust või täiendavast kõrvaltoodangust, mis on otseselt seotud täiendavate investeeringutega keskkonnakaitsesse, ning vajadusel toetusmeetmetest tulenevast kasust, olenemata sellest, kas abimeetmed kujutavad endast riigiabi või mitte (tegevusabi samadele abikõlblikele kuludele, soodustariifid või muud toetusmeetmed);
+
+4\) tegevuskulud on keskkonnakaitseks antavat riigiabi käsitlevad ühenduse suuniste tähenduses (2008/C82/01) abikõlblike kulude arvutamisel eelkõige konkreetsed täiendavad tootmiskulud, mis tekivad täiendavatest investeeringutest keskkonnakaitsesse;
+
+5\) väikeettevõtja on ettevõtja, kes vastavalt Euroopa Komisjoni määruse (EÜ) nr 800/2008 lisas I sätestatud kriteeriumitele, annab tööd vähem kui 50 inimesele ja kelle aastakäive ja/või aasta bilansimaht ei ületa 10 miljonit eurot;
+
+6\) keskmise suurusega ettevõtja on ettevõtja, kes vastavalt Euroopa Komisjoni määruse (EÜ) nr 800/2008 lisale I, annab tööd 50–249 inimesele ja kelle aastakäive on vahemikus 10–50 miljonit eurot ja/või aasta bilansimaht on vahemikus 10–43 miljonit eurot;
+
+7\) suurettevõtja on ettevõtja, kes ei vasta Euroopa Komisjoni määruse (EÜ) nr 800/2008 lisas I sätestatud kriteeriumitele, annab tööd rohkem kui 250 inimesele ja kelle aastakäive ületab 50 miljonit eurot ja/või aasta bilansimaht ületab 43 miljonit eurot;
+
+8\) materiaalne vara on maa, ehitised, masinad ja seadmed, mida käsitletakse põhivarana;
+
+9\) immateriaalne vara on vara, mis soetatakse patendiõiguste, litsentside, oskusteabe või patentimata tehniliste teadmiste omandamise teel;
+
+10\) omafinantseering on toetuse saaja rahaline panus projekti maksumuses, mida ei kaeta toetusskeemi toetusest. Omafinantseeringuks loetakse vaid toetuse saaja kantud abikõlblikke kulusid. Omafinantseering ei või sisalduda toetuses ning toetust ei või kasutada omafinantseeringuks;
+
+11\) projekt on ajaliselt ja ruumiliselt piiratud kindla eesmärgi saavutamiseks suunatud tegevus või tegevuste kogum, milleks toetust taotletakse või kasutatakse;
+
+12\) rohemõjude aruanne on rohelise investeerimisskeemi rakendamise kohta koostatav iga-aastane aruanne, mis kajastab muu hulgas rakendusüksuse tegevusi taotlusvooru korraldamisel, projektide valimisel, toetuslepingute sõlmimisel, projektide elluviimise hetkeseisu, eelarve kasutamise progressi, teostatud kontrollide ja auditite järeldusi, elluviidud projektide mõju heitgaaside vähendamisele, teadlikkuse ja teavitamisalaseid tegevusi;
+
+13\) rohestamiskava on «Välisõhu kaitse seaduse» alusel riigi lubatud heitkoguse ühikutega müügiks sõlmitud lepingu lisa, mis sätestab, millistesse heitgaaside koguseid vähendavatesse tegevustesse, millistel tingimustel ja millise organisatsiooni kaudu võib saadud tulusid investeerida;
+
+14\) projekti rahastamise leping on kokkulepe, mis sõlmitakse toetuse saaja ja KIKi vahel rohelise investeerimisskeemi raames antava toetuse abil elluviidava projekti rahastamiseks;
+
+15\) riigiabi detailne hindamine on Euroopa Komisjoni poolt keskkonnakaitseks antavat riigiabi käsitlevad ühenduse suuniste (2008/C82/01) peatüki 5 alusel läbiviidav riigiabi andmise põhjendatuse hindamine projektidele, mille teostamiseks taotletakse toetust rohkem kui 117 miljonit krooni ja kuni 313 miljonit krooni;
+
+16\) alginvesteering on investeering materiaalsesse ja immateriaalsesse varasse seoses uue käitise rajamisega või olemasoleva käitise laiendamisega.
+
+## 2. peatükk — TOETUSE ANDMISE ALUSED
+
+### § 5. Toetatavad tegevused
+
+Rohelise investeerimisskeemi raames toetatakse alginvesteeringuid tuult energiaallikana kasutavatesse ning elektrituruseaduse ja võrgueeskirja nõuetele vastavatesse tootmisseadmetesse.
+
+### § 6. Abikõlblikud ja mitteabikõlblikud kulud
+
+(1) Abikõlblikud on kulud, mis on taotluses detailselt kirjeldatud ning, mis on põhjendatud, mõistlikud ja vajalikud projekti elluviimiseks. Abikõlblike kulude ning omafinantseeringu tõendamisel arvestatakse ainult raamatupidamise algdokumentide alusel ja pangaülekande teel tasutud kuludega.
+
+(2) Projektidele, milles taotletakse toetust kuni 117 miljonit krooni, on abikõlblikeks kuludeks täiendavad kulud, mida abi saaja peab kandma võrreldes samasuguse tegeliku elektritoodanguga tavaelektrijaamaga.
+
+(3) Projektidele, milles taotletakse abi üle 117 miljoni krooni ja kuni 313 miljonit krooni, on abikõlblikeks kuludeks täiendavad investeeringukulud, mida abi saaja peab kandma võrreldes samasuguse elektri tegeliku toodanguga tavaelektrijaamaga, millest lahutatakse maha esimesel viiel aastal tekkiv tegevustulu ning liidetakse esimesel viiel aastal tekkiv tegevuskulu.
+
+(4) Tavaelektrijaam käesoleva määruse mõistes on kombineeritud tsükliga gaasiturbiinelektrijaam investeerimismaksumusega 9,4 miljonit krooni 1 MW kohta, mille keskmine elektri toodang on 7500 MWh aastas ja tootmisega seotud kulud on 782 krooni 1 MWh toodetud elektrienergia kohta.
+
+(5) Täiendavad kulud toetust taotleva projekti kohta arvutatakse taotluses esitatud info alusel. Eeldatav elektritoodang 1 MW installeeritud tuulepargi võimsuse kohta on 2500 MWh aastas.
+
+(6) Abikõlblikud kulud on:
+
+1\) alginvesteeringud, sealhulgas soetatud vara transpordi, seadistamise ja häälestamise kulud;
+
+2\) ehitustegevuse kulud, mis on vajalikud ja asjakohased elektrituruseaduse, võrgueeskirja ja käesoleva määruse kohaselt tuulest elektri tootmiseks mõeldud tootmisvõimsuse rajamiseks ning kulud toetuse keskkonnaefekti seireks.
+
+(7) Abikõlblikud on vaid projekti elluviimise perioodil tehtud kulud.
+
+(8) Abikõlblike kulude hulka ei arvata tehinguid äriühingute vahel, kes kuuluvad ühte kontserni «Äriseadustiku» § 6 tähenduses.
+
+(9) Abikõlblikud kulud arvestatakse tekkepõhiselt ning nende tekkimise päevaks loetakse kuludokumendi koostamise kuupäeva.
+
+(10) Abikõlblikud ei ole kulud, mis ei ole loetud käesolevas paragrahvis abikõlblikuks, sealhulgas:
+
+1\) kulud, mis on seotud kapitalirendi tüüpi liisingulepingu sõlmimisega, intressiga, kindlustusega ja muude sarnaste kuludega;
+
+2\) kapitalirendi makse, kui asja omandiõigus ei lähe üle toetuse saajale;
+
+3\) kulud, mis ei ole tehtud projekti elluviimise perioodil;
+
+4\) amortisatsioonikulud;
+
+5\) kulud, mis on varem Eesti riigi muudest tuludest, Euroopa Liidu fondidest või teistest välisvahenditest saadud toetustest hüvitatud;
+
+6\) muud projektiga mitte seotud ning elluviimise seisukohast põhjendamatud ja ebaolulised kulud;
+
+7\) olemasolevate elektri tootmise võimsuste rekonstrueerimisega seotud kulud;
+
+8\) elektrivõrguga liitumise tasu.
+
+### § 7. Projekti elluviimise periood
+
+(1) Projekti elluviimise periood on projekti rahastamise lepingus sätestatud aeg, mil projekti tegevused algavad ja lõppevad ning projekti teostamiseks vajalikud kulutused tekivad.
+
+(2) Projekti algus ei või olla varasem kui taotluse rahuldamise otsuse kuupäev, juhul kui kui projektis taotletav toetus on kuni 117 miljonit krooni.
+
+(3) Juhul kui taotletav toetus on üle 117 miljoni krooni ja kuni 313 miljonit krooni, siis ei või projekti algus olla varasem, kui Euroopa Komisjoni poolt riigiabi detailset hindamist sisaldava riigiabi lubava otsuse tegemise kuupäev.
+
+(4) Projekti elluviimise perioodi lõpp ei tohi olla hilisem kui 30.06.2014.
+
+\[RT I, 01.02.2013, 1 - jõust. 04.02.2013\]
+
+(5) Toetuse saaja võib taotleda projekti lõpetamist enne taotluse rahuldamise otsuses sätestatud kuupäeva juhul, kui ilmnevad toetuse saajast sõltumatud asjaolud, mis ei võimalda projekti jätkamist.
+
+(6) Projekt loetakse lõppenuks pärast lõpparuande heakskiitmist ja toetuse saajale viimase väljamakse tegemist.
+
+### § 8. Toetuse piirmäär
+
+(1) Projekti minimaalne toetuse suurus on 50 miljonit Eesti krooni.
+
+(2) Projekti maksimaalne toetuse suurus on 313 miljonit Eesti krooni.
+
+(3) Toetuse maksimaalne määr projektides, milles taotletav toetus on kuni 117 miljonit krooni, on:
+
+1\) suurettevõtja puhul kuni 45% abikõlblikest kuludest ning omafinantseeringu minimaalne määr on 55%;
+
+2\) keskmise suurusega ettevõtja puhul kuni 55% abikõlblikest kuludest ning omafinantseeringu minimaalne määr on 45%;
+
+3\) väikese suurusega ettevõtja puhul kuni 65% abikõlblikest kuludest ning omafinantseeringu minimaalne määr on 35%.
+
+(4) Toetuse maksimaalne määr projektides, milles projekti kohta taotletav toetus on üle 117 miljoni krooni ja kuni 313 miljonit krooni, on:
+
+1\) suurettevõtja puhul kuni 60% abikõlblikest kuludest ning omafinantseeringu minimaalne määr on 40%;
+
+2\) keskmise suurusega ettevõtja puhul kuni 70% abikõlblikest kuludest ning omafinantseeringu minimaalne määr on 30%;
+
+3\) väikese suurusega ettevõtja puhul kuni 80% abikõlblikest kuludest ning omafinantseeringu minimaalne määr on 20%.
+
+(5) Juhul kui projektis taotletav toetus on üle 117 miljoni krooni ja kuni 313 miljonit krooni, tehakse taotluse rahuldamise tingimuslik otsus. Projektis kavandatavast riigiabist esitatakse Euroopa Komisjonile riigiabi teatis ja taotlust ei loeta rahuldatuks enne Euroopa Komisjoni poolset detailse hindamise läbiviimist ja abi lubavat otsust.
+
+(6) Kui projekti, milles taotletav toetus on kuni 117 miljonit krooni, finantseeritakse lisaks ka teistest riigi, kohaliku omavalitsuse, Euroopa Liidu või selle liikmesriikide vahenditest, ei tohi eelnimetatud vahenditest finantseerimise maht ning toetuse maht kokku projekti kulude katmisel ületada Euroopa Komisjoni määruse (EÜ) nr 800/2008 artiklis 23 sätestatud osakaale. Kui projekti, milles taotletav toetus on üle 117 miljoni krooni ja kuni 313 miljonit krooni, finantseeritakse lisaks ka teistest riigi, kohaliku omavalitsuse, Euroopa Liidu või selle liikmesriikide vahenditest, ei tohi eelpool nimetatud vahenditest finantseerimise maht ning toetuse maht kokku projekti kulude katmisel ületada keskkonnakaitseks antava riigiabi käsitlevates ühenduse suuniste (2008/C82/01) jaos 3.1.6 sätestatud osakaale.
+
+## 3. peatükk — TOETUSE TAOTLEMINE, NÕUDED TAOTLEJALE JA TAOTLUSELE
+
+### § 9. Taotlusvooru väljakuulutamine
+
+(1) Taotlusvooru kuulutab välja KIK. Kuulutuses esitatakse informatsioon taotluse esitamise, sealhulgas teave taotluste esitamise tähtaja, taotlusvooru indikatiivse eelarve, abikõlblikkuse ja hindamise kriteeriumite ning rahastamise tingimuste, kohta. Kuulutus avaldatakse üleriigilise levikuga päevalehes ja KIKi veebilehel vähemalt 60 päeva enne taotluste esitamise tähtpäeva.
+
+(2) Taotlusvooru rahalise mahu kinnitab valdkonna eest vastutav minister.
+
+\[RT I, 13.06.2025, 1 - jõust. 16.06.2025\]
+
+### § 10. Toetuse taotlus
+
+(1) Taotlused esitatakse KIKile hiljemalt taotlusvooru tähtpäevaks.
+
+(2) Taotlus esitatakse KIKi poolt kinnitatud taotlusvormil. Taotlusvorm koos selle täitmise juhendiga tehakse hiljemalt taotlusvooru väljakuulutamise päevaks elektrooniliselt kättesaadavaks elektroonilisel kujul KIKi veebilehel.
+
+(3) Taotlus saadetakse KIKi posti teel, tuuakse käsipostiga või saadetakse e-postiga digiallkirjastatult KIKi nimetatud aadressile taotlusvooru väljakuulutamise teates nimetatud tähtpäevaks. Paberil taotlus esitatakse omakäeliselt allkirjastatuna ühes eksemplaris. Paberil taotlusele lisatakse taotlus ka elektrooniliselt. Elektrooniliselt esitatava eksemplari failid peavad olema töödeldavas teksti- või tabelformaadis.
+
+(4) Taotlusvooru hilinenult esitatud taotlus tagastatakse taotlejale läbivaatamata.
+
+### § 11. Taotlejale esitatavad nõuded
+
+(1) Taotlejaks võib olla äriühing, kes on ettevõtja § 4 punkti 2 tähenduses.
+
+(2) Taotleja peab vastama järgmistele nõuetele:
+
+1\) taotleja suhtes ei ole algatatud likvideerimis- ega pankrotimenetlust ega tehtud pankrotiotsust;
+
+2\) taotlejal on tasutud riiklikud maksud. Maksuvõla ajatamise korral peavad maksud olema tasutud ajakava kohaselt;
+
+3\) residendist taotleja tegevuskoht või mitteresidendist taotleja püsiv tegevuskoht maksukorralduse seaduse tähenduses on Eestis;
+
+4\) taotleja ei ole varem sama kulu hüvitamiseks riigieelarvelistest, Euroopa Liidu või muudest välisabi vahenditest raha saanud;
+
+5\) taotlejal on projekti elluviimiseks vajalikud vahendid vastavalt §-s 8 sätestatud piirmääradele ja tingimustele.
+
+(3) Taotleja tunnistatakse nõuetele mittevastavaks juhul, kui taotleja ei vasta lõikes 2 sätestatud nõuetele.
+
+(4) Taotleja on kohustatud:
+
+1\) esitama KIKi nõudmisel taotleja ja taotluse kohta lisateavet nõutud vormis ja tähtajal;
+
+2\) võimaldama kontrollida taotluse ja taotleja vastavust nõuetele, sealhulgas teha paikvaatlust;
+
+3\) viivitamata teavitama KIKi taotluses esitatud andmetes toimunud muudatustest või ilmnenud asjaoludest, mis võivad mõjutada taotluse kohta otsuse tegemist;
+
+4\) tõendama määruses ettenähtud omafinantseeringu või muude vahendite olemasolu;
+
+5\) viivitamatult kirjalikult informeerima taotleja või selle osa ja sellega seonduvate asjade või õiguste üleandmise otsuse vastuvõtmisest;
+
+6\) esitama Maksu- ja Tolliameti tõendi taotleja maksuvõlgnevuste puudumise või nende ajatatuse kohta, mis ei tohi olla väljastatud varem kui 10 tööpäeva alates taotluse KIKis registreerimise kuupäevast;
+
+7\) täitma teisi õigusaktides sätestatud kohustusi ja esitama informatsiooni, mis võib mõjutada taotluse kohta otsuse tegemist;
+
+8\) juhul kui taotletav toetus on suurem kui 117 miljonit krooni, abistama ministeeriumit Euroopa Komisjoni poolt läbiviidava detailse hindamise jaoks riigiabi teatise dokumentide ettevalmistamisel;
+
+9\) esitama KIKi kasuks krediidi- või finantseerimisasutuse või kindlustusandja garantii, mille suurus on 1% taotletava toetuse suurusest kehtivusega 547 kalendripäeva alates taotlusvooru sulgemise tähtpäevast.
+
+### § 12. Taotlusele esitatavad nõuded
+
+(1) Taotluses sisalduv projekt peab aitama kaasa rohelise investeerimisskeemi eesmärkide saavutamisele, vastama meetme tingimustele ning olema suunatud kasvuhoonegaaside heitkoguste vähendamisele ja taastuvatest energiaallikatest elektri tootmise arendamisele.
+
+(2) Taotlusele esitatavad nõuded on järgmised:
+
+1\) taotlusvormi kõik taotlejale kohaldatavad lahtrid peavad olema korrektselt täidetud, taotlusest peab selguma projekti eesmärk ning vastavus §-s 2 nimetatud eesmärgile;
+
+2\) toetuse kasutamise tegevus-, rahastamis- ja ajakava peab olema reaalselt teostatav §-s 7 sätestatud projekti elluviimise perioodil;
+
+3\) taotluses nimetatud projekti eelarve peab olema põhjendatud, seotud otseselt projekti eesmärkidega ning vastama käesolevas määruses nõutavale omafinantseeringu määrale;
+
+4\) taotlusest peab selguma teave installeeritavate tootmisvõimsuste ning oodatava elektri toodangu kohta;
+
+5\) taotluses planeeritud tegevus peab olema kooskõlas Euroopa Liidu ja riigisiseste õigusaktidega;
+
+6\) taotlusest peab selguma kulude abikõlblikkus;
+
+7\) projekti puhul, milles taotletav toetus on kuni 117 miljonit krooni ning taotlejaks on suurettevõtja, peab taotluses toodud informatsioon kinnitama, et projekt vastab Euroopa Komisjoni määruse (EÜ) nr 800/2008 artikli 8 punkti 3 alapunktides a–d toodud ühele või mitmele kriteeriumile toetuse ergutava mõju osas;
+
+8\) taotlus peab sisaldama taotleja kinnitust esitatud andmete õigsuse kohta.
+
+(3) Taotleja peab taotlusele lisama järgmised dokumendid või põhjendama nende lisamata jätmist:
+
+1\) ülevaade taotleja tähtsamatest majandusnäitajatest taotluse esitamisele eelnenud majandusaastal, sealhulgas informatsioon müügitulu, ärikasumi või -kahjumi, bilansimahu, omakapitali suuruse ja töötajate keskmise arvu kohta;
+
+2\) eelmise majandusaasta aruanne ning kui aruande auditeerimine on seadusest tulenevalt kohustuslik, ka audiitori järeldusotsus;
+
+3\) projekti elluviimiseks vajalikku omafinantseeringut tõendavad dokumendid;
+
+4\) äriühingu jooksva majandusaasta kasumi prognoosi, äriühingu rahavoogude aruanne ja bilanss, mis ei ole taotluse esitamise päeval vanemad kui kaks kuud ning rahavoogude prognoos;
+
+5\) projekti üldine kirjeldus, sealhulgas teave tootmisvõimsuste installeerimise ja oodatava elektri toodangu eesmärkidest, tegevuste algus- ja lõppkuupäevast, tegevuste lühikirjeldus, tegevuskulude eelarve tegevuste lõikes, projekti üldmaksumus, taotletava toetuse summa, projekti omafinantseeringu summa;
+
+6\) teave taotleja või taotleja omanike tuuleenergia projektide alasest kogemustest ning tõendid vajaliku tehnilise- ja inimressursi olemasolule, sealhulgas projektijuhi ja projekti rakendajate elulookirjeldused;
+
+7\) eeldatav toetuse väljamaksete ajakava;
+
+8\) keskkonnamõju hindamise tulemust või hetkeolukorda kirjeldavad dokumendid, kui «Keskkonnamõju hindamise ja keskkonnajuhtimissüsteemi seadus» sätestab selle vajalikkuse projekti elluviimiseks või esitama nimetatud seaduse mõistes otsustaja seisukoha;
+
+9\) tõend maa ja infrastruktuuri omandi või valduse kohta või kavandatava tegevuse lubamise kokkulepe omaniku või valdajaga või kinnitus kavandatava tegevuse lubamise kokkulepe sõlmimise kavatsusest omaniku või valdajaga hiljemalt toetuslepingu sõlmimise hetkeks. Nimetatud kokkuleppe kehtivustähtaeg peab olema vähemalt kakskümmend viis aastat pärast projekti eeldatavat lõppemist;
+
+10\) tuuleressursi hindamise dokumentatsioon, mille puhul tuuleressurssi tõendavad minimaalselt 12-kuulise perioodi jooksul kohapealse anemomeetriga, mille masti kõrgus on võrreldav taotluses pakutud tuulegeneraatori masinaruumi kõrgusega, saadud tuulemõõtmise andmed;
+
+11\) võrguettevõtja võrguga liitumise tingimused ning liitumise seisu kirjeldus;
+
+12\) tuulepargi eelprojekt ja projekteerimistingimused. Olemasolu korral põhiprojekt;
+
+13\) teostatavusuuring;
+
+14\) taotluse eelarvet põhjendavad dokumendid;
+
+15\) ülevaade projekteerimise, tehnoloogia hankimise ja ehituslepingute sõlmimise seisust ning juhul, kui tööde teostaja või teenuse osutaja on valitud, siis valikut põhjendav dokumentatsioon;
+
+16\) projekti puhul, milles taotletav toetus on kuni 117 miljonit krooni ning taotlejaks on suurettevõtja, kirjeldus selle kohta, kuidas projekt vastab Euroopa Komisjoni määruse (EÜ) nr 800/2008 artikli 8 punkti 3 alapunktides a–d toodud ühele või mitmele kriteeriumile toetuse ergutava mõju osas;
+
+17\) krediidi- või finantseerimisasutuse või kindlustusandja garantii, mille suurus on 1% taotletava toetuse suurusest kehtivusega 547 kalendripäeva alates taotlusvooru sulgemise tähtpäevast;
+
+18\) volikiri, kui taotleja esindusõiguslik isik tegutseb volituse alusel;
+
+19\) info varasemalt saadud riigiabi kohta.
+
+(4) KIKil on õigus nõuda täiendavaid dokumente taotluse nõuetele vastavuse hindamiseks.
+
+## 4. peatükk — TAOTLUSE MENETLEMINE
+
+### § 13. Taotluse menetlemine
+
+(1) Taotluse menetlemine KIKis koosneb taotluse registreerimisest, taotluse läbivaatamisest või läbivaatamata tagastamisest, taotleja ja taotluse nõuetele vastavaks või mittevastavaks tunnistamisest; taotluste hindamisest; selgituste ja lisainformatsiooni küsimisest ning taotluse rahuldamata jätmise otsuse tegemisest või projekti rahastamise lepingu sõlmimise ettepaneku tegemisest.
+
+(2) KIK võib taotluse menetlemise käigus nõuda taotlejalt selgitusi ja taotluse täiendamist või muutmist, kui ta leiab, et taotlus ei ole piisavalt selge, näidates ühtlasi, millised asjaolud vajavad täiendavat selgitamist, täiendamist või lisainformatsiooni. KIKil on õigus teha taotlejale ettepanek muuta taotletud toetuse summat ja projekti tegevusi, kui need ei vasta käesoleva määruse nõuetele tingimusel, et saavutatakse taotluses sisalduva projekti eesmärgid ning toetuse summa ei suurene. Kui taotleja ei ole nõus toetuse summa või tegevuste muutmisega, tehakse taotluse rahuldamata jätmise otsus.
+
+(3) Taotluse menetlemise tähtaeg on 60 kalendripäeva alates taotluste esitamise tähtpäevast.
+
+(4) Kui taotlus on esitatud hiljem kui KIKi poolt määratud taotluste esitamise tähtpäev, jätab KIK taotluse läbi vaatamata ning tagastab taotlejale.
+
+### § 14. Taotleja ja taotluse nõuetele vastavaks tunnistamine ja taotluste hindamise kord
+
+(1) Taotleja tunnistatakse nõuetele vastavaks juhul, kui on täidetud kõik §-s 11 taotlejale esitatud nõuded.
+
+(2) Taotlus tunnistatakse nõuetele vastavaks, kui:
+
+1\) taotlus on esitatud käesolevas määruses sätestatud korras ja vormis ning vastab §-s 12 esitatud nõuetele;
+
+2\) toetust taotletakse käesolevas määruses sätestatud toetatavale tegevusele;
+
+3\) taotletud toetuse suurus ei ületa käesolevas määruses sätestatud toetuse määra;
+
+4\) taotluses sisalduva projekti tegevus planeeritakse lõpetada hiljemalt 30. septembril 2013;
+
+5\) taotluses käsitletud projekti eelarves on muu hulgas kavandatud nõutav omafinantseering;
+
+6\) taotluse on allkirjastanud taotleja esindusõiguslik isik.
+
+(3) Taotlus ei vasta nõuetele, kui esineb vähemalt üks järgmistest asjaoludest:
+
+1\) taotluses on esitatud ebaõigeid või mittetäielikke andmeid või taotleja mõjutab pettuse või ähvardusega või muul õigusvastasel viisil taotluse menetlemist;
+
+2\) taotleja ei võimalda kontrollida taotluse vastavust nõuetele või teha paikvaatlust;
+
+3\) taotleja ei ole määratud tähtaja jooksul kõrvaldanud taotluses esinevaid puudusi;
+
+4\) taotlus ei vasta käesolevas määruses taotlusele esitatud nõuetele.
+
+(4) Kui KIK avastab taotluse nõuetele vastavuse kontrollimisel taotluses puudusi, teatab ta sellest viivitamata taotlejale ja määrab puuduste kõrvaldamiseks tähtaja kuni 14 kalendripäeva arvestusega, et taotluse menetlemise aeg ei oleks pikem kui § 13 lõikes 3 sätestatud tähtaeg.
+
+(5) Taotluse või taotleja nõuetele mittevastavuse korral teeb KIK taotluse rahuldamata jätmise otsuse ning toimetab selle taotlejale kätte lihtkirjaga või taotleja nõusolekul elektrooniliselt.
+
+(6) Nõuetele vastavaks tunnistatud taotluste järjestamiseks hinnatakse neid §-s 15 esitatud hindamiskriteeriumide alusel KIKi kehtestatud korras.
+
+(7) KIK moodustab taotluse hindamiseks hindamiskomisjoni ning kaasab taotluse hindamiseks eksperte. Hindamiskomisjoni moodustamine ja koosseis kooskõlastatakse Kliimaministeeriumiga.
+
+\[RT I, 05.07.2023, 7 - jõust. 08.07.2023\]
+
+(8) Hindamise tulemusena koostatakse taotluste pingerida, milles sisalduvate taotluste rahuldamine toimub valdkonna eest vastutava ministri kehtestatud taotlusvooru eelarve võimalustest lähtudes.
+
+\[RT I, 13.06.2025, 1 - jõust. 16.06.2025\]
+
+### § 15. Taotluse hindamiskriteeriumid
+
+(1) Taotlusi hinnatakse skaalal 1–5 punkti iga hindamiskriteeriumi ja alakriteeriumi lõikes. Taotluse koondhinne moodustub lõikes 2 loetletud hindamiskriteeriumite hinnete kaalutud keskmisest. Taotlus ei kuulu rahuldamisele juhul, kui vähemalt ühe lõike 2 punktides 1–3 toodud kriteeriumi hinne jääb alla 2 punkti.
+
+(2) Taotluse hindamiskriteeriumid ja nende osakaalud on järgmised:
+
+1\) toetuse suurus (EUR) installeeritud võimsuse (MW) kohta maksimaalselt 20% koondhindest;
+
+2\) projekti valmidus ja teostatavus maksimaalselt 50% koondhindest;
+
+3\) taotleja finants-, majanduslik ja tehniline informatsioon maksimaalselt 30% koondhindest.
+
+(3) Projekti valmiduse ja teostatavuse hindamiskriteeriumil on alljärgnevad alakriteeriumid ning osakaalud:
+
+1\) 12-kuulise perioodi jooksul kohapealse anemomeetriga, mille masti kõrgus on võrreldav taotluses pakutud tuulegeneraatori masinaruumi kõrgusega, läbi viidud tuulemõõtmise andmetega tõendatud tuuleressursi hinnang – kuni 30% maksimaalsest valmiduse ja tasuvuse hindamiskriteeriumi hindest;
+
+2\) maa ja taotlejale mittekuuluva projekti läbiviimiseks vajaliku maa kasutamiseks sõlmitud lepingute olemasolu – kuni 5% maksimaalsest valmiduse ja tasuvuse hindamiskriteeriumi hindest;
+
+3\) elektrivõrguga liitumise seis – kuni 25% maksimaalsest valmiduse ja tasuvuse hindamiskriteeriumi hindest;
+
+4\) ehitusloa hankimise ja keskkonnamõjude hindamise seis – kuni 15% maksimaalsest valmiduse ja tasuvuse hindamiskriteeriumi hindest;
+
+5\) tuulegeneraatorite hankimise seis ning nende vastavus EL direktiividele ja sertifitseerimise standarditele – kuni 25% maksimaalsest valmiduse ja tasuvuse hindamiskriteeriumi hindest;
+
+6\) omafinantseerimise vahendite (oma- ja võõrkapitali) olemasolu tõendatus – kuni 10% maksimaalsest valmiduse ja tasuvuse hindamiskriteeriumi hindest.
+
+(4) Taotleja finants-, majandusliku ja tehnilise informatsiooni hindamiskriteeriumil on alljärgnevad alakriteeriumid ning osakaalud:
+
+1\) taotleja finants-majanduslik seis ning rahavoogude piisavus – kuni 50% maksimaalsest taotleja finants-, majandusliku ja tehnilise informatsiooni hindamiskriteeriumi hindest;
+
+2\) taotleja varasem kogemus tuuleenergia kasutuselevõtuga seotud projektide arendamisel ja tuuleenergia rakendamisel – kuni 50% maksimaalsest taotleja finants-, majandusliku ja tehnilise informatsiooni hindamiskriteeriumi hindest.
+
+(5) Võrdsete punktide korral eelistatakse taotlust, millel on suurem omafinantseeringu määr.
+
+### § 16. Taotluse rahuldamine või rahuldamata jätmise otsus
+
+(1) Ettepaneku projekti rahastamise lepingu sõlmimiseks või taotluse rahuldamata jätmise otsuse teeb KIK hiljemalt 60 tööpäeva jooksul taotluse esitamise tähtpäevast arvates.
+
+(2) Hindamise tulemusena kõrgema punktiarvu saanud taotluste esitajatele tehakse ettepanek projekti rahastamise lepingu sõlmimiseks lähtuvalt taotlusvooru rahastamise mahust.
+
+(3) KIK väljastab projekti rahastamise lepingu sõlmimise ettepaneku taotlejale viivitamata tähitud kirjaga või taotleja nõusolekul elektrooniliselt pärast taotluse rahuldamise otsuse tegemist või pärast riigiabi detailse hindamise tulemusena tehtud abi lubavat otsust projektidele, milles taotletav toetus on üle 117 miljoni krooni ja kuni 313 miljonit krooni.
+
+(4) Projektidele, milles taotletav toetus on kuni 117 miljonit krooni, sõlmib toetuse saaja 30 kalendripäeva jooksul pärast projekti rahastamise lepingu sõlmimise ettepaneku kättesaamist KIKiga projekti rahastamise lepingu. Poolte kokkuleppel on tähtaega võimalik pikendada. Projektidele, milles taotletav toetus on kuni 117 miljonit krooni, on projekti rahastamise lepingu sõlmimise ettepanek KIKi poolt tagasivõetamatu.
+
+(5) Projektidele, milles taotletav toetus on üle 117 miljoni krooni ja kuni 313 miljonit krooni, sõlmib toetuse saaja 30 kalendripäeva jooksul pärast projekti rahastamise lepingu sõlmimise ettepaneku kättesaamist KIKiga projekti rahastamise lepingu. Leping jõustub pärast Euroopa Komisjoni poolset detailse hindamise läbiviimist ja abi lubavat otsust. Poolte kokkuleppel on tähtaega võimalik pikendada.
+
+(6) Kui Euroopa Komisjon ei tee riigiabi teatise kohta lubavat otsust, võib taotleja taotleda taotluses sisalduva projekti tegevuste vähendamist ning taotleda finantseerimist kuni 117 miljoni krooni ulatuses ning taotluse rahastamist § 6 lg 2 abikõlblike kulude lõikes § 8 lg 2 sätestatud toetuse piirmäära ulatuses.
+
+(7) Juhul kui taotleja ei soovi projekti tegevuste vähendamist, lõpetab KIK projekti rahastamise lepingu kooskõlas õigusaktidega ning esitab projekti rahastamise lepingu sõlmimise ettepaneku taotluste hindamise pingereas järgmisele projektile.
+
+(8) Juhul kui toetuse saaja ja KIK ei jõua kokkuleppele projekti rahastamise lepingu sõlmimiseks 75 kalendripäeva jooksul pärast lepingu sõlmimise ettepaneku kättesaamist, on KIKil õigus rahastamise lepingu sõlmimise ettepanek tühistada ning teha projekti rahastamise lepingu sõlmimise ettepanek taotluste hindamise pingereas järgmisele projektile.
+
+(9) KIK teeb toetuse rahuldamata jätmise otsuse pärast taotluste hindamist juhul, kui:
+
+1\) hindamise käigus selgub, et taotluses on esitatud valeandmeid või esinevad asjaolud, mille tõttu taotlejat või taotlust ei saa nõuetele vastavaks tunnistada või taotlust rahuldada;
+
+2\) taotlus jääb taotluste hindamise tulemusena moodustunud paremusjärjestuses väljapoole taotluste rahastamise eelarvet.
+
+(10) Taotluse rahuldamata jätmise otsuses märgitakse vähemalt:
+
+1\) otsuse tegija;
+
+2\) otsuse tegemise kuupäev ja otsuse number;
+
+3\) toetuse taotleja andmed;
+
+4\) taotluse nimetus;
+
+5\) otsuse tegemise õiguslikud ja faktilised alused;
+
+6\) taotluse rahuldamata jätmise põhjendus;
+
+7\) otsuse vaidlustamise kord.
+
+(11) KIK väljastab taotluse rahuldamata jätmise otsuse toetuse taotlejale viivitamata tähitud kirjaga või taotleja nõusolekul elektrooniliselt pärast taotluse rahuldamata jätmise otsuse tegemist.
+
+## 5. peatükk — TOETUSE KASUTAMINE
+
+### § 17. Projekti rahastamise leping
+
+(1) Toetuse saaja ja KIK sõlmivad toetuse kasutamiseks projekti rahastamise lepingu. Projekti rahastamise lepingus määratakse kindlaks vähemalt alljärgnev:
+
+\[RT I, 01.02.2013, 1 - jõust. 04.02.2013\]
+
+1\) lepingu pooled ja nende andmed;
+
+2\) projekti nimetus;
+
+3\) erisused võrreldes taotluses esitatud tegevuse või projekti eelarvega;
+
+4\) välja makstav toetus, abikõlblikud kulutud ja projekti elluviimise periood;
+
+5\) projekti finantseerimise kava, iga aasta kohta eraldi;
+
+6\) maksimaalne toetuse summa ja selle maksimaalne osakaal projekti abikõlblikest kuludest;
+
+7\) poolte õigused ja kohustused;
+
+8\) muudatused projekti tegevustes ja eelarves, mille puhul ei ole lepingu muutmine vajalik;
+
+9\) hangete läbiviimise kord, juhul kui taotleja ei pea järgima «Riigihangete seadust»;
+
+10\) tingimused ja kord põhivara eesmärgipäraseks kasutamiseks ja selle ohtuks säilitamiseks;
+
+11\) järelevalve tingimused ja kord;
+
+12\) toetuse saamise ja kasutamisega seotud teabe ja aruandluse esitamise tingimused ja kord;
+
+13\) toetuse väljamaksmise tingimused ja kord;
+
+14\) tingimused ja kord toetuse tagasinõuete esitamiseks ja tagasimakseteks;
+
+15\) lepingu muutmise tingimused;
+
+16\) lepingu lõpetamine ja lepingust taganemine;
+
+17\) vaidluste lahendamise kord;
+
+18\) teavitamise meetodid ja kord;
+
+19\) käesoleva määruse § 11 lõike 4 punktis 9 nimetatud krediidi- või finantseerimisasutuse või kindlustusandja garantii realiseerimise asjaolud;
+
+20\) tingimus, mille kohaselt toetuse saajal ei ole lubatud toetuse abil soetatud tootmisseadmete abil elektritootmise käivitamisele järgneva 20 aasta jooksul müüa projekti elluviimisel tekkivate kasvuhoonegaaside emissioonide vähenemist kolmandale osapoolele;
+
+21\) tingimus, mille kohaselt juhul, kui toetusleping jõustumise hetkeks pärast Euroopa Komisjoni abi lubavat otsust, kehtib § 11 lõike 4 punktis 9 nimetatud garantii vähem kui 6 kuud, on toetuse saaja kohustatud pikendama selle garantii kehtivusaega 6 kuuni lepingu jõustumise hetkest alates;
+
+22\) tingimus, mille kohaselt võib KIK lepingu lõpetada, kui Euroopa Komisjon ei tee riigiabi teatise kohta lubavat otsust ja taotleja ei nõustu projekti tegevuste vähendamisega;
+
+23\) muud vajalikud tingimused projekti edukaks rakendamiseks ja kohasteks järelevalvetoiminguteks.
+
+(2) Kui toetuse saaja pole alustanud projekti elluviimisega 6 kuu jooksul pärast projekti rahastamise lepingu sõlmimist, realiseeritakse § 11 lõike 4 punktis 9 nimetatud krediidi- või finantseerimisasutuse või kindlustusandja garantii KIKi poolt ning projekti rahastamise leping tunnistatakse kehtetuks.
+
+(3) Projekti elluviimisega alustamiseks loetakse seadmete hankelepingu allkirjastamist.
+
+(4) Juhul kui pärast projekti rahastamise lepingu sõlmimist ja projekti elluviimise perioodil kavandatakse toetuse saaja osaluse omaniku, kellele kuulus taotlemise hetkel rohkem kui 50% toetuse saaja aktsia- või osakapitalist, osade või aktsiate võõrandamist või üleminekut uuele omanikule, peab toetuse saaja enne kavandatavat osade või aktsiate võõrandamist või üleminekut uuele omanikule teavitama KIKi kavandatavast olulisest muudatusest toetuse saaja osaluse omanike ringis. Sellisel juhul võib KIK vastu võtta ühe järgmistest otsustest, kooskõlastades otsuse eelnevalt ministeeriumiga:
+
+1\) nõuab toetuse saajalt täiendavat tagatist tagamaks toetuse kasutamine taotluse rahuldamise otsuses kindlaksmääratud tingimustel;
+
+2\) teeb ettepaneku muuta projekti rahastamise lepingut.
+
+\[RT I, 01.02.2013, 1 - jõust. 04.02.2013\]
+
+(5) Ministeerium kooskõlastab täiendava tagatise nõude või projekti rahastamise lepingu muutmise juhul, kui:
+
+1\) sellega nõustub Hispaania Kuningriiki esindav asutus vastavalt Eesti Vabariigi ja Hispaania Kuningriigi vahelisele Kyoto protokolli artikli 17 kohaste lubatud heitkoguse ühikutega kauplemise kokkuleppele, mis sõlmiti Vabariigi Valitsuse 29. juuli 2010. a korralduse nr 298 „Eesti Vabariigi ja Hispaania Kuningriigi vahelise Kyoto protokolli artikli 17 kohaste lubatud heitkoguse ühikutega kauplemise kokkuleppe allkirjastamiseks volituse andmine ning finantsvahendite kasutamine“ alusel;
+
+2\) on tõendatud, et toetuse saaja omaniku muutumine ei põhjusta takistusi projekti elluviimisel.
+
+\[RT I, 01.02.2013, 1 - jõust. 04.02.2013\]
+
+(6) Juhul kui pärast projekti rahastamise lepingu sõlmimist ja projekti elluviimise perioodil muutub toetuse saaja osaluse omanik, kellele kuulus taotlemise hetkel rohkem kui 50% ettevõttest, ilma, et toetuse saaja oleks KIKi teavitanud, samuti juhul kui toetuse saaja ei ole esitanud KIKi nõudel täiendavat tagatist või keeldub KIKi ettepaneku alusel projekti rahastamise lepingut muutmast, loetakse rahastamise leping KIKi poolt tühiseks ning makstud toetus nõutakse tagasi.
+
+\[RT I, 01.02.2013, 1 - jõust. 04.02.2013\]
+
+(7) Toetuse saaja võib taotleda projekti elluviimise perioodi pikendamist. KIK võib projekti elluviimise perioodi toetuse saaja taotlusel pikendada juhul, kui toetuse saaja senine ja kavandatav tegevus tagavad projekti elluviimise §-s 7 sätestatud projekti elluviimise perioodil.
+
+\[RT I, 01.02.2013, 1 - jõust. 04.02.2013\]

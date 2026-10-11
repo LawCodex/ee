@@ -1,0 +1,932 @@
+---
+title: "Väikesaarte programm"
+identifier: "119042024008"
+rt_reference: "RT I, 19.04.2024, 8"
+rt_original: "RT I, 31.05.2018, 56"
+group_id: "1043316"
+type: regulation
+issuer: "Riigihalduse minister"
+number: "26"
+text_type: "terviktekst"
+jurisdiction: ee
+language: et
+date: 2018-05-29
+last_amended: 2024-04-22
+status: in_force
+source: "https://www.riigiteataja.ee/akt/119042024008"
+retrieved: 2026-10-12
+---
+
+# Väikesaarte programm
+
+Määrus kehtestatakse riigieelarve seaduse § 53<sup>1</sup> lõike 1 alusel.
+
+## 1. peatükk — Üldsätted
+
+### § 1. Reguleerimisala ja programmi eesmärk
+
+(1) Määrus reguleerib väikesaarte programmi (edaspidi *programm*) rakendamist.
+
+(2) Programmi eesmärk on kaasa aidata väikesaarte elanikele osutatavate esmatähtsate teenuste kättesaadavusele ja kvaliteedi parandamisele ning väikesaarte arengu kavandamisele kohaliku omavalitsuse üksuses.
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+(3) Programmi raames mõistetakse esmatähtsate teenustena mandri ja saarte vahelist transpordiühendust (sealhulgas ühendust saare ühe keskuse ja sadama vahel), hoolekande- ja tervishoiuteenuseid, esmatähtsatele teenustele ligipääsetavuse loomist erivajadustega inimestele, esmatarbevahendite, toidu, elektri, joogivee, kanalisatsiooni ja mootorsõiduki kütuse kättesaadavust, jäätmemajandust, juurdepääsu alus- ja põhiharidusele, päästevõimekuse tõstmist, avaliku korra tagamist, sideteenuseid ning eluruumide ehitamist või nende kvaliteedi parandamist.
+
+\[RT I, 15.01.2021, 3 - jõust. 18.01.2021\]
+
+(3<sup>1</sup>) Programmi raames mõistetakse väikesaarte arengu kavandamisena püsiasustusega väikesaarte seaduse §-s 7 nimetatud arengukava koostamist.
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+(4) Programmi rakendatakse püsiasustusega väikesaarte seaduse § 2<sup>1</sup> lõikes 1 nimetatud väikesaartel, mis on kantud sama seaduse § 2<sup>1</sup> lõike 3 alusel väikesaarte nimistusse (edaspidi *programmi piirkond*) taotlusvooru väljakuulutamise kuupäevale eelneva kuupäeva seisuga.
+
+\[RT I, 15.01.2021, 3 - jõust. 18.01.2021\]
+
+(5) Programmi rahalised vahendid jagunevad toetusvahenditeks ja programmi rakenduskuludeks.
+
+### § 2. Terminid
+
+(1) Sihtrühm on rahvastikuregistri andmetel väikesaarel alaliselt elav inimeste rühm, kellele projekti tegevused on suunatud. Alaline on elukoht, kus isik veedab enamiku oma puhke- ja uneajast kalendriaasta jooksul.
+
+\[RT I, 15.01.2021, 3 - jõust. 18.01.2021\]
+
+(2) Omafinantseering on toetuse taotleja (edaspidi *taotleja*) või toetuse saaja rahaline panus projekti abikõlblike kulude katmiseks, mis on kajastatud projekti eelarves ja mida toetusest ei hüvitata.
+
+(3) Kaasfinantseering on kaasfinantseerija panus projekti eelarvesse, mis vastab omafinantseeringu nõuetele.
+
+(4) Kaasfinantseerija on juriidiline isik, kohaliku omavalitsuse üksus või riigiasutus, kes panustab rahaliselt projekti eelarvesse.
+
+(5) Projekt on kindla eesmärgi saavutamisele suunatud ajas ja ruumis piiritletud ühekordne tegevus või tegevuste kogum, mille tegemiseks toetust taotletakse või kasutatakse.
+
+(6) E-keskkond on Riigi Tugiteenuste Keskuse määratud elektrooniline keskkond, mille kaudu saab taotleja esitada Riigi Tugiteenuste Keskusele nõutud dokumente.
+
+\[RT I, 17.08.2018, 1 - jõust. 01.09.2018\]
+
+(7) Termineid „ehitis”, „hoone”, „ehitamine”, „ehitise ümberehitamine ehk rekonstrueerimine”, „ehitusprojekt” ja „kasutusluba” kasutatakse ehitusseadustiku tähenduses.
+
+(8) Terminit „kohaliku omavalitsuse üksusest sõltuv üksus” kasutatakse kohaliku omavalitsuse üksuse finantsjuhtimise seaduse tähenduses.
+
+### § 3. Programmi rakendamine
+
+(1) Programmi koordineerimise ja programmi väljatöötamise eest vastutab Regionaal- ja Põllumajandusministeerium (edaspidi *ministeerium*).
+
+\[RT I, 15.07.2023, 2 - jõust. 18.07.2023, rakendatakse tagasiulatuvalt 2023. aasta 1. juulist\]
+
+(2) Programmi elluviimise eest vastutab Riigi Tugiteenuste Keskus (edaspidi *RTK*).
+
+\[RT I, 17.08.2018, 1 - jõust. 01.09.2018\]
+
+## 2. peatükk — Toetuse andmise alused
+
+### § 4. Toetatavad tegevused
+
+(1) Programmi raames toetatakse tegevusi, mis on otseselt vajalikud § 1 lõikes 2 nimetatud programmi ja projekti eesmärgi saavutamiseks.
+
+(2) Toetatavad tegevused projektis, mis sisaldab investeeringut ehk on mõeldud investeeringuobjekti ehitamiseks või renoveerimiseks või vara soetamiseks (edaspidi *investeeringuprojekt*), on:
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+1\) ehitustööd investeeringu objektil;
+
+2\) vähemalt viieaastase kasutusajaga ja otseselt esmatähtsate teenuste pakkumiseks vajalike seadmete, päästevarustuse, transpordivahendite ja mööbli soetamine, avalike elektriautode akude laadimispunktide soetamine ja paigaldamine, videovalvesüsteemide soetamine ja paigaldamine avalikesse kohtadesse ning kaupade tõsteseadmete soetamine;
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+3\) omanikujärelevalve;
+
+4\) muinsuskaitseline järelevalve;
+
+5\) projekteerimine;
+
+6\) koolitus.
+
+(3) Programmi raames ei toetata järgmisi tegevusi:
+
+1\) ehitustööd ja muud tegevused, mis on suunatud eeskätt turismi ja külastuskeskkonna arendamisele;
+
+2\) puhkealade väljaarendamine koos sinna juurde kuuluva infrastruktuuriga (rannaalad, ujumiskohad ja muu sarnane);
+
+3\) maa ja ehitise ostmine.
+
+(4) Toetatavate tegevuste osas on järgmised piirangud:
+
+1\) projekteerimist toetatakse ainult koos ehitustöödega;
+
+2\) eluruumide või nende ülalpidamisega seotud abihoonete ehitamiseks või kvaliteedi parandamiseks saab toetust taotleda ainult kohaliku omavalitsuse üksus tema omandis olevale kinnistule kuni seitsme korteriga hoone ehitamiseks või ümberehitamiseks või tema omandis oleva korteri ümberehitamiseks eesmärgiga tagada § 1 lõikes 3 nimetatud esmatähtsat teenust osutavale ametnikule või töötajale eluruum või sotsiaaleluruum isikule, kellel on õigus vastava sotsiaalteenuse saamiseks;
+
+\[RT I, 15.01.2021, 3 - jõust. 18.01.2021\]
+
+3\) hoonete, mida ei kasutata esmatähtsate teenuste osutamiseks, jaoks vajalike tehnovõrkude rajamist toetatakse kuni kinnistu liitumispunktini ning ainult juhul kui valmis lahendusest saab kasu rohkem kui üks kinnistu;
+
+4\) toetust saab eraldada sadama jaoks, mis on kohaliku omavalitsuse üksuse arengukavas määratud kui peamine sadam saarel transpordiühenduse pidamiseks mandri või suursaarega, kui väikesaarel asub mitu sadamat;
+
+\[RT I, 15.01.2021, 3 - jõust. 18.01.2021\]
+
+5\) sadama jaoks, mis ei ole kohaliku omavalitsusüksuse arengukavas nimetatud peamise sadamana, võib toetust eraldada üksnes päästeteenistuse kvaliteedi tõstmise eesmärgil.
+
+\[RT I, 15.01.2021, 3 - jõust. 18.01.2021\]
+
+(4<sup>1</sup>) Toetatavad tegevused § 1 lõike 3<sup>1</sup> kohases väikesaarte arengu kavandamise projektis (edaspidi *arenguprojekt*) on:
+
+1\) uuringu, analüüsi ja ekspertiisi tegemine, sealhulgas andmete kogumine ja analüüsimine;
+
+2\) konsultatsioon;
+
+3\) seminarid, ühisarutelud ja muud koostöövormid;
+
+4\) arengukava koostamine või uuendamine.
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+(5) Toetust võib taotleda määruses sätestatud tegevuste jaoks, kui taotleja ei ole saanud toetust sama kulu hüvitamiseks kohaliku omavalitsuse eelarvelistest või riigieelarvelistest vahenditest või Euroopa Liidu või muudest välisvahenditest ega muud tagastamatut toetust.
+
+### § 5. Kulude abikõlblikkus
+
+(1) Abikõlblikud on programmi eesmärgi saavutamiseks vajalikud, toetatavatele tegevustele vastavad, põhjendatud, mõistlikud ja projekti elluviimiseks vajalikud kulud.
+
+(2) Kulud jagunevad otsesteks kuludeks ning projekti administreerimisega seotud personali- ja üldkuludeks.
+
+(3) Abikõlblikud otsesed kulud investeeringuprojektides on:
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+1\) juriidiliselt isikult või füüsilisest isikust ettevõtjalt projekti tegevuste tegemiseks vajalike teenuste ja toodete ostmise kulud;
+
+2\) transpordikulud;
+
+3\) kohustuslikud programmist toetuse saamisest teavitamisega seotud kulud;
+
+4\) omanikujärelevalve eest makstav tasu, juhul kui omanikujärelevalve on sisse ostetud tasuline teenus;
+
+5\) muinsuskaitsealase järelevalve eest makstav tasu, juhul kui muinsuskaitsealane järelevalve on sisse ostetud tasuline teenus;
+
+6\) ehitamisega seotud projekteerimiskulud;
+
+7\) ehitustööde eest töö tegijale makstav tasu;
+
+8\) ehitusmaterjali kulud;
+
+9\) riiklikud maksud ja lõivud, mis on seotud projekti otseste abikõlblike kuludega ning mis ei ole Eesti riigi poolt taotlejale tagastatavad;
+
+10\) otseselt esmatähtsate teenuste pakkumiseks vajalike ja vähemalt viieaastase kasutusajaga seadmete, päästevarustuse, transpordivahendite või mööbli soetamise ja paigaldamise kulud.
+
+(3<sup>1</sup>) Abikõlblikud otsesed kulud arenguprojektides on:
+
+1\) sisseostetava uuringu ning analüüsi- ja ekspertiisikulu;
+
+2\) kohaliku omavalitsuse üksuse välise eksperdi kaasamise kulu;
+
+3\) seminari, ühisarutelu ja muu töövormi või väikesaare kogukonna kaasamise kulu, sealhulgas ruumide ja tehnika rendi- ning osalejate toitlustamiskulud;
+
+4\) kohustuslikud programmist toetuse saamisest teavitamisega seotud kulud;
+
+5\) riiklikud maksud ja lõivud, mis on seotud projekti otseste abikõlblike kuludega ning mis ei ole Eesti riigi poolt taotlejale tagastatavad.
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+(4) Abikõlblikud projekti administreerimisega seotud personali- ja üldkulud on:
+
+1\) töötajate, sealhulgas projektijuhi töölepingu või võlaõigusliku lepingu alusel makstav töötasu ja maksud tööjõukuludelt;
+
+2\) projekti elluviimisega seotud side- ja transpordikulud;
+
+3\) projektiga seotud bürootarvete soetamise kulud;
+
+4\) projekti raamatupidamisega seotud kulud.
+
+(5) Abikõlblike kulude osas on järgmised piirangud:
+
+1\) projekti administreerimisega seotud personali- ja üldkulud võivad moodustada kuni kümme protsenti projekti abikõlblike kulude kogumahust;
+
+2\) kohaliku omavalitsuse üksusele või riigiasutustele ei ole projekti administreerimisega seotud personali- ja üldkulud abikõlblikud.
+
+(6) Projekti kulude osas kehtivad järgmised üldtingimused:
+
+1\) projekti kulud loetakse abikõlblikuks, kui need on tekkinud projekti elluviimise perioodi jooksul, välja arvatud lõike 3 punktis 6 nimetatud tõendatavad kulud, mis ei või olla tehtud varem kui kaks aastat enne taotluse esitamist;
+
+2\) kõik projekti kulud peavad olema tasutud toetuse saaja või kaasfinantseerija arvelduskontolt;
+
+3\) kulud peavad olema tõendatud algdokumentidega ja nende alusel ülekannete tegemist tõendavate maksekorralduste või pangakonto väljavõttega;
+
+4\) kulud peavad vastama õigusaktidest tulenevatele nõuetele ja toetuse saaja raamatupidamise sise-eeskirjadele;
+
+5\) kulud peavad olema selgelt eristatud toetuse saaja või kaasfinantseerija raamatupidamises ning vastama Eesti finantsaruandluse standardile.
+
+(7) Mitteabikõlblikeks kuludeks loetakse:
+
+1\) kulud, mis ei vasta lõigetes 1‒6 toodud nõuetele;
+
+2\) kulud, mis ei ole programmi eesmärgi saavutamiseks vajalikud ja mõistlikud ning mis ei ole projekti elluviimisega otseselt seotud;
+
+3\) kulud, mis on varem kohaliku omavalitsuse üksuse eelarvest, riigieelarvest või Euroopa Liidu või välisvahendite toetustest hüvitatud;
+
+4\) kulud, mis toetuse saaja või kaasfinantseerija on tasunud sularahas;
+
+5\) pangakaardi hooldustasud;
+
+6\) kindlustamine ja sellega kaasnevad kulud;
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+7\) finantskulud, sealhulgas intressikulud, viivised ja trahvid;
+
+8\) laenu-, liisingu- ja pangagarantiikulud ning nendega kaasnevad kulud;
+
+9\) kohtu- ja õigusabikulud;
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+10\) amortisatsioonikulud;
+
+11\) esinduskulud, kingitused, meened ja auhinnad;
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+12\) tulu- ja sotsiaalmaks erisoodustuselt;
+
+13\) tegevustoetused;
+
+14\) teede hooldamisega seotud kulud ja investeeringud;
+
+15\) püsikulud, sealhulgas töötasud, välja arvatud lõike 4 punktis 1 nimetatud kulud;
+
+16\) käibevahendite (materjalid, tarbekaubad ja muu sarnane) soetamise kulu, välja arvatud juhul, kui need on otseselt vajalikud projekti eesmärkide saavutamiseks;
+
+17\) \[kehtetu - RT I, 15.01.2021, 3 - jõust. 18.01.2021\]
+
+17<sup>1</sup>) tee ehituse või renoveerimise, välja arvatud § 1 lõikes 3 nimetatud ühe saarekeskuse ja sadama vahelise ühenduse kulud;
+
+\[RT I, 15.01.2021, 3 - jõust. 18.01.2021\]
+
+18\) maa või ehitise ostmiseks tehtavad kulud;
+
+19\) ehitise või maa üürimiseks või rentimiseks tehtavad kulud;
+
+20\) \[kehtetu - RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+21\) \[kehtetu - RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+22\) tegevused, mille kulude katmiseks on võimalik toetust taotleda riigihalduse ministri 22. veebruari 2018. a määruse nr 14 „Hajaasustuse programm” alusel.
+
+### § 6. Toetussumma, toetuse määr ning oma- ja kaasfinantseering
+
+(1) Maksimaalne toetus investeeringuprojekti kohta on 130 000 eurot.
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+(1<sup>1</sup>) Maksimaalne toetus ühe arenguprojekti kohta on 7000 eurot.
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+(2) Toetuse määr ei või olla suurem kui 85 protsenti projekti abikõlblikest kuludest. Projekti oma- või kaasfinantseering peab moodustama vähemalt 15 protsenti projekti abikõlblikest kuludest.
+
+(3) Oma- või kaasfinantseering peab olema rahaline.
+
+(4) Programmist saadud toetust ei tohi kasutada teise projekti oma- või kaasfinantseeringuks.
+
+(5) Oma- või kaasfinantseeringuna ei arvestata Euroopa Liidu asutuselt või fondilt või muult abiskeemilt saadud tagastamatut abi.
+
+(6) Oma- ja kaasfinantseeringu hulka ei loeta riigi eraldatud sihtotstarbelisi toetusi, välja arvatud juhul, kui sihtotstarbeline toetus on kavandatud programmi projekti oma- või kaasfinantseeringuks.
+
+### § 7. Projekti elluviimise periood
+
+(1) Projekti elluviimise periood on taotluse rahuldamise otsuses määratud ajavahemik, mille kestel peavad projekti tegevused algama ja lõppema. Projekti elluviimise perioodi algus ei või olla varasem kui taotluse RTK-le esitamise kuupäev.
+
+(2) Projekti elluviimine peab olema lõppenud hiljemalt taotlusvooru aastale järgneva kalendriaasta 31. oktoobriks.
+
+\[RT I, 15.01.2021, 3 - jõust. 18.01.2021\]
+
+### § 8. Vähese tähtsusega abi
+
+(1) Programmist antav toetus võib olla vähese tähtsusega abi ja selle puhul kohaldatakse komisjoni määruses (EL) 2023/2831, milles käsitletakse Euroopa Liidu toimimise lepingu artiklite 107 ja 108 kohaldamist vähese tähtsusega abi suhtes (ELT L 2023/2831, 15.12.2023), või komisjoni määruses (EL) 2023/2832 Euroopa Liidu toimimise lepingu artiklite 107 ja 108 kohaldamise kohta üldist majandushuvi pakkuvaid teenuseid osutavatele ettevõtjatele antava vähese tähtsusega abi suhtes (ELT L 2023/2832, 15.12.2023), ja konkurentsiseaduse §-s 33 sätestatut.
+
+\[RT I, 26.03.2024, 4 - jõust. 29.03.2024, rakendatakse alates 1. jaanuarist 2024. a.\]
+
+(2) Kui toetus on vähese tähtsusega abi, loetakse vähese tähtsusega abiks ka avaliku sektori vahenditest antav oma- või kaasfinantseering.
+
+\[RT I, 26.03.2024, 4 - jõust. 29.03.2024, rakendatakse alates 1. jaanuarist 2024. a.\]
+
+(3) RTK kontrollib, kas programmist taotletav toetus on vähese tähtsusega abi.
+
+\[RT I, 26.03.2024, 4 - jõust. 29.03.2024, rakendatakse alates 1. jaanuarist 2024. a.\]
+
+(4) Komisjoni määruse (EL) 2023/2831 alusel ühele ettevõtjale antud vähese tähtsusega abi koos käesoleva määruse alusel taotletava toetusega ei tohi toetuse andmisele vahetult eelnenud kolme aasta pikkuse ajavahemiku jooksul ületada 300 000 eurot.
+
+\[RT I, 26.03.2024, 4 - jõust. 29.03.2024, rakendatakse alates 1. jaanuarist 2024. a.\]
+
+(4<sup>1</sup>) Komisjoni määruse (EL) 2023/2832 alusel vähese tähtsusega abina käsitatav üldist majandushuvi pakkuvaid teenuseid osutavale ettevõtjale antav vähese tähtsusega abi koos käesoleva määruse alusel taotletava toetusega ei tohi ületada kolme aasta pikkuse ajavahemiku jooksul 750 000 eurot.
+
+\[RT I, 26.03.2024, 4 - jõust. 29.03.2024, rakendatakse alates 1. jaanuarist 2024. a.\]
+
+(5) Kui vähese tähtsusega abina kvalifitseeruvat toetust taotletakse suuremas summas kui taotleja on vähese tähtsusega abina õigustatud saama, vähendab RTK taotleja nõusolekul toetuse summat vähese tähtsusega abi ülemmäärani.
+
+(6) Programmist ei anta riigiabi Euroopa Liidu toimimise lepingu artikli 107 lõike 1 mõistes.
+
+## 3. peatükk — Toetuse taotlejale, investeeringu objektile ja toetuse taotlusele esitatavad nõuded ning toetuse taotlemine
+
+### § 9. Toetuse taotleja ja nõuded toetuse taotlejale
+
+(1) Investeeringuprojekti toetuse taotlejaks saavad olla:
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+1\) saarelise osaga kohaliku omavalitsuse üksused, kelle territooriumi koosseisus on vähemalt üks programmi piirkonda kuuluv püsiasustusega väikesaar, mis vastab § 1 lõikes 4 sätestatud tingimustele;
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+2\) saarvallad;
+
+3\) mittetulundusühingud ja sihtasutused, kelle tegevus soodustab § 1 lõigetes 2 ja 3 nimetatud eesmärgi saavutamist ja projektis kavandatud tegevused kuuluvad nende organisatsioonide põhikirjaliste tegevuste hulka;
+
+4\) riigiasutused;
+
+5\) äriühingud, kelle tegevus soodustab § 1 lõigetes 2 ja 3 nimetatud eesmärgi saavutamist.
+
+(1<sup>1</sup>) Arenguprojekti toetuse taotlejaks saavad olla saarelise osaga kohaliku omavalitsuse üksused, kelle territooriumi koosseisus on vähemalt üks programmi piirkonda kuuluv püsiasustusega väikesaar, mis vastab § 1 lõikes 4 sätestatud tingimustele.
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+(2) Taotlejale kehtivad järgmised üldnõuded:
+
+1\) taotleja peab olema juriidiline isik, välja arvatud riigiasutuste puhul;
+
+2\) taotleja maksu- või maksevõlg riigile ilma intressita on taotleja nõuetelevastavuse kontrollimiseks väiksem kui 100 eurot või see on ajatatud, ja maksuvõla ajatamise korral peavad maksud olema tasutud ajakava kohaselt;
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+3\) taotleja või tema üle valitsevat mõju omava isiku suhtes pole algatatud likvideerimis- või pankrotimenetlust;
+
+4\) kui taotleja on varem saanud riiklikest toetusskeemidest või muudest Euroopa Liidu või välisvahenditest abi, mis on kuulunud tagasimaksmisele, peavad tagasimaksed olema tehtud nõutud summas;
+
+5\) taotlejal on nõutud vahendid toetuse oma- või kaasfinantseerimiseks;
+
+6\) taotlejal, kes on saanud toetust programmi eelnevates taotlusvoorudes, ei tohi olla tähtajaks esitamata aruandeid taotluse esitamise tähtpäeva seisuga;
+
+7\) kohaliku omavalitsuse üksusel on õigust toetust taotleda, kui tal on kehtiv kohaliku omavalitsuse korralduse seaduse § 37<sup>2</sup> kohane arengukava;
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+8\) kui taotleja on mittetulundusühing või sihtasutus, peab ta olema koostanud ja esitanud majandusaasta aruande mittetulundusühingute seaduse § 36 või sihtasutuste seaduse §-de 33 ja 34 kohaselt;
+
+9\) kui taotleja on äriühing, peab ta olema koostanud ja esitanud majandusaasta aruande äriseadustiku § 179 lõigete 1 ja 2 ning § 334 lõike 2 kohaselt;
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+10\) kui taotleja on kohaliku omavalitsuse üksus või temast sõltuv üksus, peavad toetuse saamiseks olema täidetud kohaliku omavalitsuse üksuse finantsjuhtimise seaduse §-s 34<sup>1</sup> sätestatud nõuded.
+
+(3) Kui projekti kaasfinantseerib kaasfinantseerija, peab kaasfinantseerija vastama lõikes 2 sätestatud nõuetele.
+
+### § 10. Nõuded investeeringu objektile
+
+(1) Investeeringu objekt peab asuma programmi piirkonnas.
+
+(2) Taotleja peab olema investeeringu objekti omanik või tal peab olema kasutusõigus vähemalt viieks aastaks arvates projekti lõppkuupäevast, välja arvatud elektri- või muude tehnovõrkude alla jäävad maaüksused, mille kohta on komisjonil õigus teha ettepanek taotluse kõrvaltingimustega rahuldamise kohta.
+
+\[RT I, 15.01.2021, 3 - jõust. 18.01.2021\]
+
+(3) Projekti ei toetata, kui puudub projekti elluviimise eelduseks olev kehtivatest õigusaktidest tulenev kehtiv detailplaneering või kui puuduvad ehitusseadustikule vastavad projekteerimistingimused.
+
+(4) Projekti lõpparuande kinnitamise ajaks peab investeeringuobjektile olema väljastatud kasutusluba või kasutusteatis sõltudes tööde iseloomust ehitusseadustiku lisa 2 kohaselt.
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+(5) Toetuse saaja peab tagama investeeringu objekti kasutuse viie aasta jooksul projekti lõppemisest arvates samaks sihtotstarbeks kooskõlas programmi eesmärgiga ja pakkuma teenust või korraldama teenuse pakkumist projekti sihtgrupile.
+
+### § 10<sup>1</sup>. Nõuded arenguprojekti tulemusele
+
+Arengukava eelnõu peab olema koostatud §-s 7 nimetatud projekti elluviimise perioodi jooksul arenguprojekti lõpparuande kinnitamise ajaks püsiasustusega väikesaarte seaduse § 7 kohaselt. Arengukava eelnõu peab olema avalikustatud valla või linna veebilehel või läbinud avalikustamise kohaliku omavalitsuse korralduse seaduse § 37<sup>2</sup> lõike 6 kohaselt.
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+### § 11. Nõuded taotlusele
+
+Toetuse taotlemiseks esitatakse taotlus koos lisadokumentidega. Taotlus peab sisaldama informatsiooni ulatuses, mis võimaldab RTKl kontrollida taotleja ja taotluse nõuetele vastavust ning § 16 lõikes 1 nimetatud komisjonil hinnata projekti otstarbekust. Sealhulgas tuleb taotluses märkida järgmised andmed ja taotlusele lisada järgmised dokumendid:
+
+1\) projekti nimi;
+
+2\) projekti eesmärk ja tulemused;
+
+3\) projekti tegevused;
+
+4\) projekti eelarve;
+
+5\) projekti tegevuste ajakava, sealhulgas projekti elluviimise algus- ja lõppkuupäev;
+
+6\) informatsioon projekti sihtrühma kohta;
+
+7\) informatsioon taotleja kohta;
+
+8\) ehitusprojekt vähemalt eelprojekti staadiumis, kui projekti tegevuseks on ehitustööd vastavalt ehitusseadustiku §-le 4 ja ehitusseadustik nõuab ehitusprojekti olemasolu;
+
+9\) lähteülesanne ja sellele vastav hinnakalkulatsioon või hinnapakkumused koos pakkumuskutsega, välja arvatud juhul, kui taotleja on võtnud hinnapakkumusi või läbi viinud ehitustööde või muude investeeringute riigihanke riigihangete seaduse kohaselt, mis juhul peab taotleja tagama ligipääsu hankedokumentatsioonile;
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+10\) investeeringuobjekti omandi- või kasutusõigust tõendavad dokumendid, kui need ei ole kättesaadavad avalikest registritest;
+
+11\) kehtivatest õigusaktidest tulenevalt projekti elluviimiseks vajalikud load, kooskõlastused ja ettekirjutused, kui need ei ole kättesaadavad avalikest registritest;
+
+12\) kui taotleja ei ole ehitisealuse maa või ehitise omanik, siis ehitisaluse maa või ehitise omaniku allkirjastatud nõusolek taotluses esitatud informatsiooni kohta ja nõusolek tema ehitisaluse maa või ehitise kasutamiseks taotleja taotluses nimetatud otstarbel;
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+13\) kaasfinantseerija kaasfinantseeringut tõendav garantiikiri;
+
+14\) kui taotleja esindusõiguslik isik tegutseb volikirja alusel, tuleb taotlusele lisada ka volikiri;
+
+15\) tulenevalt projekti sisust muud asjakohased andmed.
+
+### § 12. Taotlusvooru avamine ja taotluste esitamine
+
+(1) Taotlused esitatakse RTK-le hiljemalt taotlusvooru tähtpäevaks. RTK kuulutab taotlusvooru avatuks teate avaldamisega RTK veebilehel ning avaldab ka sellekohase pressiteate. Taotlusvooru avamise teade avaldatakse üldjuhul kaks kuud enne taotluse esitamise tähtpäeva ja see peab sisaldama järgmist teavet:
+
+\[RT I, 15.01.2021, 3 - jõust. 18.01.2021\]
+
+1\) programmi nimi ja info taotlusvooru avamise kohta;
+
+2\) viide taotlemise tingimustele;
+
+3\) programmist toetust taotleda võivad taotlejad;
+
+4\) loetelu väikesaartest, mis kuuluvad programmi piirkonda;
+
+5\) taotluse esitamise tähtaeg ja viis;
+
+6\) viited lisainfo saamiseks;
+
+7\) kui korraldatakse potentsiaalsetele taotlejatele infopäev, siis infopäeva läbiviimise kuupäev, aeg ja asukoht.
+
+(1<sup>1</sup>) Esmajärjekorras rahastatakse nõuetele vastavaks tunnistatud arenguprojekte taotlusvooruks ettenähtud summast ja teisena investeeringuprojekte hindamistulemuste põhjal kuni programmi toetusvahendite ammendumiseni.
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+(2) RTK informeerib taotlusvooru väljakuulutamisest neid kohaliku omavalitsuse üksusi, kes asuvad programmi piirkonnas või kelle territooriumil asuvad väikesaared asuvad programmi piirkonnas, eesmärgiga, et kohaliku omavalitsuse üksused levitaksid saadud informatsiooni potentsiaalsete taotlejate hulgas enda valitud kõige tõhusamal viisil.
+
+(3) Taotlus koos nõutud lisadega tuleb esitada RTKle e-keskkonna kaudu taotleja esindusõigusliku isiku poolt digitaalselt allkirjastatult.
+
+\[RT I, 17.08.2018, 1 - jõust. 01.09.2018\]
+
+## 4. peatükk — Taotluste menetlemine, hindamine ja otsuste tegemine
+
+### § 13. Taotluste menetlemise aeg
+
+Taotlused menetletakse ja taotluse rahuldamise, osalise rahuldamise, kõrvaltingimusega rahuldamise või rahuldamata jätmise otsus tehakse üldjuhul 65 tööpäeva jooksul alates taotluse esitamise tähtpäevast.
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+### § 14. Taotluste nõuetele vastavuse kontrollimine
+
+(1) Taotluste menetlemine algab taotluste esitamisest RTK e-keskkonna kaudu.
+
+\[RT I, 17.08.2018, 1 - jõust. 01.09.2018\]
+
+(2) RTK kontrollib taotleja, kaasfinantseerija ja taotluse vastavust määruses sätestatud nõuetele.
+
+(3) Kui taotluse vastavuse kontrollimisel avastatakse ebatäpsusi või tehnilisi puudusi, teavitab RTK sellest taotlejat ja määrab tähtaja ebatäpsuste ja puuduste kõrvaldamiseks.
+
+(4) Taotlus, taotleja ja kaasfinantseerija tunnistatakse nõuetele vastavaks, kui taotleja, kaasfinantseerija ja taotlus vastavad kehtestatud nõuetele.
+
+(5) RTKl on vajaduse korral õigus külastada investeeringuobjekti kohapeal, teavitades sellest taotlejat vähemalt kolm tööpäeva ette.
+
+(6) Taotlus tunnistatakse nõuetele mittevastavaks, kui esineb vähemalt üks järgnevatest asjaoludest:
+
+1\) taotleja või kaasfinantseerija ei vasta §-s 9 sätestatud nõuetele või taotluses kirjeldatud eesmärgid, toetatavad tegevused või sihtrühm ei vasta § 1 lõigetes 2‒3<sup>1</sup> või §-des 4 ja 5 sätestatud nõuetele või ei vasta toetussumma, toetuse määr ja oma- või kaasfinantseering §-s 6 sätestatud nõuetele;
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+2\) investeeringu objekt ei vasta § 10 lõigetes 1‒4 sätestatud nõuetele;
+
+3\) taotlus ei vasta §-s 11 sätestatud taotlusele esitatavatele nõuetele, välja arvatud käesoleva paragrahvi lõike 3 alusel võimaldatavad täpsustused;
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+4\) taotluses on esitatud ebaõigeid ja mittetäielikke andmeid;
+
+5\) taotluses esinenud ebatäpsused ja tehnilised puudused on etteantud tähtpäevaks kõrvaldamata;
+
+6\) taotletav toetus ületab § 8 lõigetes 4 ja 4<sup>1</sup> nimetatud vähese tähtsusega abi ülemmäära või kui taotleja ei nõustu toetuse vähendamisega vähese tähtsusega abi ülemmäärani.
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+(7) Nõuetele mittevastavaks tunnistatud taotluse kohta teeb RTK rahuldamata jätmise otsuse.
+
+### § 15. Hindamiskriteeriumid
+
+(1) Nõuetele vastavaks tunnistatud investeeringuprojektide taotlusi hinnatakse järgmiste hindamiskriteeriumide alusel:
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+1\) projekti mõju programmi eesmärkide täitmisele;
+
+2\) projekti ettevalmistuse tase;
+
+3\) projekti tegevuste jätkusuutlikkus.
+
+(2) RTK koostab kooskõlastatult ministeeriumiga taotluste hindamiseks hindamismetoodika, mis sisaldab muu hulgas hindamiskriteeriumide kirjeldusi, hindamiskriteeriumide osakaalusid, hindamisskaalat kriteeriumide lõikes ja taotluse positiivseks lugemise lävendit, ning teeb hindamismetoodika taotlejatele kättesaadavaks RTK veebilehel hiljemalt taotlusvooru avatuks kuulutamise ajaks.
+
+### § 16. Nõuetele vastavaks tunnistatud taotluste hindamine
+
+(1) RTK moodustab ministeeriumi ettepaneku alusel investeeringuprojektide taotluste hindamiseks vähemalt viieliikmelise komisjoni (edaspidi *komisjon*). Komisjoni koosseisu ei või kuuluda taotluste menetlemisega otseselt seotud isik, kes kontrollib taotlusi või nõustab taotlejaid. Komisjoni koosseis avaldatakse RTK veebilehel hiljemalt taotluste esitamise tähtpäevaks.
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+(2) Komisjon hindab nõuetele vastavaid taotlusi § 15 lõikes 1 nimetatud hindamiskriteeriumide ja § 15 lõikes 2 nimetatud hindamismetoodika alusel. Komisjon on otsustusvõimeline, kui kohal on ja projekti hindab rohkem kui 50 protsenti komisjoni liikmete arvust.
+
+(3) RTK kaasab vajadusel menetlusse täiendavaid eksperte, kelle eksperthinnanguid komisjon hindamisel arvestab.
+
+(4) Komisjon moodustab hindamistulemuste põhjal projektidest pingerea.
+
+(4<sup>1</sup>) Kui rahastamisele kuuluva taotluse summa ületab taotlusvoorust taotluste toetamiseks eraldatud toetusvahendite jääki, teeb RTK taotlejale ettepaneku oma- või kaasfinantseeringu suurendamiseks.
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+(5) Komisjonil on õigus teha RTKle ettepanek taotluse osaliseks rahuldamiseks, sealhulgas jätta projektist mõni tegevus või kulu välja, kui komisjoni hinnangul ei ole see abikõlblik või projekti elluviimiseks ja eesmärgi saavutamiseks vajalik, või vähendada kulu jaoks planeeritud summat, kui komisjoni arvates on kulu projekti eesmärkide saavutamiseks põhjendamatult suur. Komisjon peab ettepanekut sisuliselt põhjendama.
+
+(6) Hindamistulemuste põhjal on komisjonil õigus teha RTKle taotluse kohta üks järgmistest ettepanekutest:
+
+1\) jätta taotlus rahuldamata;
+
+2\) rahuldada taotlus;
+
+3\) rahuldada taotlus osaliselt;
+
+4\) rahuldada taotlus kõrvaltingimusega.
+
+### § 17. Taotluste rahuldamise või rahuldamata jätmise otsuse tegemine
+
+(1) RTK teeb komisjoni ettepaneku alusel investeeringuprojekti taotluse kohta taotluse rahuldamise, rahuldamata jätmise, osalise rahuldamise või kõrvaltingimusega rahuldamise otsuse.
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+(1<sup>1</sup>) RTK teeb nõuetele vastavaks tunnistatud arenguprojekti taotluse kohta taotluse rahuldamise otsuse.
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+(2) Osalise rahuldamise otsuse võib RTK teha taotleja nõusolekul.
+
+(3) Kui taotleja ei ole nõus komisjoni ettepanekuga tegevuste või kulude muutmiseks, teeb RTK taotluse rahuldamata jätmise otsuse.
+
+(4) Kui taotleja ei ole § 11 punktis 11 nimetatud dokumente koos taotlusega esitanud või need ei ole avaldatud avalikes registrites, teeb RTK taotluse kõrvaltingimusega rahuldamise otsuse, milles märgitakse vajalike dokumentide esitamise kuupäev.
+
+(5) Taotluse rahuldamata jätmise otsus tehakse, kui:
+
+1\) taotleja või kaasfinantseerija või taotlus on tunnistatud nõuetele mittevastavaks;
+
+2\) paragrahvi 15 lõikes 2 nimetatud hindamismetoodika alusel hinnatud projektide pingereast tulenevalt ei jätku taotlusvoorus enamate taotluste toetamiseks programmist vahendeid;
+
+2<sup>1</sup>) taotleja ei nõustu § 16 lõikes 4<sup>1</sup> nimetatud ettepanekuga;
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+3\) taotluse keskmine hinne ei ületa § 15 lõikes 2 nimetatud hindamismetoodikast tulenevat lävendit;
+
+4\) taotluse menetlemise käigus selgub, et taotluses on esitatud valeandmeid;
+
+5\) taotleja ei ole nõus § 16 lõikes 5 nimetatud juhtudel tegevuste või kulude muutmisega;
+
+6\) taotleja ei ole etteantud tähtpäevaks täitnud taotluse kõrvaltingimusega rahuldamise otsuse tingimusi, sealhulgas kui taotleja ei esita § 11 punktis 11 nimetatud dokumente taotluse kõrvaltingimusega rahuldamise otsuses määratud kuupäevaks.
+
+(6) Taotluse rahuldamise, osalise rahuldamise või kõrvaltingimusega rahuldamise otsuses märgitakse vähemalt:
+
+1\) toetuse saaja nimi;
+
+2\) projekti nimi ja registreerimisnumber;
+
+3\) toetuse maksimaalne suurus ja oma- või kaasfinantseeringu minimaalne määr;
+
+4\) projekti elluviimise algus- ja lõppkuupäev;
+
+5\) toetuse saaja õigused ja kohustused;
+
+6\) toetuse väljamaksmise tingimused;
+
+7\) aruannete esitamise tähtajad ja kord;
+
+8\) toetuse tagasinõudmise tingimused;
+
+9\) toetuse saaja toetusele viitamise, projekti tegevuste avalikustamis- ja teavituskohustused;
+
+10\) viivise määr toetuse tähtajaks tagastamata jätmise korral;
+
+10<sup>1</sup>) kindlasummalise makse korral arenguprojekti tulemuse saavutamise tõendamise alused;
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+11\) vaiete lahendamise kord.
+
+(7) RTK veebilehel avalikustatakse rahuldatud, osaliselt rahuldatud või kõrvaltingimusega rahuldatud taotluste kohta projekti ja toetuse saaja nimi, toetuse suurus ning projekti maksumus.
+
+(8) Taotlejat teavitatakse otsusest elektrooniliselt viie tööpäeva jooksul otsuse tegemisest arvates.
+
+(9) RTK jätab komisjoni ettepanekul põhineva taotluse rahuldamise või rahuldamata jätmise otsuse tegemata ja suunab esitatud ettepaneku koos põhjendusega tagasi komisjonile uuesti hindamiseks, kui komisjoni ettepanek on vastuolus käesoleva määrusega.
+
+(10) RTK teeb nõuetele vastavaks tunnistatud arenguprojekti kohta taotluse rahuldamise otsuse, kohaldamata §-des 15 ja 16 sätestatud nõuetele vastavaks tunnistatud investeeringuprojektide taotluste hindamise korda.
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+## 5. peatükk — Toetuse kasutamine
+
+### § 18. Aruande esitamine
+
+(1) Toetuse saaja esindusõiguslik isik esitab RTKle projekti elluviimise kohta lõpparuande e-keskkonna kaudu ühe kuu jooksul arvates projekti elluviimise tähtpäevast.
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+(2) Vahearuanne esitatakse juhul, kui toetuse saaja soovib toetuse väljamakseid etapiviisiliselt. Vahearuande esitamise soov peab väljenduma taotluses.
+
+(3) \[Kehtetu - RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+(4) RTK kontrollib aruannet 22 tööpäeva jooksul aruande RTKle e-keskkonnas esitamisest arvates.
+
+\[RT I, 17.08.2018, 1 - jõust. 01.09.2018\]
+
+(5) Kui aruande kontrollimisel ilmneb aruandes puudusi, teeb RTK ettepaneku kõrvaldada puudused üldjuhul kümne tööpäeva jooksul, mille võrra pikeneb aruande menetlemise aeg.
+
+(6) Toetuse mittesihtotstarbelise kasutamise või toetuse rahuldamise otsuses nimetatud tingimuste rikkumise korral on RTKl õigus nõuda toetuse täielikku või osalist tagastamist.
+
+(7) RTK vähendab toetust, kui toetuse saaja oma- või kaasfinantseering väheneb alla § 6 lõikes 2 sätestatud määra.
+
+(8) Kui RTK tuvastab toetuse lõpparuande kontrollimisel, et projekti elluviimisel on tehtud mitteabikõlblikke kulusid, arvestab RTK kulud projekti maksumusest maha ja kinnitab aruande vähendatud maksumusega.
+
+(9) Kui RTK tuvastab investeeringuprojekti toetuse kasutamise kontrollimisel, et projekt viidi ellu eelarves ettenähtust väiksemate kuludega ja projekti kogumaksumus on vähenenud, kinnitab RTK aruande vähenenud summas ja vähendab sellevõrra toetussummat.
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+(10) RTK ei kinnita aruannet järgmiste asjaolude ilmnemisel:
+
+1\) toetuse kasutamisega seotud aruande või dokumentide kontrollimisel selgub, et neis on esitatud valeandmeid;
+
+2\) toetuse saaja ei ole taotluse rahuldamise, osalise rahuldamise või kõrvaltingimusega rahuldamise otsuses ette nähtud tegevusi taotluse rahuldamise otsuses sätestatud tähtajaks teinud või toetuse saaja näidatud tegevused ei ole tõendatud;
+
+3\) toetuse saaja on jätnud lõikes 5 nimetatud tähtajaks avastatud puudused kõrvaldamata.
+
+(11) Aruande kinnitamata jätmisel teeb RTK vajadusel toetuse osaliselt või täielikult tagasi nõudmise otsuse § 23 alusel.
+
+### § 19. Toetuse väljamaksmine ja toetuse kasutamine
+
+(1) Toetus makstakse välja toetuse saajale vastavalt taotluse rahuldamise otsuses sätestatud tingimustele. Kui toetus makstakse välja etapiviisiliselt, eelneb väljamaksele aruande kinnitamine, välja arvatud lõikes 3 nimetatud ettemakse korral.
+
+(2) Üldjuhul teeb RTK toetuse väljamaksed 22 tööpäeva jooksul toetuse saajalt vastavasisulise maksetaotluse saamisest arvates. Kui maksetaotluse menetlemisel avastatakse ebatäpsusi, teatatakse sellest viivitamata toetuse saajale ja määratakse puuduste kõrvaldamiseks kuni kümne tööpäevane tähtaeg.
+
+(3) Toetuse saaja taotlusel võib põhjendatud juhul ettemaksena välja maksta kuni 60 protsenti toetuse kogumahust. Kui toetuse saaja on saanud ettemakse, siis 20 protsenti toetuse kogusummast maksab RTK välja pärast lõpparuande kinnitamist.
+
+(4) Riigiasutusele tehakse ettemakse 100 protsenti toetuse kogumahust.
+
+(5) Toetuse saaja taotlusel võib põhjendatud juhul toetuse välja maksta, kui aruandlusperioodi jooksul tehtud abikõlblik kulu on tasutud vähemalt oma- või kaasfinantseeringu ulatuses, samuti peab olema tasutud mitteabikõlblik kulu.
+
+(6) Lõikes 5 nimetatud juhul on toetuse saaja kohustatud seitsme tööpäeva jooksul toetuse saamisest arvates tasuma kuludokumentide kogusumma ja esitama RTKle maksekorraldused.
+
+(7) Kõik projekti raames tehtud kulud tuleb välja maksta toetuse saajale või kaasfinantseerijale kuuluvalt pangakontolt.
+
+(8) Arenguprojekti puhul tehakse toetuse saajale kindlasummaline väljamakse juhul, kui projekti tulemus vastab §-s 10<sup>1</sup> sätestatud nõuetele.
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+### § 20. Muudatused toetuse kasutamisel
+
+(1) Kui investeeringuprojekti elluviimisel selgub, et taotluse rahuldamise otsuses fikseeritud investeeringuprojekti elluviimise perioodis, tegevustes või eelarves on otstarbekas teha muudatusi, peab toetuse saaja saama muudatusteks RTK nõusoleku.
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+(1<sup>1</sup>) Arenguprojekti puhul ei ole taotluse rahuldamise otsuse muutmine lubatud, välja arvatud juhul, kui muudetakse projekti elluviimise perioodi, arvestades määruse §-s 7 ja § 20 lõikes 4 sätestatut. Taotluse rahuldamise otsuses kokkulepitud tulemust ja selle tulemuse saavutamise tõendamise aluseid muuta ei saa.
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+(2) Toetuse saaja esitab nõusoleku saamiseks RTKle põhjendatud muutmistaotluse, millele kehtivad järgmised tingimused:
+
+1\) muutmistaotlus tuleb esitada enne projekti elluviimise lõppkuupäeva;
+
+2\) eelarve muutmistaotlus tuleb esitada, kui projekti tegevusele ette nähtud eelarve muudatus on suurem kui kümme protsenti;
+
+3\) kui projekti tegevusele ette nähtud eelarve muudatus on väiksem kui kümme protsenti, võib toetuse saaja eelarvet muuta ilma RTK nõusolekuta;
+
+4\) eelarve muutmisega ei tohi suurendada § 6 lõigetes 1‒4 nimetatud toetuse maksimaalset summat ja määra;
+
+5\) muudatusega ei tohi muuta projekti eesmärki või suurendada eelarves projekti administreerimisega seotud personali- ja üldkulude osakaalu.
+
+(3) Kui investeeringu objektile tehtavad kulud on suurenenud, katab taotleja need oma- või kaasfinantseeringu arvelt. Kui investeeringu objektile tehtavad kulud on vähenenud, vähendatakse toetussummat ning oma- ja kaasfinantseeringut tingimusel, et oma- ja kaasfinantseeringu osatähtsus moodustab vähemalt nõutud minimaalse oma- või kaasfinantseeringu projekti abikõlblikest kuludest.
+
+(4) Erandkorras võib RTK pikendada projekti elluviimise lõppkuupäeva kuni kuus kuud üle § 7 lõikes 2 nimetatud aja, kui projekti kestuse pikendamine on tingitud toetuse saajast mitteolenevatest põhjustest.
+
+### § 21. Toetuse saaja õigused ja kohustused
+
+(1) Toetuse saajal on õigus:
+
+1\) saada RTKlt täiendavat teavet ja nõuandeid toetuse taotlemise ning taotluse rahuldamise, osalise rahuldamise või kõrvaltingimusega rahuldamise otsuse kohta;
+
+2\) taotleda investeeringuprojekti puhul RTKlt nõusolekut teha projekti elluviimise perioodis, tegevustes või eelarves põhjendatud muudatusi, arenguprojekti puhul taotleda RTKlt nõusolekut teha projekti elluviimise perioodis muudatusi põhjendatud juhul;
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+3\) teha investeeringuprojekti puhul vastavalt § 20 lõikele 2 projekti tegevusele ettenähtud eelarve muudatuse kuni kümne protsendi ulatuses RTKga kooskõlastamata, tingimusel, et oma- või kaasfinantseeringu suurus vastaks pärast muudatusi § 6 lõikes 2 sätestatule.
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+(2) Toetuse saaja on kohustatud:
+
+1\) tagama nõutud projekti oma- või kaasfinantseeringu projekti kogumaksumusest;
+
+2\) kasutama toetust vastavuses esitatud taotluse ja § 17 lõikes 6 nimetatud otsusega;
+
+3\) tagastama toetuse RTK arvelduskontole, kui RTK esitab §-st 23 lähtudes toetuse tagasinõude;
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+4\) esitama RTKle selleks ettenähtud vormil, viisil ja tähtaja jooksul nõutud informatsiooni ja aruanded;
+
+5\) pidama eraldi raamatupidamisarvestust toetuse ja omafinantseeringu kasutamise kohta. Toetuse saaja raamatupidamises peavad projekti kulud ja neid kajastavad kulu- ja maksedokumendid olema muudest toetuse saaja kuludest ning kulu- ja maksedokumentidest selgelt eristatavad. Kõik toimingud tehakse panga vahendusel, sularahaarveldused ei ole lubatud;
+
+6\) võimaldama teostada kohapealset kontrolli ja auditit toetuse ning oma- või kaasfinantseeringu kasutamist kajastavate kulu- ja maksedokumentide, soetatud seadmete, materjalide ja tehtud tööde osas, sealhulgas võimaldama kontrollijal juurdepääsu kõikidesse projektiga seotud ruumidesse ja territooriumidele, mida toetuse saaja omab, rendib või mis tahes muul moel kasutab;
+
+7\) andma kontrollija käsutusse kõik projektiga seotud soovitud andmed ja dokumendid viie tööpäeva jooksul vastava nõude saamisest arvates;
+
+8\) osutama kohapealse kontrolli ja auditi läbiviimiseks igakülgset abi;
+
+9\) teavitama toetuse kasutamisest ja projekti tulemustest avalikkust ning lähtuma projekti tulemustest avalikkuse teavitamisel ja investeeringu objektide, dokumentide ja muude projekti väljundite tähistamisel RTK veebilehel kätte saadavast teavitamise juhendist;
+
+10\) säilitama taotluse ja toetusega ning projekti teostamisega seonduvat dokumentatsiooni ja materjali seitse aastat vastavalt raamatupidamise seaduse §-le 12;
+
+11\) tagama projekti tulemusena loodud või soetatud vara säilimise ja kasutuse taotluses ning taotluse rahuldamise otsuses nimetatud eesmärkidel ja tingimustel viie aasta jooksul taotluse rahuldamise otsuses nimetatud projekti lõppkuupäevast alates ning mitte tegema selle vara osas tehinguid, mis annavad nimetatud aja jooksul mõnele isikule või asutusele põhjendamatu eelisseisundi;
+
+12\) informeerima viivitamata kirjalikult RTKd kõigist esitatud andmetes toimunud muudatustest või asjaoludest, mis mõjutavad või võivad mõjutada toetuse saaja poolt oma kohustuste täitmist, sealhulgas nime ja aadressi ning põhimäärusest ja põhikirjast tulenevate või volitatud esindajate muutumisest ja ümberkujundamisest, pankrotihoiatuse saamisest, pankroti väljakuulutamisest ja tegevuse lõpetamisest, seda ka siis, kui eelnimetatud muudatused on kättesaadavad avalikust registrist või avalikustatud massiteabevahendite kaudu;
+
+13\) informeerima viivitamata kirjalikult RTKd projekti teostamise käigus ilmnenud projekti negatiivse tulemuse suurest tõenäosusest või vältimatusest ning projekti edasise jätkamise kaheldavast otstarbekusest;
+
+14\) kui projekt on ellu viidud eelarves kavandatust väiksemate kuludega, tagastama kasutamata jäänud toetuse RTK poolt ettenähtud viisil taotluse rahuldamise otsuses fikseeritud RTK arvelduskontole. Kui toetusest jääb kasutamata vähem kui 100 eurot, siis kasutamata jäänud toetuse osa ei tagastata;
+
+15\) tagastama RTK arvelduskontole proportsionaalse osa toetusest, kui omafinantseering väheneb alla nõutud oma- või kaasfinantseeringu;
+
+16\) kui taotlejaks on kohaliku omavalitsuse üksus, tagama, et programmi toel ehitatud või ümberehitatud hoones või korteris tagatakse eluruum saarel § 1 lõikes 3 nimetatud avalikku teenust osutavale ametnikule või töötajale ja tema perekonnale;
+
+\[RT I, 15.01.2021, 3 - jõust. 18.01.2021\]
+
+17\) kui taotlejaks on kohaliku omavalitsuse üksus, tagama, et programmi toel ehitatud või ümberehitatud eluruum, mis on ehitatud või ümberehitatud sotsiaaleluruumiks, tagatakse isikule, kellel on õigus vastava sotsiaalteenuse saamiseks ja tema perekonnale;
+
+18\) riigihangete seaduse subjektina järgima hangete läbiviimisel riigihangete seaduses kehtestatud nõudeid;
+
+19\) kui toetuse saaja ei ole hankija riigihangete seaduse tähenduses, peab järgima riigihangete seaduses sätestatud põhimõtteid, kui teenuse, asja või ehitustöö eeldatav maksumus käibemaksuta on 5000 eurot või üle selle;
+
+20\) kui toetuse saaja ei ole hankija riigihangete seaduse tähenduses, peab avaldama riigihangete registris hanketeate ja hankealusdokumendid ning hankelepingu sõlmimise teate kui teenuste või asjade hankelepingu eeldatav maksumus käibemaksuta on 30 000 eurot või üle selle või kui ehitustööde hankelepingu eeldatav maksumus käibemaksuta on 150 000 eurot või üle selle.
+
+### § 22. RTK õigused ja kohustused
+
+(1) RTKl on õigus:
+
+1\) nõuda taotlejalt või toetuse saajalt projekti kohta selgitusi ja lisainformatsiooni ning projekti tegevuste ja kulude kohta mis tahes täiendavate andmete ja dokumentide esitamist;
+
+1<sup>1</sup>) koguda taotlejalt, toetuse saajalt, kohaliku omavalitsuse üksuselt, riigiasutuselt või avalike andmebaaside kaudu täiendavaid andmeid kontrollimaks, et isik, taotleja või toetuse saaja, kellele toetust eraldatakse või eraldati, kuulub sihtrühma, kes on rahvastiku registri andmetel registreerinud oma elukoha väikesaarel ja kes elab alaliselt väikesaarel;
+
+\[RT I, 15.01.2021, 3 - jõust. 18.01.2021\]
+
+2\) teostada kohapealset kontrolli toetuse ning oma- ja kaasfinantseeringu kasutamist kajastavate kulu- ja maksedokumentide, soetatud seadmete, materjalide ja tehtud tööde osas;
+
+3\) nõuda toetuse osalist või täielikku tagastamist, kui ilmneb, et toetust ei ole kasutatud sihtotstarbeliselt;
+
+4\) pikendada erandkorras toetuse saaja esitatud taotluse alusel enne toetuse rahuldamise, osalise rahuldamise või kõrvaltingimusega rahuldamise otsuses kajastatud projekti elluviimise kavandatud lõppkuupäeva projekti kestust kuni kuus kuud üle § 7 lõikes 2 nimetatud aja, kui projekti kestuse pikendamine on tingitud toetuse saajast mitteolenevatest põhjustest;
+
+4<sup>1</sup>) tunnistada taotluse rahuldamise otsus kehtetuks, kui toetuse saaja esitab sellekohase avalduse;
+
+\[RT I, 15.01.2021, 3 - jõust. 18.01.2021\]
+
+5\) taotluse menetlemise ajal saada ministeeriumilt infot, kas kohaliku omavalitsuse üksusel või kohaliku omavalitsuse üksusest sõltuval üksusel on taotlejana oma- või kaasfinantseeringu katmise kohustuse korral täidetud kohaliku omavalitsuse üksuse finantsjuhtimise seaduse §-s 34<sup>1</sup> sätestatud nõuded;
+
+6\) saada ministeeriumilt nõu küsimustes, mis puudutavad määruse rakendamist.
+
+(2) RTK on kohustatud:
+
+1\) kuulutama välja taotlusvooru;
+
+2\) informeerima taotlusvooru väljakuulutamisest programmi piirkonda jäävaid kohaliku omavalitsuse üksuseid ja kohaliku omavalitsuse üksuseid, kelle haldusterritooriumi koosseisus olevad väikesaared asuvad programmi piirkonnas;
+
+3\) avaldama hiljemalt taotlusvooru avamise ajaks oma veebilehel hindamismetoodika;
+
+4\) juhendama taotlejaid ja toetuse saajaid toetuse andmist ja kasutamist puudutavates küsimustes ning korraldama vajadusel infopäevi;
+
+5\) korraldama taotluste vastuvõtmise, registreerimise, menetlemise ja säilitamise;
+
+6\) kontrollima toetuse kasutamist, sealhulgas teostama vajadusel kohapealseid kontrolle, ja korraldama toetuse väljamaksmise toetuse saajale;
+
+7\) kontrollima taotluste nõuetele vastavust;
+
+8\) moodustama taotluste hindamiseks komisjoni ja tagama komisjoni töö teenindamise;
+
+9\) nõustama komisjoni liikmeid taotluste hindamise metoodikas;
+
+10\) vormistama taotluse rahuldamise, osalise rahuldamise, kõrvaltingimusega rahuldamise või rahuldamata jätmise otsused;
+
+11\) informeerima taotlejaid taotluse rahuldamise, osalise rahuldamise, kõrvaltingimusega rahuldamise või rahuldamata jätmise otsustest;
+
+12\) kandma riigiabi ja vähese tähtsusega abi registrisse andmed antud vähese tähtsusega abi kohta;
+
+13\) teavitama taotlejat taotluse rahuldamise otsuses vähese tähtsusega abi andmisest;
+
+13<sup>1</sup>) säilitama vähese tähtsusega abi andmisega seotud andmeid kümme aastat arvates käesoleva määruse alusel sätestatud viimase üksikabi andmise päevast;
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+14\) teavitama viivitamata toetuse saajaid toetuse kasutamist reguleerivates dokumentides tehtud muudatustest;
+
+\[RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+15\) nõudma välja makstud toetuse osaliselt tagasi, kui toetuse saaja oma- või kaasfinantseering väheneb alla nõutud miinimumi;
+
+16\) lahendama RTK otsuste peale esitatud vaideid;
+
+17\) täitma muid määruses nimetatud ülesandeid.
+
+### § 23. Toetuse tagasinõudmine
+
+(1) RTK nõuab eraldatud toetuse osaliselt või täielikult tagasi, kui toetuse saaja rikub määruses kehtestatud nõudeid või taotluse rahuldamise otsuses sätestatud tingimusi või ilmnevad asjaolud, mille korral taotlust ei oleks rahuldatud.
+
+(2) RTK nõuab toetuse saajalt toetuse osaliselt või täielikult tagasi, kui ilmneb, et toetust on kasutatud mitteabikõlblike kulude tegemisel.
+
+(3) RTK nõuab toetuse saajalt toetuse osaliselt või täielikult tagasi, kui:
+
+1\) toetust ei ole kasutatud ettenähtud korras ja tingimustel;
+
+2\) toetuse saaja suhtes on algatatud likvideerimis- või pankrotimenetlus;
+
+3\) ilmneb, et projekti eesmärki või kavandatud tulemusi ei saavutata;
+
+4\) toetuse saaja ei ole täitnud talle toetuse rahuldamise otsuses pandud kohustusi;
+
+5\) ettekirjutus toetuse kasutamisega kaasneva rikkumise lõpetamiseks, edasiste rikkumiste ärahoidmiseks või rikkumiste tagajärgede kõrvaldamiseks on jäetud tähtpäevaks täitmata;
+
+6\) taotluse menetlemise, projekti teostamise või aruande menetlemise ajal on toetuse saaja esitanud valeandmeid või andmeid varjanud.
+
+(4) Lõike 3 punktis 2 nimetatud juhul nõutakse toetus tagasi likvideerimis- ja pankrotimenetlust reguleerivate sätete alusel.
+
+(5) RTK nõuab toetuse osaliselt või täielikult tagasi, kui toetuse saaja ei taga toetuse rahuldamise otsuses nõutud tähtaja lõpuni projekti tulemusena loodud või soetatud vara säilimist ja selle kasutust taotluses ning taotluse rahuldamise otsuses nimetatud eesmärkidel ja tingimustel või sooritab selle varaga tehinguid, mis annavad nimetatud aja jooksul mõnele isikule või asutusele põhjendamatu eelisseisundi. Toetust vähendatakse proportsionaalselt ajaga, mille jooksul on kohustust rikutud.
+
+(6) RTK nõuab toetuse osaliselt või täielikult tagasi, kui toetuse saaja ei saavuta projekti eesmärke või saavutab projekti eesmärgid osaliselt. RTK otsustab toetuse osalise või täieliku tagasinõudmise, kaaludes otsuse tegemisel tehtud tegevuste mõju eesmärgi saavutamisele ning nõuab toetuse tagasi. RTKl on kohustus valitud toetuse tagasimaksmise määra toetuse tagasinõudmise otsuses põhjendada.
+
+(7) RTK nõuab toetuse tagasi täies ulatuses, kui ilmneb asjaolu, mille korral taotlust ei oleks rahuldatud või toetuse saaja on projekti teostamise ajal teadlikult esitanud valeandmeid või varjanud andmeid.
+
+(8) RTK teeb toetuse osalise tagasinõudmise otsuse kui projekti eelarve väheneb tagasinõutava toetuse ja mitteabikõlblikuks muutunud oma- või kaasfinantseeringu kulude ulatuses vastavalt projekti kehtiva eelarve proportsioonile.
+
+(9) Kui toetuse tagasinõudmise aluseks olevate asjaolude põhjal ilmneb, et toetuse saaja on eiranud oma kohustusi või talle kehtestatud nõudeid ning selle tulemusena tekkinud kahju suurust ei ole võimalik hinnata või selle hindamine on ebamõistlikult aja- või ressursimahukas, nõuab otsustaja toetuse tagasi vastavalt lõigetele 10‒12.
+
+(10) Kui ilmneb, et toetuse saaja on eiranud programmist toetuse saamisest teavitamisega seotud nõudeid ja nimetatud nõuete hilisem täitmine ei ole võimalik, nõuab RTK tagasi viis protsenti tegevustele või tegevuste kogumile eraldatud toetusest, kuid mitte rohkem kui 1000 eurot.
+
+(11) Kui toetuse saaja ei võimalda RTKl teha kohapealset kontrolli, auditit või järelevalvet või ei anna nõutud tähtpäevaks kontrollija käsutusse kõiki soovitud andmeid või dokumente või takistab muul moel tahtlikult kontrollija tegevust, nõuab RTK tagasi 20–100 protsenti toetusest.
+
+(12) Kui ilmneb, et toetuse saaja on eiranud oma kohustusi või talle kehtestatud nõudeid ning vastava rikkumise osas ei ole tagasinõude protsenti sätestatud, nõuab RTK tagasi 5‒100 protsenti tegevustele või tegevuste kogumile eraldatud toetusest. RTKl on kohustus valitud tagasinõude määra toetuse tagasinõudmise otsuses põhjendada.
+
+(13) Kui ilmneb, et toetuse saaja on eiranud oma muid kohustusi või talle kehtestatud nõudeid, nõuab RTK tagasi 5–100 protsenti toetusest.
+
+(14) Võttes arvesse avalike vahendite säästliku kasutamise vajadust ja tagasinõudemenetlusele kuluvat ressurssi, nõutakse toetus tagasi, kui toetuse saaja poolt tagasimakstav summa on üle 100 euro.
+
+(15) Kui toetuse saaja tagasinõudmise otsuses ettenähtud tähtpäevaks toetust ei tagasta, peab vastavalt taotluse rahuldamise otsusele toetuse saaja maksma tagasimaksmisele kuuluva toetuse summa jäägilt viivist 0,05 protsenti iga toetuse tagasimaksmisega viivitatud kalendripäeva eest.
+
+(16) Tagasinõudmise otsuse võib teha vastavalt tsiviilseadustiku üldosa seadusele kolme aasta jooksul kohustuse rikkumisest arvates.
+
+(17) RTK otsustab toetuse tagasinõudmise kaalutlusõiguse alusel 45 kalendripäeva jooksul toetuse tagasinõudmise alustest teadasaamise päevast alates. Põhjendatud juhtudel võib otsuse tegemise tähtaega mõistliku aja võrra pikendada, teavitades sellest toetuse saajat vähemalt viis kalendripäeva enne toetuse tagasinõudmise otsuse langetamise tähtpäeva.
+
+(18) Toetuse tagasinõudmise või osalise tagasinõudmise otsus peab sisaldama järgmisi andmeid:
+
+1\) otsustaja nimi;
+
+2\) toetuse saaja nimi;
+
+3\) projekti nimi ja registreerimisnumber;
+
+4\) tagasinõude faktiline ja õiguslik alus;
+
+5\) tagasinõutava toetuse summa;
+
+6\) mitteabikõlblikuks muutunud oma- või kaasfinantseeringu kulude summa;
+
+7\) tagasinõudmise otsuse täitmise tähtaeg;
+
+8\) tagasimakse tegemiseks vajalikud rekvisiidid, sealhulgas konto number, kuhu toetuse tagasi peab kandma, ja saaja nimi;
+
+9\) viivise määr ja selle arvutamise alused;
+
+10\) otsuse vaidlustamise võimalused;
+
+11\) tagasinõudmisega seotud muu oluline teave.
+
+(19) Tagasinõudmise otsuse saadab RTK toetuse saajale elektrooniliselt.
+
+(20) Toetuse saaja peab tagasinõutud toetuse RTK arvelduskontole tagasi maksma tagasinõudmise otsuses sätestatud tähtpäevaks.
+
+(21) Toetuse tagastamisel tuleb toetuse saajal ära märkida toetuse saaja nimi, projekti nimi, taotluse rahuldamise otsuse number ja toetuse saamise aasta.
+
+(22) Kõiki toetuse tagasinõudmise, tagasimaksmise ning toetuse andmisel ja kasutamisel toimunud rikkumisega seotud dokumente tuleb toetuse saajal ja RTKl säilitada raamatupidamise seaduse §-s 12 sätestatud tähtaja lõpuni.
+
+(23) \[Kehtetu - RT I, 19.04.2024, 2 - jõust. 22.04.2024\]
+
+### § 24. Vaide esitamine ja menetlemine
+
+RTK otsuse või toimingu peale võib esitada vaide haldusmenetluse seaduses sätestatud korras. Vaide lahendab RTK.
+
+\[RT I, 17.08.2018, 1 - jõust. 01.09.2018\]
+
+### § 25. Määruse rakendamine
+
+(1) Määruse kuni 2018. aasta 31. augustini kehtinud määruse redaktsioonis sätestatud ja Ettevõtluse Arendamise Sihtasutuse lõpetamata menetlused, vaidlused, aruandlus, järelevalve ning muud õigused ja kohustused lähevad alates 2018. aasta 1. septembrist üle RTK-le.
+
+(2) Pooleliolevad menetlused viiakse lõpuni menetluse alguses kehtinud menetlemise tingimuste ja korra kohaselt. Menetlemise korda kohaldatakse RTK-le vastavalt.
+
+\[RT I, 17.08.2018, 1 - jõust. 01.09.2018\]

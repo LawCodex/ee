@@ -1,0 +1,1054 @@
+---
+title: "Elamislubade ja töölubade registri põhimäärus"
+identifier: "119052026003"
+rt_reference: "RT I, 19.05.2026, 3"
+rt_original: "RT I, 22.12.2015, 48"
+group_id: "1032308"
+type: regulation
+issuer: "Siseminister"
+number: "81"
+text_type: "terviktekst"
+jurisdiction: ee
+language: et
+date: 2015-12-18
+last_amended: 2026-05-22
+status: in_force
+source: "https://www.riigiteataja.ee/akt/119052026003"
+retrieved: 2026-10-12
+---
+
+# Elamislubade ja töölubade registri põhimäärus
+
+Määrus kehtestatakse välismaalaste seaduse § 228 lõike 1 alusel.
+
+## 1. peatükk — Üldsätted
+
+### § 1. Andmekogu nimetus
+
+Andmekogu ametlik nimetus on elamislubade ja töölubade register (edaspidi *andmekogu*).
+
+### § 2. Andmekogu pidamise eesmärk
+
+(1) Andmekogu pidamise eesmärk on tagada avalik kord ja riigi julgeolek välismaalaste Eestis elamise ja töötamise seaduslike aluste ja tingimuste andmete töötlemise kaudu.
+
+(2) Andmekogu pidamise eesmärgi ja Euroopa Liidu õigusaktis, välislepingus, seaduses või määruses sätestatud ülesande täitmiseks töödeldakse andmekogus:
+
+1\) elamisloa või tööloa andmise, pikendamise, kehtetuks tunnistamise ja taastamise menetluse ning töökohavahetuse registreerimise menetluse andmeid;
+
+\[RT I, 19.05.2026, 1 - jõust. 22.05.2026\]
+
+2\) elamisloa andmete välisriigi reisidokumenti kandmise menetluse andmeid;
+
+3\) Eestist eemalviibimise registreerimise menetluse andmeid;
+
+4\) Euroopa Liidu kodaniku perekonnaliikme tähtajalise elamisõiguse andmise ja pikendamise menetluse andmeid;
+
+5\) Euroopa Liidu kodaniku või tema perekonnaliikme alalise elamisõiguse registreerimise menetluse andmeid;
+
+6\) kohanemisprogrammiga seotud toimingu andmeid.
+
+\[RT I, 25.04.2025, 5 - jõust. 01.01.2026\]
+
+### § 3. Andmekogu vastutav ja volitatud töötleja
+
+(1) Andmekogu vastutav töötleja on Politsei- ja Piirivalveamet (edaspidi *vastutav töötleja*).
+
+(2) Andmekogu volitatud töötleja on Siseministeeriumi infotehnoloogia- ja arenduskeskus (edaspidi *volitatud töötleja*).
+
+(3) Käesoleva määruse § 6 lõikes 3 nimetatud andmekogu koolitusmooduli veebiliidese (edaspidi *koolitusmooduli veebiliides*) volitatud töötleja on Kultuuriministeerium.
+
+\[RT I, 26.08.2022, 1 - jõust. 29.08.2022\]
+
+### § 4. Vastutava ja volitatud töötleja ülesanded
+
+(1) Vastutav töötleja:
+
+1\) vastutab andmekogu toimingute õiguspärasuse eest;
+
+2\) tagab andmekogu pidamise õigusaktides sätestatud nõuete järgi;
+
+3\) tagab õigustatud isikutele juurdepääsu andmekogule;
+
+4\) vastutab andmekogu andmete nõuetekohase väljastamise eest;
+
+5\) tagab koos volitatud töötlejaga organisatsiooniliste ja tehniliste meetmete abil andmekogu andmete tervikluse, andmekogu andmete kaitse ja säilimise;
+
+6\) vastutab koos volitatud töötlejaga isikuandmete töötlemise nõuete täitmise eest;
+
+7\) korraldab koos volitatud töötlejaga andmekogu arendamist.
+
+(2) Volitatud töötleja:
+
+1\) tagab andmekogu pidamise õigusaktides sätestatud nõuete järgi;
+
+2\) tagab vastutavale töötlejale andmekogu andmete nõuetekohase väljastamise;
+
+3\) teeb andmekogu vastutavale töötlejale ettepanekuid andmekogu arendamiseks;
+
+4\) tagab andmekogu majutamiseks vajaliku infotehnoloogilise keskkonna ja selle tehnilise valmisoleku.
+
+(3) Kultuuriministeerium:
+
+1\) vastutab koolitusmooduli veebiliidese toimingute õiguspärasuse eest;
+
+2\) tagab koolitusmooduli veebiliidese pidamise õigusaktides sätestatud nõuete järgi;
+
+3\) tagab õigustatud isikutele juurdepääsu koolitusmooduli veebiliidesele;
+
+4\) vastutab koolitusmooduli veebiliidese andmete nõuetekohase väljastamise eest;
+
+5\) tagab koos volitatud töötlejaga organisatsiooniliste ja tehniliste meetmete abil koolitusmooduli veebiliidese andmete tervikluse, kaitse ja säilimise;
+
+6\) vastutab koos volitatud töötlejaga isikuandmete töötlemise nõuete täitmise eest;
+
+7\) korraldab koos volitatud töötlejaga koolitusmooduli veebiliidese arendamist.
+
+\[RT I, 26.08.2022, 1 - jõust. 29.08.2022\]
+
+### § 5. Andmekogu andmete õiguslik tähendus
+
+Andmekogusse kantud andmetel on õiguslik tähendus.
+
+## 2. peatükk — Andmekogu ülesehitus ja andmekogu pidamise nõuded
+
+### § 6. Andmekogu pidamise viis ja koosseis
+
+(1) Andmekogu peetakse ühetasandilise infotehnoloogilise andmekoguna ja paberil menetlustoimikutena (edaspidi *menetlustoimik*).
+
+(2) Andmekogu koosseisu kuuluvad digitaalsed andmekogu kaardid (edaspidi *andmekogu kaart*) ja menetlustoimikud.
+
+(3) Andmekogul on koolitusmooduli veebiliides, kus töödeldakse käesoleva määruse § 9 lõike 1 punktides 1–13, 19 ja 20 ning §-des 25 ja 30 nimetatud andmeid.
+
+\[RT I, 26.08.2022, 1 - jõust. 29.08.2022\]
+
+### § 7. Menetlustoimik
+
+Menetlustoimik koosneb käesoleva määruse §-s 34 nimetatud dokumentidest ning teistest haldusmenetluse käigus kogutud ja toimingu sooritamise aluseks olevatest dokumentidest ja tõenditest.
+
+### § 8. Andmekogus töödeldavate andmete kaitse
+
+(1) Andmekogus töödeldavate andmete käideldavuse, tervikluse ja konfidentsiaalsuse tagamiseks rakendatakse vastavaid organisatsioonilisi, füüsilisi ja infotehnoloogilisi turvameetmeid.
+
+(2) Andmekogu turvaklass on K3T3S2. Andmekogus töödeldavate andmete turbeaste on kõrge (H).
+
+## 3. peatükk — Andmekogusse kantavad andmed
+
+### 1. jagu — Välismaalaste seaduse alusel andmekogusse kantavad andmed
+
+#### § 9. Tähtajalise elamisloa taotlemisel ja selle pikendamisel andmekogusse kantavad andmed
+
+(1) Tähtajalise elamisloa taotleja kohta kantakse andmekogusse järgmised andmed:
+
+1\) eesnimi või -nimed;
+
+2\) perekonnanimi või -nimed;
+
+3\) eelmised nimed;
+
+4\) isanimi;
+
+5\) Eesti isikukood, kui see on taotlejal olemas;
+
+6\) sünniaeg;
+
+7\) sugu;
+
+8\) sünnikoht riigi täpsusega;
+
+9\) rahvus;
+
+10\) emakeel;
+
+11\) kodakondsus või kodakondsused;
+
+12\) eelmised kodakondsused;
+
+13\) kontaktandmed, sealhulgas kontaktaadress Eestis ja elukoha aadress Eestis, kui elukoha aadress erineb kontaktaadressist Eestis (tänav või talu, maja- ja korterinumber, küla või alev või linn, vald, maakond, sihtnumber), kontaktaadress välisriigis (tänav või talu, maja- ja korterinumber, küla või alev või linn, vald, maakond, riik, sihtnumber), e-posti aadress ja telefoninumber;
+
+14\) foto või näokujutis;
+
+15\) sõrmejäljekujutised või andmed sõrmejälgede võtmise võimatuse kohta;
+
+16\) allkirjanäidis või andmed allkirjavõimetuse tuvastamise kohta;
+
+17\) tähtajalise elamisloa taotlemise alus;
+
+18\) andmed perekonnaseisu kohta;
+
+18<sup>1</sup>) sotsiaalmeedia kontod;
+
+\[RT I, 25.04.2025, 5 - jõust. 01.01.2026\]
+
+19\) andmed hariduse kohta;
+
+20\) andmed õppimise, töötamise ja muude oluliste asjaolude kohta;
+
+21\) andmed elamisloa või -õiguse omamise kohta teistes riikides, sealhulgas riik, liik ja kehtivusaeg;
+
+22\) andmed kriminaalkorras karistamise kohta;
+
+\[RT I, 25.04.2025, 5 - jõust. 01.01.2026\]
+
+23\) andmed välisriigi relvajõududes, sealhulgas kohustuslikus ajateenistuses, kaadrisõjaväelasena teenimise või välisriigi relvajõudude reservi kuulumise kohta, andmed väljaspool Eestit sõjaväelises operatsioonis osalemise kohta ning andmed luure- või julgeolekuteenistuses töötamise või sellega seoste kohta ning andmed riiklikus või mitteriiklikus relvastatud organisatsioonis või üksuses töötamise kohta;
+
+\[RT I, 25.04.2025, 5 - jõust. 28.04.2025\]
+
+23<sup>1</sup>) andmed selle kohta, kas taotleja kuulub või on kuulunud kuritegelikku ühendusse, terroristlikku ühendusse või äärmusrühmitusse või omab või on omanud kontakti nendesse kuuluvate või kuulunud isikutega, viibib või on viibinud terroristliku organisatsiooni või äärmusrühmituse kontrolli all oleval alal, puutub või on puutunud kokku tulirelva või lõhkematerjaliga või oskab neid käsitseda või on pannud toime inimsusevastase kuriteo või sõjakuriteo veendumuste alusel;
+
+\[RT I, 25.04.2025, 5 - jõust. 28.04.2025\]
+
+24\) andmed rahvusvahelise abiprogrammi kaudu elamispinna saamise kohta välisriigis või Eestist lahkumiseks toetuse saamise kohta;
+
+25\) andmed selle kohta, kas taotleja on kantud „Eesti Vabariigi ja Vene Föderatsiooni vahelise kokkuleppe Vene Föderatsiooni relvajõudude pensionäride sotsiaalsete tagatiste küsimustes Eesti Vabariigi territooriumil” artikli 2 punktis 3 märgitud, täpsustatud ja Eesti aktsepteeritud nimekirja;
+
+26\) andmed seadusliku esindaja kohta, sealhulgas eesnimi või -nimed, perekonnanimi või -nimed, Eesti isikukood või sünniaeg, eestkostja nimi ja registrikood;
+
+27\) andmed selle kohta, kas taotleja on Euroopa Liidu kodaniku perekonnaliige;
+
+28\) muu taotlusega seotud oluline teave, mida taotleja peab oluliseks esitada.
+
+\[RT I, 25.04.2025, 5 - jõust. 28.04.2025\]
+
+(2) Tähtajalise elamisloa pikendamise taotleja kohta kantakse andmekogusse järgmised andmed:
+
+1\) eesnimi või -nimed;
+
+2\) perekonnanimi või -nimed;
+
+3\) Eesti isikukood;
+
+4\) sünniaeg;
+
+5\) sugu;
+
+6\) sünnikoht riigi täpsusega;
+
+7\) kodakondsus või kodakondsused;
+
+8\) rahvus;
+
+9\) emakeel;
+
+10\) kontaktandmed, sealhulgas kontaktaadress ja elukoha aadress Eestis, kui elukoha aadress erineb kontaktaadressist Eestis (tänav või talu, maja- ja korterinumber, küla või alev või linn, vald, maakond, riik, sihtnumber), e-posti aadress ja telefoninumber;
+
+11\) foto või näokujutis;
+
+12\) sõrmejäljekujutised või andmed sõrmejälgede võtmise võimatuse kohta;
+
+13\) allkirjanäidis või andmed allkirjavõimetuse tuvastamise kohta;
+
+14\) tähtajalise elamisloa pikendamise alus;
+
+15\) andmed taotleja perekonnaseisu kohta;
+
+15<sup>1</sup>) sotsiaalmeedia kontod;
+
+\[RT I, 25.04.2025, 5 - jõust. 01.01.2026\]
+
+16\) andmed hariduse kohta;
+
+17\) andmed seadusliku esindaja kohta, sealhulgas eesnimi või -nimed, perekonnanimi või -nimed, Eesti isikukood või sünniaeg, eestkostja nimi ja registrikood;
+
+18\) andmed selle kohta, kas taotleja on Euroopa Liidu kodaniku perekonnaliige;
+
+19\) muu taotlusega seotud oluline teave, mida taotleja peab oluliseks esitada.
+
+\[RT I, 25.04.2025, 5 - jõust. 28.04.2025\]
+
+(3) Tähtajalise elamisloa pikendamise taotleja kohta kantakse andmekogusse täiendavalt järgmised andmed juhul, kui need on pärast elamisloa taotluse või eelmise elamisloa pikendamise taotluse esitamist muutunud:
+
+1\) andmed õppimise, töötamise ja muude oluliste asjaolude kohta;
+
+2\) andmed elamisloa või -õiguse omamise kohta teistes riikides, sealhulgas riik, liik ja kehtivusaeg;
+
+3\) andmed kriminaalkorras karistamise kohta;
+
+\[RT I, 25.04.2025, 5 - jõust. 01.01.2026\]
+
+4\) andmed välisriigi relvajõududes, sealhulgas kohustuslikus ajateenistuses, kaadrisõjaväelasena teenimise või välisriigi relvajõudude reservi kuulumise kohta, andmed väljaspool Eestit sõjaväelises operatsioonis osalemise kohta ning andmed luure- või julgeolekuteenistuses töötamise või sellega seoste kohta ning andmed riiklikus või mitteriiklikus relvastatud organisatsioonis või üksuses töötamise kohta;
+
+\[RT I, 25.04.2025, 5 - jõust. 28.04.2025\]
+
+4<sup>1</sup>) andmed selle kohta, kas taotleja kuulub või on kuulunud kuritegelikku ühendusse, terroristlikku ühendusse või äärmusrühmitusse või omab või on omanud kontakti nendesse kuuluvate või kuulunud isikutega, viibib või on viibinud terroristliku organisatsiooni või äärmusrühmituse kontrolli all oleval alal, puutub või on puutunud kokku tulirelva või lõhkematerjaliga või oskab neid käsitseda või on pannud toime inimsusevastase kuriteo või sõjakuriteo veendumuste alusel;
+
+\[RT I, 25.04.2025, 5 - jõust. 28.04.2025\]
+
+5\) andmed rahvusvahelise abiprogrammi kaudu elamispinna saamise kohta välisriigis või Eestist lahkumiseks toetuse saamise kohta;
+
+6\) andmed selle kohta, kas taotleja on kantud „Eesti Vabariigi ja Vene Föderatsiooni vahelise kokkuleppe Vene Föderatsiooni relvajõudude pensionäride sotsiaalsete tagatiste küsimustes Eesti Vabariigi territooriumil” artikli 2 punktis 3 märgitud, täpsustatud ja Eesti poolt aktsepteeritud nimekirja.
+
+#### § 10. Tähtajalise elamisloa taotlemisel kriminaalmenetluses osalemiseks andmekogusse kantavad andmed
+
+Tähtajalise elamisloa või selle pikendamise taotlemise korral kriminaalmenetluses osalemiseks, kantakse andmekogusse järgmised andmed:
+
+\[RT I, 25.04.2025, 5 - jõust. 28.04.2025\]
+
+1\) välismaalase isikuandmed, sealhulgas Eesti isikukood, kui see on tal olemas, eesnimed, perekonnanimed, sünniaeg, sünnikoht riigi täpsusega, sugu, kodakondsus, foto, sõrmejäljekujutised või andmed sõrmejälgede võtmise võimatuse kohta, allkirjanäidis või andmed allkirjavõimetuse tuvastamise kohta;
+
+2\) välismaalase viimane elukoht enne Eestisse saabumist;
+
+3\) andmed välismaalase välisriigi reisidokumendi kohta, sealhulgas reisidokumendi väljaandnud riik, reisidokumendi väljaandnud asutus, reisidokumendi liik, reisidokumendi number, reisidokumendi väljaandmise aeg ja reisidokumendi kehtivusaja lõppemise aeg;
+
+4\) välismaalase kontaktandmed Eestis, sealhulgas postiaadress, telefon, e-posti aadress;
+
+5\) taotluse esitava prokuröri isikuandmed, sealhulgas eesnimed, perekonnanimi ja ametinimetus;
+
+6\) taotluse esitava prokuröri kontaktandmed, sealhulgas postiaadress, telefon, e-posti aadress;
+
+7\) tähtajalise elamisloa taotlemise alus ja taotletav elamisluba (tähtajaline elamisluba või tähtajalise elamisloa pikendamine);
+
+8\) taotletava elamisloa või selle pikendamise tähtaeg;
+
+9\) selle kriminaalasja number, milles välismaalane on kannatanu või tunnistaja;
+
+10\) andmed prokuröri kinnituse kohta.
+
+#### § 10<sup>1</sup>. Püsivalt Eestisse elama asumiseks antava tähtajalise elamisloa andmise menetlemisel välismaalase kohta andmekogusse kantavad andmed
+
+\[RT I, 29.07.2016, 1 - jõust. 01.08.2016\]
+
+Välismaalase kohta, kelle püsivalt Eestisse elama asumiseks antava tähtajalise elamisloa andmise menetlus algatati välismaalaste seaduse § 210<sup>3</sup> alusel, kantakse andmekogusse käesoleva määruse § 9 lõikes 1 nimetatud andmed.
+
+\[RT I, 29.07.2016, 1 - jõust. 01.08.2016\]
+
+#### § 11. Tähtajalise elamisloa taotlemisel abikaasa või registreeritud elukaaslase juurde elama asumiseks andmekogusse kantavad täiendavad andmed
+
+\[RT I, 28.12.2023, 1 - jõust. 01.01.2024\]
+
+(1) Tähtajalise elamisloa taotlemisel abikaasa või registreeritud elukaaslase juurde elama asumiseks kantakse andmekogusse täiendavalt järgmised andmed:
+
+\[RT I, 28.12.2023, 1 - jõust. 01.01.2024\]
+
+1\) taotleja abikaasa või registreeritud elukaaslase eesnimi või -nimed, perekonnanimi või -nimed, Eesti isikukood või sünniaeg;
+
+\[RT I, 28.12.2023, 1 - jõust. 01.01.2024\]
+
+2\) taotleja abikaasa või registreeritud elukaaslase kontaktandmed, sealhulgas kontaktaadress (tänav või talu, maja- ja korterinumber, küla või alev või linn, vald, maakond, riik, sihtnumber), e-posti aadress ja telefoninumber;
+
+\[RT I, 28.12.2023, 1 - jõust. 01.01.2024\]
+
+3\) ülalpeetavate arv;
+
+4\) andmed taotleja abikaasa või registreeritud elukaaslase välisriigis sõlmitud varasemate abielude kohta, sealhulgas endise abikaasa või registreeritud elukaaslase eesnimi või -nimed ja perekonnanimi või -nimed, Eesti isikukood või sünniaeg ja abielu või registreeritud kooselu kestus;
+
+\[RT I, 28.12.2023, 1 - jõust. 01.01.2024\]
+
+5\) andmed taotleja välisriigis sõlmitud varasemate abielude kohta viimase kümne aasta jooksul, sealhulgas endise abikaasa või registreeritud elukaaslase eesnimi või -nimed, perekonnanimi või -nimed, Eesti isikukood või sünniaeg ja abielu või registreeritud kooselu kestus;
+
+\[RT I, 28.12.2023, 1 - jõust. 01.01.2024\]
+
+6\) märge selle kohta, kas taotleja on Euroopa Liidu sinist kaarti (edaspidi *EL sinine kaart*) omava välismaalase abikaasa või registreeritud elukaaslane.
+
+\[RT I, 28.12.2023, 1 - jõust. 01.01.2024\]
+
+(2) Tähtajalise elamisloa pikendamise taotlemisel abikaasa või registreeritud elukaaslase juurde elama asumiseks kantakse andmekogusse täiendavalt järgmised andmed juhul, kui need on pärast elamisloa taotluse või eelmise elamisloa pikendamise taotluse esitamist muutunud:
+
+\[RT I, 28.12.2023, 1 - jõust. 01.01.2024\]
+
+1\) taotleja abikaasa või registreeritud elukaaslase eesnimi või -nimed, perekonnanimi või -nimed, Eesti isikukood või sünniaeg;
+
+\[RT I, 28.12.2023, 1 - jõust. 01.01.2024\]
+
+2\) taotleja abikaasa või registreeritud elukaaslase kontaktandmed, sealhulgas kontaktaadress (tänav või talu, maja- ja korterinumber, küla või alev või linn, vald, maakond, riik, sihtnumber), e-posti aadress ja telefoninumber;
+
+\[RT I, 28.12.2023, 1 - jõust. 01.01.2024\]
+
+3\) ülalpeetavate arv;
+
+4\) andmed taotleja abikaasa või registreeritud elukaaslase välisriigis sõlmitud varasemate abielude kohta, sealhulgas endise abikaasa või registreeritud elukaaslase eesnimi või -nimed, perekonnanimi või -nimed ja abielu või registreeritud kooselu kestus.
+
+\[RT I, 28.12.2023, 1 - jõust. 01.01.2024\]
+
+#### § 12. Tähtajalise elamisloa taotlemisel lapse elama asumiseks alaliselt Eestis elava vanema juurde andmekogusse kantavad täiendavad andmed
+
+(1) Tähtajalise elamisloa taotlemisel lapse elama asumiseks alaliselt Eestis elava vanema juurde kantakse andmekogusse täiendavalt järgmised andmed:
+
+1\) vanema eesnimi või -nimed, perekonnanimi või -nimed, Eesti isikukood või sünniaeg;
+
+2\) vanema kontaktandmed, sealhulgas kontaktaadress (tänav või talu, maja- ja korterinumber, küla või alev või linn, vald, maakond, riik, sihtnumber), e-posti aadress ja telefoninumber;
+
+3\) ülalpeetavate arv;
+
+4\) teise vanema eesnimi või -nimed, perekonnanimi või -nimed, Eesti isikukood või sünniaeg;
+
+5\) teise vanema kontaktandmed, sealhulgas kontaktaadress (tänav või talu, maja- ja korterinumber, küla või alev või linn, vald, maakond, riik, sihtnumber), e-posti aadress ja telefoninumber.
+
+(2) Tähtajalise elamisloa pikendamise taotlemisel lapse elama asumiseks alaliselt Eestis elava vanema juurde kantakse andmekogusse täiendavalt järgmised andmed juhul, kui need on pärast elamisloa taotluse või eelmise elamisloa pikendamise taotluse esitamist muutunud:
+
+1\) vanema eesnimi või -nimed, perekonnanimi või -nimed, Eesti isikukood või sünniaeg;
+
+2\) vanema kontaktandmed, sealhulgas kontaktaadress (tänav või talu, maja- ja korterinumber, küla või alev või linn, vald, maakond, riik, sihtnumber), e-posti aadress ja telefoninumber;
+
+3\) ülalpeetavate arv;
+
+4\) teise vanema eesnimi või -nimed, perekonnanimi või -nimed, Eesti isikukood või sünniaeg;
+
+5\) teise vanema kontaktandmed, sealhulgas kontaktaadress (tänav või talu, maja- ja korterinumber, küla või alev või linn, vald, maakond, riik, sihtnumber), e-posti aadress ja telefoninumber.
+
+#### § 13. Tähtajalise elamisloa taotlemisel vanema elama asumiseks alaliselt Eestis elava lapse või lapselapse juurde andmekogusse kantavad täiendavad andmed
+
+(1) Tähtajalise elamisloa taotlemisel vanema elama asumiseks alaliselt Eestis elava lapse või lapselapse juurde kantakse andmekogusse täiendavalt järgmised andmed:
+
+1\) lapse või lapselapse eesnimi või -nimed, perekonnanimi või -nimed, Eesti isikukood või sünniaeg;
+
+2\) andmed selle kohta, kas kutsuja on taotleja laps või lapselaps;
+
+3\) lapse või lapselapse kontaktandmed, sealhulgas kontaktaadress (tänav või talu, maja- ja korterinumber, küla või alev või linn, vald, maakond, riik, sihtnumber), e-posti aadress ja telefoninumber;
+
+4\) ülalpeetavate arv.
+
+(2) Tähtajalise elamisloa pikendamise taotlemisel vanema elama asumiseks alaliselt Eestis elava lapse või lapselapse juurde kantakse andmekogusse täiendavalt järgmised andmed juhul, kui need on pärast elamisloa taotluse või eelmise elamisloa pikendamise taotluse esitamist muutunud:
+
+1\) lapse või lapselapse eesnimi või -nimed, perekonnanimi või -nimed, Eesti isikukood või sünniaeg;
+
+2\) lapse või lapselapse kontaktandmed, sealhulgas kontaktaadress (tänav või talu, maja- ja korterinumber, küla või alev või linn, vald, maakond, riik, sihtnumber), e-posti aadress ja telefoninumber;
+
+3\) ülalpeetavate arv.
+
+#### § 14. Tähtajalise elamisloa taotlemisel eestkostetava elama asumiseks alaliselt Eestis elava eestkostja juurde andmekogusse kantavad täiendavad andmed
+
+(1) Tähtajalise elamisloa taotlemisel eestkostetava elama asumiseks alaliselt Eestis elava eestkostja juurde kantakse andmekogusse täiendavalt järgmised andmed:
+
+1\) eestkostja eesnimi või -nimed, perekonnanimi või -nimed, Eesti isikukood või sünniaeg;
+
+2\) eestkostja kontaktandmed, sealhulgas kontaktaadress (tänav või talu, maja- ja korterinumber, küla või alev või linn, vald, maakond, riik, sihtnumber), e-posti aadress ja telefoninumber;
+
+3\) ülalpeetavate arv.
+
+(2) Tähtajalise elamisloa pikendamise taotlemisel eestkostetava elama asumiseks alaliselt Eestis eestkostja juurde kantakse andmekogusse täiendavalt järgmised andmed juhul, kui need on pärast elamisloa taotluse või eelmise elamisloa pikendamise taotluse esitamist muutunud:
+
+1\) eestkostja eesnimi või -nimed, perekonnanimi või -nimed, Eesti isikukood või sünniaeg;
+
+2\) eestkostja kontaktandmed, sealhulgas kontaktaadress (tänav või talu, maja- ja korterinumber, küla või alev või linn, vald, maakond, riik, sihtnumber), e-posti aadress ja telefoninumber;
+
+3\) ülalpeetavate arv.
+
+#### § 15. Tähtajalise elamisloa taotlemisel õppimiseks andmekogusse kantavad täiendavad andmed
+
+Tähtajalise elamisloa või selle pikendamise taotlemisel õppimiseks kantakse andmekogusse täiendavalt järgmised andmed:
+
+1\) õppeasutuse või üliõpilasorganisatsiooni nimi ja registrikood;
+
+2\) andmed õppimise kohta, sealhulgas elamisluba õppimiseks taotlemise alus, õppekava kood ja õppekava, kursuse või praktika nimetus, kus välismaalane õppima asub või jätkuvalt õpib, õppeasutuse liik, õppetase, õppetöö või praktika algus- ja lõppkuupäev, soovitav elamisloa alguskuupäev;
+
+3\) välismaalase õppekeel ja õppekeele taseme miinimumnõuded;
+
+4\) välismaalaste seaduse § 224 lõike 1<sup>2</sup> alusel kehtestatud määrusele vastava Eesti riigi poolt rahastatava või rahvusvaheliselt tunnustatud stipendiumi, riikidevahelise lepingu või õppeasutuste väliskoostöölepingu või rahvusvahelise koostööprogrammi nimetus, kui välismaalane asub või jätkab õppimist selle raames bakalaureuseõppes;
+
+\[RT I, 14.01.2017, 1 - jõust. 01.04.2017\]
+
+5\) õppeasutuse või üliõpilasorganisatsiooni kontaktisiku eesnimi või -nimed, perekonnanimi või -nimed, e-posti aadress ja telefoninumber;
+
+6\) õppeasutuse või üliõpilasorganisatsiooni esindaja eesnimi või -nimed ja perekonnanimi või -nimed.
+
+#### § 16. Tähtajalise elamisloa taotlemisel töötamiseks andmekogusse kantavad täiendavad andmed
+
+Tähtajalise elamisloa või selle pikendamise taotlemisel töötamiseks kantakse andmekogusse täiendavalt järgmised andmed:
+
+1\) tööandja nimi ja registrikood või Eesti isikukood;
+
+2\) kasutajaettevõtja andmed, sealhulgas füüsilisest isikust kasutajaettevõtja eesnimi või -nimed ja perekonnanimi või -nimed, registrikood või Eesti isikukood või juriidilisest isikust kasutajaettevõtja nimi ja registrikood, kui elamisluba töötamiseks taotletakse vastavalt välismaalaste seaduse §-le 176<sup>1</sup>;
+
+3\) välisriigi tööandja andmed, sealhulgas füüsilisest isikust tööandja eesnimi või -nimed ja perekonnanimi või -nimed ja registrikood või isikukood või juriidilisest isikust tööandja nimi ja registrikood, kui elamisluba taotletakse töötamiseks lähetatud töötajana vastavalt välismaalaste seaduse § 181 lõike 1 punktile 9;
+
+3<sup>1</sup>) vastuvõtva üksuse andmed, sealhulgas vastuvõtva üksuse nimi ja registrikood, kui tähtajalist elamisluba taotletakse välismaalaste seaduse § 190<sup>14 </sup>alusel;
+
+\[RT I, 14.01.2017, 1 - jõust. 17.01.2017\]
+
+4\) andmed töötamise kohta, sealhulgas elamisluba töötamiseks taotlemise alus, lepingu liik, töökoha nimetus, millel välismaalane tööle asub või töötamist jätkab, brutotöötasu suurus eurodes, tööandja, kasutajaettevõtja või vastuvõtva üksuse põhitegevusala, töötamise algus- ja lõppkuupäev, soovitav elamisloa alguskuupäev ja töötamiskoha aadress (tänav või talu, maja- ja korterinumber, küla või alev või linn, vald, maakond ja sihtnumber);
+
+\[RT I, 14.01.2017, 1 - jõust. 17.01.2017\]
+
+5\) märge selle kohta, et usuline ühendus tagab välismaalase ülalpidamise Eestis, kui elamisluba taotletakse töötamiseks vaimuliku, nunna või mungana vastavalt välismaalaste seaduse § 181 lõike 1 punktile 1;
+
+6\) viide välislepingu sättele, kui elamisluba töötamiseks taotletakse välislepingu alusel vastavalt välismaalaste seaduse § 181 lõike 1 punktile 3;
+
+7\) märge selle kohta, et äriühing, kuhu välismaalane tööle asub, alustab tegevust riigi või erainvesteeringu toel, kui elamisluba taotletakse töötamiseks tippspetsialistina vastavalt välismaalaste seaduse § 181 lõikele 7;
+
+8\) märge selle kohta, et välismaalane on elanud Eestis EL sinise kaardi alusel vähemalt 12 kuud järjest ja tal on kehtiv EL sinine kaart;
+
+\[RT I, 25.04.2025, 5 - jõust. 28.04.2025\]
+
+9\) viide valdkonnale, kus välismaalane tööle asub, kui elamisluba taotletakse töötamiseks tööjõupuuduse valdkonnas vastavalt välismaalaste seaduse § 181 lõike 2 punktile 4;
+
+9<sup>1</sup>) \[kehtetu - RT I, 25.04.2025, 5 - jõust. 28.04.2025\]
+
+10\) andmed juriidilisest isikust tööandja esindusõigust omava isiku kohta, sealhulgas eesnimi või -nimed, perekonnanimi või -nimed, Eesti isikukood või sünniaeg ja esindusõiguse alus;
+
+11\) tööandja kontaktisiku eesnimi või -nimed, perekonnanimi või -nimed, e-posti aadress ja telefoninumber;
+
+12\) märge spordialaliidu nõusoleku kohta välismaalase Eestis töötamiseks sportlasena, treenerina, spordikohtunikuna või sporditöötajana, kui välismaalase tööandja ei ole spordialaliit ja tähtajalise elamisloa töötamiseks taotlemisel kohaldatakse välismaalaste seaduse § 181 lõike 1 punktis 7 sätestatud erandit.
+
+\[RT I, 25.04.2025, 5 - jõust. 01.01.2026\]
+
+#### § 17. Tähtajalise elamisloa taotlemisel ettevõtluseks andmekogusse kantavad täiendavad andmed
+
+Tähtajalise elamisloa või selle pikendamise taotlemisel ettevõtluseks kantakse andmekogusse täiendavalt järgmised andmed:
+
+1\) äriühingu või füüsilisest isikust ettevõtja nimi, registrikood ja tegevusala;
+
+2\) tegevuskoha kontaktandmed, sealhulgas kontaktaadress (tänav või talu, maja- ja korterinumber, küla või alev või linn, vald, maakond, riik, sihtnumber), e-posti aadress ja telefoninumber;
+
+3\) märge selle kohta, kui äriühing alustab tegevust riigi või erainvesteeringu toel;
+
+4\) märge selle kohta, et äriühing tegutseb iduettevõttena;
+
+\[RT I, 14.01.2017, 1 - jõust. 18.01.2017\]
+
+5\) märge selle kohta, et elamisluba taotletakse suurinvestorina.
+
+\[RT I, 14.01.2017, 1 - jõust. 18.01.2017\]
+
+#### § 18. Tähtajalise elamisloa taotlemisel välislepingu alusel andmekogusse kantavad täiendavad andmed
+
+Tähtajalise elamisloa või selle pikendamise taotlemisel välislepingu alusel kantakse andmekogusse täiendavalt viide välislepingu sättele.
+
+#### § 19. Pikaajalise elaniku elamisloa ja selle taastamise taotlemisel andmekogusse kantavad andmed
+
+(1) Pikaajalise elaniku elamisloa ja selle taastamise taotleja kohta kantakse andmekogusse järgmised andmed:
+
+1\) eesnimi või -nimed;
+
+2\) perekonnanimi või -nimed;
+
+3\) Eesti isikukood;
+
+4\) sünniaeg;
+
+5\) sugu;
+
+6\) sünnikoht riigi täpsusega;
+
+7\) kodakondsus või kodakondsused;
+
+8\) rahvus;
+
+9\) emakeel;
+
+10\) kontaktandmed, sealhulgas kontaktaadress ja elukoha aadress Eestis, kui elukoha aadress erineb kontaktaadressist Eestis (tänav või talu, maja- ja korterinumber, küla või alev või linn, vald, maakond, riik, sihtnumber), e-posti aadress ja telefoninumber;
+
+11\) foto või näokujutis;
+
+12\) sõrmejäljekujutised või andmed sõrmejälgede võtmise võimatuse kohta;
+
+13\) allkirjanäidis või andmed allkirjavõimetuse tuvastamise kohta;
+
+14\) andmed selle kohta, kas taotletakse pikaajalise elaniku elamisluba või selle taastamist;
+
+15\) andmed selle kohta, kas taotleja on alla üheaastane isik või isik, kes on kaotanud Eesti kodakondsuse;
+
+16\) andmed perekonnaseisu kohta;
+
+16<sup>1</sup>) sotsiaalmeedia kontod;
+
+\[RT I, 25.04.2025, 5 - jõust. 01.01.2026\]
+
+17\) andmed hariduse kohta;
+
+18\) andmed rahvusvahelise kaitse saamise kohta mõnes teises Euroopa Liidu liikmesriigis, sealhulgas riik ja rahvusvahelise kaitse andmise kuupäev;
+
+19\) andmed seadusliku esindaja kohta, sealhulgas eesnimi või -nimed, perekonnanimi või -nimed, Eesti isikukood või sünniaeg, eestkostja nimi ja registrikood;
+
+20\) andmed selle kohta, kas taotleja on Euroopa Liidu kodaniku perekonnaliige;
+
+21\) muu taotlusega seotud oluline teave.
+
+(2) Pikaajalise elaniku elamisloa ja elamisloa taastamise taotleja kohta kantakse andmekogusse täiendavalt järgmised andmed juhul, kui need on pärast elamisloa taotluse või eelmise elamisloa pikendamise taotluse esitamist muutunud:
+
+1\) andmed õppimise, töötamise ja muude oluliste asjaolude kohta;
+
+2\) andmed elamisloa või -õiguse omamise kohta teistes riikides, sealhulgas riik, liik ja kehtivusaeg;
+
+3\) andmed kriminaalkorras karistamise kohta;
+
+\[RT I, 25.04.2025, 5 - jõust. 01.01.2026\]
+
+4\) andmed välisriigi relvajõududes, sealhulgas kohustuslikus ajateenistuses, kaadrisõjaväelasena teenimise või välisriigi relvajõudude reservi kuulumise kohta, andmed väljaspool Eestit sõjaväelises operatsioonis osalemise kohta ning andmed luure- või julgeolekuteenistuses töötamise või sellega seoste kohta ning andmed riiklikus või mitteriiklikus relvastatud organisatsioonis või üksuses töötamise kohta;
+
+\[RT I, 25.04.2025, 5 - jõust. 28.04.2025\]
+
+5\) andmed selle kohta, kas taotleja kuulub või on kuulunud kuritegelikku ühendusse, terroristlikku ühendusse või äärmusrühmitusse või omab või on omanud kontakti nendesse kuuluvate või kuulunud isikutega, viibib või on viibinud terroristliku organisatsiooni või äärmusrühmituse kontrolli all oleval alal, puutub või on puutunud kokku tulirelva või lõhkematerjaliga või oskab neid käsitseda või on pannud toime inimsusevastase kuriteo või sõjakuriteo veendumuste alusel.
+
+\[RT I, 25.04.2025, 5 - jõust. 28.04.2025\]
+
+#### § 20. Elamisloa taotlemisel andmekogusse kantavad täiendavad andmed
+
+(1) Tähtajalise elamisloa, tähtajalise elamisloa pikendamise, pikaajalise elaniku elamisloa ja selle taastamise taotlemisel kantakse andmekogusse taotleja lähedaste sugulaste ja perekonnaliikmete kohta lisaks käesolevas määruses sätestatud andmetele järgmised andmed:
+
+1\) suhe taotlejaga;
+
+2\) abikaasa puhul välisriigis sõlmitud abielu aeg ja koht ning registreeritud elukaaslase puhul välisriigis kooselu registreerimise aeg ja koht;
+
+\[RT I, 28.12.2023, 1 - jõust. 01.01.2024\]
+
+3\) eesnimi või -nimed;
+
+4\) perekonnanimi või -nimed;
+
+5\) sugu;
+
+6\) Eesti isikukood või sünniaeg;
+
+7\) kodakondsus või kodakondsused;
+
+8\) sünnikoht riigi täpsusega;
+
+9\) kontaktandmed, sealhulgas kontaktaadress (tänav või talu, maja- ja korterinumber, küla või alev või linn, vald, maakond, riik, sihtnumber), e-posti aadress ja telefoninumber.
+
+(2) Taotleja kohta, kes teenib või on teeninud välisriigi relvajõududes, sealhulgas kaadrisõjaväelasena, luure- või julgeolekuteenistuses, või kes osaleb või on osalenud sõjaväelistes operatsioonides väljaspool Eestit, kantakse tähtajalise elamisloa, tähtajalise elamisloa pikendamise, pikaajalise elaniku elamisloa ja selle taastamise taotlemisel lisaks käesolevas määruses sätestatud andmetele andmekogusse järgmised andmed:
+
+1\) andmed õppimise kohta sõjaväelistes erikoolides ja -kursustel, sealhulgas kooli või kursuse nimetus, eriala, kooli aadress ja õppimise aeg;
+
+2\) andmed sõjaväelistest operatsioonidest osavõtmise kohta teiste riikide territooriumil, sealhulgas selle riigi nimi, ametikoht, osalemise aeg ja ülesanne;
+
+3\) teenistus- või töökäigu kirjeldus, sealhulgas asutuse nimi, aadress, sõjaväeosa number, ameti- või töökoht, ülesanne, tegevussuund, väeliik, teenistuse või töötamise periood.
+
+#### § 21. Eestist eemalviibimise registreerimise taotlemisel andmekogusse kantavad andmed
+
+Eestist eemalviibimise registreerimise taotleja kohta kantakse andmekogusse järgmised andmed:
+
+1\) isikuandmed, sealhulgas Eesti isikukood, eesnimed, perekonnanimi, endised perekonnanimed, sünniaeg, sünnikoht, sugu, kodakondsus;
+
+2\) kontaktandmed, sealhulgas postiaadress, telefon, e-posti aadress;
+
+3\) Eestist eemalviibimise aeg;
+
+4\) Eestist eemalviibimise põhjus;
+
+5\) riik, kus viibitakse;
+
+6\) andmed välisriigi reisidokumendi kohta, sealhulgas reisidokumendi väljaandnud riik, reisidokumendi väljaandnud asutus, reisidokumendi liik, reisidokumendi number, reisidokumendi väljaandmise aeg ja reisidokumendi kehtivusaja lõppemise aeg;
+
+7\) andmed taotleja seadusjärgse esindaja kohta.
+
+#### § 21<sup>1</sup>. Töökohavahetuse registreerimise taotlemisel ja taotluse kohta andmekogusse kantavad andmed
+
+(1) Töökohavahetuse registreerimise taotluse kohta kantakse andmekogusse järgmised andmed:
+
+1\) taotluse esitamise kuupäev;
+
+2\) taotluse registreerimise kuupäev ja number;
+
+3\) taotluse menetlusse võtnud ametniku ees- ja perekonnanimi;
+
+4\) andmed taotluse staatuse kohta;
+
+5\) andmed selle kohta, kas töökohavahetuse registreerimise korral tähtajalise elamisloa andmise aluse suhtes uuel töökohal kohaldub sisserände piirarv;
+
+6\) taotlusele lisatud dokumentide andmed;
+
+7\) andmed menetluse käigus kogutud muude tähtsust omavate asjaolude ja dokumentide kohta.
+
+(2) Töökohavahetuse registreerimise taotlemisel kantakse andmekogusse järgmised andmed:
+
+1\) välismaalase ees- ja perekonnanimi ning Eesti isikukood;
+
+2\) tööandja nimi ja registrikood või Eesti isikukood;
+
+3\) kasutajaettevõtja andmed, sealhulgas füüsilisest isikust kasutajaettevõtja ees- ja perekonnanimi, registrikood või Eesti isikukood või juriidilisest isikust kasutajaettevõtja nimi ja registrikood, kui välismaalane asub tööle välismaalaste seaduse § 176<sup>1</sup> alusel;
+
+4\) andmed töötamise kohta, sealhulgas millisel välismaalaste seaduses sätestatud alusel tööle asutakse, lepingu liik, töökoha nimetus, millel välismaalane tööle asub, brutotöötasu suurus eurodes, töötamise algus- ja lõppkuupäev, töötamiskoha aadress (tänav või talu, maja- ja korterinumber, küla või alev või linn, vald, maakond ja sihtnumber);
+
+5\) märge selle kohta, et usuline ühendus tagab välismaalase ülalpidamise Eestis, kui välismaalane asub tööle vaimuliku, nunna või mungana vastavalt välismaalaste seaduse § 181 lõike 1 punktile 1;
+
+6\) viide välislepingu sättele, kui välismaalane asub tööle välislepingu alusel vastavalt välismaalaste seaduse § 181 lõike 1 punktile 3;
+
+7\) märge selle kohta, et äriühing, kuhu välismaalane tööle asub, alustab tegevust riigi või erainvesteeringu toel, kui välismaalane asub tööle tippspetsialistina vastavalt välismaalaste seaduse § 181 lõikele 7;
+
+8\) märge selle kohta, et välismaalane on elanud Eestis elamisloa alusel vähemalt 12 kuud järjest ja tal on elamisluba töötamiseks;
+
+9\) viide valdkonnale, kus välismaalane tööle asub, kui välismaalane asub tööle tööjõupuuduse valdkonnas vastavalt välismaalaste seaduse § 181 lõike 2 punktile 4;
+
+10\) märge spordialaliidu nõusoleku kohta välismaalase Eestis töötamiseks sportlasena, treenerina, spordikohtunikuna või sporditöötajana, kui tööandja, kelle juurde välismaalane tööle asub, ei ole spordialaliit ja tähtajalise elamisloa töötamiseks taotlemisel kohaldatakse välismaalaste seaduse § 181 lõike 1 punktis 7 sätestatud erandit;
+
+11\) juriidilisest isikust tööandja esindusõigust omava isiku ees- ja perekonnanimi, Eesti isikukood või sünniaeg ja esindusõiguse alus;
+
+12\) tööandja kontaktisiku ees- ja perekonnanimi, e-posti aadress ja telefoninumber.
+
+\[RT I, 19.05.2026, 1 - jõust. 22.05.2026\]
+
+#### § 22. Eestist eemalviibimise registreerimise, registreerimise taotluse rahuldamata jätmise, keeldumise ja kehtetuks tunnistamise otsuse andmed
+
+(1) Eestist eemalviibimise registreerimise otsuse kohta kantakse andmekogusse järgmised andmed:
+
+1\) otsuse teinud ametniku eesnimed ja perekonnanimi, ametikoht;
+
+2\) otsuse andmed (number, kuupäev);
+
+3\) Eestist eemalviibimise aeg;
+
+4\) Eestist eemalviibimise põhjus.
+
+(2) Eestist eemalviibimise registreerimise taotluse rahuldamata jätmise, keeldumise ning kehtetuks tunnistamise otsuse kohta kantakse andmekogusse järgmised andmed:
+
+1\) otsuse kuupäev ja alus;
+
+2\) otsuse teinud ametniku eesnimed, perekonnanimi ja ametikoht.
+
+#### § 22<sup>1</sup>. Töökohavahetuse registreerimise otsuse kohta andmekogusse kantavad andmed
+
+Töökohavahetuse registreerimise otsuse kohta kantakse andmekogusse järgmised andmed:
+
+1\) otsuse teinud ametniku ees- ja perekonnanimi;
+
+2\) otsuse tegemise kuupäev ja number;
+
+3\) otsuse sisu.
+
+\[RT I, 19.05.2026, 1 - jõust. 22.05.2026\]
+
+#### § 23. Elamisloa ja selle pikendamise taotluse ja nende menetluse kohta andmekogusse kantavad andmed
+
+Elamisloa ja selle pikendamise taotluse ja nende menetluse kohta kantakse andmekogusse järgmised andmed:
+
+1\) taotluse esitamise kuupäev;
+
+2\) taotluse registreerimise kuupäev ja number;
+
+3\) taotluse menetlusse võtnud ametniku eesnimi või -nimed ja perekonnanimi või -nimed;
+
+4\) andmed taotluse staatuse ja asukoha kohta;
+
+5\) andmed selle kohta, kas tähtajalise elamisloa taotlus läheb sisserände piiarvu alla;
+
+6\) andmed tähtajalise elamisloa taotluse esitamise õigusliku aluse kohta;
+
+7\) andmed selle kohta, millises Eesti välisesinduses tähtajalise elamisloa taotlus esitati;
+
+8\) taotlusele lisatud dokumentide andmed;
+
+9\) andmed riigilõivu tasumise kohta;
+
+10\) dokumendi väljastamise koht;
+
+11\) andmed menetluse käigus kogutud muude tähtsust omavate asjaolude ja dokumentide kohta.
+
+#### § 23<sup>1</sup>. Erandina püsivalt Eestisse elama asumiseks antava elamisloa andmise menetluse kohta andmekogusse kantavad andmed
+
+\[RT I, 29.07.2016, 1 - jõust. 01.08.2016\]
+
+Erandina püsivalt Eestisse elama asumiseks antava elamisloa andmise menetluse kohta kantakse andmekogusse järgmised andmed:
+
+1\) menetluse algatamise kuupäev ja number;
+
+2\) menetluse algatanud ametniku eesnimi või -nimed ja perekonnanimi või -nimed;
+
+3\) andmed menetluse staatuse kohta;
+
+4\) andmed selle kohta, kas tähtajalise elamisloa andmise aluse suhtes kohaldub sisserände piirarv;
+
+5\) andmed tähtajalise elamisloa andmise õigusliku aluse kohta;
+
+6\) lisatud dokumentide andmed;
+
+7\) dokumendi väljastamise koht;
+
+8\) andmed menetluse käigus kogutud muude tähtsust omavate asjaolude ja dokumentide kohta.
+
+\[RT I, 29.07.2016, 1 - jõust. 01.08.2016\]
+
+#### § 24. Elamisloa taotluse läbivaatamata jätmise, elamisloa andmise ja pikendamise ning sellest keeldumise ning kehtetuks tunnistamise otsuse kohta andmekogusse kantavad andmed
+
+(1) Elamisloa andmise ja selle pikendamise otsuse kohta kantakse andmekogusse järgmised andmed:
+
+1\) otsuse teinud ametniku eesnimi või -nimed ja perekonnanimi või -nimed;
+
+2\) otsuse tegemise kuupäev ja number;
+
+3\) elamisloa kehtivusaeg;
+
+4\) elamisloa andmise või pikendamise alus.
+
+(2) Elamisloa taotluse läbivaatamata jätmise, elamisloa andmisest või pikendamisest keeldumise ning kehtetuks tunnistamise otsuse kohta kantakse andmekogusse järgmised andmed:
+
+1\) otsuse teinud ametniku eesnimi või -nimed ja perekonnanimi või -nimed;
+
+2\) otsuse tegemise kuupäev, number ja alus.
+
+#### § 25. Välismaalase kohanemisprogrammis osalema suunamise kohta andmekogusse kantavad andmed
+
+Kohanemisprogrammi osalema suunatud välismaalase kohta kantakse andmekogusse järgmised andmed:
+
+1\) kohanemisprogrammi osalema suunamise aeg;
+
+2\) uuesti kohanemisprogrammi osalema suunamise aeg;
+
+3\) isiku kohanemisprogrammis osalemise sooviavalduse registreerimise aeg;
+
+4\) isiku kohanemisprogrammis mitteosalemise sooviavalduse registreerimise aeg;
+
+5\) andmed kohanemisprogrammi moodulites ja keeleõppes osalemise õiguse kohta;
+
+6\) andmed kohanemisprogrammi moodulites ja keeleõppes osalemise, mitteosalemise ja nende läbimise kohta ning nendes osalemise ja nende läbimise aeg.
+
+#### § 26. Välisriigi kodaniku isikut tõendava dokumendi kohta andmekogusse kantavad andmed
+
+Tähtajalise elamisloa, selle pikendamise, pikaajalise elaniku ja selle taastamise taotlemisel kantakse andmekogusse välisriigi kodaniku välisriigis välja antud isikut tõendava dokumendi kohta järgmised andmed:
+
+1\) väljaandnud riik;
+
+2\) väljaandnud asutus;
+
+3\) liik;
+
+4\) number;
+
+5\) väljaandmise aeg;
+
+6\) kehtivusaja lõppemise aeg.
+
+### 2. jagu — Euroopa Liidu kodaniku seaduse alusel andmekogusse kantavad andmed
+
+#### § 27. Euroopa Liidu kodaniku perekonnaliikme tähtajalise elamisõiguse ja selle pikendamise taotlemisel andmekogusse kantavad andmed
+
+Euroopa Liidu kodaniku perekonnaliikme (edaspidi käesolevas jaos *perekonnaliige*) tähtajalise elamisõiguse ja selle pikendamise taotlemisel kantakse andmekogusse järgmised andmed:
+
+\[RT I, 25.04.2025, 5 - jõust. 28.04.2025\]
+
+1\) taotleja isikuandmed, sealhulgas Eesti isikukood, eesnimed, perekonnanimed, sünniaeg, sünnikoht riigi täpsusega, sugu, kodakondsus, perekonnaseis, foto, sõrmejäljekujutised või andmed sõrmejälgede võtmise võimatuse kohta, allkirjanäidis või andmed allkirjavõimetuse tuvastamise kohta);
+
+2\) taotletav õigus;
+
+3\) taotleja suhe Euroopa Liidu kodanikuga;
+
+4\) andmed taotleja perekonnaliikmete kohta, sealhulgas Eesti isikukood, eesnimed, perekonnanimed, sünniaeg, sugu, kodakondsus, elukoht, suhe taotlejaga, majanduslik seos taotlejaga;
+
+5\) taotleja kontaktandmed, sealhulgas postiaadress, telefon, e-posti aadress;
+
+6\) andmed Eestis registreeritud elukoha kohta;
+
+7\) andmed mõnes teises riigis elamisõiguse omamise kohta;
+
+8\) andmed taotleja kriminaalkorras karistamise kohta;
+
+9\) andmed taotleja seoste kohta välisriigi luure- või julgeolekuteenistusega;
+
+10\) andmed taotleja sidemete kohta relvi valdavate, sõjaliselt korraldatud või sõjalisi harjutusi harrastavate organisatsioonidega;
+
+11\) andmed taotleja kuulumise kohta Eesti või välisriigi organisatsioonidesse;
+
+12\) andmed Euroopa Liidu kodaniku esitatud kinnituse kohta, kelle juurde elama asumiseks elamisõigust või selle pikendamist taotletakse;
+
+13\) andmed taotleja seadusjärgse esindaja kohta.
+
+#### § 28. Euroopa Liidu kodaniku ja tema perekonnaliikme alalise elamisõiguse registreerimisel andmekogusse kantavad andmed
+
+(1) Euroopa Liidu kodaniku ja tema perekonnaliikme alalise elamisõiguse (edaspidi *alaline elamisõigus*) registreerimisel kantakse andmekogusse järgmised andmed:
+
+1\) Euroopa Liidu kodaniku isikuandmed, sealhulgas Eesti isikukood, eesnimed, perekonnanimed, sünniaeg, sünnikoht riigi täpsusega, sugu, kodakondsus, perekonnaseis, foto, allkirjanäidis või andmed allkirjavõimetuse tuvastamise kohta;
+
+2\) perekonnaliikme isikuandmed, sealhulgas Eesti isikukood, eesnimed, perekonnanimed, sünniaeg, sünnikoht riigi täpsusega, sugu, kodakondsus, perekonnaseis, foto, sõrmejäljekujutised või andmed sõrmejälgede võtmise võimatuse kohta, allkirjanäidis või andmed allkirjavõimetuse tuvastamise kohta;
+
+\[RT I, 25.04.2025, 5 - jõust. 28.04.2025\]
+
+3\) taotletav õigus ja alalise elamisõiguse registreerimise alus;
+
+4\) andmed Eestis elamisloa või elamisõiguse alusel elamise kohta;
+
+\[RT I, 14.01.2017, 1 - jõust. 18.01.2017\]
+
+5\) taotleja kontaktandmed (postiaadress, telefon, e-posti aadress);
+
+6\) andmed Eestis registreeritud elukoha kohta;
+
+7\) andmed mõnes teises Euroopa Liidu liikmesriigis pikaajalise elaniku staatuse omamise kohta;
+
+8\) andmed taotleja kriminaalkorras karistamise kohta;
+
+9\) andmed taotleja seoste kohta välisriigi luure- või julgeolekuteenistusega;
+
+10\) andmed taotleja sidemete kohta relvi valdavate, sõjaliselt korraldatud või sõjalisi harjutusi harrastavate organisatsioonidega;
+
+11\) andmed taotleja kuulumise kohta Eesti või välisriigi organisatsioonidesse;
+
+12\) andmed taotleja viimase viie aasta õppimise, töö- ja teenistuskäigu kohta;
+
+13\) andmed taotleja seadusjärgse esindaja kohta.
+
+(2) Alalise elamisõiguse registreerimise kohta kantakse andmekogusse järgmised andmed:
+
+1\) alalise elamisõiguse registreerinud ametniku eesnimed ja perekonnanimi, ametikoht;
+
+2\) alalise elamisõiguse registreerimise andmed, sealhulgas number, kuupäev.
+
+#### § 29. Perekonnaliikme tähtajalise elamisõiguse andmise ja selle pikendamise otsuse andmed
+
+Perekonnaliikme tähtajalise elamisõiguse andmise ja selle pikendamise otsuse kohta kantakse andmekogusse järgmised andmed:
+
+1\) otsuse teinud ametniku eesnimed ja perekonnanimi, ametikoht;
+
+2\) otsuse andmed (number, kuupäev);
+
+3\) elamisõiguse andmise või pikendamise alus;
+
+4\) elamisõiguse kehtivusaeg;
+
+5\) andmed otsuse vaidlustamise või edasikaebamise kohta;
+
+6\) andmed kohtulahendi edasikaebamise kohta.
+
+#### § 30. Euroopa Liidu kodaniku ja tema perekonnaliikme kohanemisprogrammis osalema suunamise kohta andmekogusse kantavad andmed
+
+Kohanemisprogrammi osalema suunatud Euroopa Liidu kodaniku ja tema perekonnaliikme kohta kantakse andmekogusse järgmised andmed:
+
+1\) kohanemisprogrammi osalema suunamise aeg;
+
+2\) uuesti kohanemisprogrammis osalema suunamise aeg;
+
+3\) isiku kohanemisprogrammi osalemise sooviavalduse registreerimise aeg;
+
+4\) isiku kohanemisprogrammis mitteosalemise sooviavalduse registreerimise aeg;
+
+5\) andmed kohanemisprogrammi moodulites ja keeleõppes osalemise õiguse kohta;
+
+6\) andmed kohanemisprogrammi moodulites ja keeleõppes osalemise, mitteosalemise ja nende läbimise kohta ning nendes osalemise ja nende läbimise aeg.
+
+#### § 31. Euroopa Liidu kodaniku ja tema perekonnaliikme isikut tõendava dokumendi kohta andmekogusse kantavad andmed
+
+Tähtajalise elamisõiguse, tähtajalise elamisõiguse pikendamise ja alalise elamisõiguse registreerimise taotlemisel kantakse Euroopa Liidu kodaniku ja tema perekonnaliikme välisriigis välja antud isikut tõendava dokumendi kohta andmekogusse käesoleva määruse §-s 26 nimetatud andmed.
+
+## 4. peatükk — Andmete kandmine andmekogusse
+
+### § 32. Andmeandja
+
+Andmekogusse andmeandjateks on:
+
+1\) välismaalane ja Eesti kodanik, kes kutsub isiku Eestisse, või välismaalane, kes taotleb tähtajalist elamisluba või elamisloa pikendamist, pikaajalise elaniku elamisluba või elamisloa taastamist, elamisloa kehtetuks tunnistamist või Eestist eemalviibimise registreerimist, või välismaalane, kes taotleb enda või oma seaduslikult esindatava kohanemisprogrammi suunamist või mittesuunamist;
+
+2\) Euroopa Liidu kodanik, kes taotleb alalise elamisõiguse registreerimist või elamisõiguse lõpetamist, või Euroopa Liidu kodaniku perekonnaliige, kes taotleb tähtajalist elamisõigust või selle pikendamist, alalise elamisõiguse registreerimist või elamisõiguse lõpetamist, või Euroopa Liidu kodanik või Euroopa Liidu kodaniku perekonnaliige, kes taotleb enda või oma seaduslikult esindatava kohanemisprogrammi suunamist või mittesuunamist;
+
+3\) välismaalaste seaduse §-s 280, § 285 lõigetes 1 ja 3 ning §-s 287 nimetatud subjektid nimetatud seaduse §-s 280, § 285 lõigetes 1 ja 3 ning §-s 287 loetletud asjaolude puhul vastavalt valdkonna eest vastutava ministri kehtestatud korrale.
+
+4\) \[kehtetu - RT I, 19.05.2026, 1 - jõust. 22.05.2026\]
+
+### § 33. Andmekogudevaheline andmevahetus
+
+Andmekogu vastutaval töötlejal on lubatud seadusega või seaduse alusel kehtestatud õigusaktiga talle pandud ülesannete täitmiseks esitada päringuid teistesse Euroopa Liidu, riigi või kohaliku omavalitsuse andmekogudesse ja saada sealt andmeid.
+
+\[RT I, 23.09.2022, 1 - jõust. 12.10.2025 - kuupäeval, mille määrab Euroopa Komisjon Euroopa Parlamendi ja nõukogu määruse (EL) 2017/2226 artikli 66 lõike 1 kohaselt - Komisjoni rakendusotsus (EL) 2025/1544, 30. juuli 2025.\]
+
+### § 34. Andmete andmekogusse kandmise alusdokumendid
+
+Andmete andmekogusse kandmise alusdokumentideks (edaspidi *alusdokument*) on:
+
+1\) tähtajalise elamisloa ja elamisloa pikendamise taotlus, pikaajalise elaniku elamisloa ja elamisloa taastamise taotlus, elamisloa kehtetuks tunnistamise avaldus, Eestist eemalviibimise registreerimise taotlus ja töökohavahetuse registreerimise taotlus ning nendele taotlustele lisatud dokumendid;
+
+\[RT I, 19.05.2026, 1 - jõust. 22.05.2026\]
+
+2\) jõustunud kohtuotsus või muu dokument isiku kriminaalkorras karistamise kohta;
+
+\[RT I, 25.04.2025, 5 - jõust. 01.01.2026\]
+
+3\) haldusakt tähtajalise elamisloa andmise või pikendamise või sellest keeldumise, pikaajalise elaniku elamisloa andmise või taastamise või sellest keeldumise, elamisloa kehtetuks tunnistamise kohta, Eestist eemalviibimise registreerimise või registreerimata jätmise ning töökoha vahetamise registreerimise või registreerimata jätmise kohta;
+
+\[RT I, 19.05.2026, 1 - jõust. 22.05.2026\]
+
+4\) Euroopa Liidu kodaniku perekonnaliikme tähtajalise elamisõiguse ja selle pikendamise taotlus, alalise elamisõiguse registreerimise taotlus, elamisõiguse lõpetamise taotlus ning nendele taotlustele lisatud dokumendid;
+
+\[RT I, 25.04.2025, 5 - jõust. 28.04.2025\]
+
+5\) haldusakt Euroopa Liidu kodaniku perekonnaliikme tähtajalise elamisõiguse andmise või pikendamise, alalise elamisõiguse registreerimise või sellest keeldumise ning elamisõiguse lõpetamise kohta;
+
+\[RT I, 25.04.2025, 5 - jõust. 28.04.2025\]
+
+6\) isiku sooviavaldus osaleda kohanemisprogrammis ja isiku sooviavaldus mitte osaleda kohanemisprogrammis.
+
+### § 35. Andmete kandmine andmekogusse
+
+(1) Vastutav töötleja kannab käesoleva määruse §-des 9–31 nimetatud andmed ning taotluse põhjendatust selgitavad andmed andmekogusse hiljemalt andmete esitamise päevale järgneval tööpäeval.
+
+(2) Koolitusmooduli veebiliideses on kohanemisprogrammi osalema suunatud välismaalasel, Euroopa Liidu kodanikul ja tema perekonnaliikmel ning kohanemisprogrammi koolitajal võimalik sisestada andmeid kohanemisprogrammis osalemise kohta, et edastada need vastutavale töötlejale ja Kultuuriministeeriumile.
+
+\[RT I, 26.08.2022, 1 - jõust. 29.08.2022\]
+
+### § 36. Andmete õigsuse tagamine
+
+Andmeandja vastutab tema esitatud andmete ning käesoleva määruse § 34 punktides 1 ja 4 nimetatud alusdokumentidel olevate andmete õigsuse eest alusdokumendi esitamise ajal. Vastutav töötleja vastutab, et andmekogusse kantud andmed vastavad andmeandja esitatud andmetele.
+
+\[RT I, 19.05.2026, 1 - jõust. 22.05.2026\]
+
+### § 37. Ebaõigete andmete parandamine
+
+Kui vastutav töötleja avastab andmekogus ebaõigeid andmeid või kui talle on nendest teada antud, korraldab ta andmete parandamise viivitamata pärast ebaõigetest andmetest teadasaamist ning lisab menetlustoimikule õigeid andmeid tõendava dokumendi koopia ning teeb andmekogusse märke paranduse tegemise aja ja paranduse teinud ametniku kohta.
+
+## 5. peatükk — Juurdepääs andmekogu andmetele ning nende väljastamine andmekogust
+
+### § 38. Juurdepääs andmekogusse kantud andmetele
+
+(1) Andmekogus sisalduvad andmed on juurdepääsupiiranguga ning on tunnistatud asutusesiseseks kasutamiseks mõeldud teabeks.
+
+(2) Juurdepääs andmekogusse kantud andmetele on vastutava töötleja ametnikel ja töötlejatel neile teenistus- ja tööülesannete täitmiseks määratud ulatuses ning järelevalveasutusel neile seadusega pandud ülesannete täitmiseks.
+
+(3) Juurdepääs andmekogule on volitatud töötleja töötajatel neile tööülesannete täitmiseks määratud ulatuses.
+
+(4) Andmekogule juurdepääsu õigus on andmekogu arendaval või hooldaval isikul arendus- või hoolduslepingus sätestatud ulatuses ja tingimustel.
+
+(5) Andmekogu vastutav töötleja otsustab kolmandatele isikutele infosüsteemide andmevahetuskihi kaudu andmetele juurdepääsu andmise. Vajaduse korral sõlmitakse andmete saajaga leping, kus sätestatakse nende andmete koosseis, millele juurdepääs võimaldatakse, ning andmetele juurdepääsu andmise õiguslik alus, eesmärk, tingimused, kord ja viis.
+
+\[RT I, 19.05.2026, 1 - jõust. 22.05.2026\]
+
+(6) Kolmandatele isikutele võimaldatakse infosüsteemide andmevahetuskihi kaudu andmetele juurdepääs tehniliste võimaluste piires mahus, mis ei takista vastutavale töötlejale pandud ülesannete täitmist.
+
+(7) Vastutav töötleja võib avalikul veebilehel võimaldada kontrollida elamisloa ja elamisõiguse kehtivust, avaldamata seejuures välismaalase isikuandmeid.
+
+(8) Kohanemisprogrammi osalema suunatud välismaalasel ning Euroopa Liidu kodanikul ja tema perekonnaliikmel on juurdepääs koolitusmooduli veebiliidesele, kus neil on võimalik saada ülevaade enda osalemisest kohanemisprogrammis ja sisestada selle kohta andmeid.
+
+\[RT I, 26.08.2022, 1 - jõust. 29.08.2022\]
+
+(9) Kohanemisprogrammi koolitajal on juurdepääs koolitusmooduli veebiliidesele, kus tal on õigus töödelda käesoleva määruse § 9 lõike 1 punktides 1–13, 19 ja 20 ning §-des 25 ja 30 nimetatud andmeid.
+
+\[RT I, 26.08.2022, 1 - jõust. 29.08.2022\]
+
+### § 39. Andmete väljastamine andmekogust
+
+(1) Andmekogu vastutav töötleja väljastab andmekogusse kantud andmeid:
+
+1\) andmesubjektile või tema seaduslikule esindajale andmesubjekti kohta käivaid isikuandmeid;
+
+2\) andmeandjale kirjaliku taotluse alusel tema poolt andmekogusse esitatud andmeid;
+
+3\) kolmandatele isikutele nende kirjaliku taotluse alusel, kui andmete väljastamiseks on seaduses sätestatud alus.
+
+(2) Andmekogu vastutav töötleja peab arvestust andmete andmekogusse esitamise aja, andmete väljastamise aja, andmete koosseisu, andmeandjate ning andmete saajate üle.
+
+(3) Andmekogust väljastatakse andmeid tasuta.
+
+### § 39<sup>1</sup>. Andmete töötlemine riiki sisenemise ja riigist lahkumise süsteemi rakendamiseks
+
+Andmekogu andmeid töödeldakse Euroopa Parlamendi ja nõukogu määruse (EL) 2017/2226, millega luuakse riiki sisenemise ja riigist lahkumise süsteem liikmesriikide välispiire ületavate kolmandate riikide kodanike riiki sisenemise ja riigist lahkumise andmete ja sisenemiskeeluandmete registreerimiseks ning määratakse kindlaks riiki sisenemise ja riigist lahkumise süsteemile õiguskaitse eesmärgil juurdepääsu andmise tingimused ning millega muudetakse Schengeni lepingu rakendamise konventsiooni ning määruseid (EÜ) nr 767/2008 ja (EL) nr 1077/2011 (ELT L 327, 9.12.2017, lk 20–82), artikli 14 lõikes 8 ja artikli 35 lõike 6 punktis b sätestatud ülesannete täitmiseks.
+
+\[RT I, 23.09.2022, 1 - jõust. 12.10.2025 - kuupäeval, mille määrab Euroopa Komisjon Euroopa Parlamendi ja nõukogu määruse (EL) 2017/2226 artikli 66 lõike 1 kohaselt - Komisjoni rakendusotsus (EL) 2025/1544, 30. juuli 2025.\]
+
+## 6. peatükk — Andmekogu andmete säilitamine, järelevalve andmekogu pidamise üle, andmekogu pidamise rahastamine ja andmekogu likvideerimine
+
+### § 40. Andmekogu andmete säilitamine
+
+(1) \[Kehtetu - RT I, 25.04.2025, 5 - jõust. 28.04.2025\]
+
+(2) Käesoleva määruse § 9 lõike 1 punktis 14 nimetatud foto ja näokujutis ning punktis 15 nimetatud sõrmejäljekujutised, § 9 lõike 2 punktis 11 nimetatud foto ja näokujutis ning punktis 12 nimetatud sõrmejäljekujutised, § 10 punktis 1 nimetatud foto ja sõrmejäljekujutised, § 19 lõike 1 punktis 11 nimetatud foto ja näokujutis ning punktis 12 nimetatud sõrmejäljekujutised, § 27 punktis 1 nimetatud foto ja sõrmejäljekujutised ning § 28 lõike 1 punktis 1 nimetatud foto ning punktis 2 nimetatud foto ja sõrmejäljekujutised, mis on kantud andmekogu infotehnoloogilisse andmekogusse, kustutatakse viivitamata pärast isiku tuvastamise või isikusamasuse kontrollimise võrdlusuuringu tegemist.
+
+\[RT I, 26.08.2022, 1 - jõust. 29.08.2022\]
+
+### § 41. Järelevalve andmekogu pidamise üle
+
+Järelevalvet andmekogu pidamise üle teostatakse isikuandmete kaitse seaduse ning avaliku teabe seaduse kohaselt.
+
+### § 42. Andmekogu rahastamine
+
+Andmekogu hooldus- ja arendustöid ning pidamist rahastatakse riigieelarvest vastutavale ja volitatud töötlejale selleks eraldatud vahenditest.
+
+### § 43. Andmekogu likvideerimine
+
+(1) Andmekogu likvideerimise otsustab Vabariigi Valitsus valdkonna eest vastutava ministri ettepanekul.
+
+(2) Andmekogu likvideeritakse kooskõlas arhiiviseaduses ja avaliku teabe seaduses sätestatud nõuetega.
+
+## 7. peatükk — Rakendussätted
+
+### § 44. Tööloa ja elamisloa andmete välisriigi reisidokumendi kandmise andmed
+
+Tööloa ja selle pikendamise taotlemise, tööloa andmise, selle andmisest keeldumise ja kehtetuks tunnistamise, elamisloa andmete välisriigi reisidokumendi kandmise ja sellest keeldumise ning kleebise annulleerimise otsuse kohta andmekogusse varem kantud andmed säilitatakse, arhiveeritakse ja hävitatakse lähtuvalt käesolevas määruses sätestatust.
+
+### § 45. Määruse jõustumine
+
+Määrus jõustub 1. jaanuaril 2016. aastal.

@@ -1,0 +1,328 @@
+---
+title: "Tartu Tähtvere Riigikooli põhimäärus"
+identifier: "128082026013"
+rt_reference: "RT I, 28.08.2026, 13"
+rt_original: "RT I, 05.10.2011, 10"
+group_id: "1001425"
+type: regulation
+issuer: "Haridus- ja teadusminister"
+number: "57"
+text_type: "terviktekst"
+jurisdiction: ee
+language: et
+date: 2011-09-30
+last_amended: 2026-09-01
+status: in_force
+source: "https://www.riigiteataja.ee/akt/128082026013"
+retrieved: 2026-10-12
+---
+
+# Tartu Tähtvere Riigikooli põhimäärus
+
+Määrus kehtestatakse „Põhikooli- ja gümnaasiumiseaduse” § 66 lõike 2 alusel.
+
+## 1. peatükk — Üldsätted
+
+### § 1. Kooli nimetus
+
+Kooli nimetus on Tartu Tähtvere Riigikool (edaspidi *kool*).
+
+\[RT I, 27.06.2025, 3 - jõust. 01.07.2025\]
+
+### § 2. Kooli õiguslik seisund ja tegutsemise vorm
+
+(1) Kool on Haridus- ja Teadusministeeriumi hallatav riigiasutus.
+
+(2) Kooli tegutsemise vorm on põhikool ja gümnaasium, mis tegutsevad ühe asutusena.
+
+\[RT I, 27.06.2025, 3 - jõust. 01.07.2025\]
+
+(3) Kool on tõhustatud ja erituge vajavatele kõne-, kuulmis- ja nägemispuudega õpilastele.
+
+\[RT I, 27.06.2025, 3 - jõust. 01.07.2025\]
+
+### § 3. Kooli asukoht ja tegutsemiskoht
+
+(1) Kooli asukoht ja tegutsemiskohad on Tartu linnas, Tartu maakonnas.
+
+\[RT I, 27.06.2025, 3 - jõust. 01.07.2025\]
+
+(2) \[Kehtetu - RT I, 20.02.2018, 1 - jõust. 23.02.2018\]
+
+### § 4. Pitsat ja sümbolid
+
+Koolil on väikese riigivapi kujutise ja oma nimega pitsat ning sümbolid.
+
+### § 5. Asjaajamise keel ja õppekeel
+
+(1) Kooli asjaajamise keel on eesti keel.
+
+(2) Kooli õppekeel on eesti keel.
+
+### § 6. Kooli tegevuse eesmärgid ja ülesanded
+
+(1) Kooli tegevuse eesmärk on tagada hariduslike erivajadustega õpilastele võimalikult hea toimetulek edaspidises elus. Selleks toetab kool iga õpilase arengut, loob võimalused õpitu kasutamiseks praktikas ning väärtustab vaimset ja füüsilist tervist.
+
+\[RT I, 27.06.2025, 3 - jõust. 01.07.2025\]
+
+(2) Kooli ülesanne on tagada turvaline, nii vaimset kui ka füüsilist tervist arendav ning koostööd soosiv õpi- ja kasvukeskkond. Õpilastele on loodud parimad võimalused, et kooli lõpetamisel jätkata õpinguid. Oskusteabekeskusena toetab kool teistes haridusasutustes õppivaid noori.
+
+\[RT I, 27.06.2025, 3 - jõust. 01.07.2025\]
+
+(3) Kool täidab lisaks üldhariduse korraldamisele ka teisi seadusest ning ministri õigusaktidest tulenevaid haridusvaldkonna ülesandeid.
+
+\[RT I, 28.08.2026, 3 - jõust. 01.09.2026\]
+
+## 2. peatükk — Kooli õppe ja kasvatuse korraldus
+
+### § 7. Õppe ja kasvatuse korralduse alused
+
+(1) Koolis omandatakse põhiharidust ja üldkeskharidust statsionaarses õppes.
+
+(2) Õpingute alusdokumendiks on „Põhikooli riikliku õppekava”, „Gümnaasiumi riikliku õppekava” ja „Põhikooli lihtsustatud riikliku õppekava” alusel koostatud kooli õppekava.
+
+(3) Valikkursuste valikul arvestatakse õpilaste, lapsevanemate ja õpetajate ettepanekuid ning kooli võimalusi.
+
+(4) Koolis on võimalik kuulmispuudega õpilastel õppida põhikooli lihtsustatud riikliku õppekava lihtsustatud tasemel ja nägemispuudega õpilastel põhikooli lihtsustatud riikliku õppekava lihtsustatud ja toimetuleku tasemel.
+
+\[RT I, 27.06.2025, 3 - jõust. 01.07.2025\]
+
+### § 8. Hariduslike erivajadustega õpilaste klassid ja rühmad
+
+\[Kehtetu - RT I, 20.02.2018, 1 - jõust. 23.02.2018\]
+
+### § 9. Kooli raamatukogu
+
+Koolil on raamatukogu, mille põhiülesanne on toetada trükiste, audiovisuaalsete ja muude teabekandjate hoidmise ja kättesaadavaks tegemise kaudu kooli õppekava järgset õpet, arendada õpilaste iseseisva õpitöö ja teabe hankimise oskust ning lugemishuvi.
+
+## 3. peatükk — Kooli õppekavaväline tegevus
+
+### § 10. Kooli õppekavaväline tegevus
+
+(1) Lisaks õppetööle tegeleb kool ka õppekavavälise tegevusega, mis jaguneb kooli või kolmandate isikute poolt koolis korraldatud ja kooli õpilastele suunatud tegevusteks või kolmandatele isikutele pakutavateks teenusteks.
+
+\[RT I, 28.08.2026, 3 - jõust. 01.09.2026\]
+
+(2) Tingimusel, et see ei lähe vastuollu kooli põhitegevusega ja õigusaktides sätestatud nõuetega, võib kool osutada järgmisi teenuseid:
+
+1\) kooli korraldatud aineõppevälist huvitegevust;
+
+2\) sotsiaalhoolekande seaduses sätestatud rehabilitatsiooniteenust;
+
+3\) nägemis-, kuulmis- ja kõnepuudega isikutele, nendega töötavatele spetsialistidele ning nende pereliikmetele nõustamist ja koolitamist;
+
+4\) eelkooliealiste kuulmis- ja kõnepuudega laste kooliks ettevalmistusrühma teenuse osutamist;
+
+5\) õpikute, õppematerjalide ja õppevahendite kohandamist, koostamist ja levitamist;
+
+6\) kooli kasutuses oleva vara üürimist ning rentimist;
+
+7\) õppe ja kasvatusega seotud ürituste ja koolituste korraldamist.
+
+(3) Õppekavavälist tegevust, mis on kooli või kolmandate isikute poolt koolis korraldatud ja õpilastele suunatud, kajastatakse kooli päevakavas ja selle korraldamisel lähtutakse kooli kodukorrast.
+
+(4) Õppekavavälised tegevused võivad kooli poolt sätestatud korras olla tasulised või tasuta.
+
+(5) Juhul kui kooli poolt osutatav õppekavaväline tegevus on tasuline, siis selle eest võtab kool tasu teenuste hinnakirja alusel. Teenuste osutamise tingimused ja korra ning teenuste hinnakirja kehtestab direktor, esitades eelnevalt eelnõu koos kalkulatsioonidega arvamuse avaldamiseks kooli hoolekogule.
+
+\[RT I, 28.08.2026, 3 - jõust. 01.09.2026\]
+
+### § 11. Kooli õpilaskodu
+
+(1) Koolil on õpilaskodu, mis on kooli struktuuriüksus.
+
+(2) Õpilaskodus korraldatakse õppekavavälist tegevust, millega tagatakse õpilasele tema vajadustele ja huvidele vastavad õpi-, elamis- ja kasvatustingimused.
+
+(3) Õpilase elukorraldus õpilaskodus ning õpilaskodusse vastuvõtmise ja õpilaskodust väljaarvamise tingimused ja kord määratakse õpilaskodu kodukorras. Õpilaskodu kodukorra kehtestab kooli direktor, esitades selle enne õppenõukogule, hoolekogule ja õpilasesindusele, kes avaldavad selle kohta arvamust.
+
+(4) Õpilaskodus elamine on õpilase jaoks tasuta.
+
+## 4. peatükk — Kooli juhtimine
+
+### § 12. Direktor
+
+(1) Kooli juhib direktor. Direktor tagab koostöös õppenõukogu, kooli hoolekogu ja õpilasesindusega kooli tulemusliku ja häireteta töö ning kooli arengukava, õppekava ja kodukorra täitmise. Direktor juhib õppe- ja kasvatustegevust.
+
+(2) Direktor esindab kooli ja tegutseb kooli nimel ning teeb kooli eelarve piires tehinguid, mis on seotud õigusaktides, sealhulgas põhimääruses sätestatud ülesannete täitmisega.
+
+(3) Kooli direktor täidab talle õigusaktidega, töölepingu ning ametijuhendiga pandud ülesandeid, on kooli töötajate jaoks tööandja esindaja. Direktori äraolekuajaks määrab kooli pidaja talle direktori ettepanekul asendaja.
+
+\[RT I, 27.06.2025, 3 - jõust. 01.07.2025\]
+
+(4) Direktor võib moodustada õppe- ja kasvatustegevuse ning koolieluga seotud küsimuste lahendamiseks nõuandvaid komisjone.
+
+(5) Direktor vastutab oma pädevuse piires õppe- ja kasvatustegevuse ning muu kooli tegevuse, kooli üldseisundi ja arengu ning kooli varade, seahulgas eelarvevahendite õiguspärase ja otstarbeka kasutamise eest.
+
+(6) Direktor esitab Haridus- ja Teadusministeeriumile viimase nõudel kooli tegevust kajastavaid andmeid ja dokumente.
+
+### § 13. Kooli hoolekogu
+
+(1) Hoolekogu on alaliselt tegutsev organ, kelle ülesanne on kooli õpilaste, õpetajate, Haridus- ja Teadusministeeriumi, õpilaste vanemate, vilistlaste ja kooli toetavate organisatsioonide ühistegevus õppe ja kasvatuse suunamisel, kavandamisel ja jälgimisel ning õppeks ja kasvatuseks paremate tingimuste loomine.
+
+\[RT I, 03.09.2013, 4 - jõust. 06.09.2013\]
+
+(2) Kooli hoolekogu täidab oma ülesandeid „Põhikooli- ja gümnaasiumiseaduses” ja teistes õigusaktides sätestatu alusel.
+
+### § 14. Kooli õppenõukogu
+
+Koolil on õppenõukogu, mille ülesanne on oma pädevuse piires õppe ja kasvatuse analüüsimine ja hindamine ning õppe- ja kasvatusalaste otsuste tegemine.
+
+\[RT I, 03.09.2013, 4 - jõust. 06.09.2013\]
+
+## 5. peatükk — Õpilaste, vanemate ja töötajate õigused ja kohustused
+
+### § 15. Õpilaste õigused
+
+Õpilasel on õigus:
+
+1\) võtta osa õppetööst;
+
+2\) saada õppekavas ettenähtu omandamiseks täiendavalt õpiabi sealhulgas tugimeetmete rakendamist „Põhikooli- ja gümnaasiumiseaduse” ning selle alusel sätestatud tingimustel ja korras;
+
+3\) võtta osa õppekavavälisest tegevusest, mis on ette nähtud kooli päevakavas;
+
+4\) luua koolis ühinguid, klubisid, ringe ja stuudioid ning osaleda nende töös, arvestades õigusaktides sätestatut;
+
+5\) kasutada kooli rajatisi, ruume, raamatukogu, õppe-, spordi- ja tehnilisi vahendeid õppekavaväliseks tegevuseks kooli direktori kehtestatud korras tasuta;
+
+6\) moodustada koolis õpilasesindus, kes esindab õpilaskonda koolisisestes suhetes ning suhetes teiste organisatsioonide, asutuste ja isikutega, ning osaleda selle töös;
+
+7\) osaleda õpilasesindajate kaudu koolielu korraldamises;
+
+8\) saada koolist teavet koolikorralduse ja oma õiguste kohta;
+
+9\) teha kooli direktorile ja teistele õppe- ja kasvatusalal töötavatele isikutele ettepanekuid õppe- ja kasvatustegevuse ning õppekavavälise tegevuse kohta;
+
+\[RT I, 03.09.2013, 4 - jõust. 06.09.2013\]
+
+10\) \[kehtetu - RT I, 27.06.2025, 3 - jõust. 01.07.2025\]
+
+11\) pöörduda õppe- ja kasvatustegevust puudutavate vaidlusküsimuste lahendamiseks kooli juhtkonna, hoolekogu ning Haridus- ja Teadusministeeriumi poole;
+
+12\) kasutada muid õigusi, mis on ette nähtud kooli tegevust reguleerivates õigusaktides.
+
+### § 16. Õpilaste kohustused
+
+Õpilane on kohustatud:
+
+1\) osalema õppetöös õpilase jaoks koolis ettenähtud tunniplaani ja õppekorralduse kohaselt;
+
+2\) täitma õpiülesandeid ning omandama teadmisi ja oskusi oma võimete kohaselt;
+
+3\) täitma mõjutusmeetmeid ja kasutama tugimeetmeid;
+
+4\) suhtuma kaasinimestesse lugupidavalt ja järgima üldtunnustatud moraalinorme;
+
+5\) täitma kooli kodukorda;
+
+6\) hoidma kooli head mainet;
+
+7\) järgima tervislikke eluviise;
+
+8\) hoidma kooli kasutuses olevat vara;
+
+9\) täitma teisi õigusaktidest tulenevaid kohustusi.
+
+### § 17. Esimese õpilasesinduse valimise ning õpilaskonna poolt õpilasesinduse põhimääruse heakskiitmise kord
+
+(1) Direktor korraldab õpilaste teavitamise „Põhikooli- ja gümnaasiumiseadusest” tulenevast õigusest valida õpilasesindus. Direktor korraldab esimese õpilasesinduse valimise juhul, kui selleks on soovi avaldanud 1/10 kooli õpilaskonnast.
+
+(2) Esimene õpilasesindus valitakse õpilaskonna üldkoosolekul. Koosolek on otsustusvõimeline, kui sellest võtab osa vähemalt 2/3 õpilaskonnast. Kui õpilaskonna üldkoosolek ei ole otsustusvõimeline, kutsub direktor kokku uue üldkoosoleku hiljemalt järgmisel poolaastal.
+
+(3) Õpilasesinduse liikmete arvu otsustab õpilaskonna üldkoosolek lihthäälteenamusega. Õpilasesinduse liikmete valimiseks on igal üldkoosolekul osalejal õpilasesinduse liikmete arvule vastav häälte arv. Õpilasesinduse liikmeteks valitakse koosolekul enam hääli saanud õpilased.
+
+(4) Kui esimene õpilasesindus on valitud, koostab õpilaskond õpilasesinduse põhimääruse, milles neid toetab direktori määratud koolitöötaja. Õpilasesinduse põhimäärus ja selle muudatused kiidetakse heaks õpilaskonna üldkoosolekul, mis on otsustusvõimeline, kui sellest võtab osa vähemalt 2/3 õpilaskonnast. Õpilasesinduse põhimäärus kiidetakse heaks lihthäälteenamusega.
+
+(5) Käesoleva paragrahvi lõigetes 2 ja 4 sätestatud õpilaskonna üldkoosoleku kutsub kokku direktor, kes teavitab õpilasi koosoleku toimumise ajast ja kohast kooli infotahvlil või muul neile kõige enam kättesaadaval viisil vähemalt kaks nädalat ette.
+
+### § 18. Vanemate õigused ja kohustused
+
+(1) Vanemal on õigus:
+
+1\) saada koolist teavet oma lapse kohta ning selgitusi õppe- ja kasvatustegevuse teemal;
+
+2\) teha koolielu korralduse kohta ettepanekuid;
+
+3\) taotleda haridus- ja teadusministri määrusega kehtestatud korras oma lapsele koduõppe rakendamist;
+
+4\) taotleda koolilt või lapse elukohajärgselt valla- või linnavalitsuselt oma lapse koolikohustuse täitmise tagamiseks meetmete rakendamist;
+
+5\) otsustada õigusaktides sätestatud juhtudel oma lapsele kooli pakutavate tugimeetmete rakendamise üle;
+
+6\) osaleda vanemate koosolekul;
+
+7\) kandideerida kooli hoolekogusse;
+
+8\) pöörduda õppe- ja kasvatustegevust puudutavate vaidlusküsimuste lahendamiseks kooli juhtkonna, hoolekogu ning Haridus- ja Teadusministeeriumi poole.
+
+(2) Vanem on kohustatud võimaldama ja soodustama koolikohustuse täitmist, sealhulgas:
+
+1\) looma oma koolikohustuslikule lapsele kodus õppimist soodustavad tingimused ja õppes osalemise eeldused;
+
+2\) esitama koolile oma kontaktandmed ja teavitama kooli nende muutumisest;
+
+3\) tutvuma koolielu reguleerivate aktidega;
+
+4\) tegema „Põhikooli- ja gümnaasiumiseaduses” ning selle alusel kehtestatud õigusaktides sätestatud tingimustel ja korras kooliga koostööd;
+
+5\) kasutama meetmeid, mida talle pakub kool või elukohajärgne valla- või linnavalitsus;
+
+6\) pöörduma kooli ettepanekul koolivälise nõustamismeeskonna poole;
+
+\[RT I, 20.02.2018, 1 - jõust. 23.02.2018\]
+
+7\) taotlema vajaduse korral koolilt ja oma lapse elukohajärgselt valla- või linnavalitsuselt õigusaktides sätestatud koolikohustuse täitmise tagamise meetmete rakendamist.
+
+### § 19. Töötajate õigused ja kohustused
+
+(1) Töötajal on õigus:
+
+1\) saada koolilt teavet õppe- ja töökorralduse reeglite kohta;
+
+2\) saada „Täiskasvanute koolituse seaduses” ja koolis sätestatud tingimuste kohaselt erialast ja pedagoogilist täienduskoolitust;
+
+3\) töötada õigusaktides sätestatud nõuetele vastavates töötingimustes;
+
+4\) kasutada kooli eesmärkidest tulenevaks õppekavaväliseks tegevuseks kooli ruume, raamatukogu, õppe-, spordi-, tehnilisi ja muid vahendeid kooli direktori kehtestatud tingimustel ja korras tasuta;
+
+5\) esitada direktorile ja hoolekogule õppetegevuse ja töökorralduse parendamise ettepanekuid;
+
+6\) kasutada muid õigusaktides sätestatud töötajate õigusi.
+
+(2) Õpetajate ja teiste õppe- ja kasvatusalal töötavate isikute ülesanne on tagada õpilaste areng õppe- ja kasvatustegevuse abil, mis tugineb ühiselt seatud eesmärkidele ja kokku lepitud hindamispõhimõtetele. Teiste töötajate ülesanne on tagada kooli häireteta töö ja majanduslik teenindamine.
+
+\[RT I, 03.09.2013, 4 - jõust. 06.09.2013\]
+
+(3) Töötajad on kohustatud lähtuma oma ülesannete täitmisel kooli arengukavas sätestatud põhimõtetest ja väärtustest ning tuginema nii omavahelises suhtluses kui ka suhtluses õpilaste ja nende vanematega vastastikusele lugupidamisele, üksteisemõistmisele ja koostööle.
+
+(4) Töötajate täpsemad õigused, kohustused ja vastutus määratakse kindlaks tööandja kehtestatud töökorralduse reeglite, ametijuhendi ja töölepinguga.
+
+## 6. peatükk — Kooli majandamise ja asjaajamise alused
+
+### § 20. Kooli vara ja eelarve
+
+(1) Kooli kasutuses oleva vara moodustavad maa, hooned, rajatised, seadmed, inventar, muu vara ja eelarvevahendid, mille Haridus- ja Teadusministeerium on koolile andnud sihtotstarbeliseks kasutamiseks ja valdamiseks.
+
+(2) Kool kasutab ja valdab tema kasutuses ning valduses olevat vara „Riigieelarve seaduse”, „Riigivaraseaduse” ja teiste õigusaktide kohaselt.
+
+(3) Koolil on oma eelarve, mille kinnitab haridus- ja teadusminister.
+
+(4) Kooli tegevuse rahastamine toimub kooli eelarve kaudu, mis moodustub riigieelarvest, laekumistest sihttoetusteks, annetustest ja käesoleva määruse § 10 lõikes 5 nimetatud kooli osutavatest teenustest saadud tuludest.
+
+### § 21. Asjaajamine ja aruandlus
+
+(1) Asjaajamine tugineb Vabariigi Valitsuse 25. mai 2017. a määrusele nr 88 „Teenuste korraldamise ja teabehalduse alused”.
+
+\[RT I, 20.02.2018, 1 - jõust. 23.02.2018\]
+
+(2) Kooli õppe- ja kasvatustegevuse alaste kohustuslike dokumentide täitmisel ja pidamisel lähtub kool haridus- ja teadusministri määrusega kehtestatud kooli õppe- ja kasvatustegevuse alaste kohustuslike dokumentide loetelust, vormidest ja nende täitmise korrast.
+
+(3) Kool annab oma tegevuse kohta aru õigusaktidega sätestatud korras ja tähtaegadel.
+
+## 7. peatükk — Rakendussätted
+
+\[RT I, 27.06.2025, 3 - jõust. 01.07.2025\]
+
+### § 22. Määruse kehtetuks tunnistamine
+
+\[Käesolevast tekstist välja jäetud.\]
