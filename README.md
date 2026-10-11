@@ -106,7 +106,7 @@ riigiteataja.ee.
 - Riigi Teataja also publishes bulk open data at <https://www.riigiteataja.ee/avaandmed/ERT/>
   (`xml.<year>.zip`, `xml.<year>.en.zip`). These yearly archives hold every version of every act
   (the 2026 archive alone is 43 GB, with 254,000 XML files) and give no in-force index. That is why
-  this corpus uses the API to pick the current versions and downloads only those (about 1.4 GB of
+  this corpus uses the API to pick the current versions and downloads only those (about 4 GB of
   XML). The API returns the same XML documents.
 - robots.txt was respected: it has no Crawl-delay, and none of the fetched paths are disallowed. The
   scripts used at most 3 concurrent requests with a descriptive User-Agent.
